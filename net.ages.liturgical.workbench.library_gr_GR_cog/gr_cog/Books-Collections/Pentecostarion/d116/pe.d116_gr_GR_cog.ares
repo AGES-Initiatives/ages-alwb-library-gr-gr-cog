@@ -1,0 +1,66 @@
+A_Resource_Whose_Name = pe.d116_gr_GR_cog
+
+peCommemoration.text = "" //full title of day
+peShortCommemoration1.text = ""
+peInsert1 = "" //for use in petitions and dismissal
+peInsert2 = "" //for use in petitions and dismissal
+peNote.text = ""
+peDismissal = dismissals_gr_GR_cog.dis00.ascension
+
+peVE.Stichera01.mode = misc_gr_GR_cog.Mode4
+peVE.Stichera01.melody = he.a.m4_gr_GR_cog.OsGennaionEnMartysi.name
+peVE.Stichera01.text = "Καθορώντων τῶν θείων σου, Μαθητῶν ἀνελήλυθας, εἰς τὰ ἐπουράνια καὶ ἐκάθισας, ἐν δεξιᾷ τοῦ Γεννήτορος, ὁ τούτου ἀχώριστος, ὑπερούσιε Υἱέ, καὶ ὡς εἶπας ἀπέστειλας, τὸν Παράκλητον, οὐρανοὺς ἐπιγείους ἐκτελοῦντα, τοὺς σοφοὺς καὶ θεηγόρους, καὶ ἱερούς, Ἀποστόλους σου."
+
+peVE.Stichera02.mode = misc_gr_GR_cog.Mode4
+peVE.Stichera02.melody = he.a.m4_gr_GR_cog.OsGennaionEnMartysi.name
+peVE.Stichera02.text = "Ἐσαρκώθης δι' ἄφατον, Ἰησοῦ ἀγαθότητα, καὶ Σταυρὸν καὶ θάνατον, ὁ ἀθάνατος, ἐθελουσίως ὑπέμεινας, καὶ αὖθις τριήμερος, ἀναστὰς ἐκ τῶν νεκρῶν, μεθ' ἡμέρας τεσσαράκοντα, ἀνελήλυθας· ὅθεν πρῴην κατῆλθες, εἰρηνεύσας, τὰ ἐπίγεια, καὶ πάντας, προσαγαγὼν τῷ Γεννήτορι."
+
+peVE.Stichera03.mode = misc_gr_GR_cog.Mode4
+peVE.Stichera03.melody = he.a.m4_gr_GR_cog.OsGennaionEnMartysi.name
+peVE.Stichera03.text = "Ἐν νεφέλαις ὡς εἶδόν σε, ἐπαιρόμενον Κύριε, οἱ σοφοὶ Ἀπόστολοι ὀδυρόμενοι, καὶ κατηφείας πληρούμενοι, ἐβόων σὺν δάκρυσι· Μὴ ἐάσῃς ὀρφανούς, οὓς δι' οἶκτον ἠγάπησας, ἀλλ' ἀπόστειλον, ἐφ' ἡμᾶς, ὡς ὑπέσχου, πανοικτίρμον τὸ πανάγιόν σου Πνεῦμα, φωταγωγοῦν τὰς ψυχάς, ἡμῶν."
+
+peVE.SticGlory.mode = misc_gr_GR_cog.Mode5
+peVE.SticGlory.melody = misc_gr_GR_cog.Idiomelon
+peVE.SticGlory.text = "Δεῦτε τῶν πιστῶν τὸ σύστημα, τοὺς νόας μυηθέντες τῶν Μαθητῶν τοῦ Χριστοῦ, ἄληκτον ὕμνον εἴπωμεν, ἐπὶ τοῦ Ἐλαιῶνος, ὡς οἱ Ἀπόστολοι, μετὰ Δαυῒδ βοήσωμεν· Ἀνέβη ὁ Θεὸς ἐν ἀλαλαγμῷ, Κύριος ἐν φωνῇ σάλπιγγος, ἵνα ῥύσηται τὰς φυλὰς τῶν βροτῶν, ἐκ τῶν σκανδάλων τοῦ ἀλάστορος, καὶ φωτίσῃ τὰς ψυχὰς ἡμῶν."
+
+peVE.Aposticha1.mode = pe.d111_gr_GR_cog.peMA.Aposticha1.mode
+peVE.Aposticha1.melody = pe.d111_gr_GR_cog.peMA.Aposticha1.melody
+peVE.Aposticha1.text = pe.d111_gr_GR_cog.peMA.Aposticha1.text
+
+
+peVE.Aposticha2.mode = pe.d111_gr_GR_cog.peMA.Aposticha2.mode
+peVE.Aposticha2.melody = pe.d111_gr_GR_cog.peMA.Aposticha2.melody
+peVE.Aposticha2.text = pe.d111_gr_GR_cog.peMA.Aposticha2.text
+
+
+peVE.Aposticha3.mode = pe.d111_gr_GR_cog.peMA.Aposticha3.mode
+peVE.Aposticha3.melody = pe.d111_gr_GR_cog.peMA.Aposticha3.melody
+peVE.Aposticha3.text = pe.d111_gr_GR_cog.peMA.Aposticha3.text
+
+peVE.AposGlory.mode = pe.d111_gr_GR_cog.peMA.AposGlory.mode
+peVE.AposGlory.melody = pe.d111_gr_GR_cog.peMA.AposGlory.melody
+peVE.AposGlory.text = pe.d111_gr_GR_cog.peMA.AposGlory.text
+
+peMA.Kathisma11.mode = misc_gr_GR_cog.Mode4
+peMA.Kathisma11.melody = he.a.m4_gr_GR_cog.EpefanisSimeron.name
+peMA.Kathisma11.text = "Πρὸς τὸν σὸν Γεννήτορα παλινδρομήσας, παντουργὲ τοὺς δούλους σου, μὴ καταλίπῃς ὀρφανούς, οἱ Μαθηταὶ ὡς κατεῖδόν σε, ἀναληφθέντα, ἐβόων φιλάνθρωπε."
+
+peMA.Kathisma21.mode = misc_gr_GR_cog.Mode4
+peMA.Kathisma21.melody = he.a.m4_gr_GR_cog.EpefanisSimeron.name
+peMA.Kathisma21.text = "Οἱ κλεινοὶ διάκοσμοι τῶν θείων νόων, τὸν τῆς δόξης Κύριον, ἀναληφθέντα ἐμφανῶς, μετὰ σαρκὸς θεασάμενοι, Πύλας ἐβόων ἀλλήλοις ἐπάρατε."
+
+peMA.Aposticha1.mode = misc_gr_GR_cog.Mode6
+peMA.Aposticha1.melody = he.a.m6_gr_GR_cog.TriimerosAnestis.name
+peMA.Aposticha1.text = "Δι' ἄκραν εὐσπλαγχνίαν Χριστέ, ἐτέχθης ἐκ Παρθένου σαρκί, ἑκουσίως· ὑπομείνας δὲ Σταυρόν, τριήμερος ἀνέστης, ἐκ τάφου πανοικτίρμον, συναναστήσας καὶ ζωώσας ἡμᾶς."
+
+peMA.Aposticha2.mode = misc_gr_GR_cog.Mode6
+peMA.Aposticha2.melody = he.a.m6_gr_GR_cog.TriimerosAnestis.name
+peMA.Aposticha2.text = "Ὁρώντων σε Χριστὲ ὁ Θεός, τῶν θείων Μαθητῶν ἐμφανῶς, ἀνελήφθης, ἀπὸ γῆς πρὸς οὐρανόν, καὶ τούτοις ἐπηγγείλω, ἐκπέμψειν Ζωοδότα, ἐκ τοῦ Πατρὸς Πνεῦμα τὸ ἅγιον."
+
+peMA.Aposticha3.mode = misc_gr_GR_cog.Mode6
+peMA.Aposticha3.melody = he.a.m6_gr_GR_cog.TriimerosAnestis.name
+peMA.Aposticha3.text = "Ξενίζεται Ἀγγέλων πληθύς, τὸ ξένον τῆς ἀνόδου σου, καὶ φρικῶδες, Ἰησοῦ παμβασιλεῦ, καὶ πύλας οὐρανίους, διαίρειν ἐπεβόων, ταῖς ἀνωτέραις νῦν δυνάμεσι."
+
+peMA.AposGlory.mode = pe.d110_gr_GR_cog.peVE.SticGlory.mode
+peMA.AposGlory.melody = pe.d110_gr_GR_cog.peVE.SticGlory.melody
+peMA.AposGlory.text = pe.d110_gr_GR_cog.peVE.SticGlory.text

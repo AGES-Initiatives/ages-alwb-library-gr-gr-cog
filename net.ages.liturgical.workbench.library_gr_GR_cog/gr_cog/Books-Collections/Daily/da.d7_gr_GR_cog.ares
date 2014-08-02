@@ -1,0 +1,41 @@
+A_Resource_Whose_Name = da.d7_gr_GR_cog 
+
+daDay.text = "Σάββατον."
+daCommemoration.text = "Νεκρώσιμον."
+
+daVE.OnTheAfternoonBefore = template.titles_gr_GR_cog.d.onFridayAfternoon
+daVE.OnTheEveningBefore = template.titles_gr_GR_cog.d.onFridayEvening
+
+daVE.Apolytikion1.mode = misc_gr_GR_cog.Mode2
+daVE.Apolytikion1.melody  = ""
+daVE.Apolytikion1.text = oc.m2.d5_gr_GR_cog.ocMA.Kathisma32.text
+
+daVE.Apolytikion2.mode = misc_gr_GR_cog.Mode2
+daVE.Apolytikion2.melody  = ""
+daVE.Apolytikion2.text = oc.m2.d7_gr_GR_cog.ocMA.Kathisma23.text
+
+daVE.ApolTheotokion.mode = misc_gr_GR_cog.Mode2
+daVE.ApolTheotokion.melody  = ""
+daVE.ApolTheotokion.text = oc.m2.d2_gr_GR_cog.ocMA.ApolTheotokion.text
+
+daMA.Photagogic1Ending.text = prayers_gr_GR_cog.fePresveiaisTonAgionKaiSosonMe
+daMA.Photagogic2Ending.text = prayers_gr_GR_cog.fePresveiaisTisTheotokou
+
+daMA.Photagogic1Beginning.text = prayers_gr_GR_cog.fbPresveiaisKyrieTonAgion
+daMA.Photagogic2Beginning.text = prayers_gr_GR_cog.fbPresveiaisKyrieTisTheotokou
+
+daMA.Exaposteilarion1.mode = misc_gr_GR_cog.Mode3
+daMA.Exaposteilarion1.melody = misc_gr_GR_cog.Automelon
+daMA.Exaposteilarion1.text = he.a.m3_gr_GR_cog.OOuranonToisAstrois.text
+
+daMA.Exaposteilarion2.mode = misc_gr_GR_cog.Mode3
+daMA.Exaposteilarion2.melody = he.a.m3_gr_GR_cog.OOuranonToisAstrois.name
+daMA.Exaposteilarion2.text = "Ὁ καὶ νεκρῶν καὶ ζώντων, ἐξουσιάζων ὡς Θεός, ἀνάπαυσον τοὺς σοὺς δούλους, ἐν ταῖς σκηναῖς τῶν ἐκλεκτῶν· εἰ γὰρ καὶ ἥμαρτον Σῶτερ, ἀλλ' οὐκ ἀπέστησαν ἐκ σοῦ."
+
+daMA.ExapTheotokion.mode = misc_gr_GR_cog.Mode3
+daMA.ExapTheotokion.melody = he.a.m3_gr_GR_cog.OOuranonToisAstrois.name
+daMA.ExapTheotokion.text = "Ὁ γλυκασμὸς τῶν Ἀγγέλων, τῶν θλιβομένων ἡ χαρά, Χριστιανῶν ἡ προστάτις, Παρθένε Μήτηρ Κυρίου, ἀντιλαβοῦ μου καὶ ῥῦσαι, τῶν αἰωνίων βασάνων."
+
+daLI.CommunionHymn.text = "" //for media
+
+daLI.CommunionHymnAlt.text = ""

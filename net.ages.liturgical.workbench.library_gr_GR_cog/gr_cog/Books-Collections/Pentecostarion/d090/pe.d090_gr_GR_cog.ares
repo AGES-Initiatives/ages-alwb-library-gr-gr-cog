@@ -1,0 +1,96 @@
+A_Resource_Whose_Name = pe.d090_gr_GR_cog
+
+peCommemoration.text = "" //full title of day
+peShortCommemoration1.text = ""
+peInsert1 = "" //for use in petitions and dismissal
+peInsert2 = "" //for use in petitions and dismissal
+peNote.text = ""
+peDismissal = dismissals_gr_GR_cog.dis00.resurrection
+
+peVE.Stichera01.mode = misc_gr_GR_cog.Mode8
+peVE.Stichera01.melody = he.a.m8_gr_GR_cog.OTouParadoxou.name
+peVE.Stichera01.text = "Χριστοῦ φανέντος τοῖς ἴχνεσιν, ἀκολουθοῦσαι σεμναί, καὶ αὐτὸν θεραπεύουσαι, γνώμης προθυμότατα, Μυροφόροι εὐθύτητι, οὐδὲ θανόντα τοῦτον ἐλίπετε· ἀλλ' ἀπελθοῦσαι μύρα σὺν δάκρυσιν, ἀπεκομίσατε συμπαθῶς κινούμεναι· ὅθεν ὑμῶν, μνήμην τὴν πανίερον, πανηγυρίζομεν."
+
+peVE.Stichera02.mode = misc_gr_GR_cog.Mode8
+peVE.Stichera02.melody = he.a.m8_gr_GR_cog.OTouParadoxou.name
+peVE.Stichera02.text = "Θείων γυναικῶν κατάλογος βλέψαι ποθῶν τὴν ζωήν, νεκρωθεῖσαν ἐν μνήματι νυκτὸς παρεγένετο, καὶ Ἀγγέλων ἀκήκοε. Καθὼς προέφη, Χριστὸς ἐγήγερται, σπουδῇ τοῖς τούτου Μαθηταῖς εἴπατε, καὶ τὴν κατήφειαν, ἐκ ψυχῆς ἀπώσασθε, ἀντὶ κλαυθμοῦ, χαρὰν ἀνεκλάλητον, ἀναλαβόμεναι."
+
+peVE.Stichera03.mode = misc_gr_GR_cog.Mode8
+peVE.Stichera03.melody = he.a.m8_gr_GR_cog.OTouParadoxou.name
+peVE.Stichera03.text = "Σήμερον πιστοὶ χορεύσομεν, ἐπὶ τῇ μνήμῃ ὑμῶν, Μυροφόροι δοξάζοντες, τὸν ὑμᾶς δοξάσαντα, ὑπεράγαθον Κύριον, ὃν δυσωπεῖτε ἀπαύστως πάνσεμνοι, αἰωνιζούσης δόξης τυχεῖν ἡμᾶς, καὶ τῆς λαμπρότητος, τῶν Ἁγίων ἔχουσαι τὴν πρὸς αὐτόν, παρρησίαν πάντοτε, θεομακάριστοι."
+
+peVE.SticGlory.mode = misc_gr_GR_cog.Mode2
+peVE.SticGlory.melody = misc_gr_GR_cog.Idiomelon
+peVE.SticGlory.text = pe.d085_gr_GR_cog.peVE.Stichera10.text
+
+peVE.Aposticha1.mode = misc_gr_GR_cog.Mode2
+peVE.Aposticha1.melody  = ""
+peVE.Aposticha1.text = oc.m2.d6_gr_GR_cog.ocMA.Aposticha1.text
+
+
+peVE.Aposticha2.mode = misc_gr_GR_cog.Mode2
+peVE.Aposticha2.melody  = ""
+peVE.Aposticha2.text = oc.m2.d1_gr_GR_cog.ocVE.Stichera1.text
+
+
+peVE.Aposticha3.mode = misc_gr_GR_cog.Mode2
+peVE.Aposticha3.melody  = ""
+peVE.Aposticha3.text = oc.m2.d6_gr_GR_cog.ocVE.Aposticha3.text
+
+peVE.AposGlory.mode = misc_gr_GR_cog.Mode6
+peVE.AposGlory.melody = misc_gr_GR_cog.Idiomelon
+peVE.AposGlory.text = pe.d085_gr_GR_cog.peVE.LityGlory.text
+
+peMA.Kathisma11.mode = misc_gr_GR_cog.Mode2
+peMA.Kathisma11.melody  = ""
+peMA.Kathisma11.text = oc.m2.d6_gr_GR_cog.ocMA.Kathisma21.text
+
+peMA.Kathisma12.mode = misc_gr_GR_cog.Mode2
+peMA.Kathisma12.melody  = ""
+peMA.Kathisma12.text = oc.m2.d1_gr_GR_cog.ocMA.Kathisma21.text
+
+peMA.Kathisma13.mode = misc_gr_GR_cog.Mode2
+peMA.Kathisma13.melody  = ""
+peMA.Kathisma13.text = "Ὅτε τοῖς ἄθλοις ἠγωνίσαντο τοῦ Κυρίου οἱ Μάρτυρες, τότε τὸ θράσος ἠμαύρωται τῶν ἀσεβῶν διὰ πίστεως· ὅτε δὲ τὴν πλάνην τῶν εἰδώλων ἐνθέως κατήργησαν, τότε τοὺς στεφάνους τῆς νίκης ἐδέξαντο ἄνωθεν, καὶ πρεσβεύουσιν ὑπὲρ τῶν ψυχῶν ἡμῶν."
+
+peMA.Kathisma1T.mode = misc_gr_GR_cog.Mode2
+peMA.Kathisma1T.melody  = ""
+peMA.Kathisma1T.text = oc.m2.d4_gr_GR_cog.ocMA.Kathisma13.text
+
+peMA.Kathisma21.mode = misc_gr_GR_cog.Mode2
+peMA.Kathisma21.melody = he.a.m2_gr_GR_cog.TaAnoZiton.name
+peMA.Kathisma21.text = pe.d085_gr_GR_cog.peMA.Ode3Kathisma1.text
+
+peMA.Lauds1.mode = misc_gr_GR_cog.Mode2
+peMA.Lauds1.melody  = ""
+peMA.Lauds1.text = oc.m2.d6_gr_GR_cog.ocVE.Aposticha2.text
+
+peMA.Lauds2.mode = misc_gr_GR_cog.Mode2
+peMA.Lauds2.melody  = ""
+peMA.Lauds2.text = oc.m2.d1_gr_GR_cog.ocMA.Lauds1.text
+
+peMA.Lauds3.mode = misc_gr_GR_cog.Mode2
+peMA.Lauds3.melody  = ""
+peMA.Lauds3.text = oc.m2.d6_gr_GR_cog.ocMA.Aposticha3.text
+
+peMA.LaudsGlory.mode = misc_gr_GR_cog.Mode1
+peMA.LaudsGlory.melody = misc_gr_GR_cog.Idiomelon
+peMA.LaudsGlory.text = pe.d085_gr_GR_cog.peVE.Lity1.text
+
+peMA.Aposticha1.mode = misc_gr_GR_cog.Mode2
+peMA.Aposticha1.melody = he.a.m2_gr_GR_cog.OteEkTouXylou.name
+peMA.Aposticha1.text = "Χαίρουσι Μαθήτριαι Χριστοῦ, τῶν ἐκ τοῦ, Ἀγγέλου ῥημάτων, ἐπακροώμεναι· ὅθεν τὴν Ἀνάστασιν, τοῦ δι' ἡμᾶς ἐν νεκροῖς, λογισθέντος πιστούμεναι, κἂν πρὶν Μυροφόροι, τάφῳ παρειστήκεισαν, καὶ ἐθρηνῴδουν αὐτόν, λίθον ἀναβλέπουσι τούτου, ἀποκυλισθέντα ἀθρόον, οὗ διηποροῦντο τὴν μετάθεσιν."
+
+
+peMA.Aposticha2.mode = misc_gr_GR_cog.Mode2
+peMA.Aposticha2.melody = he.a.m2_gr_GR_cog.OteEkTouXylou.name
+peMA.Aposticha2.text = "Ἄληκτον καὶ θείαν χαρμονήν, ἐπιχορηγοῦσαι τοῖς θείοις, καὶ ἱεροῖς Μαθηταῖς, ὤφθησαν Μαθήτριαι, αἱ Μυροφόροι Χριστοῦ, ἐκπληροῦσαι τὸ κέλευσμα τοῦ θείου Ἀγγέλου, οὗ ἐξεθαμβήθησαν, τὴν λευκοφόρον στολήν, λέγουσαι· Ἐσκύλευται ᾍδης, τῇ πανσωστικῇ Ἀναστάσει, τοῦ ὑπὲρ ἡμῶν θανόντος Ἄνακτος."
+
+
+peMA.Aposticha3.mode = misc_gr_GR_cog.Mode2
+peMA.Aposticha3.melody = he.a.m2_gr_GR_cog.OteEkTouXylou.name
+peMA.Aposticha3.text = "Ῥεῖθρα δακρυρρόου ἐκ πηγῆς, θρήνων ἀναστείλασαι θεῖαι, Χριστοῦ Μαθήτριαι, ῥήματα χαρμόσυνα, διαπορθμεύουσι νῦν, τοῖς αὐτόπταις τῆς χάριτος, μηνύουσαι τούτοις, τὴν τοῦ Λόγου Ἔγερσιν, καὶ τὴν ἐκ τάφου χαράν· ὅθεν τὴν ἀντίθετον λύπης, ἤκουον φωνὴν παραδόξως, ταύταις τὴν τὸ Χαίρετε, προστάττουσαν."
+
+peMA.AposGlory.mode = misc_gr_GR_cog.Mode1
+peMA.AposGlory.melody = misc_gr_GR_cog.Idiomelon
+peMA.AposGlory.text = pe.d085_gr_GR_cog.peVE.Lity2.text

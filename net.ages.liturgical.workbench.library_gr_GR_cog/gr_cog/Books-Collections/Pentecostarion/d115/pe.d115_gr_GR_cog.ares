@@ -1,0 +1,66 @@
+A_Resource_Whose_Name = pe.d115_gr_GR_cog
+
+peCommemoration.text = "" //full title of day
+peShortCommemoration1.text = ""
+peInsert1 = "" //for use in petitions and dismissal
+peInsert2 = "" //for use in petitions and dismissal
+peNote.text = ""
+peDismissal = dismissals_gr_GR_cog.dis00.ascension
+
+peVE.Stichera01.mode = pe.d112_gr_GR_cog.peVE.Stichera01.mode
+peVE.Stichera01.melody = pe.d112_gr_GR_cog.peVE.Stichera01.melody
+peVE.Stichera01.text = pe.d112_gr_GR_cog.peVE.Stichera01.text
+
+peVE.Stichera02.mode = pe.d112_gr_GR_cog.peVE.Stichera02.mode
+peVE.Stichera02.melody = pe.d112_gr_GR_cog.peVE.Stichera02.melody
+peVE.Stichera02.text = pe.d112_gr_GR_cog.peVE.Stichera02.text
+
+peVE.Stichera03.mode = pe.d112_gr_GR_cog.peVE.Stichera03.mode
+peVE.Stichera03.melody = pe.d112_gr_GR_cog.peVE.Stichera03.melody
+peVE.Stichera03.text = pe.d112_gr_GR_cog.peVE.Stichera03.text
+
+peVE.SticGlory.mode = pe.d110_gr_GR_cog.peVE.Lity4.mode
+peVE.SticGlory.melody = pe.d110_gr_GR_cog.peVE.Lity4.melody
+peVE.SticGlory.text = pe.d110_gr_GR_cog.peVE.Lity4.text
+
+peVE.Aposticha1.mode = pe.d112_gr_GR_cog.peVE.Aposticha1.mode
+peVE.Aposticha1.melody = pe.d112_gr_GR_cog.peVE.Aposticha1.melody
+peVE.Aposticha1.text = pe.d112_gr_GR_cog.peVE.Aposticha1.text
+
+
+peVE.Aposticha2.mode = pe.d112_gr_GR_cog.peVE.Aposticha2.mode
+peVE.Aposticha2.melody = pe.d112_gr_GR_cog.peVE.Aposticha2.melody
+peVE.Aposticha2.text = pe.d112_gr_GR_cog.peVE.Aposticha2.text
+
+
+peVE.Aposticha3.mode = pe.d112_gr_GR_cog.peVE.Aposticha3.mode
+peVE.Aposticha3.melody = pe.d112_gr_GR_cog.peVE.Aposticha3.melody
+peVE.Aposticha3.text = pe.d112_gr_GR_cog.peVE.Aposticha3.text
+
+peVE.AposGlory.mode = pe.d110_gr_GR_cog.peVE.Lity5.mode
+peVE.AposGlory.melody = pe.d110_gr_GR_cog.peVE.Lity5.melody
+peVE.AposGlory.text = pe.d110_gr_GR_cog.peVE.Lity5.text
+
+peMA.Kathisma11.mode = misc_gr_GR_cog.Mode2
+peMA.Kathisma11.melody = he.a.m2_gr_GR_cog.TaAnoZiton.name
+peMA.Kathisma11.text = "Ὑψόθεν εἰς γῆν, Χριστὲ καταβέβηκας, καὶ αὖθις ἐκ γῆς, εἰς ὕψος ἀνέδραμες, πρὸς τὸν σὸν Γεννήτορα, Μαθητῶν ὁρώντων σου τὴν ἄνοδον, σὺν αὐτοῖς οὖν ἑορτάζοντες, ὑμνοῦμέν σου Σῶτερ τὴν Ἀνάληψιν."
+
+peMA.Kathisma21.mode = pe.d110_gr_GR_cog.peMA.Kathisma21.mode
+peMA.Kathisma21.melody = pe.d110_gr_GR_cog.peMA.Kathisma21.melody
+peMA.Kathisma21.text = pe.d110_gr_GR_cog.peMA.Kathisma21.text
+
+peMA.Aposticha1.mode = pe.d112_gr_GR_cog.peMA.Aposticha1.mode
+peMA.Aposticha1.melody = pe.d112_gr_GR_cog.peMA.Aposticha1.melody
+peMA.Aposticha1.text = pe.d112_gr_GR_cog.peMA.Aposticha1.text
+
+peMA.Aposticha2.mode = pe.d112_gr_GR_cog.peMA.Aposticha2.mode
+peMA.Aposticha2.melody = pe.d112_gr_GR_cog.peMA.Aposticha2.melody
+peMA.Aposticha2.text = pe.d112_gr_GR_cog.peMA.Aposticha2.text
+
+peMA.Aposticha3.mode = pe.d112_gr_GR_cog.peMA.Aposticha3.mode
+peMA.Aposticha3.melody = pe.d112_gr_GR_cog.peMA.Aposticha3.melody
+peMA.Aposticha3.text = pe.d112_gr_GR_cog.peMA.Aposticha3.text
+
+peMA.AposGlory.mode = pe.d110_gr_GR_cog.peVE.Lity6.mode
+peMA.AposGlory.melody = pe.d110_gr_GR_cog.peVE.Lity6.melody
+peMA.AposGlory.text = pe.d110_gr_GR_cog.peVE.Lity6.text

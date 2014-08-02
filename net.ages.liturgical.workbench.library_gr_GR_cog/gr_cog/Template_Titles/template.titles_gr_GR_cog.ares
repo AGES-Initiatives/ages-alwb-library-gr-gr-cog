@@ -1,0 +1,151 @@
+A_Resource_Whose_Name = template.titles_gr_GR_cog 
+
+//books - collections
+eo = "ΕΩΘΙΝΑ"
+eu = "ΕΥΧΟΛΟΓΙΟΝ"
+he = "ΕΙΡΜΟΛΟΓΙΟΝ"
+hi = "ΙΕΡΑΤΙΚΟΝ"
+ho = "ΩΡΟΛΟΓΙΟΝ"
+ka = "ΚΑΤΑΒΑΣΙΑΙ"
+le = "ΑΝΑΓΝΩΣΜΑΤΑ" // this should be divided into three sections: prophecies, epistles, gospels
+me = "ΜΗΝΑΙΟΝ"
+oc = "ΟΚΤΩΗΧΟΣ"
+pe = "ΠΕΝΤΗΚΟΣΤΑΡΙΟΝ"
+ps = "ΨΑΛΤΗΡΙΟΝ"
+sy = "ΣΥΝΑΞΑΡΙΟΝ"
+tr = "ΤΡΙΩΔΙΟΝ"
+
+//service days
+sat = "ΤΩ ΣΑΒΒΑΤΩ"
+sun = "ΤΗ ΚΥΡΙΑΚΗ"
+wkd = "ΚΑΘΗΜΕΡΙΝΗ"
+
+//service names
+service = "Ἀκολουθία"
+
+co.html.tab  = "ΑΠΟΔΕΙΠΝΟΝ"
+co.pdf.header = "ΑΠΟΔΕΙΠΝΟΝ"
+co.pdf.cover = "Ἡ Ἀκολουθία τοῦ Ἀποδείπνου"
+co.smallcompline.cover = "Ἀπόδειπνον Μικρόν"
+co.smallcompline.header = "ΑΠΟΔΕΙΠΝΟΝ ΜΙΚΡΟΝ"
+co.salutations.pdf.cover = "Μικρὸν Ἀπόδειπνον καὶ Χαιρετισμοί"
+co.salutations.pdf.header = "ΜΙΚΡΟΝ ΑΠΟΔΕΙΠΝΟΝ ΚΑΙ ΧΑΙΡΕΤΙΣΜΟΙ"
+co.greatcompline.pdf.cover = "Ἀπόδειπνον Μέγα"
+co.greatcompline.pdf.header = "ΑΠΟΔΕΙΠΝΟΝ ΜΕΓΑ"
+
+//sacraments
+con.consecration = "ΤΑ ΕΓΚΑΙΝΙΑ"
+
+un.html.tab  = "ΕΥΧΕΛΑΙΟΝ"
+un.pdf.header = "Ἀκολουθία τοῦ Εὐχελαίου"
+un.pdf.cover = "Ἀκολουθία τοῦ Εὐχελαίου"
+
+em.html.tab  = "ΟΡΘΡΟΣ" //this is for Matins in the evening during Holy Week
+em.pdf.header = "Ὄρθρος"
+em.pdf.cover = "Ὄρθρος"
+
+gh.html.tab  = "ΜΕΓΑΛΑΙ ΩΡΑΙ"
+gh.pdf.header = "Μεγάλαι Ὧραι"
+gh.pdf.cover = "Αἱ Μεγάλαι Ὧραι"
+
+gp.html.tab = "ΠΑΡΑΚΛΗΣΙΣ"
+gp.pdf.header = "Μέγας Παρακλητικὸς Κανών."
+gp.pdf.cover = "Ἀκολουθια τοῦ Μεγάλου Παρακλητικοῦ Κανόνος"
+
+h1.html.tab  = "ΠΡΩΤΗ ΩΡΑ"
+h1.pdf.header = "Ὥρα Αʹ"
+h1.pdf.cover = "Ἡ Πρώτη Ὥρα"
+
+h3.html.tab  = "ΤΡΙΤΗ ΩΡΑ"
+h3.pdf.header = "Ὥρα Γʹ"
+h3.pdf.cover = "Ἡ Τρίτη Ὥρα"
+
+h6.html.tab  = "ΕΚΤΗ ΩΡΑ"
+h6.pdf.header = "Ὥρα Ϛʹ"
+h6.pdf.cover = "Ἡ Ἕκτη Ὥρα"
+
+h9.html.tab  = "ΕΝΑΤΗ ΩΡΑ"
+h9.pdf.header = "Ὥρα Θʹ"
+h9.pdf.cover = "Ἡ Ἐνάτη Ὥρα "
+
+hw.pdf.cover = "Μεγάλη Ἑβδομάδα "
+
+li.html.tab  = "ΛΕΙΤΟΥΡΓΙΑ"
+li.pdf.header = "Λειτουργία"
+li.pdf.cover = "Ἡ Θεία Λειτουργία"
+
+ma.html.tab  = "ΟΡΘΡΟΣ"
+ma.pdf.header = "Ὄρθρος"
+ma.pdf.cover = "Ἡ Ἀκολουθία τοῦ Ὄρθρου"
+
+mo.html.tab  = "ΜΕΣΟΝΥΚΤΙΚΟΝ"
+mo.pdf.header = "Μεσονυκτικόν"
+mo.pdf.cover = "Τὸ Μεσονυκτικόν"
+
+pl.html.tab  = "ΠΡΟΗΓΙΑΣΜΕΝΗ"
+pl.pdf.header = "Προηγιασμένη Λειτουργία"
+pl.pdf.cover = "Ἡ Προηγιασμένη Λειτουργία"
+
+sp.html.tab = "ΠΑΡΑΚΛΗΣΙΣ"
+sp.pdf.header = "Μικρὸς Παρακλητικὸς Κανών."
+sp.pdf.cover = "Ἀκολουθια τοῦ Μικροῦ Παρακλητικοῦ Κανόνος"
+
+sv.html.tab  = "ΜΙΚΡΟΣ ΕΣΠΕΡΙΝΟΣ"
+sv.pdf.header = "Μικρὸς Ἑσπερινός"
+sv.pdf.cover = "Ἡ Ἀκολουθία τοῦ Μικροῦ Ἑσπερινοῦ"
+
+ve.html.tab  = "ΕΣΠΕΡΙΝΟΣ"
+ve.pdf.header = "Ἑσπερινὸς"
+ve.pdf.cover = "Ἡ Ἀκολουθία τοῦ Ἑσπερινοῦ"
+
+vl.html.tab  = "ΕΣΠΕΡΙΝΗ ΛΕΙΤΟΥΡΓΙΑ"
+vl.pdf.header = "Ἑσπερινὴ Λειτουργία"
+vl.pdf.cover = "Ἑσπερινὴ Λειτουργία"
+
+//other
+d  = "ΗΜΕΡΑ"
+d.delimiter = " - "
+d.of = ""
+d.on = " - "
+d.ontheeveof = " ἀφ' ἑσπέρας τῆς "
+d.onSundayMorning = "τῇ Κυριακῇ τὸ Πρωΐ"
+d.onSundayEvening = "τῇ Κυριακῇ τὸ Βράδυ"
+d.onMondayMorning = "τῇ Δευτέρᾳ τὸ Πρωΐ"
+d.onMondayEvening = "τῇ Δευτέρᾳ τὸ Βράδυ"
+d.onTuesdayMorning = "τῇ Τρίτῃ τὸ Πρωΐ"
+d.onTuesdayEvening = "τῇ Τρίτῃ τὸ Βράδυ"
+d.onWednesdayMorning = "τῇ Τετάρτῃ τὸ Πρωΐ"
+d.onWednesdayEvening = "τῇ Τετάρτῃ τὸ Βράδυ"
+d.onThursdayMorning = "τῇ Πέμπτῃ τὸ Πρωΐ"
+d.onThursdayEvening = "τῇ Πέμπτῃ τὸ Βράδυ"
+d.onFridayMorning = "τῇ Παρασκευῇ τὸ Πρωΐ"
+d.onFridayAfternoon = "τῇ Παρασκευῇ τὸ Ἀπόγευμα"
+d.onFridayEvening = "τῇ Παρασκευῇ τὸ Βράδυ"
+d.onSaturdayMorning = "τῷ Σαββάτῳ τὸ Πρωΐ"
+d.onSaturdayEvening = "τῷ Σαββάτῳ τὸ Βράδυ"
+
+m.month  = "ΜΗΝ" // I will programatically determine whether to look up the m.month vs m.mode key
+m.mode = "ΗΧΟΣ"
+
+//Holy Week
+hw.mergedscores.title = ""
+hw.palmsunday = "Κυριακὴ τῶν Βαΐων"
+hw.bridegroomservice = "Ἀκολουθία τοῦ Νυμφίου "
+hw.passion = "Ἀκολουθία τῶν Ἁγίων Παθῶν"
+hw.removal = "Ἡ Ἀποκαθήλωσις"
+hw.lamentation = "Ὁ Ἐπιτάφιος Θρῆνος"
+hw.beforeresurrection = "Ἡ Πανηχὶς πρὸ τῆς Ἀναστάσεως "
+hw.ofholymonday = "τῆς Μεγάλης Δευτέρας"
+hw.ofholytuesday = "τῆς Μεγάλης Τρίτης"
+hw.ofholywednesday = "τῆς Μεγάλης Τετάρτης"
+hw.ofholythursday = "τῆς Μεγάλης Πέμπτης"
+hw.ofholyfriday = "τῆς Μεγάλης Παρασκευῆς"
+hw.ofholysaturday = "τοῦ Μεγάλου Σαββάτου"
+
+pa.pascha = "Τὸ Ἅγιον Πάσχα"
+pa.ofpascha = "τοῦ Πάσχα"
+pa.resurrection = "Ἡ Ἀνάστασις"
+pa.easter = "Κυριακὴ τοῦ Πάσχα"
+pa.agape = "Ὁ Ἑσπερινὸς τῆς Ἀγάηπς"
+pa.brightweek = "Ἡ Διακαινήσιμος Ἑβδομάδα"
+

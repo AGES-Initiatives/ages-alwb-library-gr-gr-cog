@@ -51,8 +51,6 @@ trSV.AposGlory.mode = misc_gr_GR_cog.Mode2
 trSV.AposGlory.melody = he.a.m2_gr_GR_cog.OikosTouEfratha.name
 trSV.AposGlory.text = "Ὕψωσας ταπεινῶν, τὸ κέρας Θεοτόκε, τεκοῦσα Θεὸν Λόγον· ὅθεν πιστῶς σε πάντες, τιμῶντες μεγαλύνομεν."
 
-
-
 trVE.Stichera01.mode = misc_gr_GR_cog.Mode6
 trVE.Stichera01.melody = he.a.m6_gr_GR_cog.OlinApothemenoi.name
 trVE.Stichera01.text = "Σὲ τὸν ἀκατάληπτον, πρὸ ἑωσφόρου ἀνάρχως, ἐξ ἀΰλου λάμψαντα, ἀσωμάτου τε γαστρὸς τοῦ Γεννήτορος, οἱ Προφῆται Κύριε, οἱ τῷ σῷ Πνεύματι, ἐμπνευσθέντες προηγόρευσαν, Παιδίον ἔσεσθαι, ἐξ Ἀπειρογάμου σαρκούμενον, ἀνθρώποις συναπτόμενον, καὶ τοῖς ἐπὶ γῆς καθορώμενον· δι' ὧν ὡς Οἰκτίρμων, ἐλλάμψεως ἀξίωσον τῆς σῆς, τούς ἀνυμνοῦντας τὴν ἄφραστον, σοῦ σεπτὴν Ἀνάστασιν."
@@ -97,7 +95,6 @@ trVE.ApolTheotokion.mode = misc_gr_GR_cog.Mode2
 trVE.ApolTheotokion.melody  = ""
 trVE.ApolTheotokion.text = oc.m2.d1_gr_GR_cog.ocVE.ApolTheotokionVM.text
 
-
 trMA.PostGospelGlory.mode = misc_gr_GR_cog.Mode8
 trMA.PostGospelGlory.melody  = ""
 trMA.PostGospelGlory.text = tr.d001_gr_GR_cog.trMA.PostGospelGlory.text
@@ -106,11 +103,9 @@ trMA.PostGospelBoth.mode = misc_gr_GR_cog.Mode8
 trMA.PostGospelBoth.melody  = ""
 trMA.PostGospelBoth.text = tr.d001_gr_GR_cog.trMA.PostGospelBoth.text
 
-
 trMA.PostGospelIdiomelon.mode = misc_gr_GR_cog.Mode6
 trMA.PostGospelIdiomelon.melody  = ""
 trMA.PostGospelIdiomelon.text = tr.d001_gr_GR_cog.trMA.PostGospelIdiomelon.text
-
 
 trMA.C1Poet = poets_gr_GR_cog.KyriouTheofanous
 trMA.C1Acrostic.text = "οὗ ἡ Ἀκροστιχίς· Σήμερον εὐσεβίης θεοφεγγέος ἤλυθεν αἴγλη."
@@ -144,7 +139,6 @@ trMA.Ode1K.ode = misc_gr_GR_cog.Ode1
 trMA.Ode1K.mode = misc_gr_GR_cog.Mode4
 trMA.Ode1K.melody = misc_gr_GR_cog.Heirmos
 trMA.Ode1K.text = he.h.m4_gr_GR_cog.ThalassisToErythraion.text
-
 
 trMA.Ode3C11.ode = misc_gr_GR_cog.Ode3
 trMA.Ode3C11.mode = misc_gr_GR_cog.Mode4
@@ -272,7 +266,6 @@ trMA.Ode6K.ode = misc_gr_GR_cog.Ode6
 trMA.Ode6K.mode = misc_gr_GR_cog.Mode4
 trMA.Ode6K.melody = misc_gr_GR_cog.Heirmos
 trMA.Ode6K.text = he.h.m4_gr_GR_cog.ThysoSoiMetaFonis.text
-
 
 trMA.Kontakion.mode = misc_gr_GR_cog.Mode8
 trMA.Kontakion.melody = misc_gr_GR_cog.Automelon
@@ -449,7 +442,6 @@ trLI.CommunionHymn.text = ""
 
 trMegalynarion.text = ""
 
-
 //Canon for procession
 
 trCA.poet  = ""
@@ -498,7 +490,6 @@ trCA.Ode1T.ode  = ""
 trCA.Ode1T.mode  = ""
 trCA.Ode1T.melody  = ""
 trCA.Ode1T.text = ""
-
 
 trCA.Ode31.ode  = ""
 trCA.Ode31.mode  = ""
@@ -635,7 +626,6 @@ trCA.Ode5T.mode  = ""
 trCA.Ode5T.melody  = ""
 trCA.Ode5T.text = ""
 
-
 trCA.Ode61.ode  = ""
 trCA.Ode61.mode  = ""
 trCA.Ode61.melody  = ""
@@ -725,7 +715,6 @@ trCA.Ode7T.ode  = ""
 trCA.Ode7T.mode  = ""
 trCA.Ode7T.melody  = ""
 trCA.Ode7T.text = ""
-
 
 trCA.Ode81.ode  = ""
 trCA.Ode81.mode  = ""
@@ -840,10 +829,6 @@ tr.Synodikon4.text = "Αὕτη ἡ πίστις τῶν Ἀποστόλων,
 αὕτη ἡ πίστις τὴν Οἰκουμένην ἐστήριξεν."
 tr.Synodikon5.text = "Ἐπὶ τούτοις τοὺς τῆς εὐσεβείας Κήρυκας ἀδελφικῶς τε καὶ πατροποθήτως εἰς δόξαν καὶ τιμὴν τῆς εὐσεβείας, ὑπὲρ ἧς ἀγωνίσαντο, ἀνευφημοῦμεν καὶ λέγομεν· Τῶν τῆς Ὀρθοδοξίας προμάχων εὐσεβῶν Βασιλέων, ἁγιωτάτων Πατριαρχῶν, Ἀρχιερέων, Διδασκάλων, Μαρτύρων, Ὁμολογητῶν, Αἰωνία ἡ μνήμη."
 tr.Synodikon6.text = "Τούτων τοῖς ὑπὲρ εὐσεβείας μέχρι θανάτου ἄθλοις τε καὶ ἀγωνίσμασι καὶ διδασκαλίαις παιδαγωγεῖσθαί τε καὶ κρατύνεσθαι Θεὸν ἐκλιπαροῦντες, καὶ μιμητός τῆς ἐνθέου αὐτῶν πολιτείας μέχρι τέλους ἀναδεικνύσθαι ἐκδυσωποῦντες, ἀξιωθείημεν τῶν ἐξαιτουμένων, οἰκτιρμοῖς καὶ χάριτι τοῦ Μεγάλου καὶ Πρώτου Ἀρχιερέως Χριστοῦ τοῦ ἀληθινοῦ Θεοῦ ἡμῶν, πρεσβείαις τῆς ὑπερενδόξου Δεσποίνης ἡμῶν Θεοτόκου καὶ ἀειπαρθένου Μαρίας, τῶν θεοειδῶν Ἀγγέλων καὶ πάντων τῶν Ἁγίων."
-
-
-
-
 
 
 

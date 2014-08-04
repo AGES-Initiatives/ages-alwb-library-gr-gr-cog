@@ -1,0 +1,40 @@
+A_Resource_Whose_Name = da.d6_gr_GR_cog 
+
+daDay.text = "Παρασκευή."
+daCommemoration.text = "Σταυρώσιμον."
+
+daVE.OnTheMorningBefore = template.titles_gr_GR_cog.d.onThursdayMorning
+daVE.OnTheEveningBefore = template.titles_gr_GR_cog.d.onThursdayEvening
+
+daVE.Apolytikion1.mode = misc_gr_GR_cog.Mode1
+daVE.Apolytikion1.melody  = ""
+daVE.Apolytikion1.text = me.m09.d14_gr_GR_cog.meVE.Apolytikion1.text
+
+daVE.ApolTheotokion.mode = misc_gr_GR_cog.Mode1
+daVE.ApolTheotokion.melody  = ""
+daVE.ApolTheotokion.text = oc.m1.d4_gr_GR_cog.ocVE.ApolTheotokionVM.text
+
+daMA.Triadic1Ending.text = "Δυνάμει τοῦ Σταυροῦ σου σῶσον ἡμᾶς."
+daMA.Triadic2Ending.text = prayers_gr_GR_cog.trPresveiaisTonAgion
+daMA.Triadic3Ending.text = prayers_gr_GR_cog.trDiaTisTheotokou
+
+daMA.Photagogic1Ending.text = "δυνάμει τοῦ Σταυροῦ σου, καὶ σῶσόν με."
+daMA.Photagogic2Ending.text = prayers_gr_GR_cog.fePresveiaisTonAgionKaiSosonMe
+daMA.Photagogic3Ending.text = prayers_gr_GR_cog.fePresveiaisTisTheotokou
+
+daMA.Photagogic1Beginning.text = "Δυνάμει τοῦ Σταυροῦ σου, Κύριε,"
+daMA.Photagogic2Beginning.text = prayers_gr_GR_cog.fbPresveiaisKyrieTonAgion
+daMA.Photagogic3Beginning.text = prayers_gr_GR_cog.fbPresveiaisKyrieTisTheotokou
+
+daMA.Exaposteilarion1.mode = misc_gr_GR_cog.Mode2
+daMA.Exaposteilarion1.melody = he.a.m2_gr_GR_cog.TonMathitonOrontonSe.name
+daMA.Exaposteilarion1.text = me.m09.d14_gr_GR_cog.meMA.Exaposteilarion1.text
+
+daMA.ExapTheotokion.mode = misc_gr_GR_cog.Mode2
+daMA.ExapTheotokion.melody  = ""
+daMA.ExapTheotokion.text = "Ἐν τῷ Σταυρῷ παρεστῶσα, ἡ σὲ ἀσπόρως τεκοῦσα, καὶ θρηνῳδοῦσα ἐβόα· Οἴμοι! γλυκύτατον τέκνον, πῶς ἔδυς ἐξ ὀφθαλμῶν μου, πῶς ἐν νεκροῖς ἐλογίσθης;"
+
+daLI.CommunionHymn.text = "" //for media
+
+daLI.CommunionHymnAlt.text = ""
+

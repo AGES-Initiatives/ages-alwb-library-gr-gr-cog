@@ -1,0 +1,19 @@
+A_Resource_Whose_Name = me.m09.d12_gr_GR_cog
+
+meDate.text = "Τῌ ΙΒʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ"
+meCommemoration.text = "" //full title of day
+meShortCommemoration1.text = ""
+meInsert1 = "" //for use in petitions and dismissal
+meInsert2 = "" //for use in petitions and dismissal
+meNote.text = ""
+
+meMA.Synaxarion.text  = ""
+
+meLI.SeasonalKontakion.mode = me.m09.d08_gr_GR_cog.meMA.Kontakion1.mode
+meLI.SeasonalKontakion.melody  = ""
+meLI.SeasonalKontakion.text = me.m09.d08_gr_GR_cog.meMA.Kontakion1.text
+
+meLI.CommunionHymn.text = "" //for media
+
+meMegalynarion.text = ""
+

@@ -1,0 +1,382 @@
+A_Resource_Whose_Name = pe.d00P_gr_GR_cog
+
+peCommemoration.text = "Τῇ Ἁγίᾳ καὶ Μεγάλῃ Κυριακῇ τοῦ Πάσχα" //full title of day
+peShortCommemoration1.text = "Ἡ Ἀνάστασις."
+peInsert1 = "" //for use in petitions and dismissal
+peInsert2 = "" //for use in petitions and dismissal
+peNote.text = ""
+peDismissal = dismissals_gr_GR_cog.dis00.resurrection
+
+// Unique Pascha ID's used throughout Pentecostarion
+
+pePA.Key0101.mode = misc_gr_GR_cog.Mode5
+pePA.Key0101.text = "Δεῦτε λάβετε φῶς ἐκ τοῦ ἀνεσπέρου φωτός, καὶ δοξάσατε Χριστὸν τὸν ἀναστάντα ἐκ νεκρῶν."
+
+pePA.Key0102.mode = misc_gr_GR_cog.Mode6
+pePA.Key0102.text = oc.m6.d1_gr_GR_cog.ocVE.Aposticha1.text
+
+pePA.ChristIsRisen.mode = misc_gr_GR_cog.Mode5
+pePA.ChristIsRisen.text = "Χριστὸς ἀνέστη ἐκ νεκρῶν, θανάτῳ θάνατον πατήσας, καὶ τοῖς ἐν τοῖς μνήμασι, ζωὴν χαρισάμενος."
+pePA.ChristIsRisen1a.text = "Χριστὸς ἀνέστη ἐκ νεκρῶν, θανάτῳ θάνατον πατήσας, καὶ τοῖς ἐν τοῖς μνήμασι..."
+pePA.ChristIsRisen1b.text = "...ζωὴν χαρισάμενος."
+pePA.ChristIsRisen2a.text = "Χριστὸς ἀνέστη ἐκ νεκρῶν, θανάτῳ θάνατον πατήσας..."
+pePA.ChristIsRisen2b.text = "...καὶ τοῖς ἐν τοῖς μνήμασι, ζωὴν χαρισάμενος."
+pePA.ChristIsRisenShort.text = "Χριστὸς ἀνέστη ἐκ νεκρῶν, θανάτῳ θάνατον πατήσας, καὶ τοῖς ἐν τοῖς μνήμασι, ζωὴν χαρισάμενος." //for media
+
+pePA.PaschaVerse1.source = ""
+//pePA.PaschaVerse1.text = "Ἀναστήτω ὁ Θεός, καὶ διασκορπισθήτωαν οἱ ἐχθροὶ αὐτοῦ, καὶ φυγέτωσαν ἀπὸ προσώπου αὐτοῦ οἱ μισοῦντες αὐτόν."
+
+pePA.PaschaVerse2.source = ""
+//pePA.PaschaVerse2.text = "Ὡς ἐκλείπει καπνὸς ἐκλιπέτωσαν, ὡς τήκεται κηρὸς ἀπὸ προσώπου πυρός."
+
+pePA.PaschaVerse3.source = ""
+//pePA.PaschaVerse3.text = "Οὕτως ἀπολοῦνται οἱ ἁμαρτωλοὶ ἀπὸ προσώπου τοῦ Θεοῦ, καὶ οἱ δίκαιοι εὐφρανθήτωσαν."
+
+pePA.PaschaVerse4.source = ""
+//pePA.PaschaVerse4.text = "Αὕτη ἡ ἡμέρα, ἣν ἐποίησεν ὁ Κύριος· ἀγαλλιασώμεθα καὶ εὐφρανθῶμεν ἐν αὐτῇ."
+
+pePA.Canon.Poet = poets_gr_GR_cog.IoannouTouDamaskinou
+pePA.Canon.text = "Ὁ Κανὼν τοῦ Πάσχα" //for media of entire canon
+
+pePA.CanonT.Acrostic = "Οὗ ἡ ἀκροστιχὶς ἐν τοῖς πρώτοις Τροπαρίοις. Θεοφάνους."
+
+pePA.Ode1H.ode = misc_gr_GR_cog.Ode1
+pePA.Ode1H.mode = misc_gr_GR_cog.Mode1
+pePA.Ode1H.melody = misc_gr_GR_cog.Heirmos
+pePA.Ode1H.text = he.h.m1_gr_GR_cog.AnastaseosImera.text
+
+pePA.Ode11.ode = misc_gr_GR_cog.Ode1
+pePA.Ode11.mode = misc_gr_GR_cog.Mode1
+pePA.Ode11.melody = he.h.m1_gr_GR_cog.AnastaseosImera.name
+pePA.Ode11.text = "Καθαρθῶμεν τὰς αἰσθήσεις, καὶ ὀψόμεθα, τῷ ἀπροσίτῳ φωτὶ τῆς ἀναστάσεως, Χριστὸν ἐξαστράπτοντα, καί, Χαίρετε, φάσκοντα, τρανῶς ἀκουσόμεθα, ἐπινίκιον ᾄδοντες."
+
+pePA.Ode12.ode = misc_gr_GR_cog.Ode1
+pePA.Ode12.mode = misc_gr_GR_cog.Mode1
+pePA.Ode12.melody = he.h.m1_gr_GR_cog.AnastaseosImera.name
+pePA.Ode12.text = "Οὐρανοὶ μὲν ἐπαξίως εὐφραινέσθωσαν, γῆ δὲ ἀγαλλιάσθω, ἑορταζέτω δὲ κόσμος, ὁρατός τε ἅπας καὶ ἀόρατος· Χριστὸς γὰρ ἐγήγερται, εὐφροσύνη αἰώνιος."
+
+pePA.Ode1T1.ode = misc_gr_GR_cog.Ode1
+pePA.Ode1T1.mode = misc_gr_GR_cog.Mode1
+pePA.Ode1T1.melody = he.h.m1_gr_GR_cog.AnastaseosImera.name
+pePA.Ode1T1.text = "Θανατώσεως τὸν ὅρον ἀνεμόχλευσας, τὴν αἰωνίαν ζωήν, κυοφορήσασα Χριστόν, τὸν ἐκ τάφου ἀναλάμψαντα σήμερον, Παρθένε πανάμωμε, καὶ τὸν κόσμον φωτίσαντα."
+
+pePA.Ode1T2.ode = misc_gr_GR_cog.Ode1
+pePA.Ode1T2.mode = misc_gr_GR_cog.Mode1
+pePA.Ode1T2.melody = he.h.m1_gr_GR_cog.AnastaseosImera.name
+pePA.Ode1T2.text = "Ἀναστάντα κατιδοῦσα σὸν Υἱὸν καὶ Θεόν, χαίροις σὺν Ἀποστόλοις, θεοχαρίτωτε ἁγνή, καὶ τὸ Χαῖρε πρωτουργῶς, ὡς πάντων χαρᾶς, αἰτία εἰσδέδεξαι, Θεομῆτορ πανάμωμε."
+
+pePA.Ode3H.ode = misc_gr_GR_cog.Ode3
+pePA.Ode3H.mode = misc_gr_GR_cog.Mode1
+pePA.Ode3H.melody = misc_gr_GR_cog.Heirmos
+pePA.Ode3H.text = he.h.m1_gr_GR_cog.DeftePomaPiomen.text
+
+pePA.Ode31.ode = misc_gr_GR_cog.Ode3
+pePA.Ode31.mode = misc_gr_GR_cog.Mode1
+pePA.Ode31.melody = he.h.m1_gr_GR_cog.DeftePomaPiomen.name
+pePA.Ode31.text = "Νῦν πάντα πεπλήρωται φωτός, οὐρανός τε καὶ γῆ, καὶ τὰ καταχθόνια· ἑορταζέτω γοῦν πᾶσα κτίσις, τὴν Ἔγερσιν Χριστοῦ, ἐν ᾗ ἐστερέωται."
+
+pePA.Ode32.ode = misc_gr_GR_cog.Ode3
+pePA.Ode32.mode = misc_gr_GR_cog.Mode1
+pePA.Ode32.melody = he.h.m1_gr_GR_cog.DeftePomaPiomen.name
+pePA.Ode32.text = "Χθὲς συνεθαπτόμην σοι Χριστὲ συνεγείρομαι σήμερον ἀναστάντι σοι, συνεσταυρούμην σοι χθὲς, αὐτός με συνδόξασον Σωτήρ, ἐν τῇ βασιλείᾳ σου."
+
+pePA.Ode3T1.ode = misc_gr_GR_cog.Ode3
+pePA.Ode3T1.mode = misc_gr_GR_cog.Mode1
+pePA.Ode3T1.melody = he.h.m1_gr_GR_cog.DeftePomaPiomen.name
+pePA.Ode3T1.text = "Ἐπὶ τὴν ἀκήρατον ζωήν, ἐπανέρχομαι σήμερον ἀγαθότητι, τοῦ γεννηθέντος ἐκ σοῦ, καὶ πᾶσι τοῖς πέρασιν Ἁγνή, τὸ φέγγος ἀστράψαντος."
+
+pePA.Ode3T2.ode = misc_gr_GR_cog.Ode3
+pePA.Ode3T2.mode = misc_gr_GR_cog.Mode1
+pePA.Ode3T2.melody = he.h.m1_gr_GR_cog.DeftePomaPiomen.name
+pePA.Ode3T2.text = "Θεὸν ὃν ἐκύησας σαρκί, ἐκ νεκρῶν καθὼς εἶπεν ἐξεγειρόμενον, θεασαμένη Ἁγνή, χόρευε, καὶ τοῦτον, ὡς Θεόν, ἄχραντε μεγάλυνε."
+
+pePA.Hypakoe.mode =misc_gr_GR_cog.Mode4
+pePA.Hypakoe.text = "Προλαβοῦσαι τὸν ὄρθρον αἱ περὶ Μαριάμ, καὶ εὑροῦσαι τὸν λίθον ἀποκυλισθέντα τοῦ μνήματος, ἤκουον ἐκ τοῦ Ἀγγέλου· Τὸν ἐν φωτὶ ἀϊδίῳ ὑπάρχοντα, μετὰ νεκρῶν τί ζητεῖτε ὡς ἄνθρωπον; βλέπετε τὰ ἐντάφια σπάργανα· δράμετε, καὶ τῷ κόσμῳ κηρύξατε, ὡς ἠγέρθη ὁ Κύριος, θανατώσας τὸν θάνατον· ὅτι ὑπάρχει Θεοῦ Υἱός, τοῦ σῴζοντος τὸ γένος τῶν ἀνθρώπων."
+
+pePA.Ode4H.ode = misc_gr_GR_cog.Ode4
+pePA.Ode4H.mode = misc_gr_GR_cog.Mode1
+pePA.Ode4H.melody = misc_gr_GR_cog.Heirmos
+pePA.Ode4H.text = he.h.m1_gr_GR_cog.EpiTisTheiasFylakis.text
+
+pePA.Ode41.ode = misc_gr_GR_cog.Ode4
+pePA.Ode41.mode = misc_gr_GR_cog.Mode1
+pePA.Ode41.melody = he.h.m1_gr_GR_cog.EpiTisTheiasFylakis.name
+pePA.Ode41.text = "Ἄρσεν μέν, ὡς διανοῖξαν, τὴν παρθενεύουσαν νηδύν, πέφηνε Χριστός, ὡς βροτὸς δέ, ἀμνὸς προσηγόρευται, ἄμωμος δέ, ὡς ἄγευστος κηλῖδος, τὸ ἡμέτερον Πάσχα, καὶ ὡς Θεὸς ἀληθής, τέλειος λέλεκται."
+
+pePA.Ode42.ode = misc_gr_GR_cog.Ode4
+pePA.Ode42.mode = misc_gr_GR_cog.Mode1
+pePA.Ode42.melody = he.h.m1_gr_GR_cog.EpiTisTheiasFylakis.name
+pePA.Ode42.text = "Ὡς ἐνιαύσιος ἀμνός, ὁ εὐλογούμενος ἡμῖν, στέφανος χρηστὸς ἑκουσίως, ὑπὲρ πάντων τέθυται, Πάσχα τὸ καθαρτήριον, καὶ αὖθις ἐκ τοῦ τάφου ὡραῖος, δικαιοσύνης ἡμῖν ἔλαμψεν ἥλιος."
+
+pePA.Ode43.ode = misc_gr_GR_cog.Ode4
+pePA.Ode43.mode = misc_gr_GR_cog.Mode1
+pePA.Ode43.melody = he.h.m1_gr_GR_cog.EpiTisTheiasFylakis.name
+pePA.Ode43.text = "Ὁ θεοπάτωρ μὲν Δαυΐδ, πρὸ τῆς σκιώδους κιβωτοῦ ἥλατο σκιρτῶν, ὁ λαὸς δὲ τοῦ Θεοῦ ὁ ἅγιος, τὴν τῶν συμβόλων ἔκβασιν, ὁρῶντες, εὐφρανθῶμεν ἐνθέως, ὅτι ἀνέστη Χριστὸς ὡς παντοδύναμος."
+
+pePA.Ode4T1.ode = misc_gr_GR_cog.Ode4
+pePA.Ode4T1.mode = misc_gr_GR_cog.Mode1
+pePA.Ode4T1.melody = he.h.m1_gr_GR_cog.EpiTisTheiasFylakis.name
+pePA.Ode4T1.text = "Ὁ διαπλάσας τον Ἀδάμ, τὸν σὸν προπάτορα Ἁγνή, πλάττεται ἐκ σοῦ, καὶ θανάτῳ, τῷ οἰκείῳ ἔλυσε, τὸν δι' ἐκείνου θάνατον σήμερον, καὶ κατηύγασε πάντας, ταῖς θεϊκαῖς ἀστραπαῖς τῆς Ἀναστάσεως."
+
+pePA.Ode4T2.ode = misc_gr_GR_cog.Ode4
+pePA.Ode4T2.mode = misc_gr_GR_cog.Mode1
+pePA.Ode4T2.melody = he.h.m1_gr_GR_cog.EpiTisTheiasFylakis.name
+pePA.Ode4T2.text = "Ὃν ἀπεκύησας Χριστόν, ὡραιοτάτως ἐκ νεκρῶν, λάμψαντα Ἁγνὴ καθορῶσα, ἡ καλὴ καὶ ἄμωμος, ἐν γυναιξὶν ὡραία τε, σήμερον εἰς πάντων σωτηρίαν, σὺν Ἀποστόλοις αὐτὸν χαίρουσα, δόξαζε."
+
+pePA.Ode5H.ode = misc_gr_GR_cog.Ode5
+pePA.Ode5H.mode = misc_gr_GR_cog.Mode1
+pePA.Ode5H.melody = misc_gr_GR_cog.Heirmos
+pePA.Ode5H.text = he.h.m1_gr_GR_cog.OrthrisomenOrthrouVatheos.text
+
+pePA.Ode51.ode = misc_gr_GR_cog.Ode5
+pePA.Ode51.mode = misc_gr_GR_cog.Mode1
+pePA.Ode51.melody = he.h.m1_gr_GR_cog.OrthrisomenOrthrouVatheos.name
+pePA.Ode51.text = "Τὴν ἄμετρόν σου εὐσπλαγχνίαν, οἱ ταῖς τοῦ ᾍδου σειραῖς, συνεχόμενοι δεδορκότες, πρὸς τὸ φῶς ἠπείγοντο Χριστέ, ἀγαλλομένῳ ποδί, Πάσχα κροτοῦντες αἰώνιον."
+
+pePA.Ode52.ode = misc_gr_GR_cog.Ode5
+pePA.Ode52.mode = misc_gr_GR_cog.Mode1
+pePA.Ode52.melody = he.h.m1_gr_GR_cog.OrthrisomenOrthrouVatheos.name
+pePA.Ode52.text = "Προσέλθωμεν λαμπαδηφόροι, τῷ προϊόντι Χριστῷ ἐκ τοῦ μνήματος, ὡς νυμφίῳ, καὶ συνεορτάσωμεν ταῖς φιλεόρτοις τάξεσι, Πάσχα Θεοῦ τὸ σωτήριον."
+
+pePA.Ode5T1.ode = misc_gr_GR_cog.Ode5
+pePA.Ode5T1.mode = misc_gr_GR_cog.Mode1
+pePA.Ode5T1.melody = he.h.m1_gr_GR_cog.OrthrisomenOrthrouVatheos.name
+pePA.Ode5T1.text = "Φωτίζεται θείαις ἀκτῖσι, καὶ ζωηφόροις ταῖς τῆς Ἀναστάσεως τοῦ Υἱοῦ σου, Θεομῆτορ ἄχραντε, καὶ χαρμονῆς ἐμπίπλαται, τῶν εὐσεβῶν ἡ ὁμήγυρις."
+
+pePA.Ode5T2.ode = misc_gr_GR_cog.Ode5
+pePA.Ode5T2.mode = misc_gr_GR_cog.Mode1
+pePA.Ode5T2.melody = he.h.m1_gr_GR_cog.OrthrisomenOrthrouVatheos.name
+pePA.Ode5T2.text = "Οὐκ ἤνοιξας πύλας Παρθένου, ἐν τῷ σαρκοῦσθαι μνήματος οὐκ ἔλυσας τὰς σφραγῖδας, Βασιλεῦ τῆς κτίσεως· ὅθεν ἐξαναστάντα σε, θεασαμένη ἠγάλλετο."
+
+pePA.Ode6H.ode = misc_gr_GR_cog.Ode6
+pePA.Ode6H.mode = misc_gr_GR_cog.Mode1
+pePA.Ode6H.melody = misc_gr_GR_cog.Heirmos
+pePA.Ode6H.text = he.h.m1_gr_GR_cog.KatilthesEnToisKatotatois.text
+
+pePA.Ode61.ode = misc_gr_GR_cog.Ode6
+pePA.Ode61.mode = misc_gr_GR_cog.Mode1
+pePA.Ode61.melody = he.h.m1_gr_GR_cog.KatilthesEnToisKatotatois.name
+pePA.Ode61.text = "Φυλάξας τὰ σήμαντρα σῷα Χριστέ, ἐξηγέρθης τοῦ τάφου, ὁ τὰς κλεῖς τῆς Παρθένου μὴ λυμηνάμενος ἐν τῷ τόκῳ σου, καὶ ἀνέῳξας ἡμῖν, Παραδείσου τὰς πύλας."
+
+pePA.Ode62.ode = misc_gr_GR_cog.Ode6
+pePA.Ode62.mode = misc_gr_GR_cog.Mode1
+pePA.Ode62.melody = he.h.m1_gr_GR_cog.KatilthesEnToisKatotatois.name
+pePA.Ode62.text = "Σῶτέρ μου τὸ ζῶν τε καὶ ἄθυτον, ἱερεῖον, ὡς Θεός, σεαυτὸν ἑκουσίως, προσαγαγὼν τῷ Πατρί, συνανέστησας, παγγενῆ τὸν Ἀδάμ, ἀναστὰς ἐκ τοῦ τάφου."
+
+pePA.Ode6T1.ode = misc_gr_GR_cog.Ode6
+pePA.Ode6T1.mode = misc_gr_GR_cog.Mode1
+pePA.Ode6T1.melody = he.h.m1_gr_GR_cog.KatilthesEnToisKatotatois.name
+pePA.Ode6T1.text = "Ἀνῆκται τὸ πάλαι κρατούμενον, τῷ θανάτῳ καὶ φθορᾷ, διὰ τοῦ σαρκωθέντος, ἐκ σῆς ἀχράντου γαστρὸς πρὸς τὴν ἄφθαρτον, καὶ ἀΐδιον ζωήν, Θεοτόκε Παρθένε."
+
+pePA.Ode6T2.ode = misc_gr_GR_cog.Ode6
+pePA.Ode6T2.mode = misc_gr_GR_cog.Mode1
+pePA.Ode6T2.melody = he.h.m1_gr_GR_cog.KatilthesEnToisKatotatois.name
+pePA.Ode6T2.text = "Κατῆλθεν ἐν τοῖς κατωτάτοις τῆς γῆς ὁ λαγόσι σου Ἁγνή, κατελθὼν καὶ οἰκήσας, καὶ σαρκωθεὶς ὑπὲρ νοῦν καὶ συνήγειρεν, ἑαυτῷ τὸν Ἀδάμ, ἀναστὰς ἐκ τοῦ τάφου."
+
+pePA.Kontakion.mode = misc_gr_GR_cog.Mode8
+pePA.Kontakion.melody  = ""
+pePA.Kontakion.text = "Εἰ καὶ ἐν τάφῳ κατῆλθες Ἀθάνατε, ἀλλὰ τοῦ ᾅδου καθεῖλες τὴν δύναμιν· καὶ ἀνέστης ὡς νικητής, Χριστὲ ὁ Θεός, γυναιξὶ Μυροφόροις φθεγξάμενος, Χαίρετε, καὶ τοῖς σοῖς Ἀποστόλοις εἰρήνην δωρούμενος, ὁ τοῖς πεσοῦσι παρέχων ἀνάστασιν."
+
+pePA.Oikos.text = "Τὸν πρὸ ἡλίου Ἥλιον δύναντά ποτε ἐν τάφῳ, προέφθασαν πρὸς ὄρθρον, ἐκζητοῦσαι ὡς ἡμέραν, Μυροφόροι κόραι, καὶ πρὸς ἀλλήλας ἐβόων· Ὦ φίλαι, δεῦτε τοῖς ἀρώμασιν ὑπαλείψωμεν, Σῶμα ζωηφόρον καὶ τεθαμμένον, σάρκα ἀνιστῶσαν τὸν παραπεσόντα Ἀδάμ, κείμενον ἐν τῷ μνήματι· ἄγωμεν, σπεύσωμεν, ὥσπερ οἱ Μάγοι, καὶ προσκυνήσωμεν, καὶ προσκομίσωμεν τὰ μύρα ὡς δῶρα, τῷ μὴ ἐν σπαργάνοις, ἀλλ' ἐν σινδόνι ἐνειλημένῳ· καὶ κλαύσωμεν, καὶ κράξωμεν· Ὦ Δέσποτα, ἐξεγέρθητι, ὁ τοῖς πεσοῦσι παρέχων ἀνάστασιν."
+
+pePA.Ode7H.ode = misc_gr_GR_cog.Ode7
+pePA.Ode7H.mode = misc_gr_GR_cog.Mode1
+pePA.Ode7H.melody = misc_gr_GR_cog.Heirmos
+pePA.Ode7H.text = he.h.m1_gr_GR_cog.OPaidasEkKaminou.text
+
+pePA.Ode71.ode = misc_gr_GR_cog.Ode7
+pePA.Ode71.mode = misc_gr_GR_cog.Mode1
+pePA.Ode71.melody = he.h.m1_gr_GR_cog.OPaidasEkKaminou.name
+pePA.Ode71.text = "Γυναῖκες μετὰ μύρων θεόφρονες, ὀπίσω σου ἔδραμον, ὃν δὲ ὡς θνητόν, μετὰ δακρύων ἐζήτουν, προσεκύνησαν χαίρουσαι ζῶντα Θεόν, καὶ Πάσχα τὸ μυστικὸν σοῖς Χριστὲ Μαθηταῖς εὐηγγελίσαντο."
+
+pePA.Ode72.ode = misc_gr_GR_cog.Ode7
+pePA.Ode72.mode = misc_gr_GR_cog.Mode1
+pePA.Ode72.melody = he.h.m1_gr_GR_cog.OPaidasEkKaminou.name
+pePA.Ode72.text = "Θανάτου ἑορτάζομεν νέκρωσιν, ᾍδου τὴν καθαίρεσιν, ἄλλης βιοτῆς, τῆς αἰωνίου ἀπαρχήν, καὶ σκιρτῶντες ὑμνοῦμεν τὸν αἴτιον, τὸν μόνον εὐλογητὸν τῶν Πατέρων, Θεὸν καὶ ὑπερένδοξον."
+
+pePA.Ode73.ode = misc_gr_GR_cog.Ode7
+pePA.Ode73.mode = misc_gr_GR_cog.Mode1
+pePA.Ode73.melody = he.h.m1_gr_GR_cog.OPaidasEkKaminou.name
+pePA.Ode73.text = "Ὡς ὄντως ἱερὰ καὶ πανέορτος, αὕτη ἡ σωτήριος, νὺξ καὶ φωταυγής, τῆς λαμπροφόρου ἡμέρας, τῆς Ἐγέρσεως οὖσα προάγγελος, ἐν ᾗ τὸ ἄχρονον φῶς, ἐκ τάφου σωματικῶς πᾶσιν ἐπέλαμψεν."
+
+pePA.Ode7T1.ode = misc_gr_GR_cog.Ode7
+pePA.Ode7T1.mode = misc_gr_GR_cog.Mode1
+pePA.Ode7T1.melody = he.h.m1_gr_GR_cog.OPaidasEkKaminou.name
+pePA.Ode7T1.text = "Νεκρώσας ὁ Υἱός σου τὸν θάνατον, Πανάμωμε σήμερον, πᾶσι τοῖς θνητοῖς, τὴν διαμένουσαν ζωήν, εἰς αἰῶνας αἰώνων δεδώρηται, ὁ μόνος εὐλογητὸς τῶν πατέρων, Θεὸς καὶ ὑπερένδοξος."
+
+pePA.Ode7T2.ode = misc_gr_GR_cog.Ode7
+pePA.Ode7T2.mode = misc_gr_GR_cog.Mode1
+pePA.Ode7T2.melody = he.h.m1_gr_GR_cog.OPaidasEkKaminou.name
+pePA.Ode7T2.text = "Ὁ πάσης βασιλεύων τῆς κτίσεως, γενόμενος ἄνθρωπος, ᾤκησε τὴν σήν, Θεοχαρίτωτε νηδύν, καὶ σταυρὸν ὑπομείνας καὶ θάνατον, ἀνέστη θεοπρεπῶς, συνεγείρας ἡμᾶς, ὡς παντοδύναμος."
+
+pePA.Ode8H.ode = misc_gr_GR_cog.Ode8
+pePA.Ode8H.mode = misc_gr_GR_cog.Mode1
+pePA.Ode8H.melody = misc_gr_GR_cog.Heirmos
+pePA.Ode8H.text = he.h.m1_gr_GR_cog.AftiIKliti.text
+
+pePA.Ode81.ode = misc_gr_GR_cog.Ode8
+pePA.Ode81.mode = misc_gr_GR_cog.Mode1
+pePA.Ode81.melody = he.h.m1_gr_GR_cog.AftiIKliti.name
+pePA.Ode81.text = "Δεῦτε τοῦ καινοῦ τῆς ἀμπέλου γεννήματος τῆς θείας εὐφροσύνης, ἐν τῇ εὐσήμῳ ἡμέρᾳ τῆς ἐγέρσεως, βασιλείας τε Χριστοῦ κοινωνήσωμεν, ὑμνοῦντες αὐτόν, ὡς Θεόν εἰς τοὺς αἰῶνας."
+
+pePA.Ode82.ode = misc_gr_GR_cog.Ode8
+pePA.Ode82.mode = misc_gr_GR_cog.Mode1
+pePA.Ode82.melody = he.h.m1_gr_GR_cog.AftiIKliti.name
+pePA.Ode82.text = "Ἆρον κύκλῳ τοὺς ὀφθαλμούς σου Σιὼν καὶ ἴδε· ἰδοὺ γὰρ ἥκασί σοι, θεοφεγγεῖς ὡς φωστῆρες, ἐκ δυσμῶν καὶ βορρᾶ, καὶ θαλάσσης, καὶ ἑῴας τᾶ τέκνα σου ἐν σοὶ εὐλογοῦντα, Χριστὸν εἰς τοὺς αἰῶνας."
+
+pePA.Ode83.ode = misc_gr_GR_cog.Ode8
+pePA.Ode83.mode = misc_gr_GR_cog.Mode1
+pePA.Ode83.melody = he.h.m1_gr_GR_cog.AftiIKliti.name
+pePA.Ode83.text = "Πάτερ παντοκράτορ, καὶ Λόγε, καὶ Πνεῦμα, τρισὶν ἑνιζομένη, ἐν ὑποστάσεσι φύσις, ὑπερούσιε καὶ ὑπέρθεε εἰς σὲ βεβαπτίσμεθα, καὶ σὲ εὐλογοῦμεν, εἰς πάντας τοὺς αἰῶνας."
+
+pePA.Ode8T1.ode = misc_gr_GR_cog.Ode8
+pePA.Ode8T1.mode = misc_gr_GR_cog.Mode1
+pePA.Ode8T1.melody = he.h.m1_gr_GR_cog.AftiIKliti.name
+pePA.Ode8T1.text = "Ἦλθε διὰ σοῦ εἰς τὸν κόσμον ὁ κτίστης, Παρθένε Θεοτόκε, καὶ τὴν γαστέρα τοῦ ᾍδου διαρρήξας θνητοῖς, τὴν Ἀνάστασιν ἡμῖν ἐδωρήσατο· διὸ εὐλογοῦμεν αὐτόν εἰς τοὺς αἰῶνας."
+
+pePA.Ode8T2.ode = misc_gr_GR_cog.Ode8
+pePA.Ode8T2.mode = misc_gr_GR_cog.Mode1
+pePA.Ode8T2.melody = he.h.m1_gr_GR_cog.AftiIKliti.name
+pePA.Ode8T2.text = "Ὅλον καθελὼν τοῦ θανάτου τὸ κράτος, ὁ Υἱός σου Παρθένε, ἐν τῇ αὐτοῦ Ἀναστάσει, ὡς Θεὸς κραταιός, συνανύψωσεν ἡμᾶς, καὶ ἐθέωσε· διὸ ἀνυμνοῦμεν αὐτὸν εἰς τοὺς αἰῶνας."
+
+pePA.Ode9M01.text = "Μεγάλυνον ψυχή μου, τὸν ἐθελουσίως παθόντα καὶ ταφέντα καὶ ἐξαναστάντα τριήμερον ἐκ τάφου."
+
+pePA.Ode9M02.text = "Μεγάλυνον ψυχή μου τὸν ἐξαναστάντα, τριήμερον ἐκ τάφου, Χριστὸν τὸν ζωοδότην."
+ 
+pePA.Ode9M03.text = "Χριστὸς τὸ Καινὸν Πάσχα, τὸ ζωόθυτον θῦμα, ἀμνὸς Θεοῦ ὁ αἴρων τὴν ἁμαρτίαν κόσμου."
+ 
+pePA.Ode9M04.text = "Σήμερον πᾶσα κτίσις ἀγάλλεται καὶ χαίρει, ὅτι Χριστὸς ἀνέστη, καὶ ἅδης ἐσκυλεύθη."
+
+pePA.Ode9M05.text = "Ἄγγελος ἐξαστράπτων ταῖς γυναιξὶν ἐβόα· Παύσασθε τῶν δακρύων, ὅτι Χριστὸς ἀνέστη."
+
+pePA.Ode9M06.text = "Μαγδαληνὴ Μαρία προσέδραμε τῷ τάφῳ, καὶ τὸν Χριστὸν ἰδοῦσα ὡς κηπουρὸν ἠρώτα."
+
+pePA.Ode9M07.text = "Ἐξύπνησας ὑπνώσας νεκροὺς τοὺς ἀπ' αἰῶνος, βασιλικῶς βρυχήσας ὡς ἐξ Ἰούδα λέων."
+
+pePA.Ode9M08.text = "Ὅτι Χριστὸς ἀνέστη τὸν θάνατον πατήσας, καὶ τοὺς νεκροὺς ἐγείρας, λαοί, ἀγαλλιᾶσθε."
+ 
+pePA.Ode9M09.text = "Σήμερον ὁ Δεσπότης ἐσκύλευσε τὸν ᾅδην, ἐγείρας τοὺς δεσμίους, οὓς ἀπ' αἰῶνος εἶχε δεινῶς κεκρατημένους."
+
+pePA.Ode9MTr.text = me.m01.d06_gr_GR_cog.meMA.Ode9C2MTr.text 
+ 
+pePA.Ode9MTh.text = "Χαῖρε, Παρθένε, χαῖρε, χαῖρε εὐλογημένη, χαῖρε δεδοξασμένη, σὸς γὰρ Υἱὸς ἀνέστη τριήμερος ἐκ τάφου."
+ 
+pePA.Ode9MKa.text = "Ὁ Ἀγγελος ἐβόα τὴ κεχαριτωμένη, Ἁγνὴ Παρθένε, χαῖρε, καὶ πάλιν ἐρῶ, χαῖρε, ὁ σὸς Υἱὸς ἀνέστη τριήμερος ἐκ τάφου."
+
+pePA.Ode9H.ode = misc_gr_GR_cog.Ode9
+pePA.Ode9H.mode = misc_gr_GR_cog.Mode1
+pePA.Ode9H.melody = misc_gr_GR_cog.Heirmos
+pePA.Ode9H.text = he.h.m1_gr_GR_cog.FotizouFotizou.text
+
+pePA.Ode91.ode = misc_gr_GR_cog.Ode9
+pePA.Ode91.mode = misc_gr_GR_cog.Mode1
+pePA.Ode91.melody = he.h.m1_gr_GR_cog.FotizouFotizou.name
+pePA.Ode91.text = "Ὢ θείας, ὢ φίλης, ὢ γλυκυτάτης σου φωνῆς· μεθ' ἡμῶν ἀψευδῶς γάρ, ἐπηγγείλω ἔσεσθαι, μέχρι τερμάτων αἰῶνος Χριστέ· ἣν οἱ πιστοί, ἄγκυραν ἐλπίδος, κατέχοντες ἀγαλλόμεθα."
+
+pePA.Ode92.ode = misc_gr_GR_cog.Ode9
+pePA.Ode92.mode = misc_gr_GR_cog.Mode1
+pePA.Ode92.melody = he.h.m1_gr_GR_cog.FotizouFotizou.name
+pePA.Ode92.text = "Ὦ Πάσχα τὸ μέγα, καὶ ἱερώτατον, Χριστέ· ὦ σοφία καὶ Λόγε, τοῦ Θεοῦ καὶ δύναμις· δίδου ἡμῖν ἐκτυπώτερον, σοῦ μετασχεῖν, ἐν τῇ ἀνεσπέρῳ ἡμέρᾳ τῆς Βασιλείας σου."
+
+pePA.Ode9T1.ode = misc_gr_GR_cog.Ode9
+pePA.Ode9T1.mode = misc_gr_GR_cog.Mode1
+pePA.Ode9T1.melody = he.h.m1_gr_GR_cog.FotizouFotizou.name
+pePA.Ode9T1.text = "Συμφώνως Παρθένε, σὲ μακαρίζομεν πιστοί. Χαῖρε πύλη Κυρίου, χαῖρε πόλις ἔμψυχε, χαῖρε, δι' ἧς ἡμῖν ἔλαμψε, σήμερον φῶς τοῦ ἐκ σοῦ τεχθέντος, τῆς ἐκ νεκρῶν ἀναστάσεως."
+
+pePA.Ode9T2.ode = misc_gr_GR_cog.Ode9
+pePA.Ode9T2.mode = misc_gr_GR_cog.Mode1
+pePA.Ode9T2.melody = he.h.m1_gr_GR_cog.FotizouFotizou.name
+pePA.Ode9T2.text = "Εὐφραίνου, ἀγάλλου, ἡ θεία πύλη τοῦ φωτός· ὁ γὰρ δύνας ἐν τάφῳ, Ἰησοῦς ἀνέτειλε, λάμψας ἡλίου φαιδρότερον, καὶ τοὺς πιστοὺς πάντας καταυγάσας, θεοχαρίτωτε Δέσποινα."
+
+pePA.Ode9K.ode = misc_gr_GR_cog.Ode9
+pePA.Ode9K.mode = misc_gr_GR_cog.Mode1
+pePA.Ode9K.melody = misc_gr_GR_cog.Heirmos
+pePA.Ode9K.text = he.h.m1_gr_GR_cog.FotizouFotizou.text
+
+pePA.Exaposteilarion.mode = misc_gr_GR_cog.Mode2
+pePA.Exaposteilarion.melody = misc_gr_GR_cog.Automelon
+pePA.Exaposteilarion.text = he.a.m2_gr_GR_cog.SarkiYpnosas.text
+
+pePA.Stichera1.mode = misc_gr_GR_cog.Mode5
+pePA.Stichera1.text = "Πάσχα ἱερὸν ἡμῖν σήμερον ἀναδέδεικται· Πάσχα καινόν, Ἅγιον· Πάσχα μυστικόν· Πάσχα πανσεβάσμιον· Πάσχα Χριστὸς ὁ λυτρωτής. Πάσχα ἄμωμον· Πάσχα μέγα· Πάσχα τῶν πιστῶν· Πάσχα τὸ πύλας ἡμῖν τοῦ Παραδείσου ἀνοῖξαν· Πάσχα, πάντας ἁγιάζον πιστούς."
+
+pePA.Stichera2.mode = misc_gr_GR_cog.Mode5
+pePA.Stichera2.text = "Δεῦτε ἀπὸ θέας Γυναῖκες εὐαγγελίστριαι, καὶ τῇ Σιὼν εἴπατε· Δέχου παρ' ἡμῶν χαρᾶς εὐαγγέλια, τῆς Ἀναστάστεως Χριστοῦ· τέρπου, χόρευε, καὶ ἀγάλλου Ἱερουσαλήμ, τὸν Βασιλέα Χριστόν, θεασαμένη ἐκ τοῦ μνήματος, ὡς νυμφίον προερχόμενον."
+
+pePA.Stichera3.mode = misc_gr_GR_cog.Mode5
+pePA.Stichera3.text = "Αἱ μυροφόροι γυναῖκες, ὄρθρου βαθέος, ἐπιστᾶσαι πρὸς τὸ μνῆμα τοῦ Ζωοδότου, εὗρον Ἄγγελον, ἐπὶ τὸν λίθον καθήμενον, καὶ αὐτὸς προσφθεγξάμενος, αὐταῖς οὕτως ἔλεγε· Τί ζητεῖτε τὸν ζῶντα μετὰ τῶν νεκρῶν; τί θρηνεῖτε τὸν ἄφθαρτον ὡς ἐν φθορᾷ; ἀπελθοῦσαι κηρύξατε τοῖς αὐτοῦ Μαθηταῖς."
+
+pePA.Stichera4.mode = misc_gr_GR_cog.Mode5
+pePA.Stichera4.text = "Πάσχα τὸ τερπνόν· Πάσχα Κυρίου, Πάσχα· Πάσχα πανσεβάσμιον ἡμῖν ἀνέτειλε· Πάσχα ἐν χαρᾷ ἀλλήλους περιπτυξώμεθα· ὦ Πάσχα, λύτρον λύπης· καὶ γὰρ ἐκ τάφου σήμερον, ὥσπερ ἐκ παστοῦ, ἐκλάμψας Χριστός, τὰ Γύναια χαρᾶς ἔπλησε λέγων· Κηρύξατε Ἀποστόλοις."
+
+pePA.SticGlory.mode = misc_gr_GR_cog.Mode5
+pePA.SticGlory.text = "Ἀναστάσεως ἡμέρα, καὶ λαμπρυνθῶμεν τῇ πανηγύρει, καὶ ἀλλήλους περιπτυξώμεθα. Εἴπωμεν ἀδελφοί, καὶ τοῖς μισοῦσιν ἡμᾶς· Συγχωρήσωμεν πάντα τῇ Ἀναστάσει, καὶ οὕτω βοήσωμεν· Χριστὸς ἀνέστη ἐκ νεκρῶν, θανάτῳ θάνατον πατήσας, καὶ τοῖς ἐν τοῖς μνήμασι, ζωὴν χρισάμενος."
+
+pePA.Homily.title = "Τοῦ ἐν Ἁγίοις Πατρὸς ἡμῶν Ἰωάννου Ἀρχιεπισκόπου Κωνσταντινουπόλεως τοῦ Χρυσοστόμου Λόγος Κατηχητικὸς εἰς τὴν ἁγίαν καὶ λαμπροφόρον ἡμέραν τῆς ἐνδόξου καὶ σωτηριώδους Χριστοῦ τοῦ Θεοῦ ἡμῶν Ἀναστασεως"
+pePA.Homily.text = "Εἴ τις εὐσεβὴς καὶ φιλόθεος ἀπολαυέτω τῆς καλῆς ταύτης καὶ λαμπρᾶς πανηγύρεως, Εἴ τις δοῦλος εὐγνώμων, εἰσελθέτω χαίρων εἰς τὴν χαρὰν τοῦ Κυρίου αὐτοῦ. Εἴ τις ἔκαμε νηστεύων, ἀπολαυέτω νῦν τὸ δηνάριον. Εἴ τις ἀπὸ τῆς πρώτης ὥρας εἰργάσατο, δεχέσθω σήμερον τὸ δίκαιον ὄφλημα. Εἴ τις μετὰ τὴν τρίτην ἦλθεν, εὐχαρίστως ἑορτασάτω. Εἴ τις μετὰ τὴν ἕκτην ἔφθασε, μηδὲν ἀμφιβαλλέτω· καὶ γὰρ οὐδὲν ζημιοῦται. Εἴ τις ὑστέρησεν εἰς τὴν ἐννάτην, προσελθέτω, μηδὲν ἐνδοιάζων. Εἴ τις εἰς μόνην ἔφθασε τὴν ἑνδεκάτην, μὴ φοβηθῇ τὴν βραδύτητα· φιλότιμος γὰρ ὢν ὁ Δεσπότης, δέχεται τὸν ἔσχατον, καθάπερ καὶ τὸν πρῶτον. Ἀναπαύει τὸν τῆς ἑνδεκάτης, ὡς τὸν ἐργασάμενον ἀπὸ τῆς πρώτης. Καὶ τὸν ὕστερον ἐλεεῖ, καὶ τὸν πρῶτον θεραπεύει, κᾀκείνῳ δίδωσι, καὶ τούτῳ χαρίζεται. Καὶ τὰ ἔργα δέχεται, καὶ τὴν γνώμην ἀσπάζεται. Καὶ τὴν πρᾶξιν τιμᾷ, καὶ τὴν πρόθεσιν ἐπαινεῖ· οὐκοῦν εἰσέλθετε πάντες εἰς τὴν χαρὰν τοῦ Κυρίου ἡμῶν, καὶ πρῶτοι καὶ δεύτεροι τὸν μισθὸν ἀπολαύετε. Πλούσιοι καὶ πένητες μετ' ἀλλήλων χορεύσατε. Ἐγκρατεῖς καὶ ῥάθυμοι τὴν ἡμέραν τιμήσατε. Νηστεύσαντες καὶ μὴ νηστεύσαντες, εὐφράνθητε σήμερον. Ἡ τράπεζα γέμει τρυφήσατε πάντες, ὁ μόσχος πολὺς μηδεὶς ἐξέλθῃ πεινῶν. Πάντες ἀπολαύετε τοῦ συμποσίου τῆς πίστεως. Πάντες ἀπολαύσατε τοῦ πλούτου τῆς χρηστότητος. Μηδείς θρηνείτω πενίαν· ἐφάνη γὰρ ἡ κοινὴ βασιλεία. Μηδεὶς ὀδυρέσθω πταίσματα· συγγνώμη γὰρ ἐκ τοῦ τάφου ἀνέτειλε. Μηδεὶς φοβείσθω θάνατον· ἠλευθέρωσε γὰρ ἡμᾶς τοῦ Σωτῆρος ὁ θάνατος. Ἔσβεσεν αὐτόν, ὑπ' αὐτοῦ κατεχόμενος. Ἐσκύλευσε τὸν ᾍδην, ὁ κατελθὼν εἰς τὸν ᾍδην. Ἐπίκρανεν αὐτόν, γευσάμενον τῆς σαρκὸς αὐτοῦ, καὶ τοῦτο προλαβὼν Ἡσαΐας, ἐβόησεν· ὁ ᾍδης, φησίν, ἐπικράνθη συναντήσας σοι κάτω. Ἐπικράνθη, καὶ γὰρ κατηργήθη. Ἐπικράνθη, καὶ γὰρ ἐνεπαίχθη. Ἐπικράνθη, καὶ γὰρ ἐνεκρώθη. Ἐπικράνθη, καὶ γὰρ καθῃρέθη. Ἐπικράνθη, καὶ γὰρ ἐδεσμεύθη. Ἔλαβε σῶμα, καὶ Θεῷ περιέτυχεν. Ἔλαβε γῆν, καὶ συνήντησεν οὐρανῷ. Ἔλαβεν, ὅπερ ἔβλεπε, καὶ πέπτωκεν, ὅθεν οὐκ ἔβλεπε. Ποῦ σου θάνατε τὸ κέντρον; ποῦ σου ᾍδη τὸ νῖκος; Ἀνέστη Χριστός, καὶ σὺ καταβέβλησαι. Ἀνέστη Χριστὸς καὶ πεπτώκασι δαίμονες. Ἀνέστη Χριστός, καὶ χαίρουσιν Ἄγγελοι. Ἀνέστη Χριστός, καὶ ζωὴ πολιτεύεται. Ἀνέστη Χριστός, καὶ νεκρὸς οὐδεὶς ἐπὶ μνήματος. Χριστὸς γὰρ ἐγερθείς ἐκ νεκρῶν ἀπαρχὴ τῶν κεκοιμημένων ἐγένετο. Αὐτῷ ἡ δόξα καὶ τὸ κράτος εἰς τοὺς αἰῶνας τῶν αἰώνων. Ἀμήν."
+
+pePA.Hours1.text = pePA.ChristIsRisen.text
+pePA.Hours2.text = ho.s03_gr_GR_cog.hoMA.SunPostGospel.text
+pePA.Hours3.text = pePA.Hypakoe.text
+pePA.Hours4.text = pePA.Kontakion.text
+pePA.Hours5.text = oc.m4.d1_gr_GR_cog.ocMA.OdeS1C12.text
+pePA.Hours6.text = oc.m4.d1_gr_GR_cog.ocMA.OdeS7C12.text
+pePA.Hours7.text = oc.m4.d1_gr_GR_cog.ocMA.OdeS7C1T.text
+
+pePA.Antiphon1Verse1.source = ""
+//pePA.Antiphon1Verse1.text = "Ἀλαλάξατε τῷ Κυρίῳ πᾶσα ἡ γῆ."
+
+pePA.Antiphon1Verse2.source = ""
+//pePA.Antiphon1Verse2.text = "Ψάλατε δὴ τῷ ὀνόματι αὐτοῦ, δότε δόξαν ἐν αἰνέσει αὐτοῦ."
+
+pePA.Antiphon1Verse3.source = ""
+//pePA.Antiphon1Verse3.text = "Εἴπατε τῷ Θεῷ· Ὡς φοβερὰ τὰ ἔργα σου. Ἐν τῷ πλήθει τῆς δυνάμεώς σου ψεύσονταί σε οἱ ἐχθροί σου."
+
+pePA.Antiphon1Verse4.source = ""
+//pePA.Antiphon1Verse4.text = "Πᾶσα ἡ γῆ προσκυνησάτωσάν σοι καὶ ψαλάτωσάν σοι, ψαλάτωσαν δὴ τῷ ὀνόματι σου Ὕψιστε."
+
+pePA.Antiphon2Verse1.source = ""
+//pePA.Antiphon2Verse1.text = "Ὁ Θεὸς οἰκτειρήσαι ἡμᾶς καὶ εὐλογήσαι ἡμᾶς, ἐπιφάναι τὸ πρόσωπον αὐτοῦ ἐφ' ἡμᾶς, καὶ ἐλεήσαι ἡμᾶς."
+
+pePA.Antiphon2Verse2.source = ""
+//pePA.Antiphon2Verse2.text = "Τοῦ γνῶναι ἐν τῇ γῇ τὴν ὁδόν σου, ἐν πᾶσιν ἔθνεσι τὸ σωτήριόν σου."
+
+pePA.Antiphon2Verse3.source = ""
+//pePA.Antiphon2Verse3.text = "Ἐξομολογησάσθωσάν σοι λαοί, ὁ Θεός, ἐξομολογησάσθωσάν σοι λαοὶ πάντες."
+
+pePA.Antiphon2Verse4.source = ""
+//pePA.Antiphon2Verse4.text = "Εὐλογήσαι ἡμᾶς ὁ Θεός, καὶ φοβηθήτωσαν αὐτὸν πάντα τὰ πέρατα τῆς γῆς."
+
+pePA.Antiphon2.text = ho.s07_gr_GR_cog.hoLI.Antiphon2s.text
+
+pePA.Antiphon3Verse1.source = ""
+//pePA.Antiphon3Verse1.text = pePA.PaschaVerse1.text
+
+pePA.Antiphon3Verse2.source = ""
+//pePA.Antiphon3Verse2.text = pePA.PaschaVerse2.text
+
+pePA.Antiphon3Verse3.source = ""
+//pePA.Antiphon3Verse3.text = pePA.PaschaVerse3.text
+
+pePA.Antiphon3Verse4.source = ""
+//pePA.Antiphon3Verse4.text = pePA.PaschaVerse4.text
+
+pePA.EntranceHymn.source = ""
+pePA.EntranceHymn.text = "Ἐν Ἐκκλησίαις εὐλογεῖτε τὸν Θεόν, Κύριον ἐκ πηγῶν Ἰσραήλ."
+
+pePA.SeasonalKontakion.mode = misc_gr_GR_cog.Mode8
+pePA.SeasonalKontakion.melody  = ""
+pePA.SeasonalKontakion.text = pePA.Kontakion.text
+
+pePA.TheotokosHymn.mode = misc_gr_GR_cog.Mode1
+pePA.TheotokosHymnVerse.text = pePA.Ode9MKa.text
+pePA.TheotokosHymn.text = pePA.Ode9H.text
+
+pePA.CommunionHymn.source  = ""
+pePA.CommunionHymn.text = "Σῶμα Χριστοῦ μεταλάβετε, πηγῆς ἀθανάτου γεύσασθε."
+
+pePA.AfterCommunion.mode = misc_gr_GR_cog.Mode5
+pePA.AfterCommunion.text = pePA.ChristIsRisen.text
+
+pePA.AfterCommunion2.mode = misc_gr_GR_cog.Mode5 //instead of Blessed be the name
+pePA.AfterCommunion2.text = pePA.ChristIsRisen.text

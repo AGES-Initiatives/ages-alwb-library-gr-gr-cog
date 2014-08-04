@@ -1,0 +1,100 @@
+A_Resource_Whose_Name = ho.s10_gr_GR_cog
+
+hoVE.title = "ΑΚΟΛΟΥΘΙΑ ΤΟΥ ΕΣΠΕΡΙΝΟΥ"
+
+R01 = ""
+R02 = ""
+hoVE.Ps103.text = "" //for media (text)
+R03 = ""
+R04 = ""
+R05 = ""
+R06 = ""
+R07 = ""
+R08 = ""
+R09 = ""
+hoVE.FosIlaron.title = ""
+R10 = ""
+hoVE.FosIlaron.text = "Φῶς ἱλαρὸν ἁγίας δόξης, ἀθανάτου Πατρός, οὐρανίου, ἁγίου, μάκαρος, Ἰησοῦ Χριστέ, ἐλθόντες ἐπὶ τὴν ἡλίου δύσιν, ἰδόντες φῶς ἑσπερινόν, ὑμνοῦμεν Πατέρα, Υἱόν, καὶ ἅγιον Πνεῦμα Θεόν. Ἄξιόν σε ἐν πᾶσι καιροῖς, ὑμνεῖσθαι φωναῖς αἰσίαις, Υἱὲ Θεοῦ, ζωὴν ὁ διδούς· Διὸ ὁ κόσμος σὲ δοξάζει."
+R11  = ""
+
+hoVE.SundayEvening.title = "Τῇ Κυριακῇ, ἑσπέρας."
+hoVE.SundayProkeimenon.text = "" //for media
+
+hoVE.MondayEvening.title = "Τῇ Δευτέρᾳ, ἑσπέρας."
+hoVE.MondayProkeimenon.text = "" //for media
+
+hoVE.TuesdayEvening.title = "Τῇ Τρίτῃ, ἑσπέρας."
+hoVE.TuesdayProkeimenon.text = "" //for media
+
+hoVE.WednesdayEvening.title = "Τῇ Τετάρτῃ, ἑσπέρας."
+hoVE.WednesdayProkeimenon.text = "" //for media
+
+hoVE.ThursdayEvening.title = "Τῇ Πέμπτῃ, ἑσπέρας."
+hoVE.ThursdayProkeimenon.text = "" //for media
+
+hoVE.FridayEvening.title = "Τῇ Παρασκευῇ, ἑσπέρας."
+hoVE.FridayProkeimenon.text = "" //for media
+
+hoVE.SaturdayEvening.title = "Τῷ Σαββάτῳ, ἑσπέρας."
+hoVE.SaturdayProkeimenon.text = "" //for media
+
+hoVE.GreatProkeimenonTisTheosMegas.text = "" //for media
+hoVE.GreatProkeimenonOTheosImon.text = "" //for media
+hoVE.GreatProkeimenonLent1.text = "" //for media
+hoVE.GreatProkeimenonLent2.text = "" //for media
+
+R12  = ""
+R13  = ""
+R14  = ""
+hoVE.MondayAlleluia.title = ""
+hoVE.MondayAlleluia.text = "" //for possible media
+
+hoVE.TuesdayThursdayAlleluia.title = ""
+hoVE.TuesdayThursdayAlleluia.text = "" //for possible media
+
+hoVE.WednesdayAlleluia.title = ""
+hoVE.WednesdayAlleluia.text = "" //for possible media
+
+hoVE.FridayAlleluia.title = ""
+hoVE.FridayAlleluia.text = "" //for possible media
+
+R15  = ""
+
+//Not in Horologion. Needed for Vespers readings
+hoVE.Reading_Intro.text1 = "" //This first part is needed to construct the English sentence.
+hoVE.Reading_Intro.text2 = "τὸ ἀνάγνωσμα."
+
+R16  = ""
+//This Prayer is also in the Small Doxology, at Matins, Compline etc. with "day" and "night"
+hoVE.Prayer_Kataxioson.text = "Καταξίωσον, Κύριε, ἐν τῇ ἑσπέρᾳ ταύτῃ, ἀναμαρτήτους φυλαχθῆναι ἡμᾶς. Εὐλογητὸς εἶ, Κύριε, ὁ Θεὸς τῶν Πατέρων ἡμῶν, καὶ αἰνετὸν καὶ δεδοξασμένον τὸ ὄνομά σου εἰς τοὺς αἰῶνας. Ἀμήν. Γένοιτο, Κύριε, τὸ ἔλεός σου ἐφ' ἡμᾶς, καθάπερ ἠλπίσαμεν ἐπὶ σέ. Εὐλογητὸς εἶ, Κύριε, δίδαξόν με τὰ δικαιώματά σου. Εὐλογητὸς εἶ, Δέσποτα, συνέτισον μὲ τὰ δικαιώματά σου. Εὐλογητὸς εἶ, Ἅγιε, φώτισόν με τοῖς δικαιώμασί σου. Κύριε, τὸ ἔλεός σου εἰς τὸν αἰῶνα· τὰ ἔργα τῶν χειρῶν σου μὴ παρίδῃς. Σοὶ πρέπει αἶνος, σοὶ πρέπει ὕμνος, σοὶ δόξα πρέπει, τῷ Πατρὶ καὶ τῷ Υἱῷ καὶ τῷ Ἁγίῳ Πνεύματι, νῦν καὶ ἀεὶ καὶ εἰς τοὺς αἰῶνας των αἰώνων. (Ἀμήν.)"
+R17  = ""
+R18  = ""
+R19  = ""
+R20  = ""
+R21  = ""
+hoVE.LentApolytikion1.mode = misc_gr_GR_cog.Mode5
+hoVE.LentApolytikion1.text = "Θεοτόκε Παρθένε, χαῖρε κεχαριτωμένη Μαρία, ὁ Κύριος μετὰ σοῦ· εὐλογημένη σὺ ἐν γυναιξί, καὶ εὐλογημένος ὁ καρπὸς τῆς κοιλίας σου, ὅτι Σωτῆρα ἔτεκες τῶν ψυχῶν ἡμῶν."
+hoVE.LentApolytikion2.mode = misc_gr_GR_cog.Mode5
+hoVE.LentApolytikion2.text = "Βαπτιστὰ τοῦ Χριστοῦ, πάντων ἡμῶν μνήσθητι, ἵνα ῥυσθῶμεν τῶν ἀνομιῶν ἡμῶν· σοὶ γὰρ ἐδόθη χάρις πρεσβεύειν ὑπὲρ ἡμῶν."
+hoVE.LentApolytikion3.mode = misc_gr_GR_cog.Mode5
+hoVE.LentApolytikion3.text = "Ἱκετεύσατε ὑπὲρ ἡμῶν, ἅγιοι Ἀπόστολοι, καὶ Ἅγιοι πάντες, ἵνα ῥυσθῶμεν κινδύνων καὶ θλίψεων, ὑμᾶς γὰρ θερμοὺς προστάτας, πρὸς τὸν Σωτῆρα κεκτήμεθα."
+hoVE.LentApolytikion4.mode = misc_gr_GR_cog.Mode5
+hoVE.LentApolytikion4.text = oc.m5.d7_gr_GR_cog.ocMA.LaudsTheotokion.text 
+R22  = ""
+R23  = ""
+R24  = ""
+R25  = ""
+hoVE.Prayer_PanagiaTrias.text = //Παναγία Τριάς, τὸ ὁμοούσιον κράτος...
+hoVE.Prayer_EiiToOnomaKyriou.text = //Εἴη τὸ ὄνομα Κυρίου εὐλογημένον...
+R26  = ""
+
+// Not in Orologion
+//Lity
+hoVE.LityKyrieEleison.text = prayers_gr_GR_cog.res06
+
+// Artoclasia
+hoVE.ArtoTheotokeParthene.text = hoVE.LentApolytikion1.text
+hoVE.ArtoPrayer1 = "Κύριε, Ἰησοῦ Χριστέ, ὁ Θεὸς ἡμῶν, ὁ εὐλογήσας τοὺς πέντε ἄρτους ἐν τῇ ἐρήμῳ, καὶ ἐξ αὐτῶν πεντακισχιλίους ἄνδρας χορτάσας, αὐτὸς εὐλόγησον καὶ τοὺς ἄρτους τούτους, τὸν σῖτον, τὸν οἶνον, καὶ τὸ ἔλαιον· καὶ πλήθυνον αὐτὰ ἐν τῇ ἁγίᾳ Ἐκκλησίᾳ, τῇ πόλει ταύτῃ, ἐν τοῖς οἴκοις τῶν ἑορταζόντων καὶ εἰς τὸν κόσμον σου ἅπαντα· καὶ τοὺς ἐξ αὐτῶν μεταλαμβάνοντας πιστοὺς δούλους σου ἁγίασον."
+hoVE.ArtoPrayer2 = "Ὅτι σὺ εἶ ὁ εὐλογῶν καὶ ἁγιάζων τὰ σύμπαντα, Χριστὲ ὁ Θεὸς ἡμῶν, καὶ σοὶ τὴν δόξαν ἀναπέμπομεν, σὺν τῷ ἀνάρχῳ σου Πατρί, καὶ τῷ Παναγίῳ καὶ ἀγαθῷ καὶ ζωοποιῷ σου Πνεύματι, νῦν καὶ ἀεὶ καὶ εἰς τοὺς αἰῶνας τῶν αἰώνων."
+hoVE.ArtoHymn.text = "" //for media
+

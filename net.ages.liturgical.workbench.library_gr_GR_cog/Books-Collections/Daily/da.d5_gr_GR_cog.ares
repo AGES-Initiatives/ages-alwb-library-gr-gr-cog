@@ -1,0 +1,43 @@
+A_Resource_Whose_Name = da.d5_gr_GR_cog 
+
+daDay.text = "Πέμπτη."
+daCommemoration.text = "Τῶν Ἁγίων Ἀποστόλων."
+
+daVE.OnTheEveningBefore = template.titles_gr_GR_cog.d.onWednesdayEvening
+
+daVE.Apolytikion1.mode = misc_gr_GR_cog.Mode3
+daVE.Apolytikion1.melody  = ""
+daVE.Apolytikion1.text = he.ga_gr_GR_cog.ApostoloiAgioi.text
+
+daVE.Apolytikion2.mode = misc_gr_GR_cog.Mode4
+daVE.Apolytikion2.melody = he.ga_gr_GR_cog.KanonaPisteos.name
+daVE.Apolytikion2.text = me.m12.d06_gr_GR_cog.meVE.Apolytikion1.name
+
+daVE.ApolTheotokion.mode = misc_gr_GR_cog.Mode4
+daVE.ApolTheotokion.melody  = ""
+daVE.ApolTheotokion.text = oc.m4.d3_gr_GR_cog.ocMA.Kathisma13.text
+
+daMA.Triadic1Ending.text = "Πρεσβείαις τῶν Ἀποστόλων σῶσον ἡμᾶς."
+daMA.Triadic2Ending.text = "Πρεσβείαις τοῦ Ἱεράρχου σῶσον ἡμᾶς."
+daMA.Triadic3Ending.text = prayers_gr_GR_cog.trDiaTisTheotokou
+
+daMA.Photagogic1Ending.text = "πρεσβείαις τῶν Ἀποστόλων, καὶ σῶσόν με."
+daMA.Photagogic2Ending.text = "πρεσβείαις τοῦ Ἱεράρχου, καὶ σῶσόν με."
+daMA.Photagogic3Ending.text = prayers_gr_GR_cog.fePresveiaisTisTheotokou
+
+daMA.Photagogic1Beginning.text = "Πρεσβείαις Κύριε τῶν Ἀποστόλων,"
+daMA.Photagogic2Beginning.text = "Πρεσβείαις Κύριε τοῦ Ἱεράρχου,"
+daMA.Photagogic3Beginning.text = prayers_gr_GR_cog.fbPresveiaisKyrieTisTheotokou
+
+daMA.Exaposteilarion1.mode = misc_gr_GR_cog.Mode3
+daMA.Exaposteilarion1.melody = he.a.m3_gr_GR_cog.OOuranonToisAstrois.name
+daMA.Exaposteilarion1.text = "Ἡ δωδεκὰς ἡ ἁγία, τῶν Ἀποστόλων τὸ κλέος, σὺν τῷ σεπτῷ Νικολάῳ, καὶ Ἱεράρχῃ Μυρέων, ὑπὲρ ἡμῶν τὸν Σωτῆρα, ἐκδυσωπεῖτε ἀπαύστως."
+
+daMA.ExapTheotokion.mode = misc_gr_GR_cog.Mode3
+daMA.ExapTheotokion.melody = he.a.m3_gr_GR_cog.OOuranonToisAstrois.name
+daMA.ExapTheotokion.text = "Ἐλπὶς τῶν ἀπηλπισμένων, πανύμνητε Θεοτόκε, μετὰ δακρύων βοῶ σοι, ἐκ βάθους μου τῆς καρδίας· Ἐξάρπασόν με Παρθένε, ἐκ τῶν τοῦ ᾅδου κευθμώνων."
+
+daLI.CommunionHymn.text = "" //for media
+
+daLI.CommunionHymnAlt.text = ""
+

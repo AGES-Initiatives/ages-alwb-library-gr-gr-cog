@@ -1,0 +1,101 @@
+A_Resource_Whose_Name = pe.d084_gr_GR_cog
+
+peCommemoration.text = "" //full title of day
+peShortCommemoration1.text = ""
+peInsert1 = "" //for use in petitions and dismissal
+peInsert2 = "" //for use in petitions and dismissal
+peNote.text = ""
+peDismissal = dismissals_gr_GR_cog.dis00.resurrection
+
+peVE.Stichera01.mode = misc_gr_GR_cog.Mode1
+peVE.Stichera01.melody = misc_gr_GR_cog.Idiomelon
+peVE.Stichera01.text = pe.d078_gr_GR_cog.peVE.Stichera01.text
+
+peVE.Stichera02.mode = misc_gr_GR_cog.Mode1
+peVE.Stichera02.melody = misc_gr_GR_cog.Idiomelon
+peVE.Stichera02.text = pe.d078_gr_GR_cog.peVE.Stichera02.text
+
+peVE.Stichera03.mode = misc_gr_GR_cog.Mode1
+peVE.Stichera03.melody = misc_gr_GR_cog.Idiomelon
+peVE.Stichera03.text = pe.d078_gr_GR_cog.peVE.Stichera03.text
+
+peVE.SticGlory.mode = misc_gr_GR_cog.Mode6
+peVE.SticGlory.melody = misc_gr_GR_cog.Idiomelon
+peVE.SticGlory.text = pe.d078_gr_GR_cog.peVE.SticGlory.text
+
+peVE.SticBoth.mode = misc_gr_GR_cog.Mode1
+peVE.SticBoth.melody = misc_gr_GR_cog.Idiomelon
+peVE.SticBoth.text = oc.m1.d1_gr_GR_cog.ocVE.SticTheotokion.text
+
+peVE.Aposticha1.mode = misc_gr_GR_cog.Mode1
+peVE.Aposticha1.melody  = ""
+peVE.Aposticha1.text = oc.m1.d1_gr_GR_cog.ocVE.Stichera1.text
+
+peVE.Aposticha2.mode = misc_gr_GR_cog.Mode1
+peVE.Aposticha2.melody  = ""
+peVE.Aposticha2.text = oc.m1.d1_gr_GR_cog.ocVE.Stichera2.text
+
+peVE.Aposticha3.mode = misc_gr_GR_cog.Mode1
+peVE.Aposticha3.melody  = ""
+peVE.Aposticha3.text = oc.m1.d1_gr_GR_cog.ocVE.Stichera3.text
+
+peVE.Aposticha4.mode = misc_gr_GR_cog.Mode1
+peVE.Aposticha4.melody  = ""
+peVE.Aposticha4.text = oc.m1.d1_gr_GR_cog.ocVE.Aposticha1.text
+
+peVE.AposGlory.mode = misc_gr_GR_cog.Mode5
+peVE.AposGlory.melody = misc_gr_GR_cog.Idiomelon
+peVE.AposGlory.text = pe.d078_gr_GR_cog.peVE.AposGlory.text
+
+peMA.Kathisma11.mode = misc_gr_GR_cog.Mode1
+peMA.Kathisma11.melody = oc.m1.d1_gr_GR_cog.ocMA.Kathisma11.melody
+peMA.Kathisma11.text = oc.m1.d1_gr_GR_cog.ocMA.Kathisma11.text
+
+peMA.Kathisma12.mode = misc_gr_GR_cog.Mode1
+peMA.Kathisma12.melody = oc.m1.d1_gr_GR_cog.ocMA.Kathisma21.melody
+peMA.Kathisma12.text = oc.m1.d1_gr_GR_cog.ocMA.Kathisma21.text
+
+peMA.Kathisma1T.mode = misc_gr_GR_cog.Mode1
+peMA.Kathisma1T.melody = oc.m1.d7_gr_GR_cog.ocMA.Kathisma14.melody
+peMA.Kathisma1T.text = oc.m1.d7_gr_GR_cog.ocMA.Kathisma14.text
+
+peMA.Kathisma21.mode = misc_gr_GR_cog.Mode1
+peMA.Kathisma21.melody = pe.d078_gr_GR_cog.peMA.Kathisma11.melody
+peMA.Kathisma21.text = pe.d078_gr_GR_cog.peMA.Kathisma11.text
+
+peMA.Lauds1.mode = misc_gr_GR_cog.Mode1
+peMA.Lauds1.melody  = ""
+peMA.Lauds1.text = oc.m1.d1_gr_GR_cog.ocMA.Lauds1.text
+
+peMA.Lauds2.mode = misc_gr_GR_cog.Mode1
+peMA.Lauds2.melody  = ""
+peMA.Lauds2.text = oc.m1.d1_gr_GR_cog.ocMA.Lauds2.text
+
+peMA.Lauds3.mode = misc_gr_GR_cog.Mode1
+peMA.Lauds3.melody  = ""
+peMA.Lauds3.text = oc.m1.d1_gr_GR_cog.ocMA.Lauds3.text
+
+peMA.Lauds4.mode = misc_gr_GR_cog.Mode1
+peMA.Lauds4.melody  = ""
+peMA.Lauds4.text = oc.m1.d1_gr_GR_cog.ocMA.Lauds4.text
+
+peMA.LaudsGlory.mode = misc_gr_GR_cog.Mode6
+peMA.LaudsGlory.melody = misc_gr_GR_cog.Idiomelon
+peMA.LaudsGlory.text = pe.d078_gr_GR_cog.peMA.LaudsGlory.text
+
+peMA.Aposticha1.mode = misc_gr_GR_cog.Mode1
+peMA.Aposticha1.melody = pe.d078_gr_GR_cog.peMA.Lauds1.melody
+peMA.Aposticha1.text = pe.d078_gr_GR_cog.peMA.Lauds1.text
+
+peMA.Aposticha2.mode = misc_gr_GR_cog.Mode1
+peMA.Aposticha2.melody = pe.d078_gr_GR_cog.peMA.Lauds2.melody
+peMA.Aposticha2.text = pe.d078_gr_GR_cog.peMA.Lauds2.text
+
+peMA.Aposticha3.mode = misc_gr_GR_cog.Mode1
+peMA.Aposticha3.melody = pe.d078_gr_GR_cog.peMA.Lauds3.melody
+peMA.Aposticha3.text = pe.d078_gr_GR_cog.peMA.Lauds3.text
+
+peMA.AposGlory.mode = misc_gr_GR_cog.Mode1
+peMA.AposGlory.melody = misc_gr_GR_cog.Idiomelon
+peMA.AposGlory.text = pe.d078_gr_GR_cog.peVE.Stichera04.text
+

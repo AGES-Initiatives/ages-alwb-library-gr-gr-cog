@@ -3,7 +3,7 @@ A_Resource_Whose_Name = me.m12.dAC_gr_GR_cog
 meDate.text = "ΚΥΡΙΑΚΗ ΜΕΤΑ ΤΗΝ ΧΡΙΣΤΟΥ ΓΕΝΝΗΣΙΝ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
 meCommemoration.text = "Μνήμην ἐπιτελοῦμεν τῶν ἁγίων καὶ δικαίων, Ἰωσὴφ τοῦ Μνήστορος, Δαυῒδ τοῦ Βασιλέως, καὶ Ἰακώβου τοῦ Ἀδελφοθέου" //full title of day
 meShortCommemoration1.text = ""
-meInsert1 = "τῶν ἁγίων καὶ δικαίων, Ἰωσὴφ τοῦ Μνήστορος, Δαυῒδ τοῦ Βασιλέως, καὶ Ἰακώβου τοῦ Ἀδελφοθέου," //for use in petitions and dismissal
+meInsert1 = "καὶ τῶν ἁγίων καὶ δικαίων, Ἰωσὴφ τοῦ Μνήστορος, Δαυῒδ τοῦ Βασιλέως, καὶ Ἰακώβου τοῦ Ἀδελφοθέου," //for use in petitions and dismissal
 meInsert2 = "ὧν καὶ τὴν μνήμην ἐπιτελοῦμεν·" //for use in petitions and dismissal
 meNote.text = ""
 meDismissal = dismissals_gr_GR_cog.dis00.christmas
@@ -458,15 +458,13 @@ meMA.Lauds2.mode = misc_gr_GR_cog.Mode4
 meMA.Lauds2.melody  = ""
 meMA.Lauds2.text = me.m12.d25_gr_GR_cog.meMA.Lauds3.text
 
-meMA.LaudsSundayVerse1.source  = ""
-meMA.LaudsSundayVerse1.text = "Εἶπεν ὁ Κύριος τῷ Κυρίῳ μου κάθου ἐκ δεξιῶν μου ἕως ἂν θῶ τοὺς ἐχθρούς σου ὑποπόδιον τῶν ποδῶν σου."
+meMA.LaudsSundayVerse1.text = ""
 
 meMA.Lauds3.mode = misc_gr_GR_cog.Mode4
 meMA.Lauds3.melody  = ""
 meMA.Lauds3.text = me.m12.d25_gr_GR_cog.meMA.Lauds4.text
 
-meMA.LaudsSundayVerse2.source  = ""
-meMA.LaudsSundayVerse2.text = "Ἐκ γαστρὸς πρὸ Ἑωσφόρου ἐγέννησά σε, ὤμοσε Κύριος, καὶ οὐ μεταμεληθήσεται· Σὺ ἱερεὺς εἰς τὸν αἰῶνα, κατὰ τὴν τάξιν Μελχισεδέκ."
+meMA.LaudsSundayVerse2.text = ""
 
 meMA.Lauds4.mode = misc_gr_GR_cog.Mode4
 meMA.Lauds4.melody  = ""

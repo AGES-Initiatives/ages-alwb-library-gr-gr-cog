@@ -387,9 +387,6 @@ meMA.Kathisma31.melody = he.a.m4_gr_GR_cog.TachyProkatalave.name
 meMA.Kathisma31.text = "Τὰ ῥεῖθρα ἡγίασας τὰ Ἰορδάνια, τὸ κράτος συνέτριψας, τῆς ἁμαρτίας, Χριστὲ ὁ Θεὸς ἡμῶν· ὑπέκλινας τῇ παλάμῃ, σεαυτὸν τοῦ Προδρόμου, καὶ ἔσωσας ἐκ πλάνης, τῶν ἀνθρώπων τὸ γένος. διὸ σε ἱκετεύομεν· Σῶσον τὸν κόσμον σου."
 
 meMA.Prokeimenon.text = "" //for media
-////meMA.Gospel.name = bible_gr_GR_cog.Mark 
-//meMA.Gospel.chapverse = "(Κεφ. αʹ 9-11)"
-//meMA.Gospel.text = "Καὶ ἐγένετο ἐν ἐκείναις ταῖς ἡμέραις ἦλθεν Ἰησοῦς ἀπὸ Ναζαρὲτ τῆς Γαλιλαίας καὶ ἐβαπτίσθη ὑπὸ Ἰωάννου εἰς τὸν Ἰορδάνην. Kαὶ εὐθέως ἀναβαίνων ἐκ τοῦ ὕδατος εἶδε σχιζομένους τοὺς οὐρανοὺς καὶ τὸ Πνεῦμα ὡς περιστερὰν καταβαῖνον ἐπ' αὐτόν. Καὶ φωνὴ ἐγένετο ἐκ τῶν οὐρανῶν· Σὺ εἶ ὁ Υἱός μου ὁ ἀγαπητός, ἐν ᾧ ηὐδόκησα."
 
 meMA.PostGospelGlory.mode = misc_gr_GR_cog.Mode2
 meMA.PostGospelGlory.melody  = ""
@@ -407,10 +404,12 @@ meMA.C1Poet = poets_gr_GR_cog.Kosma
 meMA.C1Acrostic.text = "οὗ ἡ Ἀκροστιχίς· Βάπτισμα ῥύψις γηγενῶν ἁμαρτάδος."
 
 meMA.C2Poet = poets_gr_GR_cog.IoannouTouDamaskinou
-meMA.C2Acrostic1.text = "Σήμερον ἀχράντοιο βαλών Θεοφεγγέϊ πυρσῷ,"
-meMA.C2Acrostic2.text = "Πνεύματος, ἐνθάπτει νάμασιν, ἀμπλακίην,"
-meMA.C2Acrostic3.text = "Φλέξας παμμεδέοντος ἐΰς Πάϊς·"
-meMA.C2Acrostic4.text = "Ἠπιόων δέ, Ὑμνηταῖς μελέων τῶν δε δίδωσι χάριν."
+meMA.C2Acrostic.text = "οὗ ἡ Ἀκροστιχὶς διὰ Στίχων Ἡρωελεγείων. Σήμερον ἀχράντοιο βαλών, Θεοφεγγέϊ πυρσῷ, Πνεύματος, ἐνθάπτει νάμασιν, ἀμπλακίην, Φλέξας παμμεδέοντος ἐΰς Πάϊς· Ἠπιόων δέ, Ὑμνηταῖς μελέων τῶν δε δίδωσι χάριν."
+meMA.C2Acrostic1.text = "οὗ ἡ Ἀκροστιχὶς διὰ Στίχων Ἡρωελεγείων."
+meMA.C2Acrostic2.text = "Σήμερον ἀχράντοιο βαλών Θεοφεγγέϊ πυρσῷ,"
+meMA.C2Acrostic5.text = "Πνεύματος, ἐνθάπτει νάμασιν, ἀμπλακίην,"
+meMA.C2Acrostic4.text = "Φλέξας παμμεδέοντος ἐΰς Πάϊς·"
+meMA.C2Acrostic5.text = "Ἠπιόων δέ, Ὑμνηταῖς μελέων τῶν δε δίδωσι χάριν."
 
 meMA.Ode1C1H.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C1H.mode = misc_gr_GR_cog.Mode2

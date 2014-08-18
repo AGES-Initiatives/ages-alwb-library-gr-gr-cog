@@ -110,11 +110,12 @@ peMA.C1Poet = poets_gr_GR_cog.KosmaMonachou
 peMA.C1Acrostic.text = "οὗ ἡ Ἀκροστιχίς· Πεντηκοστὴν ἑορτάζομεν."
 
 peMA.C2Poet = poets_gr_GR_cog.KyriouIoannouArkla
-peMA.C2Acrostic.text = "οὗ ἡ Ἀκροστιχίς διὰ στίχων Ἡρωελεγείων·"
-peMA.C2Acrostic1.text = "Θειογενὲς Λόγε, Πνεῦμα Παράκλητον πάλιν ἄλλον,"
-peMA.C2Acrostic2.text = "Ἐκ Γενέτου κόλπων ἦκας ἐπιχθονίοις"
-peMA.C2Acrostic3.text = "Οἷα πυρὸς γλώσσησι φέρον Θεότητος ἀΰλου."
-peMA.C2Acrostic4.text = "Σῆμα τεῆς φύτλης, καὶ χάριν ὑμνοπόλοις."
+peMA.C2Acrostic.text = "Οὗ ἡ ἀκροστιχὶς διὰ στίχων Ἡρωελεγείων· Θειογενὲς Λόγε, Πνεῦμα Παράκλητον πάλιν ἄλλον, Ἐκ Γενέτου κόλπων ἦκας ἐπιχθονίοις Οἷα πυρὸς γλώσσησι φέρον Θεότητος ἀΰλου. Σῆμα τεῆς φύτλης, καὶ χάριν ὑμνοπόλοις."
+peMA.C2Acrostic1.text = "οὗ ἡ Ἀκροστιχίς διὰ στίχων Ἡρωελεγείων·"
+peMA.C2Acrostic2.text = "Θειογενὲς Λόγε, Πνεῦμα Παράκλητον πάλιν ἄλλον,"
+peMA.C2Acrostic3.text = "Ἐκ Γενέτου κόλπων ἦκας ἐπιχθονίοις"
+peMA.C2Acrostic4.text = "Οἷα πυρὸς γλώσσησι φέρον Θεότητος ἀΰλου."
+peMA.C2Acrostic5.text = "Σῆμα τεῆς φύτλης, καὶ χάριν ὑμνοπόλοις."
 
 peMA.Ode1C1H.ode = misc_gr_GR_cog.Ode1
 peMA.Ode1C1H.mode = misc_gr_GR_cog.Mode7
@@ -534,42 +535,8 @@ peMA.LaudsGlory.mode = misc_gr_GR_cog.Mode6
 peMA.LaudsGlory.melody  = ""
 peMA.LaudsGlory.text = prayers_gr_GR_cog.VasilefOuranie.text
 
-peLI.Antiphon1Verse1.source = ""
-peLI.Antiphon1Verse1.text = "Οἱ οὐρανοὶ διηγοῦνται δόξαν Θεοῦ, ποίησιν δὲ χειρῶν αὐτοῦ ἀναγγέλλει τὸ στερέωμα."
-
-peLI.Antiphon1Verse2.source = ""
-peLI.Antiphon1Verse2.text = "Ἡμέρα τῇ ἡμέρᾳ ἐρεύγεται ῥῆμα καὶ νὺξ νυκτὶ ἀναγγέλλει γνῶσιν."
-
-peLI.Antiphon1Verse3.source = ""
-peLI.Antiphon1Verse3.text = "Οὐκ εἰσὶ λαλιαὶ οὐδὲ λόγοι ὧν οὐχὶ ἀκούονται αἱ φωναὶ αὐτῶν."
-
-peLI.Antiphon1Verse4.source = ""
-peLI.Antiphon1Verse4.text = "Εἰς πᾶσαν τὴν γῆν ἐξῆλθεν ὁ φθόγγος αὐτῶν, καὶ εἰς τὰ πέρατα τῆς οἰκουμένης τὰ ῥήματα αὐτῶν."
-
-peLI.Antiphon2Verse1.source = ""
-peLI.Antiphon2Verse1.text = "Ἐπακούσαι σου Κύριος ἐν ἡμέρᾳ θλίψεως, ὑπερασπίσαι σου τὸ ὄνομα τοῦ Θεοῦ Ἰακώβ."
-
-peLI.Antiphon2Verse2.source = ""
-peLI.Antiphon2Verse2.text = "Ἐξαποστείλαι σοι βοήθειαν ἐξ ἁγίου, καὶ ἐκ Σιὼν ἀντιλάβοιτό σου."
-
-peLI.Antiphon2Verse3.source = ""
-peLI.Antiphon2Verse3.text = "Μνησθείη πάσης θυσίας σου, καὶ τὸ ὁλοκαύτωμά σου πιανάτω."
-
 peLI.Antiphon2.text = "Σῶσον ἡμᾶς, Παράκλητε ἀγαθέ,"
 
-peLI.Antiphon3Verse1.source = "20"
-peLI.Antiphon3Verse1.text = "Κύριε, ἐν τῇ δυνάμει σου εὐφρανθήσεται ὁ Βασιλεύς, καὶ ἐπὶ τῷ σωτηρίῳ σου ἀγαλλιάσεται σφόδρα."
-
-peLI.Antiphon3Verse2.source = "20"
-peLI.Antiphon3Verse2.text = "Τὴν ἐπιθυμίαν τῆς καρδίας αὐτοῦ ἔδωκας αὐτῷ καὶ τὴν θέλησιν τῶν χειλέων αὐτοῦ οὐκ ἐστέρησας αὐτόν."
-
-peLI.Antiphon3Verse3.source = "20"
-peLI.Antiphon3Verse3.text = "Ὅτι προέφθασας αὐτὸν ἐν εὐλογίαις χρηστότητος, ἔθηκας ἐπὶ τὴν κεφαλὴν αὐτοῦ στέφανον ἐκ λίθου τιμίου."
-
-peLI.Antiphon3Verse4.source = "20"
-peLI.Antiphon3Verse4.text = "Ζωὴν ᾐτήσατό σε, καὶ ἔδωκας αὐτῷ μακρότητα ἡμερῶν εἰς αἰῶνα αἰῶνος."
-
-peLI.EntranceHymn.source = ""
 peLI.EntranceHymn.text = "Ὑψώθητι, Κύριε, ἐν τῇ δυνάμει σου, ᾄσωμεν καὶ ψαλοῦμεν τὰς δυναστείας σου."
 
 peLI.SeasonalKontakion.mode = misc_gr_GR_cog.Mode8
@@ -579,7 +546,6 @@ peLI.SeasonalKontakion.text = peMA.Kontakion1.text
 peLI.TheotokosHymn.mode = misc_gr_GR_cog.Mode7
 peLI.TheotokosHymn.text = peMA.Ode9C1H.text
 
-peLI.CommunionHymn.source = ""
 peLI.CommunionHymn.text = "Τὸ Πνεῦμά σου τὸ ἀγαθὸν ὁδηγήσει με ἐν γῇ εὐθείᾳ. Ἀλληλούϊα."
 
 peLI.AfterCommunion.mode = misc_gr_GR_cog.Mode8

@@ -6,8 +6,9 @@ meShortCommemoration1.text = ""
 meInsert1 = "καὶ τοῦ Ὁσίου Πατρὸς ἡμῶν Μαξίμου τοῦ Ὁμολογητοῦ, καὶ τοῦ Ἁγίου Μάρτυρος Νεοφύτου." //for use in petitions and dismissal
 meInsert2 = "ὧν καὶ τὴν μνήμην ἐπιτελοῦμεν· " //for use in petitions and dismissal
 meNote.text = ""
-meHO.number = ""
-meHO.rank  = ""
+meHO.number = "21."
+meHO.rank  = "5"
+meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
 
@@ -62,7 +63,7 @@ meVE.AposStavrotheotokion.text = "Ἠ δάμαλις ἡ ἄσπιλος, τὸ
 
 meVE.Apolytikion1.mode = misc_gr_GR_cog.Mode8
 meVE.Apolytikion1.melody = he.ga_gr_GR_cog.OrthodoxiasOdigeM.name
-meVE.Apolytikion1.name = "Μάξιμε" // name of saint for General Apolytikia
+meVE.GeneralApolytikion1.name = "Μάξιμε" // name of saint for General Apolytikia
 
 meVE.Apolytikion2.mode = misc_gr_GR_cog.Mode4
 meVE.Apolytikion2.melody = he.a.m4_gr_GR_cog.TachyProkatalave.name

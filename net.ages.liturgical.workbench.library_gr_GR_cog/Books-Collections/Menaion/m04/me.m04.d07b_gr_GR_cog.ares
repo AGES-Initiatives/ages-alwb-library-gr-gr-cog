@@ -8,6 +8,7 @@ meInsert2 = "" //for use in petitions and dismissal
 meNote.text = ""
 meHO.number = ""
 meHO.rank  = ""
+meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
 
@@ -38,7 +39,7 @@ meVE.Apolytikion1.text = "Θείου Πνεύματος, καρποφορήσα�
 
 meVE.Apolytikion2.mode = misc_gr_GR_cog.Mode4
 meVE.Apolytikion2.melody = he.ga_gr_GR_cog.KanonaPisteos.name
-meVE.Apolytikion2.name = "Πάτερ Ἱεράρχα Γεώργιε,"
+meVE.GeneralApolytikion2.name = "Πάτερ Ἱεράρχα Γεώργιε,"
 
 meMA.C1Poet = poets_gr_GR_cog.Ignatiou
 

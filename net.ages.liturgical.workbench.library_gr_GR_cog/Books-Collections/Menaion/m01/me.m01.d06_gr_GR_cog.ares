@@ -1,14 +1,15 @@
 A_Resource_Whose_Name = me.m01.d06_gr_GR_cog
 
 meDate.text = "Τῌ Ϛʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "Τὰ Ἅγια Θεοφάνεια τοῦ Κυρίου ἡμῶν Ἰησοῦ Χριστοῦ." //full title of day
+meCommemoration.text = "Τὰ Ἅγια Θεοφάνεια τοῦ Κυρίου καὶ Θεοῦ καὶ Σωτῆρος ἡμῶν Ἰησοῦ Χριστοῦ." //full title of day
 meShortCommemoration1.text = ""
 meInsert1 = "" //for use in petitions and dismissal
 meInsert2 = "" //for use in petitions and dismissal
 meNote.text = ""
-meHO.number = ""
-meHO.rank  = ""
-meHO.note1 = ""
+meHO.number = "6."
+meHO.rank  = "1"
+meHO.commemorations = ""
+meHO.note1 = rubrical_gr_GR_cog.HolidayAll
 meHO.note2 = ""
 meDismissal = dismissals_gr_GR_cog.dis00.epiphany
 

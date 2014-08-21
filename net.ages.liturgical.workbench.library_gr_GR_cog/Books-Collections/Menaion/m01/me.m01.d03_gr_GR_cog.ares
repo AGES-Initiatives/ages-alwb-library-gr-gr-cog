@@ -6,8 +6,9 @@ meShortCommemoration1.text = ""
 meInsert1 = "" //for use in petitions and dismissal
 meInsert2 = "" //for use in petitions and dismissal
 meNote.text = ""
-meHO.number = ""
-meHO.rank  = ""
+meHO.number = "3."
+meHO.rank  = "5"
+meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
 
@@ -63,9 +64,9 @@ meVE.AposGlory.mode = misc_gr_GR_cog.Mode5
 meVE.AposGlory.melody  = ""
 meVE.AposGlory.text = "Ἐν Ἰορδάνῃ ποταμῷ Χριστὸς ὁ Θεὸς ἡμῶν, μολεῖ πρὸς τὸ Βάπτισμα, καθᾶραι θέλων ἡμᾶς, ἐκ τῶν ἀνομιῶν ἡμῶν, τῇ αὐτοῦ ἐπιφανείᾳ, ὡς μόνος ἀγαθὸς καὶ φιλάνθρωπος."
 
-meVE.Apolytikion1.mode = misc_gr_GR_cog.Mode4
-meVE.Apolytikion1.melody = he.a.m4_gr_GR_cog.KateplagiIosif.name
-meVE.Apolytikion1.text = "Ἐτοιμάζου Ζαβουλών, καὶ εὐτρεπίζου Νεφθαλείμ. Ἰορδάνη ποταμέ, στῆθι ὑπόδεξαι σκιρτῶν, τοῦ βαπτισθῆναι ἐρχόμενον τὸν Δεσπότην. Ἀγάλλου ὁ Ἀδὰμ σὺν τῇ Προμήτορι, μὴ κρύπτετε ἑαυτούς, ὡς ἐν Παραδείσῳ τὸ πρίν· καὶ γὰρ γυμνοὺς ἰδὼν ὑμᾶς ἐπέφανεν, ἵνα ἐνδύσῃ τὴν πρώτην στολήν, Χριστὸς ἐφάνη, τὴν πᾶσαν κτίσιν, θέλων ἀνακαινίσαι."
+meVE.Apolytikion1.mode = me.m01.d02_gr_GR_cog.meVE.Apolytikion1.mode
+meVE.Apolytikion1.melody = me.m01.d02_gr_GR_cog.meVE.Apolytikion1.melody
+meVE.Apolytikion1.text = me.m01.d02_gr_GR_cog.meVE.Apolytikion1.text
 
 meCO.C1Acrostic.text = "οὗ ἡ Ἀκροστιχίς· Τετράδι ψαλῶ."
 

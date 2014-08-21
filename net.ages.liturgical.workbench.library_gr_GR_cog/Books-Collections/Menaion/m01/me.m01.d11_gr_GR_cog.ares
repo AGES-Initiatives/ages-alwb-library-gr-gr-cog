@@ -6,9 +6,10 @@ meShortCommemoration1.text = ""
 meInsert1 = "καὶ τοῦ Ὁσίου Πατρὸς ἡμῶν Θεοδοσίου τοῦ Κοινοβιάρχου, " //for use in petitions and dismissal
 meInsert2 = "οὗ καὶ τὴν μνήμην ἐπιτελοῦμεν· " //for use in petitions and dismissal
 meNote.text = ""
-meHO.number = ""
-meHO.rank  = ""
-meHO.note1 = ""
+meHO.number = "11."
+meHO.rank  = "3"
+meHO.commemorations = ""
+meHO.note1 = rubrical_gr_GR_cog.HolidayWineOil
 meHO.note2 = ""
 meDismissal = dismissals_gr_GR_cog.dis00.epiphany
 
@@ -66,7 +67,7 @@ meVE.AposBoth.text = "Τὰ τῶν Ἀγγέλων στρατεύματα ἐξ
 
 meVE.Apolytikion1.mode = misc_gr_GR_cog.Mode8
 meVE.Apolytikion1.melody = he.ga_gr_GR_cog.TaisTonDakryonSou.name
-meVE.Apolytikion1.name = "Ὅσιε Πατὴρ ἡμῶν Θεοδόσιε," // name of saint for General Apolytikia
+meVE.GeneralApolytikion1.name = "Ὅσιε Πατὴρ ἡμῶν Θεοδόσιε," // name of saint for General Apolytikia
 
 meMA.Kathisma11.mode = misc_gr_GR_cog.Mode4
 meMA.Kathisma11.melody = he.a.m4_gr_GR_cog.KateplagiIosif.name

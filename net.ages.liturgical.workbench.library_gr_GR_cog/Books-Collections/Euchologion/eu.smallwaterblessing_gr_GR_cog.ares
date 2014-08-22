@@ -1,6 +1,9 @@
 A_Resource_Whose_Name = eu.smallwaterblessing_gr_GR_cog
 
 euSW.Key0100.title = "ΑΚΟΛΟΥΘΙΑ ΜΙΚΡΟΥ ΤΟΥ ΑΓΙΑΣΜΟΥ"
+euSW.translator1 = ""
+euSW.translator2 = ""
+
 euSW.R101 = "Τελουμένου Ἁγιασμοῦ εὐτρεπίζεται μικρὰ τράπεζα καὶ τίθεται ἐπ' αὐτῆς τὸ ἱερὸν Εὐαγγέλιον, ξύλινος ἀργυρόδετος Σταυρός, θυμιατήριον (κατζίον), δοχεῖον μεθ' ὕδατος καθαροῦ, δύο κηροπήγια, ἐν οἷς ἀνάπτονται κηρία καθαρά, μικρὰ δέσμη βασιλικοῦ ξηροῦ καὶ λευκὸν καθαρὸν μάκτρον. Συνηγμένων δὲ πάντων ἄρχεται ἡ Ἀκολουθία, τοῦ ἱερέως, ὡς καὶ ἐν πάσῃ ἱεροπραξίᾳ, φέροντος ἐπιτραχήλιον, τοῦ δὲ διακόνου στιχάριον σὺν ὀραρίῳ."
 euSW.R102 = "Τὸ Τροπάριον τοῦ Ναοῦ"
 
@@ -98,15 +101,9 @@ euSW.Key0223.mode = misc_gr_GR_cog.Mode6
 euSW.Key0223.melody = he.h.m6_gr_GR_cog.IToChaireDiAngelou.name
 euSW.Key0223.text = "Χαῖρε κόσμου ἱλαστήριον, Παρθένε, χαῖρε στάμνε καὶ λυχνία πάγχρυσε, τοῦ θείου μάννα καὶ φωτός, Θεόνυμφε."
 
-euSW.Key0224.verse = "Ἁγία Τριάς, ὁ Θεός, ἐλέησον καὶ σῶσον ἡμᾶς."
-euSW.Key0224.title = titles_gr_GR_cog.Triadikon
-
 euSW.Key0224.mode = misc_gr_GR_cog.Mode6
 euSW.Key0224.melody = he.h.m6_gr_GR_cog.IToChaireDiAngelou.name
 euSW.Key0224.text = "Ψάλλομέν σοι τῷ Θεῷ τῷ ἐν Τριάδι, ἐκβοῶντες φωνὴν τὴν τρισάγιον, ἐκδυσωποῦντες σωτηρίας τεύξασθαι."
-
-euSW.Key0225.verse = "Ὑπεραγία Θεοτόκε, σῶσον ἡμᾶς."
-euSW.Key0225.title = titles_gr_GR_cog.Theotokion
 
 euSW.Key0225.mode = misc_gr_GR_cog.Mode6
 euSW.Key0225.melody = he.h.m6_gr_GR_cog.IToChaireDiAngelou.name
@@ -120,83 +117,55 @@ euSW.Key0227.mode = misc_gr_GR_cog.Mode6
 euSW.Key0227.melody = he.h.m6_gr_GR_cog.IToChaireDiAngelou.name
 euSW.Key0227.text = "Ταῖς πρεσβείαις, Ἐλεῆμον, τῆς Μητρός σου τῆς Ἀχράντου, καὶ πάντων τῶν Ἁγίων σου, τὰ σὰ ἐλέη τῷ λαῷ σου δώρησαι."
 
-euSW.Key0228.verse = "Σταυρὲ τοῦ Χριστοῦ, σῶσον ἡμᾶς τῇ δυνάμει σου."
-
 euSW.Key0228.mode = misc_gr_GR_cog.Mode6
 euSW.Key0228.melody = he.h.m6_gr_GR_cog.IToChaireDiAngelou.name
 euSW.Key0228.text = "Τῇ δυνάμει τοῦ σταυροῦ σου, Ζωοδότα, φώτισόν με τὸν δοῦλόν σου δέομαι, ἵνα ὑμνῶ σε δι' αὐτοῦ σῳζόμενος."
-
-euSW.Key0229.verse = "Ἀρχάγγελοι τοῦ Θεοῦ, πρεσβεύσατε ὑπὲρ ἡμῶν."
 
 euSW.Key0229.mode = misc_gr_GR_cog.Mode6
 euSW.Key0229.melody = he.h.m6_gr_GR_cog.IToChaireDiAngelou.name
 euSW.Key0229.text = "Τῇ πρεσβείᾳ τῶν ἐνδόξων Ἀρχαγγέλων καὶ Ἀγγέλων, καὶ τῶν ἄνω Τάξεων, σοὺς δούλους, Σῶτερ, καλῶς διαφύλαξον."
 
-euSW.Key0230.verse = "Βαπτιστὰ τοῦ Θεοῦ, πρέσβευε ὑπὲρ ἡμῶν."
-
 euSW.Key0230.mode = misc_gr_GR_cog.Mode6
 euSW.Key0230.melody = he.h.m6_gr_GR_cog.IToChaireDiAngelou.name
 euSW.Key0230.text = "Τῇ πρεσβείᾳ τοῦ τιμίου καὶ ἐνδόξου Βαπτιστοῦ σου Προφήτου Προδρόμου τε, Χριστέ μου Σῶτερ, τοὺς δούλους σου φύλαξον."
-
-euSW.Key0231.verse = "Ἀπόστολοι τοῦ Χριστοῦ, πρεσβεύσατε ὑπὲρ ἡμῶν."
 
 euSW.Key0231.mode = misc_gr_GR_cog.Mode6
 euSW.Key0231.melody = he.h.m6_gr_GR_cog.IToChaireDiAngelou.name
 euSW.Key0231.text = "Τῇ πρεσβείᾳ τῶν ἐνδόξων Ἀποστόλων, καὶ Μαρτύρων, καὶ πάντων τῶν Ἁγίων σου, τὰ σὰ ἐλέη τῷ λαῷ σου δώρησαι."
 
-euSW.Key0232.verse = "Ἅγιοι ἱεράρχαι καὶ διδάσκαλοι τῆς οἰκουμένης, πρεσβεύσατε ὑπὲρ ἡμῶν."
-
 euSW.Key0232.mode = misc_gr_GR_cog.Mode6
 euSW.Key0232.melody = he.h.m6_gr_GR_cog.IToChaireDiAngelou.name
-euSW.Key0232.text = "Ταῖς πρεσβείαις τῶν μεγάλων διδασκάλων, Βασιλείου σοφοῦ, Γρηγορίου τε καὶ Ἰωάννου, τοὺς δούλους σου φύλαττε."
-
-euSW.Key0233.verse = "Ἅγιε ἱεράρχα τοῦ Χριστοῦ Νικόλαε, πρέσβευε ὑπὲρ ἡμῶν."
+euSW.Key0232.text = "Τῇ πρεσβείᾳ τῶν μεγάλων διδασκάλων, Βασιλείου σοφοῦ, Γρηγορίου τε καὶ Ἰωάννου, τοὺς δούλους σου φύλαττε."
 
 euSW.Key0233.mode = misc_gr_GR_cog.Mode6
 euSW.Key0233.melody = he.h.m6_gr_GR_cog.IToChaireDiAngelou.name
 euSW.Key0233.text = "Τὴν ὀξεῖαν καὶ θερμήν σου προστασίαν καὶ τὴν σκέπην, παμμάκαρ Νικόλαε, τοῖς ὑμνηταῖς σου πλουσίως κατάπεμψον."
 
-euSW.Key0234.verse = "Ἅγιοι μεγαλομάρτυρες τοῦ Χριστοῦ πρεσβεύσατε ὑπὲρ ἡμῶν."
-
 euSW.Key0234.mode = misc_gr_GR_cog.Mode6
 euSW.Key0234.melody = he.h.m6_gr_GR_cog.IToChaireDiAngelou.name
-euSW.Key0234.text = "Ταῖς πρεσβείαις τῶν ἐνδόξων ἀθλοφόρων Δημητρίου, Γεωργίου, σοφῶν Θεοδώρων τε καὶ Ἀρτεμίου ἡμᾶς διαφύλαξον."
-
-euSW.Key0235.verse = "Ἅγιοι Ἀνάργυροι καὶ θαυματουργοί, πρεσβεύσατε ὑπὲρ ἡμῶν."
+euSW.Key0234.text = "Τῇ πρεσβείᾳ τῶν ἐνδόξων ἀθλοφόρων, Δημητρίου, Γεωργίου, Θεοδώρων τε, καὶ Ἀρτεμίου ἡμᾶς διαφύλαξον."
 
 euSW.Key0235.mode = misc_gr_GR_cog.Mode6
 euSW.Key0235.melody = he.h.m6_gr_GR_cog.IToChaireDiAngelou.name
-euSW.Key0235.text = "Ταῖς πρεσβείαις τῶν ἐνδόξων Ἀναργύρων, Θεοτόκε, τοὺς δούλους σου φύλαττε, ὡς προστασία τοῦ κόσμου καὶ στήριγμα."
-
-euSW.Key0236.verse = "Ἅγιε ἔνδοξε μεγαλομάρτυς τοῦ Χριστοῦ καὶ ἰαματικὲ Παντελεῆμον, πρέσβευε ὑπὲρ ἡμῶν."
+euSW.Key0235.text = "Τῇ πρεσβείᾳ τῶν ἐνδόξων Ἀναργύρων, Θεοτόκε, τοὺς δούλους σου φύλαττε, ὡς προστασία τοῦ κόσμου καὶ στήριγμα."
 
 euSW.Key0236.mode = misc_gr_GR_cog.Mode6
 euSW.Key0236.melody = he.h.m6_gr_GR_cog.IToChaireDiAngelou.name
 euSW.Key0236.text = "Ἀθλοφόρε τοῦ Χριστοῦ Παντελεῆμον, τοὺς τῇ σκέπῃ τῇ σῇ καταφεύγοντας, ταῖς σαῖς πρεσβείαις νόσων ἐλευθέρωσον."
 
-euSW.Key0237.verse = "Ἅγιοι προπάτορες τοῦ Χριστοῦ, πρεσβεύσατε ὑπὲρ ἡμῶν."
-
 euSW.Key0237.mode = misc_gr_GR_cog.Mode6
 euSW.Key0237.melody = he.h.m6_gr_GR_cog.IToChaireDiAngelou.name
-euSW.Key0237.text = "Τῶν ἁγίων καὶ δικαίων προπατόρων ταῖς πρεσβείαις, ἁπάντων δικαίων τε καὶ τῶν ὁσίων, Χριστέ, ἡμᾶς φύλαττε."
+euSW.Key0237.text = "Τῶν ἁγίων καὶ δικαίων προπατόρων, ταῖς πρεσβείαις, ἁπάντων δικαίων τε, καὶ τῶν ὁσίων, Χριστέ, ἡμᾶς φύλαττε."
 
 euSW.Key0238.mode = misc_gr_GR_cog.Mode6
 euSW.Key0238.melody = he.h.m6_gr_GR_cog.IToChaireDiAngelou.name
-euSW.Key0238.text = "Τὴν ἐν ζάλῃ πειρασμῶν καὶ τρικυμίαις ταῖς τοῦ βίου πικρῶς κινδυνεύουσαν, Παρθένε, ποίμνην τὴν σὴν περιφύλαττε."
+euSW.Key0238.text = "Τὸν Πατέρα καὶ Υἱόν δοξολογοῦμεν, καὶ τὸ Πνεῦμα τὸ Ἅγιον, λέγοντες· Τριὰς Ἁγία, σῶσον τάς ψυχὰς ἡμῶν."
 
 euSW.Key0239.mode = misc_gr_GR_cog.Mode6
 euSW.Key0239.melody = he.h.m6_gr_GR_cog.IToChaireDiAngelou.name
-euSW.Key0239.text = "Τον Πατέρα καὶ Υἱόν δοξολογοῦμεν, καὶ τὸ Πνεῦμα τὸ Ἅγιον, λέγοντες· Τριὰς Ἁγία, σῶσον τάς ψυχὰς ἡμῶν."
+euSW.Key0239.text = "Ἡ ἀρρήτως ἐπ' ἐσχάτων συλλαβοῦσα, καὶ τεκοῦσα τὸν Κτίστην τὸν ἴδιον, Παρθένε, σῷζε τοὺς σὲ μεγαλύνοντας."
 
-euSW.Key0240.mode = misc_gr_GR_cog.Mode6
-euSW.Key0240.melody = he.h.m6_gr_GR_cog.IToChaireDiAngelou.name
-euSW.Key0240.text = "Χαῖρε κόσμου ἱλαστήριον, Παρθένε, χαῖρε στάμνε καὶ λυχνία πάγχρυσε, τοῦ θείου μάννα καὶ φωτός, Θεονυμφε."
-
-euSW.Key0241.mode = misc_gr_GR_cog.Mode6
-euSW.Key0241.melody = he.h.m6_gr_GR_cog.IToChaireDiAngelou.name
-euSW.Key0241.text = "Ἡ ἀρρήτως ἐπ' ἐσχάτων συλλαβοῦσα, καὶ τεκοῦσα τὸν Κτίστην τὸν ἴδιον, Παρθένε, σῷζε τοὺς σὲ μεγαλύνοντας."
-
-euSW.Key0242.text = oc.m6.d5_gr_GR_cog.ocMA.Kathisma13.text
+euSW.Key0240.text = oc.m6.d5_gr_GR_cog.ocMA.Kathisma13.text
 
 euSW.R301 = "Εἶτα τὰ παρόντα Τροπάρια"
 

@@ -63,14 +63,12 @@ meVE.Aposticha1.mode = misc_gr_GR_cog.Mode1
 meVE.Aposticha1.melody = he.a.m1_gr_GR_cog.TonOuranionTagmaton.name
 meVE.Aposticha1.text = "Ὁ τριετὴς μὲν τὸ σῶμα, τὴν δὲ ψυχὴν πολιός, ὁ φερωνύμως κήρυξ, γεγονὼς τοῦ Δεσπότου, μητρῴων ἀποσπᾶται ἐξ ἀγκαλῶν, καὶ θυσία προσφέρεται, ὡς τριετίζουσα δάμαλις σὺν μητρί, Ἰουλίττῃ τῇ θεόφρονι."
 
-meVE.ApostichaVerse2.source  = ""
 meVE.ApostichaVerse2.text = "Θαυμαστὸς ὁ Θεὸς ἐν τοῖς Ἁγίοις αὐτοῦ."
 
 meVE.Aposticha2.mode = misc_gr_GR_cog.Mode1
 meVE.Aposticha2.melody = he.a.m1_gr_GR_cog.TonOuranionTagmaton.name
 meVE.Aposticha2.text = "Τῇ ἱερᾷ ξυνωρίδι, μητρὸς ὁμοῦ καὶ παιδός, τῇ ἀγωνισαμένῃ, καρτερῶς καὶ γενναίως, προσάξωμεν δεήσεις, ὅπως Χριστῷ, ἀδιαλείπτως πρεσβεύωσιν, ὑπὲρ ἡμῶν τῶν ἐν πίστει τὴν ἱεράν, τούτων μνήμην ἐκτελούντων ἀεί."
 
-meVE.ApostichaVerse3.source  = ""
 meVE.ApostichaVerse3.text = "Τοῖς Ἁγίοις τοῖς ἐν τῇ γῇ αὐτοῦ ἐθαυμάστωσεν πάντα τὰ θελήματα αὐτοῦ ἐν αὐτοῖς."
 
 meVE.Aposticha3.mode = misc_gr_GR_cog.Mode1
@@ -360,10 +358,8 @@ meMA.LaudsStavrotheotokion.mode = misc_gr_GR_cog.Mode4
 meMA.LaudsStavrotheotokion.melody  = ""
 meMA.LaudsStavrotheotokion.text = "Ἔφερες Πανάμωμε, ἐν τῇ καρδίᾳ σου δίστομον, Συμεών σοι ὡς ἔφησε, ῥομφαίαν καὶ τέτρωσαι, ἐν αὐτῇ καὶ σπλάγχνα, καὶ τὰς διαθέσεις, ὡς ἐθεάσω σὸν Υἱόν, ἐπὶ τοῦ ξύλου σεμνὴ κρεμάμενον· διὸ καὶ ἀνεκραύγαζες· Τέκνον ἐμὸν μὴ παρίδης με, ἀλλὰ σπεῦσον ἀνάστηθι, ὡς προέφης μακρόθυμε."
 
-meMA.LaudsSundayVerse1.source  = ""
 meMA.LaudsSundayVerse1.text = meVE.ApostichaVerse2.text
 
-meMA.LaudsSundayVerse2.source  = ""
 meMA.LaudsSundayVerse2.text = meVE.ApostichaVerse3.text
 
 meLI.SeasonalKontakion.mode = misc_gr_GR_cog.Mode2
@@ -372,13 +368,10 @@ meLI.SeasonalKontakion.text = ho.s07_gr_GR_cog.hoTY.Key0408.text
 
 meLI.Alleluia.mode = misc_gr_GR_cog.Mode4
 
-meLI.AlleluiaVerse1.source = "33"
 meLI.AlleluiaVerse1.text = "Ἐκέκραξαν οἱ δίκαιοι καὶ ὁ Κύριος εἰσήκουσεν αὐτῶν."
 
-meLI.AlleluiaVerse2.source = "33"
 meLI.AlleluiaVerse2.text = "Πολλαὶ αἱ θλίψεις τῶν δικαίων."
 
-meLI.CommunionHymn.source = ""
 meLI.CommunionHymn.text = da.d3_gr_GR_cog.daLI.CommunionHymn.text
 
 meMegalynarion.text = ""

@@ -41,14 +41,12 @@ meVE.Aposticha1.mode = misc_gr_GR_cog.Mode4
 meVE.Aposticha1.melody = he.a.m4_gr_GR_cog.EdokasSimeiosin.name
 meVE.Aposticha1.text = "Ἅλυσιν τὴν πάντιμον, ἐν ᾗ παθῶν διαλέλυται, τὰ δεσμά, προσκυνήσωμεν· σεπτῶς γὰρ ἡγίασται, δωρεαῖς ἀῤῥήτοις, Πέτρου τοῦ πανσόφου, καὶ παρ' αὐτοῦ ὡς ἀληθῶς, εἰσδεδεγμένη χάριν ἀέναον, σειρὰς καὶ αὕτη θλίψεων, καθὼς αὐτὸς παραπτώσεων, θεοσδότως συντέμνουσα, τῶν δεινῶν λύσιν δίδωσιν."
 
-meVE.ApostichaVerse2.source  = ""
 meVE.ApostichaVerse2.text = "Εἰς πᾶσαν τὴν γῆν ἐξῆλθεν ὁ φθόγγος αὐτῶν καὶ εἰς τὰ πέρατα τῆς οἰκουμένης τὰ ῥήματα αὐτῶν."
 
 meVE.Aposticha2.mode = misc_gr_GR_cog.Mode4
 meVE.Aposticha2.melody = he.a.m4_gr_GR_cog.EdokasSimeiosin.name
 meVE.Aposticha2.text = "Λάμπει σου ἡ Ἅλυσις, ὦ Κορυφαῖε ἀοίδιμε, ὡς σειρὰ ἐπουράνιος, δι' ἧς ἀναγόμεθα ἀπὸ γῆς πρὸς ὕψος, πυλῶν οὐρανίων· καὶ ὡς κλειδούχῳ σοι σοφέ, καὶ ὑπερλάμπρῳ πιστῶς πελάζομεν. Τὰς κλεῖς τῆς βασιλείας οὖν, ἐγχειρισθεὶς ἀξιάγαστε, συμπαθῶς ἡμῖν ἄνοιξον, τὴν σωτήριον εἴσοδον."
 
-meVE.ApostichaVerse3.source  = ""
 meVE.ApostichaVerse3.text = "Οἱ οὐρανοὶ διηγοῦνται δόξαν Θεοῦ ποίησιν δὲ χειρῶν αὐτοῦ ἀναγγέλλει τὸ στερέωμα."
 
 meVE.Aposticha3.mode = misc_gr_GR_cog.Mode4
@@ -536,10 +534,8 @@ meMA.LaudsStavrotheotokion.mode = misc_gr_GR_cog.Mode4
 meMA.LaudsStavrotheotokion.melody = he.a.m4_gr_GR_cog.OsGennaionEnMartysi.name
 meMA.LaudsStavrotheotokion.text = "Τὸν Ἀμνὸν καὶ Ποιμένα σε, ἐπὶ ξύλου ὡς ἔβλεψεν, ἡ Ἀμνὰς ἡ τέξασα ἐπωδύρετο, καὶ μητρικῶς σοι ἐφθέγγετο. Υἱὲ ποθεινότατε, πῶς ἐν ξύλῳ τοῦ Σταυροῦ, ἀνηρτήθης μακρόθυμε; πῶς τὰς χεῖράς σου, καὶ τοὺς πόδας σου Λόγε προσηλώθης, ὑπ' ἀνόμων καὶ τὸ αἷμα, τὸ σὸν ἐξέχεας Δέσποτα;"
 
-meMA.LaudsSundayVerse1.source  = ""
 meMA.LaudsSundayVerse1.text = meVE.ApostichaVerse2.text
 
-meMA.LaudsSundayVerse2.source  = ""
 meMA.LaudsSundayVerse2.text = meVE.ApostichaVerse3.text
 
 meMA.AposGlory.poet = poets_gr_GR_cog.Anatoliou
@@ -561,13 +557,10 @@ meLI.SeasonalKontakion.text = me.m02.d02_gr_GR_cog.meMA.Kontakion1.text
 
 meLI.Alleluia.mode  = ""
 
-meLI.AlleluiaVerse1.source = ""
 meLI.AlleluiaVerse1.text = ""
 
-meLI.AlleluiaVerse2.source = ""
 meLI.AlleluiaVerse2.text = ""
 
-meLI.CommunionHymn.source = ""
 meLI.CommunionHymn.text = da.d5_gr_GR_cog.daLI.CommunionHymnAlt.text
 
 meMegalynarion.text = ""

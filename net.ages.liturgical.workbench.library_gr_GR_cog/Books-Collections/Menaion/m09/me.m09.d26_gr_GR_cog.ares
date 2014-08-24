@@ -37,14 +37,12 @@ meSV.Aposticha1.mode = misc_gr_GR_cog.Mode6
 meSV.Aposticha1.melody = he.a.m6_gr_GR_cog.TriimerosAnestis.name
 meSV.Aposticha1.text = "Τὴν μνήμην τοῦ σεπτοὺ Μαθητοῦ, Χριστοῦ τοῦ Βασιλέως ἡμῶν, ἐπαξίως, ἀνυμνήσωμεν πιστοί· αὐτὸς γὰρ τῆς Τριάδος, τὴν γνῶσιν ἀριδήλως, πᾶσι τοῖς ἔθνεσιν ἐκήρυξεν."
 
-meSV.ApostichaVerse2.source  = ""
 meSV.ApostichaVerse2.text = meVE.ApostichaVerse2.text
 
 meSV.Aposticha2.mode = misc_gr_GR_cog.Mode6
 meSV.Aposticha2.melody = he.a.m6_gr_GR_cog.TriimerosAnestis.name
 meSV.Aposticha2.text = "Τὴν ζάλην μετεποίησε, τῆς πλάνης τῶν εἰδώλων πρίν, εἰς γαλήνην, ὁ Ἀπόστολος Χριστοῦ, τὸν κόσμον ὁδηγήσας, ἐν πίστει ὀρθοδόξῳ· καὶ νῦν πρεσβεύει ὑπὲρ πάντων ἡμῶν."
 
-meSV.ApostichaVerse3.source  = ""
 meSV.ApostichaVerse3.text = meVE.ApostichaVerse3.text
 
 meSV.Aposticha3.mode = misc_gr_GR_cog.Mode6
@@ -112,14 +110,12 @@ meVE.Aposticha1.mode = misc_gr_GR_cog.Mode4
 meVE.Aposticha1.melody = he.a.m4_gr_GR_cog.OExYpsistouKlitheis.name
 meVE.Aposticha1.text = "Τὸν τοῦ Ὑψίστου Υἱὸν θεολογήσας, Πατρὶ συναΐδιον καὶ ὁμοούσιον, φῶς ἐκ φωτὸς ἀπαράλλακτον, καὶ χαρακτῆρα, τῆς ὑποστάσεως τοῦ γεννήτορος, ἀχρόνως ἐκλάμψαντα, καὶ ἀπαθῶς ἐξ αὐτοῦ, Δημιουργόν τε καὶ Κύριον, πάντων αἰώνων, Ἠγαπημένε σὺ ἀνεκήρυξας, τοῦτον τῷ κόσμῳ, τὸν ἐξάγοντα, φῶς ἐκ σκότους Χριστὸν τὸν Θεὸν ἡμῶν, ὃν ἱκέτευε σῶσαι, καὶ φωτίσαι τάς ψυχὰς ἡμῶν."
 
-meVE.ApostichaVerse2.source  = ""
 meVE.ApostichaVerse2.text = "Εἰς πᾶσαν τὴν γῆν ἐξῆλθεν ὁ φθόγγος αὐτῶν καὶ εἰς τὰ πέρατα τῆς οἰκουμένης τὰ ῥήματα αὐτῶν."
 
 meVE.Aposticha2.mode = misc_gr_GR_cog.Mode4
 meVE.Aposticha2.melody = he.a.m4_gr_GR_cog.OExYpsistouKlitheis.name
 meVE.Aposticha2.text = "Τοῦ Παρακλήτου τὸ φῶς εἰσδεδεγμένος, ᾧ καὶ φωτιζόμενος ἐθεολόγησας, ἐκ τοῦ Πατρὸς προερχόμενον, διὰ Υἱοῦ δέ, τῇ ἀνθρωπότητι φανερούμενον, ὁμότιμον σύνθρονον καὶ ὁμοούσιον, ὃν τῷ Πατρὶ τῷ ἀνάρχῳ τε, καὶ θείῳ Λόγῳ, Ἠγαπημένε πᾶσιν ἐκήρυξας· ὅθεν ἐν ὕμνοις, σὲ γεραίρομεν, ὡς τῆς πίστεως θεῖον θεμέλιον, ἣν ἀσάλευτον τήρει, ταῖς πρὸς Κύριον πρεσβείαις σου."
 
-meVE.ApostichaVerse3.source  = ""
 meVE.ApostichaVerse3.text = "Οἱ οὐρανοὶ διηγοῦνται δόξαν Θεοῦ ποίησιν δὲ χειρῶν αὐτοῦ ἀναγγέλλει τὸ στερέωμα."
 
 meVE.Aposticha3.mode = misc_gr_GR_cog.Mode4
@@ -754,25 +750,20 @@ meMA.LaudsTheotokion.mode = misc_gr_GR_cog.Mode8
 meMA.LaudsTheotokion.melody  = ""
 meMA.LaudsTheotokion.text = oc.m8.d5_gr_GR_cog.ocMA.AposTheotokion.text
 
-meMA.LaudsSundayVerse1.source  = ""
 meMA.LaudsSundayVerse1.text = meVE.ApostichaVerse2.text
 
-meMA.LaudsSundayVerse2.source  = ""
 meMA.LaudsSundayVerse2.text = meVE.ApostichaVerse3.text
 
 meLI.Alleluia.mode = misc_gr_GR_cog.Mode1
 
-meLI.AlleluiaVerse1.source = ""
 meLI.AlleluiaVerse1.text = "Ἐξομολογήσονται οἱ οὐρανοὶ τὰ θαυμάσιά σου, Κύριε."
 
-meLI.AlleluiaVerse2.source = ""
 meLI.AlleluiaVerse2.text = "Ὁ Θεὸς ἐνδοξαζόμενος ἐν βουλῇ ἁγίων."
 
 meLI.SeasonalKontakion.mode = misc_gr_GR_cog.Mode2
 meLI.SeasonalKontakion.melody  = ""
 meLI.SeasonalKontakion.text = ho.s07_gr_GR_cog.hoTY.Key0408.text
 
-meLI.CommunionHymn.source = ""
 meLI.CommunionHymn.text = "Εἰς πᾶσαν τὴν γῆν ἐξῆλθεν ὁ φθόγγος αὐτῶν, καὶ εἰς τὰ πέρατα τῆς οἰκουμένης τὰ ῥήματα αὐτῶν. Ἀλληλούϊα."
 
 meMegalynarion.text = ""

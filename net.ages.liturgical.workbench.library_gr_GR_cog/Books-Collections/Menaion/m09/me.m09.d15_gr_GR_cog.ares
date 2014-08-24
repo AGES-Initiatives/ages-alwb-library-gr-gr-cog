@@ -45,14 +45,12 @@ meVE.Aposticha1.mode = misc_gr_GR_cog.Mode6
 meVE.Aposticha1.melody = he.a.m6_gr_GR_cog.OlinApothemenoi.name
 meVE.Aposticha1.text = me.m09.d14_gr_GR_cog.meVE.Stichera01.text
 
-meVE.ApostichaVerse2.source  = ""
 meVE.ApostichaVerse2.text = "Ὑψοῦτε Κύριον τὸν Θεὸν ἡμῶν καὶ προσκυνεῖτε τῷ ὑποποδίῳ τῶν ποδῶν αὐτοῦ."
 
 meVE.Aposticha2.mode = misc_gr_GR_cog.Mode6
 meVE.Aposticha2.melody = he.a.m6_gr_GR_cog.OlinApothemenoi.name
 meVE.Aposticha2.text = me.m09.d14_gr_GR_cog.meVE.Stichera02.text
 
-meVE.ApostichaVerse3.source  = ""
 meVE.ApostichaVerse3.text = "Ὁ δὲ Θεὸς Βασιλεὺς ἡμῶν πρὸ αἰῶνος εἰργάσατο σωτηρίαν ἐν μέσῳ τῆς γῆς."
 
 meVE.Aposticha3.mode = misc_gr_GR_cog.Mode6
@@ -281,24 +279,20 @@ meMA.Exaposteilarion2.mode = misc_gr_GR_cog.Mode2
 meMA.Exaposteilarion2.melody = he.a.m2_gr_GR_cog.TonMathitonOrontonSe.name
 meMA.Exaposteilarion2.text = me.m09.d14_gr_GR_cog.meMA.Exaposteilarion1.text
 
-meMA.LaudsSundayVerse1.source  = ""
 meMA.LaudsSundayVerse1.text = meVE.ApostichaVerse2.text 
 
-meMA.LaudsSundayVerse2.source  = ""
 meMA.LaudsSundayVerse2.text = meVE.ApostichaVerse3.text 
 
 meMA.Aposticha1.mode = misc_gr_GR_cog.Mode2
 meMA.Aposticha1.melody = he.a.m2_gr_GR_cog.OikosTouEfratha.name
 meMA.Aposticha1.text = me.m09.d14_gr_GR_cog.meSV.Aposticha1.text
 
-meMA.ApostichaVerse2.source  = ""
 meMA.ApostichaVerse2.text = meVE.ApostichaVerse2.text
 
 meMA.Aposticha2.mode = misc_gr_GR_cog.Mode2
 meMA.Aposticha2.melody = he.a.m2_gr_GR_cog.OikosTouEfratha.name
 meMA.Aposticha2.text = me.m09.d14_gr_GR_cog.meSV.Aposticha3.text
 
-meMA.ApostichaVerse3.source  = ""
 meMA.ApostichaVerse3.text = meVE.ApostichaVerse3.text
 
 meMA.Aposticha3.mode = misc_gr_GR_cog.Mode2

@@ -36,14 +36,12 @@ meSV.Aposticha1.mode = misc_gr_GR_cog.Mode2
 meSV.Aposticha1.melody = he.a.m2_gr_GR_cog.OikosTouEfratha.name
 meSV.Aposticha1.text = "Σύμπασα ἡ Ἑλλάς, ἐνθέως νῦν ἀγάλλου, κατέχουσα ἐν κόλποις, τὴν σεβάσμιον κάραν, τὴν τοῦ Ἱερομάρτυρος."
 
-meSV.ApostichaVerse2.source  = ""
 meSV.ApostichaVerse2.text = "Θαυμαστὸς ὁ Θεὸς ἐν τοῖς ἁγίοις αὐτοῦ."
 
 meSV.Aposticha2.mode = misc_gr_GR_cog.Mode2
 meSV.Aposticha2.melody = he.a.m2_gr_GR_cog.OikosTouEfratha.name
 meSV.Aposticha2.text = "Ὢ θαύματος φρικτοῦ! ὢ τεραστίου ξένου! ὀστᾶ γὰρ τῶν Μαρτύρων, ἰάσεις ἐκτελοῦσι, καὶ θαύματα παράδοξα."
 
-meSV.ApostichaVerse3.source  = ""
 meSV.ApostichaVerse3.text = "Δίκαιος ὡς φοίνιξ ἀνθήσει, ὡσεὶ κέδρος ἡ ἐν τῷ Λιβάνῳ πληθυνθήσεται."
 
 meSV.Aposticha3.mode = misc_gr_GR_cog.Mode2
@@ -123,14 +121,12 @@ meVE.Aposticha1.mode = misc_gr_GR_cog.Mode1
 meVE.Aposticha1.melody = he.a.m1_gr_GR_cog.PaneffimoiMartyres.name
 meVE.Aposticha1.text = "Πανεύφημε Μάρτυς τοῦ Χριστοῦ, ἀθλητὰ Χαράλαμπες, σὺ τὸν Χριστὸν ἀνεκήρυξας, Θεὸν καὶ ἄνθρωπον, μέσον τοῦ σταδίου· διὸ καὶ ἠγώνισαι, κατὰ τῶν ἀντιπάλων ῥωννύμενος, σθένει τοῦ Πνεύματος, καὶ τὸν στέφανον ἀπείληφας· ὅθεν πάντες τὴν κάραν σου σέβομεν."
 
-meVE.ApostichaVerse2.source  = ""
 meVE.ApostichaVerse2.text = "Δίκαιος ὡς φοίνιξ ἀνθήσει, ὡσεὶ κέδρος ἡ ἐν τῷ Λιβάνῳ πληθυνθήσεται."
 
 meVE.Aposticha2.mode = misc_gr_GR_cog.Mode1
 meVE.Aposticha2.melody = he.a.m1_gr_GR_cog.PaneffimoiMartyres.name
 meVE.Aposticha2.text = "Ἀβρύνεται σήμερον Ἑλλάς, πᾶσα ἡ χριστώνυμος· κάραν τὴν σὴν γὰρ ἐκτήσατο, ὡς κρήνην βρύουσαν, ἰαμάτων ῥεῖθρα, καὶ πλοῦτον ἀδάπανον, καὶ χάριν κενουμένην μηδέποτε, νόσους τ' ἐλαύνουσαν, λοιμικήν τε τὴν πολύφθορον, ἐξ ἀνθρώπων τῶν μακαριζόντων σε."
 
-meVE.ApostichaVerse3.source  = ""
 meVE.ApostichaVerse3.text = "Τοῖς ἁγίοις τοῖς ἐν τῇ γῇ αὐτοῦ, ἐθαυμάστωσεν ὁ Κύριος."
 
 meVE.Aposticha3.mode = misc_gr_GR_cog.Mode1
@@ -562,10 +558,8 @@ meMA.LaudsTheotokion.mode = misc_gr_GR_cog.Mode5
 meMA.LaudsTheotokion.melody  = ""
 meMA.LaudsTheotokion.text = oc.m5.d3_gr_GR_cog.ocVE.AposTheotokion.text
 
-meMA.LaudsSundayVerse1.source  = ""
 meMA.LaudsSundayVerse1.text = meVE.ApostichaVerse2.text 
 
-meMA.LaudsSundayVerse2.source  = ""
 meMA.LaudsSundayVerse2.text = meVE.ApostichaVerse3.text 
 
 meLI.SeasonalKontakion.mode = misc_gr_GR_cog.Mode2
@@ -574,13 +568,10 @@ meLI.SeasonalKontakion.text = ho.s07_gr_GR_cog.hoTY.Key0408.text
 
 meLI.Alleluia.mode = misc_gr_GR_cog.Mode1
 
-meLI.AlleluiaVerse1.source = "131"
 meLI.AlleluiaVerse1.text = "Οἱ ἱερεῖς σου ἐνδύσονται δικαιοσύνην, καὶ οἱ ὅσιοί σου ἀγαλλιάσονται."
 
-meLI.AlleluiaVerse2.source = "131"
 meLI.AlleluiaVerse2.text = "Ὅτι ἐξελέξατο Κύριος τὴν Σιών, ᾑρετίσατο αὐτὴν εἰς κατοικίαν ἑαυτῷ."
 
-meLI.CommunionHymn.source = ""
 meLI.CommunionHymn.text = da.d3_gr_GR_cog.daLI.CommunionHymn.text
 
 meMegalynarion.text = ""

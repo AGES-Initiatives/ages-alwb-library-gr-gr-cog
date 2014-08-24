@@ -27,14 +27,12 @@ trSV.Aposticha1.mode = misc_gr_GR_cog.Mode2
 trSV.Aposticha1.melody = he.a.m2_gr_GR_cog.OikosTouEfratha.name
 trSV.Aposticha1.text = "Λυθέντες τῶν δεσμῶν, τῆς πάλαι καταδίκης, πιστοὶ Σταυροῦ τῷ ξύλῳ, τὸν ἐν αὐτῷ παγέντᾳ, Χριστὸν δοξολογήσωμεν."
 
-trSV.ApostichaVerse2.source = ""
 trSV.ApostichaVerse2.text = "Ὑψοῦτε Κύριον τὸν Θεὸν ἡμῶν καὶ προσκυνεῖτε τῷ ὑποποδίῳ τῶν ποδῶν αὐτοῦ."
 
 trSV.Aposticha2.mode = misc_gr_GR_cog.Mode2
 trSV.Aposticha2.melody = he.a.m2_gr_GR_cog.OikosTouEfratha.name
 trSV.Aposticha2.text = "Ἄγε νῦν σὺν ἡμῖν, Δαυῒδ τὴν λύραν κίνει, Χριστὸν ὑψοῦτε ψάλλων, πιστοὶ καὶ προσκυνεῖτε, αὐτοῦ τὸ ὑποπόδιον."
 
-trSV.ApostichaVerse3.source = ""
 trSV.ApostichaVerse3.text = "Ὁ δὲ Θεὸς Βασιλεὺς ἡμῶν πρὸ αἰῶνος εἰργάσατο σωτηρίαν ἐν μέσῳ τῆς γῆς."
 
 trSV.Aposticha3.mode = misc_gr_GR_cog.Mode2
@@ -173,7 +171,6 @@ trMA.Ode3Kathisma1.mode = misc_gr_GR_cog.Mode6
 trMA.Ode3Kathisma1.melody  = ""
 trMA.Ode3Kathisma1.text = "Ὁ Σταυρός σου Κύριε ἡγίασται· ἐν αὐτῷ γὰρ γίνονται ἰάματα τοῖς ἀσθενοῦσιν ἐν ἁμαρτίαις· δι' αὐτοῦ σοι προσπίπτομεν, Ἐλέησον ἡμᾶς."
 
-trMA.Ode3Kathisma2Verse.source = ""
 trMA.Ode3Kathisma2Verse.text = "Ὑψοῦτε Κύριον τὸν Θεὸν ἡμῶν καὶ προσκυνεῖτε τῷ ὑποποδίῳ τῶν ποδῶν αὐτοῦ."
 
 trMA.Ode3Kathisma2.mode = misc_gr_GR_cog.Mode6
@@ -439,14 +436,12 @@ trMA.Lauds1.mode = misc_gr_GR_cog.Mode4
 trMA.Lauds1.melody = he.a.m4_gr_GR_cog.OsGennaionEnMartysi.name
 trMA.Lauds1.text = "Ἐν φωναῖς ἀλαλάξωμεν, ἐν ᾠδαῖς μεγαλύνωμεν, τὸν Σταυρὸν τὸν τίμιον, ἀσπαζόμενοι, καὶ πρὸς αὐτὸν ἐκβοήσωμεν· Σταυρὲ πανσεβάσμιε, καθαγίασον ἡμῶν τὰς ψυχάς καὶ τὰ σώματα, τῇ δυνάμει σου, καὶ παντοίας ἐκ βλάβης ἐναντίων, διατήρησον ἀτρώτους τοὺς εὐσεβῶς προσκυνοῦντάς σε."
 
-trMA.LaudsSundayVerse1.source = ""
 trMA.LaudsSundayVerse1.text = "Ὑψοῦτε Κύριον τὸν Θεὸν ἡμῶν, καὶ προσκυνεῖτε τῷ ὑποποδίῳ τῶν ποδῶν αὐτοῦ."
 
 trMA.Lauds2.mode = misc_gr_GR_cog.Mode4
 trMA.Lauds2.melody = he.a.m4_gr_GR_cog.OsGennaionEnMartysi.name
 trMA.Lauds2.text = "Προσελθόντες ἀρύσατε, μὴ κενούμενα νάματα, τοῦ Σταυροῦ τῇ χάριτι, προερχόμενα, ἰδοὺ προκείμενον βλέποντες τὸ Ξύλον τὸ ἅγιον, χαρισμάτων τὴν πηγὴν ἀρδομένην τῷ Αἵματι καὶ τῷ ὕδατι τοῦ Δεσπότου τῶν ὅλων, τοῦ ἐν τούτῳ, ἑκουσίως ὑψωθέντος καὶ τοὺς βροτοὺς ἀνυψώσαντος."
 
-trMA.LaudsSundayVerse2.source = ""
 trMA.LaudsSundayVerse2.text = "Ὁ δὲ Θεὸς ἡμῶν πρὸ αἰώνων εἰργάσατο σωτηρίαν ἐν μέσῳ τῆς γῆς."
 
 trMA.Lauds3.mode = misc_gr_GR_cog.Mode4
@@ -478,42 +473,30 @@ trMA.AdditionalIdiomelonBoth.mode = misc_gr_GR_cog.Mode6
 trMA.AdditionalIdiomelonBoth.melody = "Εἱρμολογικόν."
 trMA.AdditionalIdiomelonBoth.text = "Σήμερον τὸ προφητικὸν πεπλήρωται λόγιον· ἰδοὺ γὰρ προσκυνοῦμεν εἰς τὸν τόπον, οὗ ἔστησαν οἱ πόδες σου Κύριε, καὶ ξύλου σωτηρίας γευσάμενοι, τῶν ἐξ ἁμαρτίας παθῶν ἐλευθερίας ἐτύχομεν, πρεσβείαις τῆς Θεοτόκου μόνε φιλάνθρωπε."
 
-trLI.Antiphon1Verse1.source = "4"
 trLI.Antiphon1Verse1.text = "Εσημειώθη ἐφ' ἡμᾶς τὸ φῶς τοῦ προσώπου σου, Κύριε."
 
-trLI.Antiphon1Verse2.source = "59"
 trLI.Antiphon1Verse2.text = "Ἔδωκας τοῖς φοβουμένοις σε σημείωσιν τοῦ φυγεῖν ἀπὸ προσώπου τόξου."
 
-trLI.Antiphon1Verse3.source = "67"
 trLI.Antiphon1Verse3.text = "Ἀνέβης εἰς ὕψος, ᾐχμαλώτευσας αἰχμαλωσίαν, ἔλαβες δόματα ἐν ἀνθρώποις."
 
-trLI.Antiphon1Verse4.source = "60"
 trLI.Antiphon1Verse4.text = "Ἔδωκας κληρονομίαν τοῖς φοβουμένοις τὸ ὄνομά σου."
 
-trLI.Antiphon2Verse1.source = "97"
 trLI.Antiphon2Verse1.text = "Εἴδοσαν πάντα τὰ πέρατα τῆς γῆς τὸ σωτήριον τοῦ Θεοῦ ἡμῶν."
 
-trLI.Antiphon2Verse2.source = "97"
 trLI.Antiphon2Verse2.text = "Εἰσελευσόμεθα εἰς τὰ σκηνώματα αὐτοῦ, προσκυνήσομεν εἰς τὸν τόπον, οὗ ἔστησαν οἱ πόδες αὐτοῦ."
 
-trLI.Antiphon2Verse3.source = "73"
 trLI.Antiphon2Verse3.text = "Ὁ δὲ Θεὸς βασιλεὺς ἡμῶν πρὸ αἰώνων, εἰργάσατο σωτηρίαν ἐν μέσῳ τῆς γῆς."
 
-trLI.Antiphon2Verse4.source = "45"
 trLI.Antiphon2Verse4.text = "Σχολάσατε καὶ γνῶτε ὅτι ἐγώ εἰμι ὁ Θεός· ὑψωθήσομαι ἐν τοῖς ἔθνεσιν, ὑψωθήσομαι ἐν τῇ γῇ."
 
 trLI.Antiphon2.text = ""
 
-trLI.Antiphon3Verse1.source = "98"
 trLI.Antiphon3Verse1.text = "Ὑψοῦτε Κύριον τὸν Θεὸν ἡμῶν καὶ προσκυνεῖτε τῷ ὑποποδίῳ τῶν ποδῶν αὐτοῦ."
 
-trLI.Antiphon3Verse2.source = "27"
 trLI.Antiphon3Verse2.text = "Σῶσον, ὁ Θεός, τὸν λαόν σου καὶ εὐλόγησον τὴν κληρονομίαν σου"
 
-trLI.Antiphon3Verse3.source = ""
 trLI.Antiphon3Verse3.text = "Καὶ ποίμανον αὐτοὺς καὶ ἔπαρον αὐτοὺς ἕως τοῦ αἰῶνος."
 
-trLI.EntranceHymn.source = ""
 trLI.EntranceHymn.text = ""
 
 trLI.SeasonalKontakion.mode = misc_gr_GR_cog.Mode8
@@ -523,7 +506,6 @@ trLI.SeasonalKontakion.text = he.a.m8_gr_GR_cog.TiYpermacho.text
 trLI.TheotokosHymn.mode = misc_gr_GR_cog.Mode8
 trLI.TheotokosHymn.text = oc.m8.d1_gr_GR_cog.ocMA.Kathisma23.text
 
-trLI.CommunionHymn.source = ""
 trLI.CommunionHymn.text = da.d6_gr_GR_cog.daLI.CommunionHymnAlt.text
 
 trLI.AfterCommunion.mode = misc_gr_GR_cog.Mode1

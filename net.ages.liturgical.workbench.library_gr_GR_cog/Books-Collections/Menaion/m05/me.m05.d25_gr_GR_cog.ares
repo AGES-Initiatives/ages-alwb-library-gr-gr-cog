@@ -36,14 +36,12 @@ meVE.Aposticha1.mode = misc_gr_GR_cog.Mode2
 meVE.Aposticha1.melody = he.a.m2_gr_GR_cog.OteEkTouXylou.name
 meVE.Aposticha1.text = "Δεῦτε, τὴν τιμίαν Κεφαλήν, τὴν ἀποτμηθεῖσαν τῷ ξίφει, τοῦ Βαπτιστοῦ οἱ πιστοί, σήμερον τιμήσωμεν, ἐν τῇ εὑρέσει αὐτῆς, ὑπατῶντες ἐν ᾄσμασι, γεραίροντες πόθῳ, χάριτας προχέουσαν τῶν ἰαμάτων ἡμῖν, ἥνπερ, ὁ ληρώδης Ἡρῴδης, πάλαι προαπέτεμεν οἴστρῳ, τῇ Ἡρῳδιάδι συμπλεκόμενος."
 
-meVE.ApostichaVerse2.source  = ""
 meVE.ApostichaVerse2.text = "Ἐκεῖ ἐξανατελῶ κέρας τῷ Δαυΐδ, ἡτοίμασα λύχνον τῷ Χριστῷ μου."
 
 meVE.Aposticha2.mode = misc_gr_GR_cog.Mode2
 meVE.Aposticha2.melody = he.a.m2_gr_GR_cog.OteEkTouXylou.name
 meVE.Aposticha2.text = "Ὥσπερ, ἐκ μετάλλων ὁ χρυσός, οὕτως ἐκ τῆς γῆς τοῦ Προδρόμου, ἡ Κεφαλὴ δᾳδουχεῖ, σκεύει διαλάμπουσα, καὶ φθεγγομένη τρανῶς, τοῦ Ἡρῴδου ἐλέγχουσα, μοιχείαν καὶ φόνον, αἴγλῃ δὲ φωτίζουσα τὰς διανοίας ἡμῶν, ἣν περ, ἀσπαζόμενοι πίστει, σήμερον τιμήσωμεν ὕμνοις ὡς ὑπὲρ ἡμῶν Θεῷ πρεσβεύουσαν."
 
-meVE.ApostichaVerse3.source  = ""
 meVE.ApostichaVerse3.text = "Μνήσθητι, Κύριε, τοῦ Δαυΐδ καὶ πάσης τῆς πρᾳότητος αὐτοῦ."
 
 meVE.Aposticha3.mode = misc_gr_GR_cog.Mode2
@@ -312,10 +310,8 @@ meMA.LaudsTheotokion.mode = misc_gr_GR_cog.Mode6
 meMA.LaudsTheotokion.melody = he.o_gr_GR_cog.TheotokeSyEi.name
 meMA.LaudsTheotokion.text = he.o_gr_GR_cog.TheotokeSyEiProdromou.text
 
-meMA.LaudsSundayVerse1.source  = ""
 meMA.LaudsSundayVerse1.text = meVE.ApostichaVerse2.text
 
-meMA.LaudsSundayVerse2.source  = ""
 meMA.LaudsSundayVerse2.text = meVE.ApostichaVerse3.text
 
 meLI.SeasonalKontakion.mode = misc_gr_GR_cog.Mode2
@@ -324,13 +320,10 @@ meLI.SeasonalKontakion.text  = ""
 
 meLI.Alleluia.mode = misc_gr_GR_cog.Mode4
 
-meLI.AlleluiaVerse1.source = ""
 meLI.AlleluiaVerse1.text = "Δίκαιος ὡς φοίνιξ ἀνθήσει."
 
-meLI.AlleluiaVerse2.source = ""
 meLI.AlleluiaVerse2.text = "Πεφυτευμένος ἐν τῷ οἴκῳ Κυρίου."
 
-meLI.CommunionHymn.source = ""
 meLI.CommunionHymn.text = da.d3_gr_GR_cog.daLI.CommunionHymn.text
 
 meMegalynarion.text = ""

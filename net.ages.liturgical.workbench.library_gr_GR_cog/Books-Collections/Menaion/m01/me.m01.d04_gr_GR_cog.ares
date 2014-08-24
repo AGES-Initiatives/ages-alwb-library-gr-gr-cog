@@ -1,13 +1,13 @@
 A_Resource_Whose_Name = me.m01.d04_gr_GR_cog
 
 meDate.text = "Τῌ Δʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "Προεόρτια τῶν Φώτων, καὶ ἡ Σύναξις τῶν Ἁγίων Ἑβδομήκοντα Ἀποστόλων, καὶ μνήμη τοῦ Ὁσίου Πατρὸς ἡμῶν Θεοκτίστου." //full title of day
+meCommemoration.text = "Προεόρτια τῶν Φώτων, καὶ ἡ Σύναξις τῶν Ἁγίων Ἑβδομήκοντα Ἀποστόλων, καὶ μνήμη τοῦ Ὁσίου Πατρὸς ἡμῶν Θεοκτίστου." // full title of day
 meShortCommemoration1.text = ""
-meInsert1 = "" //for use in petitions and dismissal
-meInsert2 = "" //for use in petitions and dismissal
+meInsert1 = "" // for use in petitions and dismissal
+meInsert2 = "" // for use in petitions and dismissal
 meNote.text = ""
-meHO.number = ""
-meHO.rank  = ""
+meHO.number = "4."
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -38,21 +38,21 @@ meVE.Stichera06.text = "Πρᾶος, ἀνεξίκακος ὀφθείς, ἐν 
 
 meVE.SticGlory.poet = poets_gr_GR_cog.AndreouIerosolymitou
 meVE.SticGlory.mode = misc_gr_GR_cog.Mode3
-meVE.SticGlory.melody  = ""
+meVE.SticGlory.melody = ""
 meVE.SticGlory.text = "Φαιδρὰ μὲν ἡ παρελθοῦσα Ἑορτή, ἔνδοξος ἡ παροῦσα ἡμέρα· Ἐν ἐκείνῃ τὸν Σωτῆρα Μάγοι προσεκύνησαν· ἐν ταύτῃ δὲ τὸν Δεσπότην, δοῦλος κλητὸς ἐβάπτισεν. Ἐκεῖ Ποιμένες ἀγραυλοῦντες, εἶδον καὶ ἐθαύμασαν· ὧδε φωνὴ τοῦ Πατρός, τὸν μονογενῆ Υἱὸν ἐκήρυξε."
 
 meVE.Aposticha1.mode = misc_gr_GR_cog.Mode2
 meVE.Aposticha1.melody = he.a.m2_gr_GR_cog.OikosTouEfratha.name
 meVE.Aposticha1.text = "Ὀ λύχνος τῷ Φωτί, ἡ αὐγὴ τῷ Ἡλίῳ, ὁ φίλος τῷ Νυμφίῳ, ὁ Πρόδρομος τῷ Λόγῳ, Προφῆτα καθυπούργησον."
 
-meVE.ApostichaVerse2.source  = ""
+meVE.ApostichaVerse2.source = ""
 meVE.ApostichaVerse2.text = "Διὰ τοῦτο μνησθήσομαί σου ἐκ γῆς Ἰορδάνου καὶ Ἐρμωνιείμ."
 
 meVE.Aposticha2.mode = misc_gr_GR_cog.Mode2
 meVE.Aposticha2.melody = he.a.m2_gr_GR_cog.OikosTouEfratha.name
 meVE.Aposticha2.text = "Ἦλθεν ὁ φωτισμός, ἡ λύτρωσις ἐφάνη, ἐν Ἰορδάνῃ, δεῦτε, συνέλθωμεν ῥυφθῆναι, καὶ ᾆσαι προεόρτια."
 
-meVE.ApostichaVerse3.source  = ""
+meVE.ApostichaVerse3.source = ""
 meVE.ApostichaVerse3.text = "Εἴδοσάν σε ὕδατα ὁ Θεός, εἴδοσάν σε ὕδατα καὶ ἐφοβήθησαν."
 
 meVE.Aposticha3.mode = misc_gr_GR_cog.Mode2
@@ -61,11 +61,11 @@ meVE.Aposticha3.text = "Πάντα μοι διὰ σοῦ, τὰ καλὰ Θε�
 
 meVE.AposGlory.poet = poets_gr_GR_cog.Vyzantiou
 meVE.AposGlory.mode = misc_gr_GR_cog.Mode6
-meVE.AposGlory.melody  = ""
+meVE.AposGlory.melody = ""
 meVE.AposGlory.text = "Ἔρχεται πρὸς Ἰορδάνην, Χριστὸς ἡ ἀλήθεια, τοῦ βαπτισθῆναι ὑπὸ Ἰωάννου, καί φησὶ πρὸς αὐτόν. Ἐγὼ χρείαν ἔχω ὑπὸ σοῦ βαπτισθῆναι, καὶ σὺ ἔρχῃ πρὸς με; οὐ τολμῶ ὁ χόρτος προσψαῦσαι τῷ πυρί, σὺ με ἁγίασον Δεσπότα, τῇ θείᾳ ἐπιφανείᾳ σου."
 
 meVE.Apolytikion1.mode = he.ga_gr_GR_cog.ApostoloiAgioi.mode
-meVE.Apolytikion1.melody  = ""
+meVE.Apolytikion1.melody = ""
 meVE.Apolytikion1.text = he.ga_gr_GR_cog.ApostoloiAgioi.text
 
 meCO.C1Acrostic.text = "οὗ ἡ Ἀκροστιχίς· Τῇ μακρᾷ πέμπτῃ, μακρὸν ὕμνον ἐξᾴδω."
@@ -571,7 +571,7 @@ meMA.Kontakion1.text = "Χριστοῦ Μαθητῶν, χορὸν τῶν Ἑ
 
 meMA.Oikos1.text = "Τῶν Ἑβδομήκοντα Ἀποστόλων τὴν χορείαν, συμφώνως οἱ πιστοί, ἱεραῖς εὐφημήσωμεν μελῳδίαις, Στέφανον, Πρόχορόν τε καὶ Σίλαν καὶ Νικάνορα. Τίμωνα καὶ Ἀμπλίαν καὶ Παρμενᾶν, Ἀπελλῆν τε Ἰάκωβον, Φίλιππον, Ἀρίσταρχον, καὶ Ματθίαν, Ἡρωδίωνα, Κρήσκην καὶ Φλέγοντα Βαρνάβαν, Λῖνον καὶ Ὀλυμπᾶν, Λουκᾶν καὶ Ἀσύγκριτον, καὶ τοὺς λοιπούς· ὑπάρχουσι γὰρ λύχνοι θείας Πίστεως."
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C1H.ode = misc_gr_GR_cog.Ode7
 meMA.Ode7C1H.mode = misc_gr_GR_cog.Mode6
@@ -795,24 +795,24 @@ meMA.LaudsBoth.mode = misc_gr_GR_cog.Mode6
 meMA.LaudsBoth.melody = he.a.m6_gr_GR_cog.AiAngelikai.name
 meMA.LaudsBoth.text = "Σὺ τὸν Ἰσραήλ, διὰ στύλου καὶ νεφέλης, πρὶν φωταγωγῶν, καὶ δροσίζων ἐν ἐρήμῳ, σὺ ὁ δεσπόζων πάντων, ὁ τῇ φύσει ἀνέκφραστος, δούλου τὴν μορφὴν πῶς ἐνεδύσω; οὐ ψαύσω σου πυρὸς ὁ χόρτος, αὐτὸς με βάπτισον· ἐγὼ γὰρ χρῄζω ὑπὸ σοῦ, καθάρσιον δέξασθαι."
 
-meMA.LaudsSundayVerse1.source  = ""
+meMA.LaudsSundayVerse1.source = ""
 meMA.LaudsSundayVerse1.text = ""
 
-meMA.LaudsSundayVerse2.source  = ""
+meMA.LaudsSundayVerse2.source = ""
 meMA.LaudsSundayVerse2.text = ""
 
 meMA.Aposticha1.mode = misc_gr_GR_cog.Mode2
 meMA.Aposticha1.melody = he.a.m2_gr_GR_cog.OikosTouEfratha.name
 meMA.Aposticha1.text = "Ὤφθη τὸ πατρικόν, ἀπαύγασμα τῆς δόξης, ἐν Ἰορδάνου ῥείθροις, Βαπτίσματι καθαῖρον, τὸν ῥύπον τῶν ψυχῶν ἡμῶν."
 
-meMA.ApostichaVerse2.source  = ""
+meMA.ApostichaVerse2.source = ""
 meMA.ApostichaVerse2.text = "Διὰ τοῦτο μνησθήσομαί σου ἐκ γῆς Ἰορδάνου καὶ Ἐρμωνιείμ."
 
 meMA.Aposticha2.mode = misc_gr_GR_cog.Mode2
 meMA.Aposticha2.melody = he.a.m2_gr_GR_cog.OikosTouEfratha.name
 meMA.Aposticha2.text = "Δέχου δουλοπρεπῶς, Προφῆτα Ἰωάννη, τὸν Λυτρωτὴν τοῦ κόσμου, καὶ βάπτισον τὸν Κτίστην, βροτῶν εἰς ἀναγέννησιν."
 
-meMA.ApostichaVerse3.source  = ""
+meMA.ApostichaVerse3.source = ""
 meMA.ApostichaVerse3.text = "Εἴδοσάν σε ὕδατα ὁ Θεός, εἴδοσάν σε ὕδατα καὶ ἐφοβήθησαν."
 
 meMA.Aposticha3.mode = misc_gr_GR_cog.Mode2

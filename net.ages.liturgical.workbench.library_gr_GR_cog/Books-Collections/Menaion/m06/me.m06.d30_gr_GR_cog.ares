@@ -50,14 +50,12 @@ meVE.Aposticha1.mode = misc_gr_GR_cog.Mode4
 meVE.Aposticha1.melody = misc_gr_GR_cog.Automelon
 meVE.Aposticha1.text = he.a.m4_gr_GR_cog.OExYpsistouKlitheis.text
 
-meVE.ApostichaVerse2.source  = ""
 meVE.ApostichaVerse2.text = "Εἰς πᾶσαν τὴν γῆν ἐξῆλθεν ὁ φθόγγος αὐτῶν καὶ εἰς τὰ πέρατα τῆς οἰκουμένης τὰ ῥήματα αὐτῶν."
 
 meVE.Aposticha2.mode = misc_gr_GR_cog.Mode4
 meVE.Aposticha2.melody = he.a.m4_gr_GR_cog.OExYpsistouKlitheis.name
 meVE.Aposticha2.text = "Ὁ τοῦ Ἀνάρχου Πατρὸς Υἱὸς καὶ Λόγος, ὅτε δωδεκάριθμον τῶν Ἀποστόλων χορόν, ἐν γῇ ἐλθὼν ἐξελέξατο, ἠρώτα τούτους· Τίνα με λέγουσιν εἶναι ἄνθρωποι; τότε καὶ ὁ πρόκριτος τῶν Ἀποστόλων Πέτρος, θεολογῶν ἀνεκήρυξε, τρανῶς βοήσας· Σὺ εἶ Χριστὸς, τοῦ ζῶντος Θεοῦ Υἱός· ὅθεν ἀξίως μακαρίζεται, ὡς ἐξ ὕψους λαβὼν ἀποκάλυψιν, καὶ τὸ κράτος τοῦ λύειν, καὶ δεσμεῖν τὰ ἁμαρτήματα."
 
-meVE.ApostichaVerse3.source  = ""
 meVE.ApostichaVerse3.text = "Οἱ οὐρανοὶ διηγοῦνται δόξαν Θεοῦ ποίησιν δὲ χειρῶν αὐτοῦ ἀναγγέλλει τὸ στερέωμα."
 
 meVE.Aposticha3.mode = misc_gr_GR_cog.Mode4
@@ -484,17 +482,14 @@ meMA.LaudsTheotokion.mode = misc_gr_GR_cog.Mode8
 meMA.LaudsTheotokion.melody  = ""
 meMA.LaudsTheotokion.text = oc.m8.d5_gr_GR_cog.ocMA.AposTheotokion.text
 
-meMA.LaudsSundayVerse1.source  = ""
 meMA.LaudsSundayVerse1.text = meVE.ApostichaVerse2.text 
 
-meMA.LaudsSundayVerse2.source  = ""
 meMA.LaudsSundayVerse2.text = meVE.ApostichaVerse3.text 
 
 meLI.SeasonalKontakion.mode = misc_gr_GR_cog.Mode2
 meLI.SeasonalKontakion.melody  = ""
 meLI.SeasonalKontakion.text = ho.s07_gr_GR_cog.hoTY.Key0408.text
 
-meLI.CommunionHymn.source = ""
 meLI.CommunionHymn.text = da.d5_gr_GR_cog.daLI.CommunionHymn.text
 
 meMegalynarion.text = ""

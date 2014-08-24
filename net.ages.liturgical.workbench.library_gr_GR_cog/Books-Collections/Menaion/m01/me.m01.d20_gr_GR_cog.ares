@@ -36,14 +36,12 @@ meSV.Aposticha1.mode = misc_gr_GR_cog.Mode2
 meSV.Aposticha1.melody = he.a.m2_gr_GR_cog.OikosTouEfratha.name
 meSV.Aposticha1.text = "Δόλους τῶν πονηρῶν, δαιμόνων θριαμβεύσας, τῇ τοῦ Σταυροῦ δυνάμει, ἐτράνωσας τὴν δόξαν, Χριστοῦ Πάτερ Εὐθύμιε."
 
-meSV.ApostichaVerse2.source  = ""
 meSV.ApostichaVerse2.text = "Τίμιος ἐναντίον Κυρίου ὁ θάνατος τῶν ὁσίων αὐτοῦ."
 
 meSV.Aposticha2.mode = misc_gr_GR_cog.Mode2
 meSV.Aposticha2.melody = he.a.m2_gr_GR_cog.OikosTouEfratha.name
 meSV.Aposticha2.text = "Ἤρθης ὡς Ἠλιού, ἐν ἅρματι πυρίνῳ, καὶ συνεκράθης μάκαρ, ἀμέσως τῇ Τριάδι, Εὐθύμιε παγκόσμιε."
 
-meSV.ApostichaVerse3.source  = ""
 meSV.ApostichaVerse3.text = "Μακάριος ἀνήρ ὁ φοβούμενος τὸν Κύριον."
 
 meSV.Aposticha3.mode = misc_gr_GR_cog.Mode2
@@ -114,14 +112,12 @@ meVE.Aposticha1.mode = misc_gr_GR_cog.Mode5
 meVE.Aposticha1.melody = he.a.m5_gr_GR_cog.ChairoisAskitikon.name
 meVE.Aposticha1.text = "Χαίροις ὡς εὐθυμίας ἀρχή, τῆς Ἐκκλησίας γεγονὼς Πάτερ Ὅσιε· τῇ σῇ γὰρ γεννὴσει πάσας, αἱρετικῶν τὰς ὁρμάς, ἐκ Θεοῦ προνοίας ἀπεκρούσατο· διὸ σε φερώνυμον, ὀνομάζει Εὐθύμιον. Τῶν οὐρανίων, Οὐσιῶν δὲ τὰ τάγματα, χαρὰς ἔπλησας, τῇ τοῦ βίου λαμπρότητι, οἷς καὶ συναυλιζόμενος, φωτός τε πληρούμενος, καὶ πανολβίου καὶ θείας, ἐναπολαύων ἐλλάμψεως, Χριστὸν νῦν δυσώπει, ταῖς ψυχαῖς ἡμῶν δοθῆναι, τὸ μέγα ἔλεος."
 
-meVE.ApostichaVerse2.source  = ""
 meVE.ApostichaVerse2.text = "Τίμιος ἐναντίον Κυρίου ὁ θάνατος τῶν Ὁσίων αὐτοῦ."
 
 meVE.Aposticha2.mode = misc_gr_GR_cog.Mode5
 meVE.Aposticha2.melody = he.a.m5_gr_GR_cog.ChairoisAskitikon.name
 meVE.Aposticha2.text = "Ῥάβδῳ τῇ τοῦ Σταυροῦ στηριχθείς, τῆς ἀνομίας τοὺς χειμάῤῥους ἐξήρανας· χειμάῤῥουν τρυφῆς δὲ θείας, καὶ Παραδείσου πηγήν, νοερῶς Παμμάκαρ ποτιζόμενος, πηγάς σωτηρίους, ἐν τῇ ἐρήμῳ ἀνέδειξας· ἐπιῤῥοαῖς δέ, θείου Πνεύματος Ὅσιε, πιαινόμενος, ὥσπερ φοίνιξ ἀνέδραμες, ὕψος πρὸς ἐπουράνιον· καὶ στῦλος πυρίμορφος, ὤφθης θεόφρον καὶ πλήρης, φωτοειδοῦς ἐπιλάμψεως, Χριστοῦ· ὃν δυσώπει, ταῖς ψυχαῖς ἡμῶν δοθῆναι, τὸ μέγα ἔλεος."
 
-meVE.ApostichaVerse3.source  = ""
 meVE.ApostichaVerse3.text = "Μακάριος ἀνήρ ὁ φοβούμενος τὸν Κύριον."
 
 meVE.Aposticha3.mode = misc_gr_GR_cog.Mode5
@@ -560,10 +556,8 @@ meMA.LaudsTheotokion.mode = misc_gr_GR_cog.Mode8
 meMA.LaudsTheotokion.melody  = ""
 meMA.LaudsTheotokion.text = oc.m8.d5_gr_GR_cog.ocMA.AposTheotokion.text
 
-meMA.LaudsSundayVerse1.source  = ""
 meMA.LaudsSundayVerse1.text = meVE.ApostichaVerse2.text 
 
-meMA.LaudsSundayVerse2.source  = ""
 meMA.LaudsSundayVerse2.text = meVE.ApostichaVerse3.text 
 
 meLI.SeasonalKontakion.mode = misc_gr_GR_cog.Mode1
@@ -572,13 +566,10 @@ meLI.SeasonalKontakion.text = me.m02.d02_gr_GR_cog.meMA.Kontakion1.text
 
 meLI.Alleluia.mode = misc_gr_GR_cog.Mode2
 
-meLI.AlleluiaVerse1.source = ""
 meLI.AlleluiaVerse1.text = "Μακάριος ἀνὴρ ὁ φοβούμενος τὸν Κύριον."
 
-meLI.AlleluiaVerse2.source = ""
 meLI.AlleluiaVerse2.text = "Ἐν ταῖς ἐντολαῖς αὐτοῦ θελήσει σφόδρα."
 
-meLI.CommunionHymn.source = ""
 meLI.CommunionHymn.text = da.d3_gr_GR_cog.daLI.CommunionHymn.text
 
 meMegalynarion.text = ""

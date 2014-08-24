@@ -41,14 +41,12 @@ meVE.Aposticha1.mode = misc_gr_GR_cog.Mode8
 meVE.Aposticha1.melody = he.a.m8_gr_GR_cog.OTouParadoxou.name
 meVE.Aposticha1.text = "Χριστοῦ φανέντος τοῖς ἴχνεσιν, ἀκολουθοῦσα σεμνή, καὶ αὐτὸν θεραπεύουσα, γνώμης προθυμότατα, Μυροφόρε εὐθύτητι, οὐδὲ θανόντα τοῦτον κατέλιπες, ἀλλ' ἀπελθοῦσα μύρα σὺν δάκρυσι, τούτῳ προσήνεγκας, συμπαθῶς πανεύφημε· ὅθεν τὴν σήν, μνήμην τὴν πανίερον, πανηγυρίζομεν."
 
-meVE.ApostichaVerse2.source  = ""
 meVE.ApostichaVerse2.text = "Εἰς πᾶσαν τὴν γῆν ἐξῆλθεν ὁ φθόγγος αὐτῶν καὶ εἰς τὰ πέρατα τῆς οἰκουμένης τὰ ῥήματα αὐτῶν."
 
 meVE.Aposticha2.mode = misc_gr_GR_cog.Mode8
 meVE.Aposticha2.melody = he.a.m8_gr_GR_cog.OTouParadoxou.name
 meVE.Aposticha2.text = "Σὺ ὦ Μαρία ὑπέρλαμπρε, βλέψαι ποθοῦσα ζωήν, νεκρωθεῖσαν ἐν μνήματι, νυκτὸς παραγέγονας, καὶ Ἀγγέλων ἀκήκοας· Καθὼς προέφη, Χριστὸς ἐγήγερται. Σπουδῇ τοῖς τούτου, Μαθηταῖς φάσκουσα, καὶ τὴν κατήφειαν, ἐκ ψυχῆς ἀπώσασα, ἀντὶ κλαυθμοῦ, χαρὰν ἀνεκλάλητον, σεμνὴ ἀνείληφας."
 
-meVE.ApostichaVerse3.source  = ""
 meVE.ApostichaVerse3.text = "Θαυμαστὸς ὁ Θεὸς ἐν τοῖς ἁγίοις αὐτοῦ."
 
 meVE.Aposticha3.mode = misc_gr_GR_cog.Mode8
@@ -258,10 +256,8 @@ meMA.Exaposteilarion1.mode = misc_gr_GR_cog.Mode2
 meMA.Exaposteilarion1.melody = he.a.m2_gr_GR_cog.GynaikesAkoutisthite.name
 meMA.Exaposteilarion1.text = "Μαρία κυριώνυμε, καὶ τοῦ Χριστοῦ Μαθήτρια, σὺν ταῖς λοιπαῖς Μυροφόροις, καὶ τῇ Παρθένῳ Μαρίᾳ, καὶ μόνῃ θεομήτορι, ἀπαύστως καθικέτευε, τὸν σταυρωθέντα Κύριον, ὑπὲρ ἡμῶν Μυροφόρε, τῶν σὲ τιμώντων ἐκ πόθου."
 
-meMA.LaudsSundayVerse1.source  = ""
 meMA.LaudsSundayVerse1.text = meVE.ApostichaVerse2.text
 
-meMA.LaudsSundayVerse2.source  = ""
 meMA.LaudsSundayVerse2.text = meVE.ApostichaVerse3.text
 
 meLI.SeasonalKontakion.mode = misc_gr_GR_cog.Mode2
@@ -270,13 +266,10 @@ meLI.SeasonalKontakion.text = ho.s07_gr_GR_cog.hoTY.Key0408.text
 
 meLI.Alleluia.mode = misc_gr_GR_cog.Mode4
 
-meLI.AlleluiaVerse1.source = "39"
 meLI.AlleluiaVerse1.text = "Ὑπομένων ὑπέμεινα τὸν Κύριον, καὶ προσέσχε μοι."
 
-meLI.AlleluiaVerse2.source = "33"
 meLI.AlleluiaVerse2.text = "Πολλαὶ αἱ θλίψεις τῶν δικαίων, καὶ ἐκ πασῶν αὐτῶν ῥύσεται αὐτοὺς ὁ Κύριος."
 
-meLI.CommunionHymn.source = ""
 meLI.CommunionHymn.text = ""
 
 meMegalynarion.text = ""

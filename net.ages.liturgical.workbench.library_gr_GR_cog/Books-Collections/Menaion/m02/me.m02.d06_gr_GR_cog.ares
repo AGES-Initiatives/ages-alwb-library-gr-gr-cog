@@ -41,14 +41,12 @@ meSV.Aposticha1.mode = misc_gr_GR_cog.Mode2
 meSV.Aposticha1.melody = he.a.m2_gr_GR_cog.OikosTouEfratha.name
 meSV.Aposticha1.text = "Ἄγε δὴ τῶν πιστῶν, ὁμήγυρις ἡ θεία, αἰνέσωμεν προφρόνως, τὸν μέγαν Ἐκκλησίας, Ἀρχιεράρχην Φώτιον."
 
-meSV.ApostichaVerse2.source  = ""
 meSV.ApostichaVerse2.text = meVE.ApostichaVerse2.text
 
 meSV.Aposticha2.mode = misc_gr_GR_cog.Mode2
 meSV.Aposticha2.melody = he.a.m2_gr_GR_cog.OikosTouEfratha.name
 meSV.Aposticha2.text = "Ὤφθης ἐκ μητρικῶν, σπαργάνων θεοφόρε, ἡγιασμένον σκεῦος, Πατὴρ ἡμῶν καὶ οἶκος, τοῦ Παναγίου Πνεύματος."
 
-meSV.ApostichaVerse3.source  = ""
 meSV.ApostichaVerse3.text = meVE.ApostichaVerse3.text
 
 meSV.Aposticha3.mode = misc_gr_GR_cog.Mode2
@@ -126,14 +124,12 @@ meVE.Aposticha1.mode = misc_gr_GR_cog.Mode5
 meVE.Aposticha1.melody = he.a.m5_gr_GR_cog.ChairoisAskitikon.name
 meVE.Aposticha1.text = "Χαίροις Ἀρχιερεῦ τοῦ Χριστοῦ, χαίροις Πατέρων τὸ φαιδρὸν σεμνολόγημα, ὁ πράξει καὶ θεωρία, κεκοσμημένος λαμπρῶς, ἀρετῶν τῶν θείων τὸ θησαύρισμα· πραότητος σκήνωμα, προσευχῆς ἐνδιαίτημα, τῆς ἀεννάου, τῆς σοφίας κειμήλιον, ταπεινώσεως, τὸ τερπνὸν καταγώγιον, ἥλιε διακρίσεως, εἰρήνης τὸ τέμενος, διπλῆς ἀγάπης ὁ οἶκος, τῆς πρὸς Θεὸν καὶ τὸν ἔγγιστα· Χριστὸν ἐκδυσώπει, τοῦ δωῥήσασθαι τῷ κόσμῳ τὸ μέγα ἔλεος."
 
-meVE.ApostichaVerse2.source  = ""
 meVE.ApostichaVerse2.text = "Τὸ στόμα μου λαλήσει σοφίαν, καὶ ἡ μελέτη τῆς καρδίας μου σύνεσιν."
 
 meVE.Aposticha2.mode = misc_gr_GR_cog.Mode5
 meVE.Aposticha2.melody = he.a.m5_gr_GR_cog.ChairoisAskitikon.name
 meVE.Aposticha2.text = "Χαίροις Ἱεραρχῶν ὁ κανών, καὶ διδασκάλων ὁ προστάτης ὁ ἔνδοξος, τὸ στόμα τῶν Θεολόγων, τῆς Ἐκκλησίας Χριστοῦ, ὁ λαμπρὸς τῷ λὸγῳ καὶ τοῖς δόγμασιν. Ποιμὴν ἀξιάγαστος, Ἀποστόλων ὁμότροπος, εὔστομος γλῶσσα, πᾶσαν αἵρεσιν τέμνουσα, ὥσπερ μάχαιρα, ὀξυτάτη καὶ δίστομος, ὄργανον τὸ ἡδύφθογγον, ὁ νοῦς ὁ οὐράνιος, τῆς Ἐκκλησίας ὁ στῦλος, τῶν εὐσεβῶν τὸ κραταίωμα, Χριστὸν καταπέμψαι, ταῖς ψυχαῖς ἡμῶν δυσώπει τὸ μέγα ἔλεος."
 
-meVE.ApostichaVerse3.source  = ""
 meVE.ApostichaVerse3.text = "Στόμα δικαίου μελετήσει σοφίαν, καὶ ἡ γλῶσσα αὐτοῦ λαλήσει κρίσιν."
 
 meVE.Aposticha3.mode = misc_gr_GR_cog.Mode5
@@ -426,10 +422,8 @@ meMA.LaudsBoth.mode = misc_gr_GR_cog.Mode6
 meMA.LaudsBoth.melody  = ""
 meMA.LaudsBoth.text = me.m02.d02_gr_GR_cog.meMA.LaudsGlory.text
 
-meMA.LaudsSundayVerse1.source  = ""
 meMA.LaudsSundayVerse1.text = meSV.ApostichaVerse2.text
 
-meMA.LaudsSundayVerse2.source  = ""
 meMA.LaudsSundayVerse2.text = meSV.ApostichaVerse3.text
 
 meLI.Antiphon2.text = me.m02.d02_gr_GR_cog.meLI.Antiphon2.text
@@ -440,7 +434,6 @@ meLI.SeasonalKontakion.mode = misc_gr_GR_cog.Mode1
 meLI.SeasonalKontakion.melody  = ""
 meLI.SeasonalKontakion.text = me.m02.d02_gr_GR_cog.meMA.Kontakion1.text
 
-meLI.CommunionHymn.source = ""
 meLI.CommunionHymn.text = da.d3_gr_GR_cog.daLI.CommunionHymn.text
 
 meMegalynarion.text = "Χαίροις ὁ λαμπρότατος τῆς Χριστοῦ, Ἐκκλησίας μύστης, Ὀρθοδόξων προασπιστής, κακοδόξων μάστιξ, Ἱεραρχίας κλέος, ὁ μέγας θεοφάντωρ, Φώτιε Ἅγιε."

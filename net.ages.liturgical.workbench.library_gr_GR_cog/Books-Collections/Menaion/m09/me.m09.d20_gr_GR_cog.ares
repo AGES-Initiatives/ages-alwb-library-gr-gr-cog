@@ -50,14 +50,12 @@ meVE.Aposticha1.mode = misc_gr_GR_cog.Mode6
 meVE.Aposticha1.melody = he.a.m6_gr_GR_cog.TriimerosAnestis.name
 meVE.Aposticha1.text = "Ῥαπίσματα ὑπήνεγκας, καὶ σταύρωσιν Μακρόθυμε, καὶ ὀνείδη, θέλων πάντας ἐκ χειρός, λυτρώσασθαι τοῦ πλάνου, ὁ μόνος ζωοδότης, καὶ πανοικτίρμων καὶ φιλάνθρωπος."
 
-meVE.ApostichaVerse2.source  = ""
 meVE.ApostichaVerse2.text = "Ὑψοῦτε Κύριον τὸν Θεὸν ἡμῶν καὶ προσκυνεῖτε τῷ ὑποποδίῳ τῶν ποδῶν αὐτοῦ."
 
 meVE.Aposticha2.mode = misc_gr_GR_cog.Mode6
 meVE.Aposticha2.melody = he.a.m6_gr_GR_cog.TriimerosAnestis.name
 meVE.Aposticha2.text = "Τιμῶ σου τὸν Σταυρὸν ἀγαθέ, τοὺς ἥλους καὶ τὴν λόγχην Σωτήρ, δι' ὧν πάντας, ἐλυτρώσω τῆς φθορᾶς, ὡς μόνος ζωοδότης, καὶ πάντων εὐεργέτης, μόνε φιλάνθρωπε Σωτὴρ ἡμῶν."
 
-meVE.ApostichaVerse3.source  = ""
 meVE.ApostichaVerse3.text = "Ὁ δὲ Θεὸς Βασιλεὺς ἡμῶν πρὸ αἰῶνος εἰργάσατο σωτηρίαν ἐν μέσῳ τῆς γῆς."
 
 meVE.Aposticha3.mode = misc_gr_GR_cog.Mode6
@@ -299,24 +297,20 @@ meMA.LaudsBoth.mode = misc_gr_GR_cog.Mode8
 meMA.LaudsBoth.melody  = ""
 meMA.LaudsBoth.text = me.m09.d14_gr_GR_cog.meVE.AposGlory.text
 
-meMA.LaudsSundayVerse1.source  = ""
 meMA.LaudsSundayVerse1.text = meVE.ApostichaVerse2.text
 
-meMA.LaudsSundayVerse2.source  = ""
 meMA.LaudsSundayVerse2.text = meVE.ApostichaVerse3.text
 
 meMA.Aposticha1.mode = misc_gr_GR_cog.Mode2
 meMA.Aposticha1.melody = he.a.m2_gr_GR_cog.OikosTouEfratha.name
 meMA.Aposticha1.text = me.m09.d14_gr_GR_cog.meSV.Aposticha2.text
 
-meMA.ApostichaVerse2.source  = ""
 meMA.ApostichaVerse2.text = meVE.ApostichaVerse2.text
 
 meMA.Aposticha2.mode = misc_gr_GR_cog.Mode2
 meMA.Aposticha2.melody = he.a.m2_gr_GR_cog.OikosTouEfratha.name
 meMA.Aposticha2.text = me.m09.d17_gr_GR_cog.meMA.Aposticha3.text
 
-meMA.ApostichaVerse3.source  = ""
 meMA.ApostichaVerse3.text = meVE.ApostichaVerse3.text
 
 meMA.Aposticha3.mode = misc_gr_GR_cog.Mode2

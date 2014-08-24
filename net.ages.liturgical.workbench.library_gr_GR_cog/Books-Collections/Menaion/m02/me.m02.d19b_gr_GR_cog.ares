@@ -69,14 +69,12 @@ meVE.Aposticha1.mode = misc_gr_GR_cog.Mode5
 meVE.Aposticha1.melody = he.a.m5_gr_GR_cog.ChairoisAskitikon.name
 meVE.Aposticha1.text = "Χαίροις τῶν Ἀθηνῶν ἡ Δορκάς· ὡς γὰρ ἐκείνη ἐν Ἰόππῃ, μαθήτρια πιστὴ τοΰ Χριστοῦ ἐγένου καὶ ὀρφανῶν καὶ χηρῶν μήτηρ καὶ προστάτις ἀναδέδειξαι· τὴν δόξαν ἐμίσησας καὶ τὸν πλοῦτον διέθηκας καὶ παρθενῶνα ὁσιότητος ἔδειμας, πλήρης ἔργων τε ἀγαθῶν ὤφθης, πάντιμε. Ὅθεν σου τὴν πανήγυριν τελοῦντες, τὴν λάρνακα τῶν σῶν λειψάνων κυκλοῦμεν καὶ σωτηρίας αἰτούμεθα τυχεῖν, Φιλοθέη, σαῖς πρεσβείαις πρὸς τὸν σῴζειν ἡμᾶς δυνάμενον."
 
-meVE.ApostichaVerse2.source = "39"
 meVE.ApostichaVerse2.text = "Ὑπομένων ὑπέμεινα τὸν Κύριον καὶ προσέσχε μοι."
 
 meVE.Aposticha2.mode = misc_gr_GR_cog.Mode5
 meVE.Aposticha2.melody = he.a.m5_gr_GR_cog.ChairoisAskitikon.name
 meVE.Aposticha2.text = "Χαίροις, τῶν Ἀθηνῶν ἡ λαμπάς· ἡ ἐν τῷ βίῳ καιομένη καὶ φαίνουσα, ἡ πίστιν δι' εὐποιΐας καὶ διὰ βίου ἁγνοῦ τάς πρὸς σὲ φοιτώσας ἐκδιδάσκουσα· τροφὸς τούτων γέγονας καὶ προστάτις καὶ στήριγμα, διωκομένων ἀσφαλὲς καταφύγιον, νεανίδων τε αἰχμαλώτων ἀνάῤῥυσις. Ὥσπερ φωστὴρ διέλαμψας καὶ νύκτα ἐφώτισας τὴν ζοφερὰν τῆς δουλείας, ὦ Φιλοθέη, τοῦ Γένους σου· διό σε τιμῶμεν καὶ αἰτούμεθα πρεσβεύειν σε πρὸς τὸν Κύριον."
 
-meVE.ApostichaVerse3.source = "39"
 meVE.ApostichaVerse3.text = "Καὶ ἔστησεν ἐπὶ πέτραν τοὺς πόδας μου καὶ κατεύθυνε τὰ διαβήματά μου."
 
 meVE.Aposticha3.mode = misc_gr_GR_cog.Mode5
@@ -548,10 +546,8 @@ meMA.LaudsTheotokion.mode = misc_gr_GR_cog.Mode5
 meMA.LaudsTheotokion.melody  = ""
 meMA.LaudsTheotokion.text = oc.m5.d3_gr_GR_cog.ocVE.AposTheotokion.text
 
-meMA.LaudsSundayVerse1.source  = ""
 meMA.LaudsSundayVerse1.text = meVE.ApostichaVerse2.text
 
-meMA.LaudsSundayVerse2.source  = ""
 meMA.LaudsSundayVerse2.text = meVE.ApostichaVerse3.text
 
 meLI.SeasonalKontakion.mode = misc_gr_GR_cog.Mode2
@@ -560,13 +556,10 @@ meLI.SeasonalKontakion.text  = ""
 
 meLI.Alleluia.mode  = ""
 
-meLI.AlleluiaVerse1.source = ""
 meLI.AlleluiaVerse1.text = ""
 
-meLI.AlleluiaVerse2.source = ""
 meLI.AlleluiaVerse2.text = ""
 
-meLI.CommunionHymn.source = ""
 meLI.CommunionHymn.text = da.d3_gr_GR_cog.daLI.CommunionHymn.text
 
 meMegalynarion.text = "Τὴν Ὁσιομάρτυρα τοῦ Χριστοῦ, τὴν ἐν ταῖς Ἀθήναις διαλάμψασαν φαεινῶς, τὴν καὶ μαρτυρίου στεφάνῳ κοσμουμένην, τὴν θείαν Φιλοθέην πάντες τιμήσωμεν."

@@ -38,14 +38,12 @@ meVE.Aposticha1.mode = misc_gr_GR_cog.Mode5
 meVE.Aposticha1.melody = he.a.m5_gr_GR_cog.ChairoisAskitikon.name
 meVE.Aposticha1.text = "Χαίροις τῶν ἀρετῶν ὁ κανών, ὁ ὑπὲρ πίστεως ἀθλήσας στεῤῥότατα, καὶ λύσας τὴν τοῦ Ἀρείου, κακοδοξίαν νευραῖς, τῶν σεπτῶν σου λόγων Ἀθανάσιε, τρανῶς ἐκδιδάσκων, μιᾶς Θεότητος δύναμιν, ὁριζομένην, ἐν τρισὶν ὑποστάσεσι, παρ' ἧς ἅπαντα, νοητὰ καὶ φαινόμενα, μόνην δι' ἀγαθότητα, παρήχθη πρὸς γένεσιν, καὶ σαφηνίζων τῆς θείας, δημιουργίας τὰ δύσληπτα, Χριστὸν καταπέμψαι, ταῖς ψυχαῖς ἡμῶν δυσώπει τὸ μέγα ἔλεος."
 
-meVE.ApostichaVerse2.source = ""
 meVE.ApostichaVerse2.text = "Τὸ στόμα μου λαλήσει σοφίαν καὶ ἡ μελέτη τῆς καρδίας μου σύνεσιν."
 
 meVE.Aposticha2.mode = misc_gr_GR_cog.Mode5
 meVE.Aposticha2.melody = he.a.m5_gr_GR_cog.ChairoisAskitikon.name
 meVE.Aposticha2.text = "Χαίροις Πατριαρχῶν ἡ κρηπίς, σάλπιγξ ἡ εὔηχος, ὁ νοῦς ὁ περίβλεπτος, ἡ γλῶσσα ἡ ὀξυτάτη, ὁ διαυγὴς ὀφθαλμός, τῶν ὀρθῶν δογμάτων ἡ σαφήνεια, ποιμὴν ἀληθέστατος, ὁ λαμπτὴρ ὁ φανότατος, πέλεκυς κόπτων, ὕλην πᾶσαν αἱρέσεων, καταφλέγων τε, τῷ πυρὶ τῷ τοῦ Πνεύματος, στῦλος ὁ ἀπερίτρεπτος, ὁ πύργος ὁ ἄσειστος, ὁ τῆς Τριάδος κηρύξας, τὴν ὑπερούσιον δύναμιν, τρανῶς, ἣν δυσώπει, ταῖς ψυχαῖς ἡμῶν δοθῆναι τὸ μέγα ἔλεος."
 
-meVE.ApostichaVerse3.source = "131"
 meVE.ApostichaVerse3.text = "Οἱ Ἱερεῖς σου Κύριε ἐνδύσονται δικαιοσύνην καὶ οἱ ὅσιοί σου ἀγαλλιάσει ἀγαλλιάσονται."
 
 meVE.Aposticha3.mode = misc_gr_GR_cog.Mode5
@@ -251,10 +249,8 @@ meMA.LaudsGlory.mode = misc_gr_GR_cog.Mode3
 meMA.LaudsGlory.melody  = ""
 meMA.LaudsGlory.text = "Τὸ μέγα κλέος τῶν ἱερέων, Ἀθανάσιον τὸν ἀήττητον ἀριστέα, ἱεροπρεπῶς εὐφημήσωμεν· οὗτος γὰρ τῶν αἱρέσεων συγκόψας τὰς φάλαγγας, τῇ δυνάμει τοῦ Πνεύματος, τὰ τῆς ὀρθοδοξίας τρόπαια, ἀνεστήσατο καθ' ὅλης τῆς οἰκουμένης, ἀριθμῶν εὐσεβῶς τὸ τῆς Τριάδος μυστήριον, διὰ τὴν τῶν προσώπων ἰδιότητα, καὶ πάλιν συνάπτων ἀσυγχύτως εἰς ἕν, διὰ τὴν τῆς οὐσίας ταυτότητα, καὶ χερουβικῶς θεολογῶν, πρεσβεύει ὑπὲρ τῶν ψυχῶν ἡμῶν."
 
-meMA.LaudsSundayVerse1.source  = ""
 meMA.LaudsSundayVerse1.text = meVE.ApostichaVerse2.text
 
-meMA.LaudsSundayVerse2.source = "131"
 meMA.LaudsSundayVerse2.text = meVE.ApostichaVerse3.text
 
 meLI.SeasonalKontakion.mode = misc_gr_GR_cog.Mode2
@@ -263,13 +259,10 @@ meLI.SeasonalKontakion.text = ho.s07_gr_GR_cog.hoTY.Key0408.text
 
 meLI.Alleluia.mode = misc_gr_GR_cog.Mode1
 
-meLI.AlleluiaVerse1.source = "131"
 meLI.AlleluiaVerse1.text = "Οἱ Ἱερεῖς σου Κύριε ἐνδύσονται δικαιοσύνην καὶ οἱ ὅσιοί σου ἀγαλλιάσει ἀγαλλιάσονται."
 
-meLI.AlleluiaVerse2.source = "131"
 meLI.AlleluiaVerse2.text = "Ὅτι ἐξελέξατο Κύριος τὴν Σιών, ᾑρετίσατο αὐτὴν εἰς κατοικίαν ἑαυτῷ."
 
-meLI.CommunionHymn.source = ""
 meLI.CommunionHymn.text = da.d3_gr_GR_cog.daLI.CommunionHymn.text
 
 meMegalynarion.text = ""

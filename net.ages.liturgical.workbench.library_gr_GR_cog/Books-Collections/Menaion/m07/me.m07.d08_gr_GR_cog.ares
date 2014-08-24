@@ -52,14 +52,12 @@ meVE.Aposticha1.mode = misc_gr_GR_cog.Mode4
 meVE.Aposticha1.melody = he.a.m4_gr_GR_cog.OsGennaionEnMartysi.name
 meVE.Aposticha1.text = "Οὐρανόθεν ἡ κλῆσίς σου, ὡς τοῦ κήρυκος γέγονε, τῶν ἐθνῶν Προκόπιε παναοίδιμε, καὶ φωτισθεὶς τὴν διάνοιαν, τὸ σκότος κατέλιπες, τῶν εἰδώλων καὶ φωστήρ, τῶν πιστῶν ἐχρημάτισας, θείαις λάμψεσι, τῶν σεπτῶν σου ἀγώνων καταυγάζων, τὰ πληρώματα τοῦ κόσμου, κλέος μαρτύρων καὶ καύχημα."
 
-meVE.ApostichaVerse2.source  = ""
 meVE.ApostichaVerse2.text = "Θαυμαστὸς ὁ Θεὸς ἐν τοῖς ἁγίοις αὐτοῦ, ὁ Θεὸς Ἰσραήλ."
 
 meVE.Aposticha2.mode = misc_gr_GR_cog.Mode4
 meVE.Aposticha2.melody = he.a.m4_gr_GR_cog.OsGennaionEnMartysi.name
 meVE.Aposticha2.text = "Ἐγκρατείᾳ τὸ πρότερον, τῆς σαρκὸς τὰ κινήματα, χαλινώσας ὕστερον πρὸς τὴν ἄθλησιν, ἀνδρειοφρόνως ἐχώρησας, παμμάκαρ Προκόπιε, ἀφειδήσας τῆς σαρκός, τῇ δυνάμει τοῦ Πνεύματος· ὅθεν ἅπασαν, ὑπομείνας ἰδέαν τῶν βασάνων, στεφηφόρος πρὸς τὰς ἄνω, χοροστασίας ἀνέδραμες."
 
-meVE.ApostichaVerse3.source  = ""
 meVE.ApostichaVerse3.text = "Τοῖς Ἁγίοις τοὶς ἐν τῇ γῇ αὐτοῦ ἐθαυμάστωμεν πάντα τὰ θέλημα αὐτοῦ ἐν αὐτοῖς."
 
 meVE.Aposticha3.mode = misc_gr_GR_cog.Mode4
@@ -327,10 +325,8 @@ meMA.LaudsTheotokion.mode = misc_gr_GR_cog.Mode8
 meMA.LaudsTheotokion.melody  = ""
 meMA.LaudsTheotokion.text = oc.m8.d5_gr_GR_cog.ocMA.AposTheotokion.text
 
-meMA.LaudsSundayVerse1.source  = ""
 meMA.LaudsSundayVerse1.text = meVE.ApostichaVerse2.text
 
-meMA.LaudsSundayVerse2.source  = ""
 meMA.LaudsSundayVerse2.text = meVE.ApostichaVerse3.text
 
 meLI.SeasonalKontakion.mode = misc_gr_GR_cog.Mode2

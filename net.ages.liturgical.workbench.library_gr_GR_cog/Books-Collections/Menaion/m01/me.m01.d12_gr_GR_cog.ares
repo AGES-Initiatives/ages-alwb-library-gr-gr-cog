@@ -1,13 +1,13 @@
 A_Resource_Whose_Name = me.m01.d12_gr_GR_cog
 
 meDate.text = "Τῌ ΙΒʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "Μνήμη τῆς Ἁγίας Μάρτυρος Τατιανῆς." //full title of day
+meCommemoration.text = "Μνήμη τῆς Ἁγίας Μάρτυρος Τατιανῆς." // full title of day
 meShortCommemoration1.text = ""
-meInsert1 = "καὶ τῆς Ἁγίας Μάρτυρος Τατιανῆς." //for use in petitions and dismissal
-meInsert2 = "ἧς καὶ τὴν μνήμην ἐπιτελοῦμεν· " //for use in petitions and dismissal
+meInsert1 = "καὶ τῆς Ἁγίας Μάρτυρος Τατιανῆς." // for use in petitions and dismissal
+meInsert2 = "ἧς καὶ τὴν μνήμην ἐπιτελοῦμεν· " // for use in petitions and dismissal
 meNote.text = ""
-meHO.number = ""
-meHO.rank  = ""
+meHO.number = "12."
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -39,21 +39,21 @@ meVE.Stichera06.text = "Ξίφος, οὐδὲ πῦρ οὐκ αἰκισμοί
 
 meVE.SticGlory.poet = poets_gr_GR_cog.KosmaAgiopolitou
 meVE.SticGlory.mode = misc_gr_GR_cog.Mode5
-meVE.SticGlory.melody  = ""
+meVE.SticGlory.melody = ""
 meVE.SticGlory.text = "Ὁρῶσά σε ἡ φύσις ἅπασα τῶν γηγενῶν, γυμνὸν ἐν ὕδασι τὸν Δημιουργόν, τὸ Βάπτισμα αἰτοῦντα, ἠλλοιοῦτο φόβῳ καὶ ἐξεπλήττετο· ὁ Πρόδρομος δέ, τρόμῳ συνείχετο, μὴ τολμῶν προσεγγίσαι σοι· ἠ θάλασσα ἔφυγεν· Ἰορδάνης τὸ ῥεῖθρον ἀνεχαίτισε· τὰ ὄρη ἐσκίρτησαν θεωροῦντα σε, καὶ Ἀγγέλων αἱ Δυνάμεις ἐξίσταντο λέγουσαι· Ὢ τοῦ θαύματος! ὁ Σωτὴρ γυμνοῦται, ἐνδῦσαι θέλων σωτηρίαν, τοὺς ἀνθρώπους καὶ ἀνάπλασιν."
 
 meVE.Aposticha1.mode = misc_gr_GR_cog.Mode6
 meVE.Aposticha1.melody = he.a.m6_gr_GR_cog.AiAngelikai.name
 meVE.Aposticha1.text = "Νῦν προφητικῶς, ἐκβοήσωμεν Κυρίῳ· Ἐπέφανες ἡμῖν, ὁ Σωτὴρ ἡμῶν καὶ κτίστης· συνέτριψας δὲ Λόγε, τῶν δρακόντων τὰ στόματα, ἐν τῷ Ἰορδάνῃ ὡς οἰκτίρμων, καὶ τοὺς τυφλωθέντας τῷ φωτί σου, Χριστὲ ἐφώτισας. Εὐλογημένος ὁ φανείς, Θεὸς ἡμῶν δόξα σοι."
 
-meVE.ApostichaVerse2.source  = ""
+meVE.ApostichaVerse2.source = ""
 meVE.ApostichaVerse2.text = "Ἡ θάλασσα εἶδε καὶ ἔφυγεν, ὁ Ἰορδάνης ἐστράφη εἰς τὰ ὀπίσω."
 
 meVE.Aposticha2.mode = misc_gr_GR_cog.Mode6
 meVE.Aposticha2.melody = he.a.m6_gr_GR_cog.AiAngelikai.name
 meVE.Aposticha2.text = "Κράτος κατ' ἐχθρῶν, τῷ Βαπτίσματί σου Λόγε, ἔδωκας ἡμῖν, τοῖς ἐκ πόθου σεβομένοις, τὴν σὴν οἰκονομίαν, ἣν ἑκὼν ἐξεπλήρωσας, λύσας τοὺς βροτοὺς ἐκ τῆς κατάρας, τῆς ἐκ τῆς Ἐδὲμ διαδραμούσης, ἐφ' ᾧ ψάλλομεν· Εὐλογημένος ὁ φανείς, Θεὸς ἡμῶν δόξα σοι."
 
-meVE.ApostichaVerse3.source  = ""
+meVE.ApostichaVerse3.source = ""
 meVE.ApostichaVerse3.text = "Τί σοί ἐστι θάλασσα, ὅτι ἔφυγες; καὶ σοὶ Ἰορδάνη ὅτι ἐστράφης εἰς τὰ ὀπίσω;"
 
 meVE.Aposticha3.mode = misc_gr_GR_cog.Mode6
@@ -62,7 +62,7 @@ meVE.Aposticha3.text = "Οἱ ἐν τῷ Ἀδάμ, τοὺς χιτῶνας �
 
 meVE.AposGlory.poet = poets_gr_GR_cog.Theofanous
 meVE.AposGlory.mode = misc_gr_GR_cog.Mode6
-meVE.AposGlory.melody  = ""
+meVE.AposGlory.melody = ""
 meVE.AposGlory.text = "Ἀνυμνήσωμεν οἱ πιστοί, τῆς περὶ ἡμᾶς τοῦ Θεοῦ εὐεργεσίας τὸ μέγεθος· ἐν γὰρ τῷ ἡμῶν παραπτώματι, γενόμενος ἄνθρωπος, τὴν ἡμῶν κάθαρσιν καθαίρεται ἐν τῷ Ἰορδάνῃ, ὁ μόνος καθαρὸς καὶ ἀκήρατος, ἁγιάζων ἐμὲ καὶ τὰ ὕδατα, καὶ τάς κεφαλὰς τῶν δρακόντων συντρίβων ἐπὶ τοῦ ὕδατος. Ἀντλήσωμεν οὖν ὕδωρ μετ' εὐφροσύνης, ἀδελφοί· ἡ γὰρ χάρις τοῦ Πνεύματος, τοῖς πιστῶς ἀντλοῦσιν, ἀοράτως ἐπιδίδοται παρὰ Χριστοῦ τοῦ Θεοῦ, καὶ Σωτῆρος τῶν ψυχῶν ἡμῶν."
 
 meMA.Kathisma11.mode = misc_gr_GR_cog.Mode4
@@ -269,24 +269,24 @@ meMA.Exaposteilarion2.mode = misc_gr_GR_cog.Mode3
 meMA.Exaposteilarion2.melody = misc_gr_GR_cog.Automelon
 meMA.Exaposteilarion2.text = he.a.m3_gr_GR_cog.EpefaniOSotir.text
 
-meMA.LaudsSundayVerse1.source  = ""
+meMA.LaudsSundayVerse1.source = ""
 meMA.LaudsSundayVerse1.text = ""
 
-meMA.LaudsSundayVerse2.source  = ""
+meMA.LaudsSundayVerse2.source = ""
 meMA.LaudsSundayVerse2.text = ""
 
 meMA.Aposticha1.mode = misc_gr_GR_cog.Mode6
 meMA.Aposticha1.melody = he.a.m6_gr_GR_cog.AiAngelikai.name
 meMA.Aposticha1.text = "Σέλας ἐκ φωτός, φῶς ὑπάρχων Ἰησοῦ μου, ἐφώτισας ἡμᾶς, ἐν ἀῤῥήτῳ σου ἐλλάμψει, τοὺς πρὶν ἐκτυφλωθέντας, ἐν Ἐδὲμ ἐκ τοῦ ὄφεως· ἐν τῷ Ἰορδάνῃ ἄρτι φάος, πάντες τῷ φωτί σου καθορῶντες, πιστῶς ψάλλομεν· Εὐλογημένος ὁ φανείς, Θεὸς ἡμῶν δόξα σοι."
 
-meMA.ApostichaVerse2.source  = ""
+meMA.ApostichaVerse2.source = ""
 meMA.ApostichaVerse2.text = "Ἡ θάλασσα εἶδε καὶ ἔφυγεν, ὁ Ἰορδάνης ἐστράφη εἰς τὰ ὀπίσω."
 
 meMA.Aposticha2.mode = misc_gr_GR_cog.Mode6
 meMA.Aposticha2.melody = he.a.m6_gr_GR_cog.AiAngelikai.name
 meMA.Aposticha2.text = "Μύστα καὶ φρικτῶν, οἰκονόμε μυστηρίων, Πρόδρομε χαρᾶς, καὶ τοῦ Πνεύματος αὐτόπτα, τὸν Βαπτισθέντα Λόγον, ὑπὸ σοῦ ὡς ηὐδόκησεν, αἴτησαι ἡμῖν ἁμαρτημάτων, λύτρωσιν ἀεὶ παρασχεθῆναι, αὐτῷ ψάλλουσιν· Εὐλογημένος ὁ φανείς, Θεὸς ἡμῶν δόξα σοι."
 
-meMA.ApostichaVerse3.source  = ""
+meMA.ApostichaVerse3.source = ""
 meMA.ApostichaVerse3.text = "Τί σοί ἐστι θάλασσα, ὅτι ἔφυγες; καὶ σοὶ Ἰορδάνη ὅτι ἐστράφης εἰς τὰ ὀπίσω;"
 
 meMA.Aposticha3.mode = misc_gr_GR_cog.Mode6

@@ -1,15 +1,15 @@
 A_Resource_Whose_Name = me.m01.d05_gr_GR_cog
 
 meDate.text = "Τῌ Εʹ ΙΑΝΟΥΑΡΙΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "Προεόρτια τῶν Φώτων· καὶ μνήμη τῶν Ἁγίων Μαρτύρων Θεοπέμπτου καὶ Θεωνᾶ, καὶ τῆς Ὁσίας Συγκλητικῆς." //full title of day
+meCommemoration.text = "Προεόρτια τῶν Φώτων· καὶ μνήμη τῶν Ἁγίων Μαρτύρων Θεοπέμπτου καὶ Θεωνᾶ, καὶ τῆς Ὁσίας Συγκλητικῆς." // full title of day
 meShortCommemoration1.text = ""
-meInsert1 = "" //for use in petitions and dismissal
-meInsert2 = "" //for use in petitions and dismissal
+meInsert1 = "" // for use in petitions and dismissal
+meInsert2 = "" // for use in petitions and dismissal
 meNote.text = ""
-meLE.commemoration1 = "Προεόρτια τῶν Φώτων· καὶ μνήμη τῶν Ἁγίων Μαρτύρων Θεοπέμπτου καὶ Θεωνᾶ, καὶ τῆς Ὁσίας Συγκλητικῆς."
+meLE.commemoration1 = "Ἡ παραμονὴ τῶν Ἁγίων Θεοφανείων."
 meLE.commemoration2 = ""
 meHO.number = "5."
-meHO.rank  = "5"
+meHO.rank = "5"
 meHO.commemorations = ""
 meHO.note1 = rubrical_gr_GR_cog.FastButNotSaturday
 meHO.note2 = ""
@@ -40,7 +40,7 @@ meVE.Stichera06.text = "Τὸ τοῦ Νυμφίου ὡραῖον κάλλος
 
 meVE.SticGlory.poet = poets_gr_GR_cog.Germanou
 meVE.SticGlory.mode = misc_gr_GR_cog.Mode6
-meVE.SticGlory.melody  = ""
+meVE.SticGlory.melody = ""
 meVE.SticGlory.text = "Ἑτοιμάζου Ἰορδάνη ποταμέ· ἰδοὺ γὰρ παραγίνεται Χριστὸς ὁ Θεός, βαπτισθῆναι ὑπὸ Ἰωάννου, ἵνα τῶν δρακόντων ἀοράτους κεφαλάς, συνθλάσῃ τῇ θεότητι, ἐν τοῖς ὕδασι τοῖς σοῖς, ἀγάλλου ἡ ἔρημος, Ἰορδάνου, τὰ ὄρη σκιρτήσατε εὐφροσύνῃ· ἣκει γὰρ ἡ αἰώνιος ζωή, ἀνακαλέσαι τὸν Ἀδάμ. Φωνὴ βοῶντος βόησον, ὦ Ἰωάννη Πρόδρομε· Ἑτοιμάσατε ὁδοὺς τοῦ Κυρίου, καὶ τάς τρίβους αὐτοῦ, εὐθείας ἀπεργάσασθε."
 
 meVE.Aposticha1.mode = misc_gr_GR_cog.Mode6
@@ -61,7 +61,7 @@ meVE.Aposticha3.text = "Φορέσας τὴν τοῦ δούλου μορφήν
 
 meVE.AposGlory.poet = poets_gr_GR_cog.Vyzantiou
 meVE.AposGlory.mode = misc_gr_GR_cog.Mode6
-meVE.AposGlory.melody  = ""
+meVE.AposGlory.melody = ""
 meVE.AposGlory.text = "Ἀγαλλιάσθω ἡ ἔρημος τοῦ Ἰορδάνου, καὶ ἀνθείτω ὡς κρίνον· φωνὴ γὰρ βοῶντος ἠκούσθη ἐν αὐτῇ· Ἑτοιμάσατε τὴν ὁδὸν τοῦ Κυρίου· ὁ γὰρ τὰ ὄρη στήσας σταθμῷ, καὶ τάς νάπας ζυγῷ, ὁ τὰ πάντα πληρῶν ὡς Θεός, βαπτίζεται ὑπὸ δούλου· πτωχεύειν ἤρξατο, ὁ τὰ πλούσια δῶρα χαριζόμενος. Ἤκουσεν Εὕα. Ἐν λύπαις τέξῃ τέκνα· νῦν δὲ ἤκουσεν ἡ Παρθένος· Χαῖρε Κεχαριτωμένη, ὁ Κύριος μετὰ σοῦ, ὁ ἔχων τὸ μέγα ἔλεος."
 
 meVE.Apolytikion1.mode = misc_gr_GR_cog.Mode4
@@ -581,7 +581,7 @@ meMA.Kontakion1.text = me.m01.d02_gr_GR_cog.meMA.Kontakion1.text
 
 meMA.Oikos1.text = me.m01.d02_gr_GR_cog.meMA.Oikos1.text
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C1H.ode = misc_gr_GR_cog.Ode7
 meMA.Ode7C1H.mode = misc_gr_GR_cog.Mode1
@@ -832,7 +832,7 @@ meMA.Aposticha3.text = "Ὁ λύχνος τῷ Φωτί, ἡ αὐγὴ τῷ �
 
 meMA.AposGlory.poet = poets_gr_GR_cog.Anatoliou
 meMA.AposGlory.mode = misc_gr_GR_cog.Mode8
-meMA.AposGlory.melody  = ""
+meMA.AposGlory.melody = ""
 meMA.AposGlory.text = "Ἰωάννη Βαπτιστά, ὁ ἐν μήτρᾳ γνωρίσας με τὸν Ἀμνόν, ἐν ποταμῷ μοι διακόνησον, μετὰ Ἀγγέλων μοι λειτούργησον, ἐκτείνας ἅψαι τῇ χειρί σου, τῆς κορυφῆς μου τῆς ἀχράντου, καὶ ὅταν ἴδῃς τὰ ὄρη τρέμοντα, καὶ τὸν Ἰορδάνην ἐπαναστραφέντα, σὺν τούτοις βόησον· ὁ σαρκωθεὶς ἐκ Παρθένου, εἰς ἡμῶν σωτηρίαν, Κύριε δόξα σοι."
 
 meLI.SeasonalKontakion.mode = misc_gr_GR_cog.Mode4

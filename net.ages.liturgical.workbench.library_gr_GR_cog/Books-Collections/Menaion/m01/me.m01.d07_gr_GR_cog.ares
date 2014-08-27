@@ -1,15 +1,15 @@
 A_Resource_Whose_Name = me.m01.d07_gr_GR_cog
 
 meDate.text = "Τῌ Ζʹ ΙΑΝΟΥΑΡΙΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "Ἡ Σύναξις τοῦ τιμίου ἐνδόξου Προφήτου, Προδρόμου καὶ Βαπτιστοῦ Ἰωάννου." //full title of day
+meCommemoration.text = "Ἡ Σύναξις τοῦ τιμίου ἐνδόξου Προφήτου, Προδρόμου καὶ Βαπτιστοῦ Ἰωάννου." // full title of day
 meShortCommemoration1.text = ""
-meInsert1 = "" //for use in petitions and dismissal
-meInsert2 = "οὗ καὶ τὴν Σύναξιν ἐπιτελοῦμεν·" //for use in petitions and dismissal
+meInsert1 = "" // for use in petitions and dismissal
+meInsert2 = "οὗ καὶ τὴν Σύναξιν ἐπιτελοῦμεν·" // for use in petitions and dismissal
 meNote.text = ""
-meLE.commemoration1 = "Ἡ Σύναξις τοῦ τιμίου ἐνδόξου Προφήτου, Προδρόμου καὶ Βαπτιστοῦ Ἰωάννου."
+meLE.commemoration1 = "Σύναξις τοῦ τιμίου ἐνδόξου Προφήτου, Προδρόμου καὶ Βαπτιστοῦ Ἰωάννου."
 meLE.commemoration2 = ""
 meHO.number = "7."
-meHO.rank  = "4"
+meHO.rank = "4"
 meHO.commemorations = ""
 meHO.note1 = rubrical_gr_GR_cog.HolidayFish
 meHO.note2 = ""
@@ -17,15 +17,15 @@ meDismissal = dismissals_gr_GR_cog.dis00.epiphany
 
 meVE.Stichera01.poet = poets_gr_GR_cog.IoannouMonachou
 meVE.Stichera01.mode = misc_gr_GR_cog.Mode2
-meVE.Stichera01.melody  = ""
+meVE.Stichera01.melody = ""
 meVE.Stichera01.text = me.m01.d06_gr_GR_cog.meVE.Stichera01.text
 
 meVE.Stichera02.mode = misc_gr_GR_cog.Mode2
-meVE.Stichera02.melody  = ""
+meVE.Stichera02.melody = ""
 meVE.Stichera02.text = me.m01.d06_gr_GR_cog.meVE.Stichera02.text
 
 meVE.Stichera03.mode = misc_gr_GR_cog.Mode2
-meVE.Stichera03.melody  = ""
+meVE.Stichera03.melody = ""
 meVE.Stichera03.text = me.m01.d06_gr_GR_cog.meVE.Stichera03.text
 
 meVE.Stichera04.mode = misc_gr_GR_cog.Mode1
@@ -42,12 +42,12 @@ meVE.Stichera06.text = "Ῥωσθεὶς θείᾳ χάριτι Χριστοῦ,
 
 meVE.SticGlory.poet = poets_gr_GR_cog.Vyzantiou
 meVE.SticGlory.mode = misc_gr_GR_cog.Mode6
-meVE.SticGlory.melody  = ""
+meVE.SticGlory.melody = ""
 meVE.SticGlory.text = "Ἔνσαρκε Λύχνε, Πρόδρομε τοῦ Σωτῆρος, βλάστημα Στείρας, φίλε τοῦ ἐκ Παρθένου, ὃν σκιρτήμασι νηδύος προσεκύνησας, καὶ ἐβάπτισας νάμασι τοῦ Ἰορδάνου, τούτῳ πρέσβευε δεόμεθα Προφῆτα, τάς τῶν μελλόντων ἡμᾶς ἐκφυγεῖν τρικυμίας."
 
 meVE.SticBoth.poet = poets_gr_GR_cog.Theofanous
 meVE.SticBoth.mode = misc_gr_GR_cog.Mode6
-meVE.SticBoth.melody  = ""
+meVE.SticBoth.melody = ""
 meVE.SticBoth.text = "Θεὸς Λόγος ἐπεφάνη ἐν σαρκί, τῷ γένει τῶν ἀνθρώπων, ἵστατο βαπτισθῆναι ἐν Ἰορδάνῃ, καὶ ἔλεγε πρὸς αὐτὸν ὁ Πρόδρομος· Πῶς ἐκτείνω χεῖρα, καὶ ἅψωμαι κορυφῆς κρατούσης τὰ σύμπαντα; Εἰ καὶ ἐκ Μαρίας ὑπάρχεις βρέφος, ἀλλ' οἶδα σε Θεὸν προαιώνιον, ἐπὶ τῆς γῆς βαδίζεις, ὁ ὑμνούμενος ὑπὸ τῶν Σεραφὶμ καὶ δοῦλος Δεσπότην, βαπτίζειν οὐ μεμάθηκα. Ἀκατάληπτε Κύριε, δόξα σοι."
 
 meVE.Aposticha1.mode = misc_gr_GR_cog.Mode4
@@ -68,16 +68,16 @@ meVE.Aposticha3.text = "Ἥλιον ῥυπτόμενον, τὶς γηγενῶ
 
 meVE.AposGlory.poet = poets_gr_GR_cog.Vyzantos
 meVE.AposGlory.mode = misc_gr_GR_cog.Mode4
-meVE.AposGlory.melody  = ""
+meVE.AposGlory.melody = ""
 meVE.AposGlory.text = "Ὡς τοῦ Πνεύματος ἐραστής,καὶ τῆς χάριτος θεοφθόγγος χελιδών, τρανῶς τὴν οἰκονομίαν τοῦ Βασιλέως, βροτῶν τῷ γένει ἐξ Ἁγνῆς φαεινῶς ἀνατείλαντος, εἰς μερόπων ἀνάκλησιν, κατεμήνυσας Πρόδρομε, τῶν σκυθρωπῶν ἠθῶν, ἀπελαύνων τὸ τέρμα, καὶ ζωῆς ἀϊδίου ἐπιβαλέσθαι ἰθύνων, τάς καρδίας τῶν ἐν μετανοίᾳ βαπτιζομένων, μάκαρ θεόληπτε."
 
 meVE.AposBoth.poet = poets_gr_GR_cog.KosmaMonachou
 meVE.AposBoth.mode = misc_gr_GR_cog.Mode4
-meVE.AposBoth.melody  = ""
+meVE.AposBoth.melody = ""
 meVE.AposBoth.text = me.m01.d06_gr_GR_cog.meVE.Lity3.text
 
 meVE.Apolytikion1.mode = misc_gr_GR_cog.Mode2
-meVE.Apolytikion1.melody  = ""
+meVE.Apolytikion1.melody = ""
 meVE.Apolytikion1.text = "Μνήμη δικαίου μετ' ἐγκωμίων· σοὶ δὲ ἀρκέσει ἡ μαρτυρία τοῦ Κυρίου Πρόδρομε· ἀνεδείχθης γὰρ ὄντως καὶ Προφητῶν σεβασμιώτερος, ὅτι καὶ ἐν ῥείθροις βαπτίσαι κατηξιώθης τὸν κηρυττόμενον. Ὅθεν τῆς ἀληθείας ὑπεραθλήσας, χαίρων εὐηγγελίσω καὶ τοῖς ἐν ᾄδῃ, Θεὸν φανερωθέντα ἐν σαρκί, τὸν αἴροντα τὴν ἁμαρτίαν τοῦ κόσμου, καὶ παρέχοντα ἡμῖν τὸ μέγα ἔλεος."
 
 meMA.Kathisma11.mode = misc_gr_GR_cog.Mode1
@@ -212,12 +212,12 @@ meMA.Ode6C1T.melody = he.h.m2_gr_GR_cog.EnAvyssoPtaismaton.name
 meMA.Ode6C1T.text = "Ἀνερμήνευτος ὄντως ἡ σύλληψις, ἄφραστος ὁ τόκος σου καὶ ἀκατάληπτος, πᾶσι πιστοῖς γνωρίζεται, καὶ πιστεύεται μόνη Θεονυμφε."
 
 meMA.Kontakion1.mode = misc_gr_GR_cog.Mode6
-meMA.Kontakion1.melody  = ""
+meMA.Kontakion1.melody = ""
 meMA.Kontakion1.text = "Τὴν σωματικὴν σου παρουσίαν δεδοικὼς ὁ Ἰορδάνης, τρόμῳ ὑπεστρέφετο, τὴν πνευματικὴν δὲ λειτουργίαν ἐκπληρῶν ὁ Ἰωάννης, φόβῳ ὑπεστέλλετο· τῶν Ἀγγέλων αἱ τάξεις ἐξεπλήττοντο, ὁρῶσαί σε ἐν ῥείθροις σαρκὶ βαπτιζόμενον, καὶ πάντες οἱ ἐν τῷ σκότει κατηυγάζοντο, ἀνυμνοῦντές σε τὸν φανέντα, καὶ φωτίσαντα τὰ πάντα."
 
 meMA.Oikos1.text = "Τῷ τυφλωθέντι Ἀδὰμ ἐν Ἐδέμ, ἐφάνη Ἥλιος ἐν Βηθλεέμ, καὶ ἤνοιξεν αὐτοῦ τάς κόρας, ἀποπλύνας αὐτὰς Ἰορδάνου τοῖς ὕδασι τῷ μεμελανωμένῳ καὶ συνεσκοτισμένῳ φῶς ἀνέτειλεν ἄσβεστον· οὐκ ἔτι αὐτῷ νύξ, ἀλλὰ πάντα ἡμέρα· τὸ πρὸς πρωῒ πρωΐ, δι' αὐτὸν ἐγεννήθη· δειλινὸν γὰρ ἐκρύβη ὡς γέγραπται· εὗρεν αὐγήν, ἐγείρουσαν αὐτόν· ὁ πρὸς ἑσπέραν πεσών, ἀπηλλάγη τοῦ γνόφου, καὶ ἔφθασε πρὸς Ὄρθρον τὸν φανέντα, καὶ φωτίσαντα τὰ πάντα."
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C11.ode = misc_gr_GR_cog.Ode7
 meMA.Ode7C11.mode = misc_gr_GR_cog.Mode2
@@ -294,34 +294,34 @@ meMA.Exaposteilarion2.text = he.a.m3_gr_GR_cog.EpefaniOSotir.text
 
 meMA.Lauds1.poet = poets_gr_GR_cog.GermanouPatriarchou
 meMA.Lauds1.mode = misc_gr_GR_cog.Mode1
-meMA.Lauds1.melody  = ""
+meMA.Lauds1.melody = ""
 meMA.Lauds1.text = me.m01.d06_gr_GR_cog.meMA.Lauds1.text
 
 meMA.Lauds2.mode = misc_gr_GR_cog.Mode1
-meMA.Lauds2.melody  = ""
+meMA.Lauds2.melody = ""
 meMA.Lauds2.text = me.m01.d06_gr_GR_cog.meMA.Lauds2.text
 
 meMA.Lauds3.mode = misc_gr_GR_cog.Mode1
-meMA.Lauds3.melody  = ""
+meMA.Lauds3.melody = ""
 meMA.Lauds3.text = me.m01.d06_gr_GR_cog.meMA.Lauds3.text
 
 meMA.Lauds4.mode = misc_gr_GR_cog.Mode1
-meMA.Lauds4.melody  = ""
+meMA.Lauds4.melody = ""
 meMA.Lauds4.text = me.m01.d06_gr_GR_cog.meMA.Lauds4.text
 
 meMA.Lauds5.poet = poets_gr_GR_cog.AndreouIerosolymitou
 meMA.Lauds5.mode = misc_gr_GR_cog.Mode1
-meMA.Lauds5.melody  = ""
+meMA.Lauds5.melody = ""
 meMA.Lauds5.text = me.m01.d06_gr_GR_cog.meMA.Lauds5.text
 
 meMA.LaudsGlory.poet = poets_gr_GR_cog.Vyzantiou
 meMA.LaudsGlory.mode = misc_gr_GR_cog.Mode6
-meMA.LaudsGlory.melody  = ""
+meMA.LaudsGlory.melody = ""
 meMA.LaudsGlory.text = "Ἄγγελος ἐκ στειρωτικῶν ὠδίνων, προῆλθες Βαπτιστά, ἐξ αὐτῶν τῶν σπαργάνων τὴν ἔρημον οἰκήσας, σφραγίς τε πάντων τῶν Προφητῶν ἐδείχθης· ὂν γὰρ ἐκεῖνοι πολυτρόπως ἐθεάσαντο, καὶ αἰνιγματωδῶς προεκήρυξαν, τοῦτον βαπτίσαι ἐν Ἰορδάνῃ κατηξιώθης· φωνῆς τε ἀκήκοας, Πατρικῆς οὐρανόθεν, μαρτυρούσης αὐτοῦ τὴν Υἱότητα· καὶ τὸ Πνεῦμα εἶδες περιστερᾶς ἐν εἴδει, τὴν φωνὴν ἕλκον ἐπὶ τὸν βαπτιζόμενον. Ἀλλ' ὦ πάντων τῶν Προφητῶν ὑπέρτερε, μὴ διαλίπῃς πρεσβεύειν ὑπὲρ ἡμῶν, τῶν πιστῶς σου τελούντων τὰ μνημόσυνα."
 
 meMA.LaudsBoth.poet = poets_gr_GR_cog.Anatoliou
 meMA.LaudsBoth.mode = misc_gr_GR_cog.Mode2
-meMA.LaudsBoth.melody  = ""
+meMA.LaudsBoth.melody = ""
 meMA.LaudsBoth.text = me.m01.d06_gr_GR_cog.meMA.LaudsBoth.text
 
 meMA.LaudsSundayVerse1.text = ""

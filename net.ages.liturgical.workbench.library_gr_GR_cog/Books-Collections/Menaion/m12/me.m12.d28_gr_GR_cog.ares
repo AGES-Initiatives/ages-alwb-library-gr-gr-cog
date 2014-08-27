@@ -1,11 +1,13 @@
 A_Resource_Whose_Name = me.m12.d28_gr_GR_cog
 
-meDate.text = "Τῌ ΚΗʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+meDate.text = "Τῌ ΚΗʹ ΔΕΚΕΜΒΡΙΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
 meCommemoration.text = "Μνήμη τῶν Ἁγίων Δισμυρίων, τῶν ἐν Νικομηδείᾳ καέντων." //full title of day
 meShortCommemoration1.text = ""
 meInsert1 = "καὶ τῶν Ἁγίων Δισμυρίων, τῶν ἐν Νικομηδείᾳ καέντων, " //for use in petitions and dismissal
 meInsert2 = "ὧν καὶ τὴν μνήμην ἐπιτελοῦμεν· " //for use in petitions and dismissal
 meNote.text = ""
+meLE.commemoration1 = "Μνήμη τῶν Ἁγίων Δισμυρίων, τῶν ἐν Νικομηδείᾳ καέντων."
+meLE.commemoration2 = ""
 meHO.number = ""
 meHO.rank  = ""
 meHO.commemorations = ""

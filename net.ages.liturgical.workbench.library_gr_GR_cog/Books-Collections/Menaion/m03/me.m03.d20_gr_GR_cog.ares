@@ -1,11 +1,13 @@
 A_Resource_Whose_Name = me.m03.d20_gr_GR_cog
 
-meDate.text = "Τῌ Κʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+meDate.text = "Τῌ Κʹ ΜΑΡΤΙΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
 meCommemoration.text = "Μνήμη τῶν Ὁσίων Πατέρων ἡμῶν τῶν ἐν τῇ Μονῇ τοῦ Ἁγίου Σάββα ἀναιρεθέντων." //full title of day
 meShortCommemoration1.text = ""
 meInsert1 = "" //for use in petitions and dismissal
 meInsert2 = "" //for use in petitions and dismissal
 meNote.text = ""
+meLE.commemoration1 = "Μνήμη τῶν Ὁσίων Πατέρων ἡμῶν τῶν ἐν τῇ Μονῇ τοῦ Ἁγίου Σάββα ἀναιρεθέντων."
+meLE.commemoration2 = ""
 meHO.number = ""
 meHO.rank  = ""
 meHO.commemorations = ""

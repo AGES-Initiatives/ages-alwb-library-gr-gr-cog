@@ -1,15 +1,15 @@
 A_Resource_Whose_Name = me.m01.d10_gr_GR_cog
 
 meDate.text = "Τῌ Ιʹ ΙΑΝΟΥΑΡΙΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "Μνήμη τῶν ἐν Ἁγίοις Πατέρων ἡμῶν Γρηγορίου Ἐπισκόπου Νύσσης, καὶ Δομετιανοῦ Ἐπισκόπου Μελιτηνῆς." //full title of day
+meCommemoration.text = "Μνήμη τῶν ἐν Ἁγίοις Πατέρων ἡμῶν Γρηγορίου Ἐπισκόπου Νύσσης, καὶ Δομετιανοῦ Ἐπισκόπου Μελιτηνῆς." // full title of day
 meShortCommemoration1.text = ""
-meInsert1 = "τοῦ ἐν Ἁγίοις Πατέρων ἡμῶν Γρηγορίου Ἐπισκόπου Νύσσης," //for use in petitions and dismissal
-meInsert2 = "οὗ καὶ τὴν μνήμην ἐπιτελοῦμεν· " //for use in petitions and dismissal
+meInsert1 = "τοῦ ἐν Ἁγίοις Πατέρων ἡμῶν Γρηγορίου Ἐπισκόπου Νύσσης," // for use in petitions and dismissal
+meInsert2 = "οὗ καὶ τὴν μνήμην ἐπιτελοῦμεν· " // for use in petitions and dismissal
 meNote.text = ""
-meLE.commemoration1 = "Μνήμη τῶν ἐν Ἁγίοις Πατέρων ἡμῶν Γρηγορίου Ἐπισκόπου Νύσσης, καὶ Δομετιανοῦ Ἐπισκόπου Μελιτηνῆς."
+meLE.commemoration1 = "Μνήμη τοῦ ἐν Ἁγίοις Πατέρων ἡμῶν Γρηγορίου, Ἐπισκόπου Νύσσης."
 meLE.commemoration2 = ""
 meHO.number = "10."
-meHO.rank  = "5"
+meHO.rank = "5"
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -41,12 +41,12 @@ meVE.Stichera06.text = "Ηὔξησας τὸ τάλαντον Χριστοῦ, 
 
 meVE.SticGlory.poet = poets_gr_GR_cog.Anatoliou
 meVE.SticGlory.mode = misc_gr_GR_cog.Mode4
-meVE.SticGlory.melody  = ""
+meVE.SticGlory.melody = ""
 meVE.SticGlory.text = "Τὸν τῆς σοφίας λόγον σου, καταγλαΐσας ἐν ἀρετῇ ἀπροσίτῳ, περικαλὴς ἀμφοτέρωθεν γέγονας, Νυσσαέων Γρηγόριε, ἐν τῇ θεοφθόγγῳ σου φωνῇ, ὡραΐζων καὶ τέρπων τὸν λαὸν γνωστικῶς, Τριάδος τὸ ὁμόθεον πανσόφως ἐκτιθέμενος· ὅθεν καὶ ἐν ὀρθοδόξοις δόγμασι, τάς ἀλλοφύλους αἱρέσεις ἐκπολεμήσας, τὸ κράτος τὸ τῆς Πίστεως, ἐν τοῖς πέρασιν ἤγειρας. Χριστῷ παριστάμενος σὺν τοῖς ἀΰλοις Λειτουργοῖς, ταῖς ψυχαῖς ἡμῶν αἴτησαι, εἰρήνην καὶ τὸ μέγα ἔλεος."
 
 meVE.SticBoth.poet = poets_gr_GR_cog.KosmaMonachou
 meVE.SticBoth.mode = misc_gr_GR_cog.Mode4
-meVE.SticBoth.melody  = ""
+meVE.SticBoth.melody = ""
 meVE.SticBoth.text = me.m01.d06_gr_GR_cog.meVE.Lity5.text
 
 meVE.Aposticha1.mode = misc_gr_GR_cog.Mode2
@@ -67,16 +67,16 @@ meVE.Aposticha3.text = "Λάμψαν τὸ συγγενές, ἐξ ὕψους �
 
 meVE.AposGlory.poet = poets_gr_GR_cog.Anatoliou
 meVE.AposGlory.mode = misc_gr_GR_cog.Mode4
-meVE.AposGlory.melody  = ""
+meVE.AposGlory.melody = ""
 meVE.AposGlory.text = "Βίον ἔνθεον κατορθώσας, θεωρίᾳ τὴν πρᾶξιν κατελάμπρυνας, θεοφάντορ Γρηγόριε· τὴν γὰρ σοφίαν φιλήσας ἔρωτι θείῳ, ἐκ στόματος τοῦ Πνεύματος, τὴν χάριν κατεπλούτησας· καὶ ὡς κηρίον μέλιτος, τὸν γλυκασμόν σου τῶν λόγων ἀποστάξας, ἀεὶ εὐφραίνεις νοήμασι θείοις, τὴν Ἐκκλησίαν τοῦ Θεοῦ. Διὸ ἐν Οὐρανοῖς, ἱεραρχικῶς αὐλιζόμενος, ὑπὲρ ἡμῶν ἀπαύστως πρέσβευε, τῶν ἐκτελούντων τὴν μνήμην σου."
 
 meVE.AposBoth.poet = poets_gr_GR_cog.KosmaMonachou
 meVE.AposBoth.mode = misc_gr_GR_cog.Mode4
-meVE.AposBoth.melody  = ""
+meVE.AposBoth.melody = ""
 meVE.AposBoth.text = me.m01.d06_gr_GR_cog.meVE.Lity2.text
 
 meVE.Apolytikion1.mode = misc_gr_GR_cog.Mode4
-meVE.Apolytikion1.melody  = ""
+meVE.Apolytikion1.melody = ""
 meVE.Apolytikion1.text = he.ga_gr_GR_cog.OTheosTonPateronImon.text
 
 meMA.Kathisma11.mode = misc_gr_GR_cog.Mode3
@@ -313,7 +313,7 @@ meMA.Kontakion2.text = "Τῆς Ἐκκλησίας ὁ ἔνθεος Ἱερά�
 
 meMA.Oikos2.text = "Αἴγλῃ φρικτῇ ὁ λάμψας ἐν κόσμῳ ὑπὲρ Ἥλιον Λόγε, καὶ ἀκτῖσι φωτὸς φαιδρύνας Σῶτερ τὰ σύμπαντα, σὺ ὁ ἐν τοῖς ὕδασι τοῦ Ἰορδάνου ὡς βροτὸς βαπτισθῆναι καταξιώσας, πλῦνόν μου τοὺς ῥύπους ἅμα καὶ σπίλους τῶν πολλῶν ἐγκλημάτων, παρέχων μοι χάριν τοῦ μέλψαι τὸν σοφὸν Ἱεράρχην καὶ μύστην σου· μεσίτην γὰρ αὐτὸν ἄγω σοι, καὶ αὐτὸν δυσωπῶν ἀνακράζω ἀεί, πρεσβεύειν ἀπαύστως ὑπὲρ πάντων ἡμῶν."
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C11.ode = misc_gr_GR_cog.Ode7
 meMA.Ode7C11.mode = misc_gr_GR_cog.Mode5
@@ -471,12 +471,12 @@ meMA.Aposticha3.text = me.m01.d08_gr_GR_cog.meMA.AposGlory.text
 
 meMA.AposGlory.poet = poets_gr_GR_cog.Anatoliou
 meMA.AposGlory.mode = misc_gr_GR_cog.Mode1
-meMA.AposGlory.melody  = ""
+meMA.AposGlory.melody = ""
 meMA.AposGlory.text = "Ὁ τῆς ὀρθῆς πίστεως γενναῖος ἀγωνιστής, ὁ συγκακοπαθήσας ὡς καλὸς στρατιώτης Χριστοῦ τοῦ Θεοῦ, καὶ τῷ στρατολογήσαντι ἀρέσας, ἀγωνίζου καὶ νῦν ὑπὲρ τῆς Ἐκκλησίας, τὸν καλὸν ἀγῶνα, διατηρῶν αὐτῆς, τῶν σῶν δογμάτων ἀσάλευτον, τὴν κρηπῖδα Γρηγόριε."
 
 meMA.AposBoth.poet = poets_gr_GR_cog.GermanouPatriarchou
 meMA.AposBoth.mode = misc_gr_GR_cog.Mode1
-meMA.AposBoth.melody  = ""
+meMA.AposBoth.melody = ""
 meMA.AposBoth.text = me.m01.d06_gr_GR_cog.meMA.Lauds3.text
 
 meLI.Antiphon2.text = me.m01.d06_gr_GR_cog.meLI.Antiphon2.text
@@ -485,7 +485,7 @@ meLI.SeasonalKontakion.mode = misc_gr_GR_cog.Mode4
 meLI.SeasonalKontakion.melody = misc_gr_GR_cog.Automelon
 meLI.SeasonalKontakion.text = me.m01.d06_gr_GR_cog.meMA.Kontakion1.text
 
-meLI.Alleluia.mode  = ""
+meLI.Alleluia.mode = ""
 
 meLI.AlleluiaVerse1.text = ""
 

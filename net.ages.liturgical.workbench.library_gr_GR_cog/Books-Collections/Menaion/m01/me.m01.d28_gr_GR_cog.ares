@@ -1,15 +1,15 @@
 A_Resource_Whose_Name = me.m01.d28_gr_GR_cog
 
 meDate.text = "Τῌ ΚΗʹ ΙΑΝΟΥΑΡΙΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "Μνήμη τοῦ Ὁσίου Πατρὸς ἡμῶν Ἐφραὶμ τοῦ Σύρου." //full title of day
+meCommemoration.text = "Μνήμη τοῦ Ὁσίου Πατρὸς ἡμῶν Ἐφραὶμ τοῦ Σύρου." // full title of day
 meShortCommemoration1.text = ""
-meInsert1 = "καὶ τοῦ Ὁσίου Πατρὸς ἡμῶν Ἐφραὶμ τοῦ Σύρου, " //for use in petitions and dismissal
-meInsert2 = "οὗ καὶ τὴν μνήμην ἐπιτελοῦμεν· " //for use in petitions and dismissal
+meInsert1 = "καὶ τοῦ Ὁσίου Πατρὸς ἡμῶν Ἐφραὶμ τοῦ Σύρου, " // for use in petitions and dismissal
+meInsert2 = "οὗ καὶ τὴν μνήμην ἐπιτελοῦμεν· " // for use in petitions and dismissal
 meNote.text = ""
-meLE.commemoration1 = "Μνήμη τοῦ Ὁσίου Πατρὸς ἡμῶν Ἐφραὶμ τοῦ Σύρου."
+meLE.commemoration1 = "Our Venerable Father Ephraim the Syrian."
 meLE.commemoration2 = ""
 meHO.number = "28."
-meHO.rank  = "5"
+meHO.rank = "5"
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -28,11 +28,11 @@ meVE.Stichera03.text = "Τῇ ἐγκρατείᾳ τὸ σῶμα περιφρ
 
 meVE.SticGlory.poet = poets_gr_GR_cog.Anatoliou
 meVE.SticGlory.mode = misc_gr_GR_cog.Mode6
-meVE.SticGlory.melody  = ""
+meVE.SticGlory.melody = ""
 meVE.SticGlory.text = "Ἐμφρόνως τῶν ὀχληρῶν τοῦ βίου ἐπαναστάς, Ἐφραὶμ ἀοίδιμε, φιλησυχίᾳ τὴν ἔρημον κατέλαβες· καὶ δι'αὐτῆς πρὸς Θεὸν πρακτικῶς ἀναγόμενος, τῷ κόσμῳ ἔλαμψας φωστήρ, καὶ ῥήματα ζωῆς τοῖς ἀνθρώποις ἐπήγασας· διὸ μὴ παύσῃ ἐν ταῖς εὐχαῖς σου στηρίζων ἡμᾶς, ἐκ βλάβης τοῦ ἀλλοτρίου, ῥυσθῆναι τὰς ψυχὰς ἡμῶν, Ὅσιε Πάτερ."
 
 meVE.SticTheotokion.mode = misc_gr_GR_cog.Mode6
-meVE.SticTheotokion.melody  = ""
+meVE.SticTheotokion.melody = ""
 meVE.SticTheotokion.text = "Θεὸν ἐκ σοῦ σαρκωθέντα ἔγνωμεν, Θεοτόκε Παρθένε· αὐτὸν ἱκέτευε, σωθῆναι τὰς ψυχὰς ἡμῶν."
 
 meVE.SticStavrotheotokion.mode = misc_gr_GR_cog.Mode6
@@ -41,7 +41,7 @@ meVE.SticStavrotheotokion.text = "Ὁρῶσά σε σταυρούμενον, 
 
 meVE.AposGlory.poet = poets_gr_GR_cog.Anatoliou
 meVE.AposGlory.mode = misc_gr_GR_cog.Mode4
-meVE.AposGlory.melody  = ""
+meVE.AposGlory.melody = ""
 meVE.AposGlory.text = "Προφητικῶς καταβρέχων τὴν στρωμνὴν τοῖς δάκρυσι, καὶ μελέτην βίου ποιούμενος τὴν μετάνοιαν, τῆς κρίσεως τὸν φόβον ἔργοις ἡμῖν, καὶ διὰ λόγων ὑπέδειξας. Διὸ τὴν σὴν τιμῶμεν ἅπαντες, συνελθόντες Παμμάκαρ μνήμην, παραδόξων πραγμάτων αὐτουργέ, Ἐφραὶμ ἀοίδιμε· καὶ νῦν δυσωποῦμέν σε· Πρέσβευε Χριστῷ τῷ Θεῷ, ὑπέρ τῶν ψυχῶν ἡμῶν."
 
 meVE.AposTheotokion.mode = misc_gr_GR_cog.Mode4
@@ -191,7 +191,7 @@ meMA.Kontakion1.text = "Τὴν ὥραν ἀεί, προβλέπων τῆς 
 
 meMA.Oikos1.text = "Ἰχνηλατεῖν βουλόμενος, Πάτερ, τοῦ Προδρόμου ταῖς τρίβοις, ἐκ τοῦ κόσμου μόνος αὐτὸς ἀπάρας, εἰς ἔρημον κατῴκησας. Βλέπων σε οὖν οὕτω βιοῦντα ὁ ἐχθρὸς τόν δίκαιον, γύναιον πάνυ ἀναιδὲς κατὰ σοῦ διεγείρει, οἰόμενος διὰ τοῦ ἀρχαίου ὅπλου τὴν σὴν ἀνδρείαν καταβαλεῖν, καὶ τὴν ἁγνείαν μολύνειν σου, ἵνα μὴ ἐν τοῖς λόγοις καὶ ἔργοις σου ῥαθύμους ἐγείρῃς πρὸς μετάνοιαν."
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C11.ode = misc_gr_GR_cog.Ode7
 meMA.Ode7C11.mode = misc_gr_GR_cog.Mode6
@@ -267,7 +267,7 @@ meMA.LaudsSundayVerse2.text = "Μακάριος ἀνὴρ ὁ φοβούμε�
 
 meMA.AposGlory.poet = poets_gr_GR_cog.Kyprianou
 meMA.AposGlory.mode = misc_gr_GR_cog.Mode2
-meMA.AposGlory.melody  = ""
+meMA.AposGlory.melody = ""
 meMA.AposGlory.text = "Ὥσπερ φοίνιξ δαυϊτικῶς ἐξανθήσας Ὅσιε Πάτερ, τὰς γλώσσας τῶν βλασφήμων ἐξέκοψας, ἐν τῇ μαχαίρᾳ τῶν λόγων σου Ἐφραίμ· τὰς ἀβύσσους τῶν παθῶν ἐξήρανας δι' ἐγκρατείας· ὄργανον ἀνεδείχθης τοῦ Ἁγίου Πνεύματος, τοῦ Σταυροῦ τὸ ὅπλον ἀναλαβών, Χριστὸν ἀπαύστως δυσώπει ὑπὲρ ἡμῶν, τῶν ἐπιτελούντων τὴν πανέορτον μνήμην σου."
 
 meMA.AposTheotokion.mode = misc_gr_GR_cog.Mode2
@@ -279,10 +279,10 @@ meMA.AposStavrotheotokion.melody = he.a.m2_gr_GR_cog.OteEkTouXylou.name
 meMA.AposStavrotheotokion.text = "Ὕβρεις, ὑπομείναντα πολλάς, καὶ ἐπὶ Σταυροῦ ὑψωθέντα, τὸν τοῦ παντὸς Ποιητήν, βλέψασα Πανάχραντε, ἔστενες λέγουσα· Ὑπερύμνητε Κύριε, Υἱὲ καὶ Θεέ μου, πῶς τιμῆσαι θέλων σου, τὸ πλάσμα Δέσποτα, φέρεις ἐν σαρκὶ ἀτιμίαν, δόξα τῇ πολλῇ εὐσπλαγχνίᾳ, καὶ συγκαταβάσει σου φιλάνθρωπε."
 
 meLI.SeasonalKontakion.mode = misc_gr_GR_cog.Mode1
-meLI.SeasonalKontakion.melody  = ""
+meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = me.m02.d02_gr_GR_cog.meMA.Kontakion1.text
 
-meLI.Alleluia.mode  = ""
+meLI.Alleluia.mode = ""
 
 meLI.AlleluiaVerse1.text = ""
 

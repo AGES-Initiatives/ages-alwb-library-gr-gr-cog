@@ -1,15 +1,15 @@
 A_Resource_Whose_Name = me.m01.d09_gr_GR_cog
 
 meDate.text = "Τῌ Θʹ ΙΑΝΟΥΑΡΙΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "Μνήμη τοῦ Ἁγίου Μάρτυρος Πολυεύκτου." //full title of day
+meCommemoration.text = "Μνήμη τοῦ Ἁγίου Μάρτυρος Πολυεύκτου." // full title of day
 meShortCommemoration1.text = ""
-meInsert1 = "καὶ τοῦ Ἁγίου Μάρτυρος Πολυεύκτου, " //for use in petitions and dismissal
-meInsert2 = "οὗ καὶ τὴν μνήμην ἐπιτελοῦμεν· " //for use in petitions and dismissal
+meInsert1 = "καὶ τοῦ Ἁγίου Μάρτυρος Πολυεύκτου, " // for use in petitions and dismissal
+meInsert2 = "οὗ καὶ τὴν μνήμην ἐπιτελοῦμεν· " // for use in petitions and dismissal
 meNote.text = ""
-meLE.commemoration1 = "Μνήμη τοῦ Ἁγίου Μάρτυρος Πολυεύκτου."
+meLE.commemoration1 = "Τοῦ Ἁγίου Μάρτυρος Πολυεύκτου."
 meLE.commemoration2 = ""
 meHO.number = "9."
-meHO.rank  = "5"
+meHO.rank = "5"
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -41,12 +41,12 @@ meVE.Stichera06.text = "Καὶ πρὸ τῆς χάριτος Μάκαρ, τῆ
 
 meVE.SticGlory.poet = poets_gr_GR_cog.Vyzantos
 meVE.SticGlory.mode = misc_gr_GR_cog.Mode1
-meVE.SticGlory.melody  = ""
+meVE.SticGlory.melody = ""
 meVE.SticGlory.text = "Τὰ τῶν Ἀγγέλων στρατεύματα, σήμερον χορεύουσιν, ἐπὶ τῇ μνήμῃ τοῦ Μάρτυρος Πολυεύκτου, καὶ τῶν ἀνθρώπων τὸ γένος, πιστῶς πανηγυρίζει, καὶ χαρμονικὼς ἐκβοᾷ. Χαίροις Πανεύφημε, ὁ τοῦ πολυπλόκου Βελίαρ, τὰ ἔνέδρα τροπωσάμενος, καὶ τῆς νίκης τὸν στέφανον, παρὰ Χριστοῦ ἀναδησάμενος. Χαίροις Στρατιῶτα τοῦ μεγάλου Βασιλέως, καὶ Σωτῆρος ἡμῶν, ὁ τοὺς βωμοὺς τῶν εἰδώλων καταστρεψάμενος. Χαίροις Μαρτύρων ἐγκαλλώπισμα. Πρέσβευε λυτρωθῆναι ἀπὸ πάσης ἀνάγκης, τοὺς ἐν πίστει ἐκτελοῦντας, τὴν ἀεισέβαστον μνήμην σου."
 
 meVE.SticBoth.poet = poets_gr_GR_cog.Anatoliou
 meVE.SticBoth.mode = misc_gr_GR_cog.Mode2
-meVE.SticBoth.melody  = ""
+meVE.SticBoth.melody = ""
 meVE.SticBoth.text = me.m01.d06_gr_GR_cog.meVE.Aposticha3.text
 
 meVE.Aposticha1.mode = misc_gr_GR_cog.Mode6
@@ -67,7 +67,7 @@ meVE.Aposticha3.text = "Ἡγίασας τὰ ῥεῖθρα Σωτήρ, τοῦ
 
 meVE.AposGlory.poet = poets_gr_GR_cog.KosmaMonachou
 meVE.AposGlory.mode = misc_gr_GR_cog.Mode4
-meVE.AposGlory.melody  = ""
+meVE.AposGlory.melody = ""
 meVE.AposGlory.text = me.m01.d06_gr_GR_cog.meVE.Lity1.text
 
 meVE.Apolytikion1.mode = misc_gr_GR_cog.Mode4
@@ -75,7 +75,7 @@ meVE.Apolytikion1.melody = he.a.m4_gr_GR_cog.TachyProkatalave.name
 meVE.Apolytikion1.text = he.ga_gr_GR_cog.OMartysSouKyrie.text
 
 meVE.Apolytikion2.mode = misc_gr_GR_cog.Mode1
-meVE.Apolytikion2.melody  = ""
+meVE.Apolytikion2.melody = ""
 meVE.Apolytikion2.text = me.m01.d06_gr_GR_cog.meVE.Apolytikion1.text
 
 meMA.Kathisma11.mode = misc_gr_GR_cog.Mode4
@@ -220,7 +220,7 @@ meMA.Kontakion1.text = "Ὁ Δεσπότης κλίνας μὲν ἐν Ἰορ�
 
 meMA.Oikos1.text = "Ἐν Ἰορδάνῃ ποταμῷ, ὁ Κτίστης τῶν ἁπάντων, τὴν κάραν ὑποκλίνας, τὸ Βάπτισμα λαμβάνει· καὶ τῶν δρακόντων κεφαλὰς ἀοράτως συνθλάσας, ῥώμην παρέσχε τοῖς βροτοῖς κατὰ τοῦ μεγαλόφρονος, τοῦ πρὶν ἐν Παραδείσῳ πτερνίσαντος τὸν Ἀδάμ, ἐν βρώσει τῇ τοῦ ξύλου, καὶ θανάτῳ ὑποβαλόντος αὐτὸν παρ' ἐλπίδα. Διὸ ὁ ἀθλητὴς νῦν Πολύευκτος, κολακείαις γυναικὸς μὴ ὑποκύψας, ἤθλησε στεῤῥῶς, προτείνας τὴν κάραν, ἥνπερ ἀποτμηθεῖσα, τὸν δόλιον ᾔσχυνε."
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C11.ode = misc_gr_GR_cog.Ode7
 meMA.Ode7C11.mode = misc_gr_GR_cog.Mode8

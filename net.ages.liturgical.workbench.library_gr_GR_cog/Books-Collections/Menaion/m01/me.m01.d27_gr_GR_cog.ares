@@ -1,15 +1,15 @@
 A_Resource_Whose_Name = me.m01.d27_gr_GR_cog
 
 meDate.text = "Τῌ ΚΖʹ ΙΑΝΟΥΑΡΙΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "Ἡ ἀνακομιδὴ τοῦ Λειψάνου τοῦ ἐν Ἁγίοις Πατρὸς ἡμῶν Ἰωάννου τοῦ Χρυσοστόμου." //full title of day
+meCommemoration.text = "Ἡ Ἀνακομιδὴ τοῦ Λειψάνου τοῦ ἐν Ἁγίοις Πατρὸς ἡμῶν Ἰωάννου τοῦ Χρυσοστόμου." // full title of day
 meShortCommemoration1.text = ""
-meInsert1 = "τοῦ ἐν ἁγίοις πατρὸς ἡμῶν Ἰωάννου τοῦ Χρυσοστόμου, Ἀρχιεπισκόπου Κωνσταντινουπόλεως," //for use in petitions and dismissal
-meInsert2 = "οὗ καὶ τὴν μνήμην τῆς ἀνακομιδῆς τοῦ ἁγίου λειψάνου ἑορτάζομεν·" //for use in petitions and dismissal
+meInsert1 = "τοῦ ἐν ἁγίοις πατρὸς ἡμῶν Ἰωάννου τοῦ Χρυσοστόμου, Ἀρχιεπισκόπου Κωνσταντινουπόλεως," // for use in petitions and dismissal
+meInsert2 = "οὗ καὶ τὴν μνήμην τῆς ἀνακομιδῆς τοῦ ἁγίου λειψάνου ἑορτάζομεν·" // for use in petitions and dismissal
 meNote.text = ""
-meLE.commemoration1 = "Ἡ ἀνακομιδὴ τοῦ Λειψάνου τοῦ ἐν Ἁγίοις Πατρὸς ἡμῶν Ἰωάννου τοῦ Χρυσοστόμου."
+meLE.commemoration1 = "Μνήμη  Ἀνακομιδῆς τοῦ ἱεροῦ λειψάνου τοῦ ἐν Ἁγίοις Πατρός ἡμῶν Ἰωάννου, Ἀρχιεπισκόπου Κωνσταντινουπόλεως τοῦ Χρυσοστόμου."
 meLE.commemoration2 = ""
 meHO.number = "27."
-meHO.rank  = "3"
+meHO.rank = "3"
 meHO.commemorations = ""
 meHO.note1 = rubrical_gr_GR_cog.HolidayWineOil
 meHO.note2 = ""
@@ -40,11 +40,11 @@ meVE.Stichera06.text = "Νῦν οὐρανὸς τοῖς Ἀγγέλοις σ
 
 meVE.SticGlory.poet = "Κοσμᾶ Μοναχοῦ τοῦ Βεστίτορος."
 meVE.SticGlory.mode = misc_gr_GR_cog.Mode4
-meVE.SticGlory.melody  = ""
+meVE.SticGlory.melody = ""
 meVE.SticGlory.text = "Οὐκ ἔδει σε Χρυσόστομε, τὴν Βασιλίδα κοταλείψαντα, παροικεῖν ἐν Κομάνοις· ὅθεν θεόθεν ἠγμένη, ἡ Ἀνακτορικὴ πανδαισία, πάλιν σε ἐπανήγαγεν ἐν τοῖς βασιλείοις· εὐφράνθη δὲ ἡ Ἐκκλησία ἰδοῦσά σε, ἀνθομολογουμένη καὶ λέγουσα. Μεγαλύνει ἡ δόξα μου τὸν Κύριον, ἀποδόντα μοι τὸν νυμφαγωγόν, καὶ τὸ στήριγμα τῆς πίστεως, τὴν ὑπόληψιν τῶν ἀξιωμάτων μου, καὶ ἀνάπαυσιν τῶν ἐμῶν κροτάφων· τὸ ὕψος τῆς ταπεινοφροσύνης, καὶ βάθος τῆς ἐλεημοσύνης, καὶ πλοῦτον τῆς ἐμῆς πτωχείας, καὶ μῆκος τῆς μετανοίας. Διὸ αἰτοῦμέν σε Ὅσιε Πάτερ, τὴν εἰρήνην αἴτησαι, καὶ ταῖς ψυχαῖς ἡμῶν, τὸ μέγα ἔλεος."
 
 meVE.SticTheotokion.mode = misc_gr_GR_cog.Mode4
-meVE.SticTheotokion.melody  = ""
+meVE.SticTheotokion.melody = ""
 meVE.SticTheotokion.text = oc.m4.d1_gr_GR_cog.ocVE.SticTheotokion.text
 
 
@@ -65,7 +65,7 @@ meVE.Aposticha3.melody = he.a.m5_gr_GR_cog.ChairoisAskitikon.name
 meVE.Aposticha3.text = "Κόσμου ὁ σιτομέτρης πιστοί, ὁ ἐν τρυφῇ τῇ οὐρανίᾳ τοῦ Πνεύματος, καρδίας ἐκτρέφων πάντων, οὐκ ἐξ Αἰγύπτου χωρεῖ, Ἰωσὴφ δὲ νέος προδεικνύμενος, σεπτοῖς ἐν λειψάνοις, ἀπὸ Κομάνων μετάγεται, δεινῶν τὴν ζάλην, καὶ τὸ πέλαγος σήμερον, τὸ τῶν θλίψεων, διατέμνων ἐντεύξεσι. Τοῦτον οὖν μακαρίσωμεν, καὶ πίστει βοήσωμεν. Πάρεσο Μάκαρ ἐν μέσῳ, τῶν ἐκτελούντων τὴν μνήμην σου, αὐτοῖς σωτηρίαν, παρεχόμενος πλουσίως, καὶ τὸ μέγα ἔλεος."
 
 meVE.AposGlory.mode = misc_gr_GR_cog.Mode6
-meVE.AposGlory.melody  = ""
+meVE.AposGlory.melody = ""
 meVE.AposGlory.text = "Ὅσιε τρισμάκαρ, Ἁγιώτατε Πάτερ, ὁ Ποιμὴν ὁ καλός, καὶ τοῦ Ἀρχιποίμενος Χριστοῦ Μαθητής, ὁ τιθεὶς τὴν ψυχὴν ὑπὲρ τῶν προβάτων, αὐτὸς καὶ νῦν πανεύφημε, Ἰωάννη Χρυσόστομε, αἴτησαι πρεσβείαις σου, δωρηθῆναι ἡμῖν τὸ μέγα ἔλεος."
 
 meVE.AposTheotokion.mode = misc_gr_GR_cog.Mode6
@@ -73,7 +73,7 @@ meVE.AposTheotokion.melody = he.o_gr_GR_cog.TheotokeSyEi.name
 meVE.AposTheotokion.text = he.o_gr_GR_cog.TheotokeSyEiIerarchou.text
 
 meVE.Apolytikion1.mode = misc_gr_GR_cog.Mode8
-meVE.Apolytikion1.melody  = ""
+meVE.Apolytikion1.melody = ""
 meVE.Apolytikion1.text = me.m11.d13_gr_GR_cog.meVE.Apolytikion1.text
 
 meMA.Kathisma11.mode = misc_gr_GR_cog.Mode1
@@ -100,21 +100,21 @@ meMA.Kathisma3T.mode = misc_gr_GR_cog.Mode4
 meMA.Kathisma3T.melody = misc_gr_GR_cog.Automelon
 meMA.Kathisma3T.text = he.a.m4_gr_GR_cog.KateplagiIosif.text
 
-meMA.Prokeimenon.text = "" //for media
+meMA.Prokeimenon.text = "" // for media
 //meMA.Gospel.name = bible_gr_GR_cog.John
 //meMA.Gospel.chapverse = "(Κεφ. Ιʹ 1-9)"//"(Κεφ. ΓΓʹ 11-11) or 1:11-11"
 //meMA.Gospel.text = "Εἶπεν ὁ Κύριος πρὸς τοὺς ἐληλυθότας πρὸς αὐτὸν Ἰουδαίους· Ἀμὴν ἀμὴν λέγω ὑμῖν, ὁ μὴ εἰσερχόμενος διὰ τῆς θύρας εἰς τὴν αὐλὴν τῶν προβάτων ἀλλὰ ἀναβαίνων ἀλλαχόθεν ἐκεῖνος κλέπτης ἐστὶν καὶ λῃστής· ὁ δὲ εἰσερχόμενος διὰ τῆς θύρας ποιμήν ἐστιν τῶν προβάτων. Τούτῳ ὁ θυρωρὸς ἀνοίγει, καὶ τὰ πρόβατα τῆς φωνῆς αὐτοῦ ἀκούει, καὶ τὰ ἴδια πρόβατα φωνεῖ κατ' ὄνομα καὶ ἐξάγει αὐτά. Ὅταν τὰ ἴδια πάντα ἐκβάλῃ, ἔμπροσθεν αὐτῶν πορεύεται, καὶ τὰ πρόβατα αὐτῷ ἀκολουθεῖ, ὅτι οἴδασιν τὴν φωνὴν αὐτοῦ· ἀλλοτρίῳ δὲ οὐ μὴ ἀκολουθήσουσιν ἀλλὰ φεύξονται ἀπ' αὐτοῦ, ὅτι οὐκ οἴδασιν τῶν ἀλλοτρίων τὴν φωνήν. Ταύτην τὴν παροιμίαν εἶπεν αὐτοῖς ὁ 'Ιησοῦς· ἐκεῖνοι δὲ οὐκ ἔγνωσαν τίνα ἦν ἃ ἐλάλει αὐτοῖς. Εἶπεν οὖν πάλιν ὁ 'Ιησοῦς, Ἀμὴν ἀμὴν λέγω ὑμῖν ὅτι ἐγώ εἰμι ἡ θύρα τῶν προβάτων. Πάντες ὅσοι ἦλθον πρὸ ἐμοῦ κλέπται εἰσὶν καὶ λῃσταί· ἀλλ' οὐκ ἤκουσαν αὐτῶν τὰ πρόβατα. Ἐγώ εἰμι ἡ θύρα· δι' ἐμοῦ ἐάν τις εἰσέλθῃ σωθήσεται καὶ εἰσελεύσεται καὶ ἐξελεύσεται καὶ νομὴν εὑρήσει."
 
 meMA.PostGospelGlory.mode = misc_gr_GR_cog.Mode2
-meMA.PostGospelGlory.melody  = ""
+meMA.PostGospelGlory.melody = ""
 meMA.PostGospelGlory.text = "Σήμερον σκιρτῶσιν ἐν Πνεύματι, Ἀρχιερέων δῆμοι, σὺν ἡμῖν τελοῦντές σου τὴν μνήμην Ἱεράρχα, Χρυσόστομε Ὅσιε, φωστὴρ τῆς Ἐκκλησίας."
 
 meMA.PostGospelBoth.mode = misc_gr_GR_cog.Mode2
-meMA.PostGospelBoth.melody  = ""
+meMA.PostGospelBoth.melody = ""
 meMA.PostGospelBoth.text = ho.s03_gr_GR_cog.hoMA.PostGospelTheotokos.text
 
 meMA.PostGospelIdiomelon.mode = misc_gr_GR_cog.Mode6
-meMA.PostGospelIdiomelon.melody  = ""
+meMA.PostGospelIdiomelon.melody = ""
 meMA.PostGospelIdiomelon.text = "Σάλπιγξ χρυσόφωνος ἀνεδείχθης, χρυσοῤῥῆμον Χρυσόστομε, χρυσουργῶν τὰς καρδίας τῶν πιστῶν, τοῖς χρυσεπόνοις σου διδάγμασι· προφητικῶς γὰρ ἐξῆλθεν ὁ φθόγγος τῶν δογμάτων σου, Ὅσιε Πάτερ, καὶ κόσμου παντὸς τὰ πέρατα ἐφώτισεν."
 
 meMA.C1Acrostic.text = "οὗ ἡ Ἀκροστιχίς· Χαίροις χαρᾶς σκήνωμα, τῆς λύπης λύσις. ᾨδὴ Ἰωάννου."
@@ -462,7 +462,7 @@ meMA.Kontakion1.text = "Ἐφράνθη μυστικῶς, ἡ σεπτὴ Ἐ�
 
 meMA.Oikos1.text = "Ἡ λαμπάς, ἡ τῶν ἔργων μου στυγνὴ πέφυκεν, Ἰωάννη Χρυσόστομε, καὶ δειλιῶ πρὸς ὑπάντησιν τοῦ ἱεροῦ σου σκήνους· ἀλλ' αὐτὸς με ὁδήγησον, καὶ τὰς τρίβους μου εὔθυνον, μετανοίας παρέχων μοι καιρὸν πανάγιε, ὡς αὐτῆς κήρυξ ἔνθεος, καὶ τῶν παθῶν μου τῶν πολυτρόπων κατεύνασον ζάλην· καὶ παγίδων τοῦ Βελίαρ ἀφαρπάσας με, εἰς τέλος σῶσόν με, ὅπως ὑμνῶ σου ἀξίως τὴν θείαν ἐπάνοδον, ὡς πρὶν καὶ τὴν κοίμησιν τολμήσας ἐδόξασα, Ἰωάννη Χρυσοστομε."
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C1H.ode = misc_gr_GR_cog.Ode7
 meMA.Ode7C1H.mode = misc_gr_GR_cog.Mode8
@@ -685,11 +685,11 @@ meMA.Lauds4.text = "Κόσμον ὡς βασίλειον, ἡ Βασιλὶς
 
 meMA.LaudsGlory.poet = poets_gr_GR_cog.Germanou
 meMA.LaudsGlory.mode = misc_gr_GR_cog.Mode4
-meMA.LaudsGlory.melody  = ""
+meMA.LaudsGlory.melody = ""
 meMA.LaudsGlory.text = "Πάτερ Χρυσόστομε, ὡς ποταμὸς θεόβρυτος, ἐκ τῆς Ἐδὲμ μυστικῶς ἐξερχόμενος, εἰς ἀρχὰς τέσσαρας διαδραμών, σοῖς λόγοις τῆς γῆς τὰ πέρατα, πάντα πιστὸν κατήρδευσας, τῇ παγχρύσῳ διδασκαλίᾳ σου, διὸ τὴν ἐπάνοδον, σοῦ τῶν θείων λειψάνων, ἡμῖν σαφῶς πολιτογραφήσας, πρεσβεύεις σωθῆναι, τὰς ψυχὰς Ἰωάννη, τῶν ἀνυμνούντων σε."
 
 meMA.LaudsTheotokion.mode = misc_gr_GR_cog.Mode4
-meMA.LaudsTheotokion.melody  = ""
+meMA.LaudsTheotokion.melody = ""
 meMA.LaudsTheotokion.text = oc.m4.d2_gr_GR_cog.ocMA.AposTheotokion.text
 
 meMA.LaudsSundayVerse1.text = meVE.ApostichaVerse2.text
@@ -697,7 +697,7 @@ meMA.LaudsSundayVerse1.text = meVE.ApostichaVerse2.text
 meMA.LaudsSundayVerse2.text = meVE.ApostichaVerse3.text
 
 meLI.SeasonalKontakion.mode = misc_gr_GR_cog.Mode1
-meLI.SeasonalKontakion.melody  = ""
+meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = me.m02.d02_gr_GR_cog.meMA.Kontakion1.text
 
 meLI.AlleluiaVerse1.text = "Στόμα δικαίου μελετήσει σοφίαν, καὶ ἡ γλῶσσα αὐτου λαλήσει κρίσιν."

@@ -1,15 +1,15 @@
 A_Resource_Whose_Name = me.m03.d25_gr_GR_cog
 
 meDate.text = "Τῌ ΚΕʹ ΜΑΡΤΙΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "Ὁ Εὐαγγελισμὸς τῆς Ὑπεραγίας Θεοτόκου καὶ Ἀειπαρθένου Μαρίας." //full title of day
+meCommemoration.text = "Ὁ Εὐαγγελισμὸς τῆς Ὑπεραγίας Θεοτόκου καὶ Ἀειπαρθένου Μαρίας." // full title of day
 meShortCommemoration1.text = "Εὐαγγελισμός"
-meInsert1 = "" //for use in petitions and dismissal
-meInsert2 = "ἧς καὶ τὸν Εὐαγγελισμὸν ἑορτάζομεν·" //for use in petitions and dismissal
+meInsert1 = "" // for use in petitions and dismissal
+meInsert2 = "ἧς καὶ τὸν Εὐαγγελισμὸν ἑορτάζομεν·" // for use in petitions and dismissal
 meNote.text = ""
-meLE.commemoration1 = "Ὁ Εὐαγγελισμὸς τῆς Ὑπεραγίας Θεοτόκου καὶ Ἀειπαρθένου Μαρίας."
+meLE.commemoration1 = "Ὁ Εὐαγγελισμὸς τῆς Ὑπεραγίας Δεσποίνης ἡμῶν Θεοτόκου καὶ Ἀειπαρθένου Μαρίας."
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -28,27 +28,27 @@ meSV.Stichera3.melody = he.a.m4_gr_GR_cog.OExYpsistouKlitheis.name
 meSV.Stichera3.text = "Εἰς Ναζαρὲτ νῦν τὴν Πόλιν ἐπιφθάσας, Πόλιν σὲ τὴν ἔμψυχον τοῦ Βασιλέως Χριστοῦ, ὁ Γαβριὴλ κατασπάζεται, βοῶν σοι· Χαῖρε, εὐλογημένη Θεοχαρίτωτε, ἕξεις ἐν νηδύϊ σου Θεὸν σαρκούμενον, καὶ διὰ σοῦ τὸ ἀνθρώπινον, πρὸς τὸ ἀρχαῖον, δι' εὐσπλαγχνίαν ἀνακαλούμενον· Εὐλογημένος τῆς κοιλίας σου, θεῖος καρπὸς ὁ ἀθάνατος, ὁ παρέχων τῷ κόσμῳ, διὰ σοῦ τὸ μέγα ἔλεος."
 
 meSV.SticGlory.mode = misc_gr_GR_cog.Mode1
-meSV.SticGlory.melody  = ""
+meSV.SticGlory.melody = ""
 meSV.SticGlory.text = "Τῷ ἕκτῳ Μηνί, ὁ Ἀρχιστράτηγος ἀπεστάλη πρὸς σὲ τὴν Παρθένον Ἁγνήν, μηνῦσαί σοι τὸν λόγον τῆς σωτηρίας· ἅμα δὲ καὶ καλέσαι σε· Χαῖρε Κεχαριτωμένη, ὁ Κύριος μετὰ σοῦ, τέξῃς Υἱόν, τὸν πρὸ αἰώνων ἐκ Πατρός, ὃς σώσει τὸν λαὸν αὐτοῦ, ἐκ τῶν πταισμάτων αὐτῶν."
 
 meSV.Aposticha1.mode = misc_gr_GR_cog.Mode8
 meSV.Aposticha1.melody = he.a.m8_gr_GR_cog.OTouParadoxou.name
 meSV.Aposticha1.text = "Ἄρχων τῶν ἄνω Δυνάμεων, ὁ Γαβριὴλ καταπτάς, τὴν Παρθένον ἀσπάζεται, χαῖρε λέγων ὄχημα, καθαρὸν τῆς Θεότητος, σὲ ἐξ αἰῶνος Θεὸς ἠγάπησεν, εἰς κατοικίαν τε ᾑρετίσατο, δοῦλος Δεσπότου σου, παρουσίαν πάρειμι, ἀναβοῶν, τέξῃ οὖν τὸν Κύριον, ἄφθορος μένουσα."
 
-meSV.ApostichaVerse2.text = meVE.ApostichaVerse2.text 
+meSV.ApostichaVerse2.text = meVE.ApostichaVerse2.text
 
 meSV.Aposticha2.mode = misc_gr_GR_cog.Mode8
 meSV.Aposticha2.melody = he.a.m8_gr_GR_cog.OTouParadoxou.name
 meSV.Aposticha2.text = "Τί σου τὸ εἶδος τὸ πύρινον, τῷ Γαβριὴλ ἡ Σεμνή, μέτ' ἐκπλήξεως ἔφησε, τί σου τὸ ἀξίωμα, καὶ τῶν λόγων ἡ δύναμις; παιδοποιΐαν προσεπαγγέλλῃ μοι, ἐγὼ δὲ πεῖραν ἀνδρὸς οὐ κέκτημαι, ἄπιθι πόῤῥωθεν, μὴ πλανήσῃς ἄνθρωπε, ὥς περ τὸ πρίν, Εὔαν τὴν Προμήτορα, ὄφις ὁ δόλιος."
 
-meSV.ApostichaVerse3.text = meVE.ApostichaVerse3.text 
+meSV.ApostichaVerse3.text = meVE.ApostichaVerse3.text
 
 meSV.Aposticha3.mode = misc_gr_GR_cog.Mode8
 meSV.Aposticha3.melody = he.a.m8_gr_GR_cog.OTouParadoxou.name
 meSV.Aposticha3.text = "Πνεῦμα Θεοῦ τὸ πανάγιον, ἥξει ἁγνὴ ἐπὶ σέ, Θεοχώρητε Δέσποινα, καὶ ἐπισκιάσει σοι, τοῦ Ὑψίστου ἡ δύναμις, καὶ τέξῃ παῖδα διατηροῦντά σου, τὴν παρθενίαν ἀπαρασάλευτον, οὗτος Υἱὸς ἐστιν, ἀγενεαλόγητος, οὗτος ὀφθείς, σώσει τὸν λαὸν αὐτοῦ, καθὼς ηὐδόκησε."
 
 meSV.AposGlory.mode = misc_gr_GR_cog.Mode4
-meSV.AposGlory.melody  = ""
+meSV.AposGlory.melody = ""
 meSV.AposGlory.text = "Τῷ ἕκτῳ μηνί, ἀπεστάλη ὁ Ἀρχάγγελος πρὸς Παρθένον ἁγνήν, καὶ χαίρειν αὐτῇ προσειπών, εὐηγγελίσατο ἐξ αὐτῆς τὸν Λυτρωτὴν προελθεῖν. Ὅθεν δεξαμένη τὸν ἀσπασμόν, συνέλαβέ σε τὸν προαιώνιον Θεόν, τὸν ἀφράστως εὐδοκήσαντα ἐνανθρωπῆσαι, εἰς σωτηρίαν τῶν ψυχῶν ἡμῶν."
 
 meVE.Stichera01.mode = misc_gr_GR_cog.Mode6
@@ -65,51 +65,51 @@ meVE.Stichera03.text = "Θεὸς ὅπου βούλεται, νικᾶται �
 
 meVE.SticGlory.poet = poets_gr_GR_cog.IoannouMonachou
 meVE.SticGlory.mode = misc_gr_GR_cog.Mode6
-meVE.SticGlory.melody  = ""
+meVE.SticGlory.melody = ""
 meVE.SticGlory.text = "Ἀπεστάλη ἐξ οὐρανοῦ Γαβριὴλ ὁ Ἀρχάγγελος, εὐαγγελίσασθαι τῇ Παρθένῳ τὴν σύλληψιν· καὶ ἐλθὼν εἰς Ναζαρέτ, ἑλογίζετο ἐν ἑαυτῷ, τῷ θαῦμα ἐκπληττόμενος· ὅτι, Πῶς ὁ ἐν ὑψίστοις ἀκατάληπτος ὤν, ἐκ παρθένου τίκτεται! ὁ ἔχων θρόνον οὐρανόν, καὶ ὑποπόδιον τὴν γῆν, ἐν μήτρᾳ χωρεῖται γυναικός! ᾧ τὰ Ἑξαπτέρυγα καὶ Πολυόμματα ἀτενίσαι οὐ δύνανται, λόγῳ μόνῳ ἐκ ταύτης σαρκωθῆναι ηὐδόκησε, Θεοῦ ἐστι Λόγος ὁ παρών. Τὶ οὖν ἵσταμαι, καὶ οὐ λέγω τῇ Κόρῃ; Χαῖρε Κεχαριτωμένη ὁ Κύριος μετὰ σοῦ, χαῖρε ἁγνὴ Παρθένε, χαῖρε Νύμφη ἀνύμφευτε, χαῖρε Μήτηρ τῆς ζωῆς, εὐλογημένος ὁ καρπὸς τῆς κοιλίας σου."
 
 meVE.Lity1.poet = poets_gr_GR_cog.Vyzantos
 meVE.Lity1.mode = misc_gr_GR_cog.Mode1
-meVE.Lity1.melody  = ""
+meVE.Lity1.melody = ""
 meVE.Lity1.text = "Τῷ ἕκτῳ μηνί, ὁ Ἀρχιστράτηγος ἀπεστάλη πρὸς σὲ τὴν Παρθένον καὶ Ἁγνήν, μηνῦσαί σοι τὸν λόγον τῆς σωτηρίας, ἅμα δὲ καὶ καλέσαι σε· Χαῖρε Κεχαριτωμένη ὁ Κύριος μετὰ σοῦ· τέξῃ Υἱόν, τὸν πρὸ αἰώνων ἐκ Πατρός, ὃς σώσει τὸν λαὸν αὐτοῦ, ἐκ τῶν πταισμάτων αὐτῶν."
 
 meVE.Lity2.poet = poets_gr_GR_cog.Anatoliou
 meVE.Lity2.mode = misc_gr_GR_cog.Mode1
-meVE.Lity2.melody  = ""
+meVE.Lity2.melody = ""
 meVE.Lity2.text = "Ἐν τῷ μηνὶ τῷ ἕκτῳ, ἀπεστάλη οὐρανόθεν Γαβριὴλ ὁ Ἀρχάγγελος, ἐν πόλει τῆς Γαλιλαίας Ναζαρέτ, κομίσαι τῇ Κόρῃ χαρᾶς εὐαγγέλια, καὶ προσελθὼν πρὸς αὐτὴν ἐβόησε λέγων· Χαῖρε Κεχαριτωμένη, ὁ Κύριος μετὰ σοῦ, χαῖρε δοχεῖον τῆς ἀχωρήτου φύσεως· ὃν γὰρ οὐρανοὶ οὐκ ἐχώρησαν, ἡ νηδύς σου κεχώρηκεν εὐλογημένη· Χαῖρε σεμνή, τοῦ Ἀδὰμ ἡ ἀνάκλησις, καὶ τῆς Εὔας ἡ λύτρωσις, καὶ χαρὰ τοῦ κόσμου, καὶ ἀγαλλίασις τοῦ γένους ἡμῶν."
 
 meVE.Lity3.mode = misc_gr_GR_cog.Mode1
-meVE.Lity3.melody  = ""
+meVE.Lity3.melody = ""
 meVE.Lity3.text = "Ἀπεστάλη Ἄγγελος Γαβριήλ, οὐρανόθεν ἐκ Θεοῦ, πρὸς Παρθένον ἀμόλυντον, εἰς πόλιν τῆς Γαλιλαίας Ναζαρέτ, εὐαγγελίσασθαι αὐτῇ τοῦ ξένου τρόπου τὴν σύλληψιν. Ἀπεστάλη δοῦλος ἀσώματος, πρὸς ἔμψυχον πόλιν καὶ πύλην νοεράν, μηνύσαι Δεσποτικῆς παρουσίας τὴν συγκατάβασιν. Ἀπεστάλη στρατιώτης οὐράνιος, πρὸς τὸ ἔμψυχον τῆς δόξης Παλάτιον, προετοιμάσαι τῷ Κτίστῃ κατοικίαν ἄληκτον, καὶ προσελθὼν πρὸς αὐτὴν ἐκραύγαζε· Χαῖρε θρόνε πυρίμορφε, τῶν τετραμόρφων ὑπερενδοξοτέρα, Χαῖρε καθέδρα, Βασιλικὴ οὐράνιε, χαῖρε ὄρος ἀλατόμητον, δοχεῖον πανέντιμον· ἐν σοὶ γὰρ πᾶν τὸ πλήρωμα κατῴκησε, τῆς Θεότητος σωματικῶς, εὐδοκίᾳ Πατρός ἀϊδίου, καὶ συνεργείᾳ τοῦ Ἁγίου Πνεύματος, Χαῖρε Κεχαριτωμένη, ὁ Κύριος μετὰ Σοῦ."
 
 meVE.LityGlory.poet = poets_gr_GR_cog.KosmaMonachou
 meVE.LityGlory.mode = misc_gr_GR_cog.Mode2
-meVE.LityGlory.melody  = ""
+meVE.LityGlory.melody = ""
 meVE.LityGlory.text = "Εὐαγγελίζεται ὁ Γαβριὴλ τῇ Κεχαριτωμένῃ σήμερον· Χαῖρε ἀνύμφευτε Κόρη καὶ ἀπειρόγαμε, μὴ καταπλαγῇς τῇ ξένῃ μου μορφῇ, μηδὲ δειλιάσῃς, Ἀρχάγγελός εἰμι, ὄφις ἐξηπάτησεν Εὔαν ποτέ, νῦν εὐαγγελίζομαί σοι τὴν χαράν, καὶ μενεῖς ἄφθορος, καὶ τέξῃ τὸν Κύριον Ἄχραντε."
 
 meVE.Aposticha1.mode = misc_gr_GR_cog.Mode4
-meVE.Aposticha1.melody  = ""
+meVE.Aposticha1.melody = ""
 meVE.Aposticha1.text = "Τῷ ἕκτῳ μηνί, ἀπεστάλη ὁ Ἀρχάγγελος πρὸς Παρθένον ἁγνήν, καὶ χαίρειν αὐτῇ προσειπών, εὐηγγελίσατο ἐξ αὐτῆς τὸν Λυτρωτὴν προελθεῖν. Ὅθεν πιστῶς δεξαμένη τὸν ἀσπασμόν, συνέλαβέ σε τὸν προαιώνιον Θεόν, τὸν ἀφράστως εὐδοκήσαντα ἐνανθρωπῆσαι, εἰς σωτηρίαν τῶν ψυχῶν ἡμῶν."
 
 meVE.ApostichaVerse2.text = "Εὐαγγελίζεσθε ἡμέραν ἐξ ἡμέρας τὸ σωτήριον τοῦ Θεοῦ ἡμῶν."
 
 meVE.Aposticha2.mode = misc_gr_GR_cog.Mode4
-meVE.Aposticha2.melody  = ""
+meVE.Aposticha2.melody = ""
 meVE.Aposticha2.text = "Γλῶσσαν ἣν οὐκ ἔγνω, ἤκουσεν ἡ Θεοτόκος· ἐλάλει γὰρ πρὸς αὐτὴν ὁ Ἀρχάγγελος, τοῦ Εὐαγγελισμοῦ τὰ ῥήματα· ὅθεν πιστῶς δεξαμένη τὸν ἀσπασμόν, συνέλαβέ σε τὸν προαιώνιον Θεόν. Διὸ καὶ ἡμεῖς ἀγαλλόμενοι βοῶμέν σοι· ὁ ἐξ αὐτῆς σαρκωθεὶς ἀτρέπτως Θεός, εἰρήνην τῷ κόσμῳ δώρησαι, καὶ ταῖς ψυχαῖς ἡμῶν τὸ μέγα ἔλεος."
 
 meVE.ApostichaVerse3.text = "ᾌσατε τῷ Κυρίῳ ᾆσμα καινόν· ᾄσατε τῷ Κυρίῳ πᾶσα ἡ γῆ."
 
 meVE.Aposticha3.mode = misc_gr_GR_cog.Mode4
-meVE.Aposticha3.melody  = ""
+meVE.Aposticha3.melody = ""
 meVE.Aposticha3.text = "Ἰδοὺ ἡ ἀνάκλησις νῦν ἐπέφανεν ἡμῖν, ὑπὲρ λόγον ὁ Θεὸς τοῖς ἀνθρώποις ἑνοῦται, Ἀρχαγγέλου τῇ φωνῇ ἡ πλάνη ἐκμειοῦται· ἡ Παρθένος γὰρ δέχεται τὴν χαράν, τὰ ἐπίγεια γέγονεν οὐρανός, ὁ κόσμος λέλυται τῆς ἀρχαίας ἀρᾶς. Ἀγαλλιάσθω ἡ κτίσις καὶ φωναῖς ανυμνείτω. Ὁ ποιητὴς καὶ λυτρωτὴς ἡμῶν, Κύριε δόξα σοι."
 
 meVE.AposGlory.poet = poets_gr_GR_cog.AndreouIerosolymitou
 meVE.AposGlory.mode = misc_gr_GR_cog.Mode4
-meVE.AposGlory.melody  = ""
+meVE.AposGlory.melody = ""
 meVE.AposGlory.text = "Σήμερον χαρᾶς Εὐαγγέλια, παρθενικὴ πανήγυρις, τὰ κάτω τοῖς ἄνω συνάπτεται, ὁ Ἀδὰμ καινουργεῖται, ἡ Εὔα τῆς πρώτης λύπης ἐλευθεροῦται, καὶ ἡ σκηνὴ τῆς καθ' ἡμᾶς οὐσίας τῇ θεώσει τοῦ προσληφθέντος φυράματος, ναὸς Θεοῦ κεχρημάτικεν. Ὦ Μυστήριον! ὁ τρόπος τῆς κενώσεως ἄγνωστος, ὁ τρόπος τῆς συλλήψεως ἄφραστος, Ἄγγελος λειτουργεῖ τῷ θαύματι, παρθενικὴ γαστὴρ τὸν Υἱὸν ὑποδέχεται, Πνεῦμα Ἅγιον καταπέμπεται, Πατὴρ ἄνωθεν εὐδοκεῖ, καὶ τὸ συνάλλαγμα, κατὰ κοινὴν πραγματεύεται βούλησιν, ἐν ᾧ, καὶ δι' οὗ σωθέντες, συνῳδὰ τῷ Γαβριήλ, πρὸς τὴν Παρθένον βοήσωμεν· Χαῖρε Κεχαριτωμένη, ὁ Κύριος μετὰ σοῦ, ἐξ ἧς ἡ σωτηρία, Χριστὸς ὁ Θεός ἡμῶν, τὴν καθ' ἡμᾶς προσλαβόμενος φύσιν, πρὸς ἑαυτὸν ἐπανήγαγεν· Αὐτὸν ἱκέτευε, σωθῆναι τὰς ψυχὰς ἡμῶν."
 
 meVE.Apolytikion1.mode = misc_gr_GR_cog.Mode4
-meVE.Apolytikion1.melody  = ""
+meVE.Apolytikion1.melody = ""
 meVE.Apolytikion1.text = "Σήμερον τῆς σωτηρίας ἡμῶν τὸ Κεφάλαιον, καὶ τοῦ ἀπ' αἰῶνος Μυστηρίου ἡ φανέρωσις, ὁ Υἱὸς τοῦ Θεοῦ, Υἱὸς τῆς Παρθένου γίνεται, καὶ Γαβριὴλ τὴν χάριν εὐαγγελίζεται. Διὸ καὶ ἡμεῖς σὺν αὐτῷ τῇ Θεοτόκῳ βοήσωμεν· Χαῖρε Κεχαριτωμένη, ὁ Κύριος μετὰ σοῦ."
 
 meMA.Kathisma11.mode = misc_gr_GR_cog.Mode1
@@ -128,23 +128,23 @@ meMA.Kathisma32.mode = misc_gr_GR_cog.Mode4
 meMA.Kathisma32.melody = he.a.m4_gr_GR_cog.KateplagiIosif.name
 meMA.Kathisma32.text = "Ἀπεστάλη Γαβριήλ, πρὸς τὴν Παρθένον καὶ ἁγνήν, καὶ ἐμήνυσεν αὐτῇ, τὴν ἀνεκλάλητον χαράν, ὅτι ἀσπόρως συλλήψῃ καὶ οὐ φθαρήσῃ· τέξῃ γὰρ Υἱόν, τὸν πρὸ αἰώνων Θεόν, ὃς σώσει τὸν λαόν, ἐκ τῶν πταισμάτων αὐτῶν, καὶ μαρτυρεῖ ὁ πέμψας με εἰπεῖν σοι· Εὐλογημένη τὸ Χαῖρε, Παρθένος τίκτεις, καὶ μετὰ τόκον, πάλιν μένεις Παρθένος."
 
-meMA.Prokeimenon.text = "" //for media
+meMA.Prokeimenon.text = "" // for media
 //meMA.Gospel.name = bible_gr_GR_cog.Luke
 //meMA.Gospel.chapverse = "(Κεφ. 1:39-49, 56)"
 //meMA.Gospel.text = le.go.me.m03.d25_gr_GR_cog.lemeMA.Gospel.text
 
 meMA.PostGospelGlory.mode = misc_gr_GR_cog.Mode2
-meMA.PostGospelGlory.melody  = ""
+meMA.PostGospelGlory.melody = ""
 meMA.PostGospelGlory.text = ho.s03_gr_GR_cog.hoMA.PostGospelTheotokos.text
 
 meMA.PostGospelBoth.mode = misc_gr_GR_cog.Mode2
-meMA.PostGospelBoth.melody  = ""
+meMA.PostGospelBoth.melody = ""
 meMA.PostGospelBoth.text = ho.s03_gr_GR_cog.hoMA.PostGospelTheotokos.text
 
 meMA.PostGospelIdiomelon.poet = poets_gr_GR_cog.KosmaMonachou
 meMA.PostGospelIdiomelon.mode = misc_gr_GR_cog.Mode2
-meMA.PostGospelIdiomelon.melody  = ""
-meMA.PostGospelIdiomelon.text = meVE.LityGlory.text 
+meMA.PostGospelIdiomelon.melody = ""
+meMA.PostGospelIdiomelon.text = meVE.LityGlory.text
 
 meMA.C1Poet = poets_gr_GR_cog.IoannouMonachou
 meMA.C1Acrostic.text = "οὗ ἡ Ἀκροστιχίς, κατὰ Ἀλφάβητον."
@@ -295,7 +295,7 @@ meMA.Oikos16.text = "Χαῖρε, ἀστὴρ ἐμφαίνων τὸν Ἥλ�
 meMA.Oikos17.text = "Χαῖρε, δι' ἧς νεουργεῖται ἡ κτίσις· χαῖρε, δι' ἧς βρεφουργεῖται ὁ Κτίστης."
 meMA.Oikos18.text = "Χαῖρε, Νύμφη ἀνύμφευτε."
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C1H.ode = misc_gr_GR_cog.Ode7
 meMA.Ode7C1H.mode = misc_gr_GR_cog.Mode4
@@ -411,7 +411,7 @@ meMA.Lauds4.text = "Ὁ ἐκ Πατρὸς ἀϊδίως καὶ ἐκ μητ�
 
 meMA.LaudsGlory.poet = poets_gr_GR_cog.Theofanous
 meMA.LaudsGlory.mode = misc_gr_GR_cog.Mode2
-meMA.LaudsGlory.melody  = ""
+meMA.LaudsGlory.melody = ""
 meMA.LaudsGlory.text = "Το ἀπ' αἰῶνος μυστήριον, ἀνακαλύπτεται σήμερον, καὶ ὁ Υἱὸς τοῦ Θεοῦ, Υἱὸς ἀνθρώπου γίνεται, ἵνα τοῦ χείρονος μεταλαβών, μεταδῷ μοι τοῦ βελτίονος. Ἐψεύσθη πάλαι Ἀδάμ, καὶ Θεὸς ἐπιθυμήσας οὐ γέγονεν, ἄνθρωπος γίνεται Θεός, ἵνα Θεὸν τὸν Ἀδὰμ ἀπεργάσηται. Εὐφραινέσθω ἡ κτίσις, χορευέτω, ἡ φύσις, ὅτι Ἀρχάγγελος Παρθένῳ, μετὰ δέους παρίσταται, καὶ τὸ Χαῖρε κομίζει, τῆς λύπης ἀντίθετον. Ὁ διὰ σπλάγχνα ἐλέους ἐνανθρωπήσας, Θεὸς ἡμῶν δόξα σοι."
 
 meMA.LaudsSundayVerse1.text = ""
@@ -458,6 +458,6 @@ meMegalynarion.text = ""
 
 meMA.AdditionalIdiomelon1.poet = poets_gr_GR_cog.IoannouMonachou
 meMA.AdditionalIdiomelon1.mode = misc_gr_GR_cog.Mode8
-meMA.AdditionalIdiomelon1.melody  = ""
+meMA.AdditionalIdiomelon1.melody = ""
 meMA.AdditionalIdiomelon1.text = "Εὐφραινέσθωσαν οἱ οὐρανοί, καὶ ἀγαλλιάσθω ἡ γῆ· ὁ γὰρ τοῦ Πατρὸς συναΐδιος καὶ συνάναρχος καὶ σύνθρονος Υἱός, οἶκτον λαβὼν καὶ φιλάνθρωπον ἔλεον, ἑαυτόν καθῆκεν εἰς κένωσιν κατ' εὐδοκίαν καὶ βούλησιν Πατρικήν, καὶ μήτραν ᾤκησε Παρθενικήν, προαγνισθεῖσαν τῷ Πνεύματι. Ὢ τοῦ θαύματος! ὁ Θεὸς ἐν ἀνθρώποις, ὁ ἀχώρητος ἐν μήτρᾳ, ὁ ἄχρονος ἐν χρόνῳ, καὶ τὸ παράδοξον, ὅτι καὶ ἡ σύλληψις ἄσπορος, καὶ ἡ κένωσις ἄφραστος, καὶ τὸ μυστήριον ὅσον! Ὁ Θεὸς γὰρ κενοῦται, καὶ σαρκοῦται καὶ πλάττεται, Ἀγγέλου πρὸς τὴν Ἁγνήν, τὴν σύλληψιν λέξαντος· Χαῖρε Κεχαριτωμένη, ὁ Κύριος μετὰ σοῦ, ὁ ἔχων τὸ μέγα ἔλεος."
 

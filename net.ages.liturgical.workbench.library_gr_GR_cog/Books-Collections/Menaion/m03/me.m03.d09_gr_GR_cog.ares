@@ -1,15 +1,15 @@
 A_Resource_Whose_Name = me.m03.d09_gr_GR_cog
 
 meDate.text = "Τῌ Θʹ ΜΑΡΤΙΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "Μνήιμη τῶν Ἁγίων μεγάλων Τεσσαράκοντα Μαρτύρων, τῶν ἐν τῇ λίμνη Σεβαστείας μαρτυρησάντων." //full title of day
+meCommemoration.text = "Μνήιμη τῶν Ἁγίων μεγάλων Τεσσαράκοντα Μαρτύρων, τῶν ἐν τῇ λίμνη Σεβαστείας μαρτυρησάντων." // full title of day
 meShortCommemoration1.text = "Τεσσαράκοντα Μαρτύρων"
-meInsert1 = "καὶ τῶν Ἁγίων μεγάλων Τεσσαράκοντα Μαρτύρων, τῶν ἐν τῇ λίμνη Σεβαστείας μαρτυρησάντων, " //for use in petitions and dismissal
-meInsert2 = "ὧν καὶ τὴν μνήμην ἐπιτελοῦμεν· " //for use in petitions and dismissal
+meInsert1 = "καὶ τῶν Ἁγίων μεγάλων Τεσσαράκοντα Μαρτύρων, τῶν ἐν τῇ λίμνη Σεβαστείας μαρτυρησάντων, " // for use in petitions and dismissal
+meInsert2 = "ὧν καὶ τὴν μνήμην ἐπιτελοῦμεν· " // for use in petitions and dismissal
 meNote.text = ""
-meLE.commemoration1 = "Μνήιμη τῶν Ἁγίων μεγάλων Τεσσαράκοντα Μαρτύρων, τῶν ἐν τῇ λίμνη Σεβαστείας μαρτυρησάντων."
+meLE.commemoration1 = "Μνήμη τῶν Ἁγίων Τεσσαράκοντα Μαρτύρων, τῶν ἐν  Σεβαστείᾳ τῇ Πόλει Μαρτυρησάντων."
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -42,7 +42,7 @@ meVE.AposTheotokion.melody = he.o_gr_GR_cog.TheotokeSyEi.name
 meVE.AposTheotokion.text = he.o_gr_GR_cog.TheotokeSyEiAthloforon.text
 
 meVE.Apolytikion1.mode = misc_gr_GR_cog.Mode1
-meVE.Apolytikion1.melody  = ""
+meVE.Apolytikion1.melody = ""
 meVE.Apolytikion1.text = he.ga_gr_GR_cog.TasAlgidonas.text
 
 meVE.Apolytikion2.poet = poets_gr_GR_cog.Gerasimou
@@ -74,13 +74,13 @@ meMA.Kathisma3T.mode = misc_gr_GR_cog.Mode5
 meMA.Kathisma3T.melody = he.a.m5_gr_GR_cog.TonSynanarchonLogon.name
 meMA.Kathisma3T.text = "Τὴν ταχεῖάν σου σκέπην, καὶ τὴν βοήθειαν, καὶ τὸ ἔλεος δεῖξον ἐπὶ τὸν δοῦλόν σου, καὶ τὰ κύματα Ἁγνὴ καταπράϋνον, τῶν ματαίων λογισμῶν, καὶ τὴν πεσοῦσάν μου ψυχήν, ἀνάστησον Θεοτόκε· οἶδα γὰρ ὅτι Παρθένε, ἰσχύεις ὅσα καὶ βούλεσαι."
 
-meMA.Prokeimenon.text = "" //for media
+meMA.Prokeimenon.text = "" // for media
 meMA.PostGospelGlory.mode = misc_gr_GR_cog.Mode2
-meMA.PostGospelGlory.melody  = ""
+meMA.PostGospelGlory.melody = ""
 meMA.PostGospelGlory.text = ho.s03_gr_GR_cog.hoMA.PostGospelMartyrs.text
 
 meMA.PostGospelBoth.mode = misc_gr_GR_cog.Mode2
-meMA.PostGospelBoth.melody  = ""
+meMA.PostGospelBoth.melody = ""
 meMA.PostGospelBoth.text = ho.s03_gr_GR_cog.hoMA.PostGospelTheotokos.text
 
 meMA.PostGospelIdiomelon.mode = misc_gr_GR_cog.Mode2
@@ -234,7 +234,7 @@ meMA.Kontakion1.text = "Πᾶσαν στρατιὰν τοῦ κόσμου κα
 
 meMA.Oikos1.text = "Τῷ ἐν θρόνῳ ἀστέκτῳ ἐποχουμένῳ, τῷ ἐκτείναντι τὸν οὐρανὸν καθάπερ δέῤῥιν, τῷ τὴν γῆν ἑδράσαντι, καὶ συνάξαντι τὰ ὕδατα εἰς τὰς συναγωγὰς αὐτῶν, τῷ τὰ πάντα ἐκ μὴ ὄντων ποιήσαντι ὑπάρχειν, καὶ πᾶσι χορηγοῦντι πνοὴν καὶ ζωήν, τῷ προσδεχομένῳ τῶν Ἀρχαγγέλων τὸν ὕμνον, καὶ ὑπ' ἀγγέλων δοξαζομένῳ, καὶ ὑπὸ πάντων προσκυνουμένῳ, Χριστῷ τῷ παντοκράτορι, τῷ Πλάστῃ καὶ Θεῷ ἡμῶν, προσπίπτω ὁ ἀνάξιος προσάγων μου τὴν δέησιν, λόγου χάριν αἰτῶν, ἵνα ἰσχύσω εὐσεβῶς ὑμνῆσαι κἀγὼ τοὺς Ἁγίους, οὓς αὐτὸς ἔδειξας νικητάς, δωρησάμενος αὐτοῖς δόξαν ἐκ τῶν οὐρανῶν, καὶ στεφάνων πληθύν."
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C1H.ode = misc_gr_GR_cog.Ode7
 meMA.Ode7C1H.mode = misc_gr_GR_cog.Mode2
@@ -369,7 +369,7 @@ meMA.LaudsGlory.melody = misc_gr_GR_cog.Idiomelon
 meMA.LaudsGlory.text = "Ἀθλοφόροι Χριστοῦ, τὴν πάνσεπτον νηστείαν φαιδροτέραν ἀπειργάσασθε, τῇ μνήμῃ τῆς ἐνδόξου ὑμῶν ἀθλήσεως· Τεσσαράκοντα γὰρ ὄντες, τὴν τεσσαρακονθήμερον ἁγιάζετε, τὸ σωτήριον πάθος μιμησάμενοι, διὰ τῆς ὑπὲρ Χριστοῦ ὑμῶν ἀθλήσεως. Διὸ ἔχοντες παῤῥησίαν πρεσβεύσατε, ἐν εἰρήνῃ καταντῆσαι ἡμᾶς, εἰς τὴν τριήμερον Ἀνάστασιν τοῦ Θεοῦ, καὶ Σωτῆρος τῶν ψυχῶν ἡμῶν."
 
 meMA.LaudsTheotokion.mode = misc_gr_GR_cog.Mode5
-meMA.LaudsTheotokion.melody  = ""
+meMA.LaudsTheotokion.melody = ""
 meMA.LaudsTheotokion.text = oc.m5.d3_gr_GR_cog.ocVE.AposTheotokion.text
 
 meMA.LaudsSundayVerse1.text = "Θαυμαστὸς ὁ Θεὸς ἐν τοῖς ἁγίοις αὐτοῦ."
@@ -381,7 +381,7 @@ meMA.AposGlory.melody = misc_gr_GR_cog.Idiomelon
 meMA.AposGlory.text = "Τὴν λίμνην ὡς Παράδεισον, καὶ τὸ κρύος ὡς καύσωνα, οἱ Μάρτυρες ἡγήσαντο, Χριστὲ ὁ Θεός, οὐκ ἔπτηξαν τὸν λογισμὸν αἱ τῶν τυράννων ἀπειλαί, οὐκ ἐδειλίασαν οἱ γενναῖοι τῶν βασάνων τὰς προσβολάς, ὅπλον θεῖον κεκτημένοι τὸν Σταυρόν· δι' αὐτοῦ γὰρ τὸν ἐχθρόν, ὡς κραταιοὶ ἐτροπώσαντο· ὅθεν καὶ τὸν στέφανον ἐκομίσαντο τῆς χάριτος."
 
 meMA.AposTheotokion.mode = misc_gr_GR_cog.Mode2
-meMA.AposTheotokion.melody  = ""
+meMA.AposTheotokion.melody = ""
 meMA.AposTheotokion.text = "Ἀδιόδευτε πύλη μυστικῶς ἐσφραγισμένη, εὐλογημένη Θεοτόκε Παρθένε, δέξαι τὰς δεήσεις ἡμῶν, καὶ προσάγαγε τῷ Υἱῷ σου καὶ Θεῷ, ἵνα σώσῃ διὰ σοῦ τὰς ψυχὰς ἡμῶν."
 
 //For Presanctified Liturgy on the day of the commemoration
@@ -391,15 +391,15 @@ mePL.Glory.melody = misc_gr_GR_cog.Idiomelon
 mePL.Glory.text = "Προφητικῶς ἀνεβόα ὁ Δαυΐδ ἐν ψαλμοῖς· Διήλθομεν διὰ πυρὸς καὶ ὕδατος, καὶ ἐξήγαγες ἡμᾶς εἰς ἀναψυχήν, ὑμεῖς δὲ Μάρτυρες Χριστοῦ, δι' αὐτῶν τῶν ἔργων τὸ λόγιον πληροῦντες, διήλθετε διὰ πυρός τε καὶ ὕδατος, καὶ εἰσήλθετε εἰς τὴν βασιλείαν τῶν οὐρανῶν. Διὸ Πρεσβεύσατε, τεσσαράκοντα ὄντες Ἀθληταί, δωρηθῆναι ἡμῖν τὸ μέγα ἔλεος."
 
 mePL.Theotokion.mode = misc_gr_GR_cog.Mode2
-mePL.Theotokion.melody  = ""
+mePL.Theotokion.melody = ""
 mePL.Theotokion.text = ho.s23_gr_GR_cog.hoCA.Troparion7.text
 
 meLI.SeasonalKontakion.mode = misc_gr_GR_cog.Mode2
-meLI.SeasonalKontakion.melody  = ""
+meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = ho.s07_gr_GR_cog.hoTY.Key0408.text
 
-meLI.TheotokosHymn.mode  = ""
-meLI.TheotokosHymn.text  = ""
+meLI.TheotokosHymn.mode = ""
+meLI.TheotokosHymn.text = ""
 
 meLI.CommunionHymn.text = da.d3_gr_GR_cog.daLI.CommunionHymn.text
 

@@ -1,15 +1,15 @@
 A_Resource_Whose_Name = me.m02.d03_gr_GR_cog
 
 meDate.text = "Τῌ Γʹ ΦΕΒΡΟΥΑΡΙΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "Μνήμη τοῦ Ἁγίου καὶ Δικαίου Συμεὼν τοῦ Θεοδόχου, καὶ Ἄννης τῆς Προφήτιδος." //full title of day
+meCommemoration.text = "Μνήμη τοῦ Ἁγίου καὶ Δικαίου Συμεὼν τοῦ Θεοδόχου, καὶ Ἄννης τῆς Προφήτιδος." // full title of day
 meShortCommemoration1.text = ""
-meInsert1 = "καὶ τοῦ Ἁγίου καὶ Δικαίου Συμεὼν τοῦ Θεοδόχου, καὶ Ἄννης τῆς Προφήτιδος, " //for use in petitions and dismissal
-meInsert2 = "ὧν καὶ τὴν μνήμην ἐπιτελοῦμεν· " //for use in petitions and dismissal
+meInsert1 = "καὶ τοῦ Ἁγίου καὶ Δικαίου Συμεὼν τοῦ Θεοδόχου, καὶ Ἄννης τῆς Προφήτιδος, " // for use in petitions and dismissal
+meInsert2 = "ὧν καὶ τὴν μνήμην ἐπιτελοῦμεν· " // for use in petitions and dismissal
 meNote.text = ""
-meLE.commemoration1 = "Μνήμη τοῦ Ἁγίου καὶ Δικαίου Συμεὼν τοῦ Θεοδόχου, καὶ Ἄννης τῆς Προφήτιδος."
+meLE.commemoration1 = "Τοῦ Ἁγίου καὶ Δικαίου Συμεὼν τοῦ Θεοδόχου."
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -41,7 +41,7 @@ meVE.Stichera06.text = "Ἄννα ἡ θεόπνευστος, καὶ Συμε�
 
 meVE.SticGlory.poet = poets_gr_GR_cog.GermanouOiDeAnatoliou
 meVE.SticGlory.mode = misc_gr_GR_cog.Mode5
-meVE.SticGlory.melody  = ""
+meVE.SticGlory.melody = ""
 meVE.SticGlory.text = me.m02.d02_gr_GR_cog.meVE.LityBoth.text
 
 //These extra hymns are found in the back of the Feb. Menaion
@@ -72,11 +72,11 @@ meVE.Aposticha3.text = "Δέχου ὦ Συμεών, ἡ Πάναγνος ἐ
 
 meVE.AposGlory.poet = poets_gr_GR_cog.Anatoliou
 meVE.AposGlory.mode = misc_gr_GR_cog.Mode1
-meVE.AposGlory.melody  = ""
+meVE.AposGlory.melody = ""
 meVE.AposGlory.text = "Ὁ παλαιὸς ἡμερῶν, ὁ καὶ τὸν νόμον πάλαι ἐν Σινᾷ δοὺς τῷ Μωσεῖ, σήμερον βρέφος ὁρᾶται, καὶ κατὰ νόμον, ὡς νόμου Ποιητής, τὸν νόμον ἐκπληρῶν, ναῷ προσάγεται, καὶ τῷ Πρεσβύτῃ ἀποδίδοται. Δεξάμενος δὲ τοῦτον Συμεὼν ὁ δίκαιος, καὶ τῶν δεσμῶν τὴν ἔκβασιν ἰδὼν τελεσθεῖσαν, γηθοσύνως ἐβόα· Εἶδον οἱ ὀφθαλμοί μου, τὸ ἀπ' αἰῶνος μυστήριον ἀποκεκρυμμένον, ἐπ' ἐσχάτων τούτων ἡμερῶν φανερωθέν, φῶς διασκεδάζον, τῶν ἀπίστων ἐθνῶν τὴν σκοτόμαιναν καὶ δόξαν τοῦ νεολέκτου Ἰσραήλ· διὸ ἀπόλυσον τὸν δοῦλόν σου, ἐκ τῶν δεσμῶν τοῦδε τοῦ σαρκίου, πρὸς τὴν ἀγήρω καὶ θαυμασίαν ἄληκτον ζωήν, ὁ παρέχων τῷ κόσμῳ τὸ μέγα ἔλεος."
 
 meVE.Apolytikion1.mode = misc_gr_GR_cog.Mode1
-meVE.Apolytikion1.melody  = ""
+meVE.Apolytikion1.melody = ""
 meVE.Apolytikion1.text = me.m02.d02_gr_GR_cog.meVE.Apolytikion1.text
 
 meVE.Apolytikion2.poet = poets_gr_GR_cog.Gerasimou
@@ -234,10 +234,10 @@ meMA.Ode6C1T.melody = he.h.m4_gr_GR_cog.EvoiseProtypon.name
 meMA.Ode6C1T.text = "Θηρεῦσαί με, καθ' ἑκάστην ζητεῖ ὁ παμπόνηρος, ἀλλ' αἰτοῦμαι, τῶν παγίδων ἐξάρπασον Δέσποινα, καὶ τῇ θείᾳ σκέπῃ, τῶν πτερύγων σου σῶον συντήρησον."
 
 meMA.Kontakion1.mode = misc_gr_GR_cog.Mode1
-meMA.Kontakion1.melody  = ""
+meMA.Kontakion1.melody = ""
 meMA.Kontakion1.text = me.m02.d02_gr_GR_cog.meMA.Kontakion1.text
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C1H.ode = misc_gr_GR_cog.Ode7
 meMA.Ode7C1H.mode = misc_gr_GR_cog.Mode4
@@ -340,13 +340,13 @@ meMA.Aposticha3.text = "Νῦν ἀπολύεις Δέσποτα, τὸν δο
 
 meMA.AposGlory.poet = poets_gr_GR_cog.GermanouOiDeIoannouMonachou
 meMA.AposGlory.mode = misc_gr_GR_cog.Mode2
-meMA.AposGlory.melody  = ""
+meMA.AposGlory.melody = ""
 meMA.AposGlory.text = me.m02.d02_gr_GR_cog.meVE.Lity5.text
 
 meLI.Antiphon2.text = me.m02.d02_gr_GR_cog.meLI.Antiphon2.text
 
 meLI.SeasonalKontakion.mode = misc_gr_GR_cog.Mode1
-meLI.SeasonalKontakion.melody  = ""
+meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = me.m02.d02_gr_GR_cog.meMA.Kontakion1.text
 
 meMegalynarion.text = ""

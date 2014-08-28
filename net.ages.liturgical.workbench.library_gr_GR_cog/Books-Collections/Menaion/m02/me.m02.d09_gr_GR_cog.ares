@@ -1,15 +1,15 @@
 A_Resource_Whose_Name = me.m02.d09_gr_GR_cog
 
 meDate.text = "Τῌ Θʹ ΦΕΒΡΟΥΑΡΙΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "Μνήμη τοῦ Ἁγίου Μάρτυρος Νικηφόρου." //full title of day
+meCommemoration.text = "Μνήμη τοῦ Ἁγίου Μάρτυρος Νικηφόρου." // full title of day
 meShortCommemoration1.text = ""
-meInsert1 = "καὶ τοῦ Ἁγίου Μάρτυρος Νικηφόρου, " //for use in petitions and dismissal
-meInsert2 = "οὗ καὶ τὴν μνήμην ἐπιτελοῦμεν· " //for use in petitions and dismissal
+meInsert1 = "καὶ τοῦ Ἁγίου Μάρτυρος Νικηφόρου, " // for use in petitions and dismissal
+meInsert2 = "οὗ καὶ τὴν μνήμην ἐπιτελοῦμεν· " // for use in petitions and dismissal
 meNote.text = ""
-meLE.commemoration1 = "Μνήμη τοῦ Ἁγίου Μάρτυρος Νικηφόρου."
+meLE.commemoration1 = "Τοῦ Ἁγίου Μάρτυρος Νικηφόρου."
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -36,7 +36,7 @@ meVE.SticStavrotheotokion.text = "Ὅτε ἡ ἀμίαντος Ἀμνάς, �
 
 meVE.SticGlory.poet = poets_gr_GR_cog.IoannouMonachou
 meVE.SticGlory.mode = misc_gr_GR_cog.Mode6
-meVE.SticGlory.melody  = ""
+meVE.SticGlory.melody = ""
 meVE.SticGlory.text = "Ἔδειξας πᾶσιν ἐμφανῶς, Ἀθλητὰ Νικηφόρε, ὅτι τὸν πλησίον ὁ μὴ φιλῶν, οὔτε τὸν Δεσπότην ἀγαπῆσαι δύναται, διόπερ, αὐτὸς μὲν εἰλικρινῶς ἀγαπήσας Σαπρίκιον τὸν ὁμόδουλον, ἐντεῦθεν καὶ πρὸς τὸν θεῖον ἀνεπτερώθης ἔρωτα, καὶ τὴν ψυχήν σου τέθεικας, ὑπὲρ τῆς εἰς Χριστὸν ὁμολογίας καὶ πίστεως. Σαπρίκιος δὲ ὁ δυσώνυμος, ἄσπονδον πρὸς σὲ τὸ μῖσος κτησάμενος, ἀρνητὴς ἐδείχθη καὶ τοῦ Δεσπότου Χριστοῦ, ᾧ νῦν αὐτὸς παρεστώς, καθικέτευε τοῦ σωθῆναι τὰς ψυχὰς ἡμῶν."
 
 meVE.SticTheotokion2.mode = misc_gr_GR_cog.Mode6
@@ -217,7 +217,7 @@ meMA.Kontakion1.text = "Πτερωθεὶς Ἀοίδιμε, τῇ τοῦ Κυ
 
 meMA.Oikos1.text = "Τὴν τοῦ Παύλου σαφῶς διδασκαλίαν ἐπόθησας, καὶ τοῖς στέρνοις τοῖς σοῖς Ἔνδοξε κατεφύτευσας, βοῶν· Ἡ ἀγάπη οὐκ ἀσχημονεῖ, αὕτη τὸν Κτίστην ἄνθρωπον τέλειον ἡμῖν ἐχαρίσατο, δι' ἀγάπην πάντα ὑπέμεινεν, ἥλους καὶ σταυρόν, ὄξος καὶ ἐμπτύσματα, λόγχῃ ἐπάγη πλευρὰν ἁγίαν, δι' ἧς ἀνέβλυσεν ἡμῖν αἷμα καὶ ὕδωρ θεουργόν, ὃν ποθήσας, ἐφάνης νικηφόρος, ὡς καὶ τῇ κλήσει, ὁπλίτης, μύστης Θεοῦ τῆς χάριτος."
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C1H.ode = misc_gr_GR_cog.Ode7
 meMA.Ode7C1H.mode = misc_gr_GR_cog.Mode8
@@ -326,7 +326,7 @@ meLI.Antiphon2.text = me.m02.d02_gr_GR_cog.meLI.Antiphon2.text
 meLI.EntranceHymn.text = me.m02.d02_gr_GR_cog.meLI.EntranceHymn.text
 
 meLI.SeasonalKontakion.mode = misc_gr_GR_cog.Mode1
-meLI.SeasonalKontakion.melody  = ""
+meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = me.m02.d02_gr_GR_cog.meMA.Kontakion1.text
 
 meMegalynarion.text = ""

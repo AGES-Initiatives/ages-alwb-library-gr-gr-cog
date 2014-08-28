@@ -4,15 +4,15 @@ meHO.Month.text = ""
 meHO.DaysHours.text = ""
 
 meDate.text = "Τῌ Αʹ ΦΕΒΡΟΥΑΡΙΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "Τὰ Προεόρτια τῆς Ὑπαπαντῆς τοῦ Κυρίου καὶ Θεοῦ καὶ Σωτῆρος ἡμῶν Ἰησοῦ Χριστοῦ· καὶ Μνήμη τοῦ Ἁγίου Μάρτυρος Τρύφωνος." //full title of day
+meCommemoration.text = "Τὰ Προεόρτια τῆς Ὑπαπαντῆς τοῦ Κυρίου καὶ Θεοῦ καὶ Σωτῆρος ἡμῶν Ἰησοῦ Χριστοῦ· καὶ Μνήμη τοῦ Ἁγίου Μάρτυρος Τρύφωνος." // full title of day
 meShortCommemoration1.text = "Ἁγ. Τρύφων"
-meInsert1 = "" //for use in petitions and dismissal
-meInsert2 = "" //for use in petitions and dismissal
+meInsert1 = "" // for use in petitions and dismissal
+meInsert2 = "" // for use in petitions and dismissal
 meNote.text = ""
-meLE.commemoration1 = "Τὰ Προεόρτια τῆς Ὑπαπαντῆς τοῦ Κυρίου καὶ Θεοῦ καὶ Σωτῆρος ἡμῶν Ἰησοῦ Χριστοῦ· καὶ Μνήμη τοῦ Ἁγίου Μάρτυρος Τρύφωνος."
+meLE.commemoration1 = "Τοῦ Ἁγίου Μάρτυρος Τρύφωνος."
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -43,12 +43,12 @@ meVE.Stichera06.text = "Τρύφων παμμακάριστε χαρᾶς, κ�
 
 meVE.SticGlory.poet = poets_gr_GR_cog.Kyprianou
 meVE.SticGlory.mode = misc_gr_GR_cog.Mode2
-meVE.SticGlory.melody = 
+meVE.SticGlory.melody = ""
 meVE.SticGlory.text = "Ὑπερφρονήσας τῶν τῇδε γεηρῶν, Παμμάκαρ Τρύφων σεβάσμιε, πρὸς τὸ σκάμμα ἀνδρείως ἔσπευσας, καὶ τῇ πάλῃ δι᾿ αἵματος, σὺ ἐντέχνως Μάρτυς τὸν ὑπερήφανον καθελών, ἐκομίσω τῆς νίκης στέφος, Χριστὸν τὸν Θεὸν ἡμῶν, ἐκλιπαρὼν δι᾿ ἡμᾶς μὴ ἐλλίπης Ἀθλοφόρε, εἰς τὸ σωθῆναι τὰς ψυχὰς ἡμῶν. "
 
 meVE.SticBoth.poet = poets_gr_GR_cog.Germanou
 meVE.SticBoth.mode = misc_gr_GR_cog.Mode2
-meVE.SticBoth.melody = 
+meVE.SticBoth.melody = ""
 meVE.SticBoth.text = "Σήμερον Συμεὼν ἐν ταῖς ἀγκάλαις, τὸν Κύριον τῆς δόξης ὑποδέχεται, ὃν ὑπὸ τὸν γνόφον πρώην ὁ Μωϋσῆς ἐθεάσατο, ἐν τῷ ὄρει τῷ Σινᾶ, πλάκας δόντα αὐτῷ. Οὗτός ἐστιν, ὁ ἐν τοῖς Προφήταις λαλῶν, καὶ τοῦ νόμου Ποιητής· οὗτός ἐστιν ὃν ὁ Δαυΐδ καταγγέλλει, ὁ τοῖς πᾶσι φοβερός, ὁ ἔχων τὸ μέγα καὶ πλούσιον ἔλεος."
 
 meVE.Aposticha1.mode = misc_gr_GR_cog.Mode6
@@ -58,18 +58,18 @@ meVE.Aposticha1.text = "Σέλας τὸ τρισήλιον ἐμφανῶς, 
 meVE.ApostichaVerse2.text = "Νῦν ἀπολύεις τὸν δοῦλόν σου Δέσποτα, κατὰ τὸ ῥῆμά σου ἐν εἰρήνῃ Κύριε, ὅτι εἶδον οἱ ὀφθαλμοί μου, τὸ σωτήριόν σου, ὃ ἡτοίμασας κατὰ πρόσωπον πάντων τῶν λαῶν."
 
 meVE.Aposticha2.mode = misc_gr_GR_cog.Mode6
-meVE.Aposticha2.melody = 
+meVE.Aposticha2.melody = ""
 meVE.Aposticha2.text = "Τὴν ἐκ παραβάσεως τοῦ Ἀδάμ, πτῶσιν ἐνυπάρξασαν τοῖς  βροτοῖς, Χριστὸς ἐπανορθώσων ἐπέφανεν, ἀτρέπτως νηπιάσας ἐκ Παρθένου."
 
 meVE.ApostichaVerse3.text = "Φῶς εἰς ἀποκάλυψιν ἐθνῶν, καὶ δόξαν λαοῦ σου Ἰσραήλ."
 
 meVE.Aposticha3.mode = misc_gr_GR_cog.Mode6
-meVE.Aposticha3.melody = 
+meVE.Aposticha3.melody = ""
 meVE.Aposticha3.text = "Νόμον τὸν ἐν Γράμματι ἐκπληρῶν, ὁ τοῦ νόμου Κύριος καὶ δοτήρ, ἐν ναῷ τῷ νομικῷ νῦν προσάγεται, ὑπὸ Μητρὸς Παρθένου βρέφος θεῖον. "
 
 meVE.AposGlory.poet = poets_gr_GR_cog.GermanouOiDeIoannouMonachou
 meVE.AposGlory.mode = misc_gr_GR_cog.Mode2
-meVE.AposGlory.melody = 
+meVE.AposGlory.melody = ""
 meVE.AposGlory.text = "Τὸν Ἱερὸν ἡ ἱερὰ Παρθένος προσεκόμισεν, ἐν ἱερῷ τῷ ἱερεῖ, ἁπλώσας δὲ ἀγκάλας ὁ Συμεών, ἐδέξατο τοῦτον ἀγαλλόμενος, καὶ ἐβόησε· Νῦν ἀπολύεις τὸν δοῦλόν σου Δέσποτα, κατὰ τὸ ῥῆμά σου ἐν εἰρήνῃ Κύριε."
 
 meVE.Apolytikion1.mode = misc_gr_GR_cog.Mode4
@@ -330,7 +330,7 @@ meMA.Kontakion1.text = "Τριαδικῇ στεῤῥότητι, πολυθε�
 
 meMA.Oikos1.text = "Ἱερὰν πανδαισίαν προτίθεται φιλεόρτων τὸ σύστημα σήμερον, Προεόρτια σύμβολα φέρουσαν, τοῦ Κυρίου τεσσαρακονθήμερον τὴν ἐκ Παρθένου φρικτὴν γέννησιν, καὶ Πρεσβύτου σεπτοῦ ἐναγκάλισιν, καὶ σεπτοῦ Ἀθλοφόρου μνημόσυνα· δι᾿ αὐτὸν γὰρ τὸν Χριστόν, τελειοῦται νικητικῶς, ὡς ἀήττητος."
 
-meMA.Synaxarion.text = 
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C1H.ode = misc_gr_GR_cog.Ode7
 meMA.Ode7C1H.mode = misc_gr_GR_cog.Mode4
@@ -507,7 +507,7 @@ meMA.Aposticha3.text = "Δέχου ὦ Συμεών, τὸν Κύριον τ�
 
 meMA.AposGlory.poet = poets_gr_GR_cog.Germanou
 meMA.AposGlory.mode = misc_gr_GR_cog.Mode2
-meMA.AposGlory.melody = 
+meMA.AposGlory.melody = ""
 meMA.AposGlory.text = "Ὁ κτίστης οὐρανοῦ καὶ γῆς, ἐν ἀγκάλαις ἐβαστάζετο, ὑπὸ Ἁγίου Συμεών, τοῦ πρεσβύτου σήμερον· αὐτὸς γὰρ ἐν Πνεύματι Ἁγίῳ ἔλεγε· Νῦν ἠλευθέρωμαι, εἶδον γάρ τὸν Σωτῆρά μου."
 
 meLI.SeasonalKontakion.mode = misc_gr_GR_cog.Mode4

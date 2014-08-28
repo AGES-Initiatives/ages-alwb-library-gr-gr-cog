@@ -1,15 +1,15 @@
 A_Resource_Whose_Name = me.m05.d07_gr_GR_cog
 
 meDate.text = "Τῌ Ζʹ ΜΑΪΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "Μνήμη τοῦ ἐν οὐρανῷ φανέντος σημείου τοῦ τιμίου Σταυροῦ, ὥρᾳ τρίτῃ τῆς ἡμέρας, ἐπὶ Κωνσταντίου Βασιλέως, υἱοῦ Κωνσταντίνου τοῦ Μεγάλου." //full title of day
+meCommemoration.text = "Μνήμη τοῦ ἐν Οὐρανῷ Φανέντος Σημείου τοῦ Τιμίου Σταυροῦ, Ὥρᾳ Τρίτῃ τῆς Ἡμέρας, ἐπὶ Κωνσταντίου Βασιλέως, Υἱοῦ Κωνσταντίνου τοῦ Μεγάλου." // full title of day
 meShortCommemoration1.text = ""
-meInsert1 = "" //for use in petitions and dismissal
-meInsert2 = "" //for use in petitions and dismissal
+meInsert1 = "" // for use in petitions and dismissal
+meInsert2 = "" // for use in petitions and dismissal
 meNote.text = ""
-meLE.commemoration1 = "Μνήμη τοῦ ἐν οὐρανῷ φανέντος σημείου τοῦ τιμίου Σταυροῦ, ὥρᾳ τρίτῃ τῆς ἡμέρας, ἐπὶ Κωνσταντίου Βασιλέως, υἱοῦ Κωνσταντίνου τοῦ Μεγάλου."
+meLE.commemoration1 = "Ἡ Ἀνάμνησις τοῦ ἐν Οὐρανῷ Φανέντος Σημείου τοῦ Τιμίου Σταυροῦ, ἐπί Κωνσταντίου Βασιλέως, Υἱοῦ τοῦ Μεγάλου Κωνσταντίνου."
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -27,11 +27,11 @@ meVE.Stichera03.melody = he.a.m4_gr_GR_cog.OExYpsistouKlitheis.name
 meVE.Stichera03.text = "Ἀγαλλιάσθω ἡ κτίσις καὶ σκιρτάτω· σήμερον γὰρ ἤστραψε Σταυρὸς ἐν πέρασιν, ἐξ οὐρανοῦ τὰ ἐπίγεια, καταφωτίζων καὶ συνημμένα δεικνὺς τὰ ἄμικτα· Σήμερον συγχαίρουσι χοροῖς Ἀγγέλων βροτοί· τὸ γὰρ διεῖργον μεσότοιχον, Σταυρῷ ἠρμένον, εἰς ἓν τὰ πάντα σαφῶς συνήγαγεν· ὅθεν προλάμπων ὑπὲρ ἥλιον, πᾶσαν κτίσιν φαιδρύνει τῇ χάριτι, καὶ λαμπρύνει καὶ σῴζει, τοὺς πιστῶς αὐτὸν γεραίροντας."
 
 meVE.SticGlory.mode = misc_gr_GR_cog.Mode6
-meVE.SticGlory.melody  = ""
+meVE.SticGlory.melody = ""
 meVE.SticGlory.text = "Ἀνήγγειλαν οἱ οὐρανοὶ τὴν δόξαν σου Κύριε, τὸ φοβερὸν τοῦ Σταυροῦ σου σημεῖον, καὶ ἡ γῆ ἅπασα μετὰ φόβου προσεκύνησεν, ἡμεῖς δὲ δοξολογοῦντες, εὐχαρίστως σοι βοῶμεν· Θεὸς ὢν ἀπαθής, σαρκὶ παθεῖν δι' ἡμᾶς, ἑκουσίως κατεδέξω· διὸ σῶσον λαόν, ὃν περιεποιήσω οἰκείῳ αἵματι."
 
 meVE.Apolytikion1.mode = misc_gr_GR_cog.Mode1
-meVE.Apolytikion1.melody  = ""
+meVE.Apolytikion1.melody = ""
 meVE.Apolytikion1.text = "Τοῦ Σταυροῦ σου ὁ τύπος νῦν ὑπὲρ ἥλιον ἔλαμψεν, ὄνπερ ἐξ ὄρους ἁγίου, τόπῳ Κρανίου ἐφήπλωσας, καὶ τὴν ἐν αὐτῷ σου Σῶτερ ἰσχὺν ἐτράνωσας, διὰ τούτου κρατύνας καὶ τοὺς πιστοὺς Βασιλεῖς ἡμῶν, οὓς καὶ περίσῳζε διαπαντὸς ἐν εἰρήνῃ, πρεσβείαις τῆς Θεοτόκου Χριστὲ ὁ Θεός, καὶ σῶσον ἡμᾶς."
 
 meMA.C1Poet = poets_gr_GR_cog.IoannouMonachou
@@ -151,7 +151,7 @@ meMA.Ode6H.melody = misc_gr_GR_cog.Heirmos
 meMA.Ode6H.text = he.h.m4_gr_GR_cog.EnToThlivesthaiMe.text
 
 meMA.Kontakion1.mode = misc_gr_GR_cog.Mode8
-meMA.Kontakion1.melody  = ""
+meMA.Kontakion1.melody = ""
 meMA.Kontakion1.text = "Ὦ τρισμακάριστε Σταυρὲ καὶ Πανσεβάσμιε, σὲ ἀνυμνῶν καὶ προσκυνῶν νῦν ἁγιάζομαι, ἐν ᾧ Χριστὸς ἀνυψούμενος κόσμον ἔσωσεν, ἀλλὰ πρόφθασον καὶ σῶσον τῇ δυνάμει σου, καὶ παντοίων με κινδύνων ἐλευθέρωσον, ἵνα κράζω σοι· Χαῖρε Ξύλον μακάριον."
 
 meMA.Oikos1.text = "Ἀνοιξόν μου τὸ στόμα, Βασιλεῦ τῶν αἰώνων, καταύγασόν μου τὸν νοῦν καὶ τὰς φρένας, καὶ ἁγίασον μου τὴν ψυχήν, ἵνα ὑμνήσω Λόγε τὸ σεπτὸν ξύλον σου, κατάπεμψον τὸ Πνεῦμά σου καὶ δίδαξον με, ἵνα πόθῳ κραυγάζω."
@@ -163,7 +163,7 @@ meMA.Oikos16.text = "Χαῖρε, Σταυρέ, Ἀγγέλων εὐπρέπ
 meMA.Oikos17.text = "Χαῖρε, δι' οὗ κατεπόθη ὁ ᾍδης· χαῖρε, δι' οὗ ἐξανέστημεν πάντες."
 meMA.Oikos18.text = "Χαῖρε Ξύλον μακάριον."
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C11.ode = misc_gr_GR_cog.Ode7
 meMA.Ode7C11.mode = misc_gr_GR_cog.Mode4
@@ -244,8 +244,8 @@ meMA.LaudsSundayVerse1.text = ""
 meMA.LaudsSundayVerse2.text = ""
 
 meLI.SeasonalKontakion.mode = misc_gr_GR_cog.Mode2
-meLI.SeasonalKontakion.melody  = ""
-meLI.SeasonalKontakion.text  = ""
+meLI.SeasonalKontakion.melody = ""
+meLI.SeasonalKontakion.text = ""
 
 meLI.Alleluia.mode = misc_gr_GR_cog.Mode1
 

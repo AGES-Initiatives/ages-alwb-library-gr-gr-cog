@@ -1,15 +1,15 @@
 A_Resource_Whose_Name = me.m04.d29_gr_GR_cog
 
 meDate.text = "Τῌ ΚΘʹ ΑΠΡΙΛΙΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "Μνήμη τῶν Ἁγίων Ἀποστόλων Ἰάσονος καὶ Σωσιπάτρου" //full title of day
+meCommemoration.text = "Μνήμη τῶν Ἁγίων Ἀποστόλων Ἰάσονος καὶ Σωσιπάτρου." // full title of day
 meShortCommemoration1.text = ""
-meInsert1 = "καὶ τῶν ἁγίων ἐνδόξων Ἀποστόλων Ἰάσονος καὶ Σωσιπάτρου," //for use in petitions and dismissal
-meInsert2 = "ὧν καὶ τὴν μνήμην ἐπιτελοῦμεν·" //for use in petitions and dismissal
+meInsert1 = "καὶ τῶν ἁγίων ἐνδόξων Ἀποστόλων Ἰάσονος καὶ Σωσιπάτρου," // for use in petitions and dismissal
+meInsert2 = "ὧν καὶ τὴν μνήμην ἐπιτελοῦμεν·" // for use in petitions and dismissal
 meNote.text = ""
-meLE.commemoration1 = "Μνήμη τῶν Ἁγίων Ἀποστόλων Ἰάσονος καὶ Σωσιπάτρου"
+meLE.commemoration1 = "Μνήμη τῶν Ἁγίων Ἀποστόλων Ἰάσονος καὶ Σωσιπάτρου."
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -32,7 +32,7 @@ meVE.Apolytikion1.melody = he.a.m4_gr_GR_cog.TachyProkatalave.name
 meVE.Apolytikion1.text = "Δυὰς ἡ ὁμότροπος, τῶν Ἀποστόλων Χριστοῦ, Ἰάσων ὁ ἔνδοξος, Σωσίπατρος ὁ κλεινός, συμφώνως τιμάσθωσαν· οὗτοι γὰρ δεδεγμένοι, τὸν τῆς χάριτος λόγον, ηὔγασαν ἐν Κερκύρᾳ, εὐσεβείας τὸ φέγγος, πρεσβεύοντες τῷ Κυρίῳ, ὑπὲρ τῶν ψυχῶν ἡμῶν."
 
 meVE.Apolytikion2.mode = misc_gr_GR_cog.Mode3
-meVE.Apolytikion2.melody  = ""
+meVE.Apolytikion2.melody = ""
 meVE.Apolytikion2.text = he.ga_gr_GR_cog.ApostoloiAgioi.text
 
 meMA.Ode1C11.ode = misc_gr_GR_cog.Ode1
@@ -155,7 +155,7 @@ meMA.Kontakion1.text = "Τοῖς δόγμασι τοῦ Παύλου κατα
 
 meMA.Oikos1.text = "Ἀπόστολοι θεηγόροι, καὶ κήρυκες εὐσεβείας, διδάσκαλοι καὶ προστάται εὐσεβούντων ἀεισέβαστοι, παρεστηκότες Θεῷ, καὶ φωτὸς θείου πληρούμενοι, καὶ στεφάνοις ἐγκοσμούμενοι, φωτίσατε ἡμᾶς δεόμεθα, γεραίρειν τὴν ὑμῶν πανέορτον πανήγυριν, ἐν εὐφήμοις ὑμνῳδίαις εὐσεβῶς· πάντες γὰρ ἐσμεν ποίμνιον ὑμῶν, λυτρωθέντες τῆς πλάνης ἐν χάριτι, ἀλλ' ὡς ὄντες σωτῆρες τῶν πιστῶν, σπεύσατε πρὸς τὸν Κτίστην, πρεσβεύειν παῤῥησίᾳ, τοῦ σωθῆναι τὰς ψυχὰς ἡμῶν."
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C11.ode = misc_gr_GR_cog.Ode7
 meMA.Ode7C11.mode = misc_gr_GR_cog.Mode2
@@ -222,10 +222,10 @@ meMA.Exaposteilarion1.melody = he.a.m3_gr_GR_cog.OOuranonToisAstrois.name
 meMA.Exaposteilarion1.text = "Ἡ παμφαὴς καὶ θεία, τῶν Ἀποστόλων ἑορτή, τῶν Κερκυραίων τὰ πλήθη, πρὸς εὐωχίαν συγκαλεῖ. Δεῦτε κορέσθητε πάντες, πνευματικῆς εὐφροσύνης."
 
 meLI.SeasonalKontakion.mode = misc_gr_GR_cog.Mode2
-meLI.SeasonalKontakion.melody  = ""
+meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = ho.s07_gr_GR_cog.hoTY.Key0408.text
 
-meLI.Alleluia.mode  = ""
+meLI.Alleluia.mode = ""
 
 meLI.AlleluiaVerse1.text = ""
 

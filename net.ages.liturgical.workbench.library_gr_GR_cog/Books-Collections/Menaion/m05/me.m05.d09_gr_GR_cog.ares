@@ -1,15 +1,15 @@
 A_Resource_Whose_Name = me.m05.d09_gr_GR_cog
 
-meDate.text = "Τῌ ΙϚʹ ΜΑΪΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "Μνήμη τοῦ Ἁγίου Προφήτου Ἡσαΐου, καὶ τοῦ Ἁγίου Μάρτυρος Χριστοφόρου." //full title of day
+meDate.text = "Τῌ Θʹ ΜΑΪΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+meCommemoration.text = "Μνήμη τοῦ Ἁγίου Προφήτου Ἡσαΐου· καὶ τοῦ Ἁγίου Μάρτυρος Χριστοφόρου." // full title of day
 meShortCommemoration1.text = ""
-meInsert1 = "καὶ τοῦ Ἁγίου Προφήτου Ἡσαΐου, καὶ τοῦ Ἁγίου Μάρτυρος Χριστοφόρου, " //for use in petitions and dismissal
-meInsert2 = "ὧν καὶ τὴν μνήμην ἐπιτελοῦμεν· " //for use in petitions and dismissal
+meInsert1 = "καὶ τοῦ Ἁγίου Προφήτου Ἡσαΐου, καὶ τοῦ Ἁγίου Μάρτυρος Χριστοφόρου, " // for use in petitions and dismissal
+meInsert2 = "ὧν καὶ τὴν μνήμην ἐπιτελοῦμεν· " // for use in petitions and dismissal
 meNote.text = ""
-meLE.commemoration1 = "Μνήμη τοῦ Ἁγίου Προφήτου Ἡσαΐου, καὶ τοῦ Ἁγίου Μάρτυρος Χριστοφόρου."
+meLE.commemoration1 = "Τοῦ Ἁγίου Προφήτου Ἠσαΐου."
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -40,12 +40,12 @@ meVE.Stichera06.text = "Σοῦ τὸ μνημόσυνον Μάρτυς, εὐ
 
 meVE.SticGlory.poet = poets_gr_GR_cog.IoannouMonachou
 meVE.SticGlory.mode = misc_gr_GR_cog.Mode4
-meVE.SticGlory.melody  = ""
+meVE.SticGlory.melody = ""
 meVE.SticGlory.text = "Κογχύλῃ αἵματος τοῦ μαρτυρίου σου, κοσμηθεῖσα ἡ Ἐκκλησία τοῦ Θεοῦ, ἡλιακὰς ἀκτῖνας ἐκπέμπει, Χριστοφόρε πολύαθλε· τῷ γὰρ Σταυρῷ, καθοπλίσας σεαυτόν, καὶ τὸ θανεῖν ὑπὲρ Χριστοῦ προθύμως ἑλόμενος, γενναίως πρὸς παράταξιν τοῦ ἀλλοτρίου ἀντικατέστης, καὶ καταισχύνας πάσας τὰς ἐπινοίας τῶν παρανόμων, νικητής στρατιώτης ὤφθης τοῦ Χριστοῦ. Διὸ δυσωποῦμέν σε, ὡς παῤῥησίαν ἔχων, Μαρτύρων ἐγκαλλώπισμα, πρέσβευε, τοῦ σωθῆναι τὰς ψυχὰς ἡμῶν."
 
 meVE.AposGlory.poet = poets_gr_GR_cog.Anatoliou
 meVE.AposGlory.mode = misc_gr_GR_cog.Mode4
-meVE.AposGlory.melody  = ""
+meVE.AposGlory.melody = ""
 meVE.AposGlory.text = "Δεῦτε τῶν πιστῶν τὸ σύστημα, πνευματικὴν χορείαν ἐπικροτήσωμεν, καὶ τὸν ἀθλοφόρον Χριστοῦ τοῦ Θεοῦ, ἐν ὕμνοις τιμήσωμεν, Χριστοφόρον τὸν ἔνδοξον. Σήμερον γὰρ ὡς ἑωσφόρος ἀνέτειλε, καὶ καταφωτίζει τὰς διανοίας τῶν πιστῶν, τῶν ἐν πίστει καὶ πόθῳ, ἐπιτελούντων τὴν μνήμην αὐτοῦ τὴν σεβάσμιον."
 
 meVE.Apolytikion1.mode = misc_gr_GR_cog.Mode2
@@ -227,7 +227,7 @@ meMA.Kontakion1.text = "Τῆς προφητείας τὸ χάρισμα δε
 
 meMA.Oikos1.text = "Ὅλος ὑπάρχων νενεκρωμένος καὶ ἀκάθαρτα χείλη κεκτημένος Χριστέ, πῶς οἴσω σοι αἶνον ἐπάξιον. Ὄντως γινώσκων τὴν σὴν εὐσπλαγχνίαν, ὅτι σῴζει τοὺς πίστει σοι προσιόντας, ὥσπερ ποτὲ καὶ ἡ χήρα ἐκείνη τὰ δύω λεπτά, προσφέρω λόγους χειλέων ῥυπαρῶν, καὶ προσπίπτω κραυγάζων σοι· Τὸν νοῦν μου φώτισον Δέσποτα, ἵνα λέγω μετὰ τοῦ Προφήτου σου· Ἰδοὺ ἡ Παρθένος ἐν γαστρὶ λήψεται."
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C11.ode = misc_gr_GR_cog.Ode7
 meMA.Ode7C11.mode = misc_gr_GR_cog.Mode4
@@ -334,10 +334,10 @@ meMA.LaudsSundayVerse1.text = ""
 meMA.LaudsSundayVerse2.text = ""
 
 meLI.SeasonalKontakion.mode = misc_gr_GR_cog.Mode2
-meLI.SeasonalKontakion.melody  = ""
-meLI.SeasonalKontakion.text  = ""
+meLI.SeasonalKontakion.melody = ""
+meLI.SeasonalKontakion.text = ""
 
-meLI.Alleluia.mode  = ""
+meLI.Alleluia.mode = ""
 
 meLI.AlleluiaVerse1.text = ""
 

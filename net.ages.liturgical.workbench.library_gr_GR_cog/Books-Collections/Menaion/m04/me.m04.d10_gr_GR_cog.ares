@@ -1,15 +1,15 @@
 A_Resource_Whose_Name = me.m04.d10_gr_GR_cog
 
 meDate.text = "Τῌ Ιʹ ΑΠΡΙΛΙΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "Μνήμη τῶν Ἁγίων Μαρτύρων Τερεντίου, Πομπηίου, Μαξίμου, Μακαρίου, Ἀφρικανοῦ, καὶ τῶν σὺν αὐτοῖς καὶ τοῦ ἁγίου ἐνδόξου Ἱερομάρτυρος Γρηγορίου τοῦ Εʹ, Ἀρχιεπισκόπου Κωνσταντινουπόεως." //full title of day
+meCommemoration.text = "Μνήμη τῶν Ἁγίων Μαρτύρων Τερεντίου, Πομπηίου, Μαξίμου, Μακαρίου, Ἀφρικανοῦ, καὶ τῶν σὺν αὐτοῖς· καὶ τοῦ Ἁγίου Ἐνδόξου Ἱερομάρτυρος Γρηγορίου τοῦ Εʹ, Ἀρχιεπισκόπου Κωνσταντινουπόεως." // full title of day
 meShortCommemoration1.text = ""
-meInsert1 = "καὶ τῶν Ἁγίων Μαρτύρων Τερεντίου, Πομπηίου, Μαξίμου, Μακαρίου, Ἀφρικανοῦ, καὶ τῶν σὺν αὐτοῖς καὶ τοῦ ἁγίου ἐνδόξου Ἱερομάρτυρος Γρηγορίου τοῦ Εʹ, Ἀρχιεπισκόπου Κωνσταντινουπόεως, " //for use in petitions and dismissal
-meInsert2 = "ὧν καὶ τὴν μνήμην ἐπιτελοῦμεν· " //for use in petitions and dismissal
+meInsert1 = "καὶ τῶν Ἁγίων Μαρτύρων Τερεντίου, Πομπηίου, Μαξίμου, Μακαρίου, Ἀφρικανοῦ, καὶ τῶν σὺν αὐτοῖς καὶ τοῦ ἁγίου ἐνδόξου Ἱερομάρτυρος Γρηγορίου τοῦ Εʹ, Ἀρχιεπισκόπου Κωνσταντινουπόεως, " // for use in petitions and dismissal
+meInsert2 = "ὧν καὶ τὴν μνήμην ἐπιτελοῦμεν· " // for use in petitions and dismissal
 meNote.text = ""
-meLE.commemoration1 = "Μνήμη τῶν Ἁγίων Μαρτύρων Τερεντίου, Πομπηίου, Μαξίμου, Μακαρίου, Ἀφρικανοῦ, καὶ τῶν σὺν αὐτοῖς καὶ τοῦ ἁγίου ἐνδόξου Ἱερομάρτυρος Γρηγορίου τοῦ Εʹ, Ἀρχιεπισκόπου Κωνσταντινουπόεως."
+meLE.commemoration1 = "Μνήμη τοῦ Ἁγίου Ἱερομάρτυρος Γρηγορίου τοῦ Ε´, Πατριάρχου Κωνσταντινουπόλεως."
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -198,7 +198,7 @@ meMA.Kontakion1.mode = misc_gr_GR_cog.Mode4
 meMA.Kontakion1.melody = he.a.m4_gr_GR_cog.EpefanisSimeron.name
 meMA.Kontakion1.text = "Ὡς Χριστοῦ ἀκόλουθοι οἱ Ἀθλοφόροι, ἐν σταδίῳ ἔλεγον, ἀγωνιζόμενοι στεῤῥῶς· Μὴ δειλιάσωμεν σύναθλοι· τρυφὴ γὰρ μένει ἡμᾶς ἀδιάδοχος."
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C1H.ode = misc_gr_GR_cog.Ode7
 meMA.Ode7C1H.mode = misc_gr_GR_cog.Mode8
@@ -291,10 +291,10 @@ meMA.Ode9C1T.melody = he.h.m8_gr_GR_cog.EfrixePasaAkoi.name
 meMA.Ode9C1T.text = "Φώτισον πύλη τοῦ φωτός, τὴν ψυχήν μου ταῖς δειναῖς ἀμαυρότησι, τῶν παραβάσεων, ἐσκοτισμένην καὶ κινδυνεύουσαν, καὶ τῆς ἡμέρας κοινωνόν, τῆς θείας ἀνάδειξον, ὅπως δοξάζω σε, προστασία τῶν Πιστῶν ἀκαταίσχυντε."
 
 meLI.SeasonalKontakion.mode = misc_gr_GR_cog.Mode2
-meLI.SeasonalKontakion.melody  = ""
-meLI.SeasonalKontakion.text  = ""
+meLI.SeasonalKontakion.melody = ""
+meLI.SeasonalKontakion.text = ""
 
-meLI.Alleluia.mode  = ""
+meLI.Alleluia.mode = ""
 
 meLI.AlleluiaVerse1.text = ""
 

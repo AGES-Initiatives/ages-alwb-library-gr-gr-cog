@@ -1,15 +1,15 @@
 A_Resource_Whose_Name = me.m03.d30_gr_GR_cog
 
 meDate.text = "Τῌ Λʹ ΜΑΡΤΙΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "Μνήιμη τοῦ Ὁσίου Πατρὸς ἡμῶν Ἰωάννου τοῦ Συγγραφέως τῆς Κλίμακος" //full title of day
+meCommemoration.text = "Μνήμη τοῦ Ὁσίου Πατρὸς ἡμῶν Ἰωάννου τοῦ Συγγραφέως τῆς Κλίμακος" // full title of day
 meShortCommemoration1.text = ""
-meInsert1 = "καὶ τοῦ Ὁσίου Πατρὸς ἡμῶν Ἰωάννου τοῦ Συγγραφέως τῆς Κλίμακος, " //for use in petitions and dismissal
-meInsert2 = "οὗ καὶ τὴν μνήμην ἐπιτελοῦμεν· " //for use in petitions and dismissal
+meInsert1 = "καὶ τοῦ Ὁσίου Πατρὸς ἡμῶν Ἰωάννου τοῦ Συγγραφέως τῆς Κλίμακος, " // for use in petitions and dismissal
+meInsert2 = "οὗ καὶ τὴν μνήμην ἐπιτελοῦμεν· " // for use in petitions and dismissal
 meNote.text = ""
-meLE.commemoration1 = "Μνήιμη τοῦ Ὁσίου Πατρὸς ἡμῶν Ἰωάννου τοῦ Συγγραφέως τῆς Κλίμακος"
+meLE.commemoration1 = "Μνήμη τοῦ Ὁσίου Πατρὸς ἡμῶν Ἰωάννου τοῦ Συγγραφέως τῆς Κλίμακος"
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -188,7 +188,7 @@ meMA.Ode6C1T.mode = misc_gr_GR_cog.Mode1
 meMA.Ode6C1T.melody = he.h.m1_gr_GR_cog.TonProfitinIonan.name
 meMA.Ode6C1T.text = "Ναυτιῶσι σάλῳ νῦν , ἀπιστίας τῆς πικρᾶς, καθορῶντες εὐλαβῶς, Ὀρθοδόξων τοὺς χορούς, οἱ ἄνομοι, ἀσπαζομένους, τὴν σὴν Παρθένε μορφήν."
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C1H.ode = misc_gr_GR_cog.Ode7
 meMA.Ode7C1H.mode = misc_gr_GR_cog.Mode1
@@ -271,10 +271,10 @@ meMA.Ode9C1T.melody = he.h.m1_gr_GR_cog.TinZoodochonPigin.name
 meMA.Ode9C1T.text = "Σοῦ τῆς λοχείας Ἁγνὴ τὸ παράδοξον, καὶ ἐπὶ τοίχων γραφαῖς ἀσπαζόμεθα, οὗ τὸ ἔργον σέβομεν, καὶ τὸ εἶδος τιμῶμεν, τὸ ἀληθὲς ἐξ ἀμφοῖν ὁμολογοῦντες, ὀρθοδοξίας εἰκότως πληρούμεθα."
 
 meLI.SeasonalKontakion.mode = misc_gr_GR_cog.Mode2
-meLI.SeasonalKontakion.melody  = ""
+meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = ho.s07_gr_GR_cog.hoTY.Key0408.text
 
-meLI.Alleluia.mode  = ""
+meLI.Alleluia.mode = ""
 
 meLI.AlleluiaVerse1.text = ""
 

@@ -1,15 +1,15 @@
 A_Resource_Whose_Name = me.m05.d20_gr_GR_cog
 
 meDate.text = "Τῌ Κʹ ΜΑΪΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "Μνήμη τοῦ Ἁγίου Μάρτυρος Θαλλελαίου." //full title of day
+meCommemoration.text = "Μνήμη τοῦ Ἁγίου Μάρτυρος Θαλλελαίου." // full title of day
 meShortCommemoration1.text = ""
-meInsert1 = "καὶ τοῦ Ἁγίου Μάρτυρος Θαλλελαίου, " //for use in petitions and dismissal
-meInsert2 = "οὗ καὶ τὴν μνήμην ἐπιτελοῦμεν· " //for use in petitions and dismissal
+meInsert1 = "καὶ τοῦ Ἁγίου Μάρτυρος Θαλλελαίου, " // for use in petitions and dismissal
+meInsert2 = "οὗ καὶ τὴν μνήμην ἐπιτελοῦμεν· " // for use in petitions and dismissal
 meNote.text = ""
-meLE.commemoration1 = "Μνήμη τοῦ Ἁγίου Μάρτυρος Θαλλελαίου."
+meLE.commemoration1 = "Τοῦ Ἁγίου Μάρτυρος Θαλλελαίου."
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -162,7 +162,7 @@ meMA.Kontakion1.mode = misc_gr_GR_cog.Mode3
 meMA.Kontakion1.melody = he.a.m3_gr_GR_cog.IParthenosSimeron.name
 meMA.Kontakion1.text = "Τῶν Μαρτύρων σύναθλος, ἀναδειχθεὶς καὶ ὁπλίτης, στρατιώτης ἄριστος, τοῦ Βασιλέως τῆς δόξης, γέγονας διὰ βασάνων καὶ τιμωρίας, ἔπαρσιν εἰδωλολατρῶν καταπατήσας· διὰ τοῦτο τὴν σεπτήν σου, ὑμνοῦμεν μνήμην σοφὲ Θαλλέλαιε."
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C11.ode = misc_gr_GR_cog.Ode7
 meMA.Ode7C11.mode = misc_gr_GR_cog.Mode4
@@ -239,10 +239,10 @@ meMA.LaudsSundayVerse1.text = ""
 meMA.LaudsSundayVerse2.text = ""
 
 meLI.SeasonalKontakion.mode = misc_gr_GR_cog.Mode2
-meLI.SeasonalKontakion.melody  = ""
+meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = ho.s07_gr_GR_cog.hoTY.Key0408.text
 
-meLI.Alleluia.mode  = ""
+meLI.Alleluia.mode = ""
 
 meLI.AlleluiaVerse1.text = ""
 

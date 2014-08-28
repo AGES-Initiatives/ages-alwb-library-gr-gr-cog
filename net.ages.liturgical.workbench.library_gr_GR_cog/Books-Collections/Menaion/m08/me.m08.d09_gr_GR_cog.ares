@@ -1,15 +1,15 @@
 A_Resource_Whose_Name = me.m08.d09_gr_GR_cog
 
 meDate.text = "Τῌ Θʹ ΑΥΓΟΥΣΤΟΥ"
-meCommemoration.text = "Μνήμη τοῦ Ἁγίου Ἀποστόλου Ματθίου." //full title of day
+meCommemoration.text = "Μνήμη τοῦ Ἁγίου Ἀποστόλου Ματθία" // full title of day
 meShortCommemoration1.text = ""
-meInsert1 = "καὶ τοῦ Ἁγίου Ἀποστόλου Ματθίου, " //for use in petitions and dismissal
-meInsert2 = "οὗ καὶ τὴν μνήμην ἐπιτελοῦμεν· " //for use in petitions and dismissal
+meInsert1 = "καὶ τοῦ Ἁγίου Ἀποστόλου Ματθίου, " // for use in petitions and dismissal
+meInsert2 = "οὗ καὶ τὴν μνήμην ἐπιτελοῦμεν· " // for use in petitions and dismissal
 meNote.text = ""
-meLE.commemoration1 = "Μνήμη τοῦ Ἁγίου Ἀποστόλου Ματθίου."
+meLE.commemoration1 = "Τοῦ Ἁγίου Ἀποστόλου Ματθία."
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -40,7 +40,7 @@ meVE.Stichera06.melody = he.a.m1_gr_GR_cog.PaneffimoiMartyres.name
 meVE.Stichera06.text = "Ματθία θεόπνευστε τροχῷ, τῷ τοῦ κόσμου ἔφαναν, αἱ ἀστραπαὶ τῶν δογμάτων σου, πάντας φωτίζουσαι, πάντας ὁδηγοῦσαι, θείαν πρὸς ἐπίγνωσιν, δοχεῖα τοῦ φωτός ἐργαζόμεναι, τοὺς πρὶν καθεύδοντας, ἐν νυκτὶ τῆς ματαιότητος, καὶ ἐν σκότει, πάσης ἀθεότητος."
 
 meVE.SticGlory.mode = misc_gr_GR_cog.Mode2
-meVE.SticGlory.melody  = ""
+meVE.SticGlory.melody = ""
 meVE.SticGlory.text = me.m08.d06_gr_GR_cog.meVE.Lity1.text
 
 meVE.Aposticha1.mode = misc_gr_GR_cog.Mode6
@@ -60,7 +60,7 @@ meVE.Aposticha3.melody = he.a.m6_gr_GR_cog.AiAngelikai.mode
 meVE.Aposticha3.text = "Νῦν δουλοπρεπῶς, συλλαλοῦντες τῷ Δεσπότῃ, βλέπων ὁ Κηφᾶς, ἐν Θαβὼρ τοὺς δύο ἄνδρας· Καλὸν ἐστιν ἐβόα, ὧδε εἶναι· ποιήσωμεν, τρεῖς σκηνὰς εἰ θέλεις ἀνὰ μέρος, σοὶ Χριστὲ Μωσεῖ τε καὶ Ἠλίᾳ, τοῖς οἰκέταις σου, ὅπερ ἐλάλει μὴ εἰδώς· θάμβει γὰρ συνείχετο."
 
 meVE.AposGlory.mode = misc_gr_GR_cog.Mode2
-meVE.AposGlory.melody  = ""
+meVE.AposGlory.melody = ""
 meVE.AposGlory.text = me.m08.d06_gr_GR_cog.meVE.Lity2.text
 
 meVE.Apolytikion1.poet = poets_gr_GR_cog.Gerasimou
@@ -191,7 +191,7 @@ meMA.Ode6H.mode = misc_gr_GR_cog.Mode8
 meMA.Ode6H.melody = misc_gr_GR_cog.Heirmos
 meMA.Ode6H.text = he.h.m8_gr_GR_cog.IlasthitiMoiSotir.text
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C11.ode = misc_gr_GR_cog.Ode7
 meMA.Ode7C11.mode = misc_gr_GR_cog.Mode8
@@ -289,7 +289,7 @@ meMA.AposGlory.text = me.m08.d07_gr_GR_cog.meVE.Aposticha2.text
 meLI.Antiphon2.text = me.m08.d06_gr_GR_cog.meLI.Antiphon2.text
 
 meLI.SeasonalKontakion.mode = me.m08.d06_gr_GR_cog.meMA.Kontakion1.mode
-meLI.SeasonalKontakion.melody  = ""
+meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = me.m08.d06_gr_GR_cog.meMA.Kontakion1.text
 
 meMegalynarion.text = ""

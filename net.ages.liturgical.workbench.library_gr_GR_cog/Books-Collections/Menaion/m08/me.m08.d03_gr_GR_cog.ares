@@ -1,15 +1,15 @@
 A_Resource_Whose_Name = me.m08.d03_gr_GR_cog
 
 meDate.text = "Τῌ Γʹ ΑΥΓΟΥΣΤΟΥ"
-meCommemoration.text = "Μνήμη τῶν Ὁσίων Πατέρων ἡμῶν Ἰσαακίου, Δαλμάτου καὶ Φαύστου." //full title of day
+meCommemoration.text = "Μνήμη τῶν Ὁσίων Πατέρων ἡμῶν Ἰσαακίου, Δαλμάτου καὶ Φαύστου." // full title of day
 meShortCommemoration1.text = ""
-meInsert1 = "καὶ τῶν Ὁσίων Πατέρων ἡμῶν Ἰσαακίου, Δαλμάτου καὶ Φαύστου, " //for use in petitions and dismissal
-meInsert2 = "ὧν καὶ τὴν μνήμην ἐπιτελοῦμεν· " //for use in petitions and dismissal
+meInsert1 = "καὶ τῶν Ὁσίων Πατέρων ἡμῶν Ἰσαακίου, Δαλμάτου καὶ Φαύστου, " // for use in petitions and dismissal
+meInsert2 = "ὧν καὶ τὴν μνήμην ἐπιτελοῦμεν· " // for use in petitions and dismissal
 meNote.text = ""
-meLE.commemoration1 = "Μνήμη τῶν Ὁσίων Πατέρων ἡμῶν Ἰσαακίου, Δαλμάτου καὶ Φαύστου."
+meLE.commemoration1 = "Τῶν Ὁσίων Πατέρων ἡμῶν Ἰσαακίου, Δαλμάτου καὶ Φαύστου."
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -174,7 +174,7 @@ meMA.Kontakion1.text = "Τοὺς ἐν ἀσκήσει ἐκλάμψαντα�
 
 meMA.Oikos1.text = "Τὶς ἱκανὸς ἐξειπεῖν ἀνθρώπων, τῶν Ὁσίων Πατέρων τὰς φαιδρὰς ἀρετάς, καὶ τὰ σκάμματα, ζῆλον τὸν θεῖον, τὴν παρρησίαν, τὸ καθαρὸν τοῦ βίου, τὰς θείας πράξεις, ἃς ἐπὶ γῆς ἐξετέλεσαν οὗτοι ὡς Ἄγγελοι; ἀλλ' ὅμως σὺν τούτοις τιμῶμεν τὴν Τριάδα πιστῶς· αὐτοὶ γὰρ ταύτην ἀεὶ φαιδρῶς σὺν Ἀγγέλων χοροῖς λιτανεύουσιν. Αὐτοὶ γὰρ βοῶσιν ὑπὲρ πάντων ἡμῶν."
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C11.ode = misc_gr_GR_cog.Ode7
 meMA.Ode7C11.mode = misc_gr_GR_cog.Mode8
@@ -264,7 +264,7 @@ meMA.ExapStavrotheotokion.melody = he.a.m2_gr_GR_cog.GynaikesAkoutisthite.name
 meMA.ExapStavrotheotokion.text = "Παρισταμένη Πάναγνε, ἐν τῷ Σταυρῷ καὶ βλέπουσα, τὸν σὸν Υἱὸν ἐπὶ ξύλου, ταθέντα ἄπνουν ἐθρήνεις, καὶ μητρικῶς ὠλόλυζες, δακρύουσα καὶ λέγουσα· τὶ τοῦτο τὸ παράδοξον, ὅτι ὁ Κτίστης τοῦ κόσμου, Σταυρῷ ταθῆναι ἠνέσχου;"
 
 meLI.SeasonalKontakion.mode = me.m08.d06_gr_GR_cog.meMA.Kontakion1.mode
-meLI.SeasonalKontakion.melody  = ""
+meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = me.m08.d06_gr_GR_cog.meMA.Kontakion1.text
 
 meMegalynarion.text = ""

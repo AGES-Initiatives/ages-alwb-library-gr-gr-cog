@@ -1,15 +1,15 @@
 A_Resource_Whose_Name = me.m08.d27_gr_GR_cog
 
 meDate.text = "Τῌ ΚΖʹ ΑΥΓΟΥΣΤΟΥ"
-meCommemoration.text = "Μνήμη τοῦ Ὁσίου Πατρὸς ἡμῶν Ποιμένος." //full title of day
+meCommemoration.text = "Μνήμη τοῦ Ὁσίου Πατρὸς ἡμῶν Ποιμένος." // full title of day
 meShortCommemoration1.text = ""
-meInsert1 = "καὶ τοῦ Ὁσίου Πατρὸς ἡμῶν Ποιμένος, " //for use in petitions and dismissal
-meInsert2 = "οὗ καὶ τὴν μνήμην ἐπιτελοῦμεν· " //for use in petitions and dismissal
+meInsert1 = "καὶ τοῦ Ὁσίου Πατρὸς ἡμῶν Ποιμένος, " // for use in petitions and dismissal
+meInsert2 = "οὗ καὶ τὴν μνήμην ἐπιτελοῦμεν· " // for use in petitions and dismissal
 meNote.text = ""
-meLE.commemoration1 = "Μνήμη τοῦ Ὁσίου Πατρὸς ἡμῶν Ποιμένος."
+meLE.commemoration1 = "Τοῦ Ὁσίου Πατρὸς ἡμῶν Ποιμένος."
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -167,7 +167,7 @@ meMA.Kontakion1.mode = misc_gr_GR_cog.Mode4
 meMA.Kontakion1.melody = he.a.m4_gr_GR_cog.EpefanisSimeron.name
 meMA.Kontakion1.text = "Τῶν λαμπρῶν ἀγώνων σου, Ὅσιε Πάτερ, ἡ ἁγία σήμερον, ἐπέστη μνήμη τὰς ψυχάς, τῶν εὐσεβῶν κατευφραίνουσα, Ποιμὴν θεόφρον, Πατὴρ ἡμῶν Ὅσιε."
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C11.ode = misc_gr_GR_cog.Ode7
 meMA.Ode7C11.mode = misc_gr_GR_cog.Mode8
@@ -247,10 +247,10 @@ meMA.ExapTheotokion.mode = misc_gr_GR_cog.Mode2
 meMA.ExapTheotokion.melody = he.a.m2_gr_GR_cog.ToisMathitaisSynelthomen.name
 meMA.ExapTheotokion.text = "Σὲ ὁ πατὴρ ᾑρέτισεν, ὡς πολύευκτον κρίνον, Θεοκυῆτορ πάναγνε, διὰ Πνεύματος θείου, πρὸς τὴν Υἱοῦ κατοικίαν, ἀναμέσον εὑρών σε, τῶν ἀκανθῶν πανάμωμε, ἀποστίλβουσαν κάλλει, παρθενικῷ· διὸ δὴ Θεόνυμφε σὲ ὑμνοῦμεν, καὶ πόθῳ μακαρίζομεν, διὰ σοῦ οἱ σωθέντες."
 
-meMA.LaudsSundayVerse1.text = "" //for media
+meMA.LaudsSundayVerse1.text = "" // for media
 
 meLI.SeasonalKontakion.mode = me.m09.d08_gr_GR_cog.meMA.Kontakion1.mode
-meLI.SeasonalKontakion.melody  = ""
+meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = me.m09.d08_gr_GR_cog.meMA.Kontakion1.text
 
 meMegalynarion.text = ""

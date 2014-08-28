@@ -1,16 +1,16 @@
 A_Resource_Whose_Name = me.m07.d26_gr_GR_cog
 
 meDate.text = "Τῌ ΚϚʹ ΙΟΥΛΙΟΥ"
-meCommemoration.text = "Μνήμη τοῦ Ἁγίου Ἱερομάρτυρος Ἑρμολάου, καὶ τῶν σὺν αὐτῷ Ἑρμίππου καὶ Ἑρμοκράτους." //full title of day
-meCommemoration2.text = "Μνήμη τῆς Ἁγίας Ὁσιομάρτυρος Παρασκευῆς." //full title of day
+meCommemoration.text = "Μνήμη τοῦ Ἁγίου Ἱερομάρτυρος Ἑρμολάου, καὶ τῶν σὺν αὐτῷ Ἑρμίππου καὶ Ἑρμοκράτους." // full title of day
+meCommemoration2.text = "Μνήμη τῆς Ἁγίας Ὁσιομάρτυρος Παρασκευῆς." // full title of day
 meShortCommemoration1.text = ""
-meInsert1 = "καὶ τοῦ Ἁγίου Ἱερομάρτυρος Ἑρμολάου, καὶ τῶν σὺν αὐτῷ Ἑρμίππου καὶ Ἑρμοκράτους, καὶ τῆς Ἁγίας Ὁσιομάρτυρος Παρασκευῆς, " //for use in petitions and dismissal
-meInsert2 = "ὧν καὶ τὴν μνήμην ἐπιτελοῦμεν· " //for use in petitions and dismissal
+meInsert1 = "καὶ τοῦ Ἁγίου Ἱερομάρτυρος Ἑρμολάου, καὶ τῶν σὺν αὐτῷ Ἑρμίππου καὶ Ἑρμοκράτους, καὶ τῆς Ἁγίας Ὁσιομάρτυρος Παρασκευῆς, " // for use in petitions and dismissal
+meInsert2 = "ὧν καὶ τὴν μνήμην ἐπιτελοῦμεν· " // for use in petitions and dismissal
 meNote.text = ""
-meLE.commemoration1 = ""
-meLE.commemoration2 = ""
+meLE.commemoration1 = "Τοῦ Ἁγίου Ἱερομάρτυρος Ἑρμολάου καὶ τῶν σὺν αὐτῷ Ἑρμίππου καὶ Ἑρμοκράτους."
+meLE.commemoration2 = "Τῆς Ἁγίας Ὁσιομάρτυρος Παρασκευῆς."
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -40,11 +40,11 @@ meVE.Stichera06.melody = he.a.m8_gr_GR_cog.OTouParadoxou.name
 meVE.Stichera06.text = "Ὁσιομάρτυς πανένδοξε, τὶς ἐξισχύσει ειπεῖν, τῶν σῶν πόνων τὰ ἔπαθλα, καὶ τοῦ μαρτυρίου σου, τὰ ἀνδρεῖα τεράστια, ὑπομονήν τε καὶ τὴν πραότητα, ἣν ἐνεδείξω Σεμνὴ ὡς ἄσαρκος; ὅθεν συνόμιλος, τῶν Ἀγγέλων γέγονας, Παρασκευή, νύμφη τοῦ Παντάνακτος, σκεῦος τοῦ Πνεύματος."
 
 meVE.SticGlory.mode = misc_gr_GR_cog.Mode6
-meVE.SticGlory.melody  = ""
+meVE.SticGlory.melody = ""
 meVE.SticGlory.text = "Παρθενομάρτυς ἀθληφόρε, Παρασκευὴ πανένδοξε, τοὺς τὴν ἄθλησιν τὴν σὴν ἑορτάζοντας ἀξίως, αἴτησαι ῥυσθῆναι πειρασμῶν καὶ θλίψεων, ταῖς πρὸς Θεὸν πρεσβείαις σου, καὶ τῆς μελλούσης κρίσεως, Μάρτυς παναοίδιμε."
 
 meVE.SticTheotokion.mode = misc_gr_GR_cog.Mode6
-meVE.SticTheotokion.melody  = ""
+meVE.SticTheotokion.melody = ""
 meVE.SticTheotokion.text = oc.m6.d1_gr_GR_cog.ocVE.SticTheotokion.text
 
 meVE.Aposticha1.mode = misc_gr_GR_cog.Mode4
@@ -64,20 +64,20 @@ meVE.Aposticha3.melody = he.a.m4_gr_GR_cog.OsGennaionEnMartysi.name
 meVE.Aposticha3.text = "Καθαρότητα σώματος, καὶ ψυχῆς τὴν λαμπρότητα, κτησαμένη πάντοτε ὤφθης ἄμωμος· σὺ γὰρ νυμφίον ποθήσασα, κατ' ἴχνος ἐβάδισας, νοητοῦ μύρου Σεμνή, Παρασκευὴ ἀοίδιμε, καὶ νῦν πρέσβευε, τὸν Σωτῆρα τῶν ὅλων λύσιν δοῦναι, ὀφλημάτων τοῖς ἐν πίστει, ἐπιτελοῦσι τὴν μνήμην σου."
 
 meVE.AposGlory.mode = misc_gr_GR_cog.Mode6
-meVE.AposGlory.melody  = ""
+meVE.AposGlory.melody = ""
 meVE.AposGlory.text = "Δεῦτε πάντα τῆς γῆς τὰ πέρατα, πνευματικὴν χορείαν ἐπικροτήσωμεν, καὶ τὴν Χριστοῦ Παρθενομάρτυρα εὐφημήσωμεν λέγοντες· Χαίροις, Παρασκευὴ Ὁσία καὶ θεοτίμητε· Χαίροις, ἡ τὸ μαρτύριον καλῶς ὑποδεξαμένη· Χαίροις τῶν μαρτύρων ἰσοστάσιε, καὶ τῶν Ὁσίων ὁμόσκηνε, μεθ' ὧν ἱκέτευε, τοῦ σωθῆναι τὰς ψυχὰς ᾑμων."
 
 meVE.AposTheotokion.mode = misc_gr_GR_cog.Mode6
 meVE.AposTheotokion.melody = he.o_gr_GR_cog.TheotokeSyEi.name
 meVE.AposTheotokion.text = he.o_gr_GR_cog.TheotokeSyEiAthloforon.text
 
-meVE.Apolytikion1.poet =poets_gr_GR_cog.Gerasimou
+meVE.Apolytikion1.poet = poets_gr_GR_cog.Gerasimou
 meVE.Apolytikion1.mode = misc_gr_GR_cog.Mode3
 meVE.Apolytikion1.melody = he.a.m3_gr_GR_cog.TinOraiotita.name
 meVE.Apolytikion1.text = "Ἱερατεύσαντες γνησίως Ἅγιοι, τῷ πρυτανεύσαντι, ὑμῖν τὰ κρείττονα, τοῦ μαρτυρίου τὴν ὁδόν, ἠνύσατε γηθοσύνως, ἱερὲ Ἑρμόλαε, σὺν Ἑρμίππῳ Ἑρμόκρατες, τρίστυλον ἑδραίωμα, Ἐκκλησίας γενόμενοι· διὸ ἐκδυσωπεῖτε ἀπαύστως σῴζεσθαι πάντας πάσης βλάβης."
 
 meVE.Apolytikion2.mode = misc_gr_GR_cog.Mode1
-meVE.Apolytikion2.melody  = ""
+meVE.Apolytikion2.melody = ""
 meVE.Apolytikion2.text = "Τὴν σπουδήν σου τῇ κλήσει κατάλληλον, ἐργασαμένη φερώνυμε, τὴν ὁμώνυμόν σου πίστιν, εἰς κατοικίαν κεκλήρωσαι, Παρασκευὴ ἀθληφόρε· ὅθεν προχέεις ἰάματα, καὶ πρεσβεύεις ὑπὲρ τῶν ψυχῶν ἡμῶν."
 
 meMA.Kathisma11.mode = misc_gr_GR_cog.Mode4
@@ -333,7 +333,7 @@ meMA.Kontakion1.text = "Τὸν ναόν σου πάνσεμνε, ὡς ἰα�
 
 meMA.Oikos1.text = "Ἡ τοῦ νυμφίου σε φωνὴ καλέσασα ὡς νύμφην, στεφάνῳ ἀφθαρσίας ἐκόσμησε, θεόφρον Παρασκευὴ πανευκλεής, καὶ μετὰ ἀθλοφόρων καὶ μαρτύρων τῶν σεπτῶν ἀξίως συνηρίθμησε, μεθ' ὧν εὐφραινομένη, μέμνησο τῶν ἐκτελούντων τὴν ἁγίαν ἑορτήν σου, καὶ συνελθόντων ἔνδον τοῦ ναοῦ σου· ἐν αὐτῷ γὰρ νυνὶ παρεστῶτες ἀπὸ ψυχῆς προσφέρομέν σοι τοὺς ὕμνους, Ὁσιομάρτυς Παρασκευὴ ἀοίδιμε."
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C11.ode = misc_gr_GR_cog.Ode7
 meMA.Ode7C11.mode = misc_gr_GR_cog.Mode8
@@ -501,17 +501,17 @@ meMA.Lauds3.melody = he.a.m1_gr_GR_cog.TonOuranionTagmaton.name
 meMA.Lauds3.text = "Ἀσκήσει πρώην τὸ σῶμα, τήξασα Ἔνδοξε, τὸ δεύτερον ἀθλήσει, στομωθεῖσα τὴν φρένα, τοῖς πᾶσιν ἀνεδείχθης, Μάρτυς Χριστοῦ, οὐρανοχάλκευτον φάσγανον, ὥσπερ χρυσὸς ἐν χωνείᾳ δοκιμασθέν, ταῖς αἰκίαις καλλιπάρθενε."
 
 meMA.LaudsGlory.mode = misc_gr_GR_cog.Mode2
-meMA.LaudsGlory.melody  = ""
+meMA.LaudsGlory.melody = ""
 meMA.LaudsGlory.text = "Ἐν πόλει τοῦ Θεοῦ ἡμῶν, ἐν ὄρει ἁγίῳ αὐτοῦ, ἐκεῖ κατεσκήνωσεν ἡ Ἁγία, τὴν λαμπάδα ἄσβεστον τηρήσασα. Ἀκούσωμεν τῆς παρθένου ἐγκώμιον· Ὦ Παρθενία, ναός Θεοῦ! ὦ Παρθενία, Μαρτύρων δόξαι ὦ Παρθενία, Ἀγγέλων συμμέτοχε."
 
 meMA.LaudsTheotokion.mode = misc_gr_GR_cog.Mode2
-meMA.LaudsTheotokion.melody  = ""
+meMA.LaudsTheotokion.melody = ""
 meMA.LaudsTheotokion.text = ho.s23_gr_GR_cog.hoCA.Troparion7.text
 
-meMA.LaudsSundayVerse1.text = ""  //for Media
+meMA.LaudsSundayVerse1.text = "" // for Media
 
 meLI.SeasonalKontakion.mode = misc_gr_GR_cog.Mode2
-meLI.SeasonalKontakion.melody  = ""
+meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = ho.s07_gr_GR_cog.hoTY.Key0408.text
 
 meLI.CommunionHymn.text = da.d3_gr_GR_cog.daLI.CommunionHymn.text

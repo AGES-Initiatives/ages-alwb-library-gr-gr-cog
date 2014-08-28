@@ -1,16 +1,16 @@
 A_Resource_Whose_Name = me.m06.d14_gr_GR_cog
 
-meDate.text = "Τῌ ΙΔʹ ΙΟΥΝΙΟΥ" 
-meCommemoration.text = "Μνήμη τοῦ Ἁγίου Προφήτου Ἐλισαίου, καὶ τοῦ ἐν Ἁγίοις Πατρὸς ἡμῶν Μεθοδίου, Ἀρχιεπισκόπου Κωνσταντινουπόλεως τοῦ Ὁμολογητοῦ." //full title of day
-meCommemoration2.text = "Μνήμη τοῦ ἐν Ἁγίοις Πατρὸς ἡμῶν Μεθοδίου, Ἀρχιεπισκόπου Κωνσταντινουπόλεως τοῦ Ὁμολογητοῦ." //full title of day
+meDate.text = "Τῌ ΙΔʹ ΙΟΥΝΙΟΥ"
+meCommemoration.text = "Μνήμη τοῦ Ἁγίου Προφήτου Ἐλισαίου." // full title of day
+meCommemoration2.text = "Μνήμη τοῦ ἐν Ἁγίοις Πατρὸς ἡμῶν Μεθοδίου, Ἀρχιεπισκόπου Κωνσταντινουπόλεως τοῦ Ὁμολογητοῦ." // full title of day
 meShortCommemoration1.text = ""
-meInsert1 = "καὶ τοῦ Ἁγίου Προφήτου Ἐλισαίου, καὶ τοῦ ἐν Ἁγίοις Πατρὸς ἡμῶν Μεθοδίου, Ἀρχιεπισκόπου Κωνσταντινουπόλεως τοῦ Ὁμολογητοῦ, " //for use in petitions and dismissal
-meInsert2 = "ὧν καὶ τὴν μνήμην ἐπιτελοῦμεν· " //for use in petitions and dismissal
+meInsert1 = "καὶ τοῦ Ἁγίου Προφήτου Ἐλισαίου, καὶ τοῦ ἐν Ἁγίοις Πατρὸς ἡμῶν Μεθοδίου, Ἀρχιεπισκόπου Κωνσταντινουπόλεως τοῦ Ὁμολογητοῦ, " // for use in petitions and dismissal
+meInsert2 = "ὧν καὶ τὴν μνήμην ἐπιτελοῦμεν· " // for use in petitions and dismissal
 meNote.text = ""
-meLE.commemoration1 = ""
-meLE.commemoration2 = ""
+meLE.commemoration1 = "Τοῦ Ἁγίου Προφήτου Ἐλισσαίου."
+meLE.commemoration2 = "Τοῦ ἐν Ἁγίοις Πατρὸς ἡμῶν Μεθοδίου, Ἀρχιεπισκόπου Κωνσταντινουπόλεως."
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -41,7 +41,7 @@ meVE.Stichera06.melody = he.a.m4_gr_GR_cog.OsGennaionEnMartysi.name
 meVE.Stichera06.text = "Ἱερέων ἐν τάγμασιν, Ἀσκητῶν ὁμηγύρεσι, καὶ χοροῖς Μαρτύρων σὺ καταλέλεξαι, ὑπὲρ Χριστοῦ μέχρις αἵματος, στεῤῥῶς ἀνθιστάμενος, παρανόμου δικαστοῦ, διελέγχων ἀπόνοιαν, καὶ προστάγματι, ἀσεβοῦς βασιλέως ἐν μνημείῳ, καθειρχθεὶς Πάτερ θεόφρον, διετηρήθης ἀλώβητος."
 
 meVE.SticGlory.mode = misc_gr_GR_cog.Mode6
-meVE.SticGlory.melody  = ""
+meVE.SticGlory.melody = ""
 meVE.SticGlory.text = "Προφῆτα κήρυξ Χριστοῦ, τοῦ θρόνου τῆς μεγαλωσύνης, οὐδέποτε χωρίζῃ, καὶ ἑκάστῳ ἀσθενοῦντι ἀεὶ παρίστασαι, ἐν τοῖς ὑψίστοις λειτουργῶν, τὴν οἰκουμένην εὐλογεῖς, πανταχοῦ δοξαζόμενος. Αἴτησαι ἱλασμὸν ταῖς ψυχαῖς ἡμῶν."
 
 meVE.SticTheotokion.mode = misc_gr_GR_cog.Mode6
@@ -60,11 +60,11 @@ meVE.Aposticha4.melody = misc_gr_GR_cog.Idiomelon
 meVE.Aposticha4.text = "Εὐφροσυνως σήμερον, ἡ Ἐκκλησία τοῦ Θεοῦ στολίζεται, ἀγαλλομένη καὶ κράζουσα· Ἐλαμπρύνθη μου τὸ κάλλος, ὑπὲρ πᾶσαν πόλιν· ἰδοὺ γὰρ τῶν Ἀρχιερέων τὸ μέγα κειμήλιον, ὁ ἔνδοξος Μεθόδιος, τὴν πορείαν πρὸς οὐρανὸν ἐποιήσατο· Δεῦτε οὖν φιλέορτοι, τῶν ὀρθοδόξων τὸ σύστημα, χοροστατήσαντες περὶ τὴν θείαν λάρνακα, ἰαμάτων πλημμύραν λαβόντες παρ' αὐτῆς, ἱκετεύσωμεν αἰτήσασθαι Χριστὸν τὸν Θεόν, τοῦ ῥυσθῆναι τὴν οἰκουμένην, ἀπὸ πάσης αἱρέσεως."
 
 meVE.AposGlory.mode = misc_gr_GR_cog.Mode8
-meVE.AposGlory.melody  = ""
+meVE.AposGlory.melody = ""
 meVE.AposGlory.text = "Τῶν Προφητῶν τοὺς ἀκραίμονας, καὶ παμφαεῖς φωστῆρας τῆς οἰκουμένης, ἐν ὕμνοις τιμήσωμεν πιστοί, Ἠλίαν καὶ Ἐλισαῖον, καὶ Χριστῷ ἐκβοήσωμεν μελῳδικῶς· Εὔσπλαγχνε Κύριε, παράσχου τῷ λαῷ σου, ἱκεσίαις τῶν Προφητῶν σου, ἄφεσιν ἁμαρτιῶν, καὶ τὸ μέγα ἔλεος."
 
 meVE.AposTheotokion.mode = misc_gr_GR_cog.Mode8
-meVE.AposTheotokion.melody  = ""
+meVE.AposTheotokion.melody = ""
 meVE.AposTheotokion.text = "Τὰ οὐράνια ὑμνεῖ σε, κεχαριτωμένη Μῆτερ ἀνύμφευτε, καὶ ἡμεῖς δοξολογοῦμεν, τὴν ἀνεξιχνίαστόν σου γέννησιν, Θεοτόκε πρέσβευε, σωθῆναι τὰς ψυχὰς ἡμῶν."
 
 meVE.AposStavrotheotokion.mode = misc_gr_GR_cog.Mode8
@@ -318,7 +318,7 @@ meMA.Oikos16.text = "Χαῖρε, περῶν ἀβρόχως τὰ ὕδατα
 meMA.Oikos17.text = "Χαῖρε, μαθὼν τὴν ἀπόκρυφον γνῶσιν· χαῖρε, θανὼν καὶ ὡς ζῶν ἐποπτεύων."
 meMA.Oikos18.text = "Χαίροις, Προφῆτα θεσπέσιε."
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C11.ode = misc_gr_GR_cog.Ode7
 meMA.Ode7C11.mode = misc_gr_GR_cog.Mode8
@@ -480,10 +480,10 @@ meMA.AposStavrotheotokion.melody = he.a.m6_gr_GR_cog.TriimerosAnestis.name
 meMA.AposStavrotheotokion.text = "Ὁρῶσά σε σταυρούμενον, Χριστὲ ἡ σὲ κυήσασα, ἀνεβόα· Τὶ τὸ ξένον ὃ ὁρῶ, μυστήριον Υἱέ μου; πῶς ἐπὶ ξύλου θνῄσκεις, σαρκὶ κρεμάμενος ζωῆς χορηγὲ;"
 
 meLI.SeasonalKontakion.mode = misc_gr_GR_cog.Mode2
-meLI.SeasonalKontakion.melody  = ""
+meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = ho.s07_gr_GR_cog.hoTY.Key0408.text
 
-meLI.Alleluia.mode  = ""
+meLI.Alleluia.mode = ""
 
 meLI.AlleluiaVerse1.text = ""
 

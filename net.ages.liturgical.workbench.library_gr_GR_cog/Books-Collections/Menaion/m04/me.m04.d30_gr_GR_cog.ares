@@ -1,15 +1,15 @@
 A_Resource_Whose_Name = me.m04.d30_gr_GR_cog
 
 meDate.text = "Τῌ Λʹ ΑΠΡΙΛΙΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "Μνήμη τοῦ Ἁγίου Ἀποστόλου Ἰακώβου, ἀδελφοῦ Ἰωάννου τοῦ Θεολόγου." //full title of day
+meCommemoration.text = "Μνήμη τοῦ Ἁγίου Ἀποστόλου Ἰακώβου, Ἀδελφοῦ Ἰωάννου τοῦ Θεολόγου." // full title of day
 meShortCommemoration1.text = ""
-meInsert1 = "καὶ τοῦ ἁγίου ἐνδόξου καὶ πανευφήμου Ἀποστόλου Ἰακώβου, ἀδελφοῦ Ἰωάννου τοῦ Θεολόγου," //for use in petitions and dismissal
-meInsert2 = "οὗ καὶ τὴν μνήμην ἐπιτελοῦμεν·" //for use in petitions and dismissal
+meInsert1 = "καὶ τοῦ ἁγίου ἐνδόξου καὶ πανευφήμου Ἀποστόλου Ἰακώβου, ἀδελφοῦ Ἰωάννου τοῦ Θεολόγου," // for use in petitions and dismissal
+meInsert2 = "οὗ καὶ τὴν μνήμην ἐπιτελοῦμεν·" // for use in petitions and dismissal
 meNote.text = ""
-meLE.commemoration1 = "Μνήμη τοῦ Ἁγίου Ἀποστόλου Ἰακώβου, ἀδελφοῦ Ἰωάννου τοῦ Θεολόγου."
+meLE.commemoration1 = "Μνήμη τοῦ Ἁγίου Ἀποστόλου Ἰακώβου, Ἀδελφοῦ Ἰωάννου τοῦ Θεολόγου."
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -27,11 +27,11 @@ meVE.Stichera03.melody = he.a.m8_gr_GR_cog.OTouParadoxou.name
 meVE.Stichera03.text = "Ἄρχων κατεστάθης Ἔνδοξε, νῦν ἐπὶ πᾶσαν τὴν γῆν, περὶ σοῦ ὥσπερ γέγραπται, μαθητὴς γενόμενος, τοῦ τὰ πάντα ποιήσαντος, καὶ διὰ ζῆλον, σοῦ τὸν θερμότατον, ὑπὸ ἀνόμων, μαχαίρᾳ πάνσοφε, φόνον ὑπέμεινας, τῆς σεπτῆς τῶν δώδεκα, συμμαθητῶν, μάκαρ ὁμηγύρεως, προαναιρούμενος."
 
 meVE.SticGlory.mode = misc_gr_GR_cog.Mode8
-meVE.SticGlory.melody  = ""
+meVE.SticGlory.melody = ""
 meVE.SticGlory.text = "Πρῶτος πανεύφημε τῆς θεολέκτου δωδεκάδος, θάνατον ἐν μαχαίρᾳ ὑπὸ Ἡρῴδου, διὰ τὸν Διδάσκαλον ὑπέμεινας, πρῶτος τὸ ποτήριον αὐτοῦ ὡς ὑπέσχου ἔπιες· ὅθεν τῆς βασιλείας σε συγκληρονόμον προσήκατο ὁ φιλάνθρωπος, σὺν τῷ συγγόνῳ πρεσβεύοντας, ὑπὲρ τῶν ψυχῶν ἡμῶν."
 
 meVE.AposGlory.mode = misc_gr_GR_cog.Mode1
-meVE.AposGlory.melody  = ""
+meVE.AposGlory.melody = ""
 meVE.AposGlory.text = "Ἀπόστολε καὶ Μάρτυς, Ἰάκωβε, τοῦ καλοῦ ποιμένος τὸ θεόλεκτον πρόβατον, τῷ ὁμαίμονι ἐν ὑψίστοις συναγαλλόμενος, αἴτησαι τοῖς ἑορτάζουσι τὸ σεπτόν σου μνημόσυνον, ἄφεσιν ἁμαρτιῶν, καὶ τὸ μέγα ἔλεος."
 
 meVE.Apolytikion1.poet = poets_gr_GR_cog.Gerasimou
@@ -187,7 +187,7 @@ meMA.Kontakion1.text = "Φωνῆς θεϊκῆς, ἀκούσας προσκα
 
 meMA.Oikos1.text = "Ὡς ἁλιεὺς λογικῶν ἰχθύων, τῷ δικτύῳ Τρισμάκαρ τῶν σεπτῶν εὐχῶν βυθοῦ πταισμάτων ἀνάγαγε τὴν ταπεινήν μου ψυχήν, τὴν πάλαι ὑφ' ἡδονῶν θηρευθεῖσαν τῶν τοῦ βίου ἵνα ἀκλινῶς διελθὼν τὸν ὑπόλοιπον χρόνον μου, ὑμνήσω τὸ ὄνομά σου, καὶ δοξάσω τὸν βίον τὸν ἄμεμπτον, ὃν ἐκτελέσας ἐπὶ τῆς γῆς, ἠξιώθης ἐπ' ὄρους θεάσασθαι, Κυρίου τὴν θείαν Μεταμόρφωσιν."
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C11.ode = misc_gr_GR_cog.Ode7
 meMA.Ode7C11.mode = misc_gr_GR_cog.Mode8
@@ -291,7 +291,7 @@ meMA.Lauds3.melody = he.a.m4_gr_GR_cog.OsGennaionEnMartysi.name
 meMA.Lauds3.text = "Ἀστραπαῖς τοῦ κηρύγματος, τοὺς ἐν σκότει καθεύδοντας, ἀγνωσίας ἔνδοξε, ὦ Ἰάκωβε, καταφωτίσας ἀνέδειξας, υἱοὺς διὰ πίστεως, τοῦ Δεσπότου καὶ Θεοῦ, οὗ τὸ πάθος ἐζήλωσας, καὶ τὸν θάνατον, καὶ τῆς δόξης ἐγένου κληρονόμος, ὡς σοφός, ὡς θεηγόρος, ὡς μαθητὴς ἀληθέστατος."
 
 meMA.LaudsGlory.mode = misc_gr_GR_cog.Mode8
-meMA.LaudsGlory.melody  = ""
+meMA.LaudsGlory.melody = ""
 meMA.LaudsGlory.text = "Δεῦτε τῆς οὐρανίου μυσταγωγίας τὸν κήρυκα, καὶ ὑποφήτην τοῦ Εὐαγγελίου, ψαλμικαῖς ὑμνῳδίαις, Ἰάκωβον εὐφημήσωμεν· οὗτος γὰρ ποταμὸς ἀνεδείχθη τοῦ νοητοῦ Παραδείσου, τὰς ψυχικὰς ἀρούρας, τοῖς οὐρανίοις ὄμβροις ἐπάρδων, καὶ καρποφόρους δεικνύων Χριστῷ τῷ Θεῷ, τῷ παρέχοντι πᾶσι ταῖς πρεσβείαις αὐτοῦ, ἱλασμόν καὶ φωτισμὸν καὶ μέγα ἔλεος."
 
 meMA.LaudsSundayVerse1.text = ""
@@ -299,8 +299,8 @@ meMA.LaudsSundayVerse1.text = ""
 meMA.LaudsSundayVerse2.text = ""
 
 meLI.SeasonalKontakion.mode = misc_gr_GR_cog.Mode2
-meLI.SeasonalKontakion.melody  = ""
-meLI.SeasonalKontakion.text  = ""
+meLI.SeasonalKontakion.melody = ""
+meLI.SeasonalKontakion.text = ""
 
 meLI.Alleluia.mode = misc_gr_GR_cog.Mode1
 

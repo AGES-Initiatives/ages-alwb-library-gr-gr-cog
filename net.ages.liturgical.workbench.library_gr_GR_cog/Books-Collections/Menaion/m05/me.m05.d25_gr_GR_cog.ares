@@ -1,15 +1,15 @@
 A_Resource_Whose_Name = me.m05.d25_gr_GR_cog
 
 meDate.text = "Τῌ ΚΕʹ ΜΑΪΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "Ἡ Γʹ Εὕρεσις τῆς Τιμίας Κεφαλῆς τοῦ Προδρόμου." //full title of day
+meCommemoration.text = "Ἡ Γʹ Εὕρεσις τῆς Τιμίας Κεφαλῆς τοῦ Προδρόμου." // full title of day
 meShortCommemoration1.text = ""
-meInsert1 = "τοῦ τιμίου ἐνδόξου Προφήτου Προδρόμου καὶ Βαπτιστοῦ Ἰωάννου," //for use in petitions and dismissal
-meInsert2 = "οὗ καὶ τῆς τιμίας Κεφαλῆς τὴν Εὕρεσιν ἑορτάζομεν·" //for use in petitions and dismissal
+meInsert1 = "τοῦ τιμίου ἐνδόξου Προφήτου Προδρόμου καὶ Βαπτιστοῦ Ἰωάννου," // for use in petitions and dismissal
+meInsert2 = "οὗ καὶ τῆς τιμίας Κεφαλῆς τὴν Εὕρεσιν ἑορτάζομεν·" // for use in petitions and dismissal
 meNote.text = ""
-meLE.commemoration1 = "Ἡ Γʹ Εὕρεσις τῆς Τιμίας Κεφαλῆς τοῦ Προδρόμου."
+meLE.commemoration1 = "Ἡ Γʹ Εὕρεσις τῆς Τιμίας Κεφαλῆς τοῦ Ἁγίου καὶ Ἐνδόξου Προφήτου, Προδρόμου καὶ Βαπτιστοῦ Ἰωάννου."
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -31,7 +31,7 @@ meVE.SticGlory.melody = misc_gr_GR_cog.Idiomelon
 meVE.SticGlory.text = me.m02.d24_gr_GR_cog.meVE.SticGlory.text
 
 meVE.SticTheotokion.mode = misc_gr_GR_cog.Mode6
-meVE.SticTheotokion.melody  = ""
+meVE.SticTheotokion.melody = ""
 meVE.SticTheotokion.text = oc.m6.d1_gr_GR_cog.ocVE.SticTheotokion.text
 
 meVE.Aposticha1.mode = misc_gr_GR_cog.Mode2
@@ -55,7 +55,7 @@ meVE.AposGlory.melody = misc_gr_GR_cog.Idiomelon
 meVE.AposGlory.text = me.m02.d24_gr_GR_cog.meVE.AposGlory.text
 
 meVE.AposTheotokion.mode = misc_gr_GR_cog.Mode2
-meVE.AposTheotokion.melody  = ""
+meVE.AposTheotokion.melody = ""
 meVE.AposTheotokion.text = oc.m2.d2_gr_GR_cog.ocVE.AposTheotokion.text
 
 meVE.Apolytikion1.mode = misc_gr_GR_cog.Mode4
@@ -75,8 +75,8 @@ meMA.Kathisma21.melody = he.a.m4_gr_GR_cog.OYpsotheisEnToStavro.name
 meMA.Kathisma21.text = me.m02.d24_gr_GR_cog.meMA.Kathisma21.text
 
 meMA.Kathisma2T.mode = misc_gr_GR_cog.Mode4
-meMA.Kathisma2T.melody  = ""
-meMA.Kathisma2T.text = ho.s23_gr_GR_cog.hoCA.Apolytikion2.text 
+meMA.Kathisma2T.melody = ""
+meMA.Kathisma2T.text = ho.s23_gr_GR_cog.hoCA.Apolytikion2.text
 
 meMA.Kathisma31.mode = misc_gr_GR_cog.Mode4
 meMA.Kathisma31.melody = he.a.m4_gr_GR_cog.EpefanisSimeron.name
@@ -86,22 +86,22 @@ meMA.Kathisma3T.mode = misc_gr_GR_cog.Mode4
 meMA.Kathisma3T.melody = he.a.m4_gr_GR_cog.EpefanisSimeron.name
 meMA.Kathisma3T.text = "Προστασία ἄμαχε τῶν θλιβομένων, καὶ θερμὴ ἀντίληψις, τῶν πεποιθότων ἐπὶ σέ, ἐκ τῶν κινδύνων με λύτρωσαι· σὺ γὰρ ὑπάρχεις ἡ πάντων βοήθεια."
 
-meMA.Prokeimenon.text = "" //for media
+meMA.Prokeimenon.text = "" // for media
 // http://goarch.org/chapel/lectionary_view?type=MGandcode=179andevent=66andlanguage=elanddate=5/25/2013
 //meMA.Gospel.name = "Λουκᾶν" //"Ματθαῖον or Μᾶρκον or Λουκᾶν or Ἰωάννην or Matthew or Mark or Luke or John"
 //meMA.Gospel.chapverse = "(7:17-30)" //"(Κεφ. ΓΓʹ 11-11) or 1:11-11"
 //meMA.Gospel.text = "Τῷ καιρῷ ἐκείνῳ, ἐξῆλθεν ὁ λόγος οὗτος ἐν ὅλῃ τῇ 'Ιουδαίᾳ περὶ αὐτοῦ καὶ ἐν πάσῃ τῇ περιχώρῳ. Καὶ ἀπήγγειλαν 'Ιωάννῃ οἱ μαθηταὶ αὐτοῦ περὶ πάντων τούτων.καὶ προσκαλεσάμενος δύο τινὰς τῶν μαθητῶν αὐτοῦ ὁ 'Ιωάννης ἔπεμψε πρὸς τὸν 'Ιησοῦν λέγων· σὺ εἶ ὁ ἐρχόμενος ἢ ἕτερον προσδοκῶμεν;παραγενόμενοι δὲ πρὸς αὐτὸν οἱ ἄνδρες εἶπον· 'Ιωάννης ὁ βαπτιστὴς ἀπέσταλκεν ἡμᾶς πρός σε λέγων· σὺ εἶ ὁ ἐρχόμενος ἢ ἕτερον προσδοκῶμεν;ἐν αὐτῇ δὲ τῇ ὥρᾳ ἐθεράπευσε πολλοὺς ἀπὸ νόσων καὶ μαστίγων καὶ πνευμάτων πονηρῶν, καὶ τυφλοῖς πολλοῖς ἐχαρίσατο τὸ βλέπειν.καὶ ἀποκριθεὶς ὁ 'Ιησοῦς εἶπεν αὐτοῖς· πορευθέντες ἀπαγγείλατε 'Ιωάννῃ ἃ εἴδετε καὶ ἠκούσατε· τυφλοὶ ἀναβλέπουσι καὶ χωλοὶ περιπατοῦσι, λεπροὶ καθαρίζονται, κωφοὶ ἀκούουσι, νεκροὶ ἐγείρονται, πτωχοὶ εὐαγγελίζονται· καὶ μακάριός ἐστιν ὃς ἐὰν μὴ σκανδαλισθῇ ἐν ἐμοί.ἀπελθόντων δὲ τῶν μαθητῶν 'Ιωάννου ἤρξατο λέγειν πρὸς τοὺς ὄχλους περὶ 'Ιωάννου· τί ἐξεληλύθατε εἰς τὴν ἔρημον θεάσασθαι; κάλαμον ὑπὸ ἀνέμου σαλευόμενον;ἀλλὰ τί ἐξεληλύθατε ἰδεῖν; ἄνθρωπον ἐν μαλακοῖς ἱματίοις ἠμφιεσμένον; ἰδοὺ οἱ ἐν ἱματισμῷ ἐνδόξῳ καὶ τρυφῇ ὑπάρχοντες ἐν τοῖς βασιλείοις εἰσίν.ἀλλὰ τί ἐξεληλύθατε ἰδεῖν; προφήτην; ναὶ λέγω ὑμῖν, καὶ περισσότερον προφήτου.οὗτός ἐστι περὶ οὗ γέγραπται, ἰδοὺ ἐγὼ ἀποστέλλω τὸν ἄγγελόν μου πρὸ προσώπου σου, ὃς κατασκευάσει τὴν ὁδόν σου ἔμπροσθέν σου· λέγω γὰρ ὑμῖν, μείζων ἐν γεννητοῖς γυναικῶν προφήτης 'Ιωάννου τοῦ βαπτιστοῦ οὐδείς ἐστιν· ὁ δὲ μικρότερος ἐν τῇ βασιλείᾳ τοῦ Θεοῦ μείζων αὐτοῦ ἐστι.καὶ πᾶς ὁ λαὸς ἀκούσας καὶ οἱ τελῶναι ἐδικαίωσαν τὸν Θεόν, βαπτισθέντες τὸ βάπτισμα 'Ιωάννου·οἱ δὲ Φαρισαῖοι καὶ οἱ νομικοὶ τὴν βουλὴν τοῦ Θεοῦ ἠθέτησαν εἰς ἑαυτούς, μὴ βαπτισθέντες ὑπ' αὐτοῦ."
 
 meMA.PostGospelGlory.mode = misc_gr_GR_cog.Mode2
-meMA.PostGospelGlory.melody  = ""
+meMA.PostGospelGlory.melody = ""
 meMA.PostGospelGlory.text = ho.s03_gr_GR_cog.hoMA.PostGospelForerunner.text
 
 meMA.PostGospelBoth.mode = misc_gr_GR_cog.Mode2
-meMA.PostGospelBoth.melody  = ""
+meMA.PostGospelBoth.melody = ""
 meMA.PostGospelBoth.text = ho.s03_gr_GR_cog.hoMA.PostGospelTheotokos.text
 
 meMA.PostGospelIdiomelon.mode = misc_gr_GR_cog.Mode2
-meMA.PostGospelIdiomelon.melody  = ""
+meMA.PostGospelIdiomelon.melody = ""
 meMA.PostGospelIdiomelon.text = meVE.AposGlory.text
 
 meMA.C1Poet = poets_gr_GR_cog.Tarasiou
@@ -152,7 +152,7 @@ meMA.Ode3Kathisma1.text = "Ἐπεφάνη σήμερον, ἡ τοῦ Προ�
 
 meMA.Ode3KathismaT.mode = misc_gr_GR_cog.Mode4
 meMA.Ode3KathismaT.melody = he.a.m4_gr_GR_cog.EpefanisSimeron.name
-meMA.Ode3KathismaT.text = meMA.Kathisma3T.text 
+meMA.Ode3KathismaT.text = meMA.Kathisma3T.text
 
 meMA.Ode4C11.ode = misc_gr_GR_cog.Ode4
 meMA.Ode4C11.mode = misc_gr_GR_cog.Mode8
@@ -220,7 +220,7 @@ meMA.Kontakion1.text = "Ὁ φωτοφανὴς καὶ θεῖος ἐν κό�
 
 meMA.Oikos1.text = "Ἀπὸ γῆς, καθὼς πηγὴ τοῦ Παραδείσου, Κεφαλὴ θεοφιλὴς ἡ τοῦ Προδρόμου, ῥεῖθρα βλύζει χάριτος, καὶ θαυμάτων τὰ νάματα νέμει πᾶσι τοῖς χρῄζουσι. Προσέλθωμεν οὖν πάντες, καὶ ἀντλήσωμεν προθύμως ἐκ ταύτης τῶν ἰαμάτων τοὺς θείους κρουνούς· ἀρδεύει γὰρ ψυχὰς ἐν δωρεαῖς ἀενάοις, καὶ κατακλύζει σωμάτων πόνους, καὶ πᾶσαν νόσον εὐθέτως αἴρει. Ταύτην οὖν πόθῳ μέλψωμεν, καὶ πίστει ἀσπασώμεθα, σεμνῶς περιπτυσσόμενοι, καὶ ᾄσμασιν ὡς στέμμασι στέψωμεν ταύτην Πιστοί. Προκαθάρωμεν ἡμῶν κηλῖδας νοητάς, καὶ ἐνθέοις ἀρεταῖς κοσμήσωμεν ψυχάς, καὶ βοήσωμεν στεῤῥῶς, Χριστοῦ σοφὲ Βαπτιστά, σῶσον πάντας ἡμᾶς."
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C11.ode = misc_gr_GR_cog.Ode7
 meMA.Ode7C11.mode = misc_gr_GR_cog.Mode8
@@ -302,10 +302,10 @@ meMA.Lauds3.mode = misc_gr_GR_cog.Mode5
 meMA.Lauds3.melody = he.a.m5_gr_GR_cog.ChairoisAskitikon.name
 meMA.Lauds3.text = "Κάρα ἡ τὸν ἀμνὸν τοῦ Θεοῦ, ἀνακηρύξασα σαρκὶ φανερούμενον, καὶ πᾶσι τῆς μετανοίας, τὰς σωτηρίους ὁδούς, θείαις ὑποθήκαις βεβαιώσασα, ἡ πρὶν τοῦ Ἡρῴδου, παρανομίαν ἐλέγξασα· καὶ διὰ τοῦτο, ἐκτμηθεῖσα τοῦ σώματος, καὶ τὴν χρόνιον, ὑποστᾶσα κατάκρυψιν, ὥσπερ φωτοφανὴς ἡμῖν, ἀνέτειλεν ἥλιος. Μετανοεῖτε βοῶσα, καὶ τῷ Κυρίῳ προστίθεσθε, ψυχῆς κατανύξει, τῷ παρέχοντι τῷ κόσμῳ τὸ μέγα ἔλεος."
 
-meMA.Lauds456.text = "" //for media
+meMA.Lauds456.text = "" // for media
 
 meMA.LaudsGlory.mode = misc_gr_GR_cog.Mode6
-meMA.LaudsGlory.melody  = ""
+meMA.LaudsGlory.melody = ""
 meMA.LaudsGlory.text = me.m02.d24_gr_GR_cog.meMA.LaudsGlory.text
 
 meMA.LaudsTheotokion.mode = misc_gr_GR_cog.Mode6
@@ -317,8 +317,8 @@ meMA.LaudsSundayVerse1.text = meVE.ApostichaVerse2.text
 meMA.LaudsSundayVerse2.text = meVE.ApostichaVerse3.text
 
 meLI.SeasonalKontakion.mode = misc_gr_GR_cog.Mode2
-meLI.SeasonalKontakion.melody  = ""
-meLI.SeasonalKontakion.text  = ""
+meLI.SeasonalKontakion.melody = ""
+meLI.SeasonalKontakion.text = ""
 
 meLI.Alleluia.mode = misc_gr_GR_cog.Mode4
 

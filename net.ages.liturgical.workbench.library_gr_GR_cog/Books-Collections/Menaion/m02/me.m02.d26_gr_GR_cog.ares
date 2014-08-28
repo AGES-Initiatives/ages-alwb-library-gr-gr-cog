@@ -1,15 +1,15 @@
-A_Resource_Whose_Name = me.m02.d26_gr_GR_cog 
+A_Resource_Whose_Name = me.m02.d26_gr_GR_cog
 
 meDate.text = "Τῌ ΚϚʹ ΦΕΒΡΟΥΑΡΙΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "Μνήμη τοῦ Ἁγίου Πορφυρίου, Ἐπισκόπου Γάζης καὶ τὴς Ἁγίας Μεγαλομάρτυρος καὶ Ἰσαποστόλου Φωτεινῆς τῆς Σαμαρείτιδος." //full title of day
+meCommemoration.text = "Μνήμη τοῦ Ἁγίου Πορφυρίου, Ἐπισκόπου Γάζης καὶ τὴς Ἁγίας Μεγαλομάρτυρος καὶ Ἰσαποστόλου Φωτεινῆς τῆς Σαμαρείτιδος." // full title of day
 meShortCommemoration1.text = ""
-meInsert1 = "καὶ τοῦ Ἁγίου Πορφυρίου, Ἐπισκόπου Γάζης καὶ τὴς Ἁγίας Μεγαλομάρτυρος καὶ Ἰσαποστόλου Φωτεινῆς τῆς Σαμαρείτιδος, " //for use in petitions and dismissal
-meInsert2 = "ὧν καὶ τὴν μνήμην ἐπιτελοῦμεν· " //for use in petitions and dismissal
+meInsert1 = "καὶ τοῦ Ἁγίου Πορφυρίου, Ἐπισκόπου Γάζης καὶ τὴς Ἁγίας Μεγαλομάρτυρος καὶ Ἰσαποστόλου Φωτεινῆς τῆς Σαμαρείτιδος, " // for use in petitions and dismissal
+meInsert2 = "ὧν καὶ τὴν μνήμην ἐπιτελοῦμεν· " // for use in petitions and dismissal
 meNote.text = ""
-meLE.commemoration1 = "Μνήμη τοῦ Ἁγίου Πορφυρίου, Ἐπισκόπου Γάζης καὶ τὴς Ἁγίας Μεγαλομάρτυρος καὶ Ἰσαποστόλου Φωτεινῆς τῆς Σαμαρείτιδος."
+meLE.commemoration1 = "Τοῦ Ὁσίου Πατρὸς ἡμῶν Πορφυρίου, Ἐπισκόπου Γάζης."
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -182,7 +182,7 @@ meMA.Kontakion1.text = "Ἱερωτάτοις σου τρόποις κοσμο
 
 meMA.Oikos1.text = "Ὑπεραστράπτει πλέον ἡλίου, Πορφυρίου ἡ μνήμη τοῦ σοφοῦ, ἀστραπαῖς θαυμάτων πᾶσαν τὴν κτίσιν φωταγωγοῦσα, καὶ διώκουσα πλάνην τὴν τῶν εἰδώλων, καὶ τοὺς πιστούς σελαγίζουσα, πάντας εὐφραίνει· Θεῷ γὰρ εὐαρεστήσας ἐπὶ γῆς, τῶν σημείων ἀπείληφε τὴν χάριν, πάντας ἰᾶσθαι, παρεστὼς τῇ Τριάδι ὁλόφωτος, καὶ πρεσβεύων ἀπαύστως ὑπὲρ πάντων ἡμῶν."
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C1H.ode = misc_gr_GR_cog.Ode7
 meMA.Ode7C1H.mode = misc_gr_GR_cog.Mode8
@@ -278,8 +278,8 @@ meMA.ExapTheotokion.melody = he.a.m3_gr_GR_cog.EpeskepsatoImas.name
 meMA.ExapTheotokion.text = "Ἐπὶ σοὶ μετὰ Θεόν, ἐλπίζομεν Πανάχραντε, καὶ τῷ ἐκ σοῦ προελθόντι, συσταυρούμενοι Χριστῷ, ταῖς πρὸς αὐτὸν πρεσβείαις σου, ἀπροσκόπτους εἰς τέλος, ἡμᾶς διαφύλαξον."
 
 meLI.SeasonalKontakion.mode = misc_gr_GR_cog.Mode2
-meLI.SeasonalKontakion.melody  = ""
-meLI.SeasonalKontakion.text  = ""
+meLI.SeasonalKontakion.melody = ""
+meLI.SeasonalKontakion.text = ""
 
 meMegalynarion.text = ""
 

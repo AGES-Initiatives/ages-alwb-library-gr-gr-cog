@@ -1,15 +1,15 @@
 A_Resource_Whose_Name = me.m02.d11_gr_GR_cog
 
 meDate.text = "Τῌ ΙΑʹ ΦΕΒΡΟΥΑΡΙΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "Μνήμη τοῦ Ἁγίου Ἱερομάρτυρος Βλασίου, καὶ τῆς Ὁσίας Μητρὸς ἡμῶν Θεοδώρας τῆς Αὐγούστας." //full title of day
+meCommemoration.text = "Μνήμη τοῦ Ἁγίου Ἱερομάρτυρος Βλασίου, καὶ τῆς Ὁσίας Μητρὸς ἡμῶν Θεοδώρας τῆς Αὐγούστας." // full title of day
 meShortCommemoration1.text = ""
-meInsert1 = "καὶ τοῦ Ἁγίου Ἱερομάρτυρος Βλασίου, καὶ τῆς Ὁσίας Μητρὸς ἡμῶν Θεοδώρας τῆς Αὐγούστας, " //for use in petitions and dismissal
-meInsert2 = "ὧν καὶ τὴν μνήμην ἐπιτελοῦμεν· " //for use in petitions and dismissal
+meInsert1 = "καὶ τοῦ Ἁγίου Ἱερομάρτυρος Βλασίου, καὶ τῆς Ὁσίας Μητρὸς ἡμῶν Θεοδώρας τῆς Αὐγούστας, " // for use in petitions and dismissal
+meInsert2 = "ὧν καὶ τὴν μνήμην ἐπιτελοῦμεν· " // for use in petitions and dismissal
 meNote.text = ""
-meLE.commemoration1 = "Μνήμη τοῦ Ἁγίου Ἱερομάρτυρος Βλασίου, καὶ τῆς Ὁσίας Μητρὸς ἡμῶν Θεοδώρας τῆς Αὐγούστας."
+meLE.commemoration1 = "Ἱερομάρτυρος Βλασίου, Ἀρχιεπισκόπου Σεβαστείας."
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -44,11 +44,11 @@ meVE.SticStavrotheotokion.text = "Ἀναρτηθέντα ὡς εἶδεν, �
 
 meVE.SticGlory.poet = poets_gr_GR_cog.Stouditou
 meVE.SticGlory.mode = misc_gr_GR_cog.Mode6
-meVE.SticGlory.melody  = ""
+meVE.SticGlory.melody = ""
 meVE.SticGlory.text = "Βλαστήσας ἐν τῇ ἀσκήσει τῶν θείων ἀρετῶν, φερωνύμως Βλάσιε, ἐξήνθησας δαυϊτικῶς, ὥσπερ φοίνιξ ἐν ταῖς αὐλαῖς τοῦ Κυρίου, καὶ ὡσεὶ κέδρος ἐπληθύνθης τοῖς κατορθώμασιν, ὡς ἄμπελος δὲ εὐθηνοῦσα ἐν οἴκῳ Θεοῦ, τῷ καιρῷ τοῦ μαρτυρίου, τεμνόμενος βασάνων ποιναῖς, ἐκ καρποῦ τῶν ἀγώνων σου, ἔβλυσας ἡμῖν οἶνον νοητόν, ἐξ οὗ πιόντες, εὐφροσύνης ἐνθέου τὰς καρδίας πληρούμεθα, καὶ συμφώνως συνελθόντες, ἐν τῇ σεβασμίᾳ μνήμῃ τῆς σῆς τελειώσεως, μακαρίζοντες εὐφημοῦμέν σε, αἰτούμενοι λαβεῖν διὰ σοῦ τὴν εἰρήνην, καὶ τὸ μέγα ἔλεος."
 
 meVE.SticTheotokion2.mode = misc_gr_GR_cog.Mode6
-meVE.SticTheotokion2.melody  = ""
+meVE.SticTheotokion2.melody = ""
 meVE.SticTheotokion2.text = "Θεὸν ἐκ σοῦ σαρκωθέντα ἔγνωμεν, Θεοτόκε Παρθένε, αὐτὸν ἱκέτευε, σωθῆναι τὰς ψυχὰς ἡμῶν."
 
 meVE.SticStavrotheotokion2.mode = misc_gr_GR_cog.Mode6
@@ -57,7 +57,7 @@ meVE.SticStavrotheotokion2.text = "Ἡ Πάναγνος ὡς εἶδέ σε, 
 
 meVE.AposGlory.poet = poets_gr_GR_cog.Vyzantiou
 meVE.AposGlory.mode = misc_gr_GR_cog.Mode4
-meVE.AposGlory.melody  = ""
+meVE.AposGlory.melody = ""
 meVE.AposGlory.text = "Ὡς καλὸς παιδοτρίβης, καὶ διδάσκαλος τῆς εὐσεβείας, τῇ ἐνεργείᾳ καὶ δυνάμει τῶν θείων λόγων σου, γυναῖκας φιλοθέους ὑπείληψας πρὸς ἀγῶνας μαρτυρικούς, τὸ ἀσθενὲς τῆς φύσεως αὐτῶν ῥωννύων ἐν Χριστῷ, μεθ' ὧν τὸν δρόμον τῆς ἀσκήσεως καλῶς τελέσας, εἰς νυμφῶνα οὐράνιον φαιδρῶς συναγάλλῃ, διπλῷ στεφάνῳ τῆς θείας δόξης σεμνυνόμενος, καὶ ἐξαιτούμενος σὺν αὐταῖς τὴν εἰρήνην ἡμῖν δοθῆναι, καὶ τὸ μέγα ἔλεος."
 
 meVE.AposTheotokion.mode = misc_gr_GR_cog.Mode4
@@ -223,7 +223,7 @@ meMA.Kontakion1.text = "Ὁ θεῖος βλαστός, τὸ ἄνθος τὸ
 
 meMA.Oikos1.text = "Ῥώμῃ Θεοῦ ἐνισχυθείς, ὦ θεόφρον, ὡς ἱερὸς Ἱεράρχης καὶ λειτουργὸς αὐτοῦ, ἐν πράξεσι θείαις ἀναδέδειξαι, τῶν ἀθλοφόρων ἐν ταῖς χορείαις, ἀθλοφόρος ὡράθης καὶ στεφανίτης, τῆς Ἀαρὼν ὑπερήρθης θυσίας, ὡς μύστης Χριστοῦ, σὺν Ἄβελ αἷμα τὸ θεῖον ἀνακράζει Θεῷ τὴν σφαγήν σου, καὶ θρόνῳ θείῳ τοῦ κτίσαντος παρεστώς, σὺν Ἀγγέλων τοῖς τάγμασι πρεσβεύεις ἀπαύστως ὑπὲρ πάντων ἡμῶν."
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C1H.ode = misc_gr_GR_cog.Ode7
 meMA.Ode7C1H.mode = misc_gr_GR_cog.Mode8
@@ -313,8 +313,8 @@ meMA.ExapTheotokion.melody = he.a.m2_gr_GR_cog.ToisMathitaisSynelthomen.name
 meMA.ExapTheotokion.text = "Ζητῶν με τὸ πλανώμενον, πρόβατον παραβάσει, Θεὸς ὁ πλαστουργήσας με, σοῦ τὴν ἄφθορον μήτραν, ὑπέδυ ἄχραντε Κόρη, καὶ λαβὼν με ἐπ' ὤμων, εἰς οὐρανοὺς ἀνύψωσε, συνεδρίᾳ τιμήσας τῇ Πατρικῇ, οὗ τὴν ἀνυπερβλητον εὐσπλαγχνίαν, καὶ σὲ τὴν Θεομήτορα, προσκυνῶ καὶ δοξάζω."
 
 meLI.SeasonalKontakion.mode = misc_gr_GR_cog.Mode2
-meLI.SeasonalKontakion.melody  = ""
-meLI.SeasonalKontakion.text  = ""
+meLI.SeasonalKontakion.melody = ""
+meLI.SeasonalKontakion.text = ""
 
 meMegalynarion.text = ""
 

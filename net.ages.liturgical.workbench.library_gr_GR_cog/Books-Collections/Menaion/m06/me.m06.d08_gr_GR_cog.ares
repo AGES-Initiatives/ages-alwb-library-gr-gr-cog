@@ -1,15 +1,15 @@
 A_Resource_Whose_Name = me.m06.d08_gr_GR_cog
 
 meDate.text = "Τῌ Ηʹ ΙΟΥΝΙΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "Μνήμη τῆς ἀνακομιδῆς τοῦ λειψάνου τοῦ Ἁγίου Μεγαλομάρτυρος Θεοδώρου τοῦ Στρατηλάτου." //full title of day
+meCommemoration.text = "Μνήμη τῆς Ἀνακομιδῆς τοῦ Λειψάνου τοῦ Ἁγίου Μεγαλομάρτυρος Θεοδώρου τοῦ Στρατηλάτου." // full title of day
 meShortCommemoration1.text = ""
-meInsert1 = "καὶ τῆς ἀνακομιδῆς τοῦ λειψάνου τοῦ Ἁγίου Μεγαλομάρτυρος Θεοδώρου τοῦ Στρατηλάτου, " //for use in petitions and dismissal
-meInsert2 = "οὗ καὶ τὴν μνήμην ἐπιτελοῦμεν· " //for use in petitions and dismissal
+meInsert1 = "καὶ τῆς ἀνακομιδῆς τοῦ λειψάνου τοῦ Ἁγίου Μεγαλομάρτυρος Θεοδώρου τοῦ Στρατηλάτου, " // for use in petitions and dismissal
+meInsert2 = "οὗ καὶ τὴν μνήμην ἐπιτελοῦμεν· " // for use in petitions and dismissal
 meNote.text = ""
-meLE.commemoration1 = "Μνήμη τῆς ἀνακομιδῆς τοῦ λειψάνου τοῦ Ἁγίου Μεγαλομάρτυρος Θεοδώρου τοῦ Στρατηλάτου."
+meLE.commemoration1 = "Ἡ Ἀνακομιδὴ τοῦ Λειψάνου τοῦ Ἁγίου Μεγαλομάρτυρος Θεοδώρου τοῦ Στρατηλάτου."
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -28,11 +28,11 @@ meVE.Stichera03.melody = he.a.m4_gr_GR_cog.OsGennaionEnMartysi.name
 meVE.Stichera03.text = "Θεῖον ἄγαλμα γέγονας, εὐσεβείας πανόλβιε, δυσσεβῶν ἀγάλματα βδελυξάμενος, καὶ Ἱερεῖον ὁλόκληρον, καὶ θῦμα εὐπρόσδεκτον, τῷ τυθέντι διὰ σέ, καθαρῶς προσαγόμενον, τῷ δοξάσαντι, τὴν Ἁγίαν σου μνήμην καὶ θαυμάτων, θησαυρὸν σε τοῖς ἐν κόσμῳ, δωρησαμένῳ Θεόδωρε."
 
 meVE.SticGlory.mode = misc_gr_GR_cog.Mode8
-meVE.SticGlory.melody  = ""
+meVE.SticGlory.melody = ""
 meVE.SticGlory.text = "Ἀθλητικὸν συστησάμενος στάδιον, κατὰ τῆς πλάνης ἠνδραγάθησας Θεόδωρε, τῇ πυριφθόγγῳ γλώττῃ σου, καταισχύνας Λικινίου τὸ ἀπάνθρωπον. Διὸ καὶ σὺν Ἀγγέλοις χορεύων μακάριε, αἴτησαι Χριστόν, ὅπως ἵλεως γένηται ἡμῖν, ἐν τῇ ἡμέρᾳ τῆς κρίσεως."
 
 meVE.SticTheotokion.mode = misc_gr_GR_cog.Mode8
-meVE.SticTheotokion.melody  = ""
+meVE.SticTheotokion.melody = ""
 meVE.SticTheotokion.text = oc.m8.d5_gr_GR_cog.ocMA.AposTheotokion.text
 
 meVE.Aposticha1.mode = misc_gr_GR_cog.Mode5
@@ -52,11 +52,11 @@ meVE.Aposticha3.melody = he.a.m5_gr_GR_cog.ChairoisAskitikon.name
 meVE.Aposticha3.text = "Ὅπλῳ τοῦ ζωηφόρου Σταυροῦ, τὴν τῶν εἰδώλων συντριβὴν ἐργασάμενος, μαστίγων ὑπέστης πεῖραν, καὶ ἐπὶ ξύλου ταθείς, σπαραγμοὺς παμμάκαρ ἐκαρτέρησας, ὑφ' ὧν συντριβόμενος, καὶ λαμπάσι φλεγόμενος, σταυρῷ ὑψώθης, τιτρωσκόμενος βέλεσι, καὶ τὰ ὄμματα, ὑπ' αὐτῶν ἐκτυφλούμενος· ὅθεν σε μακαρίζομεν, καλῶς ἐναθλήσαντα, οὐρανίων στεφάνων, ἐπιτυχόντα Θεόδωρε. Διὸ ἐκδυσώπει, ταῖς ψυχαῖς ἡμῶν δοθῆναι, τὸ μέγα ἔλεος."
 
 meVE.AposGlory.mode = misc_gr_GR_cog.Mode8
-meVE.AposGlory.melody  = ""
+meVE.AposGlory.melody = ""
 meVE.AposGlory.text = "Τῶν τοῦ Θεοῦ δωρεῶν ὡς ἐπώνυμον, καὶ τῆς αὐτοῦ κληρονόμον μακαριότητος, πάντες εὐφημήσωμεν πιστοί, καὶ μακαρίσωμεν ἐπαξίως, Θεόδωρον τὸν γενναῖον Μεγαλομάρτυρα, τῆς οἰκουμένης τὸν ὑπέρμαχον· πρεσβεύει γὰρ Χριστῷ τῷ Θεῷ, ὑπὲρ τῶν ψυχῶν ἡμῶν."
 
 meVE.AposTheotokion.mode = misc_gr_GR_cog.Mode8
-meVE.AposTheotokion.melody  = ""
+meVE.AposTheotokion.melody = ""
 meVE.AposTheotokion.text = oc.m8.d2_gr_GR_cog.ocMA.AposTheotokion.text
 
 meVE.Apolytikion1.mode = misc_gr_GR_cog.Mode4
@@ -190,7 +190,7 @@ meMA.Kontakion1.text = "Ἀνδρείᾳ ψυχῆς τὴν πίστιν θω
 
 meMA.Oikos1.text = "Τῶν ἀθλητῶν τὸ ἔκλαμπρον κάλλος, δεῦτε πάντες τῶν ὕμνων τοῖς στεφάνοις πιστοί, Θεόδωρον καταστέψωμεν· δῶρον γὰρ Θεοῦ μέγα τῷ κόσμῳ ἀναδέδεικται, λάμψεσι ταῖς τῶν θαυμάτων· τὸν γὰρ ἐχθρὸν ἐκνικήσας Βελίαρ ἄθλοις σεπτοῖς, ὀμβρίζει ἀντὶ αἱμάτων, κρουνηδὸν ἰαμάτων τὰ ῥεύματα, σὺν τούτοις δὲ πᾶσι χαίρει Χριστῷ, καὶ δίδωσιν εἰρήνην ἀνέκλειπτον, πρεσβεύων ἀπαύστως ὑπὲρ πάντων ἡμῶν."
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C11.ode = misc_gr_GR_cog.Ode7
 meMA.Ode7C11.mode = misc_gr_GR_cog.Mode4
@@ -275,7 +275,7 @@ meMA.LaudsSundayVerse1.text = ""
 meMA.LaudsSundayVerse2.text = ""
 
 meMA.AposGlory.mode = misc_gr_GR_cog.Mode6
-meMA.AposGlory.melody  = ""
+meMA.AposGlory.melody = ""
 meMA.AposGlory.text = "Ἁγιωσύνης δωρεά, καὶ πλοῦτος θείας ζωῆς, πεφανέρωσαι τῷ κόσμῳ Θεόδωρε· Χριστὸς γάρ σου σοφὲ τὴν μνήμην ἐδόξασεν, ἐν ᾗ συμφώνως οἱ πιστοί, γεγηθότες ὑμνοῦμεν, τοὺς ἀγῶνας τῶν ἄθλων σου."
 
 meMA.AposTheotokion.mode = misc_gr_GR_cog.Mode6
@@ -283,10 +283,10 @@ meMA.AposTheotokion.melody = he.o_gr_GR_cog.TheotokeSyEi.name
 meMA.AposTheotokion.text = he.o_gr_GR_cog.TheotokeSyEiAthloforou.text
 
 meLI.SeasonalKontakion.mode = misc_gr_GR_cog.Mode2
-meLI.SeasonalKontakion.melody  = ""
+meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = ho.s07_gr_GR_cog.hoTY.Key0408.text
 
-meLI.Alleluia.mode  = ""
+meLI.Alleluia.mode = ""
 
 meLI.AlleluiaVerse1.text = ""
 

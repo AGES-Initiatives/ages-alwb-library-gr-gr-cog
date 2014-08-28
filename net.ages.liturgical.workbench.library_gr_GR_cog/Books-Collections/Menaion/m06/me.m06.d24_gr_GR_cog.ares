@@ -1,15 +1,15 @@
 A_Resource_Whose_Name = me.m06.d24_gr_GR_cog
 
 meDate.text = "Τῌ ΚΔʹ ΙΟΥΝΙΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "Τὸ Γενέσιον τοῦ τιμίου ἐνδόξου Προφήτου Προδρόμου καὶ Βαπτιστοῦ Ἰωάννου." //full title of day
+meCommemoration.text = "Τὸ Γενέσιον τοῦ Τιμίου Ἐνδόξου Προφήτου Προδρόμου καὶ Βαπτιστοῦ Ἰωάννου." // full title of day
 meShortCommemoration1.text = ""
-meInsert1 = "" //for use in petitions and dismissal
-meInsert2 = "οὗ καὶ τὸ Γενέσιον ἑορτάζομεν· " //for use in petitions and dismissal
+meInsert1 = "" // for use in petitions and dismissal
+meInsert2 = "οὗ καὶ τὸ Γενέσιον ἑορτάζομεν· " // for use in petitions and dismissal
 meNote.text = ""
-meLE.commemoration1 = "Τὸ Γενέσιον τοῦ τιμίου ἐνδόξου Προφήτου Προδρόμου καὶ Βαπτιστοῦ Ἰωάννου."
+meLE.commemoration1 = "Τὸ Γενέθλιον τοῦ Τιμίου καὶ Ἐνδόξου Προφήτου, Προδρόμου καί Βαπτιστοῦ Ἰωάννου."
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -28,11 +28,11 @@ meSV.Stichera3.melody = he.a.m4_gr_GR_cog.OExYpsistouKlitheis.name
 meSV.Stichera3.text = "Ὁ κατὰ θείαν τεχθεὶς ἐπαγγελίαν, ὅτε ὁ παμμέγιστος θεῖος, Ἀρχάγγελος, ἐν τῷ ναῷ τῷ γεννήτορι, σοῦ δεομένῳ, εὐηγγελίσατο τὴν σὴν γέννησιν, τότε ἀπιστήσαντι καὶ ἀντιλέξαντι, τῷ Ἱερεῖ καθὼς γέγραπται, τὴν ἀφωνίαν, ὁ Γαβριὴλ ἐπήγαγε καὶ τὴν κώφευσιν, ἄχρι τοῦ τόκου, σὺ δὲ Πρόδρομε, τὸν πατέρα τεχθεὶς τῶν τῆς γλώττης δεσμῶν, ἠλευθέρωσας μάκαρ, καὶ πρεσβεύεις ὑπὲρ πάντων ἡμῶν."
 
 meSV.SticGlory.mode = misc_gr_GR_cog.Mode8
-meSV.SticGlory.melody  = ""
+meSV.SticGlory.melody = ""
 meSV.SticGlory.text = "Πρέπει τῷ Ἰωάννῃ ἡ εὐωδία, πρέπει τῷ Βαπτιστῇ, τῶν ᾀσμάτων ἡ τερπνότης· οὗτος γὰρ ἐκήρυξε τὴν ἀπαρχὴν τῆς ἡμῶν σωτηρίας, ὁ σκιρτῶν ἐν κοιλίᾳ, καὶ βοῶν ἐν ἐρήμῳ, Μετανοεῖτε, τοῦ Βασιλέως ὁ στρατιώτης, ὁ Πρόδρομος τῆς χάριτος, ὁ τὸν ἀμνὸν προμηνύων, καὶ τὸν Σωτῆρα πρεσβεύων, ὑπὲρ τῶν ψυχῶν ἡμῶν."
 
 meSV.SticBoth.mode = misc_gr_GR_cog.Mode8
-meSV.SticBoth.melody  = ""
+meSV.SticBoth.melody = ""
 meSV.SticBoth.text = oc.m8.d5_gr_GR_cog.ocMA.AposTheotokion.text
 
 meSV.Aposticha1.mode = misc_gr_GR_cog.Mode2
@@ -113,7 +113,7 @@ meVE.LityGlory.melody = misc_gr_GR_cog.Idiomelon
 meVE.LityGlory.text = "Τὸν ἐν Προφήταις ὅρον, καὶ ἀρχὴν Ἀποστόλων, τὸν ἐπίγειον ἄγγελον, καὶ οὐράνιον ἄνθρωπον, τὴν φωνὴν τοῦ Λόγου, τὸν στρατιώτην καὶ Πρόδρομον Χριστοῦ, τόν ἐξ ἐπαγγελίας προσκιρτήσαντα, καὶ προκηρύξαντα πρὸ τόκου τὸν ἥλιον τῆς δικαιοσυνης, σήμερον ἡ Ἐλισάβετ τίκτει καὶ χαίρει, καὶ θαυμάζεται Ζαχαρίας παρὰ τῆς γερουσίας, τὴν σιωπὴν ὡς κλοιὸν ὑποθέμενος, καὶ ὡς γεννήτωρ τῆς φωνῆς προφητεύει σαφέστατα· Σὺ γάρ, παιδίον, Προφήτης Ὑψίστου κληθήσῃ, καὶ προπορεύσῃ ὁδούς ἑτοιμάσαι αὐτῷ. Διὸ Ἄγγελε, Προφῆτα, Ἀπόστολε, Στρατιῶτα, Πρόδρομε, Βαπτιστά, καὶ Κήρυξ τῆς μετανοίας, καὶ ὁδηγὲ τοῦ φωτός, ὡς φωνὴ τοῦ Λόγου, ἀπαύστως πρέσβευε ὑπὲρ ἡμῶν, τῶν πιστῶς σου τελούντων τὸ μνημόσυνον."
 
 meVE.LityBoth.mode = misc_gr_GR_cog.Mode5
-meVE.LityBoth.melody  = ""
+meVE.LityBoth.melody = ""
 meVE.LityBoth.text = oc.m5.d3_gr_GR_cog.ocVE.AposTheotokion.text
 
 meVE.Aposticha1.mode = misc_gr_GR_cog.Mode2
@@ -169,17 +169,17 @@ meMA.Kathisma3T.mode = misc_gr_GR_cog.Mode8
 meMA.Kathisma3T.melody = misc_gr_GR_cog.Automelon
 meMA.Kathisma3T.text = he.a.m8_gr_GR_cog.ToProstachthen.text
 
-meMA.Prokeimenon.text = "" //for media
+meMA.Prokeimenon.text = "" // for media
 //meMA.Gospel.name = "Λουκᾶν" //"Ματθαῖον or Μᾶρκον or Λουκᾶν or Ἰωάννην or Matthew or Mark or Luke or John"
 //meMA.Gospel.chapverse = "1:24-25, 57-68, 76, 80" //"(Κεφ. ΓΓʹ 11-11) or 1:11-11"
 //meMA.Gospel.text = "Ἐν ταῖς ἡμέραις ἐκείναις συνέλαβεν Ἐλισάβετ ἡ γυνὴ αὐτοῦ, καὶ περιέκρυβεν ἑαυτὴν μῆνας πέντε, λέγουσα ὅτι οὕτω μοι πεποίηκεν ὁ Κύριος ἐν ἡμέραις αἷς ἐπεῖδεν ἀφελεῖν τὸ ὄνειδός μου ἐν ἀνθρώποις. Τῇ δὲ Ἐλισάβετ ἐπλήσθη ὁ χρόνος τοῦ τεκεῖν αὐτήν, καὶ ἐγέννησεν υἱόν.καὶ ἤκουσαν οἱ περίοικοι καὶ οἱ συγγενεῖς αὐτῆς ὅτι ἐμεγάλυνε Κύριος τὸ ἔλεος αὐτοῦ μετ' αὐτῆς, καὶ συνέχαιρον αὐτῇ. Καὶ ἐγένετο ἐν τῇ ὀγδόῃ ἡμέρᾳ ἦλθον περιτεμεῖν τὸ παιδίον, καὶ ἐκάλουν αὐτὸ ἐπὶ τῷ ὀνόματι τοῦ πατρὸς αὐτοῦ Ζαχαρίαν.καὶ ἀποκριθεῖσα ἡ μήτηρ αὐτοῦ εἶπεν· οὐχί, ἀλλὰ κληθήσεται Ἰωάννης. Καὶ εἶπον πρὸς αὐτὴν ὅτι οὐδείς ἐστιν ἐν τῇ συγγενείᾳ σου ὃς καλεῖται τῷ ὀνόματι τούτῳ·ἐνένευον δὲ τῷ πατρὶ αὐτοῦ τὸ τί ἂν θέλοι καλεῖσθαι αὐτόν. Καὶ αἰτήσας πινακίδιον ἔγραψε λέγων· Ἰωάννης ἐστὶ τὸ ὄνομα αὐτοῦ· καὶ ἐθαύμασαν πάντες. Ἀνεῴχθη δὲ τὸ στόμα αὐτοῦ παραχρῆμα καὶ ἡ γλῶσσα αὐτοῦ, καὶ ἐλάλει εὐλογῶν τὸν Θεόν.καὶ ἐγένετο ἐπὶ πάντας φόβος τοὺς περιοικοῦντας αὐτούς, καὶ ἐν ὅλῃ τῇ ὀρεινῇ τῆς Ἰουδαίας διελαλεῖτο πάντα τὰ ῥήματα ταῦτα,καὶ ἔθεντο πάντες οἱ ἀκούσαντες ἐν τῇ καρδίᾳ αὐτῶν λέγοντες· τί ἄρα τὸ παιδίον τοῦτο ἔσται; καὶ χεὶρ Κυρίου ἦν μετ' αὐτοῦ. Καὶ Ζαχαρίας ὁ πατὴρ αὐτοῦ ἐπλήσθη Πνεύματος ῾Αγίου καὶ προεφήτευσε λέγων· Εὐλογητὸς Κύριος, ὁ Θεὸς τοῦ Ἰσραήλ, ὅτι ἐπεσκέψατο καὶ ἐποίησε λύτρωσιν τῷ λαῷ αὐτοῦ, Καὶ σύ, παιδίον, προφήτης ὑψίστου κληθήσῃ· προπορεύσῃ γὰρ πρὸ προσώπου Κυρίου ἑτοιμάσαι ὁδοὺς αὐτοῦ, Τὸ δὲ παιδίον ηὔξανε καὶ ἐκραταιοῦτο πνεύματι, καὶ ἦν ἐν ταῖς ἐρήμοις ἕως ἡμέρας ἀναδείξεως αὐτοῦ πρὸς τὸν Ἰσραήλ."
 
 meMA.PostGospelGlory.mode = misc_gr_GR_cog.Mode2
-meMA.PostGospelGlory.melody  = ""
+meMA.PostGospelGlory.melody = ""
 meMA.PostGospelGlory.text = ho.s03_gr_GR_cog.hoMA.PostGospelForerunner.text
 
 meMA.PostGospelBoth.mode = misc_gr_GR_cog.Mode2
-meMA.PostGospelBoth.melody  = ""
+meMA.PostGospelBoth.melody = ""
 meMA.PostGospelBoth.text = ho.s03_gr_GR_cog.hoMA.PostGospelTheotokos.text
 
 meMA.PostGospelIdiomelon.mode = misc_gr_GR_cog.Mode2
@@ -421,7 +421,7 @@ meMA.Kontakion1.text = "Ἡ πρὶν στεῖρα σήμερον, Χριστ�
 
 meMA.Oikos1.text = "Εὐφημήσωμεν νῦν τὸν τοῦ Κυρίου Πρόδρομον, ὃν περ τῷ ἱερεῖ ἡ Ἐλισάβετ ἔτεκεν, ἐκ μήτρας ἀκάρπου, ἀλλ' οὐχὶ ἀσπόρου· Χριστὸς γὰρ μόνος χώραν διώδευσεν ἀδιόδευτον, ἄσπορον, τὸν Ἰωάννην στεῖρα ἐγέννησεν, ἄνευ δὲ ἀνδρὸς τοῦτον οὐκ ἔτεκε, τὸν δὲ Ἰησοῦν ἐπισκιάσει Πατρὸς καὶ Πνεύματος θείου, Παρθένος ἔτεκεν ἁγνή, ἀλλὰ τοῦ ἐκ Παρθένου ἀνεδείχθη ὁ ἐκ στείρας, Προφήτης Κήρυξ ὁμοῦ καὶ Πρόδρομος."
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C1H.ode = misc_gr_GR_cog.Ode7
 meMA.Ode7C1H.mode = misc_gr_GR_cog.Mode4
@@ -591,7 +591,7 @@ meMA.LaudsSundayVerse1.text = meVE.ApostichaVerse2.text
 meMA.LaudsSundayVerse2.text = meVE.ApostichaVerse3.text
 
 meLI.SeasonalKontakion.mode = misc_gr_GR_cog.Mode2
-meLI.SeasonalKontakion.melody  = ""
+meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = ho.s07_gr_GR_cog.hoTY.Key0408.text
 
 meLI.Alleluia.mode = misc_gr_GR_cog.Mode1

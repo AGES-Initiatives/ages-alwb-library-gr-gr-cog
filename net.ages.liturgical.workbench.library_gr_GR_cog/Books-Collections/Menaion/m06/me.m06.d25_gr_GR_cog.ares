@@ -1,15 +1,15 @@
 A_Resource_Whose_Name = me.m06.d25_gr_GR_cog
 
 meDate.text = "Τῌ ΚΕʹ ΙΟΥΝΙΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "Μνήμη τῆς Ἁγίας Ὁσιομάρτυρος Φεβρωνίας." //full title of day
+meCommemoration.text = "Μνήμη τῆς Ἁγίας Ὁσιομάρτυρος Φεβρωνίας." // full title of day
 meShortCommemoration1.text = ""
-meInsert1 = "καὶ τῆς Ἁγίας Ὁσιομάρτυρος Φεβρωνίας, " //for use in petitions and dismissal
-meInsert2 = "ἧς καὶ τὴν μνήμην ἐπιτελοῦμεν· " //for use in petitions and dismissal
+meInsert1 = "καὶ τῆς Ἁγίας Ὁσιομάρτυρος Φεβρωνίας, " // for use in petitions and dismissal
+meInsert2 = "ἧς καὶ τὴν μνήμην ἐπιτελοῦμεν· " // for use in petitions and dismissal
 meNote.text = ""
-meLE.commemoration1 = "Μνήμη τῆς Ἁγίας Ὁσιομάρτυρος Φεβρωνίας."
+meLE.commemoration1 = "Τῆς Ἁγίας Ὁσιομάρτυρος καί Πολυάθλου Φεβρωνίας."
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -182,7 +182,7 @@ meMA.Kontakion1.mode = misc_gr_GR_cog.Mode3
 meMA.Kontakion1.melody = he.a.m3_gr_GR_cog.IParthenosSimeron.name
 meMA.Kontakion1.text = "Ἡ πρὶν στεῖρα σήμερον, Χριστοῦ τὸν Πρόδρομον τίκτει, καὶ αὐτὸς τὸ πλήρωμα, πάσης τῆς προφητείας· ὄνπερ γάρ, προανεκήρυξαν οἱ Προφῆται, τοῦτον δή, ἐν Ἰορδάνῃ χειροθετήσας, ἀνεδείχθη Θεοῦ Λόγου, Προφήτης Κήρυξ ὁμοῦ καὶ Πρόδρομος."
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C11.ode = misc_gr_GR_cog.Ode7
 meMA.Ode7C11.mode = misc_gr_GR_cog.Mode8
@@ -262,11 +262,11 @@ meMA.AposGlory.melody = misc_gr_GR_cog.Idiomelon
 meMA.AposGlory.text = "Πρέπει τῷ Ἰωάννῃ ἡ εὐωδία, πρέπει τῷ Βαπτιστῇ τῶν ᾀσμάτων ἡ τερπνότης· οὗτος γὰρ ἐκήρυξε τὴν ἀπαρχὴν τῆς ἡμῶν σωτηρίας, ὁ σκιρτῶν ἐν κοιλίᾳ, καὶ βοῶν ἐν ἐρήμῳ· Μετανοεῖτε, τοῦ Βασιλέως ὁ στρατιώτης, ὁ Πρόδρομος τῆς χάριτος, ὁ τὸν ἀμνὸν προμηνύων, καὶ τὸν Σωτῆρα πρεσβεύων, ὑπὲρ τῶν ψυχῶν ἡμῶν."
 
 meMA.AposTheotokion.mode = misc_gr_GR_cog.Mode8
-meMA.AposTheotokion.melody  = ""
+meMA.AposTheotokion.melody = ""
 meMA.AposTheotokion.text = oc.m8.d5_gr_GR_cog.ocMA.AposTheotokion.text
 
 meLI.SeasonalKontakion.mode = misc_gr_GR_cog.Mode2
-meLI.SeasonalKontakion.melody  = ""
+meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = ho.s07_gr_GR_cog.hoTY.Key0408.text
 
 meLI.Alleluia.mode = misc_gr_GR_cog.Mode4

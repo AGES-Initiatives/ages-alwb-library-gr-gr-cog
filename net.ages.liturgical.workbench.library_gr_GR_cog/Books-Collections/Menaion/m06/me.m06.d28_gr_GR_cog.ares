@@ -1,15 +1,15 @@
-A_Resource_Whose_Name = me.m06.d28_gr_GR_cog 
+A_Resource_Whose_Name = me.m06.d28_gr_GR_cog
 
 meDate.text = "Τῌ ΚΗʹ ΙΟΥΝΙΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "Μνήμη τῆς Ἀνακομιδῆς τῶν Λειψάνων τῶν Ἁγίων καὶ θαυματουργῶν Ἀναργύρων, Κύρου καὶ Ἰωάννου." //full title of day
+meCommemoration.text = "Μνήμη τῆς Ἀνακομιδῆς τῶν Λειψάνων τῶν Ἁγίων καὶ Θαυματουργῶν Ἀναργύρων, Κύρου καὶ Ἰωάννου." // full title of day
 meShortCommemoration1.text = ""
-meInsert1 = "καὶ τῆς Ἀνακομιδῆς τῶν Λειψάνων τῶν Ἁγίων καὶ θαυματουργῶν Ἀναργύρων, Κύρου καὶ Ἰωάννου, " //for use in petitions and dismissal
-meInsert2 = "ὧν καὶ τὴν μνήμην ἐπιτελοῦμεν· " //for use in petitions and dismissal
+meInsert1 = "καὶ τῆς Ἀνακομιδῆς τῶν Λειψάνων τῶν Ἁγίων καὶ θαυματουργῶν Ἀναργύρων, Κύρου καὶ Ἰωάννου, " // for use in petitions and dismissal
+meInsert2 = "ὧν καὶ τὴν μνήμην ἐπιτελοῦμεν· " // for use in petitions and dismissal
 meNote.text = ""
-meLE.commemoration1 = "Μνήμη τῆς Ἀνακομιδῆς τῶν Λειψάνων τῶν Ἁγίων καὶ θαυματουργῶν Ἀναργύρων, Κύρου καὶ Ἰωάννου."
+meLE.commemoration1 = "Ἀνακομιδὴ τῶν Λειψάνων τῶν Ἁγίων καὶ Ωαυματουργῶν Ἀναργύρων Κύρου καὶ Ἰωάννου."
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -170,7 +170,7 @@ meMA.Kontakion1.text = "Ἐκ τῆς θείας χάριτος, τὴν δω�
 
 meMA.Oikos1.text = "Ἑαυτοὺς τῷ Θεῷ ἀναθέμενοι Ἅγιοι, πᾶσαν πεῖραν δεινῶν δι' αὐτὸν ὑπεμείνατε, θανόντες προθύμως Μάρτυρες γενναῖοι, καὶ μετὰ τέλος πᾶσι πηγαζετε τὰ θεῖα χαρίσματα, τοῖς ἐν ποικίλαις νόσοις ὑπάρχουσι, καὶ ὑπὸ πολλῶν ἐταζομένοις κακῶν, ὧν εἷς καὶ πρῶτός εἰμι ὁ τάλας· τὸ σῶμα γὰρ καὶ τὴν ψυχὴν ὑπὸ τραυμάτων χαλεπῶν ὀδυνῶμαι, καὶ πίστει βοῶ· ἰάσασθέ με· ὑμεῖς γὰρ θεῖοι ἰατροὶ ὑπάρχετε."
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C11.ode = misc_gr_GR_cog.Ode7
 meMA.Ode7C11.mode = misc_gr_GR_cog.Mode2
@@ -257,7 +257,7 @@ meMA.LaudsSundayVerse1.text = ""
 meMA.LaudsSundayVerse2.text = ""
 
 meLI.SeasonalKontakion.mode = misc_gr_GR_cog.Mode2
-meLI.SeasonalKontakion.melody  = ""
+meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = ho.s07_gr_GR_cog.hoTY.Key0408.text
 
 meLI.Alleluia.mode = misc_gr_GR_cog.Mode4

@@ -1,15 +1,15 @@
 A_Resource_Whose_Name = me.m07.d08_gr_GR_cog
 
 meDate.text = "Τῌ Ηʹ ΙΟΥΛΙΟΥ"
-meCommemoration.text = "Μνήμη τοῦ Ἁγίου καὶ ἐνδόξου Μεγαλομάρτυρος Προκοπίου." //full title of day
+meCommemoration.text = "Μνήμη τοῦ Ἁγίου καὶ Ἐνδόξου Μεγαλομάρτυρος Προκοπίου." // full title of day
 meShortCommemoration1.text = ""
-meInsert1 = "καὶ τοῦ Ἁγίου καὶ ἐνδόξου Μεγαλομάρτυρος Προκοπίου, " //for use in petitions and dismissal
-meInsert2 = "οὗ καὶ τὴν μνήμην ἐπιτελοῦμεν· " //for use in petitions and dismissal
+meInsert1 = "καὶ τοῦ Ἁγίου καὶ ἐνδόξου Μεγαλομάρτυρος Προκοπίου, " // for use in petitions and dismissal
+meInsert2 = "οὗ καὶ τὴν μνήμην ἐπιτελοῦμεν· " // for use in petitions and dismissal
 meNote.text = ""
-meLE.commemoration1 = "Μνήμη τοῦ Ἁγίου καὶ ἐνδόξου Μεγαλομάρτυρος Προκοπίου."
+meLE.commemoration1 = "Τοῦ Ἁγίου Μεγαλομάρτυρος Προκοπίου."
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -39,7 +39,7 @@ meVE.Stichera06.melody = he.a.m4_gr_GR_cog.EdokasSimeiosin.name
 meVE.Stichera06.text = "Δῆμον προσενήνοχας τῷ Ποιητῇ διὰ πίστεως, ἱερῶς ἐναθλήσαντα, θεόφρον Προκόπιε, μεθ' ὧν τῶν Μαρτύρων, χοροῖς ἠριθμήθης, καταβαλὼν τὸν δυσμενῆ, ἀνδρειοφρόνως ἀξιοθαύμαστε· διὸ σε μακαρίζομεν, ὡς στρατιώτην ἀήττητον, ὡς γενναῖον ἀδάμαντα, ὡς τῆς πίστεως πρόμαχον."
 
 meVE.SticGlory.mode = misc_gr_GR_cog.Mode6
-meVE.SticGlory.melody  = ""
+meVE.SticGlory.melody = ""
 meVE.SticGlory.text = "Ἐξέλαμψε σήμερον, ἡ ἔνδοξος μνήμη σου, Προκόπιε πολύαθλε, συγκαλοῦσα ἡμᾶς τους φιλεόρτους, πρὸς εὐφημίαν καὶ δόξαν Χριστοῦ τοῦ Θεοῦ ἡμῶν. Ὅθεν καὶ προστρέχοντες, ἐν τῇ σορῷ τῶν λειψάνων σου, ἰαμάτων χαρίσματα λαμβάνομεν, καὶ τὸν σὲ στεφανώσαντα Σωτῆρα Χριστόν, ἀνυμνοῦμεν εἰς αἰῶνας, ἀκαταπαύστως δοξάζοντες."
 
 meVE.SticTheotokion.mode = misc_gr_GR_cog.Mode6
@@ -68,7 +68,7 @@ meVE.Aposticha3.text = "Στρατηγὸς ὡς ἀήττητος, τῷ Στ
 
 meVE.AposGlory.poet = poets_gr_GR_cog.ProkopiouChartofylakos
 meVE.AposGlory.mode = misc_gr_GR_cog.Mode8
-meVE.AposGlory.melody  = ""
+meVE.AposGlory.melody = ""
 meVE.AposGlory.text = "Ταῖς μυστικαὶς λαμπηδόσι, τῆς ὑπερφώτου Τριάδος καταυγαζόμενος, μάρτυς Προκόπιε γενναιόφρον, θέσει Θεὸς χρηματίζεις, θεούμενος ἐν μεθέξει· ὅθεν τοὺς πίστει τελοῦντάς σου τὴν φωσφόρον ἑορτήν, ἐκ πειρασμῶν πολυτρόπων, περίσῳζε σαῖς πρεσβείαις."
 
 meVE.AposTheotokion.mode = misc_gr_GR_cog.Mode8
@@ -219,7 +219,7 @@ meMA.Kontakion1.text = "Τῷ ζήλῳ Χριστοῦ, τῷ θείῳ πυ�
 
 meMA.Oikos1.text = "Στόμα συνέσεώς μοι παράσχου ὁ προάναρχος Λόγος, βουλομένῳ ὑμνεῖν τὸν σὸν ὁπλίτην Προκόπιον· ἔχεις γὰρ πλοῦτον τῆς εὐσπλαγχνίας, ἐν ἀπείρῳ Χριστέ μου πελάγει τῶν σῶν κριμάτων, ἵνα κἀγὼ τῆς ψυχῆς τὸ ζοφῶδες καθαρθῶ, τοῦ νοῦ δὲ πᾶσαν κηλῖδα ἀποσμήξας, καὶ ναὸς ἁγιάσματος τοῖς θείοις ἔργοις γενόμενος, ἐπάξια μέλψω τῷ Μάρτυρι, ὃς τὴν σεπτὴν Ἐκκλησίαν ὕψωσε, τῇ πίστει προκόπτων καὶ φωτίζων ἡμᾶς."
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C11.ode = misc_gr_GR_cog.Ode7
 meMA.Ode7C11.mode = misc_gr_GR_cog.Mode4
@@ -301,30 +301,30 @@ meMA.ExapTheotokion.text = "Σοῦ τὸ πολίτευμα Λόγε, κρα�
 
 meMA.Lauds1.poet = poets_gr_GR_cog.Vyzantiou
 meMA.Lauds1.mode = misc_gr_GR_cog.Mode2
-meMA.Lauds1.melody  = ""
+meMA.Lauds1.melody = ""
 meMA.Lauds1.text = "Ὡς προκόπτων ἐν Θεῷ πάντας πρέσβευε ἀθλοφόρε, προκόπτειν ἐν αὐτῷ, Μαρτύρων κλέος μέγιστε Προκόπιε, ὡς παρρησίαν ἔχων πρὸς αὐτόν, καὶ τῷ τούτου θρόνῳ ἀεὶ παριστάμενος, ἐν θεαρέστοις ὁδοῖς καὶ θείαις πράξεσιν, εὐαρεστοῦντας αὐτῷ καὶ σὲ μακαρίζοντας."
 
 meMA.Lauds2.poet = poets_gr_GR_cog.Germanou
 meMA.Lauds2.mode = misc_gr_GR_cog.Mode3
-meMA.Lauds2.melody  = ""
+meMA.Lauds2.melody = ""
 meMA.Lauds2.text = "Νεανικὴν ἄγων τὴν ἡλικίαν, ὥσπερ ὁ θεσπέσιος Παῦλος, ἐκ τῶν ὑψίστων τὸ θεῖον χάρισμα ἐδέξω, καὶ τοῦ δεινοῦ πολεμήτορος τὰ θράση, τῇ πανοπλίᾳ τοῦ Σταυροῦ κατέβαλες, Μαρτύρων τὸ καύχημα, ἀθλοφόρε, Προκόπιε, ὑπὲρ ἡμῶν πρὸς Κύριον ἱκέτευε, τοῦ σωθῆναι τὰς ψυχὰς ἡμῶν."
 
 meMA.Lauds3.poet = poets_gr_GR_cog.Kyprianou
 meMA.Lauds3.mode = misc_gr_GR_cog.Mode4
-meMA.Lauds3.melody  = ""
+meMA.Lauds3.melody = ""
 meMA.Lauds3.text = "Αἶνος τῷ Θεῷ ἐκ χοϊκῶν χειλέων προσᾴδεται, ἐπὶ τῇ θείᾳ μνήμῃ σου, Προκόπιε πολύαθλε· σὺ γὰρ ὤφθης ἀκραιφνὴς στρατιώτης, τοῦ λόγου τῆς πίστεως, φαυλίσας ἐν τῷ σκάμματι εἰδώλων τὰς μορφάς, καὶ νῦν προσηρείσθης τῷ φέγγει τῆς Τριάδος, καταπυρσεύων ἡμῶν τὰς διανοίας ταῖς πρεσβείαις σου."
 
 meMA.Lauds4.mode = misc_gr_GR_cog.Mode5
-meMA.Lauds4.melody  = ""
+meMA.Lauds4.melody = ""
 meMA.Lauds4.text = "Ἡ Ἐκκλησία σήμερον, στολισαμένη τοῖς ἄθλοις σου, Μάρτυς τοῦ Χριστοῦ, εὐφραίνεται, καὶ τὴν σὴν παγγέραστον μνήμην, κατ' ἀξίαν εὐφήμως κραυγάζει γεραίρουσα· Χαίροις ὁ τὸν Παῦλον ζηλώσας, καὶ τὸν Σταυρὸν τοῦ Χριστοῦ ἀράμενος, καὶ τὰς παγίδας συντρίψας τοῦ ἀντιπάλου· Χαίροις Μαρτύρων τὸ καύχημα, καὶ Βασιλέων κραταίωμα, Προκόπιε πολύαθλε, ὑπὲρ ἡμῶν πρὸς Κύριον, μὴ διαλίπῃς πρεσβεύων, ὡς παρρησίαν ἔχων, ἀθλοφόρων ἐγκαλλώπισμα."
 
 meMA.LaudsGlory.poet = poets_gr_GR_cog.Anatoliou
 meMA.LaudsGlory.mode = misc_gr_GR_cog.Mode8
-meMA.LaudsGlory.melody  = ""
+meMA.LaudsGlory.melody = ""
 meMA.LaudsGlory.text = "Ὥσπερ ὁ Παῦλος τὴν κλῆσιν, ἐκ τοῦ Θεοῦ δεξάμενος, μάρτυς Προκόπιε, καὶ προκόπτων ἐν Θεῷ, τῇ τοῦ Σταυροῦ πεποιθήσει, τῶν τυρράνων τὸ δυσσεβές, καὶ τῶν βασάνων τὸ ἀπηνές, ἀνδρείως κατῄσχυνας. Διὸ καὶ μέχρις αἵματος ἀντικατέστης πρὸς τὴν ἁμαρτίαν, πρὸς ἀοράτους ἐχθροὺς ἀνταγωνισάμενος, καὶ πρεσβεύεις ἀπαύστως τῷ λυτρωτῇ καὶ Θεῷ, δωρηθῆναι τῇ οἰκουμένῃ εἰρήνην, καὶ ταῖς ψυχαῖς ἡμῶν τὸ μέγα ἔλεος."
 
 meMA.LaudsTheotokion.mode = misc_gr_GR_cog.Mode8
-meMA.LaudsTheotokion.melody  = ""
+meMA.LaudsTheotokion.melody = ""
 meMA.LaudsTheotokion.text = oc.m8.d5_gr_GR_cog.ocMA.AposTheotokion.text
 
 meMA.LaudsSundayVerse1.text = meVE.ApostichaVerse2.text
@@ -332,7 +332,7 @@ meMA.LaudsSundayVerse1.text = meVE.ApostichaVerse2.text
 meMA.LaudsSundayVerse2.text = meVE.ApostichaVerse3.text
 
 meLI.SeasonalKontakion.mode = misc_gr_GR_cog.Mode2
-meLI.SeasonalKontakion.melody  = ""
+meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = ho.s07_gr_GR_cog.hoTY.Key0408.text
 
 meMegalynarion.text = ""

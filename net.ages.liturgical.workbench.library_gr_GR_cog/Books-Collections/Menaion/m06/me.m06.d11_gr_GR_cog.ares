@@ -1,15 +1,15 @@
 A_Resource_Whose_Name = me.m06.d11_gr_GR_cog
 
 meDate.text = "Τῌ ΙΑʹ ΙΟΥΝΙΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "Μνήμη τῶν Ἁγίων Ἀποστόλων Βαρθολομαίου καὶ Βαρνάβα." //full title of day
+meCommemoration.text = "Μνήμη τῶν Ἁγίων Ἀποστόλων Βαρθολομαίου καὶ Βαρνάβα." // full title of day
 meShortCommemoration1.text = ""
-meInsert1 = "καὶ τῶν Ἁγίων Ἀποστόλων Βαρθολομαίου καὶ Βαρνάβα, " //for use in petitions and dismissal
-meInsert2 = "ὧν καὶ τὴν μνήμην ἐπιτελοῦμεν· " //for use in petitions and dismissal
+meInsert1 = "καὶ τῶν Ἁγίων Ἀποστόλων Βαρθολομαίου καὶ Βαρνάβα, " // for use in petitions and dismissal
+meInsert2 = "ὧν καὶ τὴν μνήμην ἐπιτελοῦμεν· " // for use in petitions and dismissal
 meNote.text = ""
-meLE.commemoration1 = "Μνήμη τῶν Ἁγίων Ἀποστόλων Βαρθολομαίου καὶ Βαρνάβα."
+meLE.commemoration1 = "Τῶν Ἁγίων Ἀποστόλων Βαρθολομαίου καὶ Βαρνάβα."
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -41,7 +41,7 @@ meVE.Stichera06.text = "Ὄργανον εὐάρμοστον, τῇ θεϊκ�
 
 meVE.SticGlory.poet = poets_gr_GR_cog.Theofanous
 meVE.SticGlory.mode = misc_gr_GR_cog.Mode6
-meVE.SticGlory.melody  = ""
+meVE.SticGlory.melody = ""
 meVE.SticGlory.text = "Τοὺς τῆς εὐσεβείας ἀληθεῖς κήρυκας, καὶ παμφαεῖς τῆς Ἐκκλησίας ἀστέρας, ὕμνοις ἐγκωμίων τιμήσωμεν, Βαρθολομαῖον καὶ Βαρνάβαν, τοὺς τῶν πιστῶν διδασκάλους, καὶ μύστας τοῦ Σωτῆρος Χριστοῦ. Οὗτοι γὰρ τὸν τῆς ἀληθείας λόγον σπείραντες, ἐν ταῖς καρδίαις τῶν πιστῶν, πᾶσι καρποφορίαν διένειμαν, καὶ πρεσβεύουσι Χριστῷ, τοῦ σωθῆναι τὰς ψυχὰς ἡμῶν."
 
 meVE.SticTheotokion.mode = misc_gr_GR_cog.Mode6
@@ -66,11 +66,11 @@ meVE.Aposticha3.text = "Ἔθνη προσηγάγετε Χριστῷ, τῷ �
 
 meVE.AposGlory.poet = poets_gr_GR_cog.KosmaMonachou
 meVE.AposGlory.mode = misc_gr_GR_cog.Mode8
-meVE.AposGlory.melody  = ""
+meVE.AposGlory.melody = ""
 meVE.AposGlory.text = "Ἣν διήλθετε κτίσιν φωτίσαντες, οἱ τοῦ Σωτῆρος Μαθηταί, τὴν πλάνην τῶν εἰδώλων, ὡς ὕλην καταφλέξαντες τοῖς διδάγμασιν ὑμῶν, τὰ ἔθνη ἐξ ἀγνωσίας βυθοῦ, πρός τὴν θείαν γνῶσιν, σαγηνεύσαντες ἐσώσατε, καὶ νῦν πρεσβεύσατε Χριστῷ, ὅπως ἵλεως γένηται ἡμῖν, ἐν τῇ ἡμέρᾳ τῆς κρίσεως."
 
 meVE.AposTheotokion.mode = misc_gr_GR_cog.Mode8
-meVE.AposTheotokion.melody  = ""
+meVE.AposTheotokion.melody = ""
 meVE.AposTheotokion.text = oc.m8.d5_gr_GR_cog.ocMA.AposTheotokion.text
 
 meVE.Apolytikion1.poet = poets_gr_GR_cog.Gerasimou
@@ -265,7 +265,7 @@ meMA.Kontakion1.text = "Ὤφθης μέγας ἥλιος τῇ Ἐκκλησ�
 
 meMA.Oikos1.text = "Ἐμυήθης τοῦ Λόγου μαθητά, τοὺς λόγους τοὺς ἁγίους, καὶ τοὺς πάλαι ἀλογίᾳ δεινῶς καθυπαχθέντας τέκνα εἰργάσω τοῦ φωτός. Ἥπλωσας εἰς βάθη ἀγνωσίας τὰ σεπτὰ καὶ ἱερά σου δίκτυα, καὶ ἔλαβες τὰ ἔθνη ὑπήκοα, τὰς κεχερσωμένας ἀπάτῃ διανοίας ἐνέωσας τῷ θείῳ ἀρότρῳ. Ἐξήρανας τὸν φλογμὸν τῆς πολυθεΐας, δροσισμῷ σου τῆς φαιδρᾶς θεηγορίας υἱοὺς Θεοῦ, τοὺς πρὶν ὀργῆς τέκνα ἐργασάμενος, Βαρθολομαῖε Κυρίου Ἀπόστολε."
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C11.ode = misc_gr_GR_cog.Ode7
 meMA.Ode7C11.mode = misc_gr_GR_cog.Mode2
@@ -393,11 +393,11 @@ meMA.Lauds3.melody = he.a.m4_gr_GR_cog.OsGennaionEnMartysi.name
 meMA.Lauds3.text = "Ὡς νεφέλαι Μακάριοι, ἐπὶ πάντα τὰ πέρατα, ὑετὸν ἐῤῥάνατε τὸν οὐράνιον, καὶ τὰς ψυχὰς κατηρδεύσατε, πιστῶν θείᾳ χάριτι, ἀποπνίξαντες δεινά, ἀθεΐας ζιζάνια, καὶ τελέσαντες, τὰς ψυχὰς καρποφόρους τῶν ἀνθρώπων· διὰ τοῦτο ἐν αἰνέσει, ὑμᾶς τιμῶμεν Ἀπόστολοι."
 
 meMA.LaudsGlory.mode = misc_gr_GR_cog.Mode5
-meMA.LaudsGlory.melody  = ""
+meMA.LaudsGlory.melody = ""
 meMA.LaudsGlory.text = "Ἡ σοφία τοῦ Θεοῦ, ὁ συναΐδιος Λόγος τοῦ Πατρός, καθὼς ἐν Εὐαγγελίοις προέβη, τὰ εὔφορα κλήματα, ὑμεῖς ἐστε πανεύφημοι Ἀπόστολοι, οἱ τὸν βότρυν τὸν πέπειρον καὶ τερπνόν, ἐν τοῖς κλάδοις ὑμῶν φέροντες, ὃν οἱ πιστοὶ ἐσθίοντες, ἐπιστοιχοῦμεν γεῦσιν πρὸς εὐφρόσυνον, Βαρθολομαῖε θεόληπτε, καὶ Βαρνάβα υἱὲ παρακλήσεως, ἐκτενῶς πρεσβεύσατε, ὑπὲρ τῶν ψυχῶν ἡμῶν."
 
 meMA.LaudsTheotokion.mode = misc_gr_GR_cog.Mode5
-meMA.LaudsTheotokion.melody  = ""
+meMA.LaudsTheotokion.melody = ""
 meMA.LaudsTheotokion.text = oc.m5.d3_gr_GR_cog.ocVE.AposTheotokion.text
 
 meMA.LaudsSundayVerse1.text = ""
@@ -405,10 +405,10 @@ meMA.LaudsSundayVerse1.text = ""
 meMA.LaudsSundayVerse2.text = ""
 
 meLI.SeasonalKontakion.mode = misc_gr_GR_cog.Mode2
-meLI.SeasonalKontakion.melody  = ""
+meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = ho.s07_gr_GR_cog.hoTY.Key0408.text
 
-meLI.Alleluia.mode  = ""
+meLI.Alleluia.mode = ""
 
 meLI.AlleluiaVerse1.text = ""
 

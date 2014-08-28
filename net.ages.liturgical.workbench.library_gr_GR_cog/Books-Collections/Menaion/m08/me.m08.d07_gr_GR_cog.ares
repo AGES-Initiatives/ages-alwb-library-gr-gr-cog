@@ -1,15 +1,15 @@
 A_Resource_Whose_Name = me.m08.d07_gr_GR_cog
 
 meDate.text = "Τῌ Ζʹ ΑΥΓΟΥΣΤΟΥ"
-meCommemoration.text = "Μνήμη τοῦ Ἁγίου Ὁσιομάρτυρος Δομετίου." //full title of day
+meCommemoration.text = "Μνήμη τοῦ Ἁγίου Ὁσιομάρτυρος Δομετίου." // full title of day
 meShortCommemoration1.text = ""
-meInsert1 = "καὶ τοῦ Ἁγίου Ὁσιομάρτυρος Δομετίου, " //for use in petitions and dismissal
-meInsert2 = "οὗ καὶ τὴν μνήμην ἐπιτελοῦμεν· " //for use in petitions and dismissal
+meInsert1 = "καὶ τοῦ Ἁγίου Ὁσιομάρτυρος Δομετίου, " // for use in petitions and dismissal
+meInsert2 = "οὗ καὶ τὴν μνήμην ἐπιτελοῦμεν· " // for use in petitions and dismissal
 meNote.text = ""
-meLE.commemoration1 = "Μνήμη τοῦ Ἁγίου Ὁσιομάρτυρος Δομετίου."
+meLE.commemoration1 = "Τοῦ Ἁγίου Ὁσιομάρτυρος Δομετίου τοῦ Πέρσου."
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -40,7 +40,7 @@ meVE.Stichera06.melody = he.a.m6_gr_GR_cog.OlinApothemenoi.name
 meVE.Stichera06.text = "Ὅλην ἐνδυσάμενος, τὴν τοῦ Σταυροῦ πανοπλίαν, καὶ τὸν ἀδιάρρηκτον, θυρεὸν τῆς πίστεως περιθέμενος, φοβερὸς γέγονας, ταῖς ἀντικειμέναις, τῶν Δαιμόνων παρατάξεσιν, οὓς καὶ ἐδίωξας, μάστιγι τῇ πίστει χρησάμενος, καὶ θείαις ἐπικλήσεσι, καὶ τοὺς ὁδοιπόρους διέσωσας, βλάβης τῆς ἐκείνων, Δομέτιε θεράπον τοῦ Χριστοῦ, ὅν παρρησίᾳ δυσώπησον, ὑπὲρ τῶν ψυχῶν ἡμῶν."
 
 meVE.SticGlory.mode = misc_gr_GR_cog.Mode6
-meVE.SticGlory.melody  = ""
+meVE.SticGlory.melody = ""
 meVE.SticGlory.text = me.m08.d06_gr_GR_cog.meVE.SticGlory.text
 
 meVE.Aposticha1.mode = misc_gr_GR_cog.Mode2
@@ -60,11 +60,11 @@ meVE.Aposticha3.melody = he.a.m2_gr_GR_cog.OikosTouEfratha.name
 meVE.Aposticha3.text = me.m08.d05_gr_GR_cog.meVE.Aposticha2.text
 
 meVE.AposGlory.mode = misc_gr_GR_cog.Mode5
-meVE.AposGlory.melody  = ""
+meVE.AposGlory.melody = ""
 meVE.AposGlory.text = "Τῆς Θεότητός σου Χριστέ, ἀμυδρὰν αὐγὴν παραγυμνώσας, τοῖς συναναβᾶσί σοι ἐπὶ τοῦ ὄρους, τῆς ὑπερκοσμίου σου δόξης ἐποίησας κοινωνούς· ὅθεν ἐνθεαστικῶς ἐκραύγαζον· Καλὸν ἐστιν ἡμᾶς ὧδε εἶναι. Μεθ' ὧν καὶ ἡμεῖς, σὲ τὸν μεταμορφωθέντα Σωτῆρα Χριστόν, ἀνυμνοῦμεν εἰς τοὺς αἰῶνας."
 
 meVE.Apolytikion1.mode = misc_gr_GR_cog.Mode7
-meVE.Apolytikion1.melody  = ""
+meVE.Apolytikion1.melody = ""
 meVE.Apolytikion1.text = me.m08.d06_gr_GR_cog.meVE.Apolytikion1.text
 
 meMA.Kathisma11.mode = misc_gr_GR_cog.Mode4
@@ -196,10 +196,10 @@ meMA.Ode6H.melody = misc_gr_GR_cog.Heirmos
 meMA.Ode6H.text = he.h.m6_gr_GR_cog.TouViouTinThalassan.text
 
 meMA.Kontakion1.mode = misc_gr_GR_cog.Mode7
-meMA.Kontakion1.melody  = ""
+meMA.Kontakion1.melody = ""
 meMA.Kontakion1.text = me.m08.d06_gr_GR_cog.meMA.Kontakion1.text
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C11.ode = misc_gr_GR_cog.Ode7
 meMA.Ode7C11.mode = misc_gr_GR_cog.Mode6
@@ -296,13 +296,13 @@ meMA.Aposticha3.melody = he.a.m2_gr_GR_cog.OikosTouEfratha.name
 meMA.Aposticha3.text = "Σέλας τὸ τριλαμπές, ἀστράψας ἀπορρήτως, τῆς θεϊκῆς σου δόξης, Θαβὼρ ἐν ὄρει Σῶτερ, τὴν σύμπασαν ἐφαίδρυνας."
 
 meMA.AposGlory.mode = misc_gr_GR_cog.Mode5
-meMA.AposGlory.melody  = ""
+meMA.AposGlory.melody = ""
 meMA.AposGlory.text = me.m08.d06_gr_GR_cog.meVE.LityBoth.text
 
 meLI.Antiphon2.text = me.m08.d06_gr_GR_cog.meLI.Antiphon2.text
 
 meLI.SeasonalKontakion.mode = me.m08.d06_gr_GR_cog.meMA.Kontakion1.mode
-meLI.SeasonalKontakion.melody  = ""
+meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = me.m08.d06_gr_GR_cog.meMA.Kontakion1.text
 
 meMegalynarion.text = ""

@@ -1,15 +1,15 @@
 A_Resource_Whose_Name = me.m08.d16_gr_GR_cog
 
 meDate.text = "Τῌ ΙϚʹ ΑΥΓΟΥΣΤΟΥ"
-meCommemoration.text = "Μνήμη τῆς ἐξ Ἐδέσσης ἀνακομιδῆς τῆς ἀχειροποιήτου Εἰκόνος τοῦ Κυρίου ἡμῶν Ἰησοῦ Χριστοῦ, ἤτοι τοῦ Ἁγίου Μανδηλίου, καὶ τοῦ Ἁγίου Μάρτυρος Διομήδους." //full title of day
+meCommemoration.text = "Μνήμη τῆς ἐξ Ἐδέσσης ἀνακομιδῆς τῆς ἀχειροποιήτου Εἰκόνος τοῦ Κυρίου ἡμῶν Ἰησοῦ Χριστοῦ, ἤτοι τοῦ Ἁγίου Μανδηλίου, καὶ τοῦ Ἁγίου Μάρτυρος Διομήδους." // full title of day
 meShortCommemoration1.text = ""
-meInsert1 = "" //for use in petitions and dismissal
-meInsert2 = "" //for use in petitions and dismissal
+meInsert1 = "" // for use in petitions and dismissal
+meInsert2 = "" // for use in petitions and dismissal
 meNote.text = ""
-meLE.commemoration1 = "Μνήμη τῆς ἐξ Ἐδέσσης ἀνακομιδῆς τῆς ἀχειροποιήτου Εἰκόνος τοῦ Κυρίου ἡμῶν Ἰησοῦ Χριστοῦ, ἤτοι τοῦ Ἁγίου Μανδηλίου, καὶ τοῦ Ἁγίου Μάρτυρος Διομήδους."
+meLE.commemoration1 = "Ἀνάμνησις τῆς ἐξ Ἐδέσσης τῆς Μεσοποταμίας εἰς Κωνσταντινούπολιν Ἀνακομιδῆς τῆς Ἀχειροποιήτου Εἰκόνος τοῦ Κυρίου καὶ Θεοῦ καί Σωτῆρος ἡμῶν Ἰησοῦ Χριστοῦ, ἤτοι τοῦ Ἁγίου Μανδηλίου. Τοῦ Ἁγίου Μάρτυρος Διομήδους."
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -39,7 +39,7 @@ meVE.Stichera06.melody = he.a.m4_gr_GR_cog.OsGennaionEnMartysi.name
 meVE.Stichera06.text = "Ἐν ὁδῷ μαρτυρίου σου, ὡς ἐν πλούτῳ τερπόμενος, Διομήδης Κύριε τῇ βουλήσει σου, αὐτοῦ τὸ πνεῦμα εἰς χεῖράς σου, Χριστὲ παραδέδωκεν, ἐκτμηθεὶς τὴν κεφαλήν, μετὰ τέλος μακάριον, καὶ γενόμενος, ὁδηγὸς ἀληθείας τοῖς ἀθέοις, πηρωθεῖσι παραδόξως, καὶ διὰ πίστεως βλέψασι."
 
 meVE.SticGlory.mode = misc_gr_GR_cog.Mode6
-meVE.SticGlory.melody  = ""
+meVE.SticGlory.melody = ""
 meVE.SticGlory.text = "Δεῦτε τὴν παγκόσμιον Κοίμησιν, τῆς παναμώμου Θεοτόκου ἑορτάσωμεν· σήμερον γὰρ Ἄγγελοι πανηγυρίζουσι, τὴν σεπτὴν Μετάστασιν τῆς Θεομήτορος, καὶ πρὸς εὐωχίαν ἡμᾶς τοὺς γηγενεῖς συγκαλοῦσι τοῦ βοᾶν ἀσιγήτῳ φωνῇ· Χαῖρε, ἡ μεταστᾶσα ἀπὸ γῆς, καὶ πρὸς οὐρανίους μονὰς μετοικήσασα· Χαίροις ἡ τῶν Μαθητῶν τὸν χορόν, διὰ νεφέλης κούφης εἰς ἓν συναγαγοῦσα· Χαίροις ἡ ἐλπὶς καὶ προστασία ἡμῶν· Σὲ γὰρ Χριστιανῶν τὸ γένος, ἀπαύστως μακαρίζομεν."
 
 meVE.Aposticha1.mode = misc_gr_GR_cog.Mode2
@@ -63,7 +63,7 @@ meVE.AposGlory.melody = he.a.m2_gr_GR_cog.OikosTouEfratha.name
 meVE.AposGlory.text = "Ὅτε πρὸς τὸν ἐκ σοῦ, τεχθέντα μετετέθης, συνῆλθον ἐν νεφέλαις, τὸ σῶμά σου κηδεῦσαι, Παρθένε οἱ Ἀπόστολοι."
 
 meVE.Apolytikion1.mode = misc_gr_GR_cog.Mode2
-meVE.Apolytikion1.melody  = ""
+meVE.Apolytikion1.melody = ""
 meVE.Apolytikion1.text = "Τὴν ἄχραντον Εἰκόνα σου, προσκυνοῦμεν ἀγαθέ, αἰτούμενοι συγχώρησιν τῶν πταισμάτων ἡμῶν, Χριστὲ ὁ Θεός· βουλήσει γὰρ ηὐδόκησας σαρκί, ἀνελθεῖν ἐν τῷ Σταυρῷ, ἵνα ῥύσῃ οὓς ἔπλασας, ἐκ τῆς δουλείας τοῦ ἐχθροῦ· ὅθεν εὐχαρίστως βοῶμέν σοι· Χαρᾶς ἐπλήρωσας τὰ πάντα, ὁ Σωτὴρ ἡμῶν, παραγενόμενος εἰς τὸ σῶσαι τὸν κόσμον."
 
 meMA.Kathisma11.mode = misc_gr_GR_cog.Mode4
@@ -294,7 +294,7 @@ meMA.Kontakion1.mode = misc_gr_GR_cog.Mode2
 meMA.Kontakion1.melody = "Τοὺς ασφαλεῖς."
 meMA.Kontakion1.text = "Τὴν θεαυγῆ, τῆς σῆς Μορφῆς ἐμφέρειαν, ζωαρχικάς, μαρμαρυγὰς ἀστράπτουσαν, ἐξ Ἐδέσσης ἐδεξάμεθα, ὥσπερ φορέα πάσης δόσεως· Σὺ γὰρ τὴν σὴν εἰκόνα μορφωσάμενος, αὐτὴν πρὸς τὸ ἀρχέτυπον ἀνήγαγες, ὁ μόνος ὑπάρχων πολυέλεος."
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C11.ode = misc_gr_GR_cog.Ode7
 meMA.Ode7C11.mode = misc_gr_GR_cog.Mode6
@@ -441,10 +441,10 @@ meMA.Aposticha3.melody = he.a.m2_gr_GR_cog.OikosTouEfratha.name
 meMA.Aposticha3.text = "Γῆ μὲν τῇ σῇ ταφῇ, εὐλόγηται Παρθένε, ἀὴρ δὲ τῇ ἀνόδῳ, ἡγίασται τῇ ξένῃ, νόμῳ θανούσης φύσεως."
 
 meMA.AposGlory.mode = misc_gr_GR_cog.Mode1
-meMA.AposGlory.melody  = ""
+meMA.AposGlory.melody = ""
 meMA.AposGlory.text = me.m08.d15_gr_GR_cog.meVE.Lity1.text
 
-meMA.LaudsSundayVerse1.text = "" //for media
+meMA.LaudsSundayVerse1.text = "" // for media
 
 meLI.SeasonalKontakion.mode = me.m08.d15_gr_GR_cog.meMA.Kontakion1.mode
 meLI.SeasonalKontakion.melody = me.m08.d15_gr_GR_cog.meMA.Kontakion1.melody

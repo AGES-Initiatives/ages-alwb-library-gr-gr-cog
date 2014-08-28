@@ -1,15 +1,15 @@
 A_Resource_Whose_Name = me.m08.d18_gr_GR_cog
 
 meDate.text = "Τῌ ΙΗʹ ΑΥΓΟΥΣΤΟΥ"
-meCommemoration.text = "Μνήμη τῶν Ἁγίων Μαρτύρων Φλώρου καὶ Λαύρου." //full title of day
+meCommemoration.text = "Μνήμη τῶν Ἁγίων Μαρτύρων Φλώρου καὶ Λαύρου." // full title of day
 meShortCommemoration1.text = ""
-meInsert1 = "καὶ τῶν Ἁγίων Μαρτύρων Φλώρου καὶ Λαύρου, " //for use in petitions and dismissal
-meInsert2 = "ὧν καὶ τὴν μνήμην ἐπιτελοῦμεν· " //for use in petitions and dismissal
+meInsert1 = "καὶ τῶν Ἁγίων Μαρτύρων Φλώρου καὶ Λαύρου, " // for use in petitions and dismissal
+meInsert2 = "ὧν καὶ τὴν μνήμην ἐπιτελοῦμεν· " // for use in petitions and dismissal
 meNote.text = ""
-meLE.commemoration1 = "Μνήμη τῶν Ἁγίων Μαρτύρων Φλώρου καὶ Λαύρου."
+meLE.commemoration1 = "Τῶν Ἁγίων Μαρτύρων Φλώρου καὶ Λαύρου."
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -39,7 +39,7 @@ meVE.Stichera06.melody = he.a.m4_gr_GR_cog.EdokasSimeiosin.name
 meVE.Stichera06.text = "Λάκκῳ συγκλειόμενοι, καὶ ὑπὸ γῆν καλυπτόμενοι, ἀπηνείᾳ δικάζοντος, θείαις εἰσηγήσεσι, καὶ ἀποκαλύψει, Πνεύματος Ἁγίου, ἐφανερώθητε ἡμῖν, ὥσπερ ἀστέρες ἐναπαστράπτοντες, σημεῖα καὶ τεράστια, καὶ ἰαμάτων χαρίσματα, ἀθλοφόροι αὐτάδελφοι, τῶν Ἀγγέλων ὁμόσκηνοι."
 
 meVE.SticGlory.mode = misc_gr_GR_cog.Mode4
-meVE.SticGlory.melody  = ""
+meVE.SticGlory.melody = ""
 meVE.SticGlory.text = me.m08.d15_gr_GR_cog.meVE.Aposticha1.text
 
 meVE.Aposticha1.mode = misc_gr_GR_cog.Mode2
@@ -59,7 +59,7 @@ meVE.Aposticha3.melody = he.a.m2_gr_GR_cog.OikosTouEfratha.name
 meVE.Aposticha3.text = "Ὕμνον αἱ οὐρανῶν, ἐξάρξατε Δυνάμεις, σὺν τοῖς ἐκ τῶν περάτων, τοῦ Λόγου μύσταις ἅμα, τῇ μόνῃ Θεομήτορι."
 
 meVE.AposGlory.mode = misc_gr_GR_cog.Mode4
-meVE.AposGlory.melody  = ""
+meVE.AposGlory.melody = ""
 meVE.AposGlory.text = me.m08.d15_gr_GR_cog.meVE.Aposticha3.text
 
 meVE.Apolytikion1.poet = poets_gr_GR_cog.Gerasimou
@@ -210,7 +210,7 @@ meMA.Ode6H.mode = misc_gr_GR_cog.Mode8
 meMA.Ode6H.melody = misc_gr_GR_cog.Heirmos
 meMA.Ode6H.text = he.h.m8_gr_GR_cog.IlasthitiMoiSotir.text
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C11.ode = misc_gr_GR_cog.Ode7
 meMA.Ode7C11.mode = misc_gr_GR_cog.Mode8
@@ -312,10 +312,10 @@ meMA.Aposticha3.melody = he.a.m2_gr_GR_cog.OikosTouEfratha.name
 meMA.Aposticha3.text = "Πᾶσαι τῶν οὐρανῶν, ὑμνήσατε χορεῖαι· ἡ γὰρ Παρθένος Μήτηρ, μετέστη παραδόξως, ἐκ γῆς πρὸς τὰ οὐράνια."
 
 meMA.AposGlory.mode = misc_gr_GR_cog.Mode4
-meMA.AposGlory.melody  = ""
+meMA.AposGlory.melody = ""
 meMA.AposGlory.text = me.m08.d15_gr_GR_cog.meVE.Aposticha2.text
 
-meMA.LaudsSundayVerse1.text = "" //for media
+meMA.LaudsSundayVerse1.text = "" // for media
 
 meLI.SeasonalKontakion.mode = me.m08.d15_gr_GR_cog.meMA.Kontakion1.mode
 meLI.SeasonalKontakion.melody = me.m08.d15_gr_GR_cog.meMA.Kontakion1.melody

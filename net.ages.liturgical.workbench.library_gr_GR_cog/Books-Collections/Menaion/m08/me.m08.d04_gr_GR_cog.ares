@@ -1,15 +1,15 @@
 A_Resource_Whose_Name = me.m08.d04_gr_GR_cog
 
 meDate.text = "Τῌ Δʹ ΑΥΓΟΥΣΤΟΥ"
-meCommemoration.text = "Μνήμη τῶν Ἁγίων ἑπτὰ Παίδων τῶν ἐν Ἐφέσῳ." //full title of day
+meCommemoration.text = "Μνήμη τῶν Ἁγίων Ἑπτὰ Παίδων τῶν ἐν Ἐφέσῳ." // full title of day
 meShortCommemoration1.text = ""
-meInsert1 = "καὶ τῶν Ἁγίων ἑπτὰ Παίδων τῶν ἐν Ἐφέσῳ, " //for use in petitions and dismissal
-meInsert2 = "ὧν καὶ τὴν μνήμην ἐπιτελοῦμεν· " //for use in petitions and dismissal
+meInsert1 = "καὶ τῶν Ἁγίων ἑπτὰ Παίδων τῶν ἐν Ἐφέσῳ, " // for use in petitions and dismissal
+meInsert2 = "ὧν καὶ τὴν μνήμην ἐπιτελοῦμεν· " // for use in petitions and dismissal
 meNote.text = ""
-meLE.commemoration1 = "Μνήμη τῶν Ἁγίων ἑπτὰ Παίδων τῶν ἐν Ἐφέσῳ."
+meLE.commemoration1 = "Τῶν Ἁγίων Ἑπτὰ Παίδων τῶν ἐν Ἐφέσῳ."
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -177,7 +177,7 @@ meMA.Kontakion1.mode = misc_gr_GR_cog.Mode4
 meMA.Kontakion1.melody = he.a.m4_gr_GR_cog.OYpsotheisEnToStavro.name
 meMA.Kontakion1.text = "Ὁ θαυμαστώσας ἐπὶ γῆς σοὺς Ἁγίους, πρὸ τῆς δευτέρας σου φρικτῆς παρουσίας, τῇ παραδόξῳ ἔδειξας τῶν Παίδων Χριστέ, ἐγέρσει τὴν ἀνάστασιν, τοῖς αὐτὴν ἀγνοοῦσιν, ἄφθαρτα καὶ σώματα, καὶ ἐσθῆτας ἐχόντων· καὶ βασιλέα ἔπεισας βοᾶν· Ὄντως ὑπάρχει νεκρῶν ἡ Ἀνάστασις."
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C11.ode = misc_gr_GR_cog.Ode7
 meMA.Ode7C11.mode = misc_gr_GR_cog.Mode2
@@ -268,7 +268,7 @@ meMA.ExapTheotokion.melody = he.a.m2_gr_GR_cog.ToisMathitaisSynelthomen.name
 meMA.ExapTheotokion.text = "Σὺν Ἰαμβλίχῳ μέλψωμεν, Ἰωάννην, Μαρτῖνον καὶ Κωνσταντῖνον ᾄσμασι, Μαξιμιλιανόν τε καὶ Διονύσιον ἅμα, κλεινῷ Ἑξακουστωδίῳ, φαιδρῶς πανηγυρίζοντες, τὴν φαιδράν τούτων μνήμην, ὅπως εὐχαῖς τούτων καὶ πρεσβείαις τῆς Θεοτόκου, πταισμάτων λύσιν εὕρωμεν, πρὸς Χριστοῦ τοῦ Σωτῆρος."
 
 meLI.SeasonalKontakion.mode = me.m08.d06_gr_GR_cog.meMA.Kontakion1.mode
-meLI.SeasonalKontakion.melody  = ""
+meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = me.m08.d06_gr_GR_cog.meMA.Kontakion1.text
 
 meMegalynarion.text = ""

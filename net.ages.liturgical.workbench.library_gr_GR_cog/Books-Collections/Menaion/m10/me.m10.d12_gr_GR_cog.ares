@@ -1,15 +1,15 @@
 A_Resource_Whose_Name = me.m10.d12_gr_GR_cog
 
 meDate.text = "Τῌ ΙΒʹ ΟΚΤΩΒΡΙΟΥ"
-meCommemoration.text = "Μνήμη τῶν ἁγίων Μαρτύρων Πρόβου, Ταράχου, καὶ Ἀνδρονίκου." //full title of day
+meCommemoration.text = "Μνήμη τῶν Ἁγίων Μαρτύρων Πρόβου, Ταράχου, καὶ Ἀνδρονίκου." // full title of day
 meShortCommemoration1.text = ""
-meInsert1 = "καὶ τῶν ἁγίων Μαρτύρων Πρόβου, Ταράχου, καὶ Ἀνδρονίκου, " //for use in petitions and dismissal
-meInsert2 = "ὧν καὶ τὴν μνήμην ἐπιτελοῦμεν· " //for use in petitions and dismissal
+meInsert1 = "καὶ τῶν ἁγίων Μαρτύρων Πρόβου, Ταράχου, καὶ Ἀνδρονίκου, " // for use in petitions and dismissal
+meInsert2 = "ὧν καὶ τὴν μνήμην ἐπιτελοῦμεν· " // for use in petitions and dismissal
 meNote.text = ""
-meLE.commemoration1 = "Μνήμη τῶν ἁγίων Μαρτύρων Πρόβου, Ταράχου, καὶ Ἀνδρονίκου."
+meLE.commemoration1 = "Μνήμη τῶν Ἁγίων Μαρτύρων Πρόβου, Ταράχου, καὶ Ἀνδρονίκου."
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -28,7 +28,7 @@ meVE.Stichera03.text = "Τῷ πόθῳ φλεγομενοι Χριστοῦ, �
 
 meVE.SticGlory.poet = poets_gr_GR_cog.Anatoliou
 meVE.SticGlory.mode = misc_gr_GR_cog.Mode4
-meVE.SticGlory.melody  = ""
+meVE.SticGlory.melody = ""
 meVE.SticGlory.text = "Στρατευθέντες τῷ Χριστῷ, τὰ ἐπὶ γῆς τερπνὰ κατελίπετε, καὶ τὸν σταυρὸν ἐπ' ὤμων ἄραντες, διὰ βασάνων πολυπλόκων, αὐτῷ ἠκολουθήσατε, καὶ ἐναντίον βασιλέων καὶ τυράννων πολλῶν, μὴ ἀρνησάμενοι αὐτόν, ὑπ' Ἀγγέλων τὰ βραβεῖα τῆς νίκης ἐδέξασθε, τὰς κεφαλὰς ὑμῶν στεφθέντες, καὶ πεπαρρησιασμένῃ τῇ ψυχῇ, φαιδρῶς εἰς τὸν νυμφῶνα τὸν μέγαν συνεληλύθατε. Πρόβε, τὸ κλέος τῶν Μαρτύρων, Τάραχε, τῶν δαιμόνων ὀλοθρευτά, καὶ Ἀνδρόνικε, νίκη τῶν πιστῶν, παρρησίαν ἔχοντες, τῷ Σωτῆρι τῶν ὅλων πρεσβεύσατε, ὑπὲρ τῶν ψυχῶν ἡμῶν."
 
 meVE.SticTheotokion.mode = misc_gr_GR_cog.Mode4
@@ -41,7 +41,7 @@ meVE.SticStavrotheotokion.text = "Νεκρούμενον βλέπουσα, Χ�
 
 meVE.AposGlory.poet = poets_gr_GR_cog.AndreouIerosolymitou
 meVE.AposGlory.mode = misc_gr_GR_cog.Mode1
-meVE.AposGlory.melody  = ""
+meVE.AposGlory.melody = ""
 meVE.AposGlory.text = "Τὸ τριστέλεχον ἄθροισμα, οἱ ἰσάριθμοι τῆς Ἁγίας Τριάδος,ὥσπερ ἀστέρες φαεινοὶ ἐκ τῆς Ἑῴας φανέντες, τὴν κτίσιν συγκαλοῦσι, πρὸς ἱερὰν πανήγυριν, Πρόβος, καὶ Τάραχος σὺν Ἀνδρονίκῳ τῷ σοφῷ· τὰς γὰρ σάρκας αὐτῶν θηρίοις παρέδωκαν, καὶ τῷ αἵματι τὴν γῆν πορφυρώσαντες, στεφηφόροι ἐν οὐρανοῖς, μέτ' Ἀγγέλων χορεύουσιν, αἰτούμενοι ὑπὲρ ἡμῶν τὸν φιλάνθρωπον Θεόν, πλημμελημάτων ἄφεσιν δωρηθῆναι, καὶ τὸ μέγα ἔλεος."
 
 meVE.AposTheotokion.mode = misc_gr_GR_cog.Mode1
@@ -202,7 +202,7 @@ meMA.Kontakion1.text = "Τριάδος ἡμῖν, τὴν δόξαν ἐμφ�
 
 meMA.Oikos1.text = "Του Ἰησοῦ τὰ πάθη γενναίως μιμησάμενοι, ἅμα σὺν Ταράχῳ τῷ σοφῷ, ὁ Πρόβος τε καὶ Ἀνδρόνικος, χαίροντες ἤχθησαν ἐν σταδίῳ, παρανόμων ἐλέγχοντες ἀθεΐαν. Ὅθεν ἡμεῖς οἱ ἐκ πόθου τιμῶντες τὴν μνήμην αὐτῶν, ἐν ὕμνοις ἀνευφημοῦμεν, καὶ πιστῶς τοὺς ἀγῶνας κηρύττομεν· ἐθαυμάστωσε γὰρ ὁ Κύριος, ὡς φωστῆρας ἐν κόσμῳ, τῇ πίστει γενναίως ἐναθλήσαντας."
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C11.ode = misc_gr_GR_cog.Ode7
 meMA.Ode7C11.mode = misc_gr_GR_cog.Mode8
@@ -293,7 +293,7 @@ meMA.ExapTheotokion.melody = he.a.m2_gr_GR_cog.ToisMathitaisSynelthomen.name
 meMA.ExapTheotokion.text = "Ἁμαρτιῶν πελάγει με, καὶ παθῶν ἐν τῇ ζάλῃ, διηνεκῶς ποντούμενον, πρόφθασον Θεοτόκε, τῇ παναλκεῖ σου δυνάμει, καὶ διάσωσον τάχος, καὶ πρὸς λιμένα ἴθυνον, μετανοίας με ὅπως, δοξολογῶ, σὸν Υἱὸν ὃν ἔτεκες ἀπορρήτως, καὶ σὲ τὴν Θεομήτορα, εὐλαβῶς μεγαλύνω."
 
 meMA.AposGlory.mode = misc_gr_GR_cog.Mode4
-meMA.AposGlory.melody  = ""
+meMA.AposGlory.melody = ""
 meMA.AposGlory.text = "Στρατευθέντες τῷ Χριστῷ, τὰ ἐπὶ γῆς τερπνὰ κατελίπετε, καὶ τὸν σταυρὸν ἐπ' ὤμων ἄραντες, διὰ βασάνων πολυπλόκων, αὐτῷ ἠκολουθήσατε, καὶ ἐναντίον βασιλέων καὶ τυράννων πολλῶν, μὴ ἀρνησάμενοι αὐτόν, ὑπ' Ἀγγέλων τὰ βραβεῖα τῆς νίκης ἐδέξασθε, τὰς κεφαλὰς ὑμῶν στεφθέντες, καὶ πεπαρρησιασμένῃ τῇ ψυχῇ, φαιδρῶς εἰς τὸν νυμφῶνα τὸν μέγαν συνεληλύθατε· Πρόβε, τὸ κλέος τῶν Μαρτύρων, Τάραχε, τῶν δαιμόνων ὀλοθρευτά, καὶ Ἀνδρόνικε, νίκη τῶν Πιστῶν,παρρησίαν ἔχοντες, τῷ Σωτῆρι τῶν ὅλων πρεσβεύσατε, ὑπὲρ τῶν ψυχῶν ἡμῶν."
 
 meMA.AposTheotokion.mode = misc_gr_GR_cog.Mode4
@@ -305,7 +305,7 @@ meMA.AposStavrotheotokion.melody = he.a.m4_gr_GR_cog.EdokasSimeiosin.name
 meMA.AposStavrotheotokion.text = "Ῥήγνυται χειρόγραφον, τὸ ἀπ' αἰῶνος νυγείσης σου, τῆς πλευρᾶς Πολυέλεε, Ἀδὰμ τοῦ προπάτορος, καὶ ἡ ἀπωσμένη, φύσις τῶν ἀνθρώπων, ῥανίσιν αἵματος τοῦ σοῦ, καθαγιάζεται ἀνακραζουσα· Δόξα τῇ εὐσπλαγχνίᾳ σου, δόξα τῇ θείᾳ σταυρώσει σου, Ἰησοῦ παντοδύναμε, ὁ Σωτὴρ τῶν ψυχῶν ἡμῶν."
 
 meLI.SeasonalKontakion.mode = misc_gr_GR_cog.Mode2
-meLI.SeasonalKontakion.melody  = ""
+meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = ho.s07_gr_GR_cog.hoTY.Key0408.text
 
 meMegalynarion.text = ""

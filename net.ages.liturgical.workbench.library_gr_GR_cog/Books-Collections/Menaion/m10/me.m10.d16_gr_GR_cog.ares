@@ -1,15 +1,15 @@
 A_Resource_Whose_Name = me.m10.d16_gr_GR_cog
 
 meDate.text = "Τῌ ΙϚʹ ΟΚΤΩΒΡΙΟΥ"
-meCommemoration.text = "Μνήμη τοῦ ἁγίου Μάρτυρος Λογγίνου τοῦ Ἑκατοντάρχου, τοῦ ἐπὶ τοῦ Σταυροῦ." //full title of day
+meCommemoration.text = "Μνήμη τοῦ Ἁγίου Μάρτυρος Λογγίνου τοῦ Ἑκατοντάρχου, τοῦ ἐπὶ τοῦ Σταυροῦ." // full title of day
 meShortCommemoration1.text = ""
-meInsert1 = "καὶ τοῦ Ἁγίου Μάρτυρος Λογγίνου τοῦ Ἑκατοντάρχου, " //for use in petitions and dismissal
-meInsert2 = "οὗ καὶ τὴν μνήμην ἐπιτελοῦμεν· " //for use in petitions and dismissal
+meInsert1 = "καὶ τοῦ Ἁγίου Μάρτυρος Λογγίνου τοῦ Ἑκατοντάρχου, " // for use in petitions and dismissal
+meInsert2 = "οὗ καὶ τὴν μνήμην ἐπιτελοῦμεν· " // for use in petitions and dismissal
 meNote.text = ""
-meLE.commemoration1 = "Μνήμη τοῦ ἁγίου Μάρτυρος Λογγίνου τοῦ Ἑκατοντάρχου, τοῦ ἐπὶ τοῦ Σταυροῦ."
+meLE.commemoration1 = "Μνήμη τοῦ Ἁγίου Μάρτυρος Λογγίνου τοῦ Ἑκατοντάρχου, τοῦ ἐπὶ τοῦ Σταυροῦ."
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -28,7 +28,7 @@ meVE.Stichera03.text = "Θανατώσας τὸν τύραννον, εὐτο
 
 meVE.SticGlory.poet = poets_gr_GR_cog.IoannouMonachou
 meVE.SticGlory.mode = misc_gr_GR_cog.Mode6
-meVE.SticGlory.melody  = ""
+meVE.SticGlory.melody = ""
 meVE.SticGlory.text = "Ἐν τῷ πάθει σου, Χριστέ, τὸν ναὸν θεωρήσας διαρραγέντα Λογγῖνος ὁ Ἑκατόνταρχος, Υἱὸν Θεοῦ σε εἶναι τοῖς Ἰουδαίοις ἐκήρυττεν. Ὅθεν οἱ δεινοί, τὴν θείαν κάραν αὐτοῦ τεμόντες τῷ ξίφει, ἐν κοπρίᾳ ἔρριψαν· γυνὴ δὲ ταύτην εὑροῦσα, τὰς κεκλεισμένας κόρας αὐτῆς τῶν ὀμμάτων ἀνέῳξε· μεθ' ἧς καὶ ἡμεῖς βοῶμέν σοι· Ὁ τοῦτον στεφανώσας, ὑπὲρ σοῦ ἀθλήσαντα, ταῖς αὐτοῦ ἱκεσίαις, καὶ ἡμῶν τὰ ὄμματα τῆς καρδίας φώτισον, τοῦ δοξάζειν σε Θεόν, τὸν ἐν Σταυρῷ προσηλωθέντα, εἰς τὸ σῶσαι ἡμᾶς."
 
 meVE.SticTheotokion.mode = misc_gr_GR_cog.Mode6
@@ -41,7 +41,7 @@ meVE.SticStavrotheotokion.text = "Ῥομφαία ὡς ἔφησεν, ὁ Συ
 
 meVE.AposGlory.poet = poets_gr_GR_cog.IoannouMonachou
 meVE.AposGlory.mode = misc_gr_GR_cog.Mode6
-meVE.AposGlory.melody  = ""
+meVE.AposGlory.melody = ""
 meVE.AposGlory.text = "Ἐν τῷ Σταυρῷ παρεστηκώς, καὶ τὰ γενόμενα σκοπῶν, τὸν σταυρωθέντα ἐπὶ ξύλου, Θεὸν καὶ ἄνθρωπον ἑωρακώς, ἐβόας πρὸς αὐτόν· Ἐν τῇ βασιλείᾳ σου μνήσθητί μου Κύριε. Διὸ καὶ ὁ Σωτὴρ ἐφώνει σοι· Μακάριος εἶ Λογγῖνε, καὶ τὸ μνημόσυνόν σου εἰς γενεὰν καὶ γενεάν."
 
 meVE.AposTheotokion.mode = misc_gr_GR_cog.Mode6
@@ -187,7 +187,7 @@ meMA.Kontakion1.text = "Εὐφροσύνως γέγηθεν ἡ Ἐκκλησ
 
 meMA.Oikos1.text = "Τὸν οὐρανὸν σκότει πολλῷ, τὴν γῆν τε σειομένην, καὶ πέτρας ῥηγνυμένας, ναοῦ τε τὸ καταπέτασμα σχισθὲν εἰς δύο θεωρῶν ἐν τῷ θείῳ πάθει τοῦ Χριστοῦ ὁ ἀθλητής, Θεοῦ Υἱὸν αὐτὸν ἐγνώρισε, πάσχοντα τῇ οἰκείᾳ εὐσπλαγχνίᾳ, ἀπαθῆ δὲ ὄντα τῇ θεότητι καὶ δόξῃ, σὺν τῷ Πατρὶ καὶ Πνεύματι Ἁγίῳ συνέχοντα τὸ πᾶν καὶ διακρατοῦντα, ὡς Θεὸν ἀληθινὸν καὶ Βασιλέα· ὅθεν ἐν χαρᾷ Λογγῖνος ἀνακραυγάζει· Σύ μου τὸ κράτος Χριστὲ καὶ στερέωμα."
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C11.ode = misc_gr_GR_cog.Ode7
 meMA.Ode7C11.mode = misc_gr_GR_cog.Mode4
@@ -278,7 +278,7 @@ meMA.ExapTheotokion.melody = he.a.m2_gr_GR_cog.ToisMathitaisSynelthomen.name
 meMA.ExapTheotokion.text = "Κενοῦται ἐν τῇ μήτρᾳ σου, ὁ πληρέστατος Λόγος, κόλπων πατρῴων ἄχραντε, οὐκ ἐκστὰς ἀπορρήτως, καὶ σάρξ ὁρᾶται καὶ βρέφος τίκτεται Θεοτόκε. Ὃν ἐκτενῶς ἱκέτευε, λυτρωθῆναι κινδύνων, καὶ πειρασμῶν, καὶ πταισμάτων Δέσποινα καὶ γεέννης, τοὺς εὐσεβῶς κηρύττοντας, τοῦ Θεοῦ σε Μητέρα."
 
 meLI.SeasonalKontakion.mode = misc_gr_GR_cog.Mode2
-meLI.SeasonalKontakion.melody  = ""
+meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = ho.s07_gr_GR_cog.hoTY.Key0408.text
 
 meMegalynarion.text = ""

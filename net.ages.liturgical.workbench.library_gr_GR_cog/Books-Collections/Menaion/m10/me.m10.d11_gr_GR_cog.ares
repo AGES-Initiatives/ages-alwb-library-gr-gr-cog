@@ -1,15 +1,15 @@
 A_Resource_Whose_Name = me.m10.d11_gr_GR_cog
 
 meDate.text = "Τῌ ΙΑʹ ΟΚΤΩΒΡΙΟΥ"
-meCommemoration.text = "Μνήμη τοῦ ἁγίου Ἀποστόλου Φιλίππου, ἑνὸς τῶν ἑπτὰ Διακόνων, καὶ τοῦ ὁσίου Πατρὸς ἡμῶν Θεοφάνους τοῦ Ὁμολογητοῦ, Ἐπισκόπου Νικαίας, τοῦ Ποιητοῦ καὶ Γραπτοῦ." //full title of day
+meCommemoration.text = "Μνήμη τοῦ Ἁγίου Ἀποστόλου Φιλίππου, Ἑνὸς τῶν Ἑπτὰ Διακόνων, καὶ τοῦ Ὁσίου Πατρὸς ἡμῶν Θεοφάνους τοῦ Ὁμολογητοῦ, Ἐπισκόπου Νικαίας, τοῦ Ποιητοῦ καὶ Γραπτοῦ." // full title of day
 meShortCommemoration1.text = ""
-meInsert1 = "καὶ τοῦ Ἁγίου Ἀποστόλου Φιλίππου, καὶ τοῦ Ὁσίου Πατρὸς ἡμῶν Θεοφάνους τοῦ Ὁμολογητοῦ, " //for use in petitions and dismissal
-meInsert2 = "ὧν καὶ τὴν μνήμην ἐπιτελοῦμεν· " //for use in petitions and dismissal
+meInsert1 = "καὶ τοῦ Ἁγίου Ἀποστόλου Φιλίππου, καὶ τοῦ Ὁσίου Πατρὸς ἡμῶν Θεοφάνους τοῦ Ὁμολογητοῦ, " // for use in petitions and dismissal
+meInsert2 = "ὧν καὶ τὴν μνήμην ἐπιτελοῦμεν· " // for use in petitions and dismissal
 meNote.text = ""
-meLE.commemoration1 = "Μνήμη τοῦ ἁγίου Ἀποστόλου Φιλίππου, ἑνὸς τῶν ἑπτὰ Διακόνων, καὶ τοῦ ὁσίου Πατρὸς ἡμῶν Θεοφάνους τοῦ Ὁμολογητοῦ, Ἐπισκόπου Νικαίας, τοῦ Ποιητοῦ καὶ Γραπτοῦ."
+meLE.commemoration1 = "Μνήμη τοῦ Ἁγίου Ἀποστόλου Φιλίππου, ἑνὸς τῶν ἑπτὰ Διακόνων."
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -299,7 +299,7 @@ meMA.Kontakion2.mode = misc_gr_GR_cog.Mode4
 meMA.Kontakion2.melody = he.a.m4_gr_GR_cog.EpefanisSimeron.name
 meMA.Kontakion2.text = "Ἀνεφάνης Ὅσιε, τῇ Ἐκκλησίᾳ ὥσπερ ἄλλος ἥλιος, ταύτην φωτίζων ἀστραπαῖς , τῶν σῶν δογμάτων Θεόφανες, ὡς θυηπόλος, Χριστοῦ τοῦ Θεοῦ ἡμῶν."
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C11.ode = misc_gr_GR_cog.Ode7
 meMA.Ode7C11.mode = misc_gr_GR_cog.Mode6
@@ -445,7 +445,7 @@ meMA.Exaposteilarion2.melody = he.a.m2_gr_GR_cog.ToisMathitaisSynelthomen.name
 meMA.Exaposteilarion2.text = "Τῶ τοῦ Χριστοῦ νῦν βήματι, παρεστὼς ἱεράρχα, μετὰ τῆς Θεομήτορος, καὶ πανάγνου Παρθένου, ἐκδυσωπῶν μὴ ἐλλίπῃς, νίκην κατὰ βαρβάρων, τῷ σταυροφόρῳ Ἄνακτι, καὶ εἰρήνην τῷ κόσμῳ, καὶ ψυχικήν, σωτηρίαν πάνσοφε τοῖς τελοῦσι, τὴν μνήμην σου Θεόφανες, δοῦναι τὸν Εὐεργέτην."
 
 meLI.SeasonalKontakion.mode = misc_gr_GR_cog.Mode2
-meLI.SeasonalKontakion.melody  = ""
+meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = ho.s07_gr_GR_cog.hoTY.Key0408.text
 
 meMegalynarion.text = ""

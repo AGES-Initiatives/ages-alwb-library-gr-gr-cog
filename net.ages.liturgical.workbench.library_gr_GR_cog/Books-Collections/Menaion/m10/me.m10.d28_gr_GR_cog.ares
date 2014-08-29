@@ -1,15 +1,15 @@
 A_Resource_Whose_Name = me.m10.d28_gr_GR_cog
 
 meDate.text = "Τῌ ΚΗʹ ΟΚΤΩΒΡΙΟΥ"
-meCommemoration.text = "Μνήμη τῶν ἁγίων Μαρτύρων, Τερεντίου καὶ Νεονίλλης καὶ τῶν τέκνων αὐτῶν· καὶ τοῦ ὁσίου Πατρὸς ἡμῶν Στεφάνου τοῦ Σαββαΐτου." //full title of day
+meCommemoration.text = "Μνήμη τῶν ἁγίων Μαρτύρων, Τερεντίου καὶ Νεονίλλης καὶ τῶν τέκνων αὐτῶν· καὶ τοῦ Ὁσίου Πατρὸς ἡμῶν Στεφάνου τοῦ Σαββαΐτου." // full title of day
 meShortCommemoration1.text = ""
-meInsert1 = "καὶ τῶν ἁγίων Μαρτύρων Τερεντίου καὶ Νεονίλλης, καὶ τοῦ ὁσίου Πατρὸς ἡμῶν Στεφάνου τοῦ Σαββαΐτου, " //for use in petitions and dismissal
-meInsert2 = "ὧν καὶ τὴν μνήμην ἐπιτελοῦμεν· " //for use in petitions and dismissal
+meInsert1 = "καὶ τῶν ἁγίων Μαρτύρων Τερεντίου καὶ Νεονίλλης, καὶ τοῦ ὁσίου Πατρὸς ἡμῶν Στεφάνου τοῦ Σαββαΐτου, " // for use in petitions and dismissal
+meInsert2 = "ὧν καὶ τὴν μνήμην ἐπιτελοῦμεν· " // for use in petitions and dismissal
 meNote.text = ""
-meLE.commemoration1 = "Μνήμη τῶν ἁγίων Μαρτύρων, Τερεντίου καὶ Νεονίλλης καὶ τῶν τέκνων αὐτῶν· καὶ τοῦ ὁσίου Πατρὸς ἡμῶν Στεφάνου τοῦ Σαββαΐτου."
+meLE.commemoration1 = ""
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -281,7 +281,7 @@ meMA.Kontakion1.text = "Καταφυτεύσας ἀρετῶν τὸν παρ�
 
 meMA.Oikos1.text = "Ὡς καθαιρέτην τῶν παθῶν, καὶ τύπον ὀρθοῦ βίου, ἀλείπτην τε ἀζύγων, κανόνα Μοναζόντων, καὶ ἀρετῶν ὑπογραμμόν, πάντες συνελθόντες ἐν τῇ μνήμῃ σου Σοφέ, οἱ φοιτηταί σου κράζομεν· Δόξα τῷ σὲ ἀξίως δοξάσαντι, τέρασιν ἀλήκτοις καὶ σημείοις φοβεροῖς, οὐκ ἐν βίῳ μόνον, ἀλλὰ καὶ μετὰ τέλος. Διὸ ἐκδυσωπεῖν Χριστῷ, μὴ ἐλλίπῃς, τοῖς τιμῶσί σε ἀεί, καταπεμφθῆναι λύσιν τῶν πολλῶν καὶ χαλεπῶν ἐγκλημάτων· σὲ γὰρ προστάτην μέγιστον Σοφέ, πάντες ἐν πίστει καὶ πόθῳ κεκτήμεθα."
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C11.ode = misc_gr_GR_cog.Ode7
 meMA.Ode7C11.mode = misc_gr_GR_cog.Mode4
@@ -426,7 +426,7 @@ meMA.ExapTheotokion.melody = he.a.m2_gr_GR_cog.ToisMathitaisSynelthomen.name
 meMA.ExapTheotokion.text = "Τὸν σαρκωθέντα Κύριον, ἐξ ἁγνῶν σου αἱμάτων, Παρθενομῆτορ Ἄχραντε, δυσωποῦσα μὴ παύσῃ, ὑπὲρ ἀχρείων σῶν δούλων, ὅπως εὕρωμεν χάριν, καὶ εὔκαιρον βοήθειαν, ἐν ἡμέρᾳ ᾗ κρίνῃ, γένος βροτῶν, ὡς Θεὸς παρέχων τὰ κατ' ἀξίαν· σὲ γὰρ προστάτιν ἅπαντες, ἔχομεν ἐν ἀνάγκαις."
 
 meLI.SeasonalKontakion.mode = misc_gr_GR_cog.Mode2
-meLI.SeasonalKontakion.melody  = ""
+meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = ho.s07_gr_GR_cog.hoTY.Key0408.text
 meMegalynarion.text = ""
 

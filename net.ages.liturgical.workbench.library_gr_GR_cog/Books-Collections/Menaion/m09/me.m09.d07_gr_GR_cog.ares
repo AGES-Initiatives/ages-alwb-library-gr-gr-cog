@@ -1,15 +1,15 @@
 A_Resource_Whose_Name = me.m09.d07_gr_GR_cog
 
 meDate.text = "Τῌ Ζʹ ΣΕΠΤΕΜΒΡΙΟΥ"
-meCommemoration.text = "Προεόρτια τῆς Γεννήσεως τῆς Ὑπεραγίας Θεοτόκου, καὶ τοῦ Ἁγίου Μάρτυρος Σῴζοντος." //full title of day
+meCommemoration.text = "Προεόρτια τῆς Γεννήσεως τῆς Ὑπεραγίας Θεοτόκου, καὶ τοῦ Ἁγίου Μάρτυρος Σῴζοντος." // full title of day
 meShortCommemoration1.text = ""
-meInsert1 = "" //for use in petitions and dismissal
-meInsert2 = "" //for use in petitions and dismissal
+meInsert1 = "" // for use in petitions and dismissal
+meInsert2 = "" // for use in petitions and dismissal
 meNote.text = ""
-meLE.commemoration1 = "Προεόρτια τῆς Γεννήσεως τῆς Ὑπεραγίας Θεοτόκου, καὶ τοῦ Ἁγίου Μάρτυρος Σῴζοντος."
+meLE.commemoration1 = "Μνήμη τοῦ Ἁγίου Μάρτυρος Σῴζοντος."
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -26,7 +26,7 @@ meVE.Stichera03.mode = misc_gr_GR_cog.Mode1
 meVE.Stichera03.melody = he.a.m1_gr_GR_cog.TonOuranionTagmaton.name
 meVE.Stichera03.text = "Ἡ θεοχώρητος Κόρη, καὶ Θεοτόκος ἁγνή, τῶν Προφητῶν τὸ κλέος, τοῦ Δαυῒδ ἡ θυγάτηρ, σήμερον γεννᾶται ἐξ Ἰωακείμ, καὶ τῆς Ἄννης τῆς σώφρονος, καὶ τοῦ Ἀδάμ τὴν κατάραν τὴν εἰς ἡμᾶς, ἀνατρέπει ἐν τῷ τόκῳ αὐτῆς."
 
-meVE.Stichera123Sunday.text = "" //for media
+meVE.Stichera123Sunday.text = "" // for media
 
 meVE.Stichera04.mode = misc_gr_GR_cog.Mode4
 meVE.Stichera04.melody = he.a.m4_gr_GR_cog.EdokasSimeiosin.name
@@ -41,7 +41,7 @@ meVE.Stichera06.melody = he.a.m4_gr_GR_cog.EdokasSimeiosin.name
 meVE.Stichera06.text = "Σωτῆρα καὶ Κύριον, τὸν ὑπὲρ σοῦ τὰ ἑκούσια, ὑποστάντα παθήματα, σαφῶς ἐκμιμούμενος, ἀθλοφόρε Σῴζων, σαυτὸν ἑκουσίως, πρὸς αἰκισμοὺς πρὸς ἐκτομάς, πρὸς ἀνυποίστους βασάνους δέδωκας· διὸ σὲ ἀντημείψατο, ἐπουρανίοις χαρίσμασι, καὶ πηγὴν ἰαμάτων σε, τοῖς ποθοῦσιν ἀνέδειξε."
 
 meVE.SticGlory.mode = misc_gr_GR_cog.Mode4
-meVE.SticGlory.melody  = ""
+meVE.SticGlory.melody = ""
 meVE.SticGlory.text = "Τὴν πάνσεπτόν σου γέννησιν, Παναγία Παρθένε ἁγνή, τῶν Ἀγγέλων τὰ πλήθη ἐν οὐρανῷ, καὶ ἀνθρώπων τὸ γένος ἐπὶ τῆς γῆς μακαρίζομεν· ὅτι Μήτηρ γέγονας, τοῦ Ποιητοῦ τῶν ἁπάντων Χριστοῦ τοῦ Θεοῦ. Αὐτὸν ἱκετεύουσα ὑπὲρ ἡμῶν μὴ παύσῃ δεόμεθα, τῶν εἰς σὲ μετὰ Θεὸν τὰς ἐλπίδας θεμένων, Θεοτόκε πανύμνητε καὶ ἀπειρόγαμε."
 
 meVE.Aposticha1.mode = misc_gr_GR_cog.Mode8
@@ -62,7 +62,7 @@ meVE.Aposticha3.text = "Χαίροις τῶν βροτῶν τὸ σύστη�
 
 meVE.AposGlory.poet = poets_gr_GR_cog.Germanou
 meVE.AposGlory.mode = misc_gr_GR_cog.Mode4
-meVE.AposGlory.melody  = ""
+meVE.AposGlory.melody = ""
 meVE.AposGlory.text = "Ἡ παγκόσμιος, χαρά, ἐκ τῶν δικαίων ἀνέτειλεν ἡμῖν, ἐξ Ἰωακεὶμ καὶ τῆς Ἄννης, ἡ πανύμνητος Παρθένος· ἥτις δι' ὑπερβολὴν καθαρότητος, ναὸς Θεοῦ ἔμψυχος γίνεται, καὶ μόνη κατὰ ἀλήθειαν, Θεοτόκος γνωρίζεται. Αὐτῆς ταῖς ἱκεσίαις Χριστὲ ὁ Θεός, τῷ κόσμῳ τὴν εἰρήνην κατάπεμψον, καὶ ταῖς ψυχαῖς ἡμῶν τὸ μέγα ἔλεος."
 
 meVE.Apolytikion1.mode = misc_gr_GR_cog.Mode4
@@ -305,7 +305,7 @@ meMA.Kontakion1.text = "Ἡ Παρθένος σήμερον, καὶ Θεοτ�
 
 meMA.Oikos1.text = "Τῇ στειρευούσῃ καρπὸς ἐδόθη ἡ θεόπαις Μαρία· ἣν προεῖδον ποτὲ θεῖοι Προφῆται ἐν Πνεύματι· ταύτην ἡμεῖς σήμερον ὁρῶντες, ἐν τοῖς κόλποις τῆς Ἄννης σκιρτῶσαν, σὺν τῷ πιστῷ Ἰωακείμ, νοητῶς πρὸς ἑστίασιν συνέλθωμεν, καὶ τοὺς πόρρω καλέσωμεν, λέγοντες· Τοῦ κόσμου νῦν ἡ ἀνάκλησις, ἐξ ἀκάρπου γαστρὸς ἀνεβλάστησεν, ἡ θεία πύλη, καὶ Μήτηρ τῆς ὄντως ζωῆς."
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C11.ode = misc_gr_GR_cog.Ode7
 meMA.Ode7C11.mode = misc_gr_GR_cog.Mode4
@@ -455,7 +455,7 @@ meMA.ExapTheotokion.mode = misc_gr_GR_cog.Mode2
 meMA.ExapTheotokion.melody = he.a.m2_gr_GR_cog.ToisMathitaisSynelthomen.name
 meMA.ExapTheotokion.text = "Ἀγάλλου κτίσις ἅπασα, τὴν χαρὰν αἰσθομένη, ἐξ Ἄννης τῆς θεόφρονος, ἥτις λέγεται Χάρις, Ἰωακείμ τε τοῦ θείου, τίκτεσθαι παρ' ἐλπίδα, Μαρίαν τὴν πανάχραντον καὶ ἁγνὴν Θεοτόκον· ἧς ὁ καρπός, σωτηρία γέγονε τοῖς ἀνθρώποις, Χριστὸς ὁ σαρκωθεὶς Θεός, ἐξ αὐτῆς ἀπορρήτως."
 
-meMA.LaudsSundayVerse1.text = "" //for media
+meMA.LaudsSundayVerse1.text = "" // for media
 
 meMA.Aposticha1.mode = misc_gr_GR_cog.Mode2
 meMA.Aposticha1.melody = he.a.m2_gr_GR_cog.OikosTouEfratha.name
@@ -470,14 +470,14 @@ meMA.Aposticha3.melody = he.a.m2_gr_GR_cog.OikosTouEfratha.name
 meMA.Aposticha3.text = "Σήμερον ἡ χαρά, πάσης τῆς οἰκουμένης, στειρωτικῆς ἐκ μήτρας, γεννᾶται παραδόξως, ἡ Μήτηρ τοῦ Κυρίου μου."
 
 meMA.AposGlory.mode = misc_gr_GR_cog.Mode2
-meMA.AposGlory.melody  = ""
+meMA.AposGlory.melody = ""
 meMA.AposGlory.text = "Ἡ προορισθεῖσα παντάνασσα Θεοῦ κατοικητήριον, ἐξ ἀκάρπου σήμερον νηδύος προῆκται, τῆς Ἄννης ἠγλαϊσμένης, τῆς ἀϊδίου οὐσίας τὸ θεῖον τέμενος· δι' ἧς ἰταμός ᾍδης καταπεπάτηται, καὶ παγγενῆ Εὔα ἐν ἀσφαλεῖ ζωῇ εἰσοικίζεται· ταύτῃ ἐπαξίως ἐκβοήσωμεν, Μακαρία σὺ ἐν γυναιξί, καὶ ὁ καρπὸς τῆς κοιλίας σου εὐλογημένος."
 
 meLI.SeasonalKontakion.mode = meMA.Kontakion1.mode
 meLI.SeasonalKontakion.melody = meMA.Kontakion1.melody
 meLI.SeasonalKontakion.text = meMA.Kontakion1.text
 
-meLI.CommunionHymn.text = "" //for media
+meLI.CommunionHymn.text = "" // for media
 
 meMegalynarion.text = ""
 

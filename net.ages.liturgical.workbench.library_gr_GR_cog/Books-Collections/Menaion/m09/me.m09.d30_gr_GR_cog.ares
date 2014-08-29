@@ -2,15 +2,15 @@
 A_Resource_Whose_Name = me.m09.d30_gr_GR_cog
 
 meDate.text = "Τῌ Λʹ ΣΕΠΤΕΜΒΡΙΟΥ"
-meCommemoration.text = "Μνήμη τοῦ Ἁγίου Ἱερομάρτυρος Γρηγορίου τῆς Μεγάλης Ἀρμενίας." //full title of day
+meCommemoration.text = "Μνήμη τοῦ Ἁγίου Ἱερομάρτυρος Γρηγορίου τῆς Μεγάλης Ἀρμενίας." // full title of day
 meShortCommemoration1.text = ""
-meInsert1 = "καὶ τοῦ Ἁγίου Ἱερομάρτυρος Γρηγορίου τῆς μεγάλης Ἀρμενίας, " //for use in petitions and dismissal
-meInsert2 = "οὗ καὶ τὴν μνήμην ἐπιτελοῦμεν· " //for use in petitions and dismissal
+meInsert1 = "καὶ τοῦ Ἁγίου Ἱερομάρτυρος Γρηγορίου τῆς μεγάλης Ἀρμενίας, " // for use in petitions and dismissal
+meInsert2 = "οὗ καὶ τὴν μνήμην ἐπιτελοῦμεν· " // for use in petitions and dismissal
 meNote.text = ""
-meLE.commemoration1 = "Μνήμη τοῦ Ἁγίου Ἱερομάρτυρος Γρηγορίου τῆς Μεγάλης Ἀρμενίας."
+meLE.commemoration1 = "Μνήμη τοῦ Ἁγίου Ἱερομάρτυρος Γρηγορίου, Ἐπισκόπου τῆς Μεγάλης Ἀρμενίας."
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -29,7 +29,7 @@ meVE.Stichera03.text = "Νυμφίον ἀθάνατον, σὲ τὸν ἁπά�
 
 meVE.SticGlory.poet = poets_gr_GR_cog.Sergiou
 meVE.SticGlory.mode = misc_gr_GR_cog.Mode6
-meVE.SticGlory.melody  = ""
+meVE.SticGlory.melody = ""
 meVE.SticGlory.text = "Τὶς ἐπαξίως τῶν ἀρετῶν σου διηγήσεται τὰ τρόπαια; ποῖον στόμα τοῦ μαρτυρίου τὴν καρτερίαν ἀποφθέγξεται; ἐν ἀμφοτέροις γὰρ ἠρίστευσας Γρηγόριε, Ἀλλὰ μὴ παύσῃ δυσωπῶν, εὐαρεστήσας Χριστῷ, σωθῆναι τάς ψυχὰς ἡμῶν, ὡς ἔχων Ἱερομάρτυς παρρησίαν πολλήν."
 
 meVE.SticTheotokion.mode = misc_gr_GR_cog.Mode6
@@ -41,7 +41,7 @@ meVE.SticStavrotheotokion.melody = he.a.m6_gr_GR_cog.TriimerosAnestis.name
 meVE.SticStavrotheotokion.text = "Ὁ ἥλιος ἐσκότισεν, Υἱέ μου προσηλούμενον, φωτοδότα, καθορῶν σε καὶ ἡ γῆ, τῷ φόβῳ ἐκλονεῖτο, λαὸς δὲ Ἰουδαίων, οὐδόλως ᾤκτειρε παμφίλτατε."
 
 meVE.AposGlory.mode = misc_gr_GR_cog.Mode6
-meVE.AposGlory.melody  = ""
+meVE.AposGlory.melody = ""
 meVE.AposGlory.text = "Εἰς τὸν ἄδυτον γνόφον τοῦ ἀφράστου φωτός, εἰσδύσας νοητῶς ὁ Μάρτυς καὶ Ποιμήν, ἐμυήθη τὰ ἀπόρρητα τῶν μυστηρίων Θεοῦ, ὡς Μάρτυς μὲν φωτιζόμενος, ὡς ποιμὴν δὲ μυσταγωγούμενος· διὸ διπλοῦς καὶ τοὺς στεφάνους, ἐκ τῆς ἄνω δόξης ἀνεδήσατο, πρεσβεύων πάντοτε Χριστῷ ὑπὲρ τῶν ψυχῶν ἡμῶν."
 
 meVE.AposTheotokion.mode = misc_gr_GR_cog.Mode6
@@ -52,7 +52,7 @@ meVE.AposStavrotheotokion.mode = misc_gr_GR_cog.Mode6
 meVE.AposStavrotheotokion.melody = he.a.m6_gr_GR_cog.TriimerosAnestis.name
 meVE.AposStavrotheotokion.text = "Παρίστατο τῷ ξύλῳ ποτέ, καιρῷ τῷ τῆς σταυρώσεως, ἡ Παρθένος, σὺν παρθένῳ Μαθητῇ, καὶ κλαίουσα ἐβόα· Οἴμοι! πῶς πάσχεις πάντων, Χριστὲ ὑπάρχων ἡ ἀπάθεια!"
 
-meVE.GeneralApolytikion1.name = "Γρηγόριε·" 
+meVE.GeneralApolytikion1.name = "Γρηγόριε·"
 
 meVE.Apolytikion1.poet = poets_gr_GR_cog.Gerasimou
 meVE.Apolytikion1.mode = misc_gr_GR_cog.Mode3
@@ -189,7 +189,7 @@ meMA.Kontakion1.text = "Τὸν εὐκλεῆ καὶ Ἱεράρχην ἅπα
 
 meMA.Oikos1.text = "Τοῦτον τὸν μέγαν ἐν ἀθλοφόροις, τὸν φωστῆρα τὸν θεῖον, Ἀρμενίας πιστοὶ ποιμένα τε καὶ πρόμαχον, ἐν ὑμνῳδίαις εὐφημοῦμεν, καὶ ᾄσμασιν ἐνθέοις αὐτοῦ τὴν μνήμην· τὴν γὰρ ἀχλὺν τῶν ματαίων εἰδώλων ἠφάνισε, σὺν αὐτοῖς καὶ τῶν δαιμόνων τὴν ἐνέργειαν ἐνέκρωσε· διὸ τοὺς πόνους ὑπήνεγκε, σταθερᾷ διανοίᾳ καὶ χάριτι, καὶ πρεσβεύει Χριστῷ τοῦ σωθῆναι ἡμάς."
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C11.ode = misc_gr_GR_cog.Ode7
 meMA.Ode7C11.mode = misc_gr_GR_cog.Mode4
@@ -275,7 +275,7 @@ meMA.ExapTheotokion.melody = he.a.m2_gr_GR_cog.GynaikesAkoutisthite.name
 meMA.ExapTheotokion.text = "Ὁ νώτοις ἐποχούμενος, χερουβικοῖς Πανάχραντε, ἐν ταῖς ἀγκάλαις σου θέλων, σάρκα λαβὼν ἀνεκλήθη, ὅπως ἡμᾶς ἐργάσηται, υἱοὺς Θεοῦ τῇ χάριτι, τοὺς εἰς αὐτὸν πιστεύοντας, καὶ σε ἀεὶ εὐφημοῦντας, τὴν πρόξενον σωτηρίας."
 
 meLI.SeasonalKontakion.mode = misc_gr_GR_cog.Mode2
-meLI.SeasonalKontakion.melody  = ""
+meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = ho.s07_gr_GR_cog.hoTY.Key0408.text
 
 meMegalynarion.text = ""

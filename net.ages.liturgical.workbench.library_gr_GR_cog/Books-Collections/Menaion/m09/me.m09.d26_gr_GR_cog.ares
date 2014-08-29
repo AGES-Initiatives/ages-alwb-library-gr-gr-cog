@@ -2,15 +2,15 @@
 A_Resource_Whose_Name = me.m09.d26_gr_GR_cog
 
 meDate.text = "Τῌ ΚϚʹ ΣΕΠΤΕΜΒΡΙΟΥ"
-meCommemoration.text = "Ἡ Μετάστασις τοῦ Ἁγίου, ἐνδόξου καὶ πανευφήμου Ἀποστόλου καὶ Θεολόγου, Ἰωάννου τοῦ Εὐαγγελιστοῦ." //full title of day
+meCommemoration.text = "Ἡ Μετάστασις τοῦ Ἁγίου, Ἐνδόξου καὶ Πανευφήμου Ἀποστόλου καὶ Θεολόγου, Ἰωάννου τοῦ Εὐαγγελιστοῦ." // full title of day
 meShortCommemoration1.text = ""
-meInsert1 = "καὶ τοῦ Ἁγίου, ἐνδόξου καὶ πανευφήμου Ἀποστόλου καὶ Θεολόγου, Ἰωάννου τοῦ Εὐαγγελιστοῦ, " //for use in petitions and dismissal
-meInsert2 = "οὗ καὶ τὴν μετάστασιν ἑορτάζομεν· " //for use in petitions and dismissal
+meInsert1 = "καὶ τοῦ Ἁγίου, ἐνδόξου καὶ πανευφήμου Ἀποστόλου καὶ Θεολόγου, Ἰωάννου τοῦ Εὐαγγελιστοῦ, " // for use in petitions and dismissal
+meInsert2 = "οὗ καὶ τὴν μετάστασιν ἑορτάζομεν· " // for use in petitions and dismissal
 meNote.text = ""
-meLE.commemoration1 = "Ἡ Μετάστασις τοῦ Ἁγίου, ἐνδόξου καὶ πανευφήμου Ἀποστόλου καὶ Θεολόγου, Ἰωάννου τοῦ Εὐαγγελιστοῦ."
+meLE.commemoration1 = "Ἡ Μετάστασις τοῦ Ἁγίου, Ἐνδόξου καὶ Πανευφήμου Ἀποστόλου καὶ Θεολόγου, Ἰωάννου τοῦ Εὐαγγελιστοῦ."
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -28,11 +28,11 @@ meSV.Stichera3.melody = he.a.m2_gr_GR_cog.OteEkTouXylou.name
 meSV.Stichera3.text = "Χαίροις, θεολόγε ἀληθῶς, χαίροις τῆς Μητρὸς τοῦ Κυρίου, υἱὲ παμπόθητε· σὺ γὰρ παριστάμενος, ἐν Σταυρῷ τοῦ Χριστοῦ, τῆς ἐνθέου ἀκήκοας, φωνῆς τοῦ Δεσπότου. Ἴδε νῦν ἡ μήτηρ σου, πρὸς σὲ βοήσαντος· ὅθεν, ἐπαξίως σε πάντες, ὡς Χριστοῦ Ἀπόστολον μέγαν, καὶ ἠγαπημένον μακαρίζομεν."
 
 meSV.SticGlory.mode = misc_gr_GR_cog.Mode2
-meSV.SticGlory.melody  = ""
+meSV.SticGlory.melody = ""
 meSV.SticGlory.text = "Θεολόγε Παρθένε, Μαθητὰ ἠγαπημένε τοῦ Σωτῆρος, ταῖς ἱκεσίαις σου ἡμᾶς περίσῳζε δεόμεθα, ἀπὸ βλάβης παντοίας, ὅτι σοῦ ἐσμεν ποίμνιον."
 
 meSV.SticBoth.mode = misc_gr_GR_cog.Mode2
-meSV.SticBoth.melody  = ""
+meSV.SticBoth.melody = ""
 meSV.SticBoth.text = "Ὠσεὶ ἐλαία κατάκαρπος, ἡ Παρθένος ἐβλάστησε, σὲ τὸν καρπὸν τῆς ζωῆς, καρποφοροῦντα κόσμῳ, τὸ μέγα καὶ πλούσιον ἔλεος."
 
 meSV.Aposticha1.mode = misc_gr_GR_cog.Mode6
@@ -69,43 +69,43 @@ meVE.Stichera03.text = me.m05.d08_gr_GR_cog.meVE.Stichera03.text
 
 meVE.SticGlory.poet = poets_gr_GR_cog.GermanouOiDeVyzantiou
 meVE.SticGlory.mode = misc_gr_GR_cog.Mode2
-meVE.SticGlory.melody  = ""
+meVE.SticGlory.melody = ""
 meVE.SticGlory.text = me.m05.d08_gr_GR_cog.meVE.SticGlory.text
 
 meVE.SticTheotokion.mode = misc_gr_GR_cog.Mode2
-meVE.SticTheotokion.melody  = ""
+meVE.SticTheotokion.melody = ""
 meVE.SticTheotokion.text = oc.m2.d1_gr_GR_cog.ocVE.SticTheotokion.text
 
 meVE.Lity1.poet = poets_gr_GR_cog.Germanou
 meVE.Lity1.mode = misc_gr_GR_cog.Mode1
-meVE.Lity1.melody  = ""
+meVE.Lity1.melody = ""
 meVE.Lity1.text = "Ποταμοὶ θεολογίας ἐκ τοῦ τιμίου σου στόματος ἀνέβλυσαν Ἀπόστολε, ἐξ ὧν ἡ Ἐκκλησία τοῦ Θεοῦ ἀρδευομένη, προσκυνεῖ ὀρθοδόξως Τριάδα ὁμοούσιον, ἣν καὶ νῦν αἴτησαι, Ἰωάννη θεολόγε, στηριχθῆναι, καὶ σωθῆναι τάς ψυχὰς ἡμῶν."
 
 meVE.Lity2.poet = poets_gr_GR_cog.AndreouPyrou
 meVE.Lity2.mode = misc_gr_GR_cog.Mode1
-meVE.Lity2.melody  = ""
+meVE.Lity2.melody = ""
 meVE.Lity2.text = "Τὸ φυτὸν τῆς ἁγνείας, τὸ μύρον τῆς εὐωδίας, πάλιν ἀνέτειλεν ἡμῖν, εἰς τὴν παροῦσαν Ἑορτήν, βοῆσαι πρὸς αὐτόν· Ὁ ἀναπεσὼν ἐπὶ τὸ στῆθος τὸ δεσποτικόν, καὶ ἐπομβρήσας τῷ κόσμῳ τὸν λόγον, Ἰωάννη Ἀπόστολε, ὁ τὴν Παρθένον φυλάξας ὡς κόρην ὀφθαλμοῦ, αἴτησαι ἡμῖν παρὰ Χριστοῦ τὸ μέγα ἔλεος."
 
 meVE.Lity3.mode = misc_gr_GR_cog.Mode1
-meVE.Lity3.melody  = ""
+meVE.Lity3.melody = ""
 meVE.Lity3.text = "Μαθητὰ τοῦ Σωτῆρος, Παρθένε καὶ θεολόγε, σοὶ ὡς Παρθένῳ τὴν Παρθένον καὶ Θεοτόκον παρέθετο, Χριστὸς ὁ Θεὸς σταυρούμενος, καὶ ταύτην ἐφύλαξας ὡς κόρην ὀφθαλμοῦ· διὸ πρὲσβευε σωθῆναι τάς ψυχὰς ἡμῶν."
 
 meVE.Lity4.mode = misc_gr_GR_cog.Mode1
-meVE.Lity4.melody  = ""
+meVE.Lity4.melody = ""
 meVE.Lity4.text = "Ὡς τῶν ἀπορρήτων μυστηρίων αὐτόπτης ἐκέκραγες βοῶν, τὸν προαιώνιον Λόγον ἐν ἀρχῇ ὑπάρχειν πρὸς Θεόν, καὶ αὐτὸν εἶναι Θεόν, Ἰωάννη Ἀπόστολε, ἐπιστήθιε Χριστοῦ, καὶ φίλε γνήσιε, τῆς Τριάδος τὸ ἥδυσμα, Ἐφέσου καὶ τῆς Πάτμου, τὸ στήριγμα τὸ ἄσειστον, ἡμῶν δὲ βοήθεια. Πρὲσβευε Θεολόγε παμμακάριστε, ἐκ δυσσεβῶν ἐχθρῶν, αἰσθητῶν καὶ νοητῶν, λυτρωθῆναι λαὸν τὸν τὴν μνήμην σου, ἀεὶ ἐκτελοῦντα πιστῶς."
 
 meVE.Lity5.poet = poets_gr_GR_cog.Theofanous
 meVE.Lity5.mode = misc_gr_GR_cog.Mode2
-meVE.Lity5.melody  = ""
+meVE.Lity5.melody = ""
 meVE.Lity5.text = "Τὴν τῶν Ἀποστόλων ἀκρότητα, τῆς θεολογίας τὴν σάλπιγγα, τὸν πνευματικόν στρατηγόν, τὸν τὴν οἰκουμένην Θεῷ καθυποτάξαντα, δεῦτε οἱ πιστοὶ μακαρίσωμεν, Ἰωάννην τὸν ἀοίδιμον, ἐκ γῆς μεθιστάμενον, καὶ γῆς οὐκ ἀφιστάμενον, ἀλλὰ ζῶντα καὶ μένοντα, τὴν φοβερὰν τοῦ Δεσπότου δευτέραν ἔλευσιν, ἣν ἀκατακρίτως ὑπαντῆσαι ἡμᾶς αἴτησαι, φίλε μυστικέ, Χριστοῦ ἐπιστήθιε, τοὺς ἐκ πόθου ἐκτελοῦντας τὴν μνήμην σου."
 
 meVE.LityGlory.poet = poets_gr_GR_cog.Vyzantiou
 meVE.LityGlory.mode = misc_gr_GR_cog.Mode4
-meVE.LityGlory.melody  = ""
+meVE.LityGlory.melody = ""
 meVE.LityGlory.text = "Ἀναπεσὼν ἐν τῷ στήθει τοῦ Διδασκάλου Χριστοῦ, ἐν τῷ δείπνῳ Κυρίου, ἠγαπημένε Μαθητά, ἐκεῖθεν ἔγνως τὰ ἄρρητα, καὶ τὴν οὐράνιον πᾶσιν ἐβρόντησας φωνήν· Ἐν ἀρχῇ ἦν ὁ Λόγος, καὶ ὁ Λόγος ἦν πρὸς τὸν Θεόν, καὶ Θεὸς ἦν ὁ Λόγος, τὸ φῶς τὸ ἀληθινόν, τὸ φωτίζον πάντα ἄνθρωπον, εἰς τὸν κόσμον ἐρχόμενον, Χριστὸς ὁ Θεός, καὶ Σωτὴρ τῶν ψυχῶν ἡμῶν."
 
 meVE.LityBoth.mode = misc_gr_GR_cog.Mode4
-meVE.LityBoth.melody  = ""
+meVE.LityBoth.melody = ""
 meVE.LityBoth.text = "Ὁ σὺν Πατρὶ καὶ Πνεύματι δοξολογούμενος Υἱός, ἐν ὑψίστοις ὑπὸ τῶν Χερουβίμ, τὸν πρωτόπλαστον ἀναπλάσαι βουλόμενος, ὅλον ἑαυτὸν ἐκένωσεν ἀφράστως ἐν μήτρᾳ, σου, Θεοτόκε πανύμνητε, καὶ ἐκ σοῦ ἀνατείλας, ἐφώτισε πάντα τὸν κόσμον Θεότητι, ῥυσάμενος εἰδωλομανίας, καὶ ἐν ἑαυτῷ θεώσας εἰς οὐρανοὺς συνανήγαγε τὸ ἀνθρώπινον, Χριστὸς ὁ Θεός, καὶ Σωτὴρ τῶν ψυχῶν ἡμῶν."
 
 meVE.Aposticha1.mode = misc_gr_GR_cog.Mode4
@@ -126,15 +126,15 @@ meVE.Aposticha3.text = "Τῆς ὑψηλῆς ἐπιβὰς θεολογίας
 
 meVE.AposGlory.poet = poets_gr_GR_cog.IoannouMonachou
 meVE.AposGlory.mode = misc_gr_GR_cog.Mode6
-meVE.AposGlory.melody  = ""
+meVE.AposGlory.melody = ""
 meVE.AposGlory.text = me.m05.d08_gr_GR_cog.meVE.AposGlory.text
 
 meVE.AposTheotokion.mode = misc_gr_GR_cog.Mode6
-meVE.AposTheotokion.melody  = ""
+meVE.AposTheotokion.melody = ""
 meVE.AposTheotokion.text = oc.m6.d1_gr_GR_cog.ocVE.AposTheotokion.text
 
 meVE.Apolytikion1.mode = misc_gr_GR_cog.Mode2
-meVE.Apolytikion1.melody  = ""
+meVE.Apolytikion1.melody = ""
 meVE.Apolytikion1.text = me.m05.d08_gr_GR_cog.meVE.Apolytikion1.text
 
 meMA.Kathisma11.mode = misc_gr_GR_cog.Mode8
@@ -161,21 +161,21 @@ meMA.Kathisma3T.mode = misc_gr_GR_cog.Mode8
 meMA.Kathisma3T.melody = he.a.m8_gr_GR_cog.TinSofianKaiLogon.name
 meMA.Kathisma3T.text = "Παναγία Παρθένε Μήτηρ Θεοῦ, τῆς ψυχῆς μου τὰ πάθη τὰ χαλεπά, θεράπευσον δέομαι, καὶ συγγνώμην παράσχου μοι, τῶν ἐμῶν πταισμάτων, ἀφρόνως ὧν ἔπραξα, τὴν ψυχὴν καὶ τὸ σῶμα, μολύνας ὁ ἄθλιος· Οἴμοι! τὶ ποιήσω, ἐν ἐκείνῃ τῇ ὥρᾳ, ἡνίκα οἱ Ἄγγελοι, τὴν ψυχήν μου χωρίζουσιν, ἐκ τοῦ ἀθλίου μου σώματος; τότε Δέσποινα, βοήθειά μοι γενοῦ, καὶ προστάτις θερμότατος· σὲ γὰρ ἔχω ἐλπίδα ὁ δοῦλος σου."
 
-meMA.Prokeimenon.text = "" //for media
+meMA.Prokeimenon.text = "" // for media
 //meMA.Gospel.name = " Ἰωάννην "
 //meMA.Gospel.chapverse = "(καʹ 14 - 24)"
 //meMA.Gospel.text = eo.e11_gr_GR_cog.eo.Gospel.text
 
 meMA.PostGospelGlory.mode = misc_gr_GR_cog.Mode2
-meMA.PostGospelGlory.melody  = ""
+meMA.PostGospelGlory.melody = ""
 meMA.PostGospelGlory.text = ho.s03_gr_GR_cog.hoMA.PostGospelApostle.text
 
 meMA.PostGospelBoth.mode = misc_gr_GR_cog.Mode2
-meMA.PostGospelBoth.melody  = ""
+meMA.PostGospelBoth.melody = ""
 meMA.PostGospelBoth.text = ho.s03_gr_GR_cog.hoMA.PostGospelTheotokos.text
 
 meMA.PostGospelIdiomelon.mode = misc_gr_GR_cog.Mode2
-meMA.PostGospelIdiomelon.melody  = ""
+meMA.PostGospelIdiomelon.melody = ""
 meMA.PostGospelIdiomelon.text = meSV.SticGlory.text
 
 meMA.C1Acrostic.text = "οὗ ἡ Ἀκροστιχίς· Ἀλφάβητος ἀντιστρόφως. Θεοφάνους."
@@ -518,12 +518,12 @@ meMA.Ode6K.melody = misc_gr_GR_cog.Heirmos
 meMA.Ode6K.text = he.h.m4_gr_GR_cog.TinTheianTaftin.text
 
 meMA.Kontakion1.mode = misc_gr_GR_cog.Mode2
-meMA.Kontakion1.melody  = ""
+meMA.Kontakion1.melody = ""
 meMA.Kontakion1.text = "Τὰ μεγαλεῖά σου Παρθένε, τίς διηγήσεται; Βρύεις γὰρ θαύματα, καὶ πηγάζεις ἰάματα, καὶ πρεσβεύεις ὑπὲρ τῶν ψυχῶν ἡμῶν, ὡς Θεολόγος καὶ φίλος Χριστοῦ."
 
 meMA.Oikos1.text = "Ὕψη οὐράνια ἐκμανθάνειν, καὶ θαλάσσης τὰ βάθη ἔρευναν, τολμηρὸν ὑπάρχει καὶ ἀκατάληπτον, ὥσπερ οὖν ἄστρα ἑξαριθμῆσαι, καὶ παράλιον ψάμμον οὐκ ἔστιν ὅλως, οὕτως οὔτε τὰ τοῦ Θεολόγου εἰπεῖν ἱκανόν, τοσούτοις αὐτὸν στεφάνοις ὁ Χριστός, ὃν ἠγάπησεν ἔστεψεν! οὗ τῷ στήθει ἀνέπεσε, καὶ ἐν τῷ μυστικῷ δείπνῳ συνειστιάθη, ὡς Θεολόγος καὶ φίλος Χριστοῦ."
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C1H.ode = misc_gr_GR_cog.Ode7
 meMA.Ode7C1H.mode = misc_gr_GR_cog.Mode2
@@ -745,11 +745,11 @@ meMA.Lauds4.melody = he.a.m8_gr_GR_cog.OTouParadoxou.name
 meMA.Lauds4.text = "Εὐαγγελιστὰ θεσπέσιε, τῶν ἀγαθῶν τὴν πηγήν, βασιλείαν ἀσάλευτον, καὶ ζωὴν αἰώνιον, καὶ χαρὰν ἀνεκλάλητον, καὶ θεωρίας θείας ἀπόλαυσιν, καὶ πλουτοδότως Χριστοῦ χαρίσματα, νοῦν ὑπερβαίνοντα, καὶ βροτῶν διάνοιαν, γόνε βροντῆς, εὐαγγελιζόμενος, τῷ κόσμῳ ἔλαμψας."
 
 meMA.LaudsGlory.mode = misc_gr_GR_cog.Mode8
-meMA.LaudsGlory.melody  = ""
+meMA.LaudsGlory.melody = ""
 meMA.LaudsGlory.text = "Εὐαγγελιστὰ Ἰωάννη, Ἰσάγγελε Παρθένε, Θεολόγε θεοδίδακτε, ὀρθοδόξως τῷ κόσμῳ, τὴν ἄχραντον πλευράν, τὸ αἷμα καὶ τὸ ὕδωρ βλύζουσαν ἐκήρυξας, ἐν ᾧ τὴν αἰώνιον ζωήν, ποριζόμεθα ταῖς ψυχαῖς ἡμῶν."
 
 meMA.LaudsTheotokion.mode = misc_gr_GR_cog.Mode8
-meMA.LaudsTheotokion.melody  = ""
+meMA.LaudsTheotokion.melody = ""
 meMA.LaudsTheotokion.text = oc.m8.d5_gr_GR_cog.ocMA.AposTheotokion.text
 
 meMA.LaudsSundayVerse1.text = meVE.ApostichaVerse2.text
@@ -763,7 +763,7 @@ meLI.AlleluiaVerse1.text = "Ἐξομολογήσονται οἱ οὐρανο
 meLI.AlleluiaVerse2.text = "Ὁ Θεὸς ἐνδοξαζόμενος ἐν βουλῇ ἁγίων."
 
 meLI.SeasonalKontakion.mode = misc_gr_GR_cog.Mode2
-meLI.SeasonalKontakion.melody  = ""
+meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = ho.s07_gr_GR_cog.hoTY.Key0408.text
 
 meLI.CommunionHymn.text = "Εἰς πᾶσαν τὴν γῆν ἐξῆλθεν ὁ φθόγγος αὐτῶν, καὶ εἰς τὰ πέρατα τῆς οἰκουμένης τὰ ῥήματα αὐτῶν. Ἀλληλούϊα."

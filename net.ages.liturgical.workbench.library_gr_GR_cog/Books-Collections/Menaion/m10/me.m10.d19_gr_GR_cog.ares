@@ -1,15 +1,15 @@
 A_Resource_Whose_Name = me.m10.d19_gr_GR_cog
 
 meDate.text = "Τῌ ΙΘʹ ΟΚΤΩΒΡΙΟΥ"
-meCommemoration.text = "Μνήμη τοῦ ἁγίου Προφήτου Ἰωήλ· καὶ τοῦ ἁγίου Μάρτυρος Οὐάρου." //full title of day
+meCommemoration.text = "Μνήμη τοῦ Ἁγίου Προφήτου Ἰωήλ· καὶ τοῦ Ἁγίου Μάρτυρος Οὐάρου." // full title of day
 meShortCommemoration1.text = ""
-meInsert1 = "καὶ τοῦ ἁγίου Προφήτου Ἰωήλ, καὶ τοῦ Ἁγίου Μάρτυρος Οὐάρου, " //for use in petitions and dismissal
-meInsert2 = "ὧν καὶ τὴν μνήμην ἐπιτελοῦμεν· " //for use in petitions and dismissal
+meInsert1 = "καὶ τοῦ ἁγίου Προφήτου Ἰωήλ, καὶ τοῦ Ἁγίου Μάρτυρος Οὐάρου, " // for use in petitions and dismissal
+meInsert2 = "ὧν καὶ τὴν μνήμην ἐπιτελοῦμεν· " // for use in petitions and dismissal
 meNote.text = ""
-meLE.commemoration1 = "Μνήμη τοῦ ἁγίου Προφήτου Ἰωήλ· καὶ τοῦ ἁγίου Μάρτυρος Οὐάρου."
+meLE.commemoration1 = "Μνήμη τοῦ Ἁγίου Προφήτου Ἰωήλ."
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -287,7 +287,7 @@ meMA.Ode6H.mode = misc_gr_GR_cog.Mode6
 meMA.Ode6H.melody = misc_gr_GR_cog.Heirmos
 meMA.Ode6H.text = he.h.m6_gr_GR_cog.TouViouTinThalassan.text
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C11.ode = misc_gr_GR_cog.Ode7
 meMA.Ode7C11.mode = misc_gr_GR_cog.Mode2
@@ -420,7 +420,7 @@ meMA.Ode9H.melody = misc_gr_GR_cog.Heirmos
 meMA.Ode9H.text = he.h.m6_gr_GR_cog.TheonAnthropois.text
 
 meLI.SeasonalKontakion.mode = misc_gr_GR_cog.Mode2
-meLI.SeasonalKontakion.melody  = ""
+meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = ho.s07_gr_GR_cog.hoTY.Key0408.text
 meMegalynarion.text = ""
 

@@ -1,15 +1,15 @@
 A_Resource_Whose_Name = me.m10.d23_gr_GR_cog
 
 meDate.text = "Τῌ ΚΓʹ ΟΚΤΩΒΡΙΟΥ"
-meCommemoration.text = "Μνήμη τοῦ ἁγίου Ἱερομάρτυρος καὶ Ἀποστόλου Ἰακώβου τοῦ Ἀδελφοθέου." //full title of day
+meCommemoration.text = "Μνήμη τοῦ Ἁγίου Ἱερομάρτυρος καὶ Ἀποστόλου Ἰακώβου τοῦ Ἀδελφοθέου." // full title of day
 meShortCommemoration1.text = ""
-meInsert1 = "καὶ τοῦ ἁγίου Ἱερομάρτυρος καὶ Ἀποστόλου Ἰακώβου τοῦ Ἀδελφοθέου, " //for use in petitions and dismissal
-meInsert2 = "οὗ καὶ τὴν μνήμην ἐπιτελοῦμεν· " //for use in petitions and dismissal
+meInsert1 = "καὶ τοῦ ἁγίου Ἱερομάρτυρος καὶ Ἀποστόλου Ἰακώβου τοῦ Ἀδελφοθέου, " // for use in petitions and dismissal
+meInsert2 = "οὗ καὶ τὴν μνήμην ἐπιτελοῦμεν· " // for use in petitions and dismissal
 meNote.text = ""
-meLE.commemoration1 = "Μνήμη τοῦ ἁγίου Ἱερομάρτυρος καὶ Ἀποστόλου Ἰακώβου τοῦ Ἀδελφοθέου."
+meLE.commemoration1 = "Μνήμη τοῦ Ἁγίου Ἱερομάρτυρος καὶ Ἀποστόλου Ἰακώβου τοῦ Ἀδελφοθέου."
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -26,10 +26,10 @@ meVE.Stichera03.mode = misc_gr_GR_cog.Mode4
 meVE.Stichera03.melody = he.a.m4_gr_GR_cog.EdokasSimeiosin.name
 meVE.Stichera03.text = "Πόρρωθεν προβλέπων σου, τὴν πολιτείαν Ἰάκωβε, ἀδελφὸν σε προσήκατο, Χριστὸς ὁ φιλάνθρωπος, ὁ σοφὸς προγνώστης, Ἱεροσολύμων, ἱεροφάντορα πιστόν, καὶ ποιμενάρχην προχειρισάμενος, καὶ μύστην τὰ ἀπόρρητα, ἱερουργοῦντα μυστήρια. Ὃν καὶ νῦν καθικέτευε, τοῦ σωθῆναι τὰς ψυχὰς ἡμῶν."
 
-meVE.Stichera78910.text = "" //for media
+meVE.Stichera78910.text = "" // for media
 
 meVE.SticGlory.mode = misc_gr_GR_cog.Mode6
-meVE.SticGlory.melody  = ""
+meVE.SticGlory.melody = ""
 meVE.SticGlory.text = "Αἵματι τοῦ μαρτυρίου, τὴν ἱερωσύνην κατεποίκιλας, Ἱερομάρτυς, Ἀπόστολε· τῷ γὰρ πτερυγίῳ του ἱεροῦ παρεστώς, Θεὸν Λόγον ἐκήρυξας, Δημιουργὸν ὄντα τοῦ παντός· ὅθεν ὑπὸ Ἰουδαίων ῥιφείς, οὐρανίων θαλάμων ἠξίωσαι, Ἀδελφόθεε Ἰάκωβε, Χριστὸν τὸν Θεὸν ἱκέτευε, τοῦ σωθῆναι τὰς ψυχὰς ἡμῶν."
 
 meVE.SticTheotokion.mode = misc_gr_GR_cog.Mode6
@@ -53,7 +53,7 @@ meVE.Aposticha3.melody = he.a.m8_gr_GR_cog.KyrieEiKaiKritirio.name
 meVE.Aposticha3.text = "Κύριε, σὲ ὁμολογήσας γενναίως, ὁ Ἀδελφόθεος γέγηθεν, Υἱὸν τοῦ Θεοῦ τοῦ ὑψίστου, εἰλικρινῶς ὁ ἀοίδιμος· τοὺς δὲ δυσφήμους ἐχθρούς, κατῄσχυνε καὶ ἔπαυσε· διὰ τοῦτο καὶ ἐναθλήσας, σοὶ παρέστη ἀγαλλόμενος."
 
 meVE.AposGlory.mode = misc_gr_GR_cog.Mode8
-meVE.AposGlory.melody  = ""
+meVE.AposGlory.melody = ""
 meVE.AposGlory.text = "Τοῦ ἀρχιποίμενος Χριστοῦ, Ἀδελφὸς χρηματίσας καὶ διάδοχος, καὶ ἐν Ἀποστόλοις ἐπίσημος, τὸν ὑπὲρ αὐτοῦ θάνατον ἠγάπησας, καὶ τὸ μαρτύριον οὐκ ἐπῃσχύνθης, Ἰάκωβε ἔνδοξε· Αὐτὸν ἱκέτευε ἀδιαλείπτως, τοῦ σωθῆναι τὰς ψυχὰς ἡμῶν."
 
 meVE.AposTheotokion.mode = misc_gr_GR_cog.Mode8
@@ -61,7 +61,7 @@ meVE.AposTheotokion.melody = he.a.m8_gr_GR_cog.KyrieEiKaiKritirio.name
 meVE.AposTheotokion.text = "Ἴδε μου, τῆς συντετριμμένης καρδίας, τοὺς στεναγμοὺς θεονύμφευτε, πρόσδεξαι Παρθένε Μαρία, καὶ μὴ ἀπώσῃ πανάμωμε, τὰς τῶν χειρῶν μου ἁγνή, ἐπάρσεις ὡς φιλάγαθος, ἵνα ὑμνῶ καὶ μεγαλύνω, τὸν μεγαλύνοντα τὸ γένος ἡμῶν."
 
 meVE.Apolytikion1.mode = misc_gr_GR_cog.Mode4
-meVE.Apolytikion1.melody  = ""
+meVE.Apolytikion1.melody = ""
 meVE.Apolytikion1.text = "Ὡς τοῦ Κυρίου μαθητής, ἀνεδέξω Δίκαιε τὸ Εὐαγγέλιον· ὡς Μάρτυς ἔχεις τὸ ἀπαράτρεπτον· τὴν παρρησίαν ὡς Ἀδελφόθεος, τὸ πρεσβεύειν ὡς Ἱεράρχης. Ἱκέτευε Χριστῷ τῷ Θεῷ, σωθῆναι τάς ψυχὰς ἠμών."
 
 // The Kathismata and Post Gospel Idiomelon, not found in the Menaion, are from Systema Typikou (in Greek) by Protopresbyter Ioannis Papayianis, published in 2006 by the Apostolike Diakonia of the Church of Greece.
@@ -90,18 +90,18 @@ meMA.Kathisma3T.mode = misc_gr_GR_cog.Mode3
 meMA.Kathisma3T.melody = he.a.m3_gr_GR_cog.TinOraiotita.name
 meMA.Kathisma3T.text = "Ἐν τῇ κοιμήσει σου, Παρθένε ἄχραντε, καὶ ὁ Ἰάκωβος ὁ ἀδελφόθεος, μετὰ τῶν ἄλλων μαθητῶν παρῆν, ὡς θεασόμενος, τὸ ζωαρχικώτατον καὶ πανάχραντον σκῆνός σου, καὶ τὸ ἀνερμήνευτον ἀνυμνήσων μυστήριον, τῆς θείας καὶ φρικτῆς σου λοχείας, ὃ προσκυνοῦντας ἡμᾶς σῶσον."
 
-meMA.Prokeimenon.text = "" //for media
+meMA.Prokeimenon.text = "" // for media
 
 meMA.PostGospelGlory.mode = misc_gr_GR_cog.Mode2
-meMA.PostGospelGlory.melody  = ""
+meMA.PostGospelGlory.melody = ""
 meMA.PostGospelGlory.text = ho.s03_gr_GR_cog.hoMA.PostGospelApostle.text
 
 meMA.PostGospelBoth.mode = misc_gr_GR_cog.Mode2
-meMA.PostGospelBoth.melody  = ""
+meMA.PostGospelBoth.melody = ""
 meMA.PostGospelBoth.text = ho.s03_gr_GR_cog.hoMA.PostGospelTheotokos.text
 
 meMA.PostGospelIdiomelon.mode = misc_gr_GR_cog.Mode6
-meMA.PostGospelIdiomelon.melody  = ""
+meMA.PostGospelIdiomelon.melody = ""
 meMA.PostGospelIdiomelon.text = "Παρεστηκὼς τῷ θρόνῳ τοῦ Δεσπότου Χριστοῦ, καὶ παρρησίας τυγχάνων πρὸς αὐτὸν διὰ τὴν συγγενῆ οἰκειότητα, μὴ ἀποκάμῃς ἱκετεύειν ὑπὲρ ἡμῶν τὴν αὐτοῦ ἀγαθότητα, Ἰάκωβε θεάδελφε, τῶν δεσποσύνων ὁ πρώτιστος."
 
 meMA.C1Poet = poets_gr_GR_cog.Theofanous
@@ -234,7 +234,7 @@ meMA.Kontakion1.text = "Ὁ του Πατρὸς μονογενὴς Θεὸς �
 
 meMA.Oikos1.text = "Τὸν γόνον σε τοῦ Ἰωσήφ, καὶ Ἱεροσολύμων τὸν πρῶτον ἱεράρχην, Ἰάκωβε θεόπτα, καὶ τοῦ Κυρίου ἀδελφὸν ὕμνοις ἐγκωμίων ἀνυμνοῦμεν εὐσεβῶς, καὶ πίστει ἀνακράζομεν· Δώρησαι ἡμῖν δώρημα τέλειον ἐκ τοῦ Πατρὸς τῶν φώτων, καὶ ἀπέλασον τὴν θλίψιν τὴν ἐπερχομένην καὶ ἐνεστῶσαν ἐκ πλήθους πταισμάτων· ἐπῆραν γὰρ οἱ ἐχθροὶ καθ' ἡμῶν τὴν πτέρναν, καὶ ἐκύκλωσαν ἡμᾶς Ἰσμαηλῖται· ὧν θραῦσον ταχὺ τὰ τόξα ἱεροφάντορ, ἵνα σε πάντες τιμῶμεν Ἀπόστολε."
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C11.ode = misc_gr_GR_cog.Ode7
 meMA.Ode7C11.mode = misc_gr_GR_cog.Mode4
@@ -328,11 +328,11 @@ meMA.Lauds3.text = "Τῶν Ἀποστόλων ὁ δῆμος, σὲ ἐξε�
 
 meMA.LaudsGlory.poet = poets_gr_GR_cog.Vyzantiou
 meMA.LaudsGlory.mode = misc_gr_GR_cog.Mode1
-meMA.LaudsGlory.melody  = ""
+meMA.LaudsGlory.melody = ""
 meMA.LaudsGlory.text = "Ἐν τῇ πυρίνῃ αἴγλῃ τοῦ θείου Πνεύματος φωτισθείς, τῆς εὐσεβείας ὤφθης θεῖος ζηλωτής, Ἀδελφόθεε Ἰάκωβε· ὅθεν καὶ στολὴν σε νομικῆς ἱερωσύνης, ὡς Ἀαρὼν τοῦ πάλαι, τιμιωτέραν ἐνέδυσεν ὁ δι' οἶκτον εἰς ἀδελφότητα δεξάμενος· Αὐτὸν ἱκέτευε, Ἀποστόλων Ἔνδοξε, τοῦ σωθῆναι τὰς ψυχὰς ἡμῶν."
 
 meMA.LaudsTheotokion.mode = misc_gr_GR_cog.Mode1
-meMA.LaudsTheotokion.melody  = ""
+meMA.LaudsTheotokion.melody = ""
 meMA.LaudsTheotokion.text = oc.m1.d3_gr_GR_cog.ocVE.AposTheotokion.text
 
 meMA.LaudsSundayVerse1.text = ""
@@ -340,7 +340,7 @@ meMA.LaudsSundayVerse1.text = ""
 meMA.LaudsSundayVerse2.text = ""
 
 meLI.SeasonalKontakion.mode = misc_gr_GR_cog.Mode2
-meLI.SeasonalKontakion.melody  = ""
+meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = ho.s07_gr_GR_cog.hoTY.Key0408.text
 
 meLI.CommunionHymn.text = ""

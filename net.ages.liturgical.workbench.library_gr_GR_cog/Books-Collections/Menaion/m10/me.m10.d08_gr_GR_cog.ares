@@ -1,15 +1,15 @@
 A_Resource_Whose_Name = me.m10.d08_gr_GR_cog
 
 meDate.text = "Τῌ Ηʹ ΟΚΤΩΒΡΙΟΥ"
-meCommemoration.text = "Μνήμη τῆς ὁσίας Μητρὸς ἡμῶν Πελαγίας." //full title of day
+meCommemoration.text = "Μνήμη τῆς Ὁσίας Μητρὸς ἡμῶν Πελαγίας." // full title of day
 meShortCommemoration1.text = ""
-meInsert1 = "καὶ τῆς ὁσίας Μητρὸς ἡμῶν Πελαγίας, " //for use in petitions and dismissal
-meInsert2 = "ἧς καὶ τὴν μνήμην ἐπιτελοῦμεν· " //for use in petitions and dismissal
+meInsert1 = "καὶ τῆς ὁσίας Μητρὸς ἡμῶν Πελαγίας, " // for use in petitions and dismissal
+meInsert2 = "ἧς καὶ τὴν μνήμην ἐπιτελοῦμεν· " // for use in petitions and dismissal
 meNote.text = ""
-meLE.commemoration1 = "Μνήμη τῆς ὁσίας Μητρὸς ἡμῶν Πελαγίας."
+meLE.commemoration1 = "Μνήμη τῆς Ὁσίας Μητρὸς ἡμῶν Πελαγίας."
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -28,7 +28,7 @@ meVE.Stichera03.text = "Τῶν δακρύων ἀλάβαστρον, καθ' 
 
 meVE.SticGlory.poet = poets_gr_GR_cog.IoannouMonachou
 meVE.SticGlory.mode = misc_gr_GR_cog.Mode4
-meVE.SticGlory.melody  = ""
+meVE.SticGlory.melody = ""
 meVE.SticGlory.text = "Ὅπου ἐπλεόνασεν ἡ ἁμαρτία, ὑπερεπερίσσευσεν ἡ χάρις, καθὼς ὁ Ἀπόστολος διδάσκει· ἐν προσευχαῖς γὰρ καὶ δάκρυσι Πελαγία, τῶν πολλῶν πταισμάτων τὸ πέλαγος ἐξήρανας, καὶ τὸ τέλος εὐπρόσδεκτον τῷ Κυρίῳ, διὰ τῆς μετανοίας προσήγαγες, καὶ νῦν τούτῳ πρεσβεύεις, ὑπὲρ τῶν ψυχῶν ἡμῶν."
 
 meVE.SticTheotokion.mode = misc_gr_GR_cog.Mode4
@@ -41,7 +41,7 @@ meVE.SticStavrotheotokion.text = "Ὡς ἑώρακε Κύριε, ἡ Παρθ
 
 meVE.AposGlory.poet = poets_gr_GR_cog.MeletiouIeromartyrosVlastou
 meVE.AposGlory.mode = misc_gr_GR_cog.Mode8
-meVE.AposGlory.melody  = ""
+meVE.AposGlory.melody = ""
 meVE.AposGlory.text = "Μετὰ τὸ ἀρνήσασθαι σαρκὸς τὴν εὐπάθειαν, ἀνεδείχθης καθαρὸν δοχεῖον, τοῦ δι' εὐσπλαγχνίαν τοῖς ἀνθρώποις συγκαταβάντος φιλανθρώπου Λόγου· ὅθεν καὶ πρός ζωὴν τὴν ἀγήρω οἰκεῖν σε ἠξίωσεν ὡς ὑπεράγαθος. Τὰ οὐράνια πάντα συγχαίρουσι, τὴν πρὶν σε ἀσέμνως βιώσασαν, νῦν καθορῶντα Χριστοῦ ἄσπιλον κειμήλιον, τοῦ ἐν οὐρανοῖς ἀπὸ τῆς γῆς σε μεταθέντος, καὶ πάντας πιστοὺς φρουροῦντος τῇ μνήμῃ σου."
 
 meVE.AposTheotokion.mode = misc_gr_GR_cog.Mode8
@@ -191,7 +191,7 @@ meMA.Kontakion1.text = "Τὸ σῶμα τὸ σόν, νηστείαις κα�
 
 meMA.Oikos1.text = "Ὅσοι ἐν βίῳ ἁμαρτίαις ἐμολύνθητε, ὡς ὁ τάλας ἐγώ, ζηλώσωμεν τὴν μετάνοιαν, τὸν ὀδυρμόν τε μετὰ δακρύων τῆς Ὁσίας Μητρὸς ἡμῶν Πελαγίας, ἵνα ταχὺ ἐκ Θεοῦ τὴν συγχώρησιν λάβωμεν, καθάπερ ἡ μακαρία, ἔτι ζῶσα, τὸν ῥύπον ἀπέπλυνε τῆς ἁμαρτίας, καὶ ἔλαβεν ἐκ Θεοῦ τὴν τελείαν συγχώρησιν, ὁδὸν μετανοίας ὑποδείξασα."
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C11.ode = misc_gr_GR_cog.Ode7
 meMA.Ode7C11.mode = misc_gr_GR_cog.Mode4
@@ -276,7 +276,7 @@ meMA.LaudsSundayVerse1.text = "Ὑπομένων ὑπέμεινα τὸν Κύ�
 meMA.LaudsSundayVerse2.text = "Καὶ ἔστησεν ἐπὶ πέτραν τοὺς πόδας μου, καὶ κατηύθυνεν τὰ διαβήματά μου."
 
 meLI.SeasonalKontakion.mode = misc_gr_GR_cog.Mode2
-meLI.SeasonalKontakion.melody  = ""
+meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = ho.s07_gr_GR_cog.hoTY.Key0408.text
 
 meMegalynarion.text = ""

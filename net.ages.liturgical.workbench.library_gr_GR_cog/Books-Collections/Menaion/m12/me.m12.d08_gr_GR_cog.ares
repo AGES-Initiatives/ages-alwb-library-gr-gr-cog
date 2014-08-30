@@ -1,15 +1,15 @@
 A_Resource_Whose_Name = me.m12.d08_gr_GR_cog
 
 meDate.text = "Τῌ Hʹ ΔΕΚΕΜΒΡΙΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "Προεόρτια τῆς Συλλήψεως τῆς Ἁγίας Ἄννης, καὶ μνήμη τοῦ Ὁσίου Πατρὸς ἡμῶν Παταπίου." //full title of day
+meCommemoration.text = "Προεόρτια τῆς Συλλήψεως τῆς Ἁγίας Ἄννης, καὶ Μνήμη τοῦ Ὁσίου Πατρὸς ἡμῶν Παταπίου." // full title of day
 meShortCommemoration1.text = ""
-meInsert1 = "" //for use in petitions and dismissal
-meInsert2 = "" //for use in petitions and dismissal
+meInsert1 = "" // for use in petitions and dismissal
+meInsert2 = "" // for use in petitions and dismissal
 meNote.text = ""
-meLE.commemoration1 = "Προεόρτια τῆς Συλλήψεως τῆς Ἁγίας Ἄννης, καὶ μνήμη τοῦ Ὁσίου Πατρὸς ἡμῶν Παταπίου."
+meLE.commemoration1 = "Μνήμη τοῦ Ὁσίου Πατρὸς ἡμῶν Παταπίου."
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -331,7 +331,7 @@ meMA.Kontakion1.text = "Τὸν ναόν σου Ἅγιε, πνευματικ�
 
 meMA.Oikos1.text = "Ἡ σορός σου Σοφὲ πᾶσι βρύει ἰάματα, ἐξ ὧν πάντες πιστοὶ ἀρυόμενοι, σῴζονται ἐκ νόσων πολλῶν, ψυχῶν καὶ σωμάτων, ὧνπερ ὁ τάλας ἐγὼ πεπείραμαι ῥυσθεὶς τῶν θλιβόντων με· καὶ διὰ τοῦτο τὴν σὴν ἀντίληψιν νῦν ἀνευφημῶ, καὶ διηγοῦμαι τρανῶς, πῶς ἐπιφθάνεις τοὺς ἐν ἀνάγκαις, καὶ ἐκλυτροῦσαι πειρασμῶν τοὺς προσιόντας σοι θερμῶς. Διὸ δίδου ἰσχὺν μοι ἀνυμνεῖν σε· σὺ γὰρ πάντων τῶν ἐν ἀνάγκαις, προστάτης ὤφθης, Πατάπιε Ὁσιε."
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C1H.ode = misc_gr_GR_cog.Ode7
 meMA.Ode7C1H.mode = misc_gr_GR_cog.Mode2

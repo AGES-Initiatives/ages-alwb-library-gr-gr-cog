@@ -1,15 +1,15 @@
 A_Resource_Whose_Name = me.m12.dFF_gr_GR_cog
 
 meDate.text = "" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "Κυριακὴ τῶν Ἁγίων Προπατόρων" //full title of day
+meCommemoration.text = "Κυριακὴ τῶν Ἁγίων Προπατόρων." // full title of day
 meShortCommemoration1.text = "Τῶν ἁγίων Προπατόρων."
-meInsert1 = "καὶ τῶν ἁγίων Προπατόρων," //for use in petitions and dismissal
-meInsert2 = "ὧν καὶ τὴν μνήμην ἐπιτελοῦμεν;" //for use in petitions and dismissal
+meInsert1 = "καὶ τῶν ἁγίων Προπατόρων," // for use in petitions and dismissal
+meInsert2 = "ὧν καὶ τὴν μνήμην ἐπιτελοῦμεν;" // for use in petitions and dismissal
 meNote.text = ""
-meLE.commemoration1 = "Κυριακὴ τῶν Ἁγίων Προπατόρων"
+meLE.commemoration1 = "Κυριακὴ τῶν Ἁγίων Προπατόρων."
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -32,20 +32,20 @@ meVE.Stichera04.text = "Ὥσπερ ἐν δρόσῳ ὄντες οἱ πισ�
 
 meVE.SticGlory.poet = poets_gr_GR_cog.Anatoliou
 meVE.SticGlory.mode = misc_gr_GR_cog.Mode6
-meVE.SticGlory.melody  = ""
+meVE.SticGlory.melody = ""
 meVE.SticGlory.text = "Τοὺς πρὸ τοῦ νόμου Πατέρας, ἅπαντας εὐφημήσωμεν σήμερον πιστοί, Ἀβραὰμ τὸν φιλόθεον, Ἰσαὰκ τὸν ἐξ ἐπαγγελίας τεχθέντα, καὶ Ἰακώβ, καὶ τοὺς δώδεκα Πατριάρχας, Δαυΐδ τὸν πραότατον καὶ Δανιὴλ τὸν ἐπιθυμιῶν Προφήτην, καὶ τοὺς τρεῖς Παῖδας σὺν αὐτοῖς γεραίροντες, τοὺς τὴν κάμινον εἰς δρόσον μεταβαλόντας, αἰτούμενοι ἄφεσιν παρὰ Χριστοῦ τοῦ Θεοῦ, τοῦ ἐνδοξαζομένου ἐν τοῖς Ἁγίοις αὐτοῦ."
 
 meVE.AposGlory.poet = poets_gr_GR_cog.Germanou
 meVE.AposGlory.mode = misc_gr_GR_cog.Mode3
-meVE.AposGlory.melody  = ""
+meVE.AposGlory.melody = ""
 meVE.AposGlory.text = "Τῶν Προπατόρων τὸ σύστημα, οἱ φιλέορτοι δεῦτε, ψαλμικῶς εὐφημήσωμεν, Ἀδὰμ τὸν Προπάτορα, Ἐνώχ, Νῶε, Μελχισεδέκ, Ἀβραάμ, Ἰσαὰκ καὶ Ἰακώβ· μετὰ νόμον, Μωϋσῆν καὶ Ἀαρών, Ἰησοῦν, Σαμουὴλ καὶ Δαυΐδ· μεθ' ὧν τὸν Ἡσαΐαν, Ἱερεμίαν, Ἰεζεκιήλ, καὶ Δανιὴλ καὶ τοὺς δώδεκα, ἅμα Ἠλιού, Ἐλισαῖον καὶ τοὺς ἅπαντας, Ζαχαρίαν καὶ τὸν Βαπτιστήν, καὶ τοὺς κηρύξαντας Χριστόν, τὴν ζωὴν καὶ ἀνάστασιν τοῦ γένους ἡμῶν."
 
 meVE.AposTheotokion.mode = misc_gr_GR_cog.Mode3
-meVE.AposTheotokion.melody  = ""
+meVE.AposTheotokion.melody = ""
 meVE.AposTheotokion.text = oc.m3.d1_gr_GR_cog.ocVE.AposTheotokion.text
 
 meVE.Apolytikion1.mode = misc_gr_GR_cog.Mode2
-meVE.Apolytikion1.melody  = ""
+meVE.Apolytikion1.melody = ""
 meVE.Apolytikion1.text = "Ἐν πίστει τοὺς Προπάτορας ἐδικαίωσας, τὴν ἐξ Ἐθνῶν δι' αὐτῶν προμνηστευσάμενος Ἐκκλησίαν. Καυχῶνται ἐν δόξῃ οἱ Ἅγιοι, ὄι ἐκ σπέρματος αὐτῶν, ὑπάρχει καρπός εὐκλεής, ἡ ἀσπόρως τεκοῦσά σε. Ταῖς αὐτῶν ἱκεσίαις, Χριστὲ ὁ Θεός, σῶσον τὰς ψυχὰς ἡμῶν."
 
 meMA.C1Acrostic.text = "οὗ ἡ Ἀκροστιχίς· Τρεῖς παῖδας ὑμνῶ, Δανιήλ τε τὸν μέγαν. Θεοφάνους."
@@ -143,7 +143,7 @@ meMA.Ode3K.melody = misc_gr_GR_cog.Heirmos
 meMA.Ode3K.text = he.h.m1_gr_GR_cog.ToProTonAionon.text
 
 meMA.Hypakoe.mode = misc_gr_GR_cog.Mode2
-meMA.Hypakoe.melody  = ""
+meMA.Hypakoe.melody = ""
 meMA.Hypakoe.text = "Εἰς δρόσον τοῖς Παισί, τὸ πῦρ μετεβάλλετο, ὁ θρῆνος εἰς χαράν, ταῖς Γυναιξὶν ἐνηλλάττετο· Ἄγγελος γάρ, ἐν ἀμφοτέροις διηκόνει τοῖς θαύμασι, τοῖς μέν, εἰς ἀνάπαυσιν μεταποιήσας τὴν κάμινον, ταῖς δέ, τὴν ἀνάστασιν καταμηνύσας τριήμερον, ὁ ἀρχηγὸς τῆς ζωῆς ἡμῶν, Κύριε δόξα σοι."
 
 meMA.Ode3Kathisma1.mode = misc_gr_GR_cog.Mode1
@@ -286,12 +286,12 @@ meMA.Ode6K.melody = misc_gr_GR_cog.Heirmos
 meMA.Ode6K.text = he.h.m1_gr_GR_cog.SplanchnonIonan.text
 
 meMA.Kontakion1.mode = misc_gr_GR_cog.Mode2
-meMA.Kontakion1.melody  = ""
+meMA.Kontakion1.melody = ""
 meMA.Kontakion1.text = "Χειρόγραφον εἰκόνα μὴ σεβασθέντες, ἀλλ' ἀγράφῳ οὐσίᾳ θωρακισθέντες τρισμακάριοι, ἐν τῷ σκάμματι τοῦ πυρὸς ἐδοξάσθητε, ἐν μέσῳ δὲ φλογὸς ἀνυποστάτου ἱστάμενοι, Θεὸν ἐπεκαλεῖσθε· Τάχυνον ὁ Οἰκτίρμων, καὶ σπεῦσον ὡς ἐλεήμων, εἰς τὴν βοήθειαν ἡμῶν, ὅτι δύνασαι βουλόμενος."
 
 meMA.Oikos1.text = "Τάχυνον, ὁ οἰκτίρμων, καὶ σπεῦσον, ὁ ἐλεήμων, εἰς τὴν βοήθειαν ἡμῶν, ὅτι δύνασαι βουλόμενος. Ἔκτεινόν σου τὴν χεῖρα, ἧς πάλαι ἔλαβον πεῖραν Αἰγύπτιοι πολεμοῦντες, καὶ Ἑβραῖοι πολεμούμενοι· μὴ καταλίπῃς ἡμᾶς, καὶ καταπίῃ ἡμᾶς ὁ θάνατος, ὁ διψῶν ἡμᾶς, καὶ Σατᾶν ὁ μισῶν ἡμᾶς· ἀλλ' ἔγγισον ἡμῖν, καὶ φεῖσαι τῶν ψυχῶν ἡμῶν, ὡς ἐφείσω ποτὲ τῶν Παίδων σου τῶν ἐν Βαβυλῶνι, ἀπαύστως ἀνυμνούντων σε καὶ βληθέντων ὑπὲρ σοῦ εἰς τὴν κάμινον, καὶ ἐκ ταύτης κραυγαζόντων σοι. Τάχυνον ὁ οἰκτίρμων, καὶ σπεῦσον ὡς ἐλεήμων εἰς τὴν βοήθειαν ἡμῶν, ὅτι δύνασαι βουλόμενος."
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C11.ode = misc_gr_GR_cog.Ode7
 meMA.Ode7C11.mode = misc_gr_GR_cog.Mode8
@@ -468,7 +468,7 @@ meMA.Lauds3.text = "Λάκκῳ κατακλεισθείς, θηρσὶ συν
 
 meMA.LaudsGlory.poet = poets_gr_GR_cog.Germanou
 meMA.LaudsGlory.mode = misc_gr_GR_cog.Mode7
-meMA.LaudsGlory.melody  = ""
+meMA.LaudsGlory.melody = ""
 meMA.LaudsGlory.text = "Δεῦτε ἅπαντες, πιστῶς πανηγυρίσωμεν, τῶν πρὸ νόμου Πατέρων, Ἀβραὰμ καὶ τῶν σὺν αὐτῷ, τὴν ἐτήσιον μνήμην, τοῦ Ἰούδα τὴν φυλήν, ἀξίως τιμήσωμεν, τοὺς ἐν Βαβυλῶνι Παῖδας, τοὺς σβέσαντας τὴν ἐν καμίνῳ φλόγα, ὡς τῆς Τριάδος τύπον, σὺν τῷ Δανιὴλ εὐφημήσωμεν, τῶν Προφητῶν τὰς προρρήσεις ἀσφαλῶς κατέχοντες, μετὰ τοῦ Ἡσαΐου μεγαλοφώνως βοήσωμεν· ἰδοὺ ἡ Παρθένος, ἐν γαστρὶ λήψεται, καὶ τέξεται Υἱὸν τὸν Ἐμμανουήλ· ὃ ἐστι μεθ' ἡμῶν ὁ Θεός."
 
 meLI.SeasonalKontakion.mode = misc_gr_GR_cog.Mode3

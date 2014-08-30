@@ -1,15 +1,15 @@
 A_Resource_Whose_Name = me.m11.d09_gr_GR_cog
 
 meDate.text = "Τῌ Θʹ ΝΟΕΜΒΡΙΟΥ"
-meCommemoration.text = "Μνήμη τῶν Ἁγίων Μαρτύρων Ὀνησιφόρου καὶ Πορφυρίου· τῆς Ὁσίας Μητρὸς ἡμῶν Ματρώνης, καὶ τοῦ ἐν ἁγίοις Πατρὸς ἡμῶν Νεκταρίου ἐπισκόπου Πενταπόλεως τοῦ Θαυματουργοῦ." //full title of day
+meCommemoration.text = "Μνήμη τῶν Ἁγίων Μαρτύρων Ὀνησιφόρου καὶ Πορφυρίου· τῆς Ὁσίας Μητρὸς ἡμῶν Ματρώνης, καὶ τοῦ ἐν Ἁγίοις Πατρὸς ἡμῶν Νεκταρίου Ἐπισκόπου Πενταπόλεως τοῦ Θαυματουργοῦ." // full title of day
 meShortCommemoration1.text = ""
-meInsert1 = "καὶ τῶν ἁγίων Μαρτύρων Ὀνησιφόρου καὶ Πορφυρίου, καὶ τῆς ὁσίας Μητρὸς ἡμῶν Ματρώνης, " //for use in petitions and dismissal
-meInsert2 = "ὧν καὶ τὴν μνήμην ἐπιτελοῦμεν· " //for use in petitions and dismissal
+meInsert1 = "καὶ τῶν ἁγίων Μαρτύρων Ὀνησιφόρου καὶ Πορφυρίου, καὶ τῆς ὁσίας Μητρὸς ἡμῶν Ματρώνης, " // for use in petitions and dismissal
+meInsert2 = "ὧν καὶ τὴν μνήμην ἐπιτελοῦμεν· " // for use in petitions and dismissal
 meNote.text = ""
-meLE.commemoration1 = "Μνήμη τῶν Ἁγίων Μαρτύρων Ὀνησιφόρου καὶ Πορφυρίου· τῆς Ὁσίας Μητρὸς ἡμῶν Ματρώνης, καὶ τοῦ ἐν ἁγίοις Πατρὸς ἡμῶν Νεκταρίου ἐπισκόπου Πενταπόλεως τοῦ Θαυματουργοῦ."
+meLE.commemoration1 = "Μνήμη τῶν Ἁγίων Μαρτύρων Ὀνησιφόρου καὶ Πορφυρίου· τῆς Ὁσίας Μητρὸς ἡμῶν Ματρώνης."
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -306,7 +306,7 @@ meMA.Kontakion2.text = "Τὸ σῶμα τὸ σόν, νηστείαις κα�
 
 meMA.Oikos2.text = "Ἄνοιξόν μου τὸ στόμα Χριστέ μου, ἀνυμνῆσαι καὶ λέγειν τοὺς ἀγῶνας τῆς σῆς Ὁσίας Φιλάνθρωπε, ὅπως τὰ πάντα καταλιποῦσα, καὶ ποθήσασα μόνον σε τὸν Νυμφίον, τὸν ἐπὶ γῆς ὡς φθαρτὰ ἐλογίσατο ἅπαντα, καὶ τὸν τύπον τοῦ ζωηφόρου Σταυροῦ ἐν ἑαυτῇ τυπώσασα, δαιμόνων θράση κατήργησε, καὶ εἰς τέλος αὐτοὺς ἐξηφάνισεν, ὁσίως τὸν βίον διανύσασα."
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C11.ode = misc_gr_GR_cog.Ode7
 meMA.Ode7C11.mode = misc_gr_GR_cog.Mode4
@@ -460,13 +460,13 @@ meMA.ExapTheotokion.mode = misc_gr_GR_cog.Mode3
 meMA.ExapTheotokion.melody = he.a.m3_gr_GR_cog.OOuranonToisAstrois.name
 meMA.ExapTheotokion.text = "Ἱερωτάταις φωναῖς σε, σεπτοὶ Προφῆται Παρθένε, κατήγγειλαν ἐσομένην, Θεοῦ Μητέρα· διὸ σε, εἰδότες πίστει καὶ πόθῳ, γεραίρομεν Θεοτόκον."
 
-meMA.LaudsSundayVerse1.text = "" //for media
+meMA.LaudsSundayVerse1.text = "" // for media
 
 meLI.SeasonalKontakion.mode = me.m11.d21_gr_GR_cog.meMA.Kontakion1.mode
 meLI.SeasonalKontakion.melody = me.m11.d21_gr_GR_cog.meMA.Kontakion1.melody
 meLI.SeasonalKontakion.text = me.m11.d21_gr_GR_cog.meMA.Kontakion1.text
 
-meLI.CommunionHymn.text = "" //for media
+meLI.CommunionHymn.text = "" // for media
 
 meMegalynarion.text = ""
 

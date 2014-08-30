@@ -1,15 +1,15 @@
 A_Resource_Whose_Name = me.m11.d26_gr_GR_cog
 
 meDate.text = "Τῌ ΚϚʹ ΝΟΕΜΒΡΙΟΥ"
-meCommemoration.text = "Μνήμη τῶν ὁσίων Πατέρων ἡμῶν Ἀλυπίου τοῦ Κιονίτου καὶ Νίκωνος τοῦ Μετανοεῖτε." //full title of day
+meCommemoration.text = "Μνήμη τῶν Ὁσίων Πατέρων ἡμῶν Ἀλυπίου τοῦ Κιονίτου καὶ Νίκωνος τοῦ Μετανοεῖτε." // full title of day
 meShortCommemoration1.text = ""
-meInsert1 = "καὶ τῶν ὁσίων Πατέρων ἡμῶν Ἀλυπίου τοῦ Κιονίτου καὶ Νίκωνος τοῦ Μετανοεῖτε, " //for use in petitions and dismissal
-meInsert2 = "ὧν καὶ τὴν μνήμην ἐπιτελοῦμεν· " //for use in petitions and dismissal
+meInsert1 = "καὶ τῶν ὁσίων Πατέρων ἡμῶν Ἀλυπίου τοῦ Κιονίτου καὶ Νίκωνος τοῦ Μετανοεῖτε, " // for use in petitions and dismissal
+meInsert2 = "ὧν καὶ τὴν μνήμην ἐπιτελοῦμεν· " // for use in petitions and dismissal
 meNote.text = ""
-meLE.commemoration1 = "Μνήμη τῶν ὁσίων Πατέρων ἡμῶν Ἀλυπίου τοῦ Κιονίτου καὶ Νίκωνος τοῦ Μετανοεῖτε."
+meLE.commemoration1 = "Μνήμη τοῦ Ὁσίου Πατρὸς ἡμῶν Ἀλυπίου τοῦ Κιονίτου καὶ τοῦ Ὁσίου Πατρὸς ἡμῶν Στυλιανοῦ τοῦ Παφλαγόνος."
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -47,7 +47,7 @@ meVE.SticStavrotheotokion.melody = he.a.m6_gr_GR_cog.OlinApothemenoi.name
 meVE.SticStavrotheotokion.text = "Κρίσιν Ἰσραὴλ κριταί, θανατηφόρον κριθῆναι, σὲ Υἱὲ κατέκριναν, ὡς κριτὸν σε στήσαντες ἐπὶ βήματος, τὸν νεκροὺς κρίνοντα, καὶ τοὺς ζῶντας Σῶτερ, καὶ Πιλάτῳ σε παρέδωκαν, καὶ κατακρίνουσι πρὸ τῆς δίκης φεῦ! οἱ παράνομοι, καί, βλέπουσα τιτρωσκομαι, καὶ συγκατακρίνομαι Κύριε· ὅθεν καὶ προκρίνω, θανεῖν ὑπὲρ τὸ ζῆν ἐν στεναγμοῖς, ἡ Θεοτόκος ἐκραύγαζε, μόνε Πολυέλεε."
 
 meVE.Apolytikion1.mode = misc_gr_GR_cog.Mode1
-meVE.Apolytikion1.melody  = ""
+meVE.Apolytikion1.melody = ""
 meVE.Apolytikion1.text = "Ὑπομονῆς στῦλος γέγονας, ζηλώσας τοὺς Προπάτορας Ὅσιε, τὸν Ἰὼβ ἐν τοῖς πάθεσι, τὸν Ἰωσὴφ ἐν τοῖς πειρασμοῖς, καὶ τὴν τῶν Ἀσωμάτων πολιτείαν, ὑπάρχων ἐν σώματι, Ἀλύπιε Πατὴρ ἡμῶν Ὅσιε, πρέσβευε Χριστῷ τῷ Θεῷ, σωθῆναι τὰς ψυχὰς ἡμῶν."
 
 meVE.Apolytikion2.poet = poets_gr_GR_cog.Gerasimou
@@ -270,7 +270,7 @@ meMA.Kontakion2.mode = misc_gr_GR_cog.Mode6
 meMA.Kontakion2.melody = he.a.m6_gr_GR_cog.TinYperImon.name
 meMA.Kontakion2.text = "Τὴν Ἀγγελικὴν μιμούμενος πολιτείαν, κόσμου τὰ τερπνὰ ὡς σκύβαλα ἐλογίσω, μετανοίας τὴν τρίβον δεικνύων ἡμῖν, θεοφόρε Νίκων Ὅσιε· διὰ τοῦτό σε γεραίρομεν, ἐκτελοῦντες νῦν τὴν μνήμην σου· ὑπάρχεις γὰρ ἀληθῶς, ἰαμάτων πηγή."
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C11.ode = misc_gr_GR_cog.Ode7
 meMA.Ode7C11.mode = misc_gr_GR_cog.Mode5
@@ -422,24 +422,24 @@ meMA.Lauds3.melody = he.a.m1_gr_GR_cog.TonOuranionTagmaton.name
 meMA.Lauds3.text = "Ἐκ τῆς Ἑῴας εἰς Δύσιν, Πάτερ διέδραμες, καὶ μετανοίας πάντας, κατεπύρσευσας λόγοις, ὡς ἄλλον Μωϋσῆν δέ, πόλις ἡ σή, Λακεδαίμων ἐγνώρισε, τὴν γὰρ παθῶν ἀποτέμνεις Αἴγυπτον νῦν, μετανοίας τοῖς διδάγμασιν."
 
 meMA.LaudsGlory.mode = misc_gr_GR_cog.Mode6
-meMA.LaudsGlory.melody  = ""
+meMA.LaudsGlory.melody = ""
 meMA.LaudsGlory.text = "Ὅσιε Πάτερ, εἰς πᾶσαν τὴν γῆν, ἐξῆλθεν ὁ φθόγγος τῶν κατορθωμάτων σου, δι' ὧν ἐν τοῖς οὐρανοῖς, εὗρες μισθὸν τῶν καμάτων σου· Τῶν Δαιμόνων ὤλεσας τὰς φάλαγγας· τῶν Ἀγγέλων ἔφθασας τὰ τάγματα, ὧν τὸν βίον ἀμέμπτως ἐζήλωσας. Παρρησίαν ἔχων πρὸς Χριστὸν τὸν Θεόν, εἰρήνην αἴτησαι ταῖς ψυχαῖς ἡμῶν."
 
 meMA.LaudsTheotokion.mode = misc_gr_GR_cog.Mode6
-meMA.LaudsTheotokion.melody  = ""
+meMA.LaudsTheotokion.melody = ""
 meMA.LaudsTheotokion.text = oc.m6.d3_gr_GR_cog.ocVE.AposTheotokion.text
 
 meMA.LaudsStavrotheotokion.mode = misc_gr_GR_cog.Mode6
 meMA.LaudsStavrotheotokion.melody = he.a.m6_gr_GR_cog.TriimerosAnestis.name
 meMA.LaudsStavrotheotokion.text = "Ἡ πάναγνος ὡς εἶδὲ σε, ἐπὶ Σταυροῦ κρεμάμενον, θρηνῳδοῦσα, ἀνεβόα μητρικῶς· Υἱέ μου, καὶ Θεέ μου, γλυκύτατόν μου τέκνον, πῶς φέρεις πάθος ἐπονείδιστον;"
 
-meMA.LaudsSundayVerse1.text = "" //for media
+meMA.LaudsSundayVerse1.text = "" // for media
 
 meLI.SeasonalKontakion.mode = me.m12.d20_gr_GR_cog.meMA.Kontakion1.mode
 meLI.SeasonalKontakion.melody = me.m12.d20_gr_GR_cog.meMA.Kontakion1.melody
 meLI.SeasonalKontakion.text = me.m12.d20_gr_GR_cog.meMA.Kontakion1.text
 
-meLI.CommunionHymn.text = "" //for media
+meLI.CommunionHymn.text = "" // for media
 
 meMegalynarion.text = ""
 

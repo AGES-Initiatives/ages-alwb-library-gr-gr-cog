@@ -1,15 +1,15 @@
 A_Resource_Whose_Name = me.m11.d14_gr_GR_cog
 
 meDate.text = "Τῌ ΙΔʹ ΝΟΕΜΒΡΙΟΥ"
-meCommemoration.text = "Μνήμη τοῦ ἁγίου ἐνδόξου καὶ πανευφήμου Ἀποστολου Φιλίππου, τοῦ ἁγίου Πατρὸς ἡμῶν Γρηγορίου τοῦ Παλαμᾶ, καὶ τοῦ ἁγίου Νεομάρτυρος Κωνσταντίνου τοῦ Ὑδραίου." //full title of day
+meCommemoration.text = "Μνήμη τοῦ Ἁγίου Ἐνδόξου καὶ Πανευφήμου Ἀποστολου Φιλίππου, τοῦ Ἁγίου Πατρὸς ἡμῶν Γρηγορίου τοῦ Παλαμᾶ, καὶ τοῦ Ἁγίου Νεομάρτυρος Κωνσταντίνου τοῦ Ὑδραίου." // full title of day
 meShortCommemoration1.text = ""
-meInsert1 = "τοῦ ἁγίου ἐνδόξου καὶ πανευφήμου Ἀποστολου Φιλίππου," //for use in petitions and dismissal
-meInsert2 = "οὗ καὶ τὴν μνήμην ἐπιτελοῦμεν·" //for use in petitions and dismissal
+meInsert1 = "τοῦ ἁγίου ἐνδόξου καὶ πανευφήμου Ἀποστολου Φιλίππου," // for use in petitions and dismissal
+meInsert2 = "οὗ καὶ τὴν μνήμην ἐπιτελοῦμεν·" // for use in petitions and dismissal
 meNote.text = ""
-meLE.commemoration1 = "Μνήμη τοῦ ἁγίου ἐνδόξου καὶ πανευφήμου Ἀποστολου Φιλίππου, τοῦ ἁγίου Πατρὸς ἡμῶν Γρηγορίου τοῦ Παλαμᾶ, καὶ τοῦ ἁγίου Νεομάρτυρος Κωνσταντίνου τοῦ Ὑδραίου."
+meLE.commemoration1 = "Μνήμη τοῦ Ἁγίου Ἐνδόξου καὶ Πανευφήμου Ἀποστολου Φιλίππου."
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -28,11 +28,11 @@ meVE.Stichera03.text = "Ὄργανον κρουόμενον, ταῖς θεϊ�
 
 meVE.SticGlory.poet = poets_gr_GR_cog.Vyzantos
 meVE.SticGlory.mode = misc_gr_GR_cog.Mode6
-meVE.SticGlory.melody  = ""
+meVE.SticGlory.melody = ""
 meVE.SticGlory.text = "Τοῦ μεγάλου Φίλιππε φωτός, ταῖς ἀστραπαῖς πυρωθείς, παγκόσμιος ἐξέλαμψας φωστήρ, τὸν Πατέρα δὲ τῶν φώτων, ἐν Υἱῷ ζητήσας εὗρες, ἐν τῷ φωτὶ· τὸ φῶς γὰρ εὑρίσκεται, καὶ γὰρ οὗτος σφραγὶς ἰσότυπος, δηλῶν τὸ ἀρχέτυπον· Ὃν Ἀπόστολε δυσώπει, τοὺς ἐσφραγισμένους τῷ θείῳ, περισῴζεσθαι αἵματι."
 
 meVE.SticTheotokion.mode = misc_gr_GR_cog.Mode6
-meVE.SticTheotokion.melody  = ""
+meVE.SticTheotokion.melody = ""
 meVE.SticTheotokion.text = oc.m6.d1_gr_GR_cog.ocVE.SticTheotokion.text
 
 meVE.Aposticha1.mode = misc_gr_GR_cog.Mode8
@@ -53,11 +53,11 @@ meVE.Aposticha3.text = "Ὢ τοῦ παραδόξου θαύματος! φρ�
 
 meVE.AposGlory.poet = poets_gr_GR_cog.Vyzantiou
 meVE.AposGlory.mode = misc_gr_GR_cog.Mode2
-meVE.AposGlory.melody  = ""
+meVE.AposGlory.melody = ""
 meVE.AposGlory.text = "Καταλιπὼν τὰ ἐπὶ γῆς, ἠκολούθησας Χριστῷ, καὶ σφραγισθεὶς τῷ ἐμφυσήματι τοῦ Ἁγίου Πνεύματος, ἀπεστάλης ὑπ' αὐτοῦ, εἰς τὰ ἔθνη τὰ ἀπολωλότα, ἐπιστρέφειν τοὺς ἀνθρώπους, εἰς φῶς θεογνωσίας, Φίλιππε Ἀπόστολε, καὶ τελέσας τὸν ἀγῶνα τοῦ θείου σου πόθου, διὰ βασάνων πολυπλόκων, τὴν ψυχήν σου τῷ Θεῷ παρέδωκας. Αὐτὸν ἱκέτευε παμμακάριστε, δωρηθῆναι ἡμῖν τὸ μέγα ἔλεος."
 
 meVE.AposTheotokion.mode = misc_gr_GR_cog.Mode2
-meVE.AposTheotokion.melody  = ""
+meVE.AposTheotokion.melody = ""
 meVE.AposTheotokion.text = ho.s23_gr_GR_cog.hoCA.Troparion7.text
 
 meVE.Apolytikion1.mode = misc_gr_GR_cog.Mode3
@@ -206,7 +206,7 @@ meMA.Kontakion1.text = "Ὁ μαθητὴς καὶ φίλος σου, καὶ 
 
 meMA.Oikos1.text = "Ῥεῖθρα λόγου παράσχου μοι Κύριε, ὁ ὑδάτων τὴν φύσιν δειμάμενος, τὴν καρδίαν μου στήριξον Δέσποτα, ὁ τὴν γῆν στερεώσας τῷ λόγῳ σου, καὶ φώτισον μου τὴν διάνοιαν, ὁ τὸ φῶς ὡς χιτῶνα ἀναβαλλόμενος, ἵνα λέγω καὶ ψάλλω τὰ πρέποντα, καὶ ἀξίως ὑμνήσω τὸν σὸν Μαθητὴν Πολυέλεε."
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C11.ode = misc_gr_GR_cog.Ode7
 meMA.Ode7C11.mode = misc_gr_GR_cog.Mode6
@@ -303,20 +303,20 @@ meMA.Lauds3.melody = he.a.m1_gr_GR_cog.TonOuranionTagmaton.name
 meMA.Lauds3.text = "Διὰ σταυροῦ τὸν ἀγῶνα τὸν τῆς ἀθλήσεως, διηνεκῶς τῆς νίκης, ἀνεδήσω στεφάνους, Φίλιππε ἀξίως, μεθ' ὧν εἰσελθών, εἰς τὰ ἄνω βασίλεια, συμπαρεδρεύεις Ἀπόστολε τῷ Χριστῷ, καὶ πρεσβεύεις τοῦ σωθῆναι ἡμᾶς."
 
 meMA.LaudsGlory.mode = misc_gr_GR_cog.Mode2
-meMA.LaudsGlory.melody  = ""
+meMA.LaudsGlory.melody = ""
 meMA.LaudsGlory.text = "Φιάλαι τῶν ἀρωμάτων ἐν κόσμῳ, αἱ σιαγόνες σου Σοφέ, ὤφθησαν Ἀπόστολε Φίλιππε, περικιρνῶσαι τοῖς πιστοῖς, πόμα τὸ ζωοποιόν· πρᾶξιν γὰρ εἰς θεωρίας ἐπίβασιν ἐσχηκώς, Χριστοῦ ὀπαδὸς ἐχρημάτισας, τὴν στεῖραν καὶ ἄτεκνον ἐθνῶν Ἐκκλησίαν, εὐτεκνωθεῖσαν ἐν αὐτῷ, καταποικίλας διδαχαῖς· ἣν καὶ νῦν δυσώπει λυτρωθῆναι, δεινῶν καὶ ἀναγκῶν, δύνασαι γὰρ ἐν Θεῷ, πολλὰ ἐγγίζων αὐτῷ."
 
 meMA.LaudsTheotokion.mode = misc_gr_GR_cog.Mode2
-meMA.LaudsTheotokion.melody  = ""
+meMA.LaudsTheotokion.melody = ""
 meMA.LaudsTheotokion.text = ho.s23_gr_GR_cog.hoCA.Troparion7.text
 
-meMA.LaudsSundayVerse1.text = "" //for media
+meMA.LaudsSundayVerse1.text = "" // for media
 
 meLI.SeasonalKontakion.mode = me.m11.d21_gr_GR_cog.meMA.Kontakion1.mode
 meLI.SeasonalKontakion.melody = me.m11.d21_gr_GR_cog.meMA.Kontakion1.melody
 meLI.SeasonalKontakion.text = me.m11.d21_gr_GR_cog.meMA.Kontakion1.text
 
-meLI.CommunionHymn.text = "" //for media
+meLI.CommunionHymn.text = "" // for media
 
 meMegalynarion.text = ""
 

@@ -1,15 +1,15 @@
 A_Resource_Whose_Name = me.m11.d22_gr_GR_cog
 
 meDate.text = "Τῌ ΚΒʹ ΝΟΕΜΒΡΙΟΥ"
-meCommemoration.text = "Μνήμη τοῦ ἁγίου Ἀποστόλου Φιλήμονος, καὶ τῶν σὺν αὐτῷ, Ἀπφίας, Ἀρχίππου καὶ Ὀνησίμου· καὶ τῆς Ἁγίας Μάρτυρος Κικιλίας, καὶ τῶν σὺν αὐτῇ." //full title of day
+meCommemoration.text = "Μνήμη τοῦ Ἁγίου Ἀποστόλου Φιλήμονος, καὶ τῶν σὺν αὐτῷ, Ἀπφίας, Ἀρχίππου καὶ Ὀνησίμου· καὶ τῆς Ἁγίας Μάρτυρος Κικιλίας, καὶ τῶν σὺν αὐτῇ." // full title of day
 meShortCommemoration1.text = ""
-meInsert1 = "καὶ τοῦ ἁγίου Ἀποστόλου Φιλήμονος, καὶ τῶν σὺν αὐτῷ, Ἀπφίας, Ἀρχίππου καὶ Ὀνησίμου, καὶ τῆς ἁγίας Μάρτυρος Κικιλίας, καὶ τῶν σὺν αὐτῇ, " //for use in petitions and dismissal
-meInsert2 = "ὧν καὶ τὴν μνήμην ἐπιτελοῦμεν· " //for use in petitions and dismissal
+meInsert1 = "καὶ τοῦ ἁγίου Ἀποστόλου Φιλήμονος, καὶ τῶν σὺν αὐτῷ, Ἀπφίας, Ἀρχίππου καὶ Ὀνησίμου, καὶ τῆς ἁγίας Μάρτυρος Κικιλίας, καὶ τῶν σὺν αὐτῇ, " // for use in petitions and dismissal
+meInsert2 = "ὧν καὶ τὴν μνήμην ἐπιτελοῦμεν· " // for use in petitions and dismissal
 meNote.text = ""
-meLE.commemoration1 = "Μνήμη τοῦ ἁγίου Ἀποστόλου Φιλήμονος, καὶ τῶν σὺν αὐτῷ, Ἀπφίας, Ἀρχίππου καὶ Ὀνησίμου· καὶ τῆς Ἁγίας Μάρτυρος Κικιλίας, καὶ τῶν σὺν αὐτῇ."
+meLE.commemoration1 = "Μνήμη τοῦ Ἁγίου Ἀποστόλου Φιλήμονος, καὶ τῶν σὺν αὐτῷ."
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -39,11 +39,11 @@ meVE.Stichera06.melody = he.a.m2_gr_GR_cog.OteEkTouXylou.name
 meVE.Stichera06.text = "Πίστει, σὺν Ἀπφίᾳ τῇ σεμνῇ, Ἄρχιππον σοφὸν Ἱεράρχην, ἀνευφημήσωμεν, μέλποντες Φιλήμονα, καὶ τὸν Ὀνήσιμον, ἱεροὺς θεοκήρυκας, σεπτοὺς διδασκάλους, πλάνην τὴν πολύθεον, τοὺς ἐκριζώσαντας, λόγῳ καὶ φυτεύσαντας πᾶσι, γνῶσιν ἀληθείας, καὶ τούτων, εὐσεβῶς τὴν μνήμην ἑορτάσωμεν."
 
 meVE.SticGlory.mode = misc_gr_GR_cog.Mode6
-meVE.SticGlory.melody  = ""
+meVE.SticGlory.melody = ""
 meVE.SticGlory.text = "Δεῦτε συμφώνως ἀνυμνήσωμεν, τοὺς αὐτόπτας τοῦ Λόγου, καὶ μύστας τῶν θαυμάτων αὐτοῦ, Φιλήμονα, καὶ Ὀνήσιμον, Ἀπφίαν καὶ Ἄρχιππον, τοὺς Ἀποστόλους Χριστοῦ· Χαίρετε, ἐκβοῶντες αὐτοῖς, τῆς οἰκουμένης φωστῆρες, Κολασσαέων πρόβολοι· Χαίρετε, Ἀγγέλων ὁμοδίαιτοι, οἱ τὴν πλάνην τῶν εἰδώλων, ἀνδρικῶς καταστρεψάμενοι, καὶ Χριστὸν Σωτῆρα κηρύξαντες, καὶ τῆς πλάνης τοὺς ἀνθρώπους ἀπαλλάξαντες. Διὸ ὡς παριστάμενοι τῷ θρόνῳ τῆς Ἁγίας τριάδος, πρεσβεύσατε σωθῆναι τὰς ψυχάς ἡμῶν."
 
 meVE.SticBoth.mode = misc_gr_GR_cog.Mode1
-meVE.SticBoth.melody  = ""
+meVE.SticBoth.melody = ""
 meVE.SticBoth.text = me.m11.d21_gr_GR_cog.meVE.Lity1.text
 
 meVE.Aposticha1a.mode = misc_gr_GR_cog.Mode4
@@ -79,11 +79,11 @@ meVE.Aposticha3.melody = he.a.m2_gr_GR_cog.OikosTouEfratha.name
 meVE.Aposticha3.text = "Πύλας τοῦ ἱεροῦ, διάρας Ζαχαρία, προφήτα ὑποδέχου, Θεοῦ τὴν θείαν πύλην, τὴν μόνην Ἀειπάρθενον."
 
 meVE.AposGlory.mode = misc_gr_GR_cog.Mode2
-meVE.AposGlory.melody  = ""
+meVE.AposGlory.melody = ""
 meVE.AposGlory.text = me.m11.d21_gr_GR_cog.meMA.LaudsGlory.text
 
 meVE.Apolytikion1.mode = misc_gr_GR_cog.Mode3
-meVE.Apolytikion1.melody  = ""
+meVE.Apolytikion1.melody = ""
 meVE.Apolytikion1.text = he.ga_gr_GR_cog.ApostoloiAgioi.text
 
 meVE.Apolytikion2.poet = poets_gr_GR_cog.Gerasimou
@@ -329,7 +329,7 @@ meMA.Kontakion1.text = "Τὴν νυμφευθεῖσαν, τῷ Χριστῷ �
 
 meMA.Oikos1.text = "Ἀρχὴ ἐλπίδος ἀγαθῆς, ἐδόθη τοῖς Ἁγίοις ἐξαίρετα τὸ πράττειν, κατάπληκτα μεγάλα, ἅπερ καὶ θαύματα, ἐστὶ θαυμάζεσθαι ἀξίως, μεθ' ὧν καὶ τὴν τῆς παρθένου Κικιλίας ἀρετήν, καὶ ἄσπιλον λαμπρότητα, πῶς ἀπεκδυσαμένη, τὸν ἄρχοντα ἔφυγε τοῦ σκότους, καὶ δραμοῦσα πρὸς τὴν πάλην τοῦ ἐχθροῦ, ἔστη ἐρρωμένη ἀπτοήτως· καὶ ἡμεῖς τοῦ θαύματος τούτου γεγονότα ἀληθῆ πράγματα, φῶμεν· πῶς διὰ Χριστόν, ἐπτέρνισε τὸν Βελίαρ, τὴν πίστιν κρατύνασα."
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C11.ode = misc_gr_GR_cog.Ode7
 meMA.Ode7C11.mode = misc_gr_GR_cog.Mode2
@@ -497,7 +497,7 @@ meMA.Lauds3.melody = he.a.m4_gr_GR_cog.OsGennaionEnMartysi.name
 meMA.Lauds3.text = "Σὺν τῷ θείῳ Φιλήμονι, εὐφημήσωμεν Ἄρχιππον, τὸν ἱεροκήρυκα, καὶ Ὀνήσιμον, ὡς ἱεράρχας θεόφρονας, μεγίστους ὡς Μάρτυρας, Ἀποστόλων τοὺς σοφούς, καὶ τῆς ἄνω λαμπρότητος, συμμετέχοντας, καὶ τῷ θρόνῳ τῆς δόξης παρεστῶτας, καὶ ἡμῖν ἐξαιτουμένους, ἁμαρτημάτων συγχώρησιν."
 
 meMA.LaudsGlory.mode = misc_gr_GR_cog.Mode4
-meMA.LaudsGlory.melody  = ""
+meMA.LaudsGlory.melody = ""
 meMA.LaudsGlory.text = me.m11.d21_gr_GR_cog.meVE.Lity2.text
 
 meMA.LaudsSundayVerse1.text = meVE.ApostichaVerse2.text

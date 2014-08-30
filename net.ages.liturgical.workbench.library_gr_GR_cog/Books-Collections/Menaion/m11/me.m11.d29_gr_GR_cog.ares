@@ -1,15 +1,15 @@
 A_Resource_Whose_Name = me.m11.d29_gr_GR_cog
 
 meDate.text = "Τῌ ΚΘʹ ΝΟΕΜΒΡΙΟΥ"
-meCommemoration.text = "Μνήμη τῶν ἁγίων Μαρτύρων Παραμόνου καὶ Φιλουμένου." //full title of day
+meCommemoration.text = "Μνήμη τῶν Ἁγίων Μαρτύρων Παραμόνου καὶ Φιλουμένου." // full title of day
 meShortCommemoration1.text = ""
-meInsert1 = "καὶ τῶν ἁγίων Μαρτύρων Παραμόνου καὶ Φιλουμένου, " //for use in petitions and dismissal
-meInsert2 = "ὧν καὶ τὴν μνήμην ἐπιτελοῦμεν· " //for use in petitions and dismissal
+meInsert1 = "καὶ τῶν ἁγίων Μαρτύρων Παραμόνου καὶ Φιλουμένου, " // for use in petitions and dismissal
+meInsert2 = "ὧν καὶ τὴν μνήμην ἐπιτελοῦμεν· " // for use in petitions and dismissal
 meNote.text = ""
-meLE.commemoration1 = "Μνήμη τῶν ἁγίων Μαρτύρων Παραμόνου καὶ Φιλουμένου."
+meLE.commemoration1 = "Μνήμη τῶν Ἁγίων Μαρτύρων Παραμόνου καὶ Φιλουμένου."
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -168,7 +168,7 @@ meMA.Ode6H.mode = misc_gr_GR_cog.Mode4
 meMA.Ode6H.melody = misc_gr_GR_cog.Heirmos
 meMA.Ode6H.text = he.h.m4_gr_GR_cog.ThysoSoiMetaFonis.text
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C11.ode = misc_gr_GR_cog.Ode7
 meMA.Ode7C11.mode = misc_gr_GR_cog.Mode4
@@ -245,13 +245,13 @@ meMA.Ode9H.mode = misc_gr_GR_cog.Mode4
 meMA.Ode9H.melody = misc_gr_GR_cog.Heirmos
 meMA.Ode9H.text = he.h.m4_gr_GR_cog.LithosAcheirotmitos.text
 
-meMA.LaudsSundayVerse1.text = "" //for media
+meMA.LaudsSundayVerse1.text = "" // for media
 
 meLI.SeasonalKontakion.mode = me.m12.d20_gr_GR_cog.meMA.Kontakion1.mode
 meLI.SeasonalKontakion.melody = me.m12.d20_gr_GR_cog.meMA.Kontakion1.melody
 meLI.SeasonalKontakion.text = me.m12.d20_gr_GR_cog.meMA.Kontakion1.text
 
-meLI.CommunionHymn.text = "" //for media
+meLI.CommunionHymn.text = "" // for media
 
 meMegalynarion.text = ""
 

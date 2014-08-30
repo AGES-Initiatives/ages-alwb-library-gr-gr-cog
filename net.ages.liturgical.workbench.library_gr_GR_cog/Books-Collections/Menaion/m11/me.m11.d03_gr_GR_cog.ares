@@ -1,15 +1,15 @@
 A_Resource_Whose_Name = me.m11.d03_gr_GR_cog
 
 meDate.text = "Τῌ Γʹ ΝΟΕΜΒΡΙΟΥ"
-meCommemoration.text = "Μνήμη τῶν ἁγίων Μαρτύρων, Ἀκεψιμᾶ, Ἰωσήφ, καὶ Ἀειθαλᾶ, καὶ τῶν ἐγκαινίων τοῦ ναοῦ τοῦ ἁγίου Μεγαλομάρτυρος Γεωργίου, τοῦ ἐν Λύδδῃ, ἤτοι τῆς καταθέσεως τοῦ τιμίου σώματος αὐτοῦ." //full title of day
+meCommemoration.text = "Μνήμη τῶν Ἁγίων Μαρτύρων, Ἀκεψιμᾶ, Ἰωσήφ, καὶ Ἀειθαλᾶ, καὶ τῶν Ἐγκαινίων τοῦ Ναοῦ τοῦ Ἁγίου Μεγαλομάρτυρος Γεωργίου, τοῦ ἐν Λύδδῃ, ἤτοι τῆς Καταθέσεως τοῦ Τιμίου Σώματος αὐτοῦ." // full title of day
 meShortCommemoration1.text = ""
-meInsert1 = "καὶ τῶν ἁγίων Μαρτύρων, Ἀκεψιμᾶ, Ἰωσήφ, καὶ Ἀειθαλᾶ, καὶ τοῦ ἁγίου ἐνδόξου Μεγαλομάρτυρος Γεωργίου τοῦ Τροπαιοφόρου, " //for use in petitions and dismissal
-meInsert2 = "ὧν καὶ τὴν μνήμην ἐπιτελοῦμεν· " //for use in petitions and dismissal
+meInsert1 = "καὶ τῶν ἁγίων Μαρτύρων, Ἀκεψιμᾶ, Ἰωσήφ, καὶ Ἀειθαλᾶ, καὶ τοῦ ἁγίου ἐνδόξου Μεγαλομάρτυρος Γεωργίου τοῦ Τροπαιοφόρου, " // for use in petitions and dismissal
+meInsert2 = "ὧν καὶ τὴν μνήμην ἐπιτελοῦμεν· " // for use in petitions and dismissal
 meNote.text = ""
-meLE.commemoration1 = "Μνήμη τῶν ἁγίων Μαρτύρων, Ἀκεψιμᾶ, Ἰωσήφ, καὶ Ἀειθαλᾶ, καὶ τῶν ἐγκαινίων τοῦ ναοῦ τοῦ ἁγίου Μεγαλομάρτυρος Γεωργίου, τοῦ ἐν Λύδδῃ, ἤτοι τῆς καταθέσεως τοῦ τιμίου σώματος αὐτοῦ."
+meLE.commemoration1 = "Μνήμη τῶν Ἁγίων Μαρτύρων, Ἀκεψιμᾶ, Ἰωσήφ, καὶ Ἀειθαλᾶ, καὶ τῶν Ἐγκαινίων τοῦ Ναοῦ τοῦ Ἁγίου Μεγαλομάρτυρος Γεωργίου, τοῦ ἐν Λύδδῃ, ἤτοι τῆς Καταθέσεως τοῦ Τιμίου Σώματος αὐτοῦ."
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -39,7 +39,7 @@ meVE.Stichera06.melody = he.a.m5_gr_GR_cog.ChairoisAskitikon.name
 meVE.Stichera06.text = "Μέγα καὶ θαυμαστὸν ἀληθῶς, τῆς σῆς ἀρρήτου μαρτυρίας κηρύττεται, τὸ κλέος Ἔνδοξε Μάρτυς· ὡς γὰρ λαμπρὸς ἀριστεύς, διατρέχεις πᾶσαν ἀξιάγαστε, τὴν κτίσιν Γεώργιε, πλείσταις ὄντως κοσμούμενος, θαυματουργίαις, καὶ τὰς νόσους ἰώμενος, καὶ τοὺς πάσχοντας, θεραπεύων πρεσβείαις σου· ὅθεν ὡς ἀντιλήπτορα, θερμόν σε γινώσκομεν, καὶ εὐεργέτην παμμάκαρ, τοὺς αἰχμαλώτους ῥυόμενον, Χριστὸν οὖν δυσώπει, ταῖς ψυχαῖς ἡμῶν δοθῆναι, τὸ μέγα ἔλεος."
 
 meVE.SticGlory.mode = misc_gr_GR_cog.Mode6
-meVE.SticGlory.melody  = ""
+meVE.SticGlory.melody = ""
 meVE.SticGlory.text = me.m04.d23_gr_GR_cog.meVE.SticGlory.text
 
 meVE.SticTheotokion.mode = misc_gr_GR_cog.Mode6
@@ -68,11 +68,11 @@ meVE.Aposticha3.text = "Τῷ τῆς πίστεως θώρακι, καὶ ἀ
 
 meVE.AposGlory.poet = poets_gr_GR_cog.EfraimKarias
 meVE.AposGlory.mode = misc_gr_GR_cog.Mode6
-meVE.AposGlory.melody  = ""
+meVE.AposGlory.melody = ""
 meVE.AposGlory.text = "Προοίμιον τυπικῶς, τῆς τρισσοφεγγοῦς ὑμῶν ὁμονοίας, καὶ ἐν Χριστῷ μαρτυρίας τῆς ἀκηράτου Τριάδος, καὶ ὑπερουσίου Μονάδος Ἀθληταί, οἱ ἐν Περσίδι ἄφλεκτοι συντηρηθέντες, τρεῖς Παῖδες γεγόνασιν· ὡς γὰρ ἐκεῖνοι φλογὸς κατετόλμησαν, εἰς Θεὸν μὴ ὑβρίσαντες, οὕτω καὶ ὑμεῖς θανεῖν οὐ παρητήσασθε, μὴ ὑπενδόντες τῇ τοῦ Χριστοῦ ἀγαπήσει. Ἀλλ' ὡς ἐκείνους ὁ φανεὶς τέταρτος, ἐν τῇ φλογὶ ἐδρόσιζεν, οὕτω καὶ ὑμᾶς Χριστός, ὁ εἷς τῆς Τριάδος, προσεδέξατο ἐν τόπῳ ἀναψύξεως. Ἀκεψιμᾶ σὺν τῷ Ἰωσήφ, καὶ Ἀειθαλᾶ θεόληπτοι, πρεσβεύσατε ὑπὲρ τῶν ψυχῶν ἡμῶν."
 
 meVE.AposTheotokion.mode = misc_gr_GR_cog.Mode6
-meVE.AposTheotokion.melody  = ""
+meVE.AposTheotokion.melody = ""
 meVE.AposTheotokion.text = "Θεὸν ἐκ σοῦ σαρκωθέντα ἔγνωμεν, Θεοτόκε Παρθένε, αὐτὸν ἱκέτευε, σωθῆναι τὰς ψυχὰς ἡμῶν."
 
 meVE.AposStavrotheotokion.mode = misc_gr_GR_cog.Mode6
@@ -338,7 +338,7 @@ meMA.Oikos26.text = "Χαῖρε, ἀστὴρ φωτίζων τοὺς πλέ
 meMA.Oikos27.text = "Χαῖρε, εἰς ὃν πᾶς πιστὸς καταφεύγει, χαῖρε, δι' οὗ εὐφημεῖται ὁ πλάστης."
 meMA.Oikos28.text = "Χαίροις, Μάρτυς Γεώργιε."
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C11.ode = misc_gr_GR_cog.Ode7
 meMA.Ode7C11.mode = misc_gr_GR_cog.Mode1
@@ -500,7 +500,7 @@ meMA.Lauds3.melody = he.a.m4_gr_GR_cog.OsGennaionEnMartysi.name
 meMA.Lauds3.text = "Ἐν θαλάσσῃ με πλέοντα, ἐν ὁδῷ με βαδίζοντᾳ, ἐν νυκτὶ καθεύδοντα περιφρούρησον, ἐπαγρυπνοῦντα διάσωσον, παμμάκαρ Γεώργιε, καὶ ἀξίωσον ποιεῖν, τοῦ Κυρίου τὸ θέλημα, ὅπως εὕροιμι, ἐν ἡμέρᾳ τῆς δίκης τῶν ἐν βίῳ, πεπραγμένων μοι τὴν λύσιν, ὁ προσδραμὼν ἐν τῇ σκέπῃ σου."
 
 meMA.LaudsGlory.mode = misc_gr_GR_cog.Mode4
-meMA.LaudsGlory.melody  = ""
+meMA.LaudsGlory.melody = ""
 meMA.LaudsGlory.text = "Τὸν νοερὸν ἀδάμαντα τῆς καρτερίας ἀδελφοί, πνευματικῶς εὐφημήσωμεν, Γεώργιον τὸν ἀοίδιμον Μάρτυρα, ὃν ὑπὲρ Χριστοῦ πυρούμενον, ἐχάλκευσαν κίνδυνοι, καὶ ἐστόμωσαν βάσανοι, καὶ ποικίλαι κολάσεις ἀνήλωσαν, σῶμα τὸ φύσει φθειρόμενον· ἐνίκα γὰρ ὁ πόθος τὴν φύσιν, διὰ θανάτου πείθων τὸν ἐραστήν, διαβῆναι πρός τὸν ποθούμενον, Χριστὸν τὸν Θεόν, καὶ Σωτῆρα τῶν ψυχῶν ἡμῶν."
 
 meMA.LaudsTheotokion.mode = misc_gr_GR_cog.Mode4
@@ -512,7 +512,7 @@ meMA.LaudsSundayVerse1.text = meVE.ApostichaVerse2.text
 meMA.LaudsSundayVerse2.text = meVE.ApostichaVerse3.text
 
 meLI.SeasonalKontakion.mode = misc_gr_GR_cog.Mode2
-meLI.SeasonalKontakion.melody  = ""
+meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = ho.s07_gr_GR_cog.hoTY.Key0408.text
 meMegalynarion.text = ""
 

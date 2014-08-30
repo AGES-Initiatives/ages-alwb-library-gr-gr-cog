@@ -1,15 +1,15 @@
 A_Resource_Whose_Name = me.m11.d18_gr_GR_cog
 
 meDate.text = "Τῌ ΙΗʹ ΝΟΕΜΒΡΙΟΥ"
-meCommemoration.text = "Μνήμη τῶν ἁγίων Μαρτύρων Πλάτωνος καὶ Ῥωμανοῦ." //full title of day
+meCommemoration.text = "Μνήμη τῶν Ἁγίων Μαρτύρων Πλάτωνος καὶ Ῥωμανοῦ." // full title of day
 meShortCommemoration1.text = ""
-meInsert1 = "καὶ τῶν ἁγίων Μαρτύρων Πλάτωνος καὶ Ῥωμανοῦ, " //for use in petitions and dismissal
-meInsert2 = "ὧν καὶ τὴν μνήμην ἐπιτελοῦμεν· " //for use in petitions and dismissal
+meInsert1 = "καὶ τῶν ἁγίων Μαρτύρων Πλάτωνος καὶ Ῥωμανοῦ, " // for use in petitions and dismissal
+meInsert2 = "ὧν καὶ τὴν μνήμην ἐπιτελοῦμεν· " // for use in petitions and dismissal
 meNote.text = ""
-meLE.commemoration1 = "Μνήμη τῶν ἁγίων Μαρτύρων Πλάτωνος καὶ Ῥωμανοῦ."
+meLE.commemoration1 = "Μνήμη τῶν Ἁγίων Μαρτύρων Πλάτωνος καὶ Ῥωμανοῦ."
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -39,7 +39,7 @@ meVE.Stichera06.melody = he.a.m4_gr_GR_cog.OsGennaionEnMartysi.name
 meVE.Stichera06.text = "Ῥητορεύει τὸ νήπιον, καὶ ἐκπλήττει τοὺς ἄφρονας, καὶ σεπταῖς ἐνστάσεσιν ὡραΐζεται, καὶ τελειώσει λαμπρύνεται, πλουτῆσαν τὴν εὔκλειαν, τῶν Ἁγίων Ἀθλητῶν, ὧν τὸν ζῆλον ἐκτήσατο, ἀξιάγαστε, Ῥωμανὲ γενναιόφρον, μεθ' οὗ λύσιν, ὀφλημάτων ἡμῖν πᾶσι, καταπεμφθῆναι ἱκέτευε."
 
 meVE.SticGlory.mode = misc_gr_GR_cog.Mode6
-meVE.SticGlory.melody  = ""
+meVE.SticGlory.melody = ""
 meVE.SticGlory.text = "Φοβερὰ καὶ παράδοξα, τὰ τρόπαια Κύριε τοῦ Μάρτυρός σου· τῶν γὰρ ἁλιέων ζηλώσας τὴν παρρησίαν, καὶ τὴν Σκηνορράφου θεολογίαν, τὴν Πλάτωνος μυθολογίαν, καὶ τὴν Στωϊκὴν φλυαρίαν, λόγοις καὶ ἔργοις κατέρραξε τήν δορὰν ἀποδαρείς, καὶ τὴν κάραν ἐκτμηθείς, τῇ χύσει τῶν αἱμάτων αὐτοῦ, τὸν ἐχθρὸν ἀπέπνιξεν. Ἀλλ' ὦ Μαρτύρων τὸ κλέος, ὁ παρρησίᾳ κηρύξας τὸ ὄνομα Χριστοῦ τὸ μέγα, αἴτησαι θαυματουργέ, Πλάτων παμμακάριστε, ταῖς ψυχαῖς ἡμῶν δοθῆναι τὸ μέγα ἔλεος."
 
 meVE.SticTheotokion.mode = misc_gr_GR_cog.Mode6
@@ -189,7 +189,7 @@ meMA.Kontakion2.text = "Ἡ ἁγία μνήμη σου, τὴν οἰκουμ
 
 meMA.Oikos2.text = "Τῶν Ἑλλήνων λιπὼν ἅπασαν τὴν ματαιότητα, τῶν Χριστοῦ Μαθητῶν τὰ ψυχωφελῆ διδάγματα ἠγάπησε λίαν Πλάτων ὁ θεόφρων. Διὸ καὶ ὤφθη πᾶσιν αἰδέσιμος, καὶ ἄγκυρα πίστεως ἐν τῇ πατρίδι, ἧς καὶ ἡ κλῆσις σαφῶς Ἄγκυρα ὑπάρχει. Καλῶς γὰρ τοῦτον ἐκθρεψαμένη, βεβαίαν σκέπην κατ' ἐχθρῶν, καὶ ἀντιλήπτορα θερμὸν ἐν πολέμοις εὑρίσκει, καθ' ἑκάστην ἐκβοῶσα πρὸς αὐτόν· Βαρβάρων ῥῦσαι τὴν πόλιν σου Ἅγιε."
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C11.ode = misc_gr_GR_cog.Ode7
 meMA.Ode7C11.mode = misc_gr_GR_cog.Mode8

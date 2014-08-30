@@ -1,15 +1,15 @@
 A_Resource_Whose_Name = me.m11.d04_gr_GR_cog
 
 meDate.text = "Τῌ Δʹ ΝΟΕΜΒΡΙΟΥ"
-meCommemoration.text = "Μνήμη τοῦ Ὁσίου Πατρὸς ἡμῶν, Ἰωαννικίου τοῦ Μεγάλου, καὶ τῶν ἁγίων Ἱερομαρτύρων, Νικάνδρου, Ἐπισκόπου Μύρων, καὶ Ἑρμαίου Πρεσβυτέρου." //full title of day
+meCommemoration.text = "Μνήμη τοῦ Ὁσίου Πατρὸς ἡμῶν, Ἰωαννικίου τοῦ Μεγάλου, καὶ τῶν Ἁγίων Ἱερομαρτύρων, Νικάνδρου, Ἐπισκόπου Μύρων, καὶ Ἑρμαίου Πρεσβυτέρου." // full title of day
 meShortCommemoration1.text = ""
-meInsert1 = "καὶ τοῦ Ὁσίου Πατρὸς ἡμῶν, Ἰωαννικίου τοῦ Μεγάλου, καὶ τῶν ἁγίων Ἱερομαρτύρων, Νικάνδρου, Ἐπισκόπου Μύρων, καὶ Ἑρμαίου Πρεσβυτέρου, " //for use in petitions and dismissal
-meInsert2 = "ὧν καὶ τὴν μνήμην ἐπιτελοῦμεν· " //for use in petitions and dismissal
+meInsert1 = "καὶ τοῦ Ὁσίου Πατρὸς ἡμῶν, Ἰωαννικίου τοῦ Μεγάλου, καὶ τῶν ἁγίων Ἱερομαρτύρων, Νικάνδρου, Ἐπισκόπου Μύρων, καὶ Ἑρμαίου Πρεσβυτέρου, " // for use in petitions and dismissal
+meInsert2 = "ὧν καὶ τὴν μνήμην ἐπιτελοῦμεν· " // for use in petitions and dismissal
 meNote.text = ""
-meLE.commemoration1 = "Μνήμη τοῦ Ὁσίου Πατρὸς ἡμῶν, Ἰωαννικίου τοῦ Μεγάλου, καὶ τῶν ἁγίων Ἱερομαρτύρων, Νικάνδρου, Ἐπισκόπου Μύρων, καὶ Ἑρμαίου Πρεσβυτέρου."
+meLE.commemoration1 = "Μνήμη τοῦ Ὁσίου Πατρὸς ἡμῶν, Ἰωαννικίου τοῦ Μεγάλου, καὶ τῶν Ἁγίων Ἱερομαρτύρων, Νικάνδρου, Ἐπισκόπου Μύρων, καὶ Ἑρμαίου Πρεσβυτέρου."
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -39,7 +39,7 @@ meVE.Stichera06.melody = he.a.m2_gr_GR_cog.OteEkTouXylou.name
 meVE.Stichera06.text = "Ἔχων, παρρησίαν πρὸς Χριστόν, τὸν ἐνδοξαζόμενον μόνον, ἐν τοῖς Ἁγίοις αὐτοῦ, τοῦτον καθικέτευε, Ὅσιε Νίκανδρε, ὑπὲρ πάντων τῶν πόθῳ σου, τελούντων τήν μνήμην, καὶ ἀνευφημούντων σου, τὰ κατορθώματα, ὅπως τῶν ἀφράστων ἐκείνων, θείων ἀγαθῶν καὶ τῆς δοξης, κοινωνοὶ γενώμεθα πρεσβείαις σου."
 
 meVE.SticGlory.mode = misc_gr_GR_cog.Mode2
-meVE.SticGlory.melody  = ""
+meVE.SticGlory.melody = ""
 meVE.SticGlory.text = "Ἀνδρειοφρόνως τελέσας τὸ ἀσκητικὸν στάδιον, τὸν δίαυλον τῶν ἀρετῶν διῆλθες προθύμως· τοὺς τῶν παθῶν θῆράς τε νεκρώσας, τὸ κατ' εἰκόνα ἀλώβητον διέσωσας· Πνεύματος δὲ ταμίας γενόμενος, τὰ πόρρω ὡς ἐνεστῶτα προεῖδες, καὶ θαυματουργὸς ἀνεδείχθης, θεοφόρε Πατὴρ ἡμῶν Ἰωαννίκιε· καὶ νῦν τῷ θρόνῳ τῷ θείῳ παριστάμενος, πρεσβεύεις ἀπαύστως, σωθῆναι τὰς ψυχὰς ἡμῶν."
 
 meVE.SticTheotokion.mode = misc_gr_GR_cog.Mode2
@@ -51,7 +51,7 @@ meVE.SticStavrotheotokion.melody = he.a.m2_gr_GR_cog.OteEkTouXylou.name
 meVE.SticStavrotheotokion.text = "Πόνους,ὑπομείνασα πολλούς, ἐν τῇ τοῦ Υἱοῦ καὶ Θεοῦ σου, σταυρώσει Ἄχραντε, ἔστενες δακρύουσα, καὶ ἀνακράζουσα· Οἴμοι τέκνον γλυκύτατον! ἀδίκως πῶς θνῄσκεις, θέλων ἐκλυτρώσασθαι, τοὺς ἐξ Ἀδὰμ γηγενεῖς; ὅθεν, Παναγία Παρθένε, σὲ παρακαλοῦμεν ἐν πίστει, ἵλεων ἡμῖν τοῦτον ἀπέργασαι."
 
 meVE.AposGlory.mode = misc_gr_GR_cog.Mode6
-meVE.AposGlory.melody  = ""
+meVE.AposGlory.melody = ""
 meVE.AposGlory.text = "Τῷ τοῦ Χριστοῦ ἔρωτι τρωθεὶς τὴν διάνοιαν, εἰς ὄρος ὑψηλόν, ἀνῆλθες Ἰωαννίκιε, καὶ ἔλαβες ποικίλα χαρίσματα, ἰατρεύειν τὰς νόσους, τῶν ἀνυμνούντων σου πόθῳ, τὴν θείαν κοίμησιν."
 
 meVE.AposTheotokion.mode = misc_gr_GR_cog.Mode6
@@ -322,7 +322,7 @@ meMA.Oikos16.text = "Χαίροις, παθῶν παντοίων καθαί�
 meMA.Oikos17.text = "Χαίροις, παντὸς ἑτοιμότατος ῥύστης, χαίροις, παντὸς καταφύγιον κόσμου."
 meMA.Oikos18.text = "Χαίροις, Πάτερ Ἰωαννίκιε."
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C11.ode = misc_gr_GR_cog.Ode7
 meMA.Ode7C11.mode = misc_gr_GR_cog.Mode4
@@ -482,7 +482,7 @@ meMA.ExapTheotokion.melody = he.a.m2_gr_GR_cog.GynaikesAkoutisthite.name
 meMA.ExapTheotokion.text = "Καὶ σχετικῶς ἀσπάζομαι, καὶ πόθῳ τὴν προσκύνησιν, προσνέμω πίστει καὶ φόβῳ, τῇ παναχράντῳ καὶ θείᾳ, εἰκόνι σου πανάμωμε, ἀφ' ἧς ψυχῶν ἐκβλύζουσι, καὶ τῶν σωμάτων Δέσποινα, ἰάματα τοῖς ὑμνοῦσι, σὲ Θεοτόκον κυρίως."
 
 meLI.SeasonalKontakion.mode = misc_gr_GR_cog.Mode2
-meLI.SeasonalKontakion.melody  = ""
+meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = ho.s07_gr_GR_cog.hoTY.Key0408.text
 meMegalynarion.text = ""
 

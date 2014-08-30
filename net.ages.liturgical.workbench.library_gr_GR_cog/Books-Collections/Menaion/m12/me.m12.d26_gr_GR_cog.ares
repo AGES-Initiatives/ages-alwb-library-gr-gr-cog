@@ -1,15 +1,15 @@
 A_Resource_Whose_Name = me.m12.d26_gr_GR_cog
 
 meDate.text = "Τῌ ΚϚʹ ΔΕΚΕΜΒΡΙΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "Ἡ Σύναξις τῆς Ὑπεραγίας Θεοτόκου." //full title of day
+meCommemoration.text = "Ἡ Σύναξις τῆς Ὑπεραγίας Θεοτόκου." // full title of day
 meShortCommemoration1.text = ""
-meInsert1 = "" //for use in petitions and dismissal
-meInsert2 = "ἧς καὶ τὴν Σύναξιν ἐπιτελοῦμεν·" //for use in petitions and dismissal
+meInsert1 = "" // for use in petitions and dismissal
+meInsert2 = "ἧς καὶ τὴν Σύναξιν ἐπιτελοῦμεν·" // for use in petitions and dismissal
 meNote.text = ""
-meLE.commemoration1 = "Ἡ Σύναξις τῆς Ὑπεραγίας Θεοτόκου."
+meLE.commemoration1 = "Ἡ Σύναξις τῆς Ὑπεραγίας Δεσποίνης ἡμῶν Θεοτόκου καὶ Ἀειπαρθένου Μαρίας."
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -17,58 +17,58 @@ meDismissal = dismissals_gr_GR_cog.dis00.christmas
 
 meVE.Stichera01.poet = poets_gr_GR_cog.Germanou
 meVE.Stichera01.mode = misc_gr_GR_cog.Mode2
-meVE.Stichera01.melody  = ""
+meVE.Stichera01.melody = ""
 meVE.Stichera01.text = me.m12.d25_gr_GR_cog.meVE.Stichera01.text
 
 meVE.Stichera02.poet = poets_gr_GR_cog.Anatoliou
 meVE.Stichera02.mode = misc_gr_GR_cog.Mode2
-meVE.Stichera02.melody  = ""
+meVE.Stichera02.melody = ""
 meVE.Stichera02.text = me.m12.d25_gr_GR_cog.meVE.Stichera02.text
 
 meVE.Stichera03.mode = misc_gr_GR_cog.Mode2
-meVE.Stichera03.melody  = ""
+meVE.Stichera03.melody = ""
 meVE.Stichera03.text = me.m12.d25_gr_GR_cog.meVE.Stichera03.text
 
 meVE.Stichera04.mode = misc_gr_GR_cog.Mode2
-meVE.Stichera04.melody  = ""
+meVE.Stichera04.melody = ""
 meVE.Stichera04.text = me.m12.d25_gr_GR_cog.meVE.Stichera04.text
 
 meVE.SticGlory.mode = misc_gr_GR_cog.Mode6
-meVE.SticGlory.melody  = ""
+meVE.SticGlory.melody = ""
 meVE.SticGlory.text = me.m12.d25_gr_GR_cog.meMA.PostGospelIdiomelon.text
 
 meVE.Aposticha1.poet = poets_gr_GR_cog.IoannouMonachou
 meVE.Aposticha1.mode = misc_gr_GR_cog.Mode8
-meVE.Aposticha1.melody  = misc_gr_GR_cog.Idiomelon
+meVE.Aposticha1.melody = misc_gr_GR_cog.Idiomelon
 meVE.Aposticha1.text = "Παράδοξον Μυστήριον, οἰκονομεῖται σήμερον! καινοτομοῦνται φύσεις, καὶ Θεὸς ἄνθρωπος γίνεται· ὅπερ ἦν μεμένηκε, καὶ ὃ οὐκ ἦν προσέλαβεν, οὐ φυρμὸν ὑπομείνας, οὐδὲ διαίρεσιν."
 
 meVE.ApostichaVerse2.text = ""
 
 meVE.Aposticha2.mode = misc_gr_GR_cog.Mode8
-meVE.Aposticha2.melody  = misc_gr_GR_cog.Idiomelon
+meVE.Aposticha2.melody = misc_gr_GR_cog.Idiomelon
 meVE.Aposticha2.text = "Κύριε, ἐν Βηθλεὲμ παραγέγονας, ἐν τῷ Σπηλαίῳ παρῴκησας, ὁ οὐρανὸν τὸν θρόνον ἔχων, ἐν φάτνῃ ἀνεκλίθης, ὃν στρατιαὶ κυκλοῦσιν Ἀγγέλων, Ποιμέσι συγκατέβης, ἵνα σώσῃς ὡς εὔσπλαγχνος τὸ γένος ἡμῶν, δόξα σοι."
 
 meVE.ApostichaVerse3.text = ""
 
 meVE.Aposticha3.mode = misc_gr_GR_cog.Mode8
-meVE.Aposticha3.melody  = misc_gr_GR_cog.Idiomelon
+meVE.Aposticha3.melody = misc_gr_GR_cog.Idiomelon
 meVE.Aposticha3.text = "Πῶς ἐξείπω τὸ μέγα Μυστήριον; ὁ ἄσαρκος σαρκοῦται, ὁ Λόγος παχύνεται, ὁ ἀόρατος ὁρᾶται καὶ ὁ ἀναφὴς ψηλαφᾶται· καὶ ὁ ἄναρχος ἄρχεται. Ὁ Υἱὸς τοῦ Θεοῦ, ἀνθρώπου Υἱὸς γίνεται, Ἰησοῦς Χριστός, χθὲς καὶ σήμερον ὁ αὐτός, καὶ εἰς τοὺς αἰῶνας."
 
 meVE.AposGlory.mode = misc_gr_GR_cog.Mode8
-meVE.AposGlory.melody  = misc_gr_GR_cog.Idiomelon
+meVE.AposGlory.melody = misc_gr_GR_cog.Idiomelon
 meVE.AposGlory.text = "Ἐν Βηθλεὲμ συνέδραμον Ποιμένες, τὸν ἀληθῆ μηνύοντες Ποιμένα, τὸν καθήμενον ἐπὶ τῶν Χερουβίμ, καὶ ἀνακείμενον ἐν φάτνῃ, Νηπίου μορφὴν δι' ἡμᾶς ἀνειληφότα, Κύριε δόξα σοι."
 
 meVE.Apolytikion1.mode = misc_gr_GR_cog.Mode4
-meVE.Apolytikion1.melody  = ""
+meVE.Apolytikion1.melody = ""
 meVE.Apolytikion1.text = me.m12.d25_gr_GR_cog.meVE.Apolytikion1.text
 
 meMA.Kontakion1.mode = misc_gr_GR_cog.Mode6
-meMA.Kontakion1.melody  = ""
+meMA.Kontakion1.melody = ""
 meMA.Kontakion1.text = "Ὁ πρὸ Ἑωσφόρου ἐκ Πατρὸς ἀμήτωρ γεννηθείς, ἐπὶ τῆς γῆς ἀπάτωρ ἐσαρκώθη σήμερον ἐκ σοῦ· ὅθεν Ἀστὴρ εὐαγγελίζεται Μάγοις, Ἄγγελοι δὲ μετὰ Ποιμένων ὑμνοῦσι, τὸν ἄχραντον Τόκον σου, ἡ Κεχαριτωμένη."
 
 meMA.Oikos1.text = "Τὸν ἀγεώργητον βότρυν βλαστήσασα, ἡ μυστικὴ ἄμπελος ὡς ἐπὶ κλάδων, ἀγκάλαις ἐβάσταζε, καὶ ἔλεγε. Σὺ εἶ καρπός μου, σὺ εἶ ἡ ζωή μου. Ἀφ' οὗ ἔγνων, ὅτι καὶ ὃ ἤμην εἰμί, σύ μου Θεός· τὴν γὰρ σφραγῖδα τῆς Παρθενίας μου ὁρῶσα ἀκατάλυτον, κηρύττω σε ἄτρεπτον Λόγον, σάρκα γενόμενον. Οὐκ οἶδα σποράν, οἶδά σε λύτην τῆς φθορᾶς· Ἁγνὴ γὰρ εἰμι, σοῦ προελθόντος ἐξ ἐμοῦ· ὡς γὰρ εὗρες, ἔλιπες μήτραν ἐμήν. Διὰ τοῦτο συγχορεύει πᾶσα κτίσις βοῶσά μοι· Χαῖρε ἡ Κεχαριτωμένη."
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Exaposteilarion1.mode = misc_gr_GR_cog.Mode3
 meMA.Exaposteilarion1.melody = misc_gr_GR_cog.Automelon
@@ -76,27 +76,27 @@ meMA.Exaposteilarion1.text = he.a.m3_gr_GR_cog.EpeskepsatoImas.text
 
 meMA.Lauds1.poet = poets_gr_GR_cog.AndreouIerosolymitou
 meMA.Lauds1.mode = misc_gr_GR_cog.Mode4
-meMA.Lauds1.melody  = ""
+meMA.Lauds1.melody = ""
 meMA.Lauds1.text = me.m12.d25_gr_GR_cog.meMA.Lauds1.text
 
 meMA.Lauds2.mode = misc_gr_GR_cog.Mode4
-meMA.Lauds2.melody  = ""
+meMA.Lauds2.melody = ""
 meMA.Lauds2.text = me.m12.d25_gr_GR_cog.meMA.Lauds2.text
 
 meMA.Lauds3.mode = misc_gr_GR_cog.Mode4
-meMA.Lauds3.melody  = ""
+meMA.Lauds3.melody = ""
 meMA.Lauds3.text = me.m12.d25_gr_GR_cog.meMA.Lauds3.text
 
 meMA.Lauds4.mode = misc_gr_GR_cog.Mode4
-meMA.Lauds4.melody  = ""
-meMA.Lauds4.text =me.m12.d25_gr_GR_cog.meMA.Lauds4.text
+meMA.Lauds4.melody = ""
+meMA.Lauds4.text = me.m12.d25_gr_GR_cog.meMA.Lauds4.text
 
 meMA.LaudsGlory.mode = misc_gr_GR_cog.Mode6
-meMA.LaudsGlory.melody  = ""
+meMA.LaudsGlory.melody = ""
 meMA.LaudsGlory.text = "Σήμερον ἡ ἀόρατος φύσις, τοῖς βροτοῖς ἐκ Παρθένου συνάπτεται. Σήμερον ἡ ἄπειρος οὐσία, ἐν Βηθλεὲμ σπαργάνοις ἐνειλίσσεται. Σήμερον ὁ Θεὸς δι' ἀστέρος Μάγους εἰς προσκύνησιν ἄγει, προμηνύοντας αὐτοῦ τὴν τριήμερον ταφήν, ὡς ἐν χρυσῷ καὶ σμύρνῃ καὶ λιβάνῳ· διὸ ψάλλομεν. Ὁ σαρκωθεὶς ἐκ Παρθένου, Χριστὲ ὁ Θεός, σῶσον τὰς ψυχὰς ἡμῶν."
 
 meMA.LaudsBoth.mode = misc_gr_GR_cog.Mode2
-meMA.LaudsBoth.melody  = ""
+meMA.LaudsBoth.melody = ""
 meMA.LaudsBoth.text = me.m12.d25_gr_GR_cog.meMA.LaudsBoth.text
 
 meMA.LaudsSundayVerse1.text = ""

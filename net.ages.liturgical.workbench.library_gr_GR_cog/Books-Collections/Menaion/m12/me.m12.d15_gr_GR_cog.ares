@@ -1,15 +1,15 @@
 A_Resource_Whose_Name = me.m12.d15_gr_GR_cog
 
 meDate.text = "Τῌ ΙΕʹ ΔΕΚΕΜΒΡΙΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "Μνήμη τοῦ ἁγίου Ἱερομάρτυρος Ἐλευθερίου." //full title of day
+meCommemoration.text = "Μνήμη τοῦ Ἁγίου Ἱερομάρτυρος Ἐλευθερίου." // full title of day
 meShortCommemoration1.text = ""
-meInsert1 = "τοῦ ἁγίου Ἱερομάρτυρος Ἐλευθερίου, " //for use in petitions and dismissal
-meInsert2 = "οὗ καὶ τὴν μνήμην ἐπιτελοῦμεν· " //for use in petitions and dismissal
+meInsert1 = "τοῦ ἁγίου Ἱερομάρτυρος Ἐλευθερίου, " // for use in petitions and dismissal
+meInsert2 = "οὗ καὶ τὴν μνήμην ἐπιτελοῦμεν· " // for use in petitions and dismissal
 meNote.text = ""
-meLE.commemoration1 = "Μνήμη τοῦ ἁγίου Ἱερομάρτυρος Ἐλευθερίου."
+meLE.commemoration1 = "Μνήμη τοῦ Ἁγίου Ἱερομάρτυρος Ἐλευθερίου."
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -27,7 +27,7 @@ meVE.Stichera03.melody = he.a.m4_gr_GR_cog.EdokasSimeiosin.name
 meVE.Stichera03.text = "Καλῶς τὸν ἀγῶνά σε, τεθεαμένη τελέσαντα, ἡ καλῶς σε κυήσασα, τὸν ἴσον ποθήσασα, διανύσαι δρόμον, σοὶ περιπλακεῖσα, μέσον τοῦ σκάμματος σοφέ, καθάπερ δάμαλις ἀποσφάττεται· μεθ' ἧς σε ἱκετεύομεν, ὑπὲρ ἡμῶν Ἐλευθέριε, τὸν Σωτῆρα καὶ Κύριον, ἐκδυσώπει πανόλβιε."
 
 meVE.SticGlory.mode = misc_gr_GR_cog.Mode6
-meVE.SticGlory.melody  = ""
+meVE.SticGlory.melody = ""
 meVE.SticGlory.text = "Ἱερεὺς ἐννομώτατος, μέχρι τέλους ἐχρημάτισας, μάκαρ Ἐλευθέριε· ἱερουργῶν γὰρ τὰ θεῖα καὶ ἄρρητα μυστήρια, τὸ αἷμά σου ἐξέχεας ὑπὲρ Χριστοῦ τοῦ Θεοῦ, καὶ θῦμα εὐπρόσδεκτον σεαυτὸν προσήγαγες· διὸ παρρησίαν ἔχων πρὸς αὐτόν, ἐκτενῶς ἱκέτευε, ὑπὲρ τῶν πίστει τελούντων σὴν ἀεισέβαστον μνήμην, καὶ τοὺς αὐτὴν γεραίροντας ῥυσθῆναι πειρασμῶν, καὶ παντοίων κινδύνων καὶ περιστάσεων."
 
 meVE.SticTheotokion.mode = misc_gr_GR_cog.Mode6
@@ -35,7 +35,7 @@ meVE.SticTheotokion.melody = he.o_gr_GR_cog.TheotokeSyEi.name
 meVE.SticTheotokion.text = he.o_gr_GR_cog.TheotokeSyEiAthloforou.text
 
 meVE.SticBoth.mode = misc_gr_GR_cog.Mode6
-meVE.SticBoth.melody  = ""
+meVE.SticBoth.melody = ""
 meVE.SticBoth.text = "Σπήλαιον εὐτρεπίζου· ἡ Ἀμνὰς γὰρ ἥκει, ἔμβρυον φέρουσα Χριστόν. Φάτνη δὲ ὑποδέχου, τὸν τῷ λόγῳ λύσαντα τῆς ἀλόγου πράξεως, ἡμᾶς τοὺς γηγενεῖς. Ποιμένες ἀγραυλοῦντες, μαρτυρεῖτε θαῦμα τὸ φρικτόν, καὶ Μάγοι ἐκ Περσίδος, χρυσὸν καὶ λίβανον καὶ σμύρναν, τῷ Βασιλεῖ προσάξατε· ὅτι ὤφθη Κύριος ἐκ Παρθένου Μητρός, ὃνπερ καὶ κύψασα, δουλικῶς ἡ Μήτηρ προσεκύνησε, καὶ προσεφθέγξατο τῷ ἐν ἀγκάλαις αὐτῆς. Πῶς ἐνεσπάρης μοι, ἢ πῶς μοι ἐνεφύης, ὁ λυτρωτής μου καὶ Θεός;"
 
 meVE.Aposticha1.mode = misc_gr_GR_cog.Mode1
@@ -55,11 +55,11 @@ meVE.Aposticha3.melody = he.a.m1_gr_GR_cog.TonOuranionTagmaton.name
 meVE.Aposticha3.text = "Τοῦ Μαρτυρίου τοὺς ἄθλους στερρῶς ὑπήνεγκας, Ἀδριανοῦ μὴ πτήξας, τὰς δριμείας κολάσεις, ἔρωτι τοῦ Κτίστου ὅλους ἁλούς, Ἐλευθέριε πάνσοφε, καὶ τὴν τεκοῦσάν σε σύναθλον προσλαβών, ἀνελήλυθας γηθόμενος."
 
 meVE.AposGlory.mode = misc_gr_GR_cog.Mode8
-meVE.AposGlory.melody  = ""
+meVE.AposGlory.melody = ""
 meVE.AposGlory.text = "Τῆς ἱεραρχίας σου Ὅσιε Πάτερ, τὴν στολὴν ἐφοίνιξας, ταῖς ῥοαῖς τῶν αἱμάτων σου. Ἐν μέσῳ δὲ τοῦ σταδίου ἀνδρικῶς τελειωθέντα ἰδοῦσά σε, ἐπιπεσοῦσα ἠσπάζετο τὸ γλυκὺ τέκνον, ἡ καλῶς γεννησαμένη καὶ θρεψαμένη σε· διὸ καὶ τμηθεῖσα τῷ ξίφει, εἰς οὐρανίους θαλάμους μετὰ σοῦ συνεισῆλθεν. Ὢ μακαρίας Μητρός! ὢ μαστῶν ἱερῶν! οὓς ἐθήλασας μάκαρ Ἐλευθέριε, καὶ τῆς φύσεως τὸν Πλάστην ἐπέγνως. Σὺν αὐτῇ οὖν πρέσβευε, ἐλεηθῆναι τὰς ψυχὰς ἡμῶν."
 
 meVE.AposTheotokion.mode = misc_gr_GR_cog.Mode8
-meVE.AposTheotokion.melody  = ""
+meVE.AposTheotokion.melody = ""
 meVE.AposTheotokion.text = oc.m8.d5_gr_GR_cog.ocMA.AposTheotokion.text
 
 meVE.Apolytikion1.mode = misc_gr_GR_cog.Mode5
@@ -294,7 +294,7 @@ meMA.Kontakion1.text = "Ὡς καλλονὴν τῶν ἱερέων Ὅσιε
 
 meMA.Oikos1.text = "Ἔπιδε εὔσπλαγχνε Ζωοδότα, ὡς φιλάνθρωπος μόνος καὶ οἰκτίρμων Θεός, τὴν τῆς ψυχῆς μου σκοτόμαιναν, καὶ πανσθενεῖ δεξιᾷ σου Λόγε, τῶν παθῶν ἐλευθέρωσον τῆς αἰσχύνης, ὅπως τὸν σὸν Ἱεράρχην ὑμνήσω Ἐλευθέριον· αὐτὸς γὰρ ὄντως ἐκ μήτρας ἐγνωρίσθη σοι, καὶ καθηγίασται, καὶ ἀνετέθη σοι, ὡς Σαμουήλ, ἀπὸ μητρὸς ἱερᾶς σοι τῷ Κτίσαντι, πρεσβεύων ἀπαύστως ὑπὲρ πάντων ἡμῶν."
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C11.ode = misc_gr_GR_cog.Ode7
 meMA.Ode7C11.mode = misc_gr_GR_cog.Mode1
@@ -452,11 +452,11 @@ meMA.Lauds3.melody = he.a.m6_gr_GR_cog.TriimerosAnestis.name
 meMA.Lauds3.text = "Τοῖς ὄμβροις τῶν αἱμάτων σου, κατάρδευσον ἡμᾶς νοητῶς, Ἱεράρχα, τοὺς τιμῶντάς σε πιστῶς, καὶ μνήμην ἐκτελοῦντας, τὴν θείαν σου ἐκ πόθου, καὶ τὸν Σωτῆρα μεγαλύνοντας."
 
 meMA.LaudsGlory.mode = misc_gr_GR_cog.Mode2
-meMA.LaudsGlory.melody  = ""
+meMA.LaudsGlory.melody = ""
 meMA.LaudsGlory.text = "Ὡς τῆς θείας ἐλευθερίας ἐπώνυμος, τῆς ἱερᾶς διπλοΐδος, Πάτερ κατηξίωσαι, καὶ εὐθαρσῶς τὴν εὐσέβειαν διδάσκων, τῶν πρακτέων τοὺς λόγους ἡμᾶς ἐξεπαίδευσας· Ὅθεν καὶ τὴν μαρτυρικὴν ἔνστασιν νεανικῶς ἐκτελέσας, ἐν ἀμφοτέροις διέπρεψας, καὶ διπλοῦν εἴληφας τὸ στέφος παρὰ Χριστοῦ τοῦ Θεοῦ, ὃν καθικέτευε, Ἱερομάρτυς Ἐλευθέριε, σωθῆναι τὰς ψυχὰς ἡμῶν."
 
 meMA.LaudsTheotokion.mode = misc_gr_GR_cog.Mode2
-meMA.LaudsTheotokion.melody  = ""
+meMA.LaudsTheotokion.melody = ""
 meMA.LaudsTheotokion.text = ho.s23_gr_GR_cog.hoCA.Troparion7.text
 
 meMA.LaudsSundayVerse1.text = ""

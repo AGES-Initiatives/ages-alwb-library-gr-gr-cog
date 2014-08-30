@@ -1,15 +1,15 @@
 A_Resource_Whose_Name = me.m12.d09_gr_GR_cog
 
 meDate.text = "Τῌ Θʹ ΔΕΚΕΜΒΡΙΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "Ἡ σύλληψις τῆς Ἁγίας Ἄννης, τῆς Μητρὸς τῆς Θεοτόκου, καὶ ἡ ἀνάμνησις τῶν Ἐγκαινίων." //full title of day
+meCommemoration.text = "Ἡ Σύλληψις τῆς Ἁγίας Ἄννης, τῆς Μητρὸς τῆς Θεοτόκου, καὶ ἡ Ἀνάμνησις τῶν Ἐγκαινίων." // full title of day
 meShortCommemoration1.text = ""
-meInsert1 = "" //for use in petitions and dismissal
-meInsert2 = "ἧς τὴν σύλληψιν ἑορτάζομεν," //for use in petitions and dismissal
+meInsert1 = "" // for use in petitions and dismissal
+meInsert2 = "ἧς τὴν σύλληψιν ἑορτάζομεν," // for use in petitions and dismissal
 meNote.text = ""
-meLE.commemoration1 = "Ἡ σύλληψις τῆς Ἁγίας Ἄννης, τῆς Μητρὸς τῆς Θεοτόκου, καὶ ἡ ἀνάμνησις τῶν Ἐγκαινίων."
+meLE.commemoration1 = "Ἡ Σύλληψις τῆς Ἁγίας Ἄννης, τῆς Μητρὸς τῆς Θεοτόκου."
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -39,12 +39,12 @@ meVE.Stichera06.melody = he.a.m6_gr_GR_cog.AiAngelikai.name
 meVE.Stichera06.text = "Δεῦτε ἀδελφοί, εὐφρανθῶμεν φιλεόρτως, καὶ πνευματικήν, συστησώμεθα χορείαν, ψυχῆς δὲ τὴν λαμπάδα, τῷ ἐλαίῳ φαιδρύνωμεν·οὕτω γὰρ Ἐγκαίνια τιμῶνται, οὕτω δοξάζεται ὁ Κτίστης, ᾧ πάντες ἄνθρωποι, ἀνακαινίζονται ψυχήν, πρὸς ὕψος οὐράνιον."
 
 meVE.SticGlory.mode = misc_gr_GR_cog.Mode6
-meVE.SticGlory.melody  = ""
+meVE.SticGlory.melody = ""
 meVE.SticGlory.text = "Τὴν μνήμην τῶν ἐγκαινίων ἐπιτελοῦντες Κύριε, σὲ τὸν τοῦ ἁγιασμοῦ δοτῆρα, δοξάζοντες δεόμεθα, ἁγιασθῆναι ἡμῶν τὰ αἰσθητήρια τῶν ψυχῶν, τῇ πρεσβείᾳ τῶν ἐνδόξων Ἀθλοφόρων, Ἀγαθὲ παντοδύναμε."
 
 meVE.SticBoth.poet = poets_gr_GR_cog.Germanou
 meVE.SticBoth.mode = misc_gr_GR_cog.Mode1
-meVE.SticBoth.melody  = ""
+meVE.SticBoth.melody = ""
 meVE.SticBoth.text = "Τὸ ἀπόρρητον τοῖς Ἀγγέλοις, καὶ ἀνθρώποις μεγαλεῖον, καὶ ἀπ' αἰῶνος χρησμοδοτούμενον, μυστήριον παράδοξον, σήμερον ἐν τοῖς λαγόσι τῆς σώφρονος Ἄννης βρεφουργεῖται, Μαρία ἡ θεόπαις, ἑτοιμαζομένη εἰς κατοικίαν, τοῦ παμβασιλέως τῶν αἰώνων, καὶ εἰς ἀνάπλασιν τοῦ γένους ἡμῶν, ἣν ἐν καθαρῷ συνειδότι καθικετεύσωμεν, ἀναβοῶντες πρὸς αὐτήν. Πρέσβευε τῷ σῷ Υἱῷ καὶ Θεῷ ὡς προστασία ὑπάρχουσα ἡμῶν τῶν χριστιανῶν, τοῦ σωθῆναι τὰς ψυχὰς ἡμῶν."
 
 meVE.Aposticha1.mode = misc_gr_GR_cog.Mode5
@@ -64,19 +64,19 @@ meVE.Aposticha3.melody = he.a.m5_gr_GR_cog.ChairoisAskitikon.name
 meVE.Aposticha3.text = "Ζεῦγος καρπογονεῖ τὸ σεπτόν, τὴν θείαν Δάμαλιν, ἐξ ἧς προελεύσεται, ὁ Μόσχος ἀρρήτῳ λόγῳ, ὁ σιτευτὸς ἀληθῶς, ὑπὲρ ὅλου κόσμου προθυόμενος· διὸ γεγηθότες, ἐξομολόγησιν ἄπαυστον, ἐν κατανύξει, τῷ Κυρίῳ προσάγουσι, καὶ τὴν σύμπασαν, ἐποφείλουσαν ἔχουσι. Τούτους οὖν μακαρίσωμεν, καὶ πίστει χορεύσωμεν, ἐν τῇ Συλλήψει ἐνθέως, τῆς ἐξ αὐτῶν τοῦ Θεοῦ ἡμῶν, Μητρὸς τικτομένης, δι' ἧς δίδοται πλουσίως, τὸ μέγα ἔλεος."
 
 meVE.AposGlory.mode = misc_gr_GR_cog.Mode2
-meVE.AposGlory.melody  = ""
+meVE.AposGlory.melody = ""
 meVE.AposGlory.text = "Τὸν ἐγκαινισμὸν τελοῦντες, τοῦ πανιέρου Ναοῦ τῆς Ἀναστάσεως, σὲ δοξάζομεν Κύριε, τὸν ἁγιάσαντα τοῦτον, καὶ τελειώσαντα τῇ αὐτοτελεῖ σου χάριτι, καὶ τερπόμενον, ταῖς ἐν αὐτῷ ἱερουργουμέναις ὑπὸ πιστῶν, μυστικαῖς καὶ ἱεραῖς τελεταῖς, καὶ προσδεχόμενον ἐκ χειρὸς τῶν δούλων σου, τὰς ἀναιμάκτους καὶ ἀχράντους θυσίας, ἀντιδιδόντα δὲ τοῖς ὀρθῶς προσφέρουσι, τὴν τῶν ἁμαρτημάτων κάθαρσιν, καὶ τὸ μέγα ἔλεος."
 
 meVE.AposBoth.mode = misc_gr_GR_cog.Mode2
-meVE.AposBoth.melody  = ""
+meVE.AposBoth.melody = ""
 meVE.AposBoth.text = "Σήμερον ἐκ ῥίζης τοῦ Δαυΐδ, βασιλικὴ πορφυρὶς ἐκβλαστήσασα, τοῦ Ἰεσσαὶ βλαστάνειν ἀπάρχεται, τὸ ἄνθος τὸ μυστικόν, ἐν ᾧ Χριστὸς ὁ Θεὸς ἡμῶν ἐξήνθησεν, ὁ σῴζων τὰς ψυχὰς ἡμῶν."
 
 meVE.Apolytikion1.mode = misc_gr_GR_cog.Mode4
-meVE.Apolytikion1.melody  = ""
+meVE.Apolytikion1.melody = ""
 meVE.Apolytikion1.text = "Σήμερον τῆς ἀτεκνίας δεσμὰ διαλύονται· τοῦ Ἰωακεὶμ γὰρ καὶ τῆς Ἄννης εἰσακούων Θεός, παρ' ἐλπίδα τεκεῖν αὐτοὺς σαφῶς, ὑπισχνεῖται θεόπαιδα, ἐξ ἧς αὐτός ἐτέχθη ὁ ἀπερίγραπτος, βροτὸς γεγονώς, δι' Ἀγγέλου κελεύσας βοῆσαι αὐτῇ. Χαῖρε Κεχαριτωμένη, ὁ Κύριος μετὰ σοῦ."
 
 meVE.Apolytikion2.mode = misc_gr_GR_cog.Mode4
-meVE.Apolytikion2.melody  = ""
+meVE.Apolytikion2.melody = ""
 meVE.Apolytikion2.text = "Ὡς τοῦ ἄνω στερεώματος τὴν εὐπρέπειαν, καὶ τὴν κάτω συναπέδειξας ὡραιότητα, τοῦ Ἁγίου Σκηνώματος τῆς δόξης σου Κύριε κραταίωσον αὐτὸ εἰς αἰῶνα αἰῶνος, καὶ πρόσδεξαι ἡμῶν τὰς ἐν αὐτῷ ἀπαύστως προσαγομένας σοι δεήσεις, διὰ τῆς Θεοτόκου, ἡ πάντων ζωὴ καὶ ἀνάστασις."
 
 meMA.Kathisma11.mode = misc_gr_GR_cog.Mode1
@@ -420,7 +420,7 @@ meMA.Kontakion2.text = "Ἑορτάζει σήμερον, ἡ οἰκουμέ
 
 meMA.Oikos2.text = "Σὺ ὁ τῇ Σάρρᾳ δοὺς ποτέ, ἐν γήρᾳ βαθυτάτῳ, τῇ σῇ ἐπιστασίᾳ, καὶ ἐν ἐπαγγελίᾳ υἱὸν τὸν μέγαν, Ἰσαὰκ σὺ ὁ διανοίξας τὴν στειρεύουσαν νηδὺν τῆς Ἄννης, Παντοδύναμε, μητρὸς Σαμουὴλ τοῦ Προφήτου σου, καὶ νῦν ἐπιδὼν ἐπ' ἐμέ, δέξαι μου τὰς δεήσεις, καὶ πλήρωσόν μου τὰς αἰτήσεις, ἐβόα ἐν κλαυθμῷ ἡ σώφρων Ἄννα καὶ στεῖρα, καὶ ἐπήκουσεν αὐτῆς ὁ εὐεργέτης. Ὅθεν ἐν χαρᾷ συνέλαβε τὴν Παρθένον, τὴν ὑπὲρ λόγον, τὸν Λόγον κυήσασαν."
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C11.ode = misc_gr_GR_cog.Ode7
 meMA.Ode7C11.mode = misc_gr_GR_cog.Mode4
@@ -644,20 +644,20 @@ meMA.Lauds6.melody = he.a.m2_gr_GR_cog.OikosTouEfratha.name
 meMA.Lauds6.text = "Τὰ πέρατα τῆς γῆς, εὐφραίνεσθε· ἰδοὺ γάρ, τοῦ Κτίστου τῶν ἁπάντων, ἡ Μήτηρ ἐξ ἀκάρπου, γαστρὸς φύεται σήμερον."
 
 meMA.LaudsGlory.mode = misc_gr_GR_cog.Mode5
-meMA.LaudsGlory.melody  = ""
+meMA.LaudsGlory.melody = ""
 meMA.LaudsGlory.text = "Ὁ ἐπὶ τῶν κόλπων τῶν πατρικῶν ἐπαναπαυόμενος Λόγε, τὸ Πνεῦμά σου τὸ Ἅγιον, ἐγκαίνισον ἐν τῷ Ναῷ, τῷ εἰς τὸ ὄνομά σου ἀνεγηγερμένῳ."
 
 meMA.LaudsBoth.mode = misc_gr_GR_cog.Mode2
-meMA.LaudsBoth.melody  = ""
+meMA.LaudsBoth.melody = ""
 meMA.LaudsBoth.text = "Σήμερον ἐκ ῥίζης τοῦ Δαυΐδ, βασιλικὴ Πορφυρὶς ἐκβλαστήσασα, τοῦ Ἰωακεὶμ βλαστάνειν ἀπάρχεται, τὸ ἄνθος τὸ μυστικόν, ἐν ᾧ Χριστὸς ὁ Θεὸς ἡμῶν ἐξήνθησεν, ὁ σῴζων τὰς ψυχὰς ἡμῶν."
 
-meMA.LaudsSundayVerse1.text  = "" //for media
+meMA.LaudsSundayVerse1.text = "" // for media
 
 meLI.SeasonalKontakion.mode = meMA.Kontakion2.mode
 meLI.SeasonalKontakion.melody = meMA.Kontakion2.melody
 meLI.SeasonalKontakion.text = meMA.Kontakion2.text
 
-meLI.CommunionHymn.text = "" //for media
+meLI.CommunionHymn.text = "" // for media
 
 meMegalynarion.text = ""
 

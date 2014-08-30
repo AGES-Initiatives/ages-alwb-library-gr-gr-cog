@@ -1,15 +1,15 @@
 A_Resource_Whose_Name = me.m12.d27_gr_GR_cog
 
 meDate.text = "Τῌ ΚΖʹ ΔΕΚΕΜΒΡΙΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "Μνήμη τοῦ Ἁγίου Πρωτομάρτυρος, καὶ Ἀρχιδιακόνου Στεφάνου, καὶ τοῦ Ὁσίου Πατρὸς ἡμῶν καὶ Ὁμολογητοῦ Θεοδώρου τοῦ Γραπτοῦ, αὐταδέλφου Θεοφάνους τοῦ Ποιητοῦ." //full title of day
+meCommemoration.text = "Μνήμη τοῦ Ἁγίου Πρωτομάρτυρος, καὶ Ἀρχιδιακόνου Στεφάνου, καὶ τοῦ Ὁσίου Πατρὸς ἡμῶν καὶ Ὁμολογητοῦ Θεοδώρου τοῦ Γραπτοῦ, αὐταδέλφου Θεοφάνους τοῦ Ποιητοῦ." // full title of day
 meShortCommemoration1.text = ""
-meInsert1 = "καὶ τοῦ Ἁγίου Πρωτομάρτυρος, καὶ Ἀρχιδιακόνου Στεφάνου," //for use in petitions and dismissal
-meInsert2 = "οὗ καὶ τὴν μνήμην ἐπιτελοῦμεν· " //for use in petitions and dismissal
+meInsert1 = "καὶ τοῦ Ἁγίου Πρωτομάρτυρος, καὶ Ἀρχιδιακόνου Στεφάνου," // for use in petitions and dismissal
+meInsert2 = "οὗ καὶ τὴν μνήμην ἐπιτελοῦμεν· " // for use in petitions and dismissal
 meNote.text = ""
-meLE.commemoration1 = "Μνήμη τοῦ Ἁγίου Πρωτομάρτυρος, καὶ Ἀρχιδιακόνου Στεφάνου, καὶ τοῦ Ὁσίου Πατρὸς ἡμῶν καὶ Ὁμολογητοῦ Θεοδώρου τοῦ Γραπτοῦ, αὐταδέλφου Θεοφάνους τοῦ Ποιητοῦ."
+meLE.commemoration1 = "Μνήμη τοῦ Ἁγίου Πρωτομάρτυρος, καὶ Ἀρχιδιακόνου Στεφάνου."
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -27,7 +27,7 @@ meVE.Stichera03.mode = misc_gr_GR_cog.Mode4
 meVE.Stichera03.melody = he.a.m4_gr_GR_cog.OsGennaionEnMartysi.name
 meVE.Stichera03.text = "Ἐν σημείοις καὶ τέρασιν, ἀπαστράπτων καὶ δόγμασι, παρανόμων ἔσβεσας τὸ συνέδριον, καὶ ὑπ' αὐτῶν ἀναιρούμενος, καὶ λίθοις βαλλόμενος, ὑπὲρ τῆς τῶν φονευτῶν, σὺ προσηύχου ἀφέσεως, ἐκμιμούμενος, τὴν φωνὴν τοῦ Σωτῆρος, οὗ εἰς χεῖρας ἐναπέθου σου τὸ πνεῦμα, τὸ ἱερώτατον Στέφανε."
 
-meVE.Stichera8910.text = "" //for media
+meVE.Stichera8910.text = "" // for media
 
 meVE.Stichera04.mode = misc_gr_GR_cog.Mode4
 meVE.Stichera04.melody = he.a.m4_gr_GR_cog.OsGennaionEnMartysi.name
@@ -43,11 +43,11 @@ meVE.Stichera06.text = "Ἀντὶ θλίψεως αἴνεσιν, ἀντὶ �
 
 meVE.SticGlory.poet = poets_gr_GR_cog.Anatoliou
 meVE.SticGlory.mode = misc_gr_GR_cog.Mode2
-meVE.SticGlory.melody  = ""
+meVE.SticGlory.melody = ""
 meVE.SticGlory.text = "Τῷ Βασιλεῖ καὶ Δεσπότῃ τοῦ παντός, τεχθέντι ἐπὶ γῆς, Στέφανος ὑπέρλαμπρος προσφέρεται, οὐκ ἐκ λίθων τιμίων κατεσκευασμένος, ἀλλ' ἐξ οἰκείων αἱμάτων διηνθισμένος. Ἀλλ' ὦ φιλομάρτυρες δεῦτε, τὰ τῶν ᾀσμάτων ἄνθη δρεψάμενοι, τὰς κεφαλὰς ἀναδησώμεθα, καὶ τοῖς ὕμνοις ἀναμέλποντες, εἴπωμεν· Ὁ σοφίᾳ καταγλαϊσθείς, καὶ χάριτι τὴν ψυχήν, Πρωτομάρτυς Χριστοῦ τοῦ Θεοῦ, αἴτησαι ἡμῖν εἰρήνην, καὶ τὸ μέγα ἔλεος."
 
 meVE.SticBoth.mode = misc_gr_GR_cog.Mode2
-meVE.SticBoth.melody  = ""
+meVE.SticBoth.melody = ""
 meVE.SticBoth.text = me.m12.d25_gr_GR_cog.meVE.Aposticha1.text
 
 meVE.Aposticha1.mode = misc_gr_GR_cog.Mode1
@@ -68,19 +68,19 @@ meVE.Aposticha3.text = "Ἐκ τῆς Παρθένου ἐτέχθης, ὑπ�
 
 meVE.AposGlory.poet = poets_gr_GR_cog.Anatoliou
 meVE.AposGlory.mode = misc_gr_GR_cog.Mode6
-meVE.AposGlory.melody  = ""
+meVE.AposGlory.melody = ""
 meVE.AposGlory.text = "Πρῶτος ἐν Μάρτυσιν ἐδείχθης, καὶ ἐν Διακόνοις Στέφανε μακάριε, τῶν ἀθλητῶν τὸ ἐγκαλλώπισμα, τῶν πιστῶν τὸ καύχημα, ἡ δόξα τῶν δικαίων. Τοὺς τὴν σεπτὴν σου ἑορτάζοντας μνήμην αἴτησαι, ὡς παριστάμενος τῷ θρόνῳ, Χριστοῦ τοῦ παντάνακτος, τῶν πταισμάτων ἱλασμὸν λαβεῖν, καὶ βασιλείας οὐρανῶν ἀξιωθῆναι."
 
 meVE.AposBoth.mode = misc_gr_GR_cog.Mode6
-meVE.AposBoth.melody  = ""
-meVE.AposBoth.text = me.m12.d25_gr_GR_cog.meVE.LityBoth.text 
+meVE.AposBoth.melody = ""
+meVE.AposBoth.text = me.m12.d25_gr_GR_cog.meVE.LityBoth.text
 
 meVE.Apolytikion1.mode = misc_gr_GR_cog.Mode4
 meVE.Apolytikion1.melody = he.a.m4_gr_GR_cog.TachyProkatalave.name
 meVE.Apolytikion1.text = "Βασίλειον διάδημα, ἐστέφθη σὴ κορυφή, ἐξ ἄθλων ὧν ὑπέμεινας, ὑπὲρ Χριστοῦ τοῦ Θεοῦ, Μαρτύρων πρωτόαθλε· σὺ γὰρ τὴν Ἰουδαίων, ἀπελέγξας μανίαν, εἶδές σου τὸν Σωτῆρα, τοῦ Πατρὸς δεξιόθεν. Αὐτὸν οὖν ἐκδυσώπει ἀεί, ὑπὲρ τῶν ψυχῶν ἡμῶν."
 
-meVE.GeneralApolytikion2.name = "Θεόδωρε" 
-meVE.GeneralApolytikion2.text = "" //for media 
+meVE.GeneralApolytikion2.name = "Θεόδωρε"
+meVE.GeneralApolytikion2.text = "" // for media
 
 meVE.Apolytikion2.poet = poets_gr_GR_cog.Gerasimou
 meVE.Apolytikion2.mode = misc_gr_GR_cog.Mode3
@@ -332,7 +332,7 @@ meMA.Kontakion1.text = "Ὁ Δεσπότης χθὲς ἡμῖν, διὰ σα
 
 meMA.Oikos1.text = "Ὡς ἀστὴρ φαεινὸς σήμερον συνεξέλαμψε, τῇ Γεννήσει Χριστοῦ, ὁ Πρωτομάρτυς Στέφανος, ἀστράπτων καὶ φωτίζων τὰ πέρατα ἅπαντα, τῶν Ἰουδαίων μόνον ἠμαύρωσε τὴν πᾶσαν δυσσέβειαν, σοφίας λόγοις τούτους διελέγξας, ἀπὸ τῶν Γραφῶν διαλεγόμενος, καὶ πείθων τούτους, τὸν γεννηθέντα ἐκ τῆς Παρθένου Ἰησοῦν, Υἱὸν αὐτόν εἶναι Θεοῦ, κατῄσχυνε τούτων τὴν ἀσεβῆ κακουργίαν, ὁ Πρωτομάρτυς καὶ θεῖος Στέφανος."
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C11.ode = misc_gr_GR_cog.Ode7
 meMA.Ode7C11.mode = misc_gr_GR_cog.Mode5
@@ -521,13 +521,13 @@ meMA.Aposticha1.mode = misc_gr_GR_cog.Mode1
 meMA.Aposticha1.melody = he.a.m1_gr_GR_cog.PaneffimoiMartyres.name
 meMA.Aposticha1.text = "Ἰδοῦσα κρατούμενον χερσίν, ἑαυτῆς ἡ Πάναγνος, τὸν Ποιητὴν ἀπεφθέγγετο. Τέκνον γλυκύτατον, πῶς σὲ βρέφος βλέπω, καὶ νοεῖν οὐ δύναμαι, τὴν ἄπειρόν σου νῦν συγκατάβασιν, ὑμνῶ τὸ κράτος σου, προσκυνῶ τὴν εὐσπλαγχνίαν σου, δι' ἧς σῶσαι, κόσμον παραγέγονας."
 
-meMA.ApostichaVerse2.text = meVE.ApostichaVerse2.text 
+meMA.ApostichaVerse2.text = meVE.ApostichaVerse2.text
 
 meMA.Aposticha2.mode = misc_gr_GR_cog.Mode1
 meMA.Aposticha2.melody = he.a.m1_gr_GR_cog.PaneffimoiMartyres.name
 meMA.Aposticha2.text = "Ὡς βρέφος με βλέπουσα ταῖς σαῖς, ἐπαναπαυόμενον, Μῆτερ ἀγκάλαις εὐφράνθητι· ἦλθον τὸν κόσμον γάρ, ὅλον διασῶσαι, καὶ Ἀδὰμ ὃν ἔπλασα, κακίστῃ συμβουλίᾳ τοῦ ὄφεως, ξύλου γευσάμενον, καὶ τρυφῆς ἔξω γενόμενον, Παραδείσου, καὶ καταφθειρόμενον."
 
-meMA.ApostichaVerse3.text = meVE.ApostichaVerse3.text 
+meMA.ApostichaVerse3.text = meVE.ApostichaVerse3.text
 
 meMA.Aposticha3.mode = misc_gr_GR_cog.Mode1
 meMA.Aposticha3.melody = he.a.m1_gr_GR_cog.PaneffimoiMartyres.name
@@ -535,11 +535,11 @@ meMA.Aposticha3.text = "Σὲ βρέφος Προτέλειε ὁρῶ, φά�
 
 meMA.AposGlory.poet = poets_gr_GR_cog.Kyprianou
 meMA.AposGlory.mode = misc_gr_GR_cog.Mode8
-meMA.AposGlory.melody  = ""
+meMA.AposGlory.melody = ""
 meMA.AposGlory.text = "Χαίροις ἐν Κυρίῳ στεφανηφόρε Στέφανε, ὁ μιμητὴς τοῦ Δεσπότου· διότι καὶ Πρωτομάρτυς γέγονας, Χριστοῦ τοῦ Βασιλέως ἡμῶν, καὶ τὴν πλάνην τῶν ἀνόμων, Ἰουδαίων κατήργησας· πρέσβευε ὑπὲρ ἡμῶν πρὸς Κύριον."
 
 meMA.AposBoth.mode = misc_gr_GR_cog.Mode8
-meMA.AposBoth.melody  = ""
+meMA.AposBoth.melody = ""
 meMA.AposBoth.text = me.m12.d26_gr_GR_cog.meVE.Aposticha1.text
 
 meLI.Antiphon2.text = me.m12.d25_gr_GR_cog.meLI.Antiphon2.text

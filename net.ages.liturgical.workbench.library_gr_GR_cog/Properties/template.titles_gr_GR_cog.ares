@@ -34,11 +34,49 @@ co.greatcompline.pdf.cover = "Ἀπόδειπνον Μέγα"
 co.greatcompline.pdf.header = "ΑΠΟΔΕΙΠΝΟΝ ΜΕΓΑ"
 
 //sacraments
-con.consecration = "ΤΑ ΕΓΚΑΙΝΙΑ"
+bap.html.tab = "ΒΑΠΤΙΣΜΑ"
+bap.pdf.header = "Τὸ Ἅγιον Βάπτισμα"
+bap.pdf.cover = "Τὸ Ἅγιον Βάπτισμα"
 
-un.html.tab  = "ΕΥΧΕΛΑΙΟΝ"
-un.pdf.header = "Ἀκολουθία τοῦ Εὐχελαίου"
-un.pdf.cover = "Ἀκολουθία τοῦ Εὐχελαίου"
+cdo.html.tab = "ΘΥΡΑΝΟΙΞΙΑ"
+cdo.pdf.header = "Θυρανοίξια Ναοῦ"
+cdo.pdf.cover = "Θυρανοίξια Ναοῦ"
+
+chi.html.tab = "ΕΠΙ ΓΕΝΝΗΣΕΙ ΠΑΙΔΙΟΥ"
+chi.pdf.header = "Ἐπὶ Γεννήσει Παιδίου"
+chi.pdf.cover = "Ἐπὶ Γεννήσει Παιδίου"
+
+con.html.tab = "ΕΓΚΑΙΝΙΑ"
+con.pdf.header = "ΤΑ ΕΓΚΑΙΝΙΑ"
+con.pdf.cover = "ΤΑ ΕΓΚΑΙΝΙΑ"
+
+fun.html.tab = "ΚΗΔΕΙΑ"
+fun.pdf.header = "Νεκρώσιμος Ἀκολουθία"
+fun.pdf.cover = "Νεκρώσιμος Ἀκολουθία"
+
+mem.html.tab = "ΜΝΗΜΟΣΥΝΟΝ"
+mem.pdf.header = "Ἀκολουθία ἐπὶ Μνημοσύνῳ"
+mem.pdf.cover = "Ἀκολουθία ἐπὶ Μνημοσύνῳ"
+
+ord.html.tab = "ΧΕΙΡΟΤΟΝΙΑ"
+ord.pdf.header = "Χειροτονία"
+ord.pdf.cover = "Χειροτονία"
+
+pen.html.tab = "ΕΧΟΜΟΛΟΓΗΣΙΣ"
+pen.pdf.header = "Ἱερὰ Ἐξομολόγησις"
+pen.pdf.cover = "Ἱερὰ Ἐξομολόγησις"
+
+swb.html.tab = "ΜΙΚΡΟΣ ΑΓΙΑΣΜΟΣ"
+swb.pdf.header = "Ἀκολουθία τοῦ Μικροῦ Ἁγιασμοῦ"
+swb.pdf.cover = "Ἀκολουθία τοῦ Μικροῦ Ἁγιασμοῦ"
+
+unc.html.tab  = "ΕΥΧΕΛΑΙΟΝ"
+unc.pdf.header = "Ἀκολουθία τοῦ Εὐχελαίου"
+unc.pdf.cover = "Ἀκολουθία τοῦ Εὐχελαίου"
+
+wed.html.tab = "ΓΑΜΟΣ"
+wed.pdf.header = "Ἀκολουθία τοῦ Γάμου"
+wed.pdf.cover = "Ἀκολουθία τοῦ Γάμου"
 
 em.html.tab  = "ΟΡΘΡΟΣ" //this is for Matins in the evening during Holy Week
 em.pdf.header = "Ὄρθρος"

@@ -20,19 +20,6 @@ sat = "ΤΩ ΣΑΒΒΑΤΩ"
 sun = "ΤΗ ΚΥΡΙΑΚΗ"
 wkd = "ΚΑΘΗΜΕΡΙΝΗ"
 
-//service names
-service = "Ἀκολουθία"
-
-co.html.tab  = "ΑΠΟΔΕΙΠΝΟΝ"
-co.pdf.header = "ΑΠΟΔΕΙΠΝΟΝ"
-co.pdf.cover = "Ἡ Ἀκολουθία τοῦ Ἀποδείπνου"
-co.smallcompline.cover = "Ἀπόδειπνον Μικρόν"
-co.smallcompline.header = "ΑΠΟΔΕΙΠΝΟΝ ΜΙΚΡΟΝ"
-co.salutations.pdf.cover = "Μικρὸν Ἀπόδειπνον καὶ Χαιρετισμοί"
-co.salutations.pdf.header = "ΜΙΚΡΟΝ ΑΠΟΔΕΙΠΝΟΝ ΚΑΙ ΧΑΙΡΕΤΙΣΜΟΙ"
-co.greatcompline.pdf.cover = "Ἀπόδειπνον Μέγα"
-co.greatcompline.pdf.header = "ΑΠΟΔΕΙΠΝΟΝ ΜΕΓΑ"
-
 //sacraments
 bap.html.tab = "ΒΑΠΤΙΣΜΑ"
 bap.pdf.header = "Τὸ Ἅγιον Βάπτισμα"
@@ -77,6 +64,19 @@ unc.pdf.cover = "Ἀκολουθία τοῦ Εὐχελαίου"
 wed.html.tab = "ΓΑΜΟΣ"
 wed.pdf.header = "Ἀκολουθία τοῦ Γάμου"
 wed.pdf.cover = "Ἀκολουθία τοῦ Γάμου"
+
+//service names
+service = "Ἀκολουθία"
+
+co.html.tab  = "ΑΠΟΔΕΙΠΝΟΝ"
+co.pdf.header = "ΑΠΟΔΕΙΠΝΟΝ"
+co.pdf.cover = "Ἡ Ἀκολουθία τοῦ Ἀποδείπνου"
+co.smallcompline.cover = "Ἀπόδειπνον Μικρόν"
+co.smallcompline.header = "ΑΠΟΔΕΙΠΝΟΝ ΜΙΚΡΟΝ"
+co.salutations.pdf.cover = "Μικρὸν Ἀπόδειπνον καὶ Χαιρετισμοί"
+co.salutations.pdf.header = "ΜΙΚΡΟΝ ΑΠΟΔΕΙΠΝΟΝ ΚΑΙ ΧΑΙΡΕΤΙΣΜΟΙ"
+co.greatcompline.pdf.cover = "Ἀπόδειπνον Μέγα"
+co.greatcompline.pdf.header = "ΑΠΟΔΕΙΠΝΟΝ ΜΕΓΑ"
 
 em.html.tab  = "ΟΡΘΡΟΣ" //this is for Matins in the evening during Holy Week
 em.pdf.header = "Ὄρθρος"

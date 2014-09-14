@@ -86,9 +86,6 @@ meMA.Kathisma32.melody = he.a.m3_gr_GR_cog.IParthenosSimeron.name
 meMA.Kathisma32.text = me.m01.d10_gr_GR_cog.meMA.Kathisma11.text
 
 meMA.Prokeimenon.text = "" //for media
-//meMA.Gospel.name = //"Ματθαῖον or Μᾶρκον or Λουκᾶν or Ἰωάννην or Matthew or Mark or Luke or John"
-//meMA.Gospel.chapverse = //"(Κεφ. ΓΓʹ 11-11) or 1:11-11"
-//meMA.Gospel.text = ""
 
 meMA.PostGospelGlory.mode = misc_gr_GR_cog.Mode2
 meMA.PostGospelGlory.melody  = ""
@@ -126,8 +123,6 @@ meMA.Ode1C1T.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C1T.mode = misc_gr_GR_cog.Mode2
 meMA.Ode1C1T.melody = he.h.m2_gr_GR_cog.EnVythoKatestrose.name
 meMA.Ode1C1T.text = "Νεανίδων θείων ὁ χορός, ἐνθεαστικώτατα, ἐν γυναιξί σε καλὴν ᾀσματίζουσι, Θεοτόκε Δέσποινα, καλλοναῖς ὡραϊζομένην θεότητος· τὸν καλλοποιὸν γὰρ Λόγον, ὑπὲρ λόγον ἀπεκύησας."
-
-//Skipping katavasia Στείβει θαλάσσης
 
 meMA.Ode3C11.ode = misc_gr_GR_cog.Ode3
 meMA.Ode3C11.mode = misc_gr_GR_cog.Mode2
@@ -386,13 +381,7 @@ meLI.SeasonalKontakion.mode = misc_gr_GR_cog.Mode4
 meLI.SeasonalKontakion.melody = misc_gr_GR_cog.Automelon
 meLI.SeasonalKontakion.text = me.m01.d06_gr_GR_cog.meMA.Kontakion1.text
 
-meLI.Alleluia.mode = misc_gr_GR_cog.Mode6
-
-meLI.AlleluiaVerse1.text = "Μακάριος ἀνὴρ ὁ φοβούμενος τὸν Κύριον."
-
-meLI.AlleluiaVerse2.text = "Ἡ δικαιοσύνη αὐτοῦ μένει εἰς τὸν αἰῶνα τοῦ αἰῶνος."
-
-meLI.CommunionHymn.text = "Εἰς μνημόσυνον αἰώνιον ἔσται Δίκαιος. Ἀλληλούια."
+meLI.CommunionHymn.text = "" //for media
 
 meMegalynarion.text = ""
 

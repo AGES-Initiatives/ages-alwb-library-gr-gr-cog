@@ -11,7 +11,7 @@ meLE.commemoration2 = ""
 meHO.number = "11."
 meHO.rank  = "3"
 meHO.commemorations = ""
-meHO.note1 = rubrical_gr_GR_cog.HolidayWineOil
+meHO.note1 = rubrical_gr_GR_cog.WineOil
 meHO.note2 = ""
 meDismissal = dismissals_gr_GR_cog.dis00.epiphany
 
@@ -27,6 +27,8 @@ meVE.Stichera02.text = "Ὅσιε Πάτερ, Θεοφόρε Θεοδόσιε· 
 meVE.Stichera03.mode = misc_gr_GR_cog.Mode5
 meVE.Stichera03.melody = he.a.m5_gr_GR_cog.OsiePater.name
 meVE.Stichera03.text = "Ὅσιε Πάτερ, Θεοφόρε Θεοδόσιε· εἰκότως ἠξιώθης τῆς μακαρίας ζωῆς, ἁγνείᾳ καὶ ἀσκήσει ταύτην εὑρών· ζῶν γὰρ μετέστης πρὸς τὴν ἄνω ζωήν, πᾶσι χαίρειν εἰπών, καὶ σὺν τοῖς Ἀσωμάτοις, Χριστὸν ἀπαύστως δοξολογῶν, τὸν ἐκ Παρθένου ἀφράστως σάρκα λαβόντα, καὶ καταδύσαντα τάς ἡμῶν ἁμαρτίας, ἐν τῷ Βαπτίσματι, ἐν ῥείθροις Ἰορδάνου. Αὐτὸν ἱκέτευε, αὐτὸν δυσώπει Ὅσιε, δωρηθῆναι τῇ οἰκουμένῃ, ὁμόνοιαν, εἰρήνην, καὶ μέγα ἔλεος. "
+
+meVE.Stichera8910.text = "" //for media
 
 meVE.SticGlory.poet = poets_gr_GR_cog.Anatoliou
 meVE.SticGlory.mode = misc_gr_GR_cog.Mode2
@@ -67,6 +69,7 @@ meVE.AposBoth.text = "Τὰ τῶν Ἀγγέλων στρατεύματα ἐξ
 
 meVE.Apolytikion1.mode = misc_gr_GR_cog.Mode8
 meVE.Apolytikion1.melody = he.ga_gr_GR_cog.TaisTonDakryonSou.name
+meVE.Apolytikion1.text = "" //for media
 meVE.GeneralApolytikion1.name = "Ὅσιε Πατὴρ ἡμῶν Θεοδόσιε," // name of saint for General Apolytikia
 
 meMA.Kathisma11.mode = misc_gr_GR_cog.Mode4

@@ -591,21 +591,15 @@ meMA.LaudsTheotokion.mode = misc_gr_GR_cog.Mode1
 meMA.LaudsTheotokion.melody = ""
 meMA.LaudsTheotokion.text = oc.m1.d3_gr_GR_cog.ocVE.AposTheotokion.text
 
-meMA.LaudsSundayVerse1.text = meVE.ApostichaVerse2.text
+meMA.LaudsSundayVerse1.text = "" //for media
 
-meMA.LaudsSundayVerse2.text = meVE.ApostichaVerse3.text
+meMA.LaudsSundayVerse2.text = ""
 
 meLI.SeasonalKontakion.mode = misc_gr_GR_cog.Mode1
 meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = me.m02.d02_gr_GR_cog.meMA.Kontakion1.text
 
-meLI.Alleluia.mode = misc_gr_GR_cog.Mode2
-
-meLI.AlleluiaVerse1.text = "Προσέχετε, λαός μου, τῷ νόμῳ μου, κλίνατε τὸ οὖς ὑμῶν εἰς τὰ ῥήματα τοῦ στόματός μου."
-
-meLI.AlleluiaVerse2.text = "Ἀνοίξω ἐν παραβολαῖς τὸ στόμα μου, φθέγξομαι προβλήματα ἀπ' ἀρχῆς."
-
-meLI.CommunionHymn.text = "Εἰς μνημόσυνον αἰώνιον ἔσται Δίκαιος. Ἀλληλούϊα."
+meLI.CommunionHymn.text = "" //for media
 
 meMegalynarion.text = ""
 

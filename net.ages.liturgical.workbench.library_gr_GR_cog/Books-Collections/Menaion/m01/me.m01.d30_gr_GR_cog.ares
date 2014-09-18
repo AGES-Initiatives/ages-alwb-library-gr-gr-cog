@@ -185,9 +185,6 @@ meMA.Kathisma3T.melody = he.a.m4_gr_GR_cog.EpefanisSimeron.name
 meMA.Kathisma3T.text = "Προστασία ἄμαχε, τῶν θλιβομένων, καὶ θερμὴ ἀντίληψις, τῶν πεποιθότων ἐπὶ σέ, ἐκ τῶν κινδύνων με λύτρωσαι· σὺ γὰρ ὑπάρχεις, ἡ πάντων βοήθεια."
 
 meMA.Prokeimenon.text = "" // for media
-//meMA.Gospel.name = bible_gr_GR_cog.John
-//meMA.Gospel.chapverse = "(Κεφ. ιʹ 9-16)"
-//meMA.Gospel.text = "Εἶπεν ὁ Κύριος πρὸς τοὺς ἐληλυθότας πρὸς αὑτὸν Ἰουδαίους· Ἐγώ εἰμι ἡ θύρα· δι' ἐμοῦ ἐάν τις εἰσέλθῃ, σωθήσεται, καὶ εἰσελεύσεται καὶ ἐξελεύσεται, καὶ νομὴν εὑρήσει. Ὁ κλέπτης οὐκ ἔρχεται εἰ μὴ ἵνα κλέψῃ καὶ θύσῃ καὶ ἀπολέσῃ· ἐγὼ ἦλθον ἵνα ζωὴν ἔχωσιν καὶ περισσὸν ἔχωσιν. Ἐγώ εἰμι ὁ ποιμὴν ὁ καλός· ὁ ποιμὴν ὁ καλὸς τὴν ψυχὴν αὐτοῦ τίθησιν ὑπὲρ τῶν προβάτων· ὁ μισθωτὸς δέ, καὶ οὐκ ὢν ποιμήν, οὗ οὐκ εἰσιν τὰ πρόβατα ἴδια, θεωρεῖ τὸν λύκον ἐρχόμενον καὶ ἀφίησιν τὰ πρόβατα καὶ φεύγει· καὶ ὁ λύκος ἁρπάζει αὐτὰ καὶ σκορπίζει τὰ πρόβατα. Ὁ μισθωτὸς φεύγει, ὁτι μισθωτός ἐστιν καὶ οὐ μέλει αὐτῷ περὶ τῶν προβάτων. Ἐγώ εἰμι ὁ ποιμὴν ὁ καλὸς καὶ γινώσκω τὰ ἐμὰ καὶ γινώσκομαι ὑπὸ τῶν ἐμῶν. Καθὼς γινώσκει με ὁ Πατὴρ κἀγὼ γινώσκω τὸν Πατέρα καὶ τὴν ψυχήν μου τίθημι ὑπὲρ τῶν προβάτων. Καὶ ἄλλα πρόβατα ἔχω, ἃ οὐκ ἔστιν ἐκ τῆς αὐλῆς ταύτης· κἀκεῖνα με δεῖ ἀγαγεῖν καὶ τῆς φωνῆς μου κούσουσιν καὶ γενήσεται μία ποίμνη εἷς ποιμήν."
 
 meMA.PostGospelGlory.mode = misc_gr_GR_cog.Mode2
 meMA.PostGospelGlory.melody = ""
@@ -785,21 +782,15 @@ meMA.LaudsBoth.mode = misc_gr_GR_cog.Mode2
 meMA.LaudsBoth.melody = "Σήμερον ὁ Χριστός."
 meMA.LaudsBoth.text = "Σήμερον ὁ Χριστός, ἐν τῷ Ναῷ προσφέρεται ὡς βρέφος. Σήμερον ὑπὸ Νόμον γίνεται, ὁ Μωσεῖ διδοὺς τὸν Νόμον, τῶν Ἀγγέλων αἱ στρατιαὶ τεθάμβηνται, ἐν ἀγκάλαις γηραιαῖς κατεχόμενον, τὸν συνέχοντα πάντα θεώμεναι· Συμεὼν εὐλαβείας πλησθεὶς καὶ χαρᾶς ἐβόα· Νῦν ἀπολύεις με Σῶτερ, ἐκ τῆς ἐπικήρου ζωῆς πρὸς τὴν ἀγήρω λῆξιν·εἶδον γὰρ σε καὶ εὐφράνθην."
 
-meMA.LaudsSundayVerse1.text = meVE.ApostichaVerse2.text
+meMA.LaudsSundayVerse1.text = "" //for media
 
-meMA.LaudsSundayVerse2.text = meVE.ApostichaVerse3.text
+meMA.LaudsSundayVerse2.text = "" 
 
 meLI.SeasonalKontakion.mode = misc_gr_GR_cog.Mode1
 meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = me.m02.d02_gr_GR_cog.meMA.Kontakion1.text
 
-meLI.Alleluia.mode = misc_gr_GR_cog.Mode1
-
-meLI.AlleluiaVerse1.text = "Ἐξομολογήσονται οἱ ουρανοὶ τὰ θαυμάσιά σου, Κύριε, καὶ τὴν ἀλήθειάν σου ἐν ἐκκλησίᾳ ἁγίων."
-
-meLI.AlleluiaVerse2.text = "Ὁ Θεὸς ἐνδοξαζόμενος ἐν βουλῇ ἁγίων, μέγας καὶ φοβερὸς ἐπὶ πάντας τοὺς περικύκλῳ αὐτοῦ."
-
-meLI.CommunionHymn.text = da.d5_gr_GR_cog.daLI.CommunionHymn.text
+meLI.CommunionHymn.text = "" //for media
 
 meMegalynarion.text = ""
 

@@ -461,7 +461,7 @@ ocMA.Aposticha2.text = oc.m6.d5_gr_GR_cog.ocVE.Aposticha2.text
 
 ocMA.Aposticha3.mode = misc_gr_GR_cog.Mode6
 ocMA.Aposticha3.melody  = ""
-ocMA.Aposticha3.text = "Τοὺς Ἁγίους ἐθαυμάστωσε, καὶ Ἁγίας ὁ Θεὸς ἡμῶν· ἀγαλλιᾶσθε καὶ εὐφραίνεσθε, πάντες οἱ δοῦλοι αὐτοῦ· ὑμῖν γὰρ ἡτοίμασε τὸν στέφανον, καὶ τὴν Βασιλείαν αὐτοῦ, ἀλλ' αἰτοῦμεν, καὶ ἡμῶν μὴ ἐπιλάθησθε."
+ocMA.Aposticha3.text = "Τοὺς ἐκλεκτοὺς ἐθαυμάστωσε, καὶ Ἁγίους ὁ Θεὸς ἡμῶν· ἀγαλλιᾶσθε καὶ εὐφραίνεσθε, πάντες οἱ δοῦλοι αὐτοῦ· ὑμῖν γὰρ ἡτοίμασε τὸν στέφανον, καὶ τὴν Βασιλείαν αὐτοῦ, ἀλλ' αἰτοῦμεν, καὶ ἡμῶν μὴ ἐπιλάθησθε."
 
 ocMA.AposTheotokion.mode = misc_gr_GR_cog.Mode6
 ocMA.AposTheotokion.melody = he.a.m6_gr_GR_cog.TriimerosAnestis.name
@@ -508,21 +508,21 @@ octrMA.Triadic3.text = oc.m6.d2_gr_GR_cog.octrMA.Triadic3.text
 
 octrMA.Kathisma11.mode = misc_gr_GR_cog.Mode6
 octrMA.Kathisma11.melody  = ""
-octrMA.Kathisma11.text  = ""
+octrMA.Kathisma11.text  = ocMA.Kathisma11.text
 
 octrMA.Kathisma12Verse.text = ""
 
 octrMA.Kathisma12.mode = misc_gr_GR_cog.Mode6
 octrMA.Kathisma12.melody  = ""
-octrMA.Kathisma12.text  = ""
+octrMA.Kathisma12.text  = "Οἱ Μαθηταί σου Ἰησοῦ, ἐπὶ τὰ πέρατα τῆς γῆς στελλόμενοι, τὰ ἔθνη εὐσεβῶς, ὡς ἰχθύας ζωγρήσαντες, προσήνεγκαν τῇ σῇ ἀγαθότητι Κύριε, καὶ δι' αὐτῶν βοῶμέν σοι φιλάνθρωπε, τῷ λαῷ σου παράσχου, τὸ μέγα ἔλεος."
 
 octrMA.Kathisma1T.mode = misc_gr_GR_cog.Mode6
-octrMA.Kathisma1T.melody  = ""
-octrMA.Kathisma1T.text  = ""
+octrMA.Kathisma1T.melody  = ocMA.Kathisma23.melody
+octrMA.Kathisma1T.text  = ocMA.Kathisma23.text
 
 octrMA.Ode7Martyricon.mode = misc_gr_GR_cog.Mode6
 octrMA.Ode7Martyricon.melody  = ""
-octrMA.Ode7Martyricon.text = ""
+octrMA.Ode7Martyricon.text = "Τῶν Ἀθλοφόρων σου ἡ μνήμη Κύριε, ἀνεδείχθη ὡς Παράδεισος ὁ ἐν Ἐδέμ· ἐν αὐτῇ γὰρ ἀγάλλεται πᾶσα ἡ Κτίσις. Διὸ παράσχου ἡμῖν, τῇ αὐτῶν παρακλήσει, εἰρήνην καὶ τὸ μέγα ἔλεος."
 
 octrMA.Photogogic.mode = misc_gr_GR_cog.Mode6
 octrMA.Photogogic.text = oc.m6.d2_gr_GR_cog.octrMA.Photagogic.text

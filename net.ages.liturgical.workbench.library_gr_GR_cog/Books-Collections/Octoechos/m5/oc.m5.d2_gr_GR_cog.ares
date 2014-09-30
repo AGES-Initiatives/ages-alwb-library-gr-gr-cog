@@ -513,21 +513,21 @@ octrMA.Triadic3.text = "Ὁ ἐν μήτρᾳ παρθενικῇ χωρηθε�
 
 octrMA.Kathisma11.mode = misc_gr_GR_cog.Mode5
 octrMA.Kathisma11.melody  = ""
-octrMA.Kathisma11.text = ""
+octrMA.Kathisma11.text = ocMA.Kathisma11.text
 
 octrMA.Kathisma12Verse.text = ""
 
 octrMA.Kathisma12.mode = misc_gr_GR_cog.Mode5
 octrMA.Kathisma12.melody  = ""
-octrMA.Kathisma12.text = ""
+octrMA.Kathisma12.text = oc.m5.d3_gr_GR_cog.ocMA.Kathisma11.text
 
 octrMA.Kathisma13.mode = misc_gr_GR_cog.Mode5
 octrMA.Kathisma13.melody  = ""
-octrMA.Kathisma13.text = ""
+octrMA.Kathisma13.text = ocVE.ApolTheotokionVM.text
 
 octrMA.Ode7Martyricon.mode = misc_gr_GR_cog.Mode5
-octrMA.Ode7Martyricon.melody  = ""
-octrMA.Ode7Martyricon.text = ""
+octrMA.Ode7Martyricon.melody  = misc_gr_GR_cog.Automelon
+octrMA.Ode7Martyricon.text = oc.m5.d5_gr_GR_cog.ocMA.Kathisma32.text
 
 octrMA.Photagogic.mode = misc_gr_GR_cog.Mode5
 octrMA.Photagogic.text = "Φωτοδότα Κύριε, ἐξαπόστειλον τὸ φῶς σου, καὶ φώτισον τὴν καρδίαν μου,"

@@ -53,7 +53,7 @@ ocMA.Kathisma11.melody  = ""
 ocMA.Kathisma11.text = "Τόπος Κρανίου, Παράδεισος γέγονε· μόνον γὰρ ὡς ἐπάγη τὸ ξύλον τοῦ Σταυροῦ, εὐθὺς ἐβλάστησε τὸν βότρυν τῆς ζωῆς, σὲ Σωτήρ, εἰς ἡμῶν εὐφροσύνην· Δόξα σοι."
 
 ocMA.Kathisma12.mode = misc_gr_GR_cog.Mode5
-ocMA.Kathisma12.melody  = ""
+ocMA.Kathisma12.melody  = "Τὸ ξένον τῆς Παρθένου."
 ocMA.Kathisma12.text = "Τὸ ξύλον τοῦ Σταυροῦ σου, Σωτὴρ ἡμῶν, τοῦ κόσμου ἀνεδείχθη σωτήριον· ἐν αὐτῷ γὰρ βουλήσει προσηλωθείς, τῆς κατάρας ἐρρύσω τοὺς γηγενεῖς, ἡ πάντων ζωή. Κύριε δόξα σοι."
 
 ocMA.Kathisma13.mode = misc_gr_GR_cog.Mode5
@@ -62,7 +62,7 @@ ocMA.Kathisma13.text = "Ἐν Σταυρῷ σε ὁρῶσα Χριστὲ ἡ 
 
 ocMA.Kathisma21.mode = misc_gr_GR_cog.Mode5
 ocMA.Kathisma21.melody = he.a.m5_gr_GR_cog.TonSynanarchonLogon.name
-ocMA.Kathisma21.text = "Τὸν σταυρωθέντα Σωτῆρα καὶ λυτρωτὴν ἡμῶν, ἑκουσίως ὡς οἶδε καὶ ὡς ηὐδόκησεν, ἀνυμνήσωμεν πιστοὶ καὶ προσκυνήσωμεν, ὅτι προσήλωσε Σταυρῷ, τὰς ἁμαρτίας τῶν βροτῶν, ῥυσάμενος ἐκ τῆς πλάνης, τὸ γένος τὸ τῶν ἀνθρώπων, καὶ Βασιλείας κατηξίωσεν."
+ocMA.Kathisma21.text = "Τὸν σταυρωθέντα Σωτῆρα καὶ Λυτρωτὴν ἡμῶν, ἑκουσίως ὡς οἶδε καὶ ὡς ηὐδόκησεν, ἀνυμνήσωμεν πιστοὶ καὶ προσκυνήσωμεν, ὅτι προσήλωσε Σταυρῷ, τὰς ἁμαρτίας τῶν βροτῶν, ῥυσάμενος ἐκ τῆς πλάνης, τὸ γένος τὸ τῶν ἀνθρώπων, καὶ Βασιλείας κατηξίωσεν."
 
 ocMA.Kathisma22.mode = misc_gr_GR_cog.Mode5
 ocMA.Kathisma22.melody = he.a.m5_gr_GR_cog.TonSynanarchonLogon.name
@@ -529,22 +529,22 @@ octrMA.Triadic3.mode = misc_gr_GR_cog.Mode5
 octrMA.Triadic3.text = oc.m5.d2_gr_GR_cog.octrMA.Triadic3.text
 
 octrMA.Kathisma11.mode = misc_gr_GR_cog.Mode5
-octrMA.Kathisma11.melody  = ""
-octrMA.Kathisma11.text = ""
+octrMA.Kathisma11.melody  = ocMA.Kathisma21.melody
+octrMA.Kathisma11.text = ocMA.Kathisma21.text
 
 octrMA.Kathisma12Verse.text = ""
 
 octrMA.Kathisma12.mode = misc_gr_GR_cog.Mode5
-octrMA.Kathisma12.melody  = ""
-octrMA.Kathisma12.text = ""
+octrMA.Kathisma12.melody  = ocMA.Kathisma21.melody
+octrMA.Kathisma12.text = ocMA.Kathisma22.text
 
 octrMA.Kathisma1T.mode = misc_gr_GR_cog.Mode5
-octrMA.Kathisma1T.melody  = ""
-octrMA.Kathisma1T.text = ""
+octrMA.Kathisma1T.melody  = oc.m5.d6_gr_GR_cog.ocMA.Kathisma13.melody
+octrMA.Kathisma1T.text = oc.m5.d6_gr_GR_cog.ocMA.Kathisma13.text
 
 octrMA.Ode7Martyricon.mode = misc_gr_GR_cog.Mode5
 octrMA.Ode7Martyricon.melody  = ""
-octrMA.Ode7Martyricon.text = ""
+octrMA.Ode7Martyricon.text = "Τοὺς Ἀθλοφόρους σου Κύριε, μεγάλους ἀντιλήπτορας ἀνέδειξας, Σωτὴρ τῇ Οἰκουμένῃ, δι' ὧν τὰ πάθη φυγαδεύονται· ταῖς αὐτῶν πρεσβείαις σῶσον τὰς ψυχὰς ἡμῶν."
 
 octrMA.Photogogic.mode = misc_gr_GR_cog.Mode5
 octrMA.Photogogic.text = oc.m5.d2_gr_GR_cog.octrMA.Photagogic.text

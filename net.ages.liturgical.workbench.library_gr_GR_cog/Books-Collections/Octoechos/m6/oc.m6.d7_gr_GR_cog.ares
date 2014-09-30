@@ -46,7 +46,7 @@ ocVE.AposTheotokion.text = "Πρεσβείαις τῆς Τεκούσης σε
 
 ocVE.ApolTheotokionVM.mode = misc_gr_GR_cog.Mode6
 ocVE.ApolTheotokionVM.melody  = ""
-ocVE.ApolTheotokionVM.text = oc.m6.d1_gr_GR_cog.ocVE.ApolTheotokionVM.text
+ocVE.ApolTheotokionVM.text = oc.m6.d5_gr_GR_cog.ocVE.ApolTheotokionVM.text
 
 ocMA.Alleluia.mode = misc_gr_GR_cog.Mode6 // for mode-specific media e.g. Triodion
 ocMA.Alleluia.text = prayers_gr_GR_cog.Allilouia3.text
@@ -541,99 +541,95 @@ ocLI.BeatitudesBoth.text = "Μακαρία, γενεαῖς ἐν πάσαις
 
 octrVE.Stichera1.mode = misc_gr_GR_cog.Mode6
 octrVE.Stichera1.melody  = ""
-octrVE.Stichera1.text = ""
+octrVE.Stichera1.text = ocVE.Aposticha1.text
 
 octrVE.Stichera2.mode = misc_gr_GR_cog.Mode6
 octrVE.Stichera2.melody  = ""
-octrVE.Stichera2.text = ""
+octrVE.Stichera2.text = oc.m6.d3_gr_GR_cog.ocVE.Aposticha3.text
 
 octrVE.Stichera3.mode = misc_gr_GR_cog.Mode6
 octrVE.Stichera3.melody  = ""
-octrVE.Stichera3.text = ""
+octrVE.Stichera3.text = oc.m6.d4_gr_GR_cog.ocVE.Aposticha3.text
 
 octrVE.Stichera4.mode = misc_gr_GR_cog.Mode6
 octrVE.Stichera4.melody  = ""
-octrVE.Stichera4.text = ""
+octrVE.Stichera4.text = oc.m6.d5_gr_GR_cog.ocVE.Aposticha3.text
 
 octrVE.SticGlory.mode = misc_gr_GR_cog.Mode6
 octrVE.SticGlory.melody  = ""
-octrVE.SticGlory.text = ""
+octrVE.SticGlory.text = ocVE.Aposticha2.text
 
 octrVE.SticBoth.mode = misc_gr_GR_cog.Mode6
 octrVE.SticBoth.melody  = ""
-octrVE.SticBoth.text = ""
+octrVE.SticBoth.text = ocVE.SticTheotokion.text
 
 octrMA.Kathisma11.mode = misc_gr_GR_cog.Mode6
 octrMA.Kathisma11.melody  = ""
-octrMA.Kathisma11.text = ""
+octrMA.Kathisma11.text = ocMA.Kathisma12.text
 
 octrMA.Kathisma12Verse.text = ""
 
 octrMA.Kathisma12.mode = misc_gr_GR_cog.Mode6
-octrMA.Kathisma12.melody  = ""
-octrMA.Kathisma12.text = ""
+octrMA.Kathisma12.melody  = ocMA.Kathisma11.melody
+octrMA.Kathisma12.text = ocMA.Kathisma11.text
 
 octrMA.Kathisma13Verse.text = ""
 
 octrMA.Kathisma13.mode = misc_gr_GR_cog.Mode6
-octrMA.Kathisma13.melody  = ""
-octrMA.Kathisma13.text = ""
+octrMA.Kathisma13.melody  = 
+octrMA.Kathisma13.text = "Τῶν Ἁγίων σου ἡ μνήμη Κύριε, σήμερον ἀνεδείχθη, ὡς Παράδεισος ὁ ἐν Ἐδέμ· ἐν αὐτῇ γὰρ ἀγάλλεται πᾶσα ἡ Κτίσις. Διὸ παράσχου ἡμῖν, τῇ αὐτῶν παρακλήσει, εἰρήνην καὶ τὸ μέγα ἔλεος."
 
 octrMA.Kathisma14.mode = misc_gr_GR_cog.Mode6
 octrMA.Kathisma14.melody  = ""
-octrMA.Kathisma14.text = ""
+octrMA.Kathisma14.text = ocMA.Kathisma22.text
 
 octrMA.Kathisma1T.mode = misc_gr_GR_cog.Mode6
-octrMA.Kathisma1T.melody  = ""
-octrMA.Kathisma1T.text = ""
+octrMA.Kathisma1T.melody  = oc.m6.d3_gr_GR_cog.ocMA.Kathisma23.melody
+octrMA.Kathisma1T.text = oc.m6.d3_gr_GR_cog.ocMA.Kathisma23.text
 
 octrMA.Photogogic.mode = misc_gr_GR_cog.Mode6
 octrMA.Photogogic.text = oc.m6.d2_gr_GR_cog.octrMA.Photagogic.text
 
 octrMA.Lauds1.mode = misc_gr_GR_cog.Mode6
 octrMA.Lauds1.melody  = ""
-octrMA.Lauds1.text = ""
+octrMA.Lauds1.text = oc.m6.d2_gr_GR_cog.ocMA.Aposticha3.text
 
 octrMA.Lauds2.mode = misc_gr_GR_cog.Mode6
 octrMA.Lauds2.melody  = ""
-octrMA.Lauds2.text = ""
+octrMA.Lauds2.text = ocMA.Lauds1.text
 
 octrMA.Lauds3.mode = misc_gr_GR_cog.Mode6
 octrMA.Lauds3.melody  = ""
-octrMA.Lauds3.text = ""
+octrMA.Lauds3.text = ocMA.Lauds2.text
 
 octrMA.Lauds4.mode = misc_gr_GR_cog.Mode6
 octrMA.Lauds4.melody  = ""
-octrMA.Lauds4.text = ""
+octrMA.Lauds4.text = ocMA.Lauds3.text
 
 octrMA.LaudsGlory.mode = misc_gr_GR_cog.Mode6
 octrMA.LaudsGlory.melody  = ""
-octrMA.LaudsGlory.text = ""
+octrMA.LaudsGlory.text = ocVE.Aposticha3.text
 
 octrMA.LaudsTheotokion.mode = misc_gr_GR_cog.Mode6
-octrMA.LaudsTheotokion.melody  = ""
-octrMA.LaudsTheotokion.text = ""
+octrMA.LaudsTheotokion.melody  = oc.m6.d7_gr_GR_cog.ocVE.AposTheotokion.melody
+octrMA.LaudsTheotokion.text = oc.m6.d7_gr_GR_cog.ocVE.AposTheotokion.text
 
 octrMA.Aposticha1.mode = misc_gr_GR_cog.Mode6
-octrMA.Aposticha1.melody  = ""
-octrMA.Aposticha1.text = ""
+octrMA.Aposticha1.melody  = ocMA.Aposticha1.melody
+octrMA.Aposticha1.text = ocMA.Aposticha1.text
 
 octrMA.Aposticha2Verse.text = ""
 
 octrMA.Aposticha2.mode = misc_gr_GR_cog.Mode6
-octrMA.Aposticha2.melody  = ""
-octrMA.Aposticha2.text = ""
+octrMA.Aposticha2.melody  = ocMA.Aposticha2.melody
+octrMA.Aposticha2.text = ocMA.Aposticha1.text
 
 octrMA.Aposticha3Verse.text = ""
 
 octrMA.Aposticha3.mode = misc_gr_GR_cog.Mode6
-octrMA.Aposticha3.melody  = ""
-octrMA.Aposticha3.text = ""
-
-octrMA.AposGlory.mode = misc_gr_GR_cog.Mode6
-octrMA.AposGlory.melody  = ""
-octrMA.AposGlory.text = ""
+octrMA.Aposticha3.melody  = ocMA.Aposticha3.melody
+octrMA.Aposticha3.text = ocMA.Aposticha1.text
 
 octrMA.AposTheotokion.mode = misc_gr_GR_cog.Mode6
-octrMA.AposTheotokion.melody  = ""
-octrMA.AposTheotokion.text = ""
+octrMA.AposTheotokion.melody  = ocMA.AposTheotokion.melody
+octrMA.AposTheotokion.text = ocMA.AposTheotokion.text

@@ -521,21 +521,21 @@ octrMA.Triadic3.text = "Κατακαμπτόμενοι τῷ πλήθει, τ�
 
 octrMA.Kathisma11.mode = misc_gr_GR_cog.Mode8
 octrMA.Kathisma11.melody  = ""
-octrMA.Kathisma11.text = ""
+octrMA.Kathisma11.text = ocMA.Kathisma11.text
 
 octrMA.Kathisma12Verse.text = ""
 
 octrMA.Kathisma12.mode = misc_gr_GR_cog.Mode8
 octrMA.Kathisma12.melody  = ""
-octrMA.Kathisma12.text = ""
+octrMA.Kathisma12.text = ocMA.Kathisma21.text
 
 octrMA.Kathisma13.mode = misc_gr_GR_cog.Mode8
 octrMA.Kathisma13.melody  = ""
-octrMA.Kathisma13.text = ""
+octrMA.Kathisma13.text = oc.m8.d5_gr_GR_cog.ocMA.Kathisma33.text
 
 octrMA.Ode7Martyricon.mode = misc_gr_GR_cog.Mode8
 octrMA.Ode7Martyricon.melody  = ""
-octrMA.Ode7Martyricon.text = ""
+octrMA.Ode7Martyricon.text = ocMA.Kathisma32.text
 
 octrMA.Photagogic.mode = misc_gr_GR_cog.Mode8
 octrMA.Photagogic.text = "Φῶς ὑπάρχων Χριστέ, φώτισόν με ἐν σοί,"

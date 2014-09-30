@@ -85,7 +85,7 @@ ocMA.Kathisma32.melody  = ""
 ocMA.Kathisma32.text = "Φωστῆρες νοεροί, ἀνεδείχθητε ἅγιοι Μάρτυρες· τὴν γὰρ ἀχλὺν τῆς πλάνης, κατηργήσατε διὰ τῆς πίστεως, τὰς ψυχικὰς ὑμῶν λαμπάδας ἐφαιδρύνατε, καὶ τῷ Νυμφίῳ μετὰ δόξης συνεισήλθετε, εἰς τὸν οὐράνιον νυμφῶνα, καὶ νῦν ἱκετεύσατε, σωθῆναι δεόμεθα τὰς ψυχὰς ἡμῶν."
 
 ocMA.Kathisma33.mode = misc_gr_GR_cog.Mode8
-ocMA.Kathisma33.melody = he.a.m8_gr_GR_cog.TinSofianKaiLogon.name
+ocMA.Kathisma33.melody = ""
 ocMA.Kathisma33.text = "Τὸ ἀσάλευτον στήριγμα, τὸ τῆς πίστεως, καὶ σεβάσμιον δώρημα, τῶν ψυχῶν ἡμῶν, τὴν Θεοτόκον ἐν ὕμνοις μεγαλύνωμεν πιστοί. Χαῖρε ἡ τὴν πέτραν τῆς ζωῆς, ἐν γαστρί σου χωρήσασα, χαῖρε τῶν περάτων ἡ ἐλπίς, θλιβομένων ἀντίληψις, χαῖρε Νύμφη ἀνύμφευτε."
 
 ocMA.C1Acrostic.text = " οὗ ἡ ἀκροστιχὶς ἄνευ τῶν Θεοτοκίων. Πλήρ(ωμα, Χ)ριστέ, τῶν ὀδυρμῶν μου δέχου. Ἰωσήφ."
@@ -499,7 +499,7 @@ ocMA.Aposticha2.melody  = ""
 ocMA.Aposticha2.text = oc.m8.d2_gr_GR_cog.ocMA.Aposticha2.text
 
 ocMA.Aposticha3.mode = misc_gr_GR_cog.Mode8
-ocMA.Aposticha3.melody  = ""
+ocMA.Aposticha3.melody  = he.a.m8_gr_GR_cog.TiYmasKalesomen.name
 ocMA.Aposticha3.text = "Μεγάλως ἠγωνίσασθε Ἅγιοι, τὰς βασάνους τῶν ἀνόμων, ὑπομείναντες γενναίως, καὶ Χριστὸν ὁμολογοῦντες, ἐναντίον βασιλέων, καὶ πάλιν μεταστάντες ἐκ τοῦ βίου, δυνάμεις ἐνεργεῖτε ἐν τῷ κόσμῳ, καὶ ἀσθενεῖς θεραπεύετε, ἐκ τῶν παθῶν αὐτῶν Ἅγιοι. Πρεσβεύσατε, τοῦ σωθῆναι τὰς ψυχὰς ἡμῶν."
 
 ocMA.AposTheotokion.mode = misc_gr_GR_cog.Mode8
@@ -547,21 +547,21 @@ octrMA.Triadic3.text = oc.m8.d2_gr_GR_cog.octrMA.Triadic3.text
 
 octrMA.Kathisma11.mode = misc_gr_GR_cog.Mode8
 octrMA.Kathisma11.melody  = ""
-octrMA.Kathisma11.text = ""
+octrMA.Kathisma11.text = oc.m8.d2_gr_GR_cog.ocMA.Kathisma22.text
 
 octrMA.Kathisma12Verse.text = ""
 
 octrMA.Kathisma12.mode = misc_gr_GR_cog.Mode8
-octrMA.Kathisma12.melody  = ""
-octrMA.Kathisma12.text = ""
+octrMA.Kathisma12.melody  = ocMA.Kathisma12.melody
+octrMA.Kathisma12.text = ocMA.Kathisma12.text
 
 octrMA.Kathisma1T.mode = misc_gr_GR_cog.Mode8
 octrMA.Kathisma1T.melody  = ""
-octrMA.Kathisma1T.text = ""
+octrMA.Kathisma1T.text = ocMA.Kathisma33.text
 
 octrMA.Ode7Martyricon.mode = misc_gr_GR_cog.Mode8
 octrMA.Ode7Martyricon.melody  = ""
-octrMA.Ode7Martyricon.text = ""
+octrMA.Ode7Martyricon.text = oc.m8.d2_gr_GR_cog.ocMA.Kathisma32.text
 
 octrMA.Photogogic.mode = misc_gr_GR_cog.Mode8
 octrMA.Photogogic.text = oc.m8.d2_gr_GR_cog.octrMA.Photagogic.text

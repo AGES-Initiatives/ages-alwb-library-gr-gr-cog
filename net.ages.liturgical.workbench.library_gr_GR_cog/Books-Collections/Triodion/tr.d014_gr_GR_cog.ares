@@ -42,7 +42,7 @@ trVE.ApolTheotokion.text = "Σὲ καὶ τεῖχος, καὶ λιμένα �
 
 trMA.Kathisma21.mode = misc_gr_GR_cog.Mode5
 trMA.Kathisma21.melody  = ""
-trMA.Kathisma21.text = oc.m5.d7_gr_GR_cog.octrMA.Kathisma14.text
+trMA.Kathisma21.text = "Ἀνάπαυσον Σωτὴρ ἡμῶν, μετὰ Δικαίων τοὺς δούλους σου, καὶ τούτους κατασκήνωσον ἐν ταῖς αὐλαῖς σου, καθὼς γέγραπται, παρορῶν ὡς ἀγαθός, τὰ πλημμελήματα αὐτῶν, τὰ ἑκούσια, καὶ τὰ ἀκούσια, καὶ πάντα τὰ ἐν ἀγνοίᾳ καὶ γνώσει φιλάνθρωπε."
 
 trMA.Kathisma21b.mode = misc_gr_GR_cog.Mode5
 trMA.Kathisma21b.melody  = ""
@@ -50,7 +50,7 @@ trMA.Kathisma21b.text = "Καὶ πάντα τὰ ἐν ἀγνοίᾳ καὶ
 
 trMA.Kathisma22.mode = misc_gr_GR_cog.Mode5
 trMA.Kathisma22.melody  = ""
-trMA.Kathisma22.text = oc.m5.d7_gr_GR_cog.octrMA.Kathisma1T.text
+trMA.Kathisma22.text = "Ὁ ἐκ Παρθένου ἀνατείλας τῷ κόσμῳ, Χριστὲ ὁ Θεός, υἱοὺς φωτὸς δι' αὐτῆς ἀναδείξας, ἐλέησον ἡμᾶς."
 
 trMA.C1Acrostic.text = "οὗ ἡ Ἀκροστιχὶς ἐν τοῖς Τριαδικοῖς καὶ Θεοτοκίοις Τροπαρίοις· Τοῦ ἀναξίου Θεοδώρου."
 
@@ -502,6 +502,12 @@ trMA.AposTheotokion.text = oc.m6.d7_gr_GR_cog.ocMA.LaudsTheotokion.text
 trLI.SeasonalKontakion.mode = misc_gr_GR_cog.Mode8
 trLI.SeasonalKontakion.melody  = ""
 trLI.SeasonalKontakion.text = trMA.Kontakion.text
+
+trLI.Alleluia.mode = misc_gr_GR_cog.Mode6
+
+trLI.AlleluiaVerse1.text = "Μακάριοι, οὓς ἐξελέξω, καὶ προσελάβου, Κύριε."
+
+trLI.AlleluiaVerse2.text = "Καὶ τὸ μνημόσυνον αὐτῶν εἰς γενεὰν καὶ γενεάν."
 
 trLI.CommunionHymn.text = da.d7_gr_GR_cog.daLI.CommunionHymnAlt.text
 

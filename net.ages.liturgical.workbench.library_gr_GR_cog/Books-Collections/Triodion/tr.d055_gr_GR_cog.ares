@@ -1,9 +1,9 @@
 A_Resource_Whose_Name = tr.d055_gr_GR_cog
 
-trCommemoration.text = "Τῌ ΠΕΜΠΤῌ ΤΗΣ Εʹ ΕΒΔΟΜΑΔΟΣ" //full title of day
+trCommemoration.text = "Τῌ ΠΕΜΠΤῌ ΤΗΣ Εʹ ΕΒΔΟΜΑΔΟΣ" // full title of day
 trShortCommemoration1.text = ""
-trInsert1 = "" //for use in petitions and dismissal
-trInsert2 = "" //for use in petitions and dismissal
+trInsert1 = "" // for use in petitions and dismissal
+trInsert2 = "" // for use in petitions and dismissal
 trNote.text = ""
 
 trVE.AposIdiomelon1.mode = misc_gr_GR_cog.Mode8
@@ -11,7 +11,7 @@ trVE.AposIdiomelon1.melody = misc_gr_GR_cog.Idiomelon
 trVE.AposIdiomelon1.text = "Αὐτεξουσίως ἐξεδύθην, τῇ πρώτῃ μου παραβάσει, τῶν ἀρετῶν τὴν εὐπρέπειαν, ἠμφιασάμην δὲ ταύτην αὖθις, τῇ πρός με συγκαταβάσει σου Λόγε Θεοῦ· οὐ παρεῖδες γάρ με τὸν ἐν δεινοῖς παθήμασι καταστιχθέντα, καὶ λῃστρικῶς ὁδοπατηθέντα, ἀλλὰ τῇ παναλκεῖ σου δυναστείᾳ περιποιησάμενός με, ἀντιλήψεως ἠξίωσας Πολυέλεε."
 
 trVE.AposMartyric.mode = misc_gr_GR_cog.Mode8
-trVE.AposMartyric.melody  = ""
+trVE.AposMartyric.melody = ""
 trVE.AposMartyric.text = "Μάρτυρες Κυρίου, πάντα τόπον ἁγιάζετε, καὶ πᾶσαν νόσον θεραπεύετε, καὶ νῦν πρεσβεύσατε, ῥυσθῆναι τῶν παγίδων τοῦ ἐχθροῦ, τὰς ψυχὰς ἡμῶν δεόμεθα."
 
 trVE.Stichera01.mode = misc_gr_GR_cog.Mode1
@@ -47,7 +47,7 @@ trMA.C1Poet = poets_gr_GR_cog.Iosif
 trMA.C2Poet = poets_gr_GR_cog.Theodorou
 
 trMA.Ode5C11.ode = misc_gr_GR_cog.Ode5
-trMA.Ode5C11.mode = misc_gr_GR_cog.Mode1 //cog has wrong mode
+trMA.Ode5C11.mode = "misc_gr_GR_cog.Mode1" // cog has wrong mode
 trMA.Ode5C11.melody = he.h.m1_gr_GR_cog.OFotisasTiEllampsei.name
 trMA.Ode5C11.text = "Ὁ ἐκτείνας οὐρανὸν ὡσεὶ δέρριν ἐξέτεινας, τὰς παλάμας, ἐν Σταυρῷ Ἰησοῦ ὑπεράγαθε· διὸ ἱκετεύω σε, κατατεινόμενον ἐχθροῦ με, ταῖς ἐπηρείαις οἰκτείρησον."
 
@@ -209,6 +209,6 @@ trMA.AposTheotokion.melody = he.a.m8_gr_GR_cog.OTouParadoxou.name
 trMA.AposTheotokion.text = "Ὢ τοῦ παραδόξου θαύματος! ὢ μυστηρίου καινοῦ! ὢ φρικτῆς ἐγχειρήσεως! ἡ Παρθένος ἔλεγεν, ἐν σταυρῷ σε ὡς ἔβλεψεν, ἐν μέσῳ δύο, λῃστῶν κρεμάμενον, ὃν δίχα πόνου, καὶ φθορᾶς τέτοκε, πῶς σε ὁ ἄνομος, δῆμος καὶ ἀχάριστος, σπλάγχνον ἐμόν, Ἰησοῦ γλυκύτατε, σταυρῷ προσήλωσεν;"
 
 trTE.Troparion.mode = misc_gr_GR_cog.Mode5
-trTE.Troparion.melody  = ""
+trTE.Troparion.melody = ""
 trTE.Troparion.text = "Ὑπερύμνητος εἶ Χριστὲ ὁ Θεὸς ἡμῶν, ὁ σαλεύων τὴν γῆν, εἰς τὸ ἐπιστρέψαι, καὶ σωθῆναι τοὺς κατοικοῦντας ἐν αὐτῇ, καὶ πάλιν στερεῶν αὐτήν, διὰ ἰδίαν ἀγαθότητα, καὶ ἄφατον εὐσπλαγχνίαν, πρεσβείαις τῆς Θεοτόκου, ἐλέησον ἡμᾶς."
-trTE.Troparion2.text = ""
+trTE.Troparion2.text = "πρεσβείαις τῆς Θεοτόκου, ἐλέησον ἡμᾶς."

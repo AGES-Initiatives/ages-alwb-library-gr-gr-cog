@@ -1,9 +1,9 @@
 A_Resource_Whose_Name = tr.d065_gr_GR_cog
 
-trCommemoration.text = "" //full title of day
+trCommemoration.text = "" // full title of day
 trShortCommemoration1.text = "Ἁγίας καὶ Μεγάλης Δευτέρας"
-trInsert1 = "" //for use in petitions and dismissal
-trInsert2 = "" //for use in petitions and dismissal
+trInsert1 = "" // for use in petitions and dismissal
+trInsert2 = "" // for use in petitions and dismissal
 trNote.text = ""
 trDismissal = dismissals_gr_GR_cog.dis00.bridegroom
 
@@ -45,11 +45,11 @@ trVE.Aposticha3.text = "Συναγωγὴ πονηρὰ καὶ μοιχαλί�
 
 trVE.AposGlory.mode = misc_gr_GR_cog.Mode2
 trVE.AposGlory.melody = misc_gr_GR_cog.Idiomelon
-trVE.AposGlory.text = trVE.Aposticha1.text 
+trVE.AposGlory.text = trVE.Aposticha1.text
 
 trVE.AposBoth.mode = misc_gr_GR_cog.Mode3
 trVE.AposBoth.melody = misc_gr_GR_cog.Idiomelon
-trVE.AposBoth.text = trVE.Aposticha2.text 
+trVE.AposBoth.text = trVE.Aposticha2.text
 
 trCO.C1Poet = poets_gr_GR_cog.AndreouKritis
 
@@ -202,10 +202,10 @@ trCO.Ode9C1T.mode = misc_gr_GR_cog.Mode8
 trCO.Ode9C1T.melody = he.h.m8_gr_GR_cog.AllotrionTonMiteron.name
 trCO.Ode9C1T.text = "Προσάγομεν εἰς πρεσβείαν τὴν Θεοτόκον, αὐτῆς ταὶς ἱκεσίαις καὶ τῶν σῶν Ἀποστόλων, κοινωνοὺς ἡμᾶς ποίησον, Δέσποτα τῶν ἀγαθῶν σου, καὶ τῆς λαμπρότητος ἀξίωσον, Σωτὴρ τῆς Ἀναστάσεώς σου."
 
-trHW.Alleluia.text = "" //for media
+trHW.Alleluia.text = "" // for media
 
 trHW.Troparion.mode = misc_gr_GR_cog.Mode8
-trHW.Troparion.melody  = ""
+trHW.Troparion.melody = ""
 trHW.Troparion.text = "Ἰδοὺ ὁ Νυμφίος ἔρχεται ἐν τῷ μέσῳ τῆς νυκτός, καὶ μακάριος ὁ δοῦλος, ὃν εὑρήσει γρηγοροῦντα, ἀνάξιος δὲ πάλιν, ὃν εὑρήσει ῥαθυμοῦντα. Βλέπε οὖν ψυχή μου, μὴ τῷ ὕπνῳ κατενεχθῇς, ἵνα μὴ τῷ θανάτῳ παραδοθῇς, καὶ τῆς βασιλείας ἔξω κλεισθῇς· ἀλλὰ ἀνάνηψον κράζουσα· Ἅγιος, ἅγιος, ἅγιος εἶ ὁ Θεός ἡμῶν."
 trHW.Troparion1.text = "Προστασίαις τῶν Ἀσωμάτων ἐλέησον ἡμᾶς"
 trHW.Troparion2.text = "Πρεσβείαις τῶν Ἁγίων σου, ἐλέησον ἡμᾶς."
@@ -256,7 +256,7 @@ trMA.Synaxarion1.Com = "Τῇ ἁγίᾳ καὶ μεγάλῃ Δευτέρ�
 trMA.Synaxarion1.Ver1 = "Σώφρων Ἰωσήφ, δίκαιος κράτωρ ὤφθη,"
 trMA.Synaxarion1.Ver2 = "Καὶ σιτοδότης· ὦ καλῶν θημωνία!"
 
-trMA.Synaxarion1.Ver3 = "Ἕτεροι, εἰς τὴν ξηρανθεῖσαν Συκῆν" //used as Title
+trMA.Synaxarion1.Ver3 = "Ἕτεροι, εἰς τὴν ξηρανθεῖσαν Συκῆν" // used as Title
 trMA.Synaxarion1.Ver4 = "Τὴν συναγωγήν, συκῆν Χριστός, Ἑβραίων,"
 trMA.Synaxarion1.Ver5 = "Καρπῶν ἄμοιρον πνευματικῶν εἰκάζων,"
 trMA.Synaxarion1.Ver6 = "Ἀρᾷ ξηραίει· ἧς φύγωμεν τὸ πάθος."
@@ -309,7 +309,7 @@ trMA.Exaposteilarion1.mode = misc_gr_GR_cog.Mode3
 trMA.Exaposteilarion1.melody = misc_gr_GR_cog.Automelon
 trMA.Exaposteilarion1.text = he.a.m3_gr_GR_cog.TonNymfonaSouVlepo.text
 
-trHW.Lauds01.text = ""//for media
+trHW.Lauds01.text = "" // for media
 
 trMA.Lauds1.mode = misc_gr_GR_cog.Mode1
 trMA.Lauds1.melody = misc_gr_GR_cog.Idiomelon
@@ -340,7 +340,7 @@ trMA.AposGlory.melody = misc_gr_GR_cog.Idiomelon
 trMA.AposGlory.text = "Δευτέραν Εὔαν τὴν Αἰγυπτίαν, εὑρῶν ὁ δράκων, διὰ ῥημάτων, ἔσπευδε κολακείαις, ὑποσκελῖσαι τὸν Ἰωσήφ· ἀλλ' αὐτὸς καταλιπῶν τὸν χιτῶνα, ἔφυγε τὴν ἁμαρτίαν, καὶ γυμνὸς οὐκ ᾐσχύνετο, ὡς ὁ πρωτόπλαστος πρὸ τῆς παρακοῆς· αὐτοῦ ταῖς ἱκεσίαις Χριστέ, ἐλέησον ἡμᾶς."
 
 trTE.Troparion.mode = misc_gr_GR_cog.Mode6
-trTE.Troparion.melody  = ""
+trTE.Troparion.melody = ""
 trTE.Troparion.text = "Ἐν ψυχῇ συντετριμμένῃ, προσπίπτομέν σοι, καὶ δεόμεθά σου Σωτὴρ τοῦ Κόσμου. Σὺ γὰρ εἶ Θεὸς τῶν μετανοούντων."
-trTE.Troparion2.text = ""
 
+trTE.Troparion2.text = "Σὺ γὰρ εἶ Θεὸς τῶν μετανοούντων."

@@ -1,9 +1,9 @@
 A_Resource_Whose_Name = tr.d044_gr_GR_cog
 
-trCommemoration.text = "Τῌ ΑΥΤῌ ΚΥΡΙΑΚῌ ΕΣΠΕΡΑΣ" //full title of day
+trCommemoration.text = "Τῌ ΑΥΤῌ ΚΥΡΙΑΚῌ ΕΣΠΕΡΑΣ" // full title of day
 trShortCommemoration1.text = ""
-trInsert1 = "" //for use in petitions and dismissal
-trInsert2 = "" //for use in petitions and dismissal
+trInsert1 = "" // for use in petitions and dismissal
+trInsert2 = "" // for use in petitions and dismissal
 trNote.text = ""
 
 trVE.Stichera01.mode = misc_gr_GR_cog.Mode8
@@ -23,11 +23,11 @@ trVE.AposIdiomelon1.melody = misc_gr_GR_cog.Idiomelon
 trVE.AposIdiomelon1.text = "Ἀτενίσαι τὸ ὄμμα εἰς οὐρανόν, οὐ τολμῶ ὁ τάλας ἐγώ, ἐκ τῶν πονηρῶν μου πράξεων, ἀλλʹ ὡς ὁ Τελώνης στενάξας κραυγάζω σοι· Ὁ Θεός, ἱλάσθητί μοι τῷ ἁμαρτωλῷ, καὶ φαρισαϊκῆς ὑποκρίσεως ῥῦσαι με, ὡς μόνος εὔσπλαγχνος."
 
 trVE.AposMartyric.mode = misc_gr_GR_cog.Mode8
-trVE.AposMartyric.melody  = ""
+trVE.AposMartyric.melody = ""
 trVE.AposMartyric.text = "Μάρτυρες Κυρίου, πάντα τόπον ἁγιάζετε, καὶ πᾶσαν νόσον θεραπεύετε, καὶ νῦν πρεσβεύσατε, ῥυσθῆναι τῶν παγίδων τοῦ ἐχθροῦ, τὰς ψυχὰς ἡμῶν δεόμεθα."
 
 trVE.AposTheotokion.mode = misc_gr_GR_cog.Mode8
-trVE.AposTheotokion.melody  = ""
+trVE.AposTheotokion.melody = ""
 trVE.AposTheotokion.text = "Τὰ οὐράνια ὑμνεῖ σε κεχαριτωμένη, Μῆτερ ἀνύμφευτε, καὶ ἡμεῖς δοξολογοῦμεν, τὴν ἀνεξιχνίαστόν σου γέννησιν, Θεοτόκε πρέσβευε, σωθῆναι τὰς ψυχὰς ἡμῶν."
 
 trMA.Kathisma21.mode = misc_gr_GR_cog.Mode8
@@ -205,14 +205,14 @@ trMA.AposIdiomelon1.melody = misc_gr_GR_cog.Idiomelon
 trMA.AposIdiomelon1.text = "Ἀρίστην ὁδὸν ὑψώσεως Χριστέ, τὴν ταπείνωσιν ἔδειξας, σεαυτὸν κενώσας, καὶ μορφὴν δούλου λαβών, τοῦ Φαρισαίου τὴν μεγάλαυχον εὐχὴν μὴ προσιέμενος, τοῦ δὲ Τελώνου τὸν συντετριμμένον στεναγμόν, ὡς ἱερεῖον ἄμωμον, ἐν τοῖς ὑψίστοις προσδεχόμενος· διὸ κᾀγὼ βοῶ σοι· Ἱλάσθητι ὁ Θεός, Ἱλάσθητι, Σωτήρ μου καὶ σῶσόν με."
 
 trMA.AposMartyric.mode = misc_gr_GR_cog.Mode6
-trMA.AposMartyric.melody  = ""
+trMA.AposMartyric.melody = ""
 trMA.AposMartyric.text = "Κύριε, ἐν τῇ μνήμῃ τῶν Μαρτύρων σου, πᾶσα ἡ Κτίσις ἑορτάζει, οἱ οὐρανοὶ ἀγάλλονται σὺν τοῖς Ἀγγέλοις, καὶ ἡ γῆ εὐφραίνεται σὺν τοῖς ἀνθρώποις· Αὐτῶν ταῖς παρακλήσεσιν, ἐλέησον ἡμᾶς."
 
 trMA.AposTheotokion.mode = misc_gr_GR_cog.Mode6
-trMA.AposTheotokion.melody  = ""
+trMA.AposTheotokion.melody = ""
 trMA.AposTheotokion.text = "Ἀρχαγγελικὸν λόγον ὑπεδέξω, καὶ Χερουβικὸς θρόνος ἀνεδείχθης, καὶ ἐν ἀγκάλαις σου ἐβάστασας Θεοτόκε, τὴν ἐλπίδα τῶν ψυχῶν ἡμῶν."
 
 trTE.Troparion.mode = misc_gr_GR_cog.Mode7
-trTE.Troparion.melody  = ""
+trTE.Troparion.melody = ""
 trTE.Troparion.text = "Κύριε μὴ τῷ θυμῷ σου ἐλέγξῃς, λαὸν ἡμαρτηκότα, μηδὲ τῇ ὀργῇ σου παιδεύσῃς ἡμᾶς, ἀγαθὸς ὑπάρχων· Σὲ γὰρ δοξάζει πᾶσα ἡ γῆ, καὶ δεόμεθα· Φεῖσαι ἡμῶν Ἅγιε."
-trTE.Troparion2.text = ""
+trTE.Troparion2.text = "Σὲ γὰρ δοξάζει πᾶσα ἡ γῆ, καὶ δεόμεθα· Φεῖσαι ἡμῶν Ἅγιε."

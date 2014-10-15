@@ -1,15 +1,15 @@
 A_Resource_Whose_Name = me.m04.d02_gr_GR_cog
 
 meDate.text = "Τῌ Βʹ ΑΠΡΙΛΙΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "Μνήμη τοῦ Ὁσίου Πατρὸς ἡμῶν καὶ θαυματουργοῦ Τίτου." //full title of day
+meCommemoration.text = "Μνήμη τοῦ Ὁσίου Πατρὸς ἡμῶν καὶ θαυματουργοῦ Τίτου." // full title of day
 meShortCommemoration1.text = ""
-meInsert1 = "καὶ τοῦ ὁσίου καὶ θεοφόρου πατρὸς ἡμῶν Τίτου τοῦ θαυματουργοῦ," //for use in petitions and dismissal
-meInsert2 = "οὗ καὶ τὴν μνήμην ἐπιτελοῦμεν·" //for use in petitions and dismissal
+meInsert1 = "καὶ τοῦ ὁσίου καὶ θεοφόρου πατρὸς ἡμῶν Τίτου τοῦ θαυματουργοῦ," // for use in petitions and dismissal
+meInsert2 = "οὗ καὶ τὴν μνήμην ἐπιτελοῦμεν·" // for use in petitions and dismissal
 meNote.text = ""
 meLE.commemoration1 = "Μνήμη τοῦ Ὁσίου Πατρὸς ἡμῶν καὶ θαυματουργοῦ Τίτου."
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -24,7 +24,7 @@ meVE.Stichera02.text = "Τίτε παμμάκαρ Πατὴρ ἡμῶν, ἀ�
 
 meVE.Stichera03.mode = misc_gr_GR_cog.Mode8
 meVE.Stichera03.melody = he.a.m8_gr_GR_cog.OTouParadoxou.name
-meVE.Stichera03.text = "Ὅσιε Τίτε θόπνευστε, Ὀρθοδοξίας φωτί, τὴν ψυχὴν λαμπρυνόμενος, σκοτεινῆς αἱρέσεως, τὴν ἀχλὺν ἀπεμείωσας, καὶ ἀνατείλας ὡς φαεινότατος, ἀστὴρ φωτίζεις κόσμου τὰ πέρατα, θαυματουργίαις σου, σελασφόροις πάντοτε· ὅθεν πιστῶς πάντες σε γεραίρομεν, καὶ μακαρίζομεν."
+meVE.Stichera03.text = "Ὅσιε Τίτε θόπνευστε, Ὀρθοδοξίας φωτί, τὴν ψυχὴν λαμπρυνόμενος, σκοτεινῆς αἱρέσεως, τὴν ἀχλὺν ἀπεμείωσας, καὶ ἀνατείλας ὡς φαεινότατος, ἀστὴρ φωτίζεις κόσμου τὰ πέρατα, θαυματουργίαις σου, σελασφόροις πάντοτε· ὅθεν πιστῶς, πάντες σε γεραίρομεν, καὶ μακαρίζομεν."
 
 meVE.SticTheotokion.mode = misc_gr_GR_cog.Mode8
 meVE.SticTheotokion.melody = he.a.m8_gr_GR_cog.OTouParadoxou.name
@@ -211,7 +211,7 @@ meMA.Kontakion1.mode = misc_gr_GR_cog.Mode4
 meMA.Kontakion1.melody = he.a.m4_gr_GR_cog.EpefanisSimeron.name
 meMA.Kontakion1.text = "Ἐγκρατείας ἄνθραξι σαυτὸν καθάρας, ἀρετῶν ἐξήστραψας, φωτοειδεῖς μαρμαρυγάς, καταφαιδρύνων τοὺς ψάλλοντας· χαίροις ὦ Τίτε, Πατέρων ἀγλάϊσμα."
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C1H.ode = misc_gr_GR_cog.Ode7
 meMA.Ode7C1H.mode = misc_gr_GR_cog.Mode8
@@ -304,10 +304,10 @@ meMA.Ode9C1T.melody = he.h.m8_gr_GR_cog.TinAgninEndoxos.name
 meMA.Ode9C1T.text = "Ὁ ἐν σοὶ σκηνώσας Πανάμωμε, τὸν πρὶν τοὺς γενάρχας, κακοτρόπως πτερνίσαντα, βροτοκτόνον καταβαλὼν ἐτέχθη, καὶ πάντας ἡμᾶς ἔσωσεν."
 
 meLI.SeasonalKontakion.mode = misc_gr_GR_cog.Mode2
-meLI.SeasonalKontakion.melody  = ""
+meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = ho.s07_gr_GR_cog.hoTY.Key0408.text
 
-meLI.Alleluia.mode  = ""
+meLI.Alleluia.mode = ""
 
 meLI.AlleluiaVerse1.text = ""
 

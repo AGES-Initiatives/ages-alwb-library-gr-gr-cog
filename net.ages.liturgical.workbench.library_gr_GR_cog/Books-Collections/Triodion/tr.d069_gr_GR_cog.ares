@@ -321,10 +321,7 @@ trHW.BeatitudesT.mode = misc_gr_GR_cog.Mode4
 trHW.BeatutidesT.melody = he.a.m4_gr_GR_cog.DiaXylouOAdam.name
 trHW.BeatitudesT.text = "Τὴν Μητέρα σου Χριστέ, τὴν ἐν σαρκὶ ἀσπόρως τεκοῦσάν σε, καὶ Παρθένον ἀληθῶς, καὶ μετὰ τόκον μείνασαν ἄφθορον, αὐτήν σοι προσάγομεν, εἰς πρεσβείαν Δέσποτα πολυέλεε, πταισμάτων συγχώρησιν, δωρήσασθαι πάντοτε, τοῖς κραυγάζουσι· Μνήσθητι καὶ ἡμῶν Σωτήρ, ἐν τῇ Βασιλείᾳ σου."
 
-trHW.Prokeimenon.mode = misc_gr_GR_cog.Mode4
-trHW.Prokeimenon.text = "Διεμερίσαντο τὰ ἱμάτιά μου ἑαυτοῖς, καὶ ἐπὶ τὸν ἱματισμόν μου ἔβαλον κλῆρον."
-
-trHW.ProkeimenonVerse1.text = "Ὁ Θεὸς ὁ Θεός μου, πρόσχες μοι, ἵνα τί ἐγκατέλιπές με."
+trHW.Prokeimenon.text = "" //for media
 
 trMA.C1Poet = poets_gr_GR_cog.KosmaMonachou
 trMA.C1Acrostic.text = "οὗ ἡ Ἀκροστιχίς· Προσάββατόν τε."
@@ -501,13 +498,9 @@ trH1.Idiomelon1.mode = misc_gr_GR_cog.Mode8
 trH1.Idiomelon1.melody  = ""
 trH1.Idiomelon1.text = trHW.Antiphon122.text
 
-trH1.Verse2.text = "Ἵνα τί ἐφρύαξαν ἔθνη, καὶ λαοὶ ἐμελέτησαν κενὰ;"
-
 trH1.Idiomelon2.mode = misc_gr_GR_cog.Mode8
 trH1.Idiomelon2.melody  = ""
 trH1.Idiomelon2.text = "Ὡς πρόβατον ἐπὶ σφαγήν, ἤχθης Χριστὲ Βασιλεῦ, καὶ ὡς ἀμνὸς ἄκακος, προσηλώθης τῷ σταυρῷ, ὑπὸ τῶν παρανόμων ἀνδρῶν, διὰ τὰς ἁμαρτίας ἡμῶν φιλάνθρωπε."
-
-trH1.Verse3.text = "Παρέστησαν οἱ βασιλεῖς τῆς γῆς, καὶ οἱ ἄρχοντες συνήχθησαν ἐπὶ τὸ αὐτό, κατὰ τοῦ Κυρίου καὶ κατὰ τοῦ Χριστοῦ αὐτοῦ."
 
 trH1.Idiomelon3.mode = misc_gr_GR_cog.Mode8
 trH1.Idiomelon3.melody  = ""
@@ -528,13 +521,9 @@ trH3.Idiomelon1.mode = misc_gr_GR_cog.Mode8
 trH3.Idiomelon1.melody = misc_gr_GR_cog.Idiomelon
 trH3.Idiomelon1.text = "Διὰ τὸν φόβον τῶν Ἰουδαίων, ὁ φίλος σου καὶ ὁ πλησίον Πέτρος, ἠρνήσατό σε Κύριε, καὶ ὀδυρόμενος οὕτως ἐβόα· Τῶν δακρύων μου μὴ παρασιωπήσῃς· εἶπα γὰρ φυλάξαι τὴν πίστιν οἰκτίρμον, καὶ οὐκ ἐφύλαξα. Καὶ ἡμῶν τὴν μετάνοιαν, οὕτω δέξαι, καὶ ἐλέησον ἡμᾶς."
 
-trH3.Verse2.text = "Τὰ ῥήματά μου ἐνώτισαι, Κύριε, σύνες τῆς κραυγῆς μου."
-
 trH3.Idiomelon2.mode = misc_gr_GR_cog.Mode8
 trH3.Idiomelon2.melody = misc_gr_GR_cog.Idiomelon
 trH3.Idiomelon2.text = "Πρὸ τοῦ τιμίου σου Σταυροῦ, στρατιωτῶν ἐμπαιζόντων σε Κύριε, αἱ νοεραὶ στρατιαὶ κατεπλήττοντο· ἀνεδήσω γὰρ στέφανον ὕβρεως, ὁ τὴν γῆν ζωγραφήσας τοῖς ἄνθεσι, καὶ τὴν χλαῖναν χλευαζόμενος ἐφόρεσας, ὁ νεφέλαις περιβάλλων τὸ στερέωμα· τοιαύτῃ γὰρ οἰκονομίᾳ ἐγνώσθη σου ἡ εὐσπλαγχνία, Χριστέ, τὸ μέγα ἔλεος, δόξα σοι."
-
-trH3.Verse3.text = "Πρόσχες τῇ φωνῇ τῆς δεήσεώς μου, ὁ Βασιλεύς μου καὶ ὁ Θεός μου."
 
 trH3.Idiomelon3.mode = misc_gr_GR_cog.Mode5
 trH3.Idiomelon3.melody = misc_gr_GR_cog.Idiomelon
@@ -555,13 +544,9 @@ trH6.Idiomelon1.mode = misc_gr_GR_cog.Mode8
 trH6.Idiomelon1.melody = misc_gr_GR_cog.Idiomelon
 trH6.Idiomelon1.text = trHW.Antiphon121.text
 
-trH6.Verse2.text = "Ἔδωκαν εἰς τὸ βρῶμά μου χολήν, καὶ εἰς τὴν δίψαν μου ἐπότισάν με ὄξος."
-
 trH6.Idiomelon2.mode = misc_gr_GR_cog.Mode8
 trH6.Idiomelon2.melody = misc_gr_GR_cog.Idiomelon
 trH6.Idiomelon2.text = trHW.Antiphon123.text
-
-trH6.Verse3.text = "Σῶσόν με ὁ Θεός, ὅτι εἰσήλθοσαν ὕδατα ἕως ψυχῆς μου."
 
 trH6.Idiomelon3.mode = misc_gr_GR_cog.Mode5
 trH6.Idiomelon3.melody = misc_gr_GR_cog.Idiomelon
@@ -582,13 +567,9 @@ trH9.Idiomelon1.mode = misc_gr_GR_cog.Mode7
 trH9.Idiomelon1.melody = misc_gr_GR_cog.Idiomelon
 trH9.Idiomelon1.text = "Θάμβος ἦν κατιδεῖν, τὸν οὐρανοῦ καὶ γῆς Ποιητήν, ἐπὶ Σταυροῦ κρεμάμενον, ἥλιον σκοτισθέντα, τὴν ἡμέραν δὲ πάλιν εἰς νύκτα μετελθοῦσαν, καὶ τὴν γῆν ἐκ τάφων ἀναπέμπουσαν, σώματα νεκρῶν· μεθ' ὧν προσκυνοῦμέν σε· σῶσον ἡμᾶς. "
 
-trH9.Verse2.text = "Διεμερίσαντο τὰ ἱμάτιά μου ἑαυτοῖς, καὶ ἐπὶ τὸν ἱματισμόν μου ἔβαλον κλῆρον."
-
 trH9.Idiomelon2.mode = misc_gr_GR_cog.Mode2
 trH9.Idiomelon2.melody = misc_gr_GR_cog.Idiomelon
 trH9.Idiomelon2.text = "Ὅτε σὲ Σταυρῷ προσήλωσαν παράνομοι, τὸν Κύριον τῆς δόξης, ἐβόας πρὸς αὐτούς· τί ὑμᾶς ἐλύπησα; ἢ ἐν τίνι παρώργισα; πρὸ ἐμοῦ, τίς ὑμᾶς ἐρρύσατο ἐκ θλίψεως; καὶ νῦν, τί μοι ἀνταποδίδοτε; πονηρὰ ἀντὶ ἀγαθῶν, ἀντὶ στύλου πυρὸς Σταυρῷ με προσηλώσατε, ἀντὶ νεφέλης, τάφον μοι ὠρύξατε, ἀντὶ τοῦ μάννα, χολὴν μοι προσηνέγκατε, ἀντὶ τοῦ ὕδατος, ὄξος με ἐποτίσατε. Λοιπὸν καλῶ τὰ ἔθνη, κᾀκεῖνά με δοξάσουσι, σὺν Πατρὶ καὶ ἁγίῳ Πνεύματι."
-
-trH9.Verse3.text = "Ἔδωκαν εἰς τὸ βρῶμά μου χολήν, καὶ εἰς τὴν δίψαν μου ἐπότισάν με ὄξος."
 
 trH9.Idiomelon3.rubric = "Ὁ Ἀναγνώστης, στὰς εἰς τὸ μέσον τοῦ Ναοῦ, ἐνώπιον τοῦ Ἐσταυρωμένου καὶ βλέπων πρὸς ἀνατολάς, ἀναγινώσκει εὐλαβῶς καὶ κατὰ τὸ ὕφος τοῦ Ἀποστόλου τὸ Ἰδιόμελον. Εἶτα ψάλλεται ὑπ' ἀμφοτέρων τῶν Χορῶν κατὰ Στίχον."
 trH9.Idiomelon3.mode = misc_gr_GR_cog.Mode6

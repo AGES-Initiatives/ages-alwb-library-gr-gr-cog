@@ -339,9 +339,9 @@ peMA.LaudsGlory.mode = misc_gr_GR_cog.Mode6
 peMA.LaudsGlory.melody = misc_gr_GR_cog.Idiomelon
 peMA.LaudsGlory.text = "Μεθ' ἡμέρας ὀκτὼ τῆς Ἐγέρσεώς σου Ἰησοῦ βασιλεῦ, μονογενὲς Λόγε τοῦ Πατρός, ὤφθης τοῖς Μαθηταῖς σου, κεκλεισμένων τῶν θυρῶν, τὴν εἰρήνην σου παρεχόμενος, καὶ τῷ ἀπιστοῦντι Μαθητῇ τοὺς τύπους ἔδειξας. Δεῦρο ψηλάφησον τὰς χεῖρας, καὶ τοὺς πόδας, καὶ τὴν ἀκήρατόν μου πλευράν, ὁ δὲ πεισθεὶς ἐβόα σοι· ὁ Κύριός μου καὶ ὁ Θεός μου, δόξα σοι."
 
-peLI.SeasonalKontakion.mode = misc_gr_GR_cog.Mode8
+peLI.SeasonalKontakion.mode = pe.d00P_gr_GR_cog.pePA.Kontakion.mode
 peLI.SeasonalKontakion.melody  = ""
-peLI.SeasonalKontakion.text = peMA.Kontakion1.text
+peLI.SeasonalKontakion.text = pe.d00P_gr_GR_cog.pePA.Kontakion.text
 
 peLI.TheotokosHymn.mode = misc_gr_GR_cog.Mode1
 peLI.TheotokosHymn.text = peMA.Ode9C1H.text

@@ -2,8 +2,8 @@ A_Resource_Whose_Name = pe.d085_gr_GR_cog
 
 peCommemoration.text = "ΚΥΡΙΑΚΗ ΤΩΝ ΑΓΙΩΝ ΜΥΡΟΦΟΡΩΝ ΓΥΝΑΙΚΩΝ ΚΑΙ ΙΩΣΗΦ ΤΟΥ ΔΙΚΑΙΟΥ" //full title of day
 peShortCommemoration1.text = "Κυριακὴ τῶν Μυροφόρων"
-peInsert1 = "" //for use in petitions and dismissal
-peInsert2 = "" //for use in petitions and dismissal
+peInsert1 = "τῶν ἁγίων Μυροφόρων, καὶ Ἰωσὴφ τοῦ ἐξ Ἀριμαθαίας, καὶ τοῦ νυκτερινοῦ μαθητοῦ Νικοδήμου," //for use in petitions and dismissal
+peInsert2 = "ὧν καὶ τὴν μνήμην ἐπιτελοῦμεν," //for use in petitions and dismissal
 peNote.text = ""
 peDismissal = dismissals_gr_GR_cog.dis00.resurrection
 
@@ -568,9 +568,9 @@ peMA.LaudsGlory.mode = misc_gr_GR_cog.Mode2
 peMA.LaudsGlory.melody = misc_gr_GR_cog.Idiomelon
 peMA.LaudsGlory.text = eo.e02_gr_GR_cog.eo.Doxasticon.text
 
-peLI.SeasonalKontakion.mode = misc_gr_GR_cog.Mode2
+peLI.SeasonalKontakion.mode = pe.d00P_gr_GR_cog.pePA.Kontakion.mode
 peLI.SeasonalKontakion.melody  = ""
-peLI.SeasonalKontakion.text = peMA.Kontakion1.text
+peLI.SeasonalKontakion.text = pe.d00P_gr_GR_cog.pePA.Kontakion.text
 
 peLI.TheotokosHymn.mode = misc_gr_GR_cog.Mode1
 peLI.TheotokosHymnVerse.text = pe.d00P_gr_GR_cog.pePA.Ode9MKa.text

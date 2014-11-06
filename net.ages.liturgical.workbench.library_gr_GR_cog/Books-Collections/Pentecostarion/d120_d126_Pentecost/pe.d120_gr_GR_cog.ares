@@ -537,17 +537,16 @@ peMA.LaudsGlory.text = prayers_gr_GR_cog.VasilefOuranie.text
 
 peLI.Antiphon2.text = "Σῶσον ἡμᾶς, Παράκλητε ἀγαθέ,"
 
-peLI.EntranceHymn.text = "Ὑψώθητι, Κύριε, ἐν τῇ δυνάμει σου, ᾄσωμεν καὶ ψαλοῦμεν τὰς δυναστείας σου."
+peLI.EntranceHymn.text = "" //for media
 
-peLI.SeasonalKontakion.mode = misc_gr_GR_cog.Mode8
+peLI.SeasonalKontakion.mode = peMA.Kontakion1.mode
 peLI.SeasonalKontakion.melody  = ""
 peLI.SeasonalKontakion.text = peMA.Kontakion1.text
 
-peLI.TheotokosHymn.mode = misc_gr_GR_cog.Mode7
+peLI.TheotokosHymn.mode = peMA.Ode9C1H.mode
 peLI.TheotokosHymn.text = peMA.Ode9C1H.text
 
-peLI.CommunionHymn.text = "Τὸ Πνεῦμά σου τὸ ἀγαθὸν ὁδηγήσει με ἐν γῇ εὐθείᾳ. Ἀλληλούϊα."
+peLI.CommunionHymn.text = "" //for media
 
-peLI.AfterCommunion.mode = misc_gr_GR_cog.Mode8
+peLI.AfterCommunion.mode = peVE.Apolytikion1.mode
 peLI.AfterCommunion.text = peVE.Apolytikion1.text
-

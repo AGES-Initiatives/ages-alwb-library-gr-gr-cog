@@ -600,38 +600,20 @@ peMA.LaudsGlory.mode = misc_gr_GR_cog.Mode2
 peMA.LaudsGlory.melody = misc_gr_GR_cog.Idiomelon
 peMA.LaudsGlory.text = peVE.Aposticha1.text
 
-peLI.Antiphon1Verse1.text = "Πάντα τὰ ἔθνη κροτήσατε χεῖρας ἀλαλάξατε τῷ Θεῷ ἐν φωνῇ ἀγαλλιάσεως."
-
-peLI.Antiphon1Verse2.text = "Ὅτι Κύριος ὕψιστος, φοβερός, βασιλεὺς μέγας ἐπὶ πᾶσαν τὴν γῆν."
-
-peLI.Antiphon1Verse3.text = "Ὑπέταξας λαοὺς ἡμῖν, καὶ ἔθνη ὑπὸ τοὺς πόδας ἡμῶν."
-
-peLI.Antiphon2Verse1.text = "Μέγας Κύριος, καὶ αἰνετὸς σφόδρα."
-
-peLI.Antiphon2Verse2.text = "Ὅ Θεὸς ἐν ταῖς βάρεσιν αὐτῆς γινώσκεται."
-
-peLI.Antiphon2Verse3.text = "Ὅτι ἰδοὺ οἱ βασιλεῖς τῆς γῆς συνήχθησαν."
-
 peLI.Antiphon2.text = "ὁ ἐν δόξῃ ἀναληφθεὶς ἀφ' ἡμῶν εἰς τοὺς οὐρανούς,"
 
-peLI.Antiphon3Verse1.text = "Ἀκούσατε ταῦτα πάντα τὰ ἔθνη."
+peLI.EntranceHymn.text = "" //for media
 
-peLI.Antiphon3Verse2.text = "Τὸ στόμα μου λαλήσει σοφίαν, καὶ ἡ μελέτη τῆς καρδίας μου σύνεσιν."
-
-peLI.Antiphon3Verse3.text = "Κλινῶ εἰς παραβολὴν τὸ οὖς μου, ἀνοίξω ἐν ψαλτηρίῳ τὸ πρόβλημά μου."
-
-peLI.EntranceHymn.text = "Ἀνέβη ὁ Θεὸς ἐν ἀλαλαγμῷ, Κύριος ἐν φωνῇ σάλπιγγος."
-
-peLI.SeasonalKontakion.mode = misc_gr_GR_cog.Mode6
-peLI.SeasonalKontakion.melody = misc_gr_GR_cog.Automelon
+peLI.SeasonalKontakion.mode = peMA.Kontakion1.mode
+peLI.SeasonalKontakion.melody = peMA.Kontakion1.melody
 peLI.SeasonalKontakion.text = peMA.Kontakion1.text
 
-peLI.TheotokosHymn.mode = misc_gr_GR_cog.Mode5
+peLI.TheotokosHymn.mode = peMA.Ode9C1H.mode
 peLI.TheotokosHymn.text = peMA.Ode9C1H.text
 
-peLI.CommunionHymn.text = "Ἀνέβη ὁ Θεὸς ἐν ἀλαλαγμῷ, Κύριος ἐν φωνῇ σάλπιγγος. Ἀλληλούϊα."
+peLI.CommunionHymn.text = "" //for media
 
-peLI.AfterCommunion.mode = misc_gr_GR_cog.Mode4
+peLI.AfterCommunion.mode = peVE.Apolytikion1.mode
 peLI.AfterCommunion.text = peVE.Apolytikion1.text
 
 peMegalynarion.text = ""

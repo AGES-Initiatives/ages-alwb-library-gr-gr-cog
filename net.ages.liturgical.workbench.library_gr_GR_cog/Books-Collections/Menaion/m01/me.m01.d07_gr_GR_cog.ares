@@ -334,17 +334,11 @@ meLI.SeasonalKontakion.mode = misc_gr_GR_cog.Mode4
 meLI.SeasonalKontakion.melody = misc_gr_GR_cog.Automelon
 meLI.SeasonalKontakion.text = me.m01.d06_gr_GR_cog.meMA.Kontakion1.text
 
-meLI.Alleluia.mode = misc_gr_GR_cog.Mode4
-
-meLI.AlleluiaVerse1.text = "Δίκαιος ὡς φοίνιξ ἀνθήσει καὶ ὡσεὶ κέδρος ἡ ἐν τῷ Λιβάνῳ πληθυνθήσεται."
-
-meLI.AlleluiaVerse2.text = "Πεφυτευμένοι ἐν τῷ οἴκῳ Κυρίου, ἐν ταῖς αὐλαῖς τοῦ Θεοῦ ἡμῶν ἐξανθήσουσιν."
-
-meLI.TheotokosHymn.mode = misc_gr_GR_cog.Mode2
+meLI.TheotokosHymn.mode = me.m01.d06_gr_GR_cog.meMA.Ode9C2H.mode
 meLI.TheotokosHymnVerse.text = me.m01.d06_gr_GR_cog.meMA.Ode9C2MTh.text
 meLI.TheotokosHymn.text = me.m01.d06_gr_GR_cog.meMA.Ode9C2H.text
 
-meLI.CommunionHymn.text = da.d3_gr_GR_cog.daLI.CommunionHymn.text
+meLI.CommunionHymn.text = "" //for media
 
 meMegalynarion.text = ""
 

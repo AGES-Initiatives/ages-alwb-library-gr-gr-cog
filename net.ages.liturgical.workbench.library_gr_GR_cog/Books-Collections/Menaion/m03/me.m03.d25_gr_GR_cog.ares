@@ -418,41 +418,19 @@ meMA.LaudsSundayVerse1.text = ""
 
 meMA.LaudsSundayVerse2.text = ""
 
-meLI.Antiphon1Verse1.text = "Ὁ Θεὸς τὸ κρῖμά σου τῷ Βασιλεῖ δός, καὶ τὴν δικαιοσύνην σου τῷ υἱῷ τοῦ βασιλέως."
-
-meLI.Antiphon1Verse2.text = "Ἀναλαβέτω τὰ ὄρη εἰρήνην τῷ λαῷ, καὶ οἱ βουνοὶ δικαιοσύνην."
-
-meLI.Antiphon1Verse3.text = "Εὐαγγελίζεσθε ἡμέραν ἐξ ἡμέρας, τὸ σωτήριον τοῦ Θεοῦ ἡμῶν."
-
-meLI.Antiphon1Verse4.text = "Ὤμοσε Κύριος τῷ Δαυῒδ ἀλήθειαν καὶ οὐ μὴ ἀθετήσει αὐτήν."
-
-meLI.Antiphon2Verse1.text = "Καταβήσεται ὡς ὑετὸς ἐπὶ πόκον, καὶ ὡσεὶ σταγὼν ἡ στάζουσα ἐπὶ τὴν γῆν."
-
-meLI.Antiphon2Verse2.text = "Ἡγίασε τὸ σκήνωμα αὐτοῦ ὁ Ὕψιστος."
-
-meLI.Antiphon2Verse3.text = "Ὁ Θεὸς ἐμφανῶς ἥξει, ὁ Θεὸς ἡμῶν καὶ οὐ παρασιωπήσεται."
-
-meLI.Antiphon2Verse4.text = "Ἀνατελεῖ ἐν ταῖς ἡμέραις αὐτοῦ δικαιοσύνη, καὶ πλῆθος εἰρήνης."
-
 meLI.Antiphon2.text = "ὁ δι' ἡμᾶς σαρκωθείς,"
 
-meLI.Antiphon3Verse1.text = "Ἔσται τὸ ὄνομα αὐτοῦ εὐλογημένον εἰς τοὺς αἰῶνας."
-
-meLI.Antiphon3Verse2.text = "Εὐλογητὸς Κύριος ὁ Θεὸς τοῦ Ἰσραήλ, ὁ ποιῶν θαυμάσια μόνος."
-
-meLI.Antiphon3Verse3.text = "Εὐλογημένον τὸ ὄνομα αὐτοῦ εἰς τὸν αἰῶνα, καὶ εἰς τὸν αἰῶνα τοῦ αἰῶνος."
-
-meLI.EntranceHymn.text = "Εὐαγγελίζεσθε ἡμέραν ἐξ ἡμέρας τὸ σωτήριον τοῦ Θεοῦ ἡμῶν."
+meLI.EntranceHymn.text = "" //for media
 
 meLI.SeasonalKontakion.mode = misc_gr_GR_cog.Mode8
 meLI.SeasonalKontakion.melody = misc_gr_GR_cog.Automelon
 meLI.SeasonalKontakion.text = he.a.m8_gr_GR_cog.TiYpermacho.text
 
-// need to add megaynarion verse
-meLI.TheotokosHymn.mode = misc_gr_GR_cog.Mode4
-meLI.TheotokosHymn.text = he.h.m4_gr_GR_cog.OsEmpsychoTheouKivoto.text
+meLI.TheotokosHymn.mode = meMA.Ode9C1H.mode 
+meLI.TheotokosHymnVerse.text = meMA.Ode9C1M01.text
+meLI.TheotokosHymn.text = meMA.Ode9C1H.text
 
-meLI.CommunionHymn.text = "Ἐξελέξατο Κύριος τὴν Σιών, ᾑρετίσατο αὐτὴν εἰς κατοικίαν ἑαυτῷ. Ἀλληλούϊα."
+meLI.CommunionHymn.text = ""//for media
 
 meMegalynarion.text = ""
 

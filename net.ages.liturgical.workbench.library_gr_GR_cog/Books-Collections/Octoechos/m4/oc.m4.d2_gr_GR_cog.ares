@@ -501,11 +501,11 @@ ocLI.BeatitudesBoth.text = "Ἁμαρτάνοντα ἀεί, καὶ ῥαθυ
 //Octoechos in Triodion
 
 octrVE.Stichera1.mode = misc_gr_GR_cog.Mode4
-octrVE.Stichera1.melody  = ""
+octrVE.Stichera1.melody  = ocVE.Aposticha1.melody
 octrVE.Stichera1.text = ocVE.Aposticha1.text
 
 octrVE.Stichera2.mode = misc_gr_GR_cog.Mode4
-octrVE.Stichera2.melody  = ""
+octrVE.Stichera2.melody  = ocVE.Aposticha2.melody
 octrVE.Stichera2.text = ocVE.Aposticha2.text
 
 octrVE.Stichera3.mode = misc_gr_GR_cog.Mode4

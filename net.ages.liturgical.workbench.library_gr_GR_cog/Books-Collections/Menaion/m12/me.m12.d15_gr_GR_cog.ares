@@ -66,8 +66,31 @@ meVE.Apolytikion1.mode = misc_gr_GR_cog.Mode5
 meVE.Apolytikion1.melody = he.a.m5_gr_GR_cog.TonSynanarchonLogon.name
 meVE.Apolytikion1.text = "Ἱερέων ποδήρει κατακοσμούμενος, καὶ αἱμάτων τοῖς ῥείθροις ἐπισταζόμενος, τῷ Δεσπότῃ σου Χριστῷ μάκαρ ἀνέδραμες, Ἐλευθέριε σοφέ, καθαιρέτα τοῦ Σατᾶν. Διὸ μὴ παύσῃ πρεσβεύων, ὑπὲρ τῶν πίστει τιμώντων, τὴν μακαρίαν σου ἄθλησιν."
 
-meMA.C1Acrostic.text = "Ὁ παρὼν φέρει Ἀκροστιχίδα· Παθῶν ἐλεύθερόν με δεῖξον παμμάκαρ. Ἰωσήφ."
+meMA.Kathisma11.mode  = misc_gr_GR_cog.Mode4
+meMA.Kathisma11.melody  = he.a.m4_gr_GR_cog.OYpsotheisEnToStavro.name
+meMA.Kathisma11.text = "Σοῦ τὸν Σωτῆρα ὁλικῶς ἀγαπήσας * τὸν ἐπὶ ξύλου διὰ σὲ τανυθέντα * τοὺς τψραννοῦντας ἤνεγας, * στερρέ, καρτερῶς, * πλάνην τὴν καχέσπερον * νουνεχῶς ἀποκλίνας· * ὅθεν, Ἐλευθέριε, * καὶ αὐτός σε δοξάζει * ἐν οὐρανοῖς ἀξίως καὶ ἐν γῇ· * διὸ καὶ σκέπεις * τοὺς σὲ ἑορτάζοντας."
 
+meMA.Kathisma12.mode  = misc_gr_GR_cog.Mode4
+meMA.Kathisma12.melody  = he.a.m4_gr_GR_cog.TachyProkatalave.name
+meMA.Kathisma12.text = me.m12.d21_gr_GR_cog.meMA.Ode3Kathisma3.text
+
+meMA.Kathisma21.mode  = misc_gr_GR_cog.Mode1
+meMA.Kathisma21.melody  = he.a.m1_gr_GR_cog.TonTafonSouSotir.name
+meMA.Kathisma21.text = "Ἐκπλήττει πάντα νοῦν * τῶν μαρτύρων τὸ θαῦμα, * πῶς ἴσχυσεν ἡ σὰρξ * ἐνεγκεῖν φρικτὰ πάθη· * ἐν πᾶσι δὲ διέπρεψας * σύ, στερρέ, ὥς τις ἄσαρκος, * Ἐλευθέριε, * ἰσχὺν λαβὼν ἀπὸ ὕψους * κατευμεγεθεῖν * τῶν δριμυτάτων βασάνων· * διό σε δοξάζομεν."
+
+meMA.Kathisma22.mode  = misc_gr_GR_cog.Mode1
+meMA.Kathisma22.melody  = he.a.m1_gr_GR_cog.TonTafonSouSotir.name
+meMA.Kathisma22.text = me.m12.d20_gr_GR_cog.meMA.Kathisma11.text
+
+meMA.Kathisma31.mode  = misc_gr_GR_cog.Mode3
+meMA.Kathisma31.melody  = he.a.m3_gr_GR_cog.TheiasPisteos.name
+meMA.Kathisma31.text = "Πᾶσαν ἔφρανας * ἱερωσύνην * καὶ σῷ αἵματι * τὴν Ἐκκλησίαν, * ἱερομάρτυς σοφὲ Ἐλευθέριε· * ἐν γὰρ τῇ Ῥώμῃ τὸ χρῖσμά σοι δέδοται * καὶ τὸ σὸν αἷμα ἐν ταύτῃ ἐξέχεας· * Παύλου μέτοχε, * Χριστὸν τὸν Θεὸν ἱκέτευε * δωρήσασθαι ἡμῖν τὸ μέγα ἔλεος."
+
+meMA.Kathisma32.mode  = misc_gr_GR_cog.Mode3
+meMA.Kathisma32.melody  = he.a.m3_gr_GR_cog.TinOraiotita.name
+meMA.Kathisma32.text = me.m12.d20_gr_GR_cog.meMA.Ode3Kathisma3.text
+
+meMA.C1Acrostic.text = "Ὁ παρὼν φέρει Ἀκροστιχίδα· Παθῶν ἐλεύθερόν με δεῖξον παμμάκαρ. Ἰωσήφ."
 meMA.C2Acrostic.text = "οὗ ἡ Ἀκροστιχίς· Θεῖον Ἐλευθέριον ἱερῆα τιμάω, Πάτερ."
 
 meMA.Ode1C11.ode = misc_gr_GR_cog.Ode1

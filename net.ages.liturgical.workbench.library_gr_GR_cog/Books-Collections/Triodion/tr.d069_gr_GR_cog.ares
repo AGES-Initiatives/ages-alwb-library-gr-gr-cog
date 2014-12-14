@@ -346,11 +346,11 @@ trMA.Ode5K.mode = misc_gr_GR_cog.Mode6
 trMA.Ode5K.melody = misc_gr_GR_cog.Heirmos
 trMA.Ode5K.text = he.h.m6_gr_GR_cog.ProsSeOrthrizo.text
 
-trMA.Kontakion.mode = misc_gr_GR_cog.Mode8
-trMA.Kontakion.melody  = ""
-trMA.Kontakion.text = "Τὸν δι' ἡμᾶς σταυρωθέντα, δεῦτε πάντες ὑμνήσωμεν· αὐτὸν γὰρ κατεῖδε Μαρία ἐπὶ τοῦ ξύλου, καὶ ἔλεγεν· Εἰ καὶ σταυρὸν ὑπομένεις, σὺ ὑπάρχεις ὁ Υἱὸς καὶ Θεός μου."
+trMA.Kontakion1.mode = misc_gr_GR_cog.Mode8
+trMA.Kontakion1.melody  = ""
+trMA.Kontakion1.text = "Τὸν δι' ἡμᾶς σταυρωθέντα, δεῦτε πάντες ὑμνήσωμεν· αὐτὸν γὰρ κατεῖδε Μαρία ἐπὶ τοῦ ξύλου, καὶ ἔλεγεν· Εἰ καὶ σταυρὸν ὑπομένεις, σὺ ὑπάρχεις ὁ Υἱὸς καὶ Θεός μου."
 
-trMA.Oikos.text = "Τὸν ἴδιον Ἄρνα, ἡ ἀμνὰς θεωροῦσα πρὸς σφαγὴν ἑλκόμενον, ἠκολούθει Μαρία, τρυχομένη μεθ' ἑτέρων γυναικῶν, ταῦτα βοῶσα· Ποῦ πορεύῃ Τέκνον, τίνος χάριν, τόν ταχὺν δρόμον τελεῖς; μὴ ἕτερος γάμος πάλιν ἐστὶν ἐν Κανᾷ; Κᾀκεὶ νῦν σπεύδεις, ἵνα ἐξ ὕδατος αὐτοῖς οἶνον ποιήσης; συνέλθω σοι Τέκνον, ἢ μείνω σοι μᾶλλον; δός μοι λόγον Λόγε, μὴ σιγῶν παρέλθῃς με, ὁ ἁγνὴν τηρήσας με· σὺ γὰρ ὑπάρχεις ὁ Υἱὸς καὶ Θεός μου."
+trMA.Oikos1.text = "Τὸν ἴδιον Ἄρνα, ἡ ἀμνὰς θεωροῦσα πρὸς σφαγὴν ἑλκόμενον, ἠκολούθει Μαρία, τρυχομένη μεθ' ἑτέρων γυναικῶν, ταῦτα βοῶσα· Ποῦ πορεύῃ Τέκνον, τίνος χάριν, τόν ταχὺν δρόμον τελεῖς; μὴ ἕτερος γάμος πάλιν ἐστὶν ἐν Κανᾷ; Κᾀκεὶ νῦν σπεύδεις, ἵνα ἐξ ὕδατος αὐτοῖς οἶνον ποιήσης; συνέλθω σοι Τέκνον, ἢ μείνω σοι μᾶλλον; δός μοι λόγον Λόγε, μὴ σιγῶν παρέλθῃς με, ὁ ἁγνὴν τηρήσας με· σὺ γὰρ ὑπάρχεις ὁ Υἱὸς καὶ Θεός μου."
 
 trMA.Synaxarion1.Com = "Τῇ ἁγίᾳ καὶ μεγάλῃ Παρασκευῇ, τὰ ἅγια καὶ σωτήρια καὶ φρικτὰ Πάθη τοῦ Κυρίου καὶ Θεοῦ καὶ Σωτῆρος ἡμῶν Ἰησοῦ Χριστοῦ ἐπιτελοῦμεν, τοὺς ἐμπτυσμούς, τὰ ῥαπίσματα, τὰ κολαφίσματα, τὰς ὕβρεις, τοὺς γέλωτας, τὴν πορφυρᾶν χλαίναν, τὸν κάλαμον, τὸν σπόγγον, τὸ ὄξος, τοὺς ἥλους, τὴν λόγχην, καὶ πρὸ πάντων, τὸν σταυρόν, καὶ τὸν θάνατον, ἃ δι' ἡμᾶς ἑκὼν κατεδέξατο, ἔτι δὲ καὶ τὴν τοῦ εὐγνώμονος Λῃστοῦ, τοῦ συσταυρωθέντος αὐτῷ, σωτήριον ἐν τῷ Σταυρῷ ὁμολογίαν." 
 trMA.Synaxarion1.Ver1 = "Στίχοι εἰς τὴν Σταύρωσιν" //used as Title
@@ -507,7 +507,7 @@ trH1.Idiomelon3.melody  = ""
 trH1.Idiomelon3.text = trHW.Antiphon071.text
 
 trH1.Kontakion.mode = misc_gr_GR_cog.Mode8
-trH1.Kontakion.text = trMA.Kontakion.text
+trH1.Kontakion.text = trMA.Kontakion1.text
 
 trH3.title = ho.s05_gr_GR_cog.hoH3.title
 
@@ -530,7 +530,7 @@ trH3.Idiomelon3.melody = misc_gr_GR_cog.Idiomelon
 trH3.Idiomelon3.text = "Ἑλκόμενος ἐπὶ σταυροῦ, οὕτως ἐβόας Κύριε· Διὰ ποῖον ἔργον, θέλετέ με σταυρῶσαι Ἰουδαῖοι; ὅτι τοὺς παραλύτους ὑμῶν συνέσφιγξα; ὅτι τοὺς νεκρούς, ὡς ἐξ ὕπνου ἀνέστησα; Αἱμόρρουν ἰασάμην, Χαναναίαν ἠλέησα· διὰ ποῖον ἔργον θέλετέ με φονεῦσαι Ἰουδαῖοι; ἀλλ' ὄψεσθε εἰς ὃν νῦν ἐκκεντᾶτε, Χριστὸν παράνομοι."
 
 trH3.Kontakion.mode = misc_gr_GR_cog.Mode8
-trH3.Kontakion.text = trMA.Kontakion.text
+trH3.Kontakion.text = trMA.Kontakion1.text
 
 trH6.title = ho.s06_gr_GR_cog.hoH6.title
 
@@ -553,7 +553,7 @@ trH6.Idiomelon3.melody = misc_gr_GR_cog.Idiomelon
 trH6.Idiomelon3.text = "Δεῦτε χριστοφόροι λαοὶ κατίδωμεν, τί συνεβουλεύσατο Ἰούδας ὁ προδότης, σὺν ἱερεῦσιν ἀνόμοις, κατὰ τοῦ Σωτῆρος ἡμῶν· σήμερον ἔνοχον θανάτου, τὸν ἀθάνατον Λόγον πεποίηκαν, καὶ Πιλάτῳ προδώσαντες, ἐν τόπῳ Κρανίου ἐσταύρωσαν· καὶ ταῦτα πάσχων, ἐβόα ὁ Σωτὴρ ἡμῶν λέγων· Ἄφες αὐτοῖς Πάτερ τὴν ἁμαρτίαν ταύτην, ὅπως γνῶσι τὰ ἔθνη, τὴν ἐκ νεκρῶν μου Ἀνάστασιν."
 
 trH6.Kontakion.mode = misc_gr_GR_cog.Mode8
-trH6.Kontakion.text = trMA.Kontakion.text
+trH6.Kontakion.text = trMA.Kontakion1.text
 
 trH9.title = ho.s09_gr_GR_cog.hoH9.title
 
@@ -577,5 +577,5 @@ trH9.Idiomelon3.melody = misc_gr_GR_cog.Idiomelon
 trH9.Idiomelon3.text = "" //use Antiphon151
 
 trH9.Kontakion.mode = misc_gr_GR_cog.Mode8
-trH9.Kontakion.text = trMA.Kontakion.text
+trH9.Kontakion.text = trMA.Kontakion1.text
 

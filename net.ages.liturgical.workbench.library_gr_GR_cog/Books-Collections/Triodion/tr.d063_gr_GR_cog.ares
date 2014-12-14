@@ -730,11 +730,11 @@ trMA.Ode6K.mode = misc_gr_GR_cog.Mode8
 trMA.Ode6K.melody = misc_gr_GR_cog.Heirmos
 trMA.Ode6K.text = he.h.m8_gr_GR_cog.IlasthitiMoiSotir.text
 
-trMA.Kontakion.mode = misc_gr_GR_cog.Mode2
-trMA.Kontakion.melody = he.a.m2_gr_GR_cog.TaAnoZiton.name
-trMA.Kontakion.text = "Ἡ πάντων χαρά, Χριστὸς ἡ ἀλήθεια, τὸ φῶς ἡ ζωή, τοῦ Κόσμου ἡ ἀνάστασις, τοῖς ἐν γῇ πεφανέρωται, τῇ αὐτοῦ ἀγαθότητι, καὶ γέγονε τύπος τῆς ἀναστάσεως, τοῖς πᾶσι παρέχων θείαν ἄφεσιν."
+trMA.Kontakion1.mode = misc_gr_GR_cog.Mode2
+trMA.Kontakion1.melody = he.a.m2_gr_GR_cog.TaAnoZiton.name
+trMA.Kontakion1.text = "Ἡ πάντων χαρά, Χριστὸς ἡ ἀλήθεια, τὸ φῶς ἡ ζωή, τοῦ Κόσμου ἡ ἀνάστασις, τοῖς ἐν γῇ πεφανέρωται, τῇ αὐτοῦ ἀγαθότητι, καὶ γέγονε τύπος τῆς ἀναστάσεως, τοῖς πᾶσι παρέχων θείαν ἄφεσιν."
 
-trMA.Oikos.text = "Τοῖς Μαθηταῖς ὁ Κτίστης τῶν ὅλων, προηγόρευσε λέγων· Ἀδελφοὶ καὶ γνωστοί, ἡμῶν ὁ φίλος κεκοίμηται, τούτοις προλέγων καὶ ἐκδιδάσκων, ὅτι πάντα γινώσκεις ὡς Κτίστης πάντων· ἄγωμεν οὖν πορευθῶμεν, καὶ ἴδωμεν ξένην ταφήν, καὶ θρῆνον τὸν τῆς Μαρίας, καὶ τὸν τάφον Λαζάρου ὀψώμεθα· ἐκεῖ γὰρ μέλλω θαυματουργεῖν, ἐκτελῶν τοῦ Σταυροῦ τὰ προοίμια, καὶ πᾶσι παρέχων θείαν ἄφεσιν."
+trMA.Oikos1.text = "Τοῖς Μαθηταῖς ὁ Κτίστης τῶν ὅλων, προηγόρευσε λέγων· Ἀδελφοὶ καὶ γνωστοί, ἡμῶν ὁ φίλος κεκοίμηται, τούτοις προλέγων καὶ ἐκδιδάσκων, ὅτι πάντα γινώσκεις ὡς Κτίστης πάντων· ἄγωμεν οὖν πορευθῶμεν, καὶ ἴδωμεν ξένην ταφήν, καὶ θρῆνον τὸν τῆς Μαρίας, καὶ τὸν τάφον Λαζάρου ὀψώμεθα· ἐκεῖ γὰρ μέλλω θαυματουργεῖν, ἐκτελῶν τοῦ Σταυροῦ τὰ προοίμια, καὶ πᾶσι παρέχων θείαν ἄφεσιν."
 
 trMA.Synaxarion1.Com = "Τῇ αὐτῇ ἡμέρᾳ, Σαββάτῳ πρὸ τῶν Βαΐων, ἑορτάζομεν τὴν Ἔγερσιν τοῦ ἁγίου καὶ δικαίου, φίλου τοῦ Χριστοῦ, Λαζάρου τοῦ τετραημέρου."
 trMA.Synaxarion1.Ver1 = "Θρηνεῖς Ἰησοῦ, τοῦτο θνητῆς οὐσίας."
@@ -904,7 +904,7 @@ trMA.LaudsTheotokion.text = oc.m2.d1_gr_GR_cog.ocMA.Kathisma23.text
 
 trLI.SeasonalKontakion.mode = misc_gr_GR_cog.Mode2
 trLI.SeasonalKontakion.melody = he.a.m2_gr_GR_cog.TaAnoZiton.name
-trLI.SeasonalKontakion.text = trMA.Kontakion.text
+trLI.SeasonalKontakion.text = trMA.Kontakion1.text
 
 trLI.TheotokosHymn.mode = misc_gr_GR_cog.Mode8
 trLI.TheotokosHymn.text = trMA.Ode9C1H.text

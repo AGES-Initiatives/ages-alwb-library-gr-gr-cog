@@ -273,11 +273,11 @@ trMA.Ode6K.mode = misc_gr_GR_cog.Mode4
 trMA.Ode6K.melody = misc_gr_GR_cog.Heirmos
 trMA.Ode6K.text = he.h.m4_gr_GR_cog.EvoisanEnEffrosyni.text
 
-trMA.Kontakion.mode = misc_gr_GR_cog.Mode6
-trMA.Kontakion.melody = misc_gr_GR_cog.Automelon
-trMA.Kontakion.text = "Τῷ θρόνῳ ἐν οὐρανῷ, τῷ πώλῳ ἐπὶ τῆς γῆς, ἐποχούμενος Χριστὲ ὁ Θεός, τῶν Ἀγγέλων τὴν αἴνεσιν, καὶ τῶν Παίδων ἀνύμνησιν προσεδέξω βοώντων σοι· Εὐλογημένος εἶ ὁ ἐρχόμενος, τὸν Ἀδὰμ ἀνακαλέσασθαι."
+trMA.Kontakion1.mode = misc_gr_GR_cog.Mode6
+trMA.Kontakion1.melody = misc_gr_GR_cog.Automelon
+trMA.Kontakion1.text = "Τῷ θρόνῳ ἐν οὐρανῷ, τῷ πώλῳ ἐπὶ τῆς γῆς, ἐποχούμενος Χριστὲ ὁ Θεός, τῶν Ἀγγέλων τὴν αἴνεσιν, καὶ τῶν Παίδων ἀνύμνησιν προσεδέξω βοώντων σοι· Εὐλογημένος εἶ ὁ ἐρχόμενος, τὸν Ἀδὰμ ἀνακαλέσασθαι."
 
-trMA.Oikos.text = "Ἐπειδὴ ᾍδην ἔδησας ἀθάνατε, καὶ θάνατον ἐνέκρωσας, καὶ Κόσμον ἀνέστησας, βαΐοις τὰ νήπια ἀνευφήμουν σε Χριστέ, ὡς νικητὴν κραυγάζοντά σοι σήμερον. Ὡσαννὰ τῷ Υἱῷ Δαυΐδ· οὐκέτι γάρ φησι, σφαγήσονται βρέφη διὰ τὸ βρέφος Μαριάμ, ἀλλ' ὑπὲρ πάντων νηπίων καὶ πρεσβυτῶν, μόνος σταυροῦσαι, οὐκέτι καθ' ἡμῶν χωρήσει τὸ ξίφος· ἡ σὴ γὰρ πλευρὰ νυγήσεται λόγχῃ· ὅθεν ἀγαλλόμενοι φαμέν· Εὐλογημένος εἶ ὁ ἐρχόμενος, τὸν Ἀδὰμ ἀνακαλέσασθαι."
+trMA.Oikos1.text = "Ἐπειδὴ ᾍδην ἔδησας ἀθάνατε, καὶ θάνατον ἐνέκρωσας, καὶ Κόσμον ἀνέστησας, βαΐοις τὰ νήπια ἀνευφήμουν σε Χριστέ, ὡς νικητὴν κραυγάζοντά σοι σήμερον. Ὡσαννὰ τῷ Υἱῷ Δαυΐδ· οὐκέτι γάρ φησι, σφαγήσονται βρέφη διὰ τὸ βρέφος Μαριάμ, ἀλλ' ὑπὲρ πάντων νηπίων καὶ πρεσβυτῶν, μόνος σταυροῦσαι, οὐκέτι καθ' ἡμῶν χωρήσει τὸ ξίφος· ἡ σὴ γὰρ πλευρὰ νυγήσεται λόγχῃ· ὅθεν ἀγαλλόμενοι φαμέν· Εὐλογημένος εἶ ὁ ἐρχόμενος, τὸν Ἀδὰμ ἀνακαλέσασθαι."
 
 trMA.Synaxarion1.Com = "Τῇ αὐτῇ ἡμέρᾳ, Κυριακῇ τῶν Βαΐων, τὴν λαμπρὰν καὶ ἔνδοξον πανήγυριν τῆς εἰς Ἱερουσαλὴμ εἰσόδου τοῦ Κυρίου ἡμῶν Ἰησοῦ Χριστοῦ ἑορτάζομεν."
 trMA.Synaxarion1.Ver1 = "Πώλῳ καθίσας, ὁ λόγῳ τείνας πόλον,"
@@ -392,7 +392,7 @@ trLI.EntranceHymn.text = "" //for media
 
 trLI.SeasonalKontakion.mode = misc_gr_GR_cog.Mode6
 trLI.SeasonalKontakion.melody = misc_gr_GR_cog.Automelon
-trLI.SeasonalKontakion.text = trMA.Kontakion.text
+trLI.SeasonalKontakion.text = trMA.Kontakion1.text
 
 trLI.TheotokosHymn.mode = misc_gr_GR_cog.Mode4
 trLI.TheotokosHymn.text = trMA.Ode9C1H.text

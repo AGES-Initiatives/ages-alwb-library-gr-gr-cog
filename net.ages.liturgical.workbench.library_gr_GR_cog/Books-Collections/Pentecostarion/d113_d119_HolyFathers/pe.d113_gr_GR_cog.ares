@@ -203,16 +203,14 @@ peMA.Kontakion2.text = me.m07.dHF_gr_GR_cog.meMA.Kontakion1.text
 
 peMA.Oikos2.text = me.m07.dHF_gr_GR_cog.meMA.Oikos1.text
 
-peMA.Synaxarion1.Com = "Τῇ αὐτῇ ἡμέρᾳ, Κυριακῇ ἑβδόμῃ ἀπὸ τοῦ Πάσχα, τὴν ἐν Νικαίᾳ πρώτην Οἰκουμενικὴν Σύνοδον ἑορτάζομεν, τῶν τριακοσίων δέκα καὶ ὀκτὼ θεοφόρων Πατέρων."
-peMA.Synaxarion1.Ver1 = "Πόλου νοητοῦ ἀστέρες σελασφόροι."
-peMA.Synaxarion1.Ver2 = "Ἀκτῖσιν ὑμῶν φωτίσατέ μοι φρένας."
-peMA.Synaxarion1.Ver3 = "Κατὰ Ἀρείου" //title
-peMA.Synaxarion1.Ver4 = "Ξένον τὸν Υἱὸν Πατρὸς οὐσίας λέγων,"
-peMA.Synaxarion1.Ver5 = "Ἄρειος, ἤτω τῆς Θεοῦ δόξης ξένος."
-
-peMA.Synaxarion1.Nar = ""
-
-peMA.Synaxarion.LastLine = "Ταῖς τῶν ἁγίων τριακοσίων δέκα καὶ ὀκτὼ θεοφόρων Πατέρων πρεσβείαις, Χριστὲ ὁ Θεὸς ἡμῶν, ἐλέησον ἡμᾶς. Ἀμήν."
+peMA.Synaxarion.commemoration.text = "Τῇ αὐτῇ ἡμέρᾳ, Κυριακῇ ἑβδόμῃ ἀπὸ τοῦ Πάσχα, τὴν ἐν Νικαίᾳ πρώτην Οἰκουμενικὴν Σύνοδον ἑορτάζομεν, τῶν τριακοσίων δέκα καὶ ὀκτὼ θεοφόρων Πατέρων."
+peMA.Synaxarion.couplet1.title = titles_gr_GR_cog.Stichoi
+peMA.Synaxarion.couplet1.verse1 = "Πόλου νοητοῦ ἀστέρες σελασφόροι."
+peMA.Synaxarion.couplet1.verse2 = "Ἀκτῖσιν ὑμῶν φωτίσατέ μοι φρένας."
+peMA.Synaxarion.couplet2.title = "Κατὰ Ἀρείου"
+peMA.Synaxarion.couplet2.verse1 = "Ξένον τὸν Υἱὸν Πατρὸς οὐσίας λέγων," //d113
+peMA.Synaxarion.couplet2.verse2 = "Ἄρειος, ἤτω τῆς Θεοῦ δόξης ξένος." //d113
+peMA.Synaxarion.lastline.text = "Ταῖς τῶν ἁγίων τριακοσίων δέκα καὶ ὀκτὼ θεοφόρων Πατέρων πρεσβείαις, Χριστὲ ὁ Θεὸς ἡμῶν, ἐλέησον ἡμᾶς. Ἀμήν."
 
 peMA.Ode7C11.ode = misc_gr_GR_cog.Ode7
 peMA.Ode7C11.mode = misc_gr_GR_cog.Mode6

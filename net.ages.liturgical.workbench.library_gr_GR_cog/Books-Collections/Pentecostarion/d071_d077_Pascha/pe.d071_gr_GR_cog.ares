@@ -7,12 +7,11 @@ peInsert2 = "" //for use in petitions and dismissal
 peNote.text = ""
 peDismissal = dismissals_gr_GR_cog.dis00.resurrection
 
-peMA.Synaxarion1.Com = "Τῇ ἁγίᾳ καὶ μεγάλῃ Κυριακῇ τοῦ Πάσχα, αὐτὴν τὴν ζωηφόρον Ἀνάστασιν ἑορτάζομεν τοῦ Κυρίου καὶ Θεοῦ καὶ Σωτῆρος ἡμῶν Ἰησοῦ Χριστοῦ."
-peMA.Synaxarion1.Ver1 = "Χριστὸς κατελθὼν πρὸς πάλην Ἅδου μόνος,"
-peMA.Synaxarion1.Ver2 = "λαβὼν ἀνῆλθε πολλὰ τῆς νίκης σκῦλα."
-peMA.Synaxarion1.Nar = ""
-
-peMA.Synaxarion.LastLine = "Αὐτῷ ἡ δόξα καὶ τὸ κράτος εἰς τοὺς αἰῶνας τῶν αἰώνων. Ἀμήν."
+peMA.Synaxarion.commemoration.text = "Τῇ ἁγίᾳ καὶ μεγάλῃ Κυριακῇ τοῦ Πάσχα, αὐτὴν τὴν ζωηφόρον Ἀνάστασιν ἑορτάζομεν τοῦ Κυρίου καὶ Θεοῦ καὶ Σωτῆρος ἡμῶν Ἰησοῦ Χριστοῦ."
+peMA.Synaxarion.couplet1.title = titles_gr_GR_cog.Stichoi
+peMA.Synaxarion.couplet1.verse1 = "Χριστὸς κατελθὼν πρὸς πάλην Ἅδου μόνος,"
+peMA.Synaxarion.couplet1.verse2 = "λαβὼν ἀνῆλθε πολλὰ τῆς νίκης σκῦλα."
+peMA.Synaxarion.lastline.text = "Αὐτῷ ἡ δόξα καὶ τὸ κράτος εἰς τοὺς αἰῶνας τῶν αἰώνων. Ἀμήν."
 
 peMA.Lauds1.mode = misc_gr_GR_cog.Mode1
 peMA.Lauds1.melody  = ""

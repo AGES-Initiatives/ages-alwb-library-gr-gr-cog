@@ -518,6 +518,10 @@ meMA.LaudsGlory.mode = misc_gr_GR_cog.Mode8
 meMA.LaudsGlory.melody = ""
 meMA.LaudsGlory.text = "Τῶν νομικῶν διδαγμάτων ὁ σύλλογος, τὴν ἐν σαρκὶ ἐμφανίζει τοῦ Χριστοῦ θείαν Γέννησιν, τοῖς πρὸ τοῦ νόμου τὴν Χάριν εὐαγγελιζομένοις, ὡς ὑπὲρ νόμον τῇ πίστει ὑπάρξασιν· ὅθεν τῆς φθορᾶς ἀπαλλαγῆς οὔσαν πρόξενον, ταῖς ἐν ᾅδῃ κατεχομέναις ψυχαῖς προεκήρυττον, διὰ τῆς ἀναστάσεως. Κύριε δόξα σοι."
 
+meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.melody = meMA.Kontakion1.melody
+meLI.Kontakion1.text = meMA.Kontakion1.text
+
 meLI.SeasonalKontakion.mode = misc_gr_GR_cog.Mode3
 meLI.SeasonalKontakion.melody = misc_gr_GR_cog.Automelon
 meLI.SeasonalKontakion.text = me.m12.d20_gr_GR_cog.meMA.Kontakion1.text

@@ -282,6 +282,10 @@ meMA.AposTheotokion.mode = misc_gr_GR_cog.Mode6
 meMA.AposTheotokion.melody = he.o_gr_GR_cog.TheotokeSyEi.name
 meMA.AposTheotokion.text = he.o_gr_GR_cog.TheotokeSyEiAthloforou.text
 
+meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.melody = meMA.Kontakion1.melody
+meLI.Kontakion1.text = meMA.Kontakion1.text
+
 meLI.SeasonalKontakion.mode = misc_gr_GR_cog.Mode2
 meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = ho.s07_gr_GR_cog.hoTY.Key0408.text

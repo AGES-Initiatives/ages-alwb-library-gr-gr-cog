@@ -835,6 +835,10 @@ meMA.AposGlory.mode = misc_gr_GR_cog.Mode8
 meMA.AposGlory.melody = ""
 meMA.AposGlory.text = "Ἰωάννη Βαπτιστά, ὁ ἐν μήτρᾳ γνωρίσας με τὸν Ἀμνόν, ἐν ποταμῷ μοι διακόνησον, μετὰ Ἀγγέλων μοι λειτούργησον, ἐκτείνας ἅψαι τῇ χειρί σου, τῆς κορυφῆς μου τῆς ἀχράντου, καὶ ὅταν ἴδῃς τὰ ὄρη τρέμοντα, καὶ τὸν Ἰορδάνην ἐπαναστραφέντα, σὺν τούτοις βόησον· ὁ σαρκωθεὶς ἐκ Παρθένου, εἰς ἡμῶν σωτηρίαν, Κύριε δόξα σοι."
 
+meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.melody = meMA.Kontakion1.melody
+meLI.Kontakion1.text = meMA.Kontakion1.text
+
 meLI.SeasonalKontakion.mode = misc_gr_GR_cog.Mode4
 meLI.SeasonalKontakion.melody = he.a.m4_gr_GR_cog.EpefanisSimeron.name
 meLI.SeasonalKontakion.text = meMA.Kontakion1.text

@@ -265,6 +265,10 @@ meMA.Ode9C1T.mode = misc_gr_GR_cog.Mode2
 meMA.Ode9C1T.melody = he.h.m2_gr_GR_cog.TonEkTheouTheonLogon.name
 meMA.Ode9C1T.text = "Ὡς κραταιὰν προστασίαν, ὡς ἐλπίδα καὶ τεῖχος, καὶ ἄγκυραν καὶ σκέπην ἀσφαλῆ, καὶ ἀπροσμάχητον ἔρεισμα, καὶ ἀχείμαστον ὅρμον, καὶ μόνον καταφύγιον, Ἁγνή, κεκτημένον σε πάντες, σῳζόμεθα Πανύμνητε."
 
+meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.melody = meMA.Kontakion1.melody
+meLI.Kontakion1.text = meMA.Kontakion1.text
+
 meLI.SeasonalKontakion.mode = misc_gr_GR_cog.Mode2
 meLI.SeasonalKontakion.melody  = ""
 meLI.SeasonalKontakion.text = ho.s07_gr_GR_cog.hoTY.Key0408.text

@@ -306,6 +306,10 @@ meMA.LaudsTheotokion.mode = misc_gr_GR_cog.Mode6
 meMA.LaudsTheotokion.melody = he.a.m6_gr_GR_cog.TriimerosAnestis.name
 meMA.LaudsTheotokion.text = "Ἐμε τὸν ἀδιόρθωτον, διόρθωσον πρεσβείαις σου, Θεοτόκε, ἡ ἐλπὶς Χριστιανῶν, καὶ ῥῦσαί με βασάνων, καὶ πάσης τιμωρίας, καὶ τοῦ πυρὸς τοῦ αἰωνίζοντος."
 
+meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.melody = meMA.Kontakion1.melody
+meLI.Kontakion1.text = meMA.Kontakion1.text
+
 meLI.SeasonalKontakion.mode = misc_gr_GR_cog.Mode2
 meLI.SeasonalKontakion.melody  = ""
 meLI.SeasonalKontakion.text = ho.s07_gr_GR_cog.hoTY.Key0408.text

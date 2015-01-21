@@ -251,6 +251,10 @@ meMA.ExapTheotokion.mode = misc_gr_GR_cog.Mode2
 meMA.ExapTheotokion.melody = he.a.m2_gr_GR_cog.GynaikesAkoutisthite.name
 meMA.ExapTheotokion.text = "Ὡράθης ὑπερέχουσα, τῶν Ποιημάτων Δέσποινα, σαρκὶ τεκοῦσα Παρθένε, Θεὸν τῶν ὅλων καὶ Κτίστην, οὗ τῷ Σταυρῷ ῥωννύμεναι, γυναῖκες αἱ θεόφρονες, νεανικῶς ἠρίστευσαν, μεθ' ὧν σε πάντες ὑμνοῦμεν, εὐλογημένη Μαρία."
 
+meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.melody = meMA.Kontakion1.melody
+meLI.Kontakion1.text = meMA.Kontakion1.text
+
 meLI.SeasonalKontakion.mode = misc_gr_GR_cog.Mode1
 meLI.SeasonalKontakion.melody  = ""
 meLI.SeasonalKontakion.text = me.m02.d02_gr_GR_cog.meMA.Kontakion1.text

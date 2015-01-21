@@ -653,6 +653,10 @@ meMA.LaudsBoth.text = "Σήμερον ἐκ ῥίζης τοῦ Δαυΐδ, �
 
 meMA.LaudsSundayVerse1.text = "" // for media
 
+meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.melody = meMA.Kontakion1.melody
+meLI.Kontakion1.text = meMA.Kontakion1.text
+
 meLI.SeasonalKontakion.mode = meMA.Kontakion2.mode
 meLI.SeasonalKontakion.melody = meMA.Kontakion2.melody
 meLI.SeasonalKontakion.text = meMA.Kontakion2.text

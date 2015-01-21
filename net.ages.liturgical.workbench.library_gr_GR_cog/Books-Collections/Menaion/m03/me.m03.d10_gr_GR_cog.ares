@@ -265,6 +265,10 @@ meMA.Ode9C1T.mode = misc_gr_GR_cog.Mode4
 meMA.Ode9C1T.melody = he.h.m4_gr_GR_cog.EvaMenToTisParakois.name
 meMA.Ode9C1T.text = "Φανεῖσα τοῦ πάντων Ποιητοῦ λοχεύτρια, ὑπὲρ πάντα νοῦν πανάμωμε, τῶν οὐρανῶν ὑψηλοτέρα ἐδείχθης καὶ τῶν ὅλων δεσπόζουσα Παρθένε Θεοτόκε πανύμνητε· ὅθεν σε πάντες μεγαλύνομεν."
 
+meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.melody = meMA.Kontakion1.melody
+meLI.Kontakion1.text = meMA.Kontakion1.text
+
 meLI.SeasonalKontakion.mode = misc_gr_GR_cog.Mode2
 meLI.SeasonalKontakion.melody  = ""
 meLI.SeasonalKontakion.text = ho.s07_gr_GR_cog.hoTY.Key0408.text

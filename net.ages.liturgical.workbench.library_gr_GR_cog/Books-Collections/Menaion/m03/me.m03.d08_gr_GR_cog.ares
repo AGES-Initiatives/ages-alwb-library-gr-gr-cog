@@ -261,6 +261,10 @@ meMA.Ode9C1T.mode = misc_gr_GR_cog.Mode8
 meMA.Ode9C1T.melody = he.h.m8_gr_GR_cog.KyriosTheotokon.name
 meMA.Ode9C1T.text = "Ὡς ὄρθρος τοῖς ἐν σκότει, καὶ πεπλανημένοις, δικαιοσύνης τὸν Ἥλιον ἔχουσα, ἐν ταῖς ἀγκάλαις Παρθένε Χριστὸν ἀνέτειλας."
 
+meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.melody = meMA.Kontakion1.melody
+meLI.Kontakion1.text = meMA.Kontakion1.text
+
 meLI.SeasonalKontakion.mode = misc_gr_GR_cog.Mode2
 meLI.SeasonalKontakion.melody  = ""
 meLI.SeasonalKontakion.text = ho.s07_gr_GR_cog.hoTY.Key0408.text

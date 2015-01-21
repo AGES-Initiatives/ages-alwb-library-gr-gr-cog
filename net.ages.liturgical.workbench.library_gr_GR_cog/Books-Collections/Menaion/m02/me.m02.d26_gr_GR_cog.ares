@@ -277,6 +277,10 @@ meMA.ExapTheotokion.mode = misc_gr_GR_cog.Mode3
 meMA.ExapTheotokion.melody = he.a.m3_gr_GR_cog.EpeskepsatoImas.name
 meMA.ExapTheotokion.text = "Ἐπὶ σοὶ μετὰ Θεόν, ἐλπίζομεν Πανάχραντε, καὶ τῷ ἐκ σοῦ προελθόντι, συσταυρούμενοι Χριστῷ, ταῖς πρὸς αὐτὸν πρεσβείαις σου, ἀπροσκόπτους εἰς τέλος, ἡμᾶς διαφύλαξον."
 
+meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.melody = meMA.Kontakion1.melody
+meLI.Kontakion1.text = meMA.Kontakion1.text
+
 meLI.SeasonalKontakion.mode = misc_gr_GR_cog.Mode2
 meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = ""

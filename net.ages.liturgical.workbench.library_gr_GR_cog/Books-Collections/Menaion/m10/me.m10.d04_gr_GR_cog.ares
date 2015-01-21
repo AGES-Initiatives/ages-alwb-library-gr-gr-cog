@@ -244,6 +244,10 @@ meMA.Exaposteilarion1.mode = misc_gr_GR_cog.Mode3
 meMA.Exaposteilarion1.melody = he.a.m3_gr_GR_cog.OOuranonToisAstrois.name
 meMA.Exaposteilarion1.text = "Ὅτε ἡ Μήτηρ τοῦ Λόγου, πρὸς τὰς ἐκεῖ καταπαύσεις, μεταναστεύουσα ὤφθη, σὺν τοῖς λοιποῖς Ἀποστόλοις, σὺ lερόθεε ὕμνοις, ἐπέστης ταύτην προπέμπων."
 
+meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.melody = meMA.Kontakion1.melody
+meLI.Kontakion1.text = meMA.Kontakion1.text
+
 meLI.SeasonalKontakion.mode = misc_gr_GR_cog.Mode2
 meLI.SeasonalKontakion.melody  = ""
 meLI.SeasonalKontakion.text = ho.s07_gr_GR_cog.hoTY.Key0408.text

@@ -263,6 +263,10 @@ meMA.ExapStavrotheotokion.mode = misc_gr_GR_cog.Mode2
 meMA.ExapStavrotheotokion.melody = he.a.m2_gr_GR_cog.GynaikesAkoutisthite.name
 meMA.ExapStavrotheotokion.text = "Παρισταμένη Πάναγνε, ἐν τῷ Σταυρῷ καὶ βλέπουσα, τὸν σὸν Υἱὸν ἐπὶ ξύλου, ταθέντα ἄπνουν ἐθρήνεις, καὶ μητρικῶς ὠλόλυζες, δακρύουσα καὶ λέγουσα· τὶ τοῦτο τὸ παράδοξον, ὅτι ὁ Κτίστης τοῦ κόσμου, Σταυρῷ ταθῆναι ἠνέσχου;"
 
+meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.melody = meMA.Kontakion1.melody
+meLI.Kontakion1.text = meMA.Kontakion1.text
+
 meLI.SeasonalKontakion.mode = me.m08.d06_gr_GR_cog.meMA.Kontakion1.mode
 meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = me.m08.d06_gr_GR_cog.meMA.Kontakion1.text

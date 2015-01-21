@@ -471,6 +471,10 @@ meMA.LaudsGlory.mode = misc_gr_GR_cog.Mode7
 meMA.LaudsGlory.melody = ""
 meMA.LaudsGlory.text = "Δεῦτε ἅπαντες, πιστῶς πανηγυρίσωμεν, τῶν πρὸ νόμου Πατέρων, Ἀβραὰμ καὶ τῶν σὺν αὐτῷ, τὴν ἐτήσιον μνήμην, τοῦ Ἰούδα τὴν φυλήν, ἀξίως τιμήσωμεν, τοὺς ἐν Βαβυλῶνι Παῖδας, τοὺς σβέσαντας τὴν ἐν καμίνῳ φλόγα, ὡς τῆς Τριάδος τύπον, σὺν τῷ Δανιὴλ εὐφημήσωμεν, τῶν Προφητῶν τὰς προρρήσεις ἀσφαλῶς κατέχοντες, μετὰ τοῦ Ἡσαΐου μεγαλοφώνως βοήσωμεν· ἰδοὺ ἡ Παρθένος, ἐν γαστρὶ λήψεται, καὶ τέξεται Υἱὸν τὸν Ἐμμανουήλ· ὃ ἐστι μεθ' ἡμῶν ὁ Θεός."
 
+meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.melody = meMA.Kontakion1.melody
+meLI.Kontakion1.text = meMA.Kontakion1.text
+
 meLI.SeasonalKontakion.mode = misc_gr_GR_cog.Mode3
 meLI.SeasonalKontakion.melody = misc_gr_GR_cog.Automelon
 meLI.SeasonalKontakion.text = me.m12.d20_gr_GR_cog.meMA.Kontakion1.text

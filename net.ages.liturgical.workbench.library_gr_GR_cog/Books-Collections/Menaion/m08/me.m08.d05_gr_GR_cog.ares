@@ -571,6 +571,10 @@ meMA.AposGlory.mode = misc_gr_GR_cog.Mode5
 meMA.AposGlory.melody  = ""
 meMA.AposGlory.text = "Νόμου καὶ Προφητῶν σε Χριστέ, ποιητὴν καὶ πληρωτὴν ἐμαρτύρησαν, ὁρῶντες ἐν τῇ νεφέλῃ, Μωϋσῆς ὁ θεόπτης, καὶ Ἠλίας ὁ ἔμπυρος ἁρματηλάτης καὶ ἄφλεκτος οὐρανοδρόμος, ἐπὶ τῆς Μεταμορφώσεώς σου, μεθ'ὧν καὶ ἡμᾶς τοῦ σοῦ φωτισμοῦ ἀξίωσον Δέσποτα, ὑμνεῖν σὲ εἰς τοὺς αἰῶνας."
 
+meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.melody = meMA.Kontakion1.melody
+meLI.Kontakion1.text = meMA.Kontakion1.text
+
 meLI.SeasonalKontakion.mode = me.m08.d06_gr_GR_cog.meMA.Kontakion1.mode
 meLI.SeasonalKontakion.melody  = ""
 meLI.SeasonalKontakion.text = me.m08.d06_gr_GR_cog.meMA.Kontakion1.text

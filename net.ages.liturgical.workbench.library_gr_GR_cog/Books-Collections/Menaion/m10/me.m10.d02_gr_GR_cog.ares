@@ -50,8 +50,9 @@ meVE.AposStavrotheotokion.mode = misc_gr_GR_cog.Mode2
 meVE.AposStavrotheotokion.melody = he.a.m2_gr_GR_cog.OteEkTouXylou.name
 meVE.AposStavrotheotokion.text = "Ὅτε, ἡ ἀμίαντος ἀμνάς, ἔβλεψε τὸν ἴδιον ἄρνα, ἐπὶ σφαγὴν ὡς βροτόν, θέλοντα ἑλκόμενον, θρηνοῦσα ἔλεγεν· Ἀτεκνῶσαι νῦν σπεύδεις με, Χριστὲ τὴν τεκοῦσαν, τὶ τοῦτο πεποίηκας, ὁ λυτρωτὴς τοῦ παντός; ὅμως, ἀνυμνῶ καὶ δοξάζω, σοῦ τὴν ὑπὲρ νοῦν τε καὶ λόγον, ἄκραν ἀγαθότητα Φιλάνθρωπε."
 
-meVE.Apolytikion1.mode = misc_gr_GR_cog.Mode4
-meVE.Apolytikion1.melody = he.ga_gr_GR_cog.KaiTroponMetochos.name
+meVE.GeneralApolytikion1.mode = misc_gr_GR_cog.Mode4
+meVE.GeneralApolytikion1.melody = he.ga_gr_GR_cog.KaiTroponMetochos.name
+meVE.GeneralApolytikion1.text = "" //for media
 meVE.GeneralApolytikion1.name = "Κυπριανέ,"
 
 meVE.Apolytikion2.poet = poets_gr_GR_cog.Gerasimou

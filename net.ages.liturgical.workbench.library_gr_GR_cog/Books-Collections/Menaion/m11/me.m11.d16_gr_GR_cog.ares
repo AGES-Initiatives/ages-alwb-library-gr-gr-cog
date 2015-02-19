@@ -60,10 +60,10 @@ meVE.AposTheotokion.mode = misc_gr_GR_cog.Mode6
 meVE.AposTheotokion.melody = he.o_gr_GR_cog.TheotokeSyEi.name
 meVE.AposTheotokion.text = he.o_gr_GR_cog.TheotokeSyEiApostolou.text
 
-meVE.Apolytikion1.mode = misc_gr_GR_cog.Mode3
-meVE.Apolytikion1.melody = he.ga_gr_GR_cog.ApostoleAgie.name
+meVE.GeneralApolytikion1.mode = misc_gr_GR_cog.Mode3
+meVE.GeneralApolytikion1.melody = he.ga_gr_GR_cog.ApostoleAgie.name
 meVE.GeneralApolytikion1.name = "Ματθαῖε,"
-meVE.Apolytikion1.text = "" // for media
+meVE.GeneralApolytikion1.text = "" // for media
 
 meVE.Apolytikion2.poet = poets_gr_GR_cog.Gerasimou
 meVE.Apolytikion2.mode = misc_gr_GR_cog.Mode3

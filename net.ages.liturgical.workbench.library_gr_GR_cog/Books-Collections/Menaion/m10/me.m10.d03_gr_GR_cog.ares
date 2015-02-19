@@ -51,8 +51,9 @@ meVE.AposStavrotheotokion.mode = misc_gr_GR_cog.Mode4
 meVE.AposStavrotheotokion.melody = he.a.m4_gr_GR_cog.OsGennaionEnMartysi.name
 meVE.AposStavrotheotokion.text = "Ὡς ἑώρακε Κύριε, ἡ Παρθένος καὶ Μήτηρ σου, ἐν Σταυρῷ κρεμάμενον, ἐπωδύρετο, καὶ θρηνῳδοῦσα ἐφθέγγετο· Τὶ σοι ἀνταπέδωκαν, οἱ πολλῶν σου δωρεῶν, ἀπολαύσαντες Δέσποτα; Ἀλλὰ δέομαι· Μὴ με μόνην ἐάσῃς ἐν τῷ κόσμῳ, ἀλλὰ σπεῦσον ἀναστῆναι, συνανιστῶν τους προπάτορας."
 
-meVE.Apolytikion1.mode = misc_gr_GR_cog.Mode4
-meVE.Apolytikion1.melody  = ""
+meVE.GeneralApolytikion1.mode = misc_gr_GR_cog.Mode4
+meVE.GeneralApolytikion1.melody  = ""
+meVE.GeneralApolytikion1.text  = "" //for media
 meVE.GeneralApolytikion1.name = "Διονύσιε."
 
 meMA.C1Poet = poets_gr_GR_cog.Theofanous

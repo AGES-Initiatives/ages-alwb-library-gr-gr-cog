@@ -59,8 +59,9 @@ meVE.AposTheotokion.mode = misc_gr_GR_cog.Mode6
 meVE.AposTheotokion.melody = he.a.m6_gr_GR_cog.OlinApothemenoi.name
 meVE.AposTheotokion.text = "Ὅταν μου εἰς ἔννοιαν, τὸ φοβερὸν ἔλθῃ βῆμα, τοῦ Υἱοῦ σου Πάναγνε, καὶ τὸ δικαστήριον τὸ παγκόσμιον, ἀπορῶ δέδοικα, δειλιῶν καὶ τρέμων, τὴν τῶν ἔργων μου ἐξέτασιν· φαῦλα γὰρ ἅπαντα, καὶ αἰσχύνης πάσης ἀνάπλεα, καὶ σκότους καὶ κολάσεως, καὶ ἀποστροφῆς ὄντως ἄξια. Ἴδε μου τὴν θλίψιν, καὶ ἴδε τῆς ψυχῆς τήν συντριβήν, καὶ τῆς ἀνάγκης ἐκείνης με, ῥῦσαι καὶ κολάσεως."
 
-meVE.Apolytikion1.mode = misc_gr_GR_cog.Mode3
-meVE.Apolytikion1.melody = he.ga_gr_GR_cog.ApostoleAgie.name
+meVE.GeneralApolytikion1.mode = misc_gr_GR_cog.Mode3
+meVE.GeneralApolytikion1.melody = he.ga_gr_GR_cog.ApostoleAgie.name
+meVE.GeneralApolytikion1.text = "" //for media
 meVE.GeneralApolytikion1.name = "Θωμᾶ,"
 
 meVE.Apolytikion2.poet = poets_gr_GR_cog.Gerasimou

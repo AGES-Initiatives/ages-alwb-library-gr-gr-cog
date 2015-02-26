@@ -1,15 +1,15 @@
 A_Resource_Whose_Name = me.m04.d22_gr_GR_cog
 
-meDate.text = "Τῌ ΙΒʹ ΑΠΡΙΛΙΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "Μνήμη τοῦ Ὁσίου Πατρὸς ἡμῶν Θεοδώρου τοῦ Συκεώτου" //full title of day
+meDate.text = "Τῌ ΚΒʹ ΑΠΡΙΛΙΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+meCommemoration.text = "Μνήμη τοῦ Ὁσίου Πατρὸς ἡμῶν Θεοδώρου τοῦ Συκεώτου" // full title of day
 meShortCommemoration1.text = ""
-meInsert1 = "καὶ τοῦ Ὁσίου Πατρὸς ἡμῶν Θεοδώρου τοῦ Συκεώτου," //for use in petitions and dismissal
-meInsert2 = "οὗ καὶ τὴν μνήμην ἐπιτελοῦμεν·" //for use in petitions and dismissal
+meInsert1 = "καὶ τοῦ Ὁσίου Πατρὸς ἡμῶν Θεοδώρου τοῦ Συκεώτου," // for use in petitions and dismissal
+meInsert2 = "οὗ καὶ τὴν μνήμην ἐπιτελοῦμεν·" // for use in petitions and dismissal
 meNote.text = ""
 meLE.commemoration1 = "Μνήμη τοῦ Ὁσίου Πατρὸς ἡμῶν Θεοδώρου τοῦ Συκεώτου"
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -182,7 +182,7 @@ meMA.Kontakion1.mode = misc_gr_GR_cog.Mode3
 meMA.Kontakion1.melody = he.a.m3_gr_GR_cog.IParthenosSimeron.name
 meMA.Kontakion1.text = "Ὡς πυρίνῳ ἅρματι, ταῖς ἀρεταῖς Θεοφόρε, ἐπιβὰς ἀνέδραμες, εἰς οὐρανίους οἰκήσεις, Ἄγγελος μετὰ ἀνθρώπων συμβιοτεύων, ἄνθρωπος σὺν τοῖς Ἀγγέλοις περιχορεύων· διὰ τοῦτο ἀνεδείχθης, θαυμάτων θεῖον, δοχεῖον Θεόδωρε."
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C1H.ode = misc_gr_GR_cog.Ode7
 meMA.Ode7C1H.mode = misc_gr_GR_cog.Mode4
@@ -264,7 +264,7 @@ meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.text = meMA.Kontakion1.text
 
 meLI.SeasonalKontakion.mode = misc_gr_GR_cog.Mode2
-meLI.SeasonalKontakion.melody  = ""
+meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = ho.s07_gr_GR_cog.hoTY.Key0408.text
 
 meLI.CommunionHymn.text = ""

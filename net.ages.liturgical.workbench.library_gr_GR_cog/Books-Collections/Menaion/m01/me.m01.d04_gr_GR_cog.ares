@@ -64,9 +64,13 @@ meVE.AposGlory.mode = misc_gr_GR_cog.Mode6
 meVE.AposGlory.melody = ""
 meVE.AposGlory.text = me.m01.d02_gr_GR_cog.meVE.SticGlory.text
 
-meVE.Apolytikion1.mode = he.ga_gr_GR_cog.ApostoloiAgioi.mode
-meVE.Apolytikion1.melody = ""
-meVE.Apolytikion1.text = he.ga_gr_GR_cog.ApostoloiAgioi.text
+meVE.Apolytikion1.mode = me.m01.d02_gr_GR_cog.meVE.Apolytikion1.mode
+meVE.Apolytikion1.melody = me.m01.d02_gr_GR_cog.meVE.Apolytikion1.melody
+meVE.Apolytikion1.text = me.m01.d02_gr_GR_cog.meVE.Apolytikion1.text
+
+meVE.Apolytikion2.mode = he.ga_gr_GR_cog.ApostoloiAgioi.mode
+meVE.Apolytikion2.melody = ""
+meVE.Apolytikion2.text = he.ga_gr_GR_cog.ApostoloiAgioi.text
 
 meCO.C1Acrostic.text = "οὗ ἡ Ἀκροστιχίς· Τῇ μακρᾷ πέμπτῃ, μακρὸν ὕμνον ἐξᾴδω."
 

@@ -7,15 +7,15 @@ daVE.OnTheAfternoonBefore = template.titles_gr_GR_cog.d.onFridayAfternoon
 daVE.OnTheEveningBefore = template.titles_gr_GR_cog.d.onFridayEvening
 
 daVE.Apolytikion1.mode = misc_gr_GR_cog.Mode2
-daVE.Apolytikion1.melody  = ""
+daVE.Apolytikion1.melody = ""
 daVE.Apolytikion1.text = oc.m2.d5_gr_GR_cog.ocMA.Kathisma32.text
 
 daVE.Apolytikion2.mode = misc_gr_GR_cog.Mode2
-daVE.Apolytikion2.melody  = ""
+daVE.Apolytikion2.melody = ""
 daVE.Apolytikion2.text = oc.m2.d7_gr_GR_cog.ocMA.Kathisma23.text
 
 daVE.ApolTheotokion.mode = misc_gr_GR_cog.Mode2
-daVE.ApolTheotokion.melody  = ""
+daVE.ApolTheotokion.melody = ""
 daVE.ApolTheotokion.text = oc.m2.d2_gr_GR_cog.ocMA.ApolTheotokion.text
 
 daMA.Photagogic1Ending.text = prayers_gr_GR_cog.fePresveiaisTonAgionKaiSosonMe
@@ -36,6 +36,6 @@ daMA.ExapTheotokion.mode = misc_gr_GR_cog.Mode3
 daMA.ExapTheotokion.melody = he.a.m3_gr_GR_cog.OOuranonToisAstrois.name
 daMA.ExapTheotokion.text = "Ὁ γλυκασμὸς τῶν Ἀγγέλων, τῶν θλιβομένων ἡ χαρά, Χριστιανῶν ἡ προστάτις, Παρθένε Μήτηρ Κυρίου, ἀντιλαβοῦ μου καὶ ῥῦσαι, τῶν αἰωνίων βασάνων."
 
-daLI.CommunionHymn.text = "" //for media
+daLI.CommunionHymn.text = properties_gr_GR_cog.media.key
 
 daLI.CommunionHymnAlt.text = ""

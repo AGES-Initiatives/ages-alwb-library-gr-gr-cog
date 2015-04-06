@@ -7,11 +7,11 @@ daVE.OnTheMorningBefore = template.titles_gr_GR_cog.d.onThursdayMorning
 daVE.OnTheEveningBefore = template.titles_gr_GR_cog.d.onThursdayEvening
 
 daVE.Apolytikion1.mode = misc_gr_GR_cog.Mode1
-daVE.Apolytikion1.melody  = ""
+daVE.Apolytikion1.melody = ""
 daVE.Apolytikion1.text = me.m09.d14_gr_GR_cog.meVE.Apolytikion1.text
 
 daVE.ApolTheotokion.mode = misc_gr_GR_cog.Mode1
-daVE.ApolTheotokion.melody  = ""
+daVE.ApolTheotokion.melody = ""
 daVE.ApolTheotokion.text = oc.m1.d4_gr_GR_cog.ocVE.ApolTheotokionVM.text
 
 daMA.Triadic1Ending.text = "Δυνάμει τοῦ Σταυροῦ σου σῶσον ἡμᾶς."
@@ -31,10 +31,10 @@ daMA.Exaposteilarion1.melody = he.a.m2_gr_GR_cog.TonMathitonOrontonSe.name
 daMA.Exaposteilarion1.text = me.m09.d14_gr_GR_cog.meMA.Exaposteilarion1.text
 
 daMA.ExapTheotokion.mode = misc_gr_GR_cog.Mode2
-daMA.ExapTheotokion.melody  = ""
+daMA.ExapTheotokion.melody = ""
 daMA.ExapTheotokion.text = "Ἐν τῷ Σταυρῷ παρεστῶσα, ἡ σὲ ἀσπόρως τεκοῦσα, καὶ θρηνῳδοῦσα ἐβόα· Οἴμοι! γλυκύτατον τέκνον, πῶς ἔδυς ἐξ ὀφθαλμῶν μου, πῶς ἐν νεκροῖς ἐλογίσθης;"
 
-daLI.CommunionHymn.text = "" //for media
+daLI.CommunionHymn.text = properties_gr_GR_cog.media.key
 
 daLI.CommunionHymnAlt.text = ""
 

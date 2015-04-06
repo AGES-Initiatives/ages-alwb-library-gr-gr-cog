@@ -6,11 +6,11 @@ daCommemoration.text = "Τῆς Θεοτόκου."
 daVE.OnTheEveningBefore = template.titles_gr_GR_cog.d.onTuesdayEvening
 
 daVE.Apolytikion1.mode = misc_gr_GR_cog.Mode1
-daVE.Apolytikion1.melody  = ""
+daVE.Apolytikion1.melody = ""
 daVE.Apolytikion1.text = me.m09.d14_gr_GR_cog.meVE.Apolytikion1.text
 
 daVE.ApolTheotokion.mode = misc_gr_GR_cog.Mode1
-daVE.ApolTheotokion.melody  = ""
+daVE.ApolTheotokion.melody = ""
 daVE.ApolTheotokion.text = oc.m1.d4_gr_GR_cog.ocVE.ApolTheotokionVM.text
 
 daMA.Triadic1Ending.text = "Δυνάμει τοῦ Σταυροῦ σου σῶσον ἡμᾶς."
@@ -33,4 +33,4 @@ daMA.ExapTheotokion.mode = misc_gr_GR_cog.Mode2
 daMA.ExapTheotokion.melody = he.a.m2_gr_GR_cog.GynaikesAkoutisthite.name
 daMA.ExapTheotokion.text = "Παρισταμένη Πάναγνε, ἐν τῷ Σταυρῷ καὶ βλέπουσα, τὸν σὸν Υἱὸν ἐπὶ ξύλου, ταθέντα καὶ νεκρωθέντα, καὶ μητρικῶς ὠλόλυζες, δακρύουσα καὶ λέγουσα· Τί τοῦτο τὸ παράδοξον, ὅτι ὁ Κτίστης τοῦ κόσμου, Σταυρῷ ταθῆναι ἠνέσχου;"
 
-daLI.CommunionHymn.text = "" //for media
+daLI.CommunionHymn.text = properties_gr_GR_cog.media.key

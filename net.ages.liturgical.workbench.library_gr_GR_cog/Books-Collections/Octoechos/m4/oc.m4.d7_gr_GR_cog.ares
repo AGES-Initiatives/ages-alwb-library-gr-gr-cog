@@ -52,8 +52,7 @@ ocVE.ApolTheotokionVM.mode = misc_gr_GR_cog.Mode4
 ocVE.ApolTheotokionVM.melody = ""
 ocVE.ApolTheotokionVM.text = oc.m4.d1_gr_GR_cog.ocVE.ApolTheotokionVM.text
 
-ocMA.Alleluia.mode = "misc_gr_GR_cog.Mode4" // for mode-specific media e.g. Triodion
-ocMA.Alleluia.text = prayers_gr_GR_cog.Allilouia3.text
+ocMA.MM.Alleluia.text = properties_gr_GR_cog.media.key
 
 ocMA.Kathisma11.mode = misc_gr_GR_cog.Mode4
 ocMA.Kathisma11.melody = he.a.m4_gr_GR_cog.TachyProkatalave.name

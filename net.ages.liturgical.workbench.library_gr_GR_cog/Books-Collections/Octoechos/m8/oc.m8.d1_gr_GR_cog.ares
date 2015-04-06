@@ -1,16 +1,12 @@
 A_Resource_Whose_Name = oc.m8.d1_gr_GR_cog
 
-ocGE.GlorySticheraric.mode = misc_gr_GR_cog.Mode8 // for mode-specific media
-ocGE.GlorySticheraric.text = prayers_gr_GR_cog.DoxaPatri.text
+ocGE.MM.GlorySticheraric.text = properties_gr_GR_cog.media.key
 
-ocGE.BothSticheraric.mode = misc_gr_GR_cog.Mode8 // for mode-specific media
-ocGE.BothSticheraric.text = prayers_gr_GR_cog.KaiNynKaiAei.text
+ocGE.MM.BothSticheraric.text = properties_gr_GR_cog.media.key
 
-ocGE.GloryHeirmologic.mode = misc_gr_GR_cog.Mode8 // for mode-specific media
-ocGE.GloryHeirmologic.text = prayers_gr_GR_cog.DoxaPatri.text
+ocGE.MM.GloryHeirmologic.text = properties_gr_GR_cog.media.key
 
-ocGE.BothHeirmologic.mode = misc_gr_GR_cog.Mode8 // for mode-specific media
-ocGE.BothHeirmologic.text = prayers_gr_GR_cog.KaiNynKaiAei.text
+ocGE.MM.BothHeirmologic.text = properties_gr_GR_cog.media.key
 
 ocSV.Dogmatic.mode = misc_gr_GR_cog.Mode8
 ocSV.Dogmatic.melody = ""
@@ -32,11 +28,9 @@ ocSV.AposDogmatic.mode = misc_gr_GR_cog.Mode8
 ocSV.AposDogmatic.melody = ""
 ocSV.AposDogmatic.text = "Ὃν οὐρανὸς οὐκ ἐχώρησε, Παρθένε Θεοτόκε, ἐν γαστρί σου ἀστενοχωρήτως ἐχωρήθη, καὶ ἔμεινας ἁγνή, ἀρρήτῳ λόγῳ, μηδὲν τῆς παρθένίας λυμανθείσης. Σὺ γὰρ μόνη γέγονας ἐν γυναιξί, καὶ Μήτηρ καὶ Παρθένος, καὶ σὺ μόνη Πάναγνε, ἐγαλούχησας Υἱὸν ζωοδότην, καὶ ἀγκάλαις σου ἐβάστασας, τὸ ἀνύστακτον ὄμμα, ἀλλ' οὐ διέλιπε τοῦ κόλπου του Πατρικοῦ, ὡς προϋπῆρχε πρὸ τῶν αἰώνων, ἀλλ' ἄνω ὅλως, Θεὸς μετὰ Ἀγγέλων, καὶ κάτω ὅλως, ἐκ σοῦ μετὰ ἀνθρώπων, καὶ πανταχοῦ ἀνερμηνεύτως. Αὐτὸν ἱκέτευε, Δέσποινα Παναγία, τοῦ σωθῆναι τοὺς ὀρθοδόξως, ὁμολογοῦντάς σε Θεοτόκον ἁγνήν."
 
-ocVE.LIHC1.mode = misc_gr_GR_cog.Mode8
-ocVE.LIHC1.text = properties_gr_GR_cog.media.key
+ocVE.MM.LIHC1.text = properties_gr_GR_cog.media.key
 
-ocVE.LIHC2.mode = misc_gr_GR_cog.Mode8
-ocVE.LIHC2.text = properties_gr_GR_cog.media.key
+ocVE.MM.LIHC2.text = properties_gr_GR_cog.media.key
 
 ocVE.Stichera1.mode = misc_gr_GR_cog.Mode8
 ocVE.Stichera1.melody = ""
@@ -267,8 +261,7 @@ ocMO.Ode9T.ode = misc_gr_GR_cog.Ode9
 ocMO.Ode9T.melody = he.h.m8_gr_GR_cog.ExestiEpiTouto.name
 ocMO.Ode9T.text = "Νηδὺν Χριστὲ Σωτήρ μου παρθενικήν, ἐνοικήσας ἐφάνης τῷ κόσμῳ σου, θεανδρικῶς, ἄτρεπτος ἀσύγχυτος ἀληθῶς, καὶ καθυπέσχου πάντοτε, μετὰ τῶν σῶν δούλων εἶναι σαφῶς· διὸ τῆς σὲ τεκούσης, πρεσβείαις τὴν εἰρήνην, πάσῃ τῇ ποίμνῃ σου πρυτάνευσον."
 
-ocMA.GodIsTheLord.mode = misc_gr_GR_cog.Mode8
-ocMA.GodIsTheLord.text = ho.s03_gr_GR_cog.hoMA.GodIsTheLord.text
+ocMA.MM.GodIsTheLord.text = properties_gr_GR_cog.media.key
 
 ocMA.Kathisma11.mode = misc_gr_GR_cog.Mode8
 ocMA.Kathisma11.melody = misc_gr_GR_cog.Automelon
@@ -346,9 +339,8 @@ ocMA.Antiphon43.mode = misc_gr_GR_cog.Mode8
 ocMA.Antiphon43.melody = ""
 ocMA.Antiphon43.text = "Ἁγίῳ Πνεύματι, ἑνοειδεῖ αἰτίᾳ, πάντα ἔχεται εἰρηνοβραβεύτως. Θεὸς τοῦτο γάρ ἐστι, Πατρί τε καὶ Υἱῷ, ὁμοούσιον κυρίως."
 
-ocMA.Prokeimenon.text = "Βασιλεύσει Κύριος εἰς τὸν αἰῶνα, ὁ Θεός σου Σιών, εἰς γενεὰν καὶ γενεάν."
+ocMA.MM.Prokeimenon.text = properties_gr_GR_cog.media.key
 
-ocMA.ProkeimenonVerse.text = "Αἴνει ἡ ψυχή μου τὸν Κύριον."
 
 ocMA.C3Acrostic.text = "οὗ ἡ ἀκροστιχίς· Κατ' Ἀλφάβητον."
 
@@ -762,9 +754,9 @@ ocMA.OdeS9C33.text = "Ὡραῖος Θεοτόκε, ἔφυ ὁ καρπός 
 ocMA.Magnificat.mode = misc_gr_GR_cog.Mode8
 ocMA.Magnificat.text = he.h.m6_gr_GR_cog.TinTimioteran.text
 
-ocMA.Lauds01.text = properties_gr_GR_cog.media.key
+ocMA.MM.Lauds01.text = properties_gr_GR_cog.media.key
 
-ocMA.Lauds02.text = properties_gr_GR_cog.media.key
+ocMA.MM.Lauds02.text = properties_gr_GR_cog.media.key
 
 ocMA.Lauds1.mode = misc_gr_GR_cog.Mode8
 ocMA.Lauds1.melody = misc_gr_GR_cog.Automelon

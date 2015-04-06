@@ -164,11 +164,8 @@ meMA.Kathisma31.mode = misc_gr_GR_cog.Mode3
 meMA.Kathisma31.melody = he.a.m3_gr_GR_cog.TinOraiotita.name
 meMA.Kathisma31.text = "Ἐν τῇ Γεννήσει σου, σύλληψις ἄσπορος, ἐν τῇ Κοιμήσει σου, νέκρωσις ἄφθορος, θαῦμα ἐν θαύματι διπλοῦν, συνέδραμε Θεοτόκε· πῶς γὰρ ἡ ἀπείρανδρος, βρεφοτρόφος ἁγνεύουσα; πῶς δὲ ἡ μητρόθεος, νεκροφόρος μυρίζουσα; Διὸ σὺν τῷ Ἀγγέλῳ βοῶμέν σοι· Χαῖρε ἡ Κεχαριτωμένη."
 
-meMA.Prokeimenon.text = "" // for media
+meMA.MM.Prokeimenon.text = properties_gr_GR_cog.media.key
 //from goarch: http://goarch.org/chapel/lectionary_view?type=MGandcode=370andlanguage=elanddate=8/15/2013
-//meMA.Gospel.name = "Λουκᾶν" //"Ματθαῖον or Μᾶρκον or Λουκᾶν or Ἰωάννην or Matthew or Mark or Luke or John"
-//meMA.Gospel.chapverse = "(Κεφ. 1.39-49, 56)" //"(Κεφ. ΓΓʹ 11-11) or 1:11-11"
-//meMA.Gospel.text = "Ἐν ταῖς ἡμέρας ἐκείνας, ἀναστᾶσα δὲ Μαριὰμ ἐν ταῖς ἡμέραις ταύταις ἐπορεύθη εἰς τὴν ὀρεινὴν μετὰ σπουδῆς εἰς πόλιν 'Ιούδα, καὶ εἰσῆλθεν εἰς τὸν οἶκον Ζαχαρίου καὶ ἠσπάσατο τὴν 'Ελισάβετ. καὶ ἐγένετο ὡς ἤκουσεν ἡ 'Ελισάβετ τὸν ἀσπασμὸν τῆς Μαρίας, ἐσκίρτησε τὸ βρέφος ἐν τῇ κοιλίᾳ αὐτῆς· καὶ ἐπλήσθη Πνεύματος ῾Αγίου ἡ 'Ελισάβετ καὶ ἀνεφώνησε φωνῇ μεγάλῃ καὶ εἶπεν· εὐλογημένη σὺ ἐν γυναιξὶ καὶ εὐλογημένος ὁ καρπὸς τῆς κοιλίας σου. καὶ πόθεν μοι τοῦτο ἵνα ἔλθῃ ἡ μήτηρ τοῦ Κυρίου μου πρός με; ἰδοὺ γὰρ ὡς ἐγένετο ἡ φωνὴ τοῦ ἀσπασμοῦ σου εἰς τὰ ὦτά μου, ἐσκίρτησε τὸ βρέφος ἐν ἀγαλλιάσει ἐν τῇ κοιλίᾳ μου. καὶ μακαρία ἡ πιστεύσασα ὅτι ἔσται τελείωσις τοῖς λελαλημένοις αὐτῇ παρὰ Κυρίου. Καὶ εἶπε Μαριάμ· Μεγαλύνει ἡ ψυχή μου τὸν Κύριον καὶ ἠγαλλίασε τὸ πνεῦμά μου ἐπὶ τῷ Θεῷ τῷ σωτῆρί μου, ὅτι ἐπέβλεψεν ἐπὶ τὴν ταπείνωσιν τῆς δούλης αὐτοῦ. ἰδοὺ γὰρ ἀπὸ τοῦ νῦν μακαριοῦσί με πᾶσαι αἱ γενεαί· ὅτι ἐποίησέ μοι μεγαλεῖα ὁ δυνατὸς καὶ ἅγιον τὸ ὄνομα αὐτοῦ. ῎Εμεινε δὲ Μαριὰμ σὺν αὐτῇ ὡσεὶ μῆνας τρεῖς καὶ ὑπέστρεψεν εἰς τὸν οἶκον αὐτῆς."
 
 meMA.PostGospelGlory.mode = misc_gr_GR_cog.Mode2
 meMA.PostGospelGlory.melody = ""
@@ -495,11 +492,11 @@ meMA.LaudsGlory.mode = misc_gr_GR_cog.Mode6
 meMA.LaudsGlory.melody = ""
 meMA.LaudsGlory.text = "Τῇ ἀθανάτῳ σου Κοιμήσει, Θεοτόκε Μήτηρ τῆς ζωῆς, νεφέλαι τοὺς Ἀποστόλους, αἰθερίους διήρπαζον, καὶ κοσμικῶς διεσπαρμένους, ὁμοχώρους παρέστησαν τῷ ἀχράντῳ σου σώματι· οἳ καὶ κηδεύσαντες σεπτῶς, τὴν φωνὴν τοῦ Γαβριήλ, μελῳδοῦντες ἀνεβόων· Χαῖρε κεχαριτωμένη, Παρθένε Μήτηρ ἀνύμφευτε, ὁ Κύριος μετὰ σοῦ. Μεθ' ὧν ὡς Υἱόν σου καὶ Θεὸν ἡμῶν, ἱκέτευε σωθῆναι τὰς ψυχὰς ἡμῶν."
 
-meMA.LaudsSundayVerse1.text = "" // for media
+meMA.MM.LaudsSunday.text = properties_gr_GR_cog.media.key
 
 meLI.Antiphon2.text = ho.s07_gr_GR_cog.hoLI.Antiphon2w.text
 
-meLI.EntranceHymn.text = ho.s07_gr_GR_cog.hoLI.EntranceHymn.text
+meLI.MM.EntranceHymn.text = properties_gr_GR_cog.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
@@ -513,7 +510,7 @@ meLI.TheotokosHymn.mode = meMA.Ode9C1H.mode
 meLI.TheotokosHymnVerse.text = meMA.Ode9C1M01.text
 meLI.TheotokosHymn.text = meMA.Ode9C1H.text
 
-meLI.CommunionHymn.text = "" // for media
+meLI.MM.CommunionHymn.text = properties_gr_GR_cog.media.key
 
 meMegalynarion.text = ""
 

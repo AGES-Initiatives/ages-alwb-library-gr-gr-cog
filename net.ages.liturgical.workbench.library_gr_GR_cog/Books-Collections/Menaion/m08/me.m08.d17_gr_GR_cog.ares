@@ -9,7 +9,7 @@ meNote.text = ""
 meLE.commemoration1 = "Μνήμη τοῦ Ἁγίου Μάρτυρος Μύρωνος."
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -39,7 +39,7 @@ meVE.Stichera06.melody = he.a.m2_gr_GR_cog.OteEkTouXylou.name
 meVE.Stichera06.text = "Ὅτε τοῖς βουνεύροις ὁ ἐχθρός, ἔτυπτε ξεσμοῖς ἀνενδότως, ἐκδαπανώμενον, μάρτυς τὸ σαρκίον σου τὸ ἱερώτατον, πρὸς Χριστὸν ἐνητένιζες, τὸν ἀγωνοθέτην, χεῖρά σοι προτείνοντα θείας δυνάμεως· ὅθεν ἐκτελέσας τον δρόμον, ἔτυχες μεγίστων ἐπάθλων, Μύρων ἀθλοφόρε γενναιότατε."
 
 meVE.SticGlory.mode = misc_gr_GR_cog.Mode2
-meVE.SticGlory.melody  = ""
+meVE.SticGlory.melody = ""
 meVE.SticGlory.text = me.m08.d15_gr_GR_cog.meSV.SticGlory.text
 
 meVE.Aposticha1.mode = misc_gr_GR_cog.Mode2
@@ -59,7 +59,7 @@ meVE.Aposticha3.melody = he.a.m2_gr_GR_cog.OikosTouEfratha.name
 meVE.Aposticha3.text = "Σῶμά σου τῇ φθορᾷ, ἀπρόσιτον ὑπῆρξε, καὶ πρὸς ταφὴν ἐδόθη, τῆς φύσεως τῷ νόμῳ, μένει δὲ ἀδιάφθορον."
 
 meVE.AposGlory.mode = misc_gr_GR_cog.Mode2
-meVE.AposGlory.melody  = ""
+meVE.AposGlory.melody = ""
 meVE.AposGlory.text = me.m08.d15_gr_GR_cog.meVE.Lity3.text
 
 meVE.Apolytikion1.poet = poets_gr_GR_cog.Gerasimou
@@ -201,7 +201,7 @@ meMA.Kontakion1.text = "Ἐκ βρέφους Χριστόν, ποθήσας �
 
 meMA.Oikos1.text = "Τὸν ἐκ κοιλίας ἡγιασμένον ἀνυμνήσωμεν πάντες, ὡς εὐῶδες Χριστοῦ μύρον παναληθέστατον· ὄντως γὰρ τοῖς προσιοῦσιν ἐν πίστει θερμῇ, τὰς ἰάσεις παρέχει τῶν νοσημάτων· τῇ γὰρ ἀγάπῃ τοῦ Κτίστου πυρούμενος, συμπάσχει τοῖς ἐν ἀνάγκαις, καὶ λυτροῦται δεινῶν ὁ πανόλβιος, μυρίζων πάντας τῇ χάριτι, τῇ δοθείσῃ αὐτῷ ἐκ τοῦ Πνεύματος, αἰτούμενος πᾶσι θείαν ἄφεσιν."
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C11.ode = misc_gr_GR_cog.Ode7
 meMA.Ode7C11.mode = misc_gr_GR_cog.Mode2
@@ -290,13 +290,9 @@ meMA.Aposticha1.mode = misc_gr_GR_cog.Mode2
 meMA.Aposticha1.melody = he.a.m2_gr_GR_cog.OikosTouEfratha.name
 meMA.Aposticha1.text = "Νύμφην σε τοῦ Θεοῦ, ἡ ἄνω βασιλεία, τῶν ἐκλεκτῶν ἡ δόξα, προσδέχεται Παρθένε, πρὸς σὸν Υἱὸν χωρήσασαν."
 
-meMA.ApostichaVerse2.text = meVE.ApostichaVerse2.text
-
 meMA.Aposticha2.mode = misc_gr_GR_cog.Mode2
 meMA.Aposticha2.melody = he.a.m2_gr_GR_cog.OikosTouEfratha.name
 meMA.Aposticha2.text = me.m08.d15_gr_GR_cog.meSV.Aposticha1.text
-
-meMA.ApostichaVerse3.text = meVE.ApostichaVerse3.text
 
 meMA.Aposticha3.mode = misc_gr_GR_cog.Mode2
 meMA.Aposticha3.melody = he.a.m2_gr_GR_cog.OikosTouEfratha.name
@@ -304,10 +300,10 @@ meMA.Aposticha3.text = "Δόξα ἐν οὐρανῷ, ἐπὶ γῆς εὐφ
 
 meMA.AposGlory.poet = poets_gr_GR_cog.LeontosDespotou
 meMA.AposGlory.mode = misc_gr_GR_cog.Mode8
-meMA.AposGlory.melody  = ""
+meMA.AposGlory.melody = ""
 meMA.AposGlory.text = "Πιστούμενος Ἰησοῦς, ὁ Υἱός σου Θεοτόκε καὶ Θεὸς ἡμῶν, τὰς δύο φύσεις αὐτοῦ, ὡς μὲν ἄνθρωπος θνῄσκει, ὡς δὲ Θεὸς ἐξανίσταται, καὶ σὲ Θεομῆτορ, νόμῳ φύσεως θανεῖν εὐδόκησεν, ἵνα μὴ τοῖς ἀπίστοις, φαντασία νομισθῇ ἢ οἰκονομία. Μετέβης δὲ πρὸς οὐρανοὺς ἡ ἐπουράνιος νύμφη, ὡς ἐκ παστοῦ τοῦ σκήνους σου, γῆθεν ἀπάρασα. Ἡγιάσθη ὁ αἰθὴρ ἐν τῇ ἀνόδῳ σου, ὡς ἐφωτίσθη ἡ γῆ ἐν τῷ τόκῳ σου. Προπέμπουσιν Ἀπόστολοι καὶ Ἄγγελοι ὑποδέχονται. Ὅθεν κηδεύσαντες τὸ πανάχραντον σῶμά σου, καὶ ἐπιτάφιον ὕμνον ἐξᾴδοντες, μετάρσιον ἔβλεπον, καὶ φόβῳ ἔλεγον· Αὕτη ἡ ἀλλοίωσις τῆς δεξιᾶς τοῦ Ὑψίστου· αὐτὸς γὰρ ἐν μέσῳ σου, καὶ οὐ σαλευθήσῃ. Ἀλλ' ὧ πολυύμνητε Κόρη, μὴ διαλίπῃς ἡμᾶς ἐποπτεύουσα· ἡμεῖς γὰρ λαός σου, καὶ πρόβατα νομῆς σου, καὶ τὸ ὄνομά σου ἐπικεκλήμεθα, αἰτούμενοι διὰ σοῦ σωτηρίαν, καὶ μέγα ἔλεος."
 
-meMA.LaudsSundayVerse1.text = "" //for media
+meMA.MM.LaudsSunday.text = properties_gr_GR_cog.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody

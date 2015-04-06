@@ -9,7 +9,7 @@ meNote.text = ""
 meLE.commemoration1 = "Προεόρτια τοῦ Εὐαγγελισμοῦ τῆς Ὑπεραγίας Θεοτόκου."
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -27,11 +27,11 @@ meVE.Stichera03.melody = he.a.m4_gr_GR_cog.OsGennaionEnMartysi.name
 meVE.Stichera03.text = "Γαβριὴλ ὁ Ἀρχάγγελος, ἐπὶ σὲ Παναμώμητε, ἐμφανῶς ἐλεύσεται καὶ βοήσει σοι· Χαῖρε κατάρας λυτήριον, πεσόντων ἀνόρθωσις, χαῖρε μόνη ἐκλεκτή, τῷ Θεῷ χρηματίσασα, χαῖρε ἔμψυχε, τοῦ Ἡλίου νεφέλη ὑποδέχου, τὸν ἀσώματον ἐν μήτρᾳ, τῇ σῇ οἰκῆσαι θελήσαντα."
 
 meVE.SticGlory.mode = misc_gr_GR_cog.Mode2
-meVE.SticGlory.melody  = ""
+meVE.SticGlory.melody = ""
 meVE.SticGlory.text = me.m03.d25_gr_GR_cog.meVE.LityGlory.text 
 
 meVE.Apolytikion1.mode = misc_gr_GR_cog.Mode4
-meVE.Apolytikion1.melody  = ""
+meVE.Apolytikion1.melody = ""
 meVE.Apolytikion1.text = "Σήμερον τῆς παγκοσμίου χαρᾶς τὰ προοίμια, τὴν προεόρτιον ᾆσαι προτρέπεται· ἰδοὺ γὰρ Γαβριὴλ παραγίνεται, καὶ πρὸς αὐτὴν ἐκβοήσεται· Χαῖρε Κεχαριτωμένη, ὁ Κύριος μετὰ σοῦ."
 
 meMA.C1Poet = poets_gr_GR_cog.Georgiou //οἱ δὲ Θεοφάνους
@@ -169,7 +169,7 @@ meMA.Kontakion1.mode = misc_gr_GR_cog.Mode4
 meMA.Kontakion1.melody = he.a.m4_gr_GR_cog.EpefanisSimeron.name
 meMA.Kontakion1.text = "Ἐπελεύσει Πνεύματος τοῦ Παναγίου, τοῦ Πατρὸς τὸν σύνθρονον, καὶ ὁμοούσιον φωνῇ, τοῦ Ἀρχαγγέλου συνέλαβες, Θεοκυῆτορ, Ἀδὰμ ἡ ἀνάκλησις."
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C1H.ode = misc_gr_GR_cog.Ode7
 meMA.Ode7C1H.mode = misc_gr_GR_cog.Mode4
@@ -251,7 +251,7 @@ meMA.Exaposteilarion1.melody = he.a.m2_gr_GR_cog.GynaikesAkoutisthite.name
 meMA.Exaposteilarion1.text = "Ὡς δῶρα προεόρτια, προσφέρομέν σοι Πάναγνε, φιλοπτωχείας τὸν πλοῦτον, ἁγνείαν καὶ σωφροσύνην, ὕμνους εὐχὰς καὶ δάκρυα, νηστείαν καὶ ταπείνωσιν, ἐφ' οἷς συμπράττοις Δέσποινα, καὶ ἅπαντας ἐποπτεύοις εὐσπλάγχνως, ὦ Θεομῆτορ."
 
 meMA.AposGlory.mode = misc_gr_GR_cog.Mode4
-meMA.AposGlory.melody  = ""
+meMA.AposGlory.melody = ""
 meMA.AposGlory.text = me.m03.d25_gr_GR_cog.meVE.Aposticha2.text
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
@@ -262,7 +262,7 @@ meLI.SeasonalKontakion.mode = misc_gr_GR_cog.Mode4
 meLI.SeasonalKontakion.melody = he.a.m4_gr_GR_cog.EpefanisSimeron.name
 meLI.SeasonalKontakion.text = meMA.Kontakion1.text 
 
-meLI.CommunionHymn.text = ""
+meLI.MM.CommunionHymn.text = properties_gr_GR_cog.media.key
 
 meMegalynarion.text = ""
 

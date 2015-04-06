@@ -9,7 +9,7 @@ meNote.text = ""
 meLE.commemoration1 = "Μνήμη τῆς Ἁγίας Μάρτυρος Γλυκερίας."
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -129,7 +129,7 @@ meMA.Kontakion1.mode = misc_gr_GR_cog.Mode2
 meMA.Kontakion1.melody = he.a.m3_gr_GR_cog.IParthenosSimeron.name
 meMA.Kontakion1.text = "Τὴν Παρθένον στέργουσα, καὶ Θεοτόκον Μαρίαν, διετήρεις ἄφθορον, τὴν σεαυτῆς παρθενίαν· πόθῳ δέ, καρδιωθεῖσα τῷ τοῦ Κυρίου, ἤθλησας, ἀνδρειοφρόνως μέχρι θανάτου· διὰ τοῦτο Γλυκερία, διπλῷ στεφάνῳ, σὲ στέφει Χριστὸς ὁ Θεός."
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C11.ode = misc_gr_GR_cog.Ode7
 meMA.Ode7C11.mode = misc_gr_GR_cog.Mode2
@@ -187,19 +187,17 @@ meMA.Ode9H.mode = misc_gr_GR_cog.Mode2
 meMA.Ode9H.melody = misc_gr_GR_cog.Heirmos
 meMA.Ode9H.text = he.h.m2_gr_GR_cog.TonEkTheouTheonLogon.text
 
-meMA.LaudsSundayVerse1.text = ""
-
-meMA.LaudsSundayVerse2.text = ""
+meMA.MM.LaudsSunday.text = properties_gr_GR_cog.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.text = meMA.Kontakion1.text
 
 meLI.SeasonalKontakion.mode = misc_gr_GR_cog.Mode2
-meLI.SeasonalKontakion.melody  = ""
+meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = ho.s07_gr_GR_cog.hoTY.Key0408.text
 
-meLI.CommunionHymn.text = ""
+meLI.MM.CommunionHymn.text = properties_gr_GR_cog.media.key
 
 meMegalynarion.text = ""
 

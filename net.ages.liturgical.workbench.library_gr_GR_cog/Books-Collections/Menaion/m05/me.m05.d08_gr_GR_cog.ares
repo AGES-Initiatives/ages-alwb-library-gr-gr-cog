@@ -103,11 +103,8 @@ meMA.Kathisma31.mode = misc_gr_GR_cog.Mode4
 meMA.Kathisma31.melody = he.a.m4_gr_GR_cog.TachyProkatalave.name
 meMA.Kathisma31.text = "Τὴν μνήμην τιμήσωμεν, τοῦ Ἀποστόλου πιστοί· ἐπέστη γὰρ σήμερον, πᾶσι τοῖς πέρασι, φωτίζουσα ἅπαντας. Οὗτος γὰρ τοῦ Κυρίου, ἀληθὴς Θεολόγος, καὶ ἐν Εὐαγγελίῳ, ἀναδέδεικται φίλος· διὸ καὶ τοῖς τιμῶσιν αὐτόν, βρύει ἰάματα."
 
-meMA.Prokeimenon.text = "" // for media
+meMA.MM.Prokeimenon.text = properties_gr_GR_cog.media.key
 //Eothinon 11: http://goarch.org/chapel/lectionary_view?type=MGandcode=49andevent=1907andlanguage=elanddate=11/24/2013
-//meMA.Gospel.name = "Λουκᾶν" //"Ματθαῖον or Μᾶρκον or Λουκᾶν or Ἰωάννην or Matthew or Mark or Luke or John"
-//meMA.Gospel.chapverse = "(21:14-25)" //"(Κεφ. ΓΓʹ 11-11) or 1:11-11"
-//meMA.Gospel.text = "Τῷ καιρῷ ἐκείνῳ, ἐφανερώθη ὁ 'Ιησοῦς τοῖς μαθηταῖς αὐτοῦ ἐγερθεὶς ἐκ νεκρῶν. ῞Οτε οὖν ἠρίστησαν, λέγει τῷ Σίμωνι Πέτρῳ ὁ 'Ιησοῦς· Σίμων 'Ιωνᾶ, ἀγαπᾷς με πλεῖον τούτων; λέγει αὐτῷ· ναί, Κύριε, σὺ οἶδας ὅτι φιλῶ σε. λέγει αὐτῷ· βόσκε τὰ ἀρνία μου. λέγει αὐτῷ πάλιν δεύτερον· Σίμων 'Ιωνᾶ, ἀγαπᾷς με; λέγει αὐτῷ· ναί, Κύριε, σὺ οἶδας ὅτι φιλῶ σε. λέγει αὐτῷ· ποίμαινε τὰ πρόβατά μου. λέγει αὐτῷ τὸ τρίτον· Σίμων 'Ιωνᾶ, φιλεῖς με; ἐλυπήθη ὁ Πέτρος ὅτι εἶπεν αὐτῷ τὸ τρίτον, φιλεῖς με, καὶ εἶπεν αὐτῷ· Κύριε, σὺ πάντα οἶδας, σὺ γινώσκεις ὅτι φιλῶ σε. λέγει αὐτῷ ὁ 'Ιησοῦς· βόσκε τὰ πρόβατά μου. ἀμὴν ἀμὴν λέγω σοι, ὅτε ἦς νεώτερος, ἐζώννυες σεαυτὸν καὶ περιεπάτεις ὅπου ἤθελες· ὅταν δὲ γηράσῃς, ἐκτενεῖς τὰς χεῖράς σου, καὶ ἄλλος σε ζώσει, καὶ οἴσει ὅπου οὐ θέλεις. τοῦτο δὲ εἶπε σημαίνων ποίῳ θανάτῳ δοξάσει τὸν Θεόν. καὶ τοῦτο εἰπὼν λέγει αὐτῷ· ἀκολούθει μοι. ἐπιστραφεὶς δὲ ὁ Πέτρος βλέπει τὸν μαθητὴν ὃν ἠγάπα ὁ 'Ιησοῦς ἀκολουθοῦντα, ὃς καὶ ἀνέπεσεν ἐν τῷ δείπνῳ ἐπὶ τὸ στῆθος αὐτοῦ καὶ εἶπε· Κύριε, τίς ἐστιν ὁ παραδιδούς σε; τοῦτον ἰδὼν ὁ Πέτρος λέγει τῷ 'Ιησοῦ· Κύριε, οὗτος δὲ τί; λέγει αὐτῷ ὁ 'Ιησοῦς· ἐὰν αὐτὸν θέλω μένειν ἕως ἔρχομαι, τί πρὸς σέ; σὺ ἀκολούθει μοι. ἐξῆλθεν οὖν ὁ λόγος οὗτος εἰς τοὺς ἀδελφοὺς ὅτι ὁ μαθητὴς ἐκεῖνος οὐκ ἀποθνήσκει· καὶ οὐκ εἶπεν αὐτῷ ὁ 'Ιησοῦς ὅτι οὐκ ἀποθνήσκει, ἀλλ' ἐὰν αὐτὸν θέλω μένειν ἕως ἔρχομαι, τί πρὸς σέ; Οὗτός ἐστιν ὁ μαθητὴς ὁ μαρτυρῶν περὶ τούτων καὶ γράψας ταῦτα, καὶ οἴδαμεν ὅτι ἀληθής ἐστιν ἡ μαρτυρία αὐτοῦ. ἔστι δὲ καὶ ἄλλα πολλὰ ὅσα ἐποίησεν ὁ 'Ιησοῦς, ἅτινα ἐὰν γράφηται καθ' ἕν, οὐδὲ αὐτὸν οἶμαι τὸν κόσμον χωρῆσαι τὰ γραφόμενα βιβλία. ἀμήν."
 
 meMA.PostGospelGlory.mode = misc_gr_GR_cog.Mode2
 meMA.PostGospelGlory.melody = ""
@@ -410,9 +407,7 @@ meMA.LaudsGlory.mode = misc_gr_GR_cog.Mode8
 meMA.LaudsGlory.melody = ""
 meMA.LaudsGlory.text = "Εὐαγγελιστὰ Ἰωάννη, Ἰσάγγελε παρθένε, Θεολόγε θεοδίδακτε, ὀρθοδόξως τῷ κόσμῳ, τὴν ἄχραντον πλευράν, τὸ αἷμα καὶ τὸ ὕδωρ, βλύζουσαν ἐκήρυξας, ἐν ᾧ τὴν αἰώνιον ζωὴν ποριζόμεθα ταῖς ψυχαῖς ἡμῶν."
 
-meMA.LaudsSundayVerse1.text = meVE.ApostichaVerse2.text
-
-meMA.LaudsSundayVerse2.text = meVE.ApostichaVerse3.text
+meMA.MM.LaudsSunday.text = properties_gr_GR_cog.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
@@ -422,7 +417,7 @@ meLI.SeasonalKontakion.mode = misc_gr_GR_cog.Mode2
 meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = ""
 
-meLI.CommunionHymn.text = da.d5_gr_GR_cog.daLI.CommunionHymnAlt.text
+meLI.MM.CommunionHymn.text = properties_gr_GR_cog.media.key
 
 meMegalynarion.text = ""
 

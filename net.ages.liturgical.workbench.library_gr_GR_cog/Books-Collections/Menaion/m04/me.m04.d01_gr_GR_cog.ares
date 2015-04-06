@@ -12,7 +12,7 @@ meNote.text = ""
 meLE.commemoration1 = "Μνήμη τῆς Ὁσίας Μητρὸς ἡμῶν Μαρίας τῆς Αἰγυπτίας."
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -38,7 +38,7 @@ meVE.SticStavrotheotokion.melody = he.a.m6_gr_GR_cog.OlinApothemenoi.name
 meVE.SticStavrotheotokion.text = "Κρίσιν Ἰσραὴλ κριταί, θανατηφόρον κριθῆναι, σὲ Υἱὲ κατέκριναν, ὡς κριτὸν σε στήσαντες, ἐπὶ βήματος, τὸν νεκροὺς κρίνοντα, καὶ τοὺς ζῶντας Σῶτερ, καὶ Πιλάτῳ παριστῶσί σε, καὶ κατακρίνουσι, πρὸ τῆς δίκης, φεῦ! οἱ παράνομοι, καὶ βλέπουσα τιτρώσκομαι, καὶ συγκατακρίνομαι Κύριε· ὅθεν καὶ προκρίνω, θανεῖν ὑπὲρ τὸ ζῆν, ἐν στεναγμοῖς, ἡ Θεοτόκος ἐκραύγαζε, μόνε πολυέλεε."
 
 meVE.SticGlory.mode = misc_gr_GR_cog.Mode2
-meVE.SticGlory.melody  = ""
+meVE.SticGlory.melody = ""
 meVE.SticGlory.text = "Τὰ τῆς ψυχῆς θηρεύματα, καὶ τὰ πάθη τῆς σαρκός, τῷ ξίφει τῆς ἐγκρατείας ἔτεμες, τὰ τῆς ἐννοίας ἐγκλήματα, τῇ σιγῇ τῆς ἀσκήσεως ἀπέπνιξας, καὶ ῥείθροις τῶν δακρύων σου, τὴν ἔρημον ἅπασαν κατήρδευσας, καὶ ἐβλάστησας ἡμῖν τῆς μετανοίας καρπούς· διό σου τὴν μνήμην Ὁσία ἑορτάζομεν."
 
 meVE.SticTheotokion2.mode = misc_gr_GR_cog.Mode2
@@ -219,7 +219,7 @@ meMA.Kontakion1.text = "Ἡ πορνείαις πρότερον, μεμεστ�
 
 meMA.Oikos1.text = "Τὴν ἀμνάδα Χριστοῦ καὶ θυγατέρα ᾄσμασιν εὐφημοῦμέν σε νῦν , Μαρία παναοίδιμε, τὴν τῶν Αἰγυπτίων μὲν ἀναφανεῖσαν θρέμμα, τὴν πλάνην δὲ τούτων πᾶσαν φυγοῦσαν, καὶ καλῶς προσενεχθεῖσαν τῇ Ἐκκλησίᾳ βλάστημα τίμιον, δι' ἐγκρατείας καὶ δεήσεως, ἀσκήσασα ὑπὲρ μέτρον τῆς ἀνθρωπίνης φύσεως· διὸ καὶ ὑψώθης ἐν Χριστῷ διὰ βίου καὶ πράξεως, βασιλείας οὐρανοῦ φανεῖσα νύμφη, Μαρία πάνσεμνε."
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C1H.ode = misc_gr_GR_cog.Ode7
 meMA.Ode7C1H.mode = misc_gr_GR_cog.Mode2
@@ -306,19 +306,17 @@ meMA.Ode9C1T.mode = misc_gr_GR_cog.Mode2
 meMA.Ode9C1T.melody = he.h.m2_gr_GR_cog.ITonProIliouFostira.name
 meMA.Ode9C1T.text = "Ὤφθης ἀνωτέρα ἁπάντων, ποιημάτων Κόρη Δέσποινα, ὡς τὸν Δεσπότην πάντων ἐν κοιλίᾳ σου, ὑπὲρ λόγον σωματικῶς, βαστάσασα καὶ γάλακτι, μητροπρεπῶς θηλάσασα· ὅθεν σε πάντες μεγαλύνομεν."
 
-meMA.LaudsSundayVerse1.text = ""
-
-meMA.LaudsSundayVerse2.text = ""
+meMA.MM.LaudsSunday.text = properties_gr_GR_cog.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.text = meMA.Kontakion1.text
 
 meLI.SeasonalKontakion.mode = misc_gr_GR_cog.Mode2
-meLI.SeasonalKontakion.melody  = ""
+meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = ho.s07_gr_GR_cog.hoTY.Key0408.text
 
-meLI.CommunionHymn.text = ""
+meLI.MM.CommunionHymn.text = properties_gr_GR_cog.media.key
 
 meMegalynarion.text = ""
 

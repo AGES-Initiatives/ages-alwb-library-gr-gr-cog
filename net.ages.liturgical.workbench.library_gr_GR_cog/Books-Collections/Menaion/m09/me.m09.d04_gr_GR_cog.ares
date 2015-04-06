@@ -63,7 +63,7 @@ meVE.AposStavrotheotokion.melody = he.a.m6_gr_GR_cog.TriimerosAnestis.name
 meVE.AposStavrotheotokion.text = "Λαὸν τὸν ἀνομώτατον, ἀδίκως καθηλοῦντά σε, ἐπὶ ξύλου, ἡ Παρθένος καὶ ἁγνή, καὶ Μήτηρ σου ὁρῶσα, ὡς Συμεὼν προέφη, τὰ σπλάγχνα Σῶτερ διετέτρωτο."
 
 meVE.GeneralApolytikion1.name = "Βαβύλα·"
-meVE.GeneralApolytikion1.text = "" //for media
+meVE.GeneralApolytikion1.text = properties_gr_GR_cog.media.key
 
 meVE.Apolytikion1.poet = poets_gr_GR_cog.Gerasimou
 meVE.Apolytikion1.mode = misc_gr_GR_cog.Mode4
@@ -475,7 +475,7 @@ meMA.ExapTheotokion.mode = misc_gr_GR_cog.Mode3
 meMA.ExapTheotokion.melody = he.a.m3_gr_GR_cog.OOuranonToisAstrois.name
 meMA.ExapTheotokion.text = "Τοὺς μὴ τὴν σὴν εἰκόνα, Παρθένε ἀσπαζομένους, καὶ τοῦ Υἱοῦ καὶ Θεοῦ σου, ἐκ πίστεως εἰλικρινοῦς, κατάβαλε ὡς ἀθέους, καὶ τῇ γεέννῃ παράδος."
 
-meMA.LaudsSundayVerse1.text = "" // for media
+meMA.MM.LaudsSunday.text = properties_gr_GR_cog.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
@@ -485,7 +485,7 @@ meLI.SeasonalKontakion.mode = me.m09.d08_gr_GR_cog.meMA.Kontakion1.mode
 meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = me.m09.d08_gr_GR_cog.meMA.Kontakion1.text
 
-meLI.CommunionHymn.text = "" // for media
+meLI.MM.CommunionHymn.text = properties_gr_GR_cog.media.key
 
 meMegalynarion.text = ""
 

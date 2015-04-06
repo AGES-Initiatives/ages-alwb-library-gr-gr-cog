@@ -174,10 +174,7 @@ meMA.Kathisma3T.mode = misc_gr_GR_cog.Mode4
 meMA.Kathisma3T.melody = he.a.m4_gr_GR_cog.KateplagiIosif.name
 meMA.Kathisma3T.text = "Μετὰ σώματος Ἁγνή, προαγαγοῦσα τοῖς ἐν γῇ, τὸν ἀσώματον Θεόν, διὰ τὸ σῶσαι τὸν Ἀδάμ, τὸν συντριβέντα ἀπάτῃ τοῦ βροτοκτόνου, ὤφθης ἀληθῶς, θρόνος πυρίμορφος, φέρουσα χερσί, τὸν πάντα φέροντα, καὶ οὐρανῶν πλατυτέρα ἐγνώρισται, ἡ σὴ γαστὴρ ἡ ἀκήρατος. Ἀλλ' ὦ Παρθένε, τῆς οὐρανίου, δόξης ἡμᾶς καταξίωσον."
 
-meMA.Prokeimenon.text = "" // for media
-//meMA.Gospel.name = "Λουκᾶν " //"Ματθαῖον or Μᾶρκον or Λουκᾶν or Ἰωάννην or Matthew or Mark or Luke or John"
-//meMA.Gospel.chapverse = "(Κεφ. ΚΑʹ 12-19)"
-//meMA.Gospel.text = "Εἶπεν ὁ Κύριος τοῖς ἑαυτοῦ Μαθηταῖς· Προσέχετε ἀπὸ τῶν ἀνθρώπων· ἐπιβαλοῦσιν γὰρ ἐφ' ὑμᾶς τὰς χεῖρας αὐτῶν καὶ διώξουσι, παραδιδόντες εἰς συναγωγὰς καὶ φυλακάς, ἀγομένους ἐπὶ βασιλεῖς καὶ ἡγεμόνας ἕνεκεν τοῦ ὀνόματός μου· ἀποβήσεται δὲ ὑμῖν εἰς μαρτύριον. θέτε οὖν εἰς τὰς καρδίαις ὑμῶν μὴ προμελετᾶν ἀπολογηθῆναι· ἐγὼ γὰρ δώσω ὑμῖν στόμα καὶ σοφίαν, ᾗ οὐ δυνήσονται ἀντειπεῖν οὐδὲ ἀντιστῆναι πάντες οἱ ἀντικείμενοι ὑμῖν. παραδοθήσεσθε δὲ καὶ ὑπὸ γονέων καὶ συγγενῶν καὶ φίλων καὶ ἀδελφῶν, καὶ θανατώσουσιν ἐξ ὑμῶν, καὶ ἔσεσθε μισούμενοι ὑπὸ πάντων διὰ τὸ ὄνομά μου· καὶ θρὶξ ἐκ τῆς κεφαλῆς ὑμῶν οὐ μὴ ἀπόληται· ἐν τῇ ὑπομονῇ ὑμῶν κτήσασθε τὰς ψυχὰς ὑμῶν."
+meMA.MM.Prokeimenon.text = properties_gr_GR_cog.media.key
 
 meMA.PostGospelGlory.mode = misc_gr_GR_cog.Mode2
 meMA.PostGospelGlory.melody = ""
@@ -456,7 +453,7 @@ meMA.LaudsTheotokion.mode = misc_gr_GR_cog.Mode5
 meMA.LaudsTheotokion.melody = ""
 meMA.LaudsTheotokion.text = oc.m5.d3_gr_GR_cog.ocVE.AposTheotokion.text
 
-meMA.LaudsSundayVerse1.text = "" // for media
+meMA.MM.LaudsSunday.text = properties_gr_GR_cog.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
@@ -466,7 +463,7 @@ meLI.SeasonalKontakion.mode = me.m09.d08_gr_GR_cog.meMA.Kontakion1.mode
 meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = me.m09.d08_gr_GR_cog.meMA.Kontakion1.text
 
-meLI.CommunionHymn.text = "" // for media
+meLI.MM.CommunionHymn.text = properties_gr_GR_cog.media.key
 
 meMegalynarion.text = "Χαίροις ὦ Φανούριε ἀθλητά, ὁ πᾶσι παρέχων, τὰ αἰτήματα συμπαθῶς· χαίροις εὐσεβούντων, ὁ μέγας ἀντιλήπτωρ, καὶ πάσης Ἐκκλησίας, θεῖον ἀγλάισμα."
 

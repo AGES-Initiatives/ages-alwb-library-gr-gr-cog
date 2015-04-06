@@ -9,7 +9,7 @@ meNote.text = ""
 meLE.commemoration1 = "Μνήμη τῆς Ἁγίας Μάρτυρος Σοφίας, καὶ τῶν τριῶν θυγατέρων αὐτῆς, Πίστεως, Ἀγάπης, καὶ Ἐλπίδος."
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -39,7 +39,7 @@ meVE.Stichera06.melody = he.a.m4_gr_GR_cog.EdokasSimeiosin.name
 meVE.Stichera06.text = "Πυρὸς κατεφρόνησαν, καὶ πολυτρόπων κολάσεων, καὶ θανάτου αἱ πάνσεμνοι· νυμφίου τὸ κάλλος γάρ, τοῦ ὡραιοτάτου, πίστει ἐκζητοῦσαι, διὰ ποικίλων αἰκισμῶν, ὡραιωθεῖσαι, τούτῳ συνήφθησαν, Σοφίας τὰ βλαστήματα, Πίστις Ἐλπὶς καὶ Ἀγάπη τε, δι' αὐτῶν ἡμᾶς Κύριε, τῶν δεινῶν ἐλευθέρωσον."
 
 meVE.SticGlory.mode = misc_gr_GR_cog.Mode6
-meVE.SticGlory.melody  = ""
+meVE.SticGlory.melody = ""
 meVE.SticGlory.text = me.m09.d14_gr_GR_cog.meMA.AdditionalIdiomelon6.text 
 
 meVE.Aposticha1.mode = misc_gr_GR_cog.Mode2
@@ -72,7 +72,7 @@ meVE.Apolytikion2.mode = misc_gr_GR_cog.Mode5
 meVE.Apolytikion2.melody = he.a.m5_gr_GR_cog.TonSynanarchonLogon.name
 meVE.Apolytikion2.text = "Ὡς ἐλαία κατάκαρπος ἀνεβλάστησαας, ἐν ταῖς αὐλαῖς τοῦ Κυρίου Σοφία Μάρτυς σεμνή, καὶ προσήγαγες Χριστῷ καρπὸν ἡδύτατον, τοὺς τῆς νηδύος σου βλαστούς, δι' ἀγώνων ἱερῶν, Ἀγάπην τε καὶ Ἐλπίδα, καὶ τὴν θεόφρονα Πίστιν·"
 
-meVE.Apolytikion3.poet  = ""
+meVE.Apolytikion3.poet = ""
 meVE.Apolytikion3.mode = misc_gr_GR_cog.Mode3
 meVE.Apolytikion3.melody = he.a.m3_gr_GR_cog.TheiasPisteos.name
 meVE.Apolytikion3.text = "Χαῖρει ἔχουσα ἡ Ἐκκλησια, σὲ καὶ τέκνα σου καύχημα θεῖον, καὶ γηθοσύνως εὐφημεῖ σε κραυγάζουσα· Σύ μου ὑπάρχεις τὸ καύχημα, καὶ τῶν σῶν τέκνων τὰ πάντιμα λείψανα. Μάρτυρες ἔνδοξοι, Σοφία, Πίστις, Ἐλπὶς καὶ Ἀγάπη, Χριστῷ τῷ Θεῷ πρεσβεύσατε, σωθῆναι τὰς ψηχὰς ἡμῶν."
@@ -231,7 +231,7 @@ meMA.Kontakion1.text = "Σοφίας τῆς σεμνῆς, ἱερώτατο�
 
 meMA.Oikos1.text = "Ὅτε εἰς πάντα τὰ πέρατα, τὸ ἀθέμιτον ἐξελήλυθε πρόσταγμα, θύειν εἰδώλοις καὶ σπένδεσθαι, καὶ βωμοὺς δαιμόνων, καὶ ναοὺς εὐτρεπίζεσθαι, πρὸς ἀνθρώπων ἀπώλειαν, τότε αἱ πανεύφημοι καὶ καλλιπάρθενοι, ὡς ἀστέρες ἐξέλαμψαν, ζόφον ἀθεΐας καὶ ἀγνωσίας ἐλαύνουσαι· καὶ φέγγος εὐσεβείας ἐν ταῖς καρδίαις τῶν πιστῶν ὑπανάπτουσαι, τρανῶς ἀνεβόων, Θεὸς μέγιστός ἐστιν ὁ σταυρωθεὶς βουλήματι, καὶ ἀναστὰς τριήμερος, ἐν ᾧ καὶ καυχώμεθα· ὅθεν καὶ ἐπαξίως, στέφος ἄφθαρτον παρὰ Χριστοῦ ἀνεδήσαντο."
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C11.ode = misc_gr_GR_cog.Ode7
 meMA.Ode7C11.mode = misc_gr_GR_cog.Mode1
@@ -315,13 +315,9 @@ meMA.Aposticha1.mode = misc_gr_GR_cog.Mode2
 meMA.Aposticha1.melody = he.a.m2_gr_GR_cog.OikosTouEfratha.name
 meMA.Aposticha1.text = "Λόγχην σὺν τῷ Σταυρῷ, τοὺς ἥλους καὶ τὰ ἄλλα, ἐν οἷς τὸ ζωηφόρον, Χριστοῦ ἐπάγη σῶμα, ὑψοῦντες προσκυνήσωμεν."
 
-meMA.ApostichaVerse2.text = meVE.ApostichaVerse2.text
-
 meMA.Aposticha2.mode = misc_gr_GR_cog.Mode2
 meMA.Aposticha2.melody = he.a.m2_gr_GR_cog.OikosTouEfratha.name
 meMA.Aposticha2.text = "Ὕλην φθοροποιόν, ἐξαίρει ἁμαρτίας, τὸ τοῦ Σταυροῦ σου ξύλον, ὑψούμενον Σωτήρ μου, λαμπρύνει δὲ τὰ σύμπαντα."
-
-meMA.ApostichaVerse3.text = meVE.ApostichaVerse3.text
 
 meMA.Aposticha3.mode = misc_gr_GR_cog.Mode2
 meMA.Aposticha3.melody = he.a.m2_gr_GR_cog.OikosTouEfratha.name

@@ -69,7 +69,7 @@ meVE.Apolytikion1.melody = he.a.m4_gr_GR_cog.TachyProkatalave.name
 meVE.Apolytikion1.text = "Τὴν χάριν τοῦ Πνεύματος, γλωσσοπυρσεύτῳ πνοῇ, ὡς θεῖος Ἀπόστολος, ὑποδεχθεὶς τῇ ψυχῇ, Ἰάκωβε ἔνδοξε, ἔλαμψας ἐν τῷ κόσμῳ, ὡς ἀστὴρ ἑωσφόρος· ἔλυσας τῶν εἰδώλων, τὴν πολύθεον νύκτα. Καὶ νῦν ἀπαύστως δυσώπει, ὑπὲρ τῶν ψυχῶν ἡμῶν."
 
 meVE.GeneralApolytikion1.name = "Ἰάκωβε," // name of saint for General Apolytikia when not in Menaion
-meVE.GeneralApolytikion1.text = "" //for media
+meVE.GeneralApolytikion1.text = properties_gr_GR_cog.media.key
 
 meVE.Apolytikion2.poet = poets_gr_GR_cog.Gerasimou
 meVE.Apolytikion2.mode = misc_gr_GR_cog.Mode5
@@ -465,9 +465,7 @@ meMA.Lauds3.mode = misc_gr_GR_cog.Mode4
 meMA.Lauds3.melody = he.a.m4_gr_GR_cog.EdokasSimeiosin.name
 meMA.Lauds3.text = "Ἑβρόντησας Πάνσοφε, τῇ οἰκουμένῃ διδάγματα, ἱερὰ καὶ σωτήρια, καὶ πᾶσαν ἐκάθηρας, εἰδωλομανίας, τὴν κτίσιν θεόφρον, καὶ κατεφώτισας λαούς, θεογνωσίας ταῖς ἐπιλάμψεσιν, εἰδώλων τὰ τεμένη δέ, καταστρεψάμενος χάριτι, Ἐκκλησίας εἰς αἴνεσιν, τοῦ Θεοῦ ἡμῶν ἤγειρας."
 
-meMA.LaudsSundayVerse1.text = "Εἰς πᾶσαν τὴν γῆν ἐξῆλθεν ὁ φθόγγος αὐτῶν, καὶ εἰς τὰ πέρατα τῆς οἰκουμένης τὰ ῥήματα αὐτῶν."
-
-meMA.LaudsSundayVerse2.text = "Οἱ οὐρανοὶ διηγοῦνται δόξαν Θεοῦ, ποίησιν δὲ χειρῶν αὐτοῦ ἀναγγέλλει τὸ στερέωμα."
+meMA.MM.LaudsSunday.text = properties_gr_GR_cog.media.key
 
 meMA.LaudsGlory.mode = misc_gr_GR_cog.Mode5
 meMA.LaudsGlory.melody = ""

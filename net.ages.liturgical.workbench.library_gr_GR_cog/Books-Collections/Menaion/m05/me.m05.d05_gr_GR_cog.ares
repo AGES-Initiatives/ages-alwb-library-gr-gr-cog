@@ -9,7 +9,7 @@ meNote.text = ""
 meLE.commemoration1 = "Μνήμη τῆς Ἁγίας καὶ ἐνδόξου Μεγαλομάρτυρος Εἰρήνης."
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -163,7 +163,7 @@ meMA.Kontakion1.text = "Παρθενίας κάλλεσι, πεποικιλμέ�
 
 meMA.Oikos1.text = "Τοῦ νυμφίου Χριστοῦ ἔρωτι, Παναοίδιμε, ἀπὸ βρέφους σεμνὴ πυρποληθεῖσα ἔδραμες, δορκὰς ὡς διψῶσα πηγαῖς ἀειρύτοις, καὶ τῇ ἀθλήσει σαυτὴν συντηρήσασα, ἐν τῷ ἀφθάρτῳ, ὄντως τοῦ Κτίστου σου θαλάμῳ ἔνδοξε, ὡς νύμφη εὐκλεής, ἐστολισμένη, πεποικιλμένη, εἰσῆλθες ὡς ἐκλεκτή, στεφανηφόρος ὁραθεῖσα, ἐξ ἀφθάρτου νυμφίου δεξαμένη, ὡς χρυσίον, βραβεῖον νίκης τῆς σῆς ἀθλήσεως."
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C11.ode = misc_gr_GR_cog.Ode7
 meMA.Ode7C11.mode = misc_gr_GR_cog.Mode4
@@ -239,19 +239,17 @@ meMA.Exaposteilarion1.mode = misc_gr_GR_cog.Mode2
 meMA.Exaposteilarion1.melody = he.a.m2_gr_GR_cog.GynaikesAkoutisthite.name
 meMA.Exaposteilarion1.text = "Ῥωσθεῖσα καλλιπάρθενε, Σταυρῷ τῷ τοῦ Κυρίου σου, τυράννων ἔλυσας θράσος, ἀθλοῦσα Μάρτυς γενναίως, καὶ πρὸς Χριστοῦ ἀπείληφας, βραβεῖα νίκης πάνσοφε, Εἰρήνη μεγαλώνυμε, ὑπὲρ ὑμῶν δυσωποῦσα, τῶν σὲ τιμώντων ἐκ πόθου."
 
-meMA.LaudsSundayVerse1.text = ""
-
-meMA.LaudsSundayVerse2.text = ""
+meMA.MM.LaudsSunday.text = properties_gr_GR_cog.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.text = meMA.Kontakion1.text
 
 meLI.SeasonalKontakion.mode = misc_gr_GR_cog.Mode2
-meLI.SeasonalKontakion.melody  = ""
-meLI.SeasonalKontakion.text  = ""
+meLI.SeasonalKontakion.melody = ""
+meLI.SeasonalKontakion.text = ""
 
-meLI.CommunionHymn.text = ""
+meLI.MM.CommunionHymn.text = properties_gr_GR_cog.media.key
 
 meMegalynarion.text = ""
 

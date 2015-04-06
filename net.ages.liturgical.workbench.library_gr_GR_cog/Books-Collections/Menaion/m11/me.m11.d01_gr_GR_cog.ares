@@ -12,7 +12,7 @@ meNote.text = ""
 meLE.commemoration1 = "Μνήμη τῶν Ἁγίων Ἀναργύρων, Κοσμᾶ καὶ Δαμιανοῦ."
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -33,7 +33,7 @@ meVE.Stichera78910.text = ""
 
 meVE.SticGlory.poet = poets_gr_GR_cog.Anatoliou
 meVE.SticGlory.mode = misc_gr_GR_cog.Mode6
-meVE.SticGlory.melody  = ""
+meVE.SticGlory.melody = ""
 meVE.SticGlory.text = me.m07.d01_gr_GR_cog.meVE.SticGlory.text
 
 meVE.SticTheotokion.mode = misc_gr_GR_cog.Mode6
@@ -45,29 +45,29 @@ meVE.SticStavrotheotokion.melody = he.a.m6_gr_GR_cog.OlinApothemenoi.name
 meVE.SticStavrotheotokion.text = "Ῥομφαία ὡς ἔφησεν, ὁ Συμεὼν τὴν καρδίαν, τὴν σὴν διελήλυθε, Παναγία Δέσποινα, ὅτε ἔβλεψας, τὸν ἐκ σοῦ λάμψαντα, ἀπορρήτῳ λόγῳ, ὑπ' ἀνόμων ὡς κατάκριτον, Σταυρῷ ὑψούμενον, ὄξος καὶ χολὴν ποτιζόμενον, πλευρὰν δὲ ὀρυττόμενον, χεῖράς τε καὶ πόδας ἡλούμενον, καὶ ὀδυρομένη, ὠλόλυζες βοῶσα μητρικῶς· Τὶ τοῦτο Τέκνον γλυκύτατον, τὸ καινὸν μυστήριον;"
 
 meVE.Aposticha1.mode = misc_gr_GR_cog.Mode2
-meVE.Aposticha1.melody  = misc_gr_GR_cog.Idiomelon
+meVE.Aposticha1.melody = misc_gr_GR_cog.Idiomelon
 meVE.Aposticha1.text = me.m07.d01_gr_GR_cog.meVE.Lity1.text
 
 meVE.ApostichaVerse2.text = ""
 
 meVE.Aposticha2.poet = poets_gr_GR_cog.Theofanous
 meVE.Aposticha2.mode = misc_gr_GR_cog.Mode2
-meVE.Aposticha2.melody  = misc_gr_GR_cog.Idiomelon
+meVE.Aposticha2.melody = misc_gr_GR_cog.Idiomelon
 meVE.Aposticha2.text = me.m07.d01_gr_GR_cog.meVE.Lity2.text
 
 meVE.ApostichaVerse3.text = ""
 
 meVE.Aposticha3.poet = poets_gr_GR_cog.Germanou
 meVE.Aposticha3.mode = misc_gr_GR_cog.Mode2
-meVE.Aposticha3.melody  = misc_gr_GR_cog.Idiomelon
+meVE.Aposticha3.melody = misc_gr_GR_cog.Idiomelon
 meVE.Aposticha3.text = me.m07.d01_gr_GR_cog.meVE.Lity3.text
 
 meVE.AposGlory.mode = misc_gr_GR_cog.Mode6
-meVE.AposGlory.melody  = ""
+meVE.AposGlory.melody = ""
 meVE.AposGlory.text = me.m07.d01_gr_GR_cog.meVE.AposGlory.text
 
 meVE.AposTheotokion.mode = misc_gr_GR_cog.Mode6
-meVE.AposTheotokion.melody  = ""
+meVE.AposTheotokion.melody = ""
 meVE.AposTheotokion.text = oc.m6.d5_gr_GR_cog.ocMA.AposTheotokion.text
 
 meVE.AposStavrotheotokion.mode = misc_gr_GR_cog.Mode6
@@ -75,7 +75,7 @@ meVE.AposStavrotheotokion.melody = he.a.m6_gr_GR_cog.TriimerosAnestis.name
 meVE.AposStavrotheotokion.text = "Λαὸν τὸν ἀνομώτατον, ἀδίκως καθηλοῦντά σε, ἐπὶ ξύλου, ἡ παρθένος καὶ ἁγνή, καὶ Μήτηρ σου ὁρῶσα, ὡς Συμεὼν προέφη, τὰ σπλάγχνα Σῶτερ ἐτιτρώσκετο."
 
 meVE.Apolytikion1.mode = misc_gr_GR_cog.Mode8
-meVE.Apolytikion1.melody  = ""
+meVE.Apolytikion1.melody = ""
 meVE.Apolytikion1.text = me.m07.d01_gr_GR_cog.meVE.Apolytikion1.text
 
 meMA.C1Poet = poets_gr_GR_cog.IoannouTouDamaskinou
@@ -310,12 +310,12 @@ meMA.Ode6H.melody = misc_gr_GR_cog.Heirmos
 meMA.Ode6H.text = he.h.m4_gr_GR_cog.ThysoSoiMetaFonis.text
 
 meMA.Kontakion1.mode = misc_gr_GR_cog.Mode2
-meMA.Kontakion1.melody  = ""
+meMA.Kontakion1.melody = ""
 meMA.Kontakion1.text = "Οἱ τὴν χάριν λαβόντες τῶν ἰαμάτων, ἐφαπλοῦτε τὴν ῥῶσιν τοῖς ἐν ἀνάγκαις, Ἰατροὶ θαυματουργοὶ Ἔνδοξοι, ἀλλὰ τῇ ὑμῶν ἐπισκέψει, καὶ τῶν πολεμίων τὰ θράση κατεβάλετε, τὸν κόσμον ἰώμενοι ἐν τοῖς θαύμασιν."
 
 meMA.Oikos1.text = "Πάσης συνέσεως καὶ σοφίας ὑπέρκειται ὁ λόγος τῶν σοφῶν ἰατρῶν· τοῦ γὰρ Ὑψίστου χάριν λαβόντες, ἀοράτως τὴν ῥῶσιν δωροῦνται πᾶσιν· ὅθεν καμοί, διηγήσεως χάριν δεδώρηνται, ὑμνῆσαι ὡς θεοφόρους, εὐαρέστους Θεοῦ καὶ θεράποντας, ἰαμάτων πλήθη παρέχοντας· ἀλγηδόνων γὰρ πάντας λυτροῦνται, τὸν κόσμον ἰώμενοι ἐν τοῖς θαύμασι."
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C11.ode = misc_gr_GR_cog.Ode7
 meMA.Ode7C11.mode = misc_gr_GR_cog.Mode1
@@ -501,16 +501,14 @@ meMA.LaudsStavrotheotokion.mode = misc_gr_GR_cog.Mode4
 meMA.LaudsStavrotheotokion.melody = he.a.m4_gr_GR_cog.EdokasSimeiosin.name
 meMA.LaudsStavrotheotokion.text = "Σταυρούμενον βλέπουσα, καὶ τὴν πλευρὰν ὀρυττόμενον, ὑπὸ λόγχης ἡ Πάναγνος, Χριστὸν τὸν φιλάνθρωπον, ἔκλαιε βοῶσα· Τὶ τοῦτο Υἱέ μου; τὶ σοι ἀχάριστος λαός, ἀνταποδίδωσιν ὧν πεποίηκας, καλῶν αὐτοῖς καὶ σπεύδεις με, ἀτεκνωθῆναι παμφίλτατε; καταπλήττομαι εὔσπλαγχνε, σὴν ἑκούσιον σταύρωσιν."
 
-meMA.LaudsSundayVerse1.text = "Τοῖς Ἁγίοις τοῖς ἐν τῇ γῇ αὐτοῦ ἐθαυμάστωσεν ὁ Κύριος."
-
-meMA.LaudsSundayVerse2.text = "Ἰδοῦ δὴ τί καλὸν ἢ τί τερπνόν, ἀλλ' ἢ τὸ κατοικεῖν ἀδελφοὺς ἐπὶ τὸ αὐτό."
+meMA.MM.LaudsSunday.text = properties_gr_GR_cog.media.key
 
 meMA.AposGlory.mode = misc_gr_GR_cog.Mode8
-meMA.AposGlory.melody  = ""
+meMA.AposGlory.melody = ""
 meMA.AposGlory.text = "Τὶς μὴ θαυμάσει; τὶς μὴ δοξάσει; τὶς μὴ ὑμνήσει πιστῶς, τῶν σοφῶν καὶ ἐνδόξων Ἀναργύρων τὰ θαύματα; ὅτι καὶ μετὰ τὴν ἁγίαν αὐτῶν μετάστασιν, πᾶσι χορηγοῦσι τοῖς προστρέχουσι πλουσίως τὰ ἰάματα, καὶ τὰ τίμια καὶ ἅγια λείψανα αὐτῶν, βρύουσι τὴν χάριν τῶν ἰάσεων. Ὦ Δυὰς ἁγία! ὦ τίμιαι κάραι! ὦ σοφία καὶ δόξα, τῆς ἐκ Θεοῦ δοθείσης ἡμῖν χάριτος! Διὸ ὕμνοις ᾄσωμεν τῷ εὐεργέτη Θεῷ, τῷ ἀναδείξαντι τούτους, εἰς ἰατρείαν τῶν ψυχῶν καὶ τῶν σωμάτων ἡμῶν."
 
 meMA.AposTheotokion.mode = misc_gr_GR_cog.Mode8
-meMA.AposTheotokion.melody  = ""
+meMA.AposTheotokion.melody = ""
 meMA.AposTheotokion.text = oc.m8.d5_gr_GR_cog.ocMA.AposTheotokion.text
 
 meMA.AposStavrotheotokion.mode = misc_gr_GR_cog.Mode8
@@ -522,10 +520,10 @@ meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.text = meMA.Kontakion1.text
 
 meLI.SeasonalKontakion.mode = misc_gr_GR_cog.Mode2
-meLI.SeasonalKontakion.melody  = ""
+meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = ho.s07_gr_GR_cog.hoTY.Key0408.text
 
-meLI.CommunionHymn.text = ""
+meLI.MM.CommunionHymn.text = properties_gr_GR_cog.media.key
 
 meMegalynarion.text = ""
 

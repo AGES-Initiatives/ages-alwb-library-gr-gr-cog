@@ -9,7 +9,7 @@ meNote.text = ""
 meLE.commemoration1 = "Μνήμη τοῦ Ὁσίου Πατρὸς ἡμῶν Μακαρίου τοῦ Αἰγυπτίου."
 meLE.commemoration2 = ""
 meHO.number = "19."
-meHO.rank  = "5"
+meHO.rank = "5"
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -28,7 +28,7 @@ meVE.Stichera03.text = "Πᾶσαν ἡδυπάθειαν, ὑποπιάζων
 
 meVE.SticGlory.poet = poets_gr_GR_cog.Anatoliou
 meVE.SticGlory.mode = misc_gr_GR_cog.Mode8
-meVE.SticGlory.melody  = ""
+meVE.SticGlory.melody = ""
 meVE.SticGlory.text = "Εὐφραίνου Αἴγυπτος, ἀνθήσασα τοιοῦτον πολιοῦχον, τὸν ἐν μακαρίοις Μακάριον. Οὗτος γὰρ τῇ σοφίᾳ τοῦ Ἁγίου Πνεύματος καταγλαϊσθείς, πᾶσαν ἄσκησιν, τῇ ἐναρέτῳ πολιτείᾳ αὐτοῦ, ὑπερηκόντισεν. Αὐτὸν καὶ ἡμεῖς, μεσίτην προσάγοντες, αἰτοῦμεν δυσωπεῖν τὸν Χριστόν, σωθῆναι τὰς ψυχὰς ἡμῶν."
 
 meVE.SticTheotokion.mode = misc_gr_GR_cog.Mode8
@@ -41,7 +41,7 @@ meVE.SticStavrotheotokion.text = "Ἄρνα σε, ὅτε ἡ ἀμνὰς κα�
 
 meVE.AposGlory.poet = poets_gr_GR_cog.Anatoliou
 meVE.AposGlory.mode = misc_gr_GR_cog.Mode6
-meVE.AposGlory.melody  = ""
+meVE.AposGlory.melody = ""
 meVE.AposGlory.text = "Ὅσιε Πάτερ, εἰς πᾶσαν τῇν γῆν ἐξῆλθεν ὁ φθόγγος τῶν κατορθωμάτων σου, δι' ὧν ἐν τοῖς οὐρανοῖς εὗρες μισθὸν τῶν καμάτων σου. Τῶν Δαιμόνων ὤλεσας τὰς φάλαγγας, τῶν Ἀγγέλων ἔφθασας τὰ τάγματα, ὧν τὸν βίον ἀμέμπτως ἐζήλωσας. Παῤῥησίαν ἔχων πρὸς Κύριον, εἰρήνην αἴτησαι ταῖς ψυχαῖς ἡμῶν."
 
 meVE.AposTheotokion.mode = misc_gr_GR_cog.Mode6
@@ -55,7 +55,7 @@ meVE.AposStavrotheotokion.text = "Ῥομφαία ὡς ἔφησεν, ὁ Συ
 meVE.GeneralApolytikion1.mode = misc_gr_GR_cog.Mode1
 meVE.GeneralApolytikion1.melody = he.ga_gr_GR_cog.TisErimouPolitis.name
 meVE.GeneralApolytikion1.name = "Μακάριε·" // name of saint for General Apolytikia
-meVE.GeneralApolytikion1.text = "" //for media
+meVE.GeneralApolytikion1.text = properties_gr_GR_cog.media.key
 
 meMA.C1Acrostic.text = "οὗ ἡ Ἀκροστιχίς· Τὸν πανάριστον ἐν ἀσκηταῖς Μακάριον κυδαίνω. Θεοφάνους."
 
@@ -202,7 +202,7 @@ meMA.Kontakion1.text = "Ἐν τῷ οἴκῳ Κύριος, τῆς ἐγκρ�
 
 meMA.Oikos1.text = "Τὸν τοῦ Κυρίου ἐραστήν, τῶν Μοναστῶν τὸ κλέος, θαυμάτων τὸν ταμίαν, Μακάριον τὸν μέγαν, ἀνευφημήσωμεν πιστῶς· οὗτος γὰρ τῶ φέγγει τῶν ἀγώνων αὐτοῦ, ὡς ἥλιος ἐξέλαμψε, φωτίζων τοὺς ἐν σκότει ὑπάρχοντας παθῶν καὶ ἁμαρτίας, καὶ ἐκδιώκων τῶν δαιμόνων τὴν ζοφερὰν πλάνην ἀνενδότως. Διὸ καὶ ποταμοὺς πλουσίων θαυμάτων, ὡς ἐκ κρήνης λογικῆς ἐκβλύζων, πάντων τὰς ψυχὰς ῥωννύει τῶν ἐκβοώντων· Πατέρων Πάτερ, Μακάριε Ὅσιε."
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C11.ode = misc_gr_GR_cog.Ode7
 meMA.Ode7C11.mode = misc_gr_GR_cog.Mode4
@@ -287,12 +287,10 @@ meMA.ExapTheotokion.mode = misc_gr_GR_cog.Mode3
 meMA.ExapTheotokion.melody = he.a.m3_gr_GR_cog.OOuranonToisAstrois.name
 meMA.ExapTheotokion.text = "Τῇ κραταιᾷ σου σκέπη, ἀπὸ ἐχθρῶν ἐπιβουλῆς, ἡμᾶς Ἁγνὴ τοὺς σοὺς δούλους, φύλαττε πάντας ἀβλαβεῖς· σὲ γὰρ κεκτήμεθα μόνην, καταφυγὴν ἐν ἀνάγκαις."
 
-meMA.LaudsSundayVerse1.text = "Τίμιος ἐναντίον Κυρίου ὁ θάνατος τοῦ ὁσίου αὐτοῦ."
-
-meMA.LaudsSundayVerse2.text = "Μακάριος ἀνὴρ ὁ φοβούμενος τὸν Κύριον· ἐν ταῖς ἐντολαῖς αὐτοῦ θελήσει σφόδρα."
+meMA.MM.LaudsSunday.text = properties_gr_GR_cog.media.key
 
 meMA.AposGlory.mode = misc_gr_GR_cog.Mode4
-meMA.AposGlory.melody  = ""
+meMA.AposGlory.melody = ""
 meMA.AposGlory.text = "Ἔλαμψαν τὰ καλὰ ἔργα σου, ὡς ἥλιος, ἐπὶ τῆς γῆς καὶ ἐν οὐρανῷ, Χριστοῦ θεράπων Μακάριε· ὀρθοδόξως γὰρ ἐκήρυξας ἡμῖν, τὴν ἀληθῆ καὶ ἀμώμητον Πίστιν Χριστοῦ· διὸ ἱκέτευε Ὅσιε Πάτερ, ἐν τῇ μνήμῃ σου θεοφόρε, δωρηθῆναι ἡμῖν τὸ μέγα ἔλεος."
 
 meMA.AposTheotokion.mode = misc_gr_GR_cog.Mode4
@@ -308,10 +306,10 @@ meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.text = meMA.Kontakion1.text
 
 meLI.SeasonalKontakion.mode = misc_gr_GR_cog.Mode1
-meLI.SeasonalKontakion.melody  = ""
+meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = me.m02.d02_gr_GR_cog.meMA.Kontakion1.text
 
-meLI.CommunionHymn.text = da.d3_gr_GR_cog.daLI.CommunionHymn.text
+meLI.MM.CommunionHymn.text = properties_gr_GR_cog.media.key
 
 meMegalynarion.text = ""
 

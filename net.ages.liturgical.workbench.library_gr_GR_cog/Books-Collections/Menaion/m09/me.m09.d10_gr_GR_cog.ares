@@ -9,7 +9,7 @@ meNote.text = ""
 meLE.commemoration1 = "Μνήμη τῶν Ἁγίων Μαρτύρων Μηνοδώρας, Μητροδώρας καὶ Νυμφοδώρας."
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -39,7 +39,7 @@ meVE.Stichera06.melody = he.a.m4_gr_GR_cog.OsGennaionEnMartysi.name
 meVE.Stichera06.text = "Καὶ τὰ μέλη στρεβλούμεναι, καὶ πυρὶ δαπανώμεναι, σιδηροῖς τε ὄνυξι σπαραττόμεναι, καὶ ἐπὶ ξύλου κρεμάμεναι, καὶ ξίφει τεμνόμεναι, οὐκ ἠρνήσασθε Χριστόν, ἀθληφόροι πανεύφημοι· ὅθεν εὕρατε, τοὺς στεφάνους τῆς νίκης, Μηνοδώρα, Μητροδώρα, Νυμφοδώρα, αἱ τῆς Τριάδος ἰσάριθμοι."
 
 meVE.SticGlory.mode = misc_gr_GR_cog.Mode8
-meVE.SticGlory.melody  = ""
+meVE.SticGlory.melody = ""
 meVE.SticGlory.text = "Δι' Ἀγγέλου προρρήσεως, γόνος πάνσεπτος, ἐξ Ἰωακεὶμ καὶ Ἄννης τῶν δικαίων, σήμερον προῆλθες Παρθένε, οὐρανὸς καὶ θρόνος Θεοῦ, καὶ δοχεῖον καθαρότητος, τὴν χαρὰν προμηνύουσα παντὶ τῷ κόσμῳ, τῆς ζωῆς ἡμῶν πρόξενε, κατάρας ἀναίρεσις, εὐλογίας ἡ ἀντίδοσις· διὸ ἐν τῇ γεννήσει σου Κόρη θεόκλητε, τὴν εἰρήνην αἴτησαι, καὶ ταῖς ψυχαῖς ἡμῶν τὸ μέγα ἔλεος."
 
 meVE.Aposticha1.mode = misc_gr_GR_cog.Mode2
@@ -201,7 +201,7 @@ meMA.Kontakion1.text = "Ὑπὲρ Τριάδος καρτερῶς ἐναθλ
 
 meMA.Oikos1.text = "Ἱερωτάτην συγκροτεῖ, πανήγυριν ἐν πίστει, ἡ Χριστοῦ Ἐκκλησία, αὐταδέλφων Μαρτύρων ἐπιτελοῦσα εὐσεβῶς, μνήμην ὑμῶν τὴν φωσφόρον, καὶ λαμπρὰν καὶ παμφαῆ, πανεύφημοι ὁμότροποι· στερρῶς γὰρ ἐπὶ τῆς γῆς, τὸν ἀντίπαλον νοῦν καταπατήσασαι, ἀνεδήσασθε στεφάνους ἐκ χειρὸς τοῦ παμβασιλέως· παρ' οὗ μοι φωτισμὸν αἰτήσασθε, ὄντως εὐφημῆσαι τὴν ὑμῶν μνήμην ἀξίως, καὶ τὰς θαυμαστὰς καὶ θείας ἀνδραγαθίας· ὑμεῖς γὰρ τῷ παμβασιλεῖ, ἐν εὐφροσύνῃ ἀπαύστως παρίστασθε."
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C11.ode = misc_gr_GR_cog.Ode7
 meMA.Ode7C11.mode = misc_gr_GR_cog.Mode4
@@ -291,21 +291,15 @@ meMA.ExapTheotokion.mode = misc_gr_GR_cog.Mode3
 meMA.ExapTheotokion.melody = he.a.m3_gr_GR_cog.FosAnalloioton.name
 meMA.ExapTheotokion.text = "Ὁ γλυκασμὸς τῶν Ἀγγέλων, ὁ φωτισμὸς τῶν ἀνθρώπων, ἡ προστασία τοῦ κόσμου, Θεογεννῆτορ Μαρία, τοὺς σὲ ὑμνοῦντας ἐν πίστει, ῥῦσαι πταισμάτων Παρθένε."
 
-meMA.LaudsSundayVerse1.text = meVE.ApostichaVerse2.text
-
-meMA.LaudsSundayVerse2.text = meVE.ApostichaVerse3.text
+meMA.MM.LaudsSunday.text = properties_gr_GR_cog.media.key
 
 meMA.Aposticha1.mode = misc_gr_GR_cog.Mode2
 meMA.Aposticha1.melody = he.a.m2_gr_GR_cog.OikosTouEfratha.name
 meMA.Aposticha1.text = "Γόνος Ἰωακείμ, καὶ Ἄννης ἡ Παρθένος, ἐφάνη τοῖς ἀνθρώποις, τῶν δεσμῶν ἀφιεῖσα, τῆς ἁμαρτίας ἅπαντας."
 
-meMA.ApostichaVerse2.text = meVE.ApostichaVerse2.text
-
 meMA.Aposticha2.mode = misc_gr_GR_cog.Mode2
 meMA.Aposticha2.melody = he.a.m2_gr_GR_cog.OikosTouEfratha.name
 meMA.Aposticha2.text = "Ὄρος ὡς ἀληθῶς, κατάσκιον ἐδείχθη, ἡ στείρωσις τῆς Ἄννης, ἐξ οὗ ἡ σωτηρία, πᾶσι πιστοῖς δεδώρηται."
-
-meMA.ApostichaVerse3.text = meVE.ApostichaVerse3.text
 
 meMA.Aposticha3.mode = misc_gr_GR_cog.Mode2
 meMA.Aposticha3.melody = he.a.m2_gr_GR_cog.OikosTouEfratha.name
@@ -320,10 +314,10 @@ meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.text = meMA.Kontakion1.text
 
 meLI.SeasonalKontakion.mode = me.m09.d08_gr_GR_cog.meMA.Kontakion1.mode
-meLI.SeasonalKontakion.melody  = ""
+meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = me.m09.d08_gr_GR_cog.meMA.Kontakion1.text
 
-meLI.CommunionHymn.text = "" //for media
+meLI.MM.CommunionHymn.text = properties_gr_GR_cog.media.key
 
 meMegalynarion.text = ""
 

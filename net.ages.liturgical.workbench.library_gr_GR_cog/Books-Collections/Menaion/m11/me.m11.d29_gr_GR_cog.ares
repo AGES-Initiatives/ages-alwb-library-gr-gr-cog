@@ -245,7 +245,7 @@ meMA.Ode9H.mode = misc_gr_GR_cog.Mode4
 meMA.Ode9H.melody = misc_gr_GR_cog.Heirmos
 meMA.Ode9H.text = he.h.m4_gr_GR_cog.LithosAcheirotmitos.text
 
-meMA.LaudsSundayVerse1.text = "" // for media
+meMA.MM.LaudsSunday.text = properties_gr_GR_cog.media.key
 
 meLI.Kontakion1.mode = ""
 meLI.Kontakion1.melody = ""
@@ -255,7 +255,7 @@ meLI.SeasonalKontakion.mode = me.m12.d20_gr_GR_cog.meMA.Kontakion1.mode
 meLI.SeasonalKontakion.melody = me.m12.d20_gr_GR_cog.meMA.Kontakion1.melody
 meLI.SeasonalKontakion.text = me.m12.d20_gr_GR_cog.meMA.Kontakion1.text
 
-meLI.CommunionHymn.text = "" // for media
+meLI.MM.CommunionHymn.text = properties_gr_GR_cog.media.key
 
 meMegalynarion.text = ""
 

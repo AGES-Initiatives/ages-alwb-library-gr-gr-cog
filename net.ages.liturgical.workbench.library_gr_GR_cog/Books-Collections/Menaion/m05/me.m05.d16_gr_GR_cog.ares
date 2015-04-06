@@ -9,7 +9,7 @@ meNote.text = ""
 meLE.commemoration1 = "Μνήμη τοῦ Ὁσίου Πατρὸς ἡμῶν Θεοδώρου τοῦ Ἡγιασμένου."
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -28,16 +28,16 @@ meVE.Stichera03.text = "Ἄσκησιν ἐγκράτειαν, ὑπομονὴ
 
 meVE.Apolytikion1.mode = misc_gr_GR_cog.Mode1
 meVE.Apolytikion1.melody = he.ga_gr_GR_cog.TisErimouPolitis.name
-meVE.Apolytikion1.text  = ""
+meVE.Apolytikion1.text = ""
 meVE.GeneralApolytikion1.name = "Θεόδωρε," // name of saint for General Apolytikia
 
 meMA.C1Poet = poets_gr_GR_cog.Theofanous
 meMA.C1Acrostic.text = "οὗ ἡ Ἀκροστιχίς· Ὑμνῶ Θεοῦ σε δῶρον ἡγιασμένον."
 
-meMA.C2Poet  = ""
+meMA.C2Poet = ""
 meMA.C2Acrostic.text = ""
 
-meMA.C3Poet  = ""
+meMA.C3Poet = ""
 meMA.C3Acrostic.text = ""
 
 //Mode for Ἐν βυθῷ κατέστρωσε ποτὲ adjusted to 2 (PDF says 1)
@@ -140,7 +140,7 @@ meMA.Kontakion1.mode = misc_gr_GR_cog.Mode2
 meMA.Kontakion1.melody = he.a.m2_gr_GR_cog.TaAnoZiton.name
 meMA.Kontakion1.text = "Ἐν οἴκῳ Θεοῦ, ὡς φοίνιξ σὺ ἐξήνθησας, καρπούς τε αὐτῷ, ἀρετῶν προσενήνοχας, διὰ τῆς ἀσκήσεως, τῆς ἀρίστης Πάτερ Θεόδωρε· ὅθεν καὶ μακαρίζῃ νῦν, ὡς τῶν Ἀσωμάτων ἰσοστάσιος."
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C11.ode = misc_gr_GR_cog.Ode7
 meMA.Ode7C11.mode = misc_gr_GR_cog.Mode2
@@ -197,19 +197,17 @@ meMA.Ode9H.mode = misc_gr_GR_cog.Mode2
 meMA.Ode9H.melody = misc_gr_GR_cog.Heirmos
 meMA.Ode9H.text = he.h.m2_gr_GR_cog.AnarchouGennitoros.text
 
-meMA.LaudsSundayVerse1.text = ""
-
-meMA.LaudsSundayVerse2.text = ""
+meMA.MM.LaudsSunday.text = properties_gr_GR_cog.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.text = meMA.Kontakion1.text
 
 meLI.SeasonalKontakion.mode = misc_gr_GR_cog.Mode2
-meLI.SeasonalKontakion.melody  = ""
+meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = ho.s07_gr_GR_cog.hoTY.Key0408.text
 
-meLI.CommunionHymn.text = ""
+meLI.MM.CommunionHymn.text = properties_gr_GR_cog.media.key
 
 meMegalynarion.text = ""
 

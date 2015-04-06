@@ -116,11 +116,8 @@ meMA.Kathisma3T.mode = misc_gr_GR_cog.Mode5
 meMA.Kathisma3T.melody = he.a.m5_gr_GR_cog.TonSynanarchonLogon.name
 meMA.Kathisma3T.text = "Τῶν ἐν σοὶ τὰς ἐλπίδας Παρθένε ἄχραντε, ἀνενδοιάστως ἐχόντων σκέπη ὑπάρχουσα, ἐκ ποικίλων πειρασμῶν καὶ περιστάσεων, καὶ κινδύνων χαλεπῶν, ἐλευθέρωσον ἡμᾶς, πρεσβεύουσα τῷ Υἱῷ σου, σὺν τοῖς αὐτοῦ Ἀποστόλοις, καὶ σῶσον πάντας τοὺς ἀνυμνοῦντάς σε."
 
-meMA.Prokeimenon.text = "" // for media
+meMA.MM.Prokeimenon.text = properties_gr_GR_cog.media.key
 // from Nov30.pdf from 2012
-//meMA.Gospel.name = "Ματθαῖον "
-//meMA.Gospel.chapverse = "(Κεφ. Δʹ 18-23)"
-//meMA.Gospel.text = "Τῷ καιρῷ ἐκείνῳ, περιπατῶν ὁ Ἰησοῦς παρὰ τὴν θάλασσαν τῆς Γαλιλαίας εἶδεν δύο ἀδελφούς, Σίμωνα τὸν λεγόμενον Πέτρον καὶ Ἀνδρέαν τὸν ἀδελφὸν αὐτοῦ, βάλλοντας ἀμφίβληστρον εἰς τὴν θάλασσαν· ἦσαν γὰρ ἁλιεῖς. καὶ λέγει αὐτοῖς· Δεῦτε ὀπίσω μου, καὶ οιήσω ὑμᾶς ἁλιεῖς ἀνθρώπων. οἱ δὲ εὐθέως ἀφέντες τὰ δίκτυα ἠκολούθησαν αὐτῷ. Καὶ προβὰς ἐκεῖθεν εἶδεν ἄλλους δύο ἀδελφούς, Ἰάκωβον τὸν τοῦ Ζεβεδαίου καὶ Ἰωάννην τὸν ἀδελφὸν αὐτοῦ, ἐν τῷ πλοίῳ μετὰ Ζεβεδαίου τοῦ πατρὸς αὐτῶν καταρτίζοντας τὰ δίκτυα αὐτῶν· καὶ ἐκάλεσεν αὐτούς. οἱ δὲ εὐθέως ἀφέντες τὸ πλοῖον καὶ τὸν πατέρα αὐτῶν ἠκολούθησαν αὐτῷ. Καὶ περιῆγεν ὅλην τὴν Γαλιλαίαν ὁ Ἰησοῦς, διδάσκων ἐν ταῖς συναγωγαῖς αὐτῶν καὶ κηρύσσων τὸ εὐαγγέλιον τῆς βασιλείας καὶ θεραπεύων πᾶσαν νόσον καὶ πᾶσαν μαλακίαν ἐν τῷ λαῷ."
 
 meMA.PostGospelGlory.mode = misc_gr_GR_cog.Mode2
 meMA.PostGospelGlory.melody = ""
@@ -842,7 +839,7 @@ meMA.LaudsBoth.mode = misc_gr_GR_cog.Mode8
 meMA.LaudsBoth.melody = ""
 meMA.LaudsBoth.text = "Ὑπόδεξαι Βηθλεέμ, τὴν τοῦ Θεοῦ Μητρόπολιν· φῶς γὰρ τὸ ἄδυτον, ἐπὶ σὲ γεννῆσαι ἥκει. Ἄγγελοι θαυμάσατε ἐν οὐρανῷ, ἄνθρωποι δοξάσατε ἐπὶ τῆς γῆς. Μάγοι ἐκ Περσίδος, τὸ τρισσόκλεον δῶρον προσκομίσατε. Ποιμένες ἀγραυλοῦντες, τὸν Τρισάγιον ὕμνον μελῳδήσατε. Πᾶσα πνοή, αἰνεσάτω τὸν παντουργέτην."
 
-meMA.LaudsSundayVerse1.text = "" // for media
+meMA.MM.LaudsSunday.text = properties_gr_GR_cog.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
@@ -852,7 +849,7 @@ meLI.SeasonalKontakion.mode = me.m12.d20_gr_GR_cog.meMA.Kontakion1.mode
 meLI.SeasonalKontakion.melody = me.m12.d20_gr_GR_cog.meMA.Kontakion1.melody
 meLI.SeasonalKontakion.text = me.m12.d20_gr_GR_cog.meMA.Kontakion1.text
 
-meLI.CommunionHymn.text = "" // for media
+meLI.MM.CommunionHymn.text = properties_gr_GR_cog.media.key
 
 meMegalynarion.text = ""
 

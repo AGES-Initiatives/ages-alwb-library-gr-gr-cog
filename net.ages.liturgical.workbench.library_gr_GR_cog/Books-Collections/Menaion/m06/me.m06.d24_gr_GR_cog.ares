@@ -169,10 +169,7 @@ meMA.Kathisma3T.mode = misc_gr_GR_cog.Mode8
 meMA.Kathisma3T.melody = misc_gr_GR_cog.Automelon
 meMA.Kathisma3T.text = he.a.m8_gr_GR_cog.ToProstachthen.text
 
-meMA.Prokeimenon.text = "" // for media
-//meMA.Gospel.name = "Λουκᾶν" //"Ματθαῖον or Μᾶρκον or Λουκᾶν or Ἰωάννην or Matthew or Mark or Luke or John"
-//meMA.Gospel.chapverse = "1:24-25, 57-68, 76, 80" //"(Κεφ. ΓΓʹ 11-11) or 1:11-11"
-//meMA.Gospel.text = "Ἐν ταῖς ἡμέραις ἐκείναις συνέλαβεν Ἐλισάβετ ἡ γυνὴ αὐτοῦ, καὶ περιέκρυβεν ἑαυτὴν μῆνας πέντε, λέγουσα ὅτι οὕτω μοι πεποίηκεν ὁ Κύριος ἐν ἡμέραις αἷς ἐπεῖδεν ἀφελεῖν τὸ ὄνειδός μου ἐν ἀνθρώποις. Τῇ δὲ Ἐλισάβετ ἐπλήσθη ὁ χρόνος τοῦ τεκεῖν αὐτήν, καὶ ἐγέννησεν υἱόν.καὶ ἤκουσαν οἱ περίοικοι καὶ οἱ συγγενεῖς αὐτῆς ὅτι ἐμεγάλυνε Κύριος τὸ ἔλεος αὐτοῦ μετ' αὐτῆς, καὶ συνέχαιρον αὐτῇ. Καὶ ἐγένετο ἐν τῇ ὀγδόῃ ἡμέρᾳ ἦλθον περιτεμεῖν τὸ παιδίον, καὶ ἐκάλουν αὐτὸ ἐπὶ τῷ ὀνόματι τοῦ πατρὸς αὐτοῦ Ζαχαρίαν.καὶ ἀποκριθεῖσα ἡ μήτηρ αὐτοῦ εἶπεν· οὐχί, ἀλλὰ κληθήσεται Ἰωάννης. Καὶ εἶπον πρὸς αὐτὴν ὅτι οὐδείς ἐστιν ἐν τῇ συγγενείᾳ σου ὃς καλεῖται τῷ ὀνόματι τούτῳ·ἐνένευον δὲ τῷ πατρὶ αὐτοῦ τὸ τί ἂν θέλοι καλεῖσθαι αὐτόν. Καὶ αἰτήσας πινακίδιον ἔγραψε λέγων· Ἰωάννης ἐστὶ τὸ ὄνομα αὐτοῦ· καὶ ἐθαύμασαν πάντες. Ἀνεῴχθη δὲ τὸ στόμα αὐτοῦ παραχρῆμα καὶ ἡ γλῶσσα αὐτοῦ, καὶ ἐλάλει εὐλογῶν τὸν Θεόν.καὶ ἐγένετο ἐπὶ πάντας φόβος τοὺς περιοικοῦντας αὐτούς, καὶ ἐν ὅλῃ τῇ ὀρεινῇ τῆς Ἰουδαίας διελαλεῖτο πάντα τὰ ῥήματα ταῦτα,καὶ ἔθεντο πάντες οἱ ἀκούσαντες ἐν τῇ καρδίᾳ αὐτῶν λέγοντες· τί ἄρα τὸ παιδίον τοῦτο ἔσται; καὶ χεὶρ Κυρίου ἦν μετ' αὐτοῦ. Καὶ Ζαχαρίας ὁ πατὴρ αὐτοῦ ἐπλήσθη Πνεύματος ῾Αγίου καὶ προεφήτευσε λέγων· Εὐλογητὸς Κύριος, ὁ Θεὸς τοῦ Ἰσραήλ, ὅτι ἐπεσκέψατο καὶ ἐποίησε λύτρωσιν τῷ λαῷ αὐτοῦ, Καὶ σύ, παιδίον, προφήτης ὑψίστου κληθήσῃ· προπορεύσῃ γὰρ πρὸ προσώπου Κυρίου ἑτοιμάσαι ὁδοὺς αὐτοῦ, Τὸ δὲ παιδίον ηὔξανε καὶ ἐκραταιοῦτο πνεύματι, καὶ ἦν ἐν ταῖς ἐρήμοις ἕως ἡμέρας ἀναδείξεως αὐτοῦ πρὸς τὸν Ἰσραήλ."
+meMA.MM.Prokeimenon.text = properties_gr_GR_cog.media.key
 
 meMA.PostGospelGlory.mode = misc_gr_GR_cog.Mode2
 meMA.PostGospelGlory.melody = ""
@@ -586,9 +583,7 @@ meMA.LaudsTheotokion.mode = misc_gr_GR_cog.Mode6
 meMA.LaudsTheotokion.melody = he.o_gr_GR_cog.TheotokeSyEi.name
 meMA.LaudsTheotokion.text = he.o_gr_GR_cog.TheotokeSyEiProdromou.text
 
-meMA.LaudsSundayVerse1.text = meVE.ApostichaVerse2.text
-
-meMA.LaudsSundayVerse2.text = meVE.ApostichaVerse3.text
+meMA.MM.LaudsSunday.text = properties_gr_GR_cog.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
@@ -598,7 +593,7 @@ meLI.SeasonalKontakion.mode = misc_gr_GR_cog.Mode2
 meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = ho.s07_gr_GR_cog.hoTY.Key0408.text
 
-meLI.CommunionHymn.text = da.d3_gr_GR_cog.daLI.CommunionHymn.text
+meLI.MM.CommunionHymn.text = properties_gr_GR_cog.media.key
 
 meMegalynarion.text = ""
 

@@ -9,7 +9,7 @@ meNote.text = ""
 meLE.commemoration1 = "Μνήμη τοῦ Ὁσίου Πατρὸς ἡμῶν Ἰσιδώρου τοῦ Πηλουσιώτου."
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -40,7 +40,7 @@ meVE.Stichera06.melody = he.a.m4_gr_GR_cog.OsGennaionEnMartysi.name
 meVE.Stichera06.text = "Ἐγκρατείᾳ τὸ φρόνημα, τῆς σαρκὸς ἐθανάτωσας, ζωηφόρον νέκρωσιν ἐνδυσάμενος, καὶ τῆς ψυχῆς τὴν κατάστασιν, πλατύνας Πανόσιε, ἐναργῶς χωρητικήν, χαρισμάτων τοῦ Πνεύματος ἀπετέλεσας, καὶ δοχεῖον ἐγένου θεοπνεύστων, διδαγμάτων καὶ σοφίας, τῆς ὑπὲρ νοῦν ἐνδιαίτημα."
 
 meVE.SticGlory.mode = misc_gr_GR_cog.Mode7
-meVE.SticGlory.melody  = ""
+meVE.SticGlory.melody = ""
 meVE.SticGlory.text = "Φῶς εἰς ἀποκάλυψιν ἐθνῶν, ἦλθες ἐπὶ γῆς ἐξ οὐρανοῦ Σωτὴρ ἡμῶν, καὶ προελθὼν ἐκ τῆς Παρθένου, ἐπανεπαύσω ἐν ἀγκάλαις τοῦ δικαίου Συμεών! ἔδει γὰρ σε Ζωοδότα τῶν ἁπάντων, ὑπὸ τοῦ Πρεσβύτου γνωρισθῆναι, ὅτι παρεγένου ἀπολῦσαι αὐτόν, κατὰ τὸ ῥῆμά σου, ὁ ἔχων τὸ μέγα ἔλεος."
 
 meVE.Aposticha1.mode = misc_gr_GR_cog.Mode2
@@ -61,11 +61,11 @@ meVE.Aposticha3.text = "Μέγα καὶ φοβερόν, Μυστήριον �
 
 meVE.AposGlory.poet = poets_gr_GR_cog.Germanou
 meVE.AposGlory.mode = misc_gr_GR_cog.Mode2
-meVE.AposGlory.melody  = ""
+meVE.AposGlory.melody = ""
 meVE.AposGlory.text = me.m02.d02_gr_GR_cog.meVE.Lity4.text
 
 meVE.Apolytikion1.mode = misc_gr_GR_cog.Mode1
-meVE.Apolytikion1.melody  = ""
+meVE.Apolytikion1.melody = ""
 meVE.Apolytikion1.text = me.m02.d02_gr_GR_cog.meVE.Apolytikion1.text
 
 meVE.Apolytikion2.poet = poets_gr_GR_cog.Gerasimou
@@ -213,10 +213,10 @@ meMA.Ode6C1T.melody = he.h.m6_gr_GR_cog.TouViouTinThalassan.name
 meMA.Ode6C1T.text = "Ὁ φέρων τὰ σύμπαντα, δυναστείᾳ θεϊκῇ, καὶ συγκρατῶν ὡς εὔσπλαγχνος, σαῖς ἀγκάλαις Πανάμωμε σαρκωθείς, ὡς βρέφος βαστάζεται, ὁ Πατρὶ κατ' οὐσίαν συναΐδιος."
 
 meMA.Kontakion1.mode = misc_gr_GR_cog.Mode1
-meMA.Kontakion1.melody  = ""
+meMA.Kontakion1.melody = ""
 meMA.Kontakion1.text = me.m02.d02_gr_GR_cog.meMA.Kontakion1.text
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C1H.ode = misc_gr_GR_cog.Ode7
 meMA.Ode7C1H.mode = misc_gr_GR_cog.Mode6
@@ -296,21 +296,15 @@ meMA.Exaposteilarion2.mode = misc_gr_GR_cog.Mode2
 meMA.Exaposteilarion2.melody = he.a.m2_gr_GR_cog.GynaikesAkoutisthite.name
 meMA.Exaposteilarion2.text = "Ἐκ σοῦ Θεογεννήτρια, ὁ Κτίστης οὐρανοῦ καὶ γῆς, τεχθεὶς ἀφράστως ὡς οἶδεν, ἐν τῷ ναῷ νῦν ὡς βρέφος, εἰσήχθη ἐπωλένιος, ὃν Συμεὼν δεξάμενος, Θεὸς ὑπάρχεις Δέσποτα, Σωτὴρ καὶ ῥύστης ἐβόα, βροτῶν τοῦ γένους Χριστέ μου."
 
-meMA.LaudsSundayVerse1.text = ""
-
-meMA.LaudsSundayVerse2.text = ""
+meMA.MM.LaudsSunday.text = properties_gr_GR_cog.media.key
 
 meMA.Aposticha1.mode = misc_gr_GR_cog.Mode2
 meMA.Aposticha1.melody = he.a.m2_gr_GR_cog.OikosTouEfratha.name
 meMA.Aposticha1.text = "Ῥύπου δίχα Χριστός, γεννᾶται ἐκ Παρθένου, ὡς ἐκ Πατρὸς ἀῤῥεύστως, Υἱὸς πρὸ Ἑωσφόρου, ὁ τόν, Ἀδὰμ λυτρούμενος."
 
-meMA.ApostichaVerse2.text = "Νῦν ἀπολύεις τὸν δοῦλόν σου Δέσποτα, κατὰ τὸ ῥῆμά σου ἐν εἰρήνῃ· ὅτι εἶδον οἱ ὀφθαλμοί μου, τὸ σωτήριόν σου, ὃ ἡτοίμασας κατὰ πρόσωπον πάντων τῶν λαῶν."
-
 meMA.Aposticha2.mode = misc_gr_GR_cog.Mode2
 meMA.Aposticha2.melody = he.a.m2_gr_GR_cog.OikosTouEfratha.name
 meMA.Aposticha2.text = "Πύλαι τῶν οὐρανῶν, ἀνοίχθητε· Χριστὸς γάρ, ἐν τῷ ναῷ ὡς βρέφος, ὑπὸ Μητρὸς Παρθένου, Θεῷ Μητρὶ προσάγεται."
-
-meMA.ApostichaVerse3.text = "Φῶς εἰς ἀποκάλυψιν ἐθνῶν, καὶ δόξαν λαοῦ σου Ἰσραήλ."
 
 meMA.Aposticha3.mode = misc_gr_GR_cog.Mode2
 meMA.Aposticha3.melody = he.a.m2_gr_GR_cog.OikosTouEfratha.name
@@ -327,7 +321,7 @@ meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.text = meMA.Kontakion1.text
 
 meLI.SeasonalKontakion.mode = misc_gr_GR_cog.Mode1
-meLI.SeasonalKontakion.melody  = ""
+meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = me.m02.d02_gr_GR_cog.meMA.Kontakion1.text
 
 meMegalynarion.text = ""

@@ -9,7 +9,7 @@ meNote.text = ""
 meLE.commemoration1 = "Μνήμη τοῦ Ὁσίου Πατρὸς ἡμῶν Εὐμενίου, Ἐπισκόπου Γορτύνης, τοῦ θαυματουργοῦ."
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -39,7 +39,7 @@ meVE.Stichera06.melody = he.a.m4_gr_GR_cog.OsGennaionEnMartysi.name
 meVE.Stichera06.text = "Τῶν Κρητῶν ἐγκαλλώπισμα, τῆς Γορτύνης τὸν πρόεδρον, Ἐκκλησίας ἄσειστον τὸ θεμέλιον, τὸν ἱεράρχην Εὐμένιον, ἐν θαύμασι μέγιστον, καὶ δυνάμεσι πολλαῖς, γεγονότα περίδοξον, καὶ φωτίσαντα, τὰς ἐν ζόφῳ καρδίας, ὡς φωστῆρα, τῶν πιστῶν μεγαλοφώνως, οἱ συνελθόντες τιμήσωμεν."
 
 meVE.SticGlory.mode = misc_gr_GR_cog.Mode4
-meVE.SticGlory.melody  = ""
+meVE.SticGlory.melody = ""
 meVE.SticGlory.text = me.m09.d14_gr_GR_cog.meVE.LityGlory.text 
 
 meVE.Aposticha1.mode = misc_gr_GR_cog.Mode6
@@ -59,7 +59,7 @@ meVE.Aposticha3.melody = he.a.m6_gr_GR_cog.TriimerosAnestis.name
 meVE.Aposticha3.text = "Σταυρῷ προσηλωθεὶς δι' ἐμέ, Σωτήρ μου ὑπεράγαθε, ἐρραπίσθης καὶ ὑβρίσθης λυτρωτά, καὶ ὄξος ἐποτίσθης, καὶ λόγχῃ ἐκεντήθης, καὶ πάντα φέρεις ἀναμάρτητε."
 
 meVE.AposGlory.mode = misc_gr_GR_cog.Mode6
-meVE.AposGlory.melody  = ""
+meVE.AposGlory.melody = ""
 meVE.AposGlory.text = "Σήμερον ξύλον ἐφανερώθη. Σήμερον γένος Ἑβραίων ἀπώλετο. Σήμερον διὰ πιστῶν βασιλέων, ἡ πίστις φανεροῦται, καὶ ὁ Ἀδὰμ διὰ τοῦ ξύλου ἐξέπεσε, καὶ πάλιν διὰ ξύλου δαίμονες ἔφριξαν· Παντοδύναμε Κύριε δόξα σοι."
 
 meVE.Apolytikion1.poet = poets_gr_GR_cog.Gerasimou
@@ -211,7 +211,7 @@ meMA.Kontakion1.text = "Φωτὶ θεϊκῷ, ἐλλαμφθεὶς παμμα
 
 meMA.Oikos1.text = "Οἴκτειρον Κύριε τὸν σὸν δοῦλον, καὶ συγχώρησον πάντα τὰ ὀφειλήματα νῦν, καὶ δώρησαί μοι τὸ ἔλεος τῆς εὐσπλαγχνίας σου, ἵνα ὕμνοις σε δοξάζω ἀπαύστως, καὶ τὸν πιστόν σου θεράποντα στέψω ᾠδαῖς, τὸν πρόεδρον Γορτύνης σήμερον, Εὐμένιον τὸν φωστῆρα, γῆς πάσης τὸ μέγα κειμήλιον, τῆς Ἐκκλησίας τὸ στήριγμα, καὶ τῆς Κρήτης τὸ θεῖον ἀγλάϊσμα· πρεσβεύει γὰρ ἀπαύστως ὑπὲρ πάντων ἡμῶν."
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C11.ode = misc_gr_GR_cog.Ode7
 meMA.Ode7C11.mode = misc_gr_GR_cog.Mode2
@@ -295,13 +295,9 @@ meMA.Aposticha1.mode = misc_gr_GR_cog.Mode2
 meMA.Aposticha1.melody = he.a.m2_gr_GR_cog.OikosTouEfratha.name
 meMA.Aposticha1.text = me.m09.d14_gr_GR_cog.meSV.Aposticha2.text
 
-meMA.ApostichaVerse2.text = meVE.ApostichaVerse2.text
-
 meMA.Aposticha2.mode = misc_gr_GR_cog.Mode2
 meMA.Aposticha2.melody = he.a.m2_gr_GR_cog.OikosTouEfratha.name
 meMA.Aposticha2.text = "Ὕδατι θεουργῷ, καὶ αἵματί σου Λόγε, λαμπρῶς ἡ Ἐκκλησία, στολίζεται ὡς νύμφη, Σταυροῦ τὴν δόξαν μέλπουσα."
-
-meMA.ApostichaVerse3.text = meVE.ApostichaVerse3.text
 
 meMA.Aposticha3.mode = misc_gr_GR_cog.Mode2
 meMA.Aposticha3.melody = he.a.m2_gr_GR_cog.OikosTouEfratha.name

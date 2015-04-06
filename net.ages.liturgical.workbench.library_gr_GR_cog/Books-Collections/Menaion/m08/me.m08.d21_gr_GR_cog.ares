@@ -9,7 +9,7 @@ meNote.text = ""
 meLE.commemoration1 = "Μνήμη τοῦ Ἁγίου Ἀποστόλου Θαδδαίου καὶ τῆς Ἁγίας Μάρτυρος Βάσσης."
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -310,7 +310,7 @@ meMA.Kontakion1.text = "Ἑορτὴ χαρμόσυνος, τοῦ Ἀποστ�
 
 meMA.Oikos1.text = "Τὸν Χριστοῦ Μαθητὴν ἅπαντες εὐφημήσωμεν, τὸν αὐτόπτην τοῦ Λόγου τιμήσωμεν σήμερον. Οὗτος γὰρ τῷ κόσμῳ ἐκήρυξε τὸ πάνσεπτον Εὐαγγέλιον, καὶ τὰ ἔθνη σαγηνεύσας ἐκ τοῦ βυθοῦ τῆς πλάνης ἀνήγαγε, τὴν δὲ ὁδὸν τῆς ἀληθείας ὑποδείξας, δι' αὐτῆς ἀνάγει τοὺς πιστοὺς πρὸς πατρίδα οὐράνιον, καὶ τῷ θείῳ θρόνῳ λαμπρῶς παριστάμενος, φωτισμὸν παρέχει δαψιλῶς τοῖς αὐτὸν ἐκ πόθου γεραίρουσι. Καὶ γὰρ ἔχει παρρησίαν, ὡς θεῖος μύστης Χριστοῦ τῆς χάριτος."
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C11.ode = misc_gr_GR_cog.Ode7
 meMA.Ode7C11.mode = misc_gr_GR_cog.Mode8
@@ -469,13 +469,9 @@ meMA.Aposticha1.mode = misc_gr_GR_cog.Mode2
 meMA.Aposticha1.melody = he.a.m2_gr_GR_cog.OikosTouEfratha.name
 meMA.Aposticha1.text = "Μνήσθητι ἐκτενῶς, τῶν σὲ παρακαλούντων, Παρθένε Θεοτόκε, καὶ πόθῳ ἀνυμνούντων, τὴν ἱεράν σου Κοίμησιν."
 
-meMA.ApostichaVerse2.text = meVE.ApostichaVerse2.text
-
 meMA.Aposticha2.mode = misc_gr_GR_cog.Mode2
 meMA.Aposticha2.melody = he.a.m2_gr_GR_cog.OikosTouEfratha.name
 meMA.Aposticha2.text = "Δεῦρό μοι Μαθητῶν, τὸ στῖφος τῇ Παρθένῳ, ἐξόδιον τὸν ὕμνον, εἷς ἕκαστος φερέτω, τῇ ἑορτῇ ἁρμόδιον."
-
-meMA.ApostichaVerse3.text = meVE.ApostichaVerse3.text
 
 meMA.Aposticha3.mode = misc_gr_GR_cog.Mode2
 meMA.Aposticha3.melody = he.a.m2_gr_GR_cog.OikosTouEfratha.name
@@ -485,7 +481,7 @@ meMA.AposGlory.mode = misc_gr_GR_cog.Mode2
 meMA.AposGlory.melody = he.a.m2_gr_GR_cog.OikosTouEfratha.name
 meMA.AposGlory.text = me.m08.d20_gr_GR_cog.meVE.Aposticha3.text
 
-meMA.LaudsSundayVerse1.text = "" //for media
+meMA.MM.LaudsSunday.text = properties_gr_GR_cog.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody

@@ -111,10 +111,7 @@ meMA.Kathisma3T.mode = misc_gr_GR_cog.Mode4
 meMA.Kathisma3T.melody = he.a.m4_gr_GR_cog.TachyProkatalave.name
 meMA.Kathisma3T.text = ""
 
-meMA.Prokeimenon.text = "" // for media
-//meMA.Gospel.name = //"Ματθαῖον or Μᾶρκον or Λουκᾶν or Ἰωάννην or Matthew or Mark or Luke or John"
-//meMA.Gospel.chapverse = //"(Κεφ. ΓΓʹ 11-11) or 1:11-11"
-//meMA.Gospel.text = ""
+meMA.MM.Prokeimenon.text = properties_gr_GR_cog.media.key
 
 meMA.PostGospelGlory.mode = misc_gr_GR_cog.Mode2
 meMA.PostGospelGlory.melody = ""
@@ -614,8 +611,6 @@ meMA.Lauds3.mode = misc_gr_GR_cog.Mode4
 meMA.Lauds3.melody = he.a.m4_gr_GR_cog.OsGennaionEnMartysi.name
 meMA.Lauds3.text = "Ὥσπερ προῖκα πολύτιμον, τῷ νυμφίῳ προσήγαγες, Ἀθληφόρε ἔνδοξε δῆμον ἅγιον, τοῖς θαυμασίοις πιστεύσαντα, οἷς πίστει ἐτέλεσας, ἀνωτέρα καὶ ποινῶν, καὶ πυρός καταφλέγοντος, καὶ στρεβλώσεων, ἐν Χριστῷ δεικνυμένη τῷ τὴν νίκην, οὐρανόθεν σοι παρθένε, θεουργικῶς χορηγήσαντι."
 
-meMA.LaudsSundayVerse2.text = "" // for media on Sunday of HF
-
 meMA.LaudsGlory.mode = misc_gr_GR_cog.Mode6
 meMA.LaudsGlory.melody = ""
 meMA.LaudsGlory.text = "Ἀθλητικὴν ὁδεύσασα ὁδόν, προγονικὴν ἐξέφυγες βουλήν, Μαρῖνα πανσεβάσμιε, καὶ ὡς μὲν παρθένος φρονίμη, λαμπαδηφόρος εἰσῆλθες εἰς τὰς αὐλὰς τοῦ Κυρίου σου, ὡς δὲ μάρτυς ἀνδρεία, χάριν ἔλαβες ἀπελαύνειν πᾶσαν νόσον ἐξ ἀνθρώπων. Ἀλλὰ καὶ ἡμᾶς τοὺς ὑμνοῦντάς σε, ψυχικῶν ἀλγηδόνων ἐλευθέρωσον, ταῖς πρὸς Θεὸν ἱκεσίαις σου."
@@ -624,7 +619,7 @@ meMA.LaudsTheotokion.mode = misc_gr_GR_cog.Mode6
 meMA.LaudsTheotokion.melody = he.o_gr_GR_cog.TheotokeSyEi.name
 meMA.LaudsTheotokion.text = he.o_gr_GR_cog.TheotokeSyEiAthliforou.text
 
-meMA.LaudsSundayVerse1.text = "" // for media
+meMA.MM.LaudsSunday.text = properties_gr_GR_cog.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
@@ -634,7 +629,7 @@ meLI.SeasonalKontakion.mode = misc_gr_GR_cog.Mode2
 meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = ho.s07_gr_GR_cog.hoTY.Key0408.text
 
-meLI.CommunionHymn.text = da.d3_gr_GR_cog.daLI.CommunionHymn.text
+meLI.MM.CommunionHymn.text = properties_gr_GR_cog.media.key
 
 meMegalynarion.text = ""
 

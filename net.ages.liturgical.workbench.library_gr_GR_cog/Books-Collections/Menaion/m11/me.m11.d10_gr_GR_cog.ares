@@ -435,7 +435,7 @@ meMA.ExapTheotokion.mode = misc_gr_GR_cog.Mode2
 meMA.ExapTheotokion.melody = he.a.m2_gr_GR_cog.GynaikesAkoutisthite.name
 meMA.ExapTheotokion.text = "Μαρία καθαρώτατον, χρυσοῦν θυμιατήριον, τῆς ἀχωρήτου Τριάδος, δοχεῖον ὄντως ἐγένου, ἐν ᾧ Πατὴρ ηὐδόκησεν, ὁ δὲ Υἱὸς ἐσκήνωσε, καὶ Πνεῦμα τὸ Πανάγιον, ἐπισκιάσαν σοι Κόρη, ἀνέδειξε Θεοτόκον."
 
-meMA.LaudsSundayVerse1.text = "" // for media
+meMA.MM.LaudsSunday.text = properties_gr_GR_cog.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
@@ -445,7 +445,7 @@ meLI.SeasonalKontakion.mode = me.m11.d21_gr_GR_cog.meMA.Kontakion1.mode
 meLI.SeasonalKontakion.melody = me.m11.d21_gr_GR_cog.meMA.Kontakion1.melody
 meLI.SeasonalKontakion.text = me.m11.d21_gr_GR_cog.meMA.Kontakion1.text
 
-meLI.CommunionHymn.text = "" // for media
+meLI.MM.CommunionHymn.text = properties_gr_GR_cog.media.key
 
 meMegalynarion.text = ""
 

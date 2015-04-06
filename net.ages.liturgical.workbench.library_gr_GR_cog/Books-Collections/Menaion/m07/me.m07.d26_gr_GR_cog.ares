@@ -508,7 +508,7 @@ meMA.LaudsTheotokion.mode = misc_gr_GR_cog.Mode2
 meMA.LaudsTheotokion.melody = ""
 meMA.LaudsTheotokion.text = ho.s23_gr_GR_cog.hoCA.Troparion7.text
 
-meMA.LaudsSundayVerse1.text = "" // for Media
+meMA.MM.LaudsSunday.text = properties_gr_GR_cog.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
@@ -518,6 +518,6 @@ meLI.SeasonalKontakion.mode = misc_gr_GR_cog.Mode2
 meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = ho.s07_gr_GR_cog.hoTY.Key0408.text
 
-meLI.CommunionHymn.text = da.d3_gr_GR_cog.daLI.CommunionHymn.text
+meLI.MM.CommunionHymn.text = properties_gr_GR_cog.media.key
 
 meMegalynarion.text = ""

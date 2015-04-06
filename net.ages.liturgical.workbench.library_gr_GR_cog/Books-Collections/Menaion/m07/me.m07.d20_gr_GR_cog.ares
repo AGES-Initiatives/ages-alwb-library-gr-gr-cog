@@ -114,10 +114,7 @@ meMA.Kathisma2T.text = oc.m1.d1_gr_GR_cog.ocMA.Kathisma23.text
 
 //Not in Menaion, optional Matins Gospel
 meR01 = "Τὸ Μηναῖον δὲν προβλέπει Εὐαγγέλιον τοῦ Ὄρθρου."
-meMA.Prokeimenon.text = "" // for media
-//meMA.Gospel.name = "Λουκᾶν "
-//meMA.Gospel.chapverse = "(Κεφ. Δʹ 22-30)"
-//meMA.Gospel.text = "Καὶ πάντες ἐμαρτύρουν αὐτῷ καὶ ἐθαύμαζον ἐπὶ τοῖς λόγοις τῆς χάριτος τοῖς ἐκπορευομένοις ἐκ τοῦ στόματος αὐτοῦ, καὶ ἔλεγον, Οὐχὶ υἱός ἐστιν Ἰωσὴφ οὗτος; καὶ εἶπεν πρὸς αὐτούς, Πάντως ἐρεῖτέ μοι τὴν παραβολὴν ταύτην· Ἰατρέ, θεράπευσον σεαυτόν· ὅσα ἠκούσαμεν γενόμενα εἰς τὴν Καφαρναοὺμ ποίησον καὶ ὧδε ἐν τῇ πατρίδι σου. εἶπεν δέ, Ἀμὴν λέγω ὑμῖν ὅτι οὐδεὶς προφήτης δεκτός ἐστιν ἐν τῇ πατρίδι αὐτοῦ. ἐπ' ἀληθείας δὲ λέγω ὑμῖν, πολλαὶ χῆραι ἦσαν ἐν ταῖς ἡμέραις Ἠλίου ἐν τῷ Ἰσραήλ, ὅτε ἐκλείσθη ὁ οὐρανὸς ἐπὶ ἔτη τρία καὶ μῆνας ἕξ, ὡς ἐγένετο λιμὸς μέγας ἐπὶ πᾶσαν τὴν γῆν, καὶ πρὸς οὐδεμίαν αὐτῶν ἐπέμφθη Ἠλίας εἰ μὴ εἰς Σάρεπτα τῆς Σιδωνίας πρὸς γυναῖκα χήραν. καὶ πολλοὶ λεπροὶ ἦσαν ἐν τῷ Ἰσραὴλ ἐπὶ Ἐλισαίου τοῦ προφήτου, καὶ οὐδεὶς αὐτῶν ἐκαθαρίσθη εἰ μὴ Ναιμὰν ὁ Σύρος. καὶ ἐπλήσθησαν πάντες θυμοῦ ἐν τῇ συναγωγῇ ἀκούοντες ταῦτα, καὶ ἀναστάντες ἐξέβαλον αὐτὸν ἔξω τῆς πόλεως, καὶ ἤγαγον αὐτὸν ἕως ὀφρύος τοῦ ὄρους ἐφ' οὗ ἡ πόλις ᾠκοδόμητο αὐτῶν, ὥστε κατακρημνίσαι αὐτόν· αὐτὸς δὲ διελθὼν διὰ μέσου αὐτῶν ἐπορεύετο."
+meMA.MM.Prokeimenon.text = properties_gr_GR_cog.media.key
 
 meMA.PostGospelGlory.mode = misc_gr_GR_cog.Mode2
 meMA.PostGospelGlory.melody = ""
@@ -505,7 +502,7 @@ meMA.LaudsTheotokion.mode = misc_gr_GR_cog.Mode8
 meMA.LaudsTheotokion.melody = ""
 meMA.LaudsTheotokion.text = oc.m8.d5_gr_GR_cog.ocMA.AposTheotokion.text
 
-meMA.LaudsSundayVerse1.text = "" // for media
+meMA.MM.LaudsSunday.text = properties_gr_GR_cog.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
@@ -515,6 +512,6 @@ meLI.SeasonalKontakion.mode = misc_gr_GR_cog.Mode2
 meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = ho.s07_gr_GR_cog.hoTY.Key0408.text
 
-meLI.CommunionHymn.text = "" // for media
+meLI.MM.CommunionHymn.text = properties_gr_GR_cog.media.key
 
 meMegalynarion.text = ""

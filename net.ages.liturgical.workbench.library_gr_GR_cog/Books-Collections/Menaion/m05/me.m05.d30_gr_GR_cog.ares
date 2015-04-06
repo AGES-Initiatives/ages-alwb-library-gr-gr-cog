@@ -9,7 +9,7 @@ meNote.text = ""
 meLE.commemoration1 = "Μνήμη τοῦ Ὁσίου πατρὸς ἡμῶν Ἰσαακίου, Ἡγουμένου τῆς Μονῆς τῶν Δαλμάτων."
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -141,7 +141,7 @@ meMA.Kontakion1.mode = misc_gr_GR_cog.Mode8
 meMA.Kontakion1.melody = he.a.m8_gr_GR_cog.TiYpermacho.name
 meMA.Kontakion1.text = "Ὡς τῶν Ὁσίων ἀκριβέστατον ὑπόδειγμα, καὶ εὐσεβείας πρακτικώτατον ἐκφάντορα, ἀνυμνοῦμέν σε οἱ δοῦλοί σου θεοφόρε. Ἀλλ' ὡς χάριτος τῆς θείας καταγώγιον, ναοὺς ἔργασαι ἡμᾶς φωτὸς τοῦ Πνεύματος, τοὺς βοῶντάς σοι· Χαίροις Πάτερ Ἰσαάκιε."
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C11.ode = misc_gr_GR_cog.Ode7
 meMA.Ode7C11.mode = misc_gr_GR_cog.Mode8
@@ -198,19 +198,17 @@ meMA.Ode9H.mode = misc_gr_GR_cog.Mode8
 meMA.Ode9H.melody = misc_gr_GR_cog.Heirmos
 meMA.Ode9H.text = he.h.m8_gr_GR_cog.EfrixePasaAkoi.text
 
-meMA.LaudsSundayVerse1.text = ""
-
-meMA.LaudsSundayVerse2.text = ""
+meMA.MM.LaudsSunday.text = properties_gr_GR_cog.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.text = meMA.Kontakion1.text
 
 meLI.SeasonalKontakion.mode = misc_gr_GR_cog.Mode2
-meLI.SeasonalKontakion.melody  = ""
-meLI.SeasonalKontakion.text  = ""
+meLI.SeasonalKontakion.melody = ""
+meLI.SeasonalKontakion.text = ""
 
-meLI.CommunionHymn.text = ""
+meLI.MM.CommunionHymn.text = properties_gr_GR_cog.media.key
 
 meMegalynarion.text = ""
 

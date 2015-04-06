@@ -9,7 +9,7 @@ meNote.text = ""
 meLE.commemoration1 = "Μνήμη τοῦ Ἁγίου Θωμᾶ τοῦ ἐν Μαλεῷ· καὶ τῆς Ἁγίας Μάρτυρος Κυριακῆς."
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -39,7 +39,7 @@ meVE.Stichera06.melody = he.a.m2_gr_GR_cog.OteEkTouXylou.name
 meVE.Stichera06.text = "Ῥίζης, εὐκλεοῦς Κυριακή, κλάδος ὡραιότατος ὤφθης, καρπὸν σωτήριον, φέρων τῆς ἀθλήσεως, τὰ κατορθώματα, καὶ μαραίνων ἐν χάριτι, φυτὰ ἀσεβείας· ὅθεν τὴν πανίερον, μνήμην σου σέβομεν, πόθῳ καὶ λειψάνων τὴν θήκην, νῦν περιπτυσσόμεθα χάριν, ἐξ αὐτῆς ἰάσεων λαμβάνοντες."
 
 meVE.SticGlory.mode = misc_gr_GR_cog.Mode6
-meVE.SticGlory.melody  = ""
+meVE.SticGlory.melody = ""
 meVE.SticGlory.text = "Ἐκ δεξιῶν τοῦ Σωτῆρος, παρέστη ἡ παρθένος, καὶ ἀθληφόρος καὶ Μάρτυς, περιβεβλημένη ταῖς ἀρεταῖς τὸ ἀήττητον, καὶ πεποικιλμένῃ ἐλαίῳ τῆς ἁγνείας, καὶ τῷ αἵματι τῆς ἀθλήσεως, καὶ βοῶσα πρὸς αὐτόν, ἐν ἀγαλλιάσει τὴν λαμπάδα κατέχουσα. Εἰς ὀσμὴν μύρου σου ἔδραμον, Χριστὲ ὁ Θεός, ὅτι τέτρωμαι τῆς σῆς ἀγάπης ἐγώ, μὴ χωρίσῃς με νυμφίε ἐπουράνιε. Αὐτῆς ταῖς ἱκεσίαις κατάπεμψον ἡμῖν, παντοδύναμε Σωτὴρ τὰ ἐλέη σου."
 
 meVE.SticTheotokion.mode = misc_gr_GR_cog.Mode6
@@ -51,11 +51,11 @@ meVE.SticStavrotheotokion.melody = he.a.m6_gr_GR_cog.TriimerosAnestis.name
 meVE.SticStavrotheotokion.text = "Ἐν ξύλῳ τὴν ζωὴν ἡμῶν, ὁρῶσα ἡ πανάμωμος, Θεοτόκος, κρεμαμένην μητρικῶς, ὠδύρετο βοῶσα· Υἱέ μου καὶ Θεέ μου, σῶσον τοὺς πόθῳ ἀνυμνοῦντάς σε."
 
 meVE.AposGlory.mode = misc_gr_GR_cog.Mode2
-meVE.AposGlory.melody  = ""
+meVE.AposGlory.melody = ""
 meVE.AposGlory.text = "Ἐν πόλει τοῦ Θεοῦ ἡμῶν, ἐν ὄρει ἁγίῳ αὐτοῦ, ἐκεῖ κατεσκήνωσεν ἡ Ἁγία, τὴν λαμπάδα ἄσβεστον τηρήσασα. Ἀκούσωμεν τῆς Παρθένου ἐγκώμιον! ὦ Παρθενία, ναός Θεοῦ! ὦ Παρθενία, Μαρτύρων Δόξα! ὦ Παρθενία, Ἀγγέλων συνόμιλε."
 
 meVE.AposTheotokion.mode = misc_gr_GR_cog.Mode2
-meVE.AposTheotokion.melody  = ""
+meVE.AposTheotokion.melody = ""
 meVE.AposTheotokion.text = oc.m2.d3_gr_GR_cog.ocVE.AposTheotokion.text
 
 meVE.AposStavrotheotokion.mode = misc_gr_GR_cog.Mode2
@@ -300,7 +300,7 @@ meMA.Kontakion1.text = "Ἡ Μάρτυς Χριστοῦ, ἡμᾶς συνεκ
 
 meMA.Oikos1.text = "Τῆς τῶν εἰδώλων πλάνης κρατούσης ἀνὰ πᾶσαν τὴν γῆν, καὶ περιπολούσης, φιλόχριστοι. Μέδοντός τε δυσσεβοῦς καὶ ἀπανθρώπου ὄντος παρὰ πάντας ἀνθρώπους, προσεκυνεῖτο ἡ τῶν ἀθέων μιαρὰ καὶ δυσώνυμος αἵρεσις· τῇ τούτου γὰρ ἀθεωτάτῃ φωνῇ τὰ πλήθη ὑπήκουεν, ὡς τοῖς μὴ εἴκουσι τῇ αὐτοῦ ἀσεβείᾳ θάνατον ἀπειλούσῃ σφοδρὸν τε καὶ δύσμορον. Ἀλλ' ἡ Μάρτυς Χριστοῦ, τὰς τῶν τυράννων ἀθέους προσταγάς τε καὶ ἀπειλὰς καταπτύσασα, καὶ Χριστὸν τὸν Θεὸν ἐν μέσῳ τοῦ σταδίου κηρυξασα, τόν ἐχθρὸν κατεπάτησεν· ὅθεν ὤφθη ἀληθῶς κυρία νοός τε, καὶ παθῶν ἀπρεπῶν."
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C11.ode = misc_gr_GR_cog.Ode7
 meMA.Ode7C11.mode = misc_gr_GR_cog.Mode2
@@ -435,16 +435,14 @@ meMA.ExapTheotokion.mode = misc_gr_GR_cog.Mode3
 meMA.ExapTheotokion.melody = he.a.m3_gr_GR_cog.OOuranonToisAstrois.name
 meMA.ExapTheotokion.text = "Ἱερωτάταις κόρη, Κυριακῆς τῆς σεμνῆς, πρεσβείαις φύλαττε πάντας, δούλους τοὺς σοὺς ἐκ τῶν δεινῶν, καὶ πάσης ἄλλης ἀνάγκης, ὡς προστασία τοῦ κόσμου."
 
-meMA.LaudsSundayVerse1.text = "Ὑπομένων ὑπέμεινα τὸν Κύριον, καὶ προσέσχε μοι."
-
-meMA.LaudsSundayVerse2.text = "Καὶ ἔστησεν ἐπὶ πέτραν τοὺς πόδας μου, καὶ κατηύθυνεν τὰ διαβήματά μου."
+meMA.MM.LaudsSunday.text = properties_gr_GR_cog.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.text = meMA.Kontakion1.text
 
 meLI.SeasonalKontakion.mode = misc_gr_GR_cog.Mode2
-meLI.SeasonalKontakion.melody  = ""
+meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = ho.s07_gr_GR_cog.hoTY.Key0408.text
 
 meMegalynarion.text = ""

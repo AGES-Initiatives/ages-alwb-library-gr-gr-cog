@@ -476,9 +476,7 @@ meMA.LaudsTheotokion.mode = misc_gr_GR_cog.Mode5
 meMA.LaudsTheotokion.melody = ""
 meMA.LaudsTheotokion.text = oc.m5.d7_gr_GR_cog.ocVE.AposTheotokion.text
 
-meMA.LaudsSundayVerse1.text = meVE.ApostichaVerse2.text
-
-meMA.LaudsSundayVerse2.text = meVE.ApostichaVerse3.text
+meMA.MM.LaudsSunday.text = properties_gr_GR_cog.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
@@ -499,7 +497,7 @@ alt1.meNote.text = ""
 alt1.meLE.commemoration1 = "Ἀκολουθία τῆς Ἁγίας Μάρτυρος Γολινδούχ"
 alt1.meLE.commemoration2 = ""
 alt1.meHO.number = ""
-alt1.meHO.rank  = ""
+alt1.meHO.rank = ""
 alt1.meHO.commemorations = ""
 alt1.meHO.note1 = ""
 alt1.meHO.note2 = ""
@@ -698,7 +696,7 @@ alt1.meLI.Kontakion1.melody = ""
 alt1.meLI.Kontakion1.text = ""
 
 alt1.meLI.SeasonalKontakion.mode = misc_gr_GR_cog.Mode2
-alt1.meLI.SeasonalKontakion.melody  = ""
+alt1.meLI.SeasonalKontakion.melody = ""
 alt1.meLI.SeasonalKontakion.text = ho.s07_gr_GR_cog.hoTY.Key0408.text
 
 alt1.meMegalynarion.text = ""

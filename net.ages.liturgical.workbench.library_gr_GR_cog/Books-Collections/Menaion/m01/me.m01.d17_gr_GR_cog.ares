@@ -66,7 +66,7 @@ meVE.Stichera04.mode = misc_gr_GR_cog.Mode4
 meVE.Stichera04.melody = he.a.m4_gr_GR_cog.OExYpsistouKlitheis.name
 meVE.Stichera04.text = "Ὁ καθαρὸς τὴν ψυχὴν καὶ τὴν καρδίαν, Ἄγγελος ἐπίγειος, βροτὸς οὐράνιος, τῆς παρθενίας διδάσκαλος, τῆς ἐγκρατείας, ἠκριβωμένη στάθμη Ἀντώνιε· συνών τῷ Δεσπότῃ σου, καὶ τὴν ἀσίγητον δοξολογίαν μακάριε, σὺν τοῖς Ἀγγέλοις, καὶ τοῖς Ὁσίοις πᾶσι καὶ Μάρτυσι, τούτῳ προσάγων, τοὺς τελοῦντάς σου, τὴν ἱερὰν μνήμην πάντοτε, χαλεπῶν ἐκ κινδύνων, καὶ πταισμάτων ἐλευθέρωσον."
 
-meVE.Stichera78910.text = "" //for media
+meVE.Stichera78910.text = properties_gr_GR_cog.media.key
 
 meVE.SticGlory.poet = poets_gr_GR_cog.Sykeotou
 meVE.SticGlory.mode = misc_gr_GR_cog.Mode6
@@ -157,7 +157,7 @@ meMA.Kathisma3T.mode = misc_gr_GR_cog.Mode4
 meMA.Kathisma3T.melody = he.a.m4_gr_GR_cog.EpefanisSimeron.name
 meMA.Kathisma3T.text = "Ἐπελεύσει Πνεύματος, τοῦ Παναγίου, τοῦ Πατρὸς τὸν σύνθρονον, καὶ ὁμοούσιον φωνῇ, Ἁγνὴ Ἀγγέλου συνέλαβες, Θεοκυῆτορ, Ἀδὰμ ἡ ἀνάκλησις."
 
-meMA.Prokeimenon.text = ""
+meMA.MM.Prokeimenon.text = properties_gr_GR_cog.media.key
 
 meMA.PostGospelGlory.mode = misc_gr_GR_cog.Mode2
 meMA.PostGospelGlory.melody = ""
@@ -415,9 +415,7 @@ meMA.LaudsTheotokion.mode = misc_gr_GR_cog.Mode8
 meMA.LaudsTheotokion.melody = ""
 meMA.LaudsTheotokion.text = oc.m8.d5_gr_GR_cog.ocMA.AposTheotokion.text
 
-meMA.LaudsSundayVerse1.text = ""
-
-meMA.LaudsSundayVerse2.text = ""
+meMA.MM.LaudsSunday.text = properties_gr_GR_cog.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
@@ -427,7 +425,7 @@ meLI.SeasonalKontakion.mode = misc_gr_GR_cog.Mode1
 meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = me.m02.d02_gr_GR_cog.meMA.Kontakion1.text
 
-meLI.CommunionHymn.text = "" //for media
+meLI.MM.CommunionHymn.text = properties_gr_GR_cog.media.key
 
 meMegalynarion.text = ""
 

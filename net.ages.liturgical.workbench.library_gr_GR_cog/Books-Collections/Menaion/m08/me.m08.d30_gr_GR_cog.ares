@@ -9,7 +9,7 @@ meNote.text = ""
 meLE.commemoration1 = "Μνήμη τῶν Ἁγίων Πατριαρχῶν Κωνσταντινουπόλεως, Ἀλεξάνδρου, Ἰωάννου καὶ Παύλου τοῦ νέου."
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -39,7 +39,7 @@ meVE.Stichera06.melody = he.a.m1_gr_GR_cog.PaneffimoiMartyres.name
 meVE.Stichera06.text = "Παύλου θείοις δόγμασι σαφῶς, ὄντως ἐπειθάρχησας, μεθ' οὗ εἰς τρίτον ἀνέδραμες, οὐρανὸν Ὅσιε, ἀρετῶν τῷ ὕψει, καὶ ἤκουσας ῥήματα, τὰ ἄρρητα καὶ θεῖα τοῦ Πνεύματος, Παῦλε μακάριε, ὀρθοδόξων βάσις ἄσειστε, τὸν Σωτῆρα ἀπαύστως ἱκέτευε."
 
 meVE.SticGlory.mode = misc_gr_GR_cog.Mode6
-meVE.SticGlory.melody  = ""
+meVE.SticGlory.melody = ""
 meVE.SticGlory.text = me.m08.d29_gr_GR_cog.meVE.Stichera01.text
 
 meVE.SticTheotokion.mode = misc_gr_GR_cog.Mode6
@@ -47,15 +47,15 @@ meVE.SticTheotokion.melody = he.o_gr_GR_cog.TheotokeSyEi.name
 meVE.SticTheotokion.text = he.o_gr_GR_cog.TheotokeSyEiProdromou.text
 
 meVE.AposGlory.mode = misc_gr_GR_cog.Mode4
-meVE.AposGlory.melody  = ""
+meVE.AposGlory.melody = ""
 meVE.AposGlory.text = me.m08.d29_gr_GR_cog.meMA.AdditionalIdiomelon1.text
 
 meVE.AposTheotokion.mode = misc_gr_GR_cog.Mode4
-meVE.AposTheotokion.melody  = ""
+meVE.AposTheotokion.melody = ""
 meVE.AposTheotokion.text = oc.m4.d2_gr_GR_cog.ocMA.AposTheotokion.text
 
 meVE.Apolytikion1.mode = misc_gr_GR_cog.Mode2
-meVE.Apolytikion1.melody  = ""
+meVE.Apolytikion1.melody = ""
 meVE.Apolytikion1.text = me.m08.d29_gr_GR_cog.meVE.Apolytikion1.text 
 
 meVE.Apolytikion2.mode = misc_gr_GR_cog.Mode3
@@ -292,10 +292,10 @@ meMA.Ode6H.melody = misc_gr_GR_cog.Heirmos
 meMA.Ode6H.text = he.h.m8_gr_GR_cog.ChitonaMoiParaschou.text
 
 meMA.Kontakion1.mode = misc_gr_GR_cog.Mode5
-meMA.Kontakion1.melody  = ""
+meMA.Kontakion1.melody = ""
 meMA.Kontakion1.text = me.m08.d29_gr_GR_cog.meMA.Kontakion1.text
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C11.ode = misc_gr_GR_cog.Ode7
 meMA.Ode7C11.mode = misc_gr_GR_cog.Mode4
@@ -436,21 +436,21 @@ meMA.ExapTheotokion.melody = he.a.m2_gr_GR_cog.ToisMathitaisSynelthomen.name
 meMA.ExapTheotokion.text = "Εἰ καὶ ἡττᾶται Πάναγνε, λογικὴ πᾶσα φύσις, πρὸς ἐγκωμίων ἔπαινον, σοῦ Θεὸν τῆς τεκούσης· καὶ γὰρ σαφῶς ὑπερτέρα, πάσης κτίσεως πέλεις· ἀλλ' οὖν τὸ κατὰ δύναμιν, οὐκ ἀπόβλητον πάντως· ὅθεν κἀμοῦ, δέχου τὸν βραχύτατον ὕμνον ὥσπερ, ὁ σὸς Υἱὸς ἐδέξατο, τὰ λεπτὰ πρὶν τῆς χήρας."
 
 meMA.AposGlory.mode = misc_gr_GR_cog.Mode8
-meMA.AposGlory.melody  = ""
+meMA.AposGlory.melody = ""
 meMA.AposGlory.text = "Πρόδρομε τοῦ Σωτῆρος, εἰ καὶ φόνῳ διέλυσεν ὁ Ἡρῴδης, σὲ τὸν τῆς ἀληθείας κήρυκα, ἀλλ' ἡ τοῦ στόματός σου φεγγοβόλος λαμπάς, καὶ τοῖς ἐν, ᾍδῃ τὸ τῆς πίστεως φέγγος καλῶς ἐδᾳδούχει· ὅθεν ἱκέτευε, ἐλεηθῆναι τὰς ψυχὰς ἡμῶν."
 
 meMA.AposTheotokion.mode = misc_gr_GR_cog.Mode8
-meMA.AposTheotokion.melody  = ""
+meMA.AposTheotokion.melody = ""
 meMA.AposTheotokion.text = oc.m8.d5_gr_GR_cog.ocMA.AposTheotokion.text
 
-meMA.LaudsSundayVerse1.text = "" //for media
+meMA.MM.LaudsSunday.text = properties_gr_GR_cog.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.text = meMA.Kontakion1.text
 
 meLI.SeasonalKontakion.mode = me.m09.d08_gr_GR_cog.meMA.Kontakion1.mode
-meLI.SeasonalKontakion.melody  = ""
+meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = me.m09.d08_gr_GR_cog.meMA.Kontakion1.text
 
 meMegalynarion.text = ""

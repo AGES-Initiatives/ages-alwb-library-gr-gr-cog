@@ -9,7 +9,7 @@ meNote.text = ""
 meLE.commemoration1 = "Μνήμη τοῦ Ὁσίου Πατρὸς ἡμῶν Γεωργίου τοῦ Χοζεβίτου, καὶ τῆς Ὁσίας Μητρὸς ἡμῶν Δομνίκης."
 meLE.commemoration2 = ""
 meHO.number = "8."
-meHO.rank  = "5"
+meHO.rank = "5"
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -41,7 +41,7 @@ meVE.Stichera06.text = "Πάθη τοῦ Κυρίου σου, καὶ Ποιητ
 
 meVE.SticGlory.poet = poets_gr_GR_cog.AndreouIerosolymitou
 meVE.SticGlory.mode = misc_gr_GR_cog.Mode1
-meVE.SticGlory.melody  = ""
+meVE.SticGlory.melody = ""
 meVE.SticGlory.text = me.m01.d06_gr_GR_cog.meMA.Lauds5.text
 
 meVE.Aposticha1.mode = misc_gr_GR_cog.Mode6
@@ -62,11 +62,11 @@ meVE.Aposticha3.text = "Νᾶμα ζωτικόν, σὺ ποτίζεις Ἰησ
 
 meVE.AposGlory.poet = poets_gr_GR_cog.Anatoliou
 meVE.AposGlory.mode = misc_gr_GR_cog.Mode2
-meVE.AposGlory.melody  = ""
+meVE.AposGlory.melody = ""
 meVE.AposGlory.text = me.m01.d06_gr_GR_cog.meVE.Aposticha1.text
 
 meVE.Apolytikion1.mode = misc_gr_GR_cog.Mode1
-meVE.Apolytikion1.melody  = ""
+meVE.Apolytikion1.melody = ""
 meVE.Apolytikion1.text = me.m01.d06_gr_GR_cog.meVE.Apolytikion1.text
 
 meMA.Kathisma11.mode = misc_gr_GR_cog.Mode4
@@ -297,7 +297,7 @@ meMA.Ode6H.mode = misc_gr_GR_cog.Mode2
 meMA.Ode6H.melody = misc_gr_GR_cog.Heirmos
 meMA.Ode6H.text = he.h.m2_gr_GR_cog.EnAvyssoPtaismaton.text
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C11.ode = misc_gr_GR_cog.Ode7
 meMA.Ode7C11.mode = misc_gr_GR_cog.Mode4
@@ -442,21 +442,15 @@ meMA.Exaposteilarion2.mode = misc_gr_GR_cog.Mode3
 meMA.Exaposteilarion2.melody = misc_gr_GR_cog.Automelon
 meMA.Exaposteilarion2.text = he.a.m3_gr_GR_cog.EpefaniOSotir.text
 
-meMA.LaudsSundayVerse1.text = ""
-
-meMA.LaudsSundayVerse2.text = ""
+meMA.MM.LaudsSunday.text = properties_gr_GR_cog.media.key
 
 meMA.Aposticha1.mode = misc_gr_GR_cog.Mode2
 meMA.Aposticha1.melody = he.a.m2_gr_GR_cog.OikosTouEfratha.name
 meMA.Aposticha1.text = "Μέγα καὶ φοβερόν, μυστήριον τελεῖται! Δεσπότης γὰρ τῶν ὅλων, βροτῶν εἰς ῥύψιν πάντων, χειρὶ δούλου βαπτίζεται."
 
-meMA.ApostichaVerse2.text = "Ἡ θάλασσα εἶδε καὶ ἔφυγεν, ὁ Ἰορδάνης ἐστράφη εἰς τὰ ὀπίσω."
-
 meMA.Aposticha2.mode = misc_gr_GR_cog.Mode2
 meMA.Aposticha2.melody = he.a.m2_gr_GR_cog.OikosTouEfratha.name
 meMA.Aposticha2.text = "Ἄνωθεν ὁ Πατήρ, ἐβόα· Οὗτός ἐστιν, Υἱὸς ἀγαπητός μου, ὁ ἐν ῥείθροις Ἰορδάνου, σαρκὶ νῦν βαπτιζόμενος."
-
-meMA.ApostichaVerse3.text = "Τί σοί ἐστι θάλασσα, ὅτι ἔφυγες; καὶ σοὶ Ἰορδάνη ὅτι ἐστράφης εἰς τὰ ὀπίσω;"
 
 meMA.Aposticha3.mode = misc_gr_GR_cog.Mode2
 meMA.Aposticha3.melody = he.a.m2_gr_GR_cog.OikosTouEfratha.name

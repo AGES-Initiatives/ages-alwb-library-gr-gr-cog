@@ -9,7 +9,7 @@ meNote.text = ""
 meLE.commemoration1 = "Μνήμη τῶν Ἁγίων Μαρτύρων Τροφίμου, Σαββατίου, καὶ Δορυμέδοντος."
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -39,7 +39,7 @@ meVE.Stichera06.melody = he.a.m8_gr_GR_cog.OiMartyresSouKyrie.name
 meVE.Stichera06.text = "Ἀθέων βουλευτήριον, ἀποκρουσάμενος βουλαῖς ἐνθέοις, τὸν νοῦν ὠχύρωσεν ὁ Δορυμέδων, καὶ προσεχώρησε στερρῶς, πρὸς τὰ τῶν βασάνων πειρατήρια· νίκης τε βραβεῖα κομισάμενος, Χριστῷ συμβασιλεύει, πάντοτε ὑπὲρ πάντων ἡμῶν δεομενος."
 
 meVE.SticGlory.mode = misc_gr_GR_cog.Mode8
-meVE.SticGlory.melody  = ""
+meVE.SticGlory.melody = ""
 meVE.SticGlory.text = me.m09.d14_gr_GR_cog.meMA.AdditionalIdiomelonGlory.text
 
 meVE.Aposticha1.mode = misc_gr_GR_cog.Mode6
@@ -59,7 +59,7 @@ meVE.Aposticha3.melody = he.a.m6_gr_GR_cog.TriimerosAnestis.name
 meVE.Aposticha3.text = "Ζωήρυτος ἐκ θείας πλευρᾶς, πηγὴ σαφῶς ἐξέβλυσε, τοῦ Σωτῆρος καταρδεύουσα ψυχάς, τῶν πίστει προσκυνούντων, τὸ θεῖον πάθος τούτου, καὶ τὸν Σταυρὸν καὶ τήν Ἀνάστασιν."
 
 meVE.AposGlory.mode = misc_gr_GR_cog.Mode6
-meVE.AposGlory.melody  = ""
+meVE.AposGlory.melody = ""
 meVE.AposGlory.text = me.m09.d14_gr_GR_cog.meMA.AdditionalIdiomelon5.text
 
 meVE.Apolytikion1.poet = poets_gr_GR_cog.Gerasimou
@@ -201,7 +201,7 @@ meMA.Kontakion1.text = "Ὡς ἀθλητῶν ἑδραίωμα, καὶ εὐ
 
 meMA.Oikos1.text = "Τῶν Ἁγίων Μαρτυρων τὰ ἔπαθλα, οὐρανῶν αἱ Δυνάμεις ἐθαύμασαν, ὅτι σῶμα θνητὸν περικείμενοι, ἀσωμάτους ἐχθροὺς ἐτροπώσαντο, Σταυροῦ τῇ ἰσχὺϊ κρατυνόμενοι· ὅθεν μακαρίζονται εἰς αἰῶνας, ἱλασμὸν τῶν πταισμάτων αἰτούμενοι ὑπὲρ πάντων ἡμῶν· καὶ γὰρ τιμῶνται αὐτοί, ὡς ἀήττητοι."
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C11.ode = misc_gr_GR_cog.Ode7
 meMA.Ode7C11.mode = misc_gr_GR_cog.Mode8
@@ -290,13 +290,9 @@ meMA.Aposticha1.mode = misc_gr_GR_cog.Mode2
 meMA.Aposticha1.melody = he.a.m2_gr_GR_cog.OikosTouEfratha.name
 meMA.Aposticha1.text = "Ὕλην φθοροποιόν, ἐξαίρει ἁμαρτίας, τὸ τοῦ Σταυροῦ σου ξύλον, ὑψούμενον Σωτήρ μου, λαμπρύνει δὲ τὰ σύμπαντα."
 
-meMA.ApostichaVerse2.text = meVE.ApostichaVerse2.text
-
 meMA.Aposticha2.mode = misc_gr_GR_cog.Mode2
 meMA.Aposticha2.melody = he.a.m2_gr_GR_cog.OikosTouEfratha.name
 meMA.Aposticha2.text = "Λύσιν τῶν δυσχερῶν, καὶ κτῆσιν τῶν ἀρίστων, ὑψούμενος βραβεύει, τῷ γένει τῶν ἀνθρώπων, Σταυρὸς Χριστοῦ ὁ ἅγιος."
-
-meMA.ApostichaVerse3.text = meVE.ApostichaVerse3.text 
 
 meMA.Aposticha3.mode = misc_gr_GR_cog.Mode2
 meMA.Aposticha3.melody = he.a.m2_gr_GR_cog.OikosTouEfratha.name
@@ -316,6 +312,6 @@ meLI.SeasonalKontakion.mode = me.m09.d14_gr_GR_cog.meMA.Kontakion1.mode
 meLI.SeasonalKontakion.melody = me.m09.d14_gr_GR_cog.meMA.Kontakion1.melody
 meLI.SeasonalKontakion.text = me.m09.d14_gr_GR_cog.meMA.Kontakion1.text
 
-meLI.CommunionHymn.text = "" //for media
+meLI.MM.CommunionHymn.text = properties_gr_GR_cog.media.key
 
 meMegalynarion.text = ""

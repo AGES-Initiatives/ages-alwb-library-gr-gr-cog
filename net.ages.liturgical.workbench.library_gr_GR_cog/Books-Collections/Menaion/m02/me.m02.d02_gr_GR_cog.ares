@@ -65,8 +65,8 @@ meVE.Stichera03.mode = misc_gr_GR_cog.Mode1
 meVE.Stichera03.melody = ""
 meVE.Stichera03.text = "Δεῦτε καὶ ἡμεῖς, ᾄσμασιν ἐνθέοις, Χριστῷ συναντηθῶμεν, καὶ δεξώμεθα αὐτόν, οὗ τὸ σωτήριον ὁ Συμεὼν ἑώρακεν. Οὗτός ἐστιν, ὃν ὁ Δαυῒδ καταγγέλλει οὗτός ἐστιν, ὁ ἐν Προφήταις λαλήσας, ὁ σαρκωθεὶς δι' ἡμᾶς, καὶ νόμῳ φθεγγόμενος· Αὐτὸν προσκυνήσωμεν."
 
-meVE.Stichera567.text = "" //for media
-meVE.Stichera8910.text = "" //for media
+meVE.Stichera567.text = properties_gr_GR_cog.media.key
+meVE.Stichera8910.text = properties_gr_GR_cog.media.key
 
 meVE.SticGlory.poet = poets_gr_GR_cog.IoannouMonachou
 meVE.SticGlory.mode = misc_gr_GR_cog.Mode6
@@ -161,7 +161,7 @@ meMA.Kathisma31.mode = misc_gr_GR_cog.Mode4
 meMA.Kathisma31.melody = he.a.m4_gr_GR_cog.KateplagiIosif.name
 meMA.Kathisma31.text = "Νηπιάζει δι' ἐμέ, ὁ Παλαιὸς τῶν ἡμερῶν, καθαρσίων κοινωνεῖ, ὁ καθαρώτατος Θεός, ἵνα τὴν σάρκα πιστώσῃ μου, τὴν ἐκ Παρθένου. Καὶ ταῦτα Συμεὼν μυσταγωγούμενος, ἐπέγνω τὸν αὐτόν, Θεὸν φανέντα σαρκί, καὶ ὡς ζωὴν ἠσπάζετο, καὶ χαίρων, πρεσβυτικῶς ἀνεκραύγαζεν· Ἀπόλυσόν με· σὲ γὰρ κατεῖδον, τὴν ζωὴν τῶν ἁπάντων."
 
-meMA.Prokeimenon.text = "" // for media
+meMA.MM.Prokeimenon.text = properties_gr_GR_cog.media.key
 
 meMA.PostGospelGlory.mode = misc_gr_GR_cog.Mode2
 meMA.PostGospelGlory.melody = ""
@@ -389,13 +389,11 @@ meMA.LaudsGlory.mode = misc_gr_GR_cog.Mode6
 meMA.LaudsGlory.melody = ""
 meMA.LaudsGlory.text = "Ὁ ἐν χερσὶ πρεσβυτικαῖς, τὴν σήμερον ἡμέραν, ὡς ἐφ' ἅρματος Χερουβίμ, ἀνακλιθῆναι εὐδοκήσας Χριστὲ ὁ Θεός, καὶ ἡμᾶς τοὺς ὑμνοῦντάς σε, τῆς τῶν παθῶν τυραννίδος, ἀνακαλούμενος ῥῦσαι, καὶ σῶσον τὰς ψυχὰς ἡμῶν."
 
-meMA.LaudsSundayVerse1.text = ""
-
-meMA.LaudsSundayVerse2.text = ""
+meMA.MM.LaudsSunday.text = properties_gr_GR_cog.media.key
 
 meLI.Antiphon2.text = "ὁ ἐν ἀγκάλαις τοῦ Δικαίου Συμεὼν βασταχθείς,"
 
-meLI.EntranceHymn.text = ""
+meLI.MM.EntranceHymn.text = properties_gr_GR_cog.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody

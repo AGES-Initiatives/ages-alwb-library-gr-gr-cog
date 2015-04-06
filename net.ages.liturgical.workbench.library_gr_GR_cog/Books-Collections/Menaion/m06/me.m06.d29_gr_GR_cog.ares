@@ -165,7 +165,7 @@ meMA.Kathisma3T.mode = misc_gr_GR_cog.Mode8
 meMA.Kathisma3T.melody = misc_gr_GR_cog.Automelon
 meMA.Kathisma3T.text = he.a.m8_gr_GR_cog.TinSofianKaiLogon.text
 
-meMA.Prokeimenon.text = "" // for media
+meMA.MM.Prokeimenon.text = properties_gr_GR_cog.media.key
 
 meMA.PostGospelGlory.mode = misc_gr_GR_cog.Mode2
 meMA.PostGospelGlory.melody = ""
@@ -589,7 +589,7 @@ meMA.Lauds4.mode = misc_gr_GR_cog.Mode4
 meMA.Lauds4.melody = he.a.m4_gr_GR_cog.OExYpsistouKlitheis.name
 meMA.Lauds4.text = "Ὁ χριστοκήρυξ Σταυροῦ καύχημα φέρων, σὺ τὴν πολυέραστον θείαν ἀγάπησιν, ὡς τοὺς ἐρῶντας συνδέουσαν, τῷ ποθουμένῳ, εἰλικρινῶς ἁπάντων προέκρινας, ἐντεῦθεν καὶ δέσμιος, προσηγορεύθης Χριστοῦ, τῶν πειρασμῶν τὴν δυσχέρειαν, ὡς γλυκυτέραν, τρυφῆς ἁπάσης αἱρετισάμενος, καὶ τῆς τιμίας ἀναλύσεως, ἠξιώθης συνὼν τῷ Δεσπότῃ σου, ὃν ἱκέτευε σῶσαι καὶ φωτίσαι τὰς ψυχὰς ἡμῶν."
 
-meMA.Lauds456.text = "" // for media
+meMA.MM.Lauds123as456.text = properties_gr_GR_cog.media.key
 
 meMA.LaudsGlory.poet = poets_gr_GR_cog.KosmaMonachou
 meMA.LaudsGlory.mode = misc_gr_GR_cog.Mode6
@@ -600,9 +600,7 @@ meMA.LaudsTheotokion.mode = misc_gr_GR_cog.Mode6
 meMA.LaudsTheotokion.melody = he.o_gr_GR_cog.TheotokeSyEi.name
 meMA.LaudsTheotokion.text = he.o_gr_GR_cog.TheotokeSyEiApostolon.text
 
-meMA.LaudsSundayVerse1.text = meVE.ApostichaVerse2.text
-
-meMA.LaudsSundayVerse2.text = meVE.ApostichaVerse3.text
+meMA.MM.LaudsSunday.text = properties_gr_GR_cog.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
@@ -612,7 +610,7 @@ meLI.SeasonalKontakion.mode = misc_gr_GR_cog.Mode2
 meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = ho.s07_gr_GR_cog.hoTY.Key0408.text
 
-meLI.CommunionHymn.text = da.d5_gr_GR_cog.daLI.CommunionHymn.text
+meLI.MM.CommunionHymn.text = properties_gr_GR_cog.media.key
 
 meMegalynarion.text = ""
 

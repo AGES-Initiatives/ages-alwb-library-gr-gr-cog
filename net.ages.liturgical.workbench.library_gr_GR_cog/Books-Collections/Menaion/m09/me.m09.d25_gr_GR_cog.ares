@@ -10,7 +10,7 @@ meNote.text = ""
 meLE.commemoration1 = "Μνήμη τῆς Ὁσίας Μητρὸς ἡμῶν Εὐφροσύνης."
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -29,7 +29,7 @@ meVE.Stichera03.text = "Θέαμα ξένον, καὶ τῇ φύσει δυσπ
 
 meVE.SticGlory.poet = poets_gr_GR_cog.Stouditou
 meVE.SticGlory.mode = misc_gr_GR_cog.Mode2
-meVE.SticGlory.melody  = ""
+meVE.SticGlory.melody = ""
 meVE.SticGlory.text = "Τὸ καθαρὸν τῆς ἁγνείας σου χρῆμα, ἄμωμον ἐξ ἀνδρῶν φυλάξασα, νύμφη Χριστοῦ ἐχρημάτισας, Εὐφροσύνη παμμακάριστε· σώματος μεν κάλλος, ἀσκητικοῖς πόνοις μαράνασα, ψυχὴν δὲ ὡραΐσασα, τῇ εὐμορφίᾳ τῆς χάριτος· ἐν γὰρ τῷ ἄρρενι τὸ θῆλυ σαφῶς ὑποκρύψασα, ἔλαθες Βελίαρ τὰ ἔνεδρα, ἀγγελικῶς ἐν γῇ βιώσασα. Ἀλλ' αἴτησαι εἰρήνην, τοῖς πόθῳ εὐφημοῦσι σε, ὡς χαρᾶς ἐπώνυμος κοσμοχαρμόσυνε."
 
 meVE.SticTheotokion.mode = misc_gr_GR_cog.Mode2
@@ -41,7 +41,7 @@ meVE.SticStavrotheotokion.melody = he.a.m2_gr_GR_cog.OteEkTouXylou.name
 meVE.SticStavrotheotokion.text = "Ὅτε, ἡ ἀμίαντος ἀμνάς, ἔβλεψε τὸν ἴδιον ἄρνα, ἐπὶ σφαγὴν ὡς βροτόν, θέλοντα ἑλκόμενον, θρηνοῦσα ἔλεγεν· Ἀτεκνῶσαι νῦν σπεύδεις με, Χριστὲ τὴν τεκοῦσαν, τὶ τοῦτο πεποίηκας, ὁ λυτρωτὴς τοῦ παντός; Ὅμως, ἀνυμνῶ καὶ δοξάζω, σοῦ τὴν ὑπὲρ νοῦν τε καὶ λόγον, ἄκραν ἀγαθότητα φιλάνθρωπε."
 
 meVE.GeneralApolytikion1.name = "Εὐφροσύνη" 
-meVE.GeneralApolytikion1.text = "" //for media 
+meVE.GeneralApolytikion1.text = properties_gr_GR_cog.media.key
 
 meVE.Apolytikion1.poet = poets_gr_GR_cog.Gerasimou
 meVE.Apolytikion1.mode = misc_gr_GR_cog.Mode5
@@ -278,7 +278,7 @@ meMA.Kontakion1.text = "Τῆς ἄνω ζωῆς, τυχεῖν ἐπιποθή
 
 meMA.Oikos1.text = "Ἐν εὐφροσύνῃ καὶ θυμηδίᾳ, τάς ψυχὰς εὐφρανθέντες, ἀναστῶμεν σπουδῇ ἀκοῦσαι λόγον παράδοξον· ὑπερβαίνει γὰρ ἔννοιαν πᾶσαν τὸ διήγημα τοῦτο καὶ καταπλήττει, ὅτι γυνὴ ἐν μέσῳ ἀνδρῶν καταμένουσα, ἐνίκησε τὸν Βελίαρ, καὶ τὸ πῦρ κατεπάτησε τῶν ἡδονῶν, καὶ οὐκ ἐφλέχθη τὸ σύνολον· τὸν Χριστὸν γὰρ ποθοῦσα ἡ ἄσπιλος, μνηστῆρος προσκαίρου κατεφρόνησε."
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C11.ode = misc_gr_GR_cog.Ode7
 meMA.Ode7C11.mode = misc_gr_GR_cog.Mode8
@@ -428,7 +428,7 @@ meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.text = meMA.Kontakion1.text
 
 meLI.SeasonalKontakion.mode = misc_gr_GR_cog.Mode2
-meLI.SeasonalKontakion.melody  = ""
+meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = ho.s07_gr_GR_cog.hoTY.Key0408.text
 
 meMegalynarion.text = ""

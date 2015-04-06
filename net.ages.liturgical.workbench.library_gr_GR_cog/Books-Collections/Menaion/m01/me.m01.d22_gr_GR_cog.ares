@@ -366,11 +366,7 @@ meMA.ExapTheotokion.mode = misc_gr_GR_cog.Mode2
 meMA.ExapTheotokion.melody = he.a.m2_gr_GR_cog.GynaikesAkoutisthite.name
 meMA.ExapTheotokion.text = "Πανάμωμε Μητρόθεε, τὸ μέγα περιήχημα, τῶν Ἀποστόλων Μαρτύρων, καὶ Προφητῶν καὶ Ὁσίων, τὸν σὸν Υἵόν καὶ Κύριον, ἱλέωσαι τοῖς δούλοις σου, ἡμῖν Θεογεννήτρια, ὅταν καθίσῃ τοῦ κρῖναι, τὰ κατ' ἀξίαν ἑκάστῳ."
 
-meMA.LaudsSundayVerse1.text = "Θαυμαστὸς ὁ Θεὸς ἐν τοῖς ἁγίοις αὐτοῦ, ὁ Θεὸς Ἰσαρήλ."
-
-meMA.LaudsSundayVerse2.text = "Τοῖς ἁγίοις τοῖς ἐν τῇ γῇ αὐτοῦ ἐθαυμάστωσεν ὁ Κύριος."
-
-meMA.ApostichaVerse4.text = "Θαυμαστὸς ὁ Θεὸς ἐν τοῖς Ἁγίοις αὐτοῦ."
+meMA.MM.LaudsSunday.text = properties_gr_GR_cog.media.key
 
 meMA.Aposticha4.mode = misc_gr_GR_cog.Mode1
 meMA.Aposticha4.melody = ""
@@ -397,7 +393,7 @@ meLI.SeasonalKontakion.mode = misc_gr_GR_cog.Mode1
 meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = me.m02.d02_gr_GR_cog.meMA.Kontakion1.text
 
-meLI.CommunionHymn.text = ""
+meLI.MM.CommunionHymn.text = properties_gr_GR_cog.media.key
 
 meMegalynarion.text = ""
 

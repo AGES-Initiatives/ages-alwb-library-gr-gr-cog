@@ -9,7 +9,7 @@ meNote.text = "οὗ καὶ τὴν μνήμην ἐπιτελοῦμεν· "
 meLE.commemoration1 = "Μνήμη τοῦ Ὁσίου Πατρὸς ἡμῶν Μωσέως τοῦ Αἰθίοπος."
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -167,7 +167,7 @@ meMA.Kontakion1.mode = misc_gr_GR_cog.Mode4
 meMA.Kontakion1.melody = he.a.m4_gr_GR_cog.EpefanisSimeron.name
 meMA.Kontakion1.text = "Αἰθιόπων πρόσωπα, ἀπορραπίσας, νοητῶν ἀνέλαμψας, καθάπερ ἥλιος φαιδρός, φωταγωγῶν τὰς ψυχὰς ἡμῶν, τῶν σὲ τιμώντων, Μωσῆ παμμακάριστε."
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C11.ode = misc_gr_GR_cog.Ode7
 meMA.Ode7C11.mode = misc_gr_GR_cog.Mode8
@@ -247,14 +247,14 @@ meMA.ExapTheotokion.mode = misc_gr_GR_cog.Mode2
 meMA.ExapTheotokion.melody = he.a.m2_gr_GR_cog.ToisMathitaisSynelthomen.name
 meMA.ExapTheotokion.text = "Ζήσας αἰσχρῶς ἀπώλεσα, τῆς ψυχῆς τὸ ὡραῖον, καὶ ὡμοιώθην κτήνεσιν, ἀνοήτοις ὁ τάλας, ἃ οὐκ ἐξὸν ποιεῖν πράττων, Δέσποινα Θεοτόκε, λαμπρύνασά με κάθαρον τοῦ φωτός σου ταῖς θείαις, μαρμαρυγαῖς, καὶ ὑσσώπῳ Κόρη τῆς μετανοίας, καὶ δείξόν με τὸν δοῦλόν σου, σκεῦος εὔχρηστον θεῖον."
 
-meMA.LaudsSundayVerse1.text = "" //for media
+meMA.MM.LaudsSunday.text = properties_gr_GR_cog.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.text = meMA.Kontakion1.text
 
 meLI.SeasonalKontakion.mode = me.m09.d08_gr_GR_cog.meMA.Kontakion1.mode
-meLI.SeasonalKontakion.melody  = ""
+meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = me.m09.d08_gr_GR_cog.meMA.Kontakion1.text
 
 meMegalynarion.text = ""

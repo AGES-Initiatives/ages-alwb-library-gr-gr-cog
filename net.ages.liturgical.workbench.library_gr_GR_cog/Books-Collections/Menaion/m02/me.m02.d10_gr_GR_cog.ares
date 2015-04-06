@@ -174,10 +174,7 @@ meMA.Kathisma3T.mode = misc_gr_GR_cog.Mode3
 meMA.Kathisma3T.melody = he.a.m3_gr_GR_cog.TinOraiotita.name
 meMA.Kathisma3T.text = "Τὴν ἀπειρόγαμον θεογεννήτριαν, τὴν τὸν ἀχώρητον γαστρὶ χωρήσασαν, καὶ τὸν τροφέα τοῦ παντός, τῷ γάλακτι θρεψαμένην, μόνην ἐξισχύσασαν, τῆς κατάρας λυτρώσασθαι, γένος τὸ ἀνθρώπινον, τὴν πανάχραντον Δέσποιναν, ὑμνήσωμεν συμφώνως βοῶντες· Χαῖρε ἡ Κεχαριτωμένη."
 
-meMA.Prokeimenon.text = "" // for media
-//meMA.Gospel.name = "Λουκᾶν" //"Ματθαῖον or Μᾶρκον or Λουκᾶν or Ἰωάννην or Matthew or Mark or Luke or John"
-//meMA.Gospel.chapverse = "(Κεφ. ΚΑʹ 12-19)" //"(Κεφ. ΓΓʹ 11-11) or 1:11-11"
-//meMA.Gospel.text = "Εἶπεν ὁ Κύριος τοῖς ἑαὐτοῦ Μαθηταῖς· προσέχετε ἀπὸ τῶν ἀνθρώπων· ἐπιβαλοῦσιν γὰρ ἐφʹ ὑμᾶς τὰς χεῖρας αὐτῶν καὶ διώξουσι, παραδιδόντες εἰς συναγωγὰς καὶ φυλακάς, ἀγομένους ἐπὶ βασιλεῖς καὶ ἡγεμόνας ἕνεκεν τοῦ ὀνόματός μου· ἀποβήσεται δὲ ὑμῖν εἰς μαρτύριον. θέτε οὖν εἰς τὰς καρδίαις ὑμῶν μὴ προμελετᾶν ἀπολογηθῆναι· ἐγὼ γὰρ δώσω ὑμῖν στόμα καὶ σοφίαν, ᾗ οὐ δυνήσονται ἀντειπεῖν οὐδὲ ἀντιστῆναι πάντες οἱ ἀντικείμενοι ὑμῖν. παραδοθήσεσθε δὲ καὶ ὑπὸ γονέων καὶ συγγενῶν καὶ φίλων καὶ ἀδελφῶν, καὶ θανατώσουσιν ἐξ ὑμῶν, καὶ ἔσεσθε μισούμενοι ὑπὸ πάντων διὰ τὸ ὄνομά μου· καὶ θρὶξ ἐκ τῆς κεφαλῆς ὑμῶν οὐ μὴ ἀπόληται· ἐν τῇ ὑπομονῇ ὑμῶν κτήσασθε τὰς ψυχὰς ὑμῶν."
+meMA.MM.Prokeimenon.text = properties_gr_GR_cog.media.key
 
 meMA.PostGospelGlory.mode = misc_gr_GR_cog.Mode2
 meMA.PostGospelGlory.melody = ""
@@ -559,9 +556,7 @@ meMA.LaudsTheotokion.mode = misc_gr_GR_cog.Mode5
 meMA.LaudsTheotokion.melody = ""
 meMA.LaudsTheotokion.text = oc.m5.d3_gr_GR_cog.ocVE.AposTheotokion.text
 
-meMA.LaudsSundayVerse1.text = meVE.ApostichaVerse2.text
-
-meMA.LaudsSundayVerse2.text = meVE.ApostichaVerse3.text
+meMA.MM.LaudsSunday.text = properties_gr_GR_cog.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
@@ -571,7 +566,7 @@ meLI.SeasonalKontakion.mode = misc_gr_GR_cog.Mode2
 meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = ho.s07_gr_GR_cog.hoTY.Key0408.text
 
-meLI.CommunionHymn.text = da.d3_gr_GR_cog.daLI.CommunionHymn.text
+meLI.MM.CommunionHymn.text = properties_gr_GR_cog.media.key
 
 meMegalynarion.text = ""
 

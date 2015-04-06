@@ -9,7 +9,7 @@ meNote.text = ""
 meLE.commemoration1 = "Μνήμη τοῦ Ὁσίου Πατρὸς ἡμῶν Ξενοφῶντος καὶ τῆς συνοδίας αὐτοῦ."
 meLE.commemoration2 = ""
 meHO.number = "26."
-meHO.rank  = "5"
+meHO.rank = "5"
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -35,7 +35,7 @@ meVE.SticStavrotheotokion.melody = he.a.m2_gr_GR_cog.OteEkTouXylou.name
 meVE.SticStavrotheotokion.text = "Βότρυν, τὸν παμπέπειρον Ἁγνή, ὃν ἀγεωργήτως ἐν μήτρᾳ ἐκυοφόρησας, ξύλῳ ὡς ἑώρακας τοῦτον κρεμάμενον, θρηνῳδοῦσα ὠλόλυζες, καὶ ἔκραζες. Τέκνον, γλεῦκος ἐναπόσταξον, δι' οὗ ἡ μέθη ἀρθῇ, πᾶσαν τῶν παθῶν Εὐεργέτα, δι' ἐμοῦ τῆς σὲ τετοκυίας, σοῦ τὴν εὐσπλαγχνίαν ἐνδεικνύμενος."
 
 meVE.Apolytikion1.mode = misc_gr_GR_cog.Mode4
-meVE.Apolytikion1.melody  = ""
+meVE.Apolytikion1.melody = ""
 meVE.Apolytikion1.text = he.ga_gr_GR_cog.OTheosTonPateronImon.text
 
 meMA.C1Acrostic.text = "οὗ ἡ Ἀκροστιχίς· Ξενοφῶντα μέλπω, σύμβιόν τε καὶ τέκνα. Θεοφάνους."
@@ -168,7 +168,7 @@ meMA.Kontakion1.text = "Τὴν τοῦ βίου θάλασσαν διεκφυ
 
 meMA.Oikos1.text = "Ξένην ὁδὸν θεοπρεπῶς, Ξενοφῶν διοδεύσας, μετὰ καὶ τῆς συζύγου ἐλάθετε τὴν φύσιν, ὥσπερ ἀσώματοι σαφῶς ἐν τῇ γῇ ὀφθέντες· διὸ καὶ πύλαι ἡμῖν οὐράνιαι ἠνοίγησαν, καὶ μετὰ τῶν Ἀγγέλων χορεύετε, ὡς τοῦ ἀμπελῶνος γεγονότες τοῦ Κυρίου ἐργάται, μετὰ καὶ τῶν τέκνων. Αἰνεῖτε οὖν Χριστόν, δωρήσασθαι αἴγλην φωτισμοῦ ταῖς ζοφεραῖς ἡμῶν καρδίαις, μνήμην ὑμῶν τελούντων τὴν φωτοφόρον, τὸν στεφοδότην Χριστὸν μεγαλύνοντες."
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C11.ode = misc_gr_GR_cog.Ode7
 meMA.Ode7C11.mode = misc_gr_GR_cog.Mode2
@@ -243,19 +243,17 @@ meMA.ExapTheotokion.mode = misc_gr_GR_cog.Mode3
 meMA.ExapTheotokion.melody = he.a.m3_gr_GR_cog.OOuranonToisAstrois.name
 meMA.ExapTheotokion.text = "Τὰς στρατιὰς τῶν Ἀγγέλων, καὶ τῶν ἁγίων τους χορούς, ὑπερανέστηκεν ὄντως, τὰ μεγαλεῖά σου Ἁγνή· διὸ Χριστὸν ἐκδυσώπει, ὑπὲρ λαοῦ ἑπταικότος."
 
-meMA.LaudsSundayVerse1.text = ""
-
-meMA.LaudsSundayVerse2.text = ""
+meMA.MM.LaudsSunday.text = properties_gr_GR_cog.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.text = meMA.Kontakion1.text
 
 meLI.SeasonalKontakion.mode = misc_gr_GR_cog.Mode1
-meLI.SeasonalKontakion.melody  = ""
+meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = me.m02.d02_gr_GR_cog.meMA.Kontakion1.text
 
-meLI.CommunionHymn.text = ""
+meLI.MM.CommunionHymn.text = properties_gr_GR_cog.media.key
 
 meMegalynarion.text = ""
 

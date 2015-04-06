@@ -465,21 +465,15 @@ meMA.Exaposteilarion3.mode = misc_gr_GR_cog.Mode2
 meMA.Exaposteilarion3.melody = he.a.m2_gr_GR_cog.GynaikesAkoutisthite.name
 meMA.Exaposteilarion3.text = me.m09.d08_gr_GR_cog.meMA.Exaposteilarion2.text
 
-meMA.LaudsSundayVerse1.text = meVE.ApostichaVerse2.text
-
-meMA.LaudsSundayVerse2.text = meVE.ApostichaVerse3.text
+meMA.MM.LaudsSunday.text = properties_gr_GR_cog.media.key
 
 meMA.Aposticha1.mode = misc_gr_GR_cog.Mode2
 meMA.Aposticha1.melody = he.a.m2_gr_GR_cog.OikosTouEfratha.name
 meMA.Aposticha1.text = "Χάρις τῷ λυτρωτῇ, καὶ πάντων κηδεμόνι, τῷ στεῖραν παρ' ἐλπίδα, τεκεῖν τὴν Θεοτόκον, ἀρρήτως εὐδοκήσαντι."
 
-meMA.ApostichaVerse2.text = meVE.ApostichaVerse2.text
-
 meMA.Aposticha2.mode = misc_gr_GR_cog.Mode2
 meMA.Aposticha2.melody = he.a.m2_gr_GR_cog.OikosTouEfratha.name
 meMA.Aposticha2.text = "Δεῦτε τὴν ἐκ Δαυΐδ, καὶ Ἰούδα φυεῖσαν, Θεοτόκον Μαρίαν, ἐξ ἧς ἡ σωτηρία, ἀπαύστως μεγαλύνωμεν."
-
-meMA.ApostichaVerse3.text = meVE.ApostichaVerse3.text
 
 meMA.Aposticha3.mode = misc_gr_GR_cog.Mode2
 meMA.Aposticha3.melody = he.a.m2_gr_GR_cog.OikosTouEfratha.name
@@ -497,7 +491,7 @@ meLI.SeasonalKontakion.mode = me.m09.d08_gr_GR_cog.meMA.Kontakion1.mode
 meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = me.m09.d08_gr_GR_cog.meMA.Kontakion1.text
 
-meLI.CommunionHymn.text = "" // for media
+meLI.MM.CommunionHymn.text = properties_gr_GR_cog.media.key
 
 meMegalynarion.text = ""
 

@@ -160,10 +160,7 @@ meMA.Kathisma3T.mode = misc_gr_GR_cog.Mode8
 meMA.Kathisma3T.melody = he.a.m8_gr_GR_cog.TinSofianKaiLogon.name
 meMA.Kathisma3T.text = "Παναγία Παρθένε Μήτηρ Θεοῦ, τῆς ψυχῆς μου τὰ πάθη τὰ χαλεπά, θεράπευσον δέομαι, καὶ συγγνώμην παράσχου μοι, τῶν ἐμῶν πταισμάτων, ἀφρόνως ὧν ἔπραξα, τὴν ψυχὴν καὶ τὸ σῶμα, μολύνας ὁ ἄθλιος· Οἴμοι! τὶ ποιήσω, ἐν ἐκείνῃ τῇ ὥρᾳ, ἡνίκα οἱ Ἄγγελοι, τὴν ψυχήν μου χωρίζουσιν, ἐκ τοῦ ἀθλίου μου σώματος; τότε Δέσποινα, βοήθειά μοι γενοῦ, καὶ προστάτις θερμότατος· σὲ γὰρ ἔχω ἐλπίδα ὁ δοῦλος σου."
 
-meMA.Prokeimenon.text = "" // for media
-//meMA.Gospel.name = " Ἰωάννην "
-//meMA.Gospel.chapverse = "(καʹ 14 - 24)"
-//meMA.Gospel.text = eo.e11_gr_GR_cog.eo.Gospel.text
+meMA.MM.Prokeimenon.text = properties_gr_GR_cog.media.key
 
 meMA.PostGospelGlory.mode = misc_gr_GR_cog.Mode2
 meMA.PostGospelGlory.melody = ""
@@ -751,9 +748,7 @@ meMA.LaudsTheotokion.mode = misc_gr_GR_cog.Mode8
 meMA.LaudsTheotokion.melody = ""
 meMA.LaudsTheotokion.text = oc.m8.d5_gr_GR_cog.ocMA.AposTheotokion.text
 
-meMA.LaudsSundayVerse1.text = meVE.ApostichaVerse2.text
-
-meMA.LaudsSundayVerse2.text = meVE.ApostichaVerse3.text
+meMA.MM.LaudsSunday.text = properties_gr_GR_cog.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
@@ -763,7 +758,7 @@ meLI.SeasonalKontakion.mode = misc_gr_GR_cog.Mode2
 meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = ho.s07_gr_GR_cog.hoTY.Key0408.text
 
-meLI.CommunionHymn.text = "Εἰς πᾶσαν τὴν γῆν ἐξῆλθεν ὁ φθόγγος αὐτῶν, καὶ εἰς τὰ πέρατα τῆς οἰκουμένης τὰ ῥήματα αὐτῶν. Ἀλληλούϊα."
+meLI.MM.CommunionHymn.text = properties_gr_GR_cog.media.key
 
 meMegalynarion.text = ""
 

@@ -9,7 +9,7 @@ meNote.text = ""
 meLE.commemoration1 = "Τοῦ Ἁγίου Μάρτυρος Εὐσιγνίου."
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -39,7 +39,7 @@ meVE.Stichera06.melody = he.a.m4_gr_GR_cog.OsGennaionEnMartysi.name
 meVE.Stichera06.text = "Τοῖς τιμίοις σου πάθεσι, πάθος τίμιον ἔνδοξε, ἀθλητὰ Εὐσίγνιε ἐξεικόνισας, καὶ νικηφόρος γενόμενος, τὴν ἄνω μητρόπολιν, μετὰ πάντων κατοικεῖς, ἀθλοφόρων γηθόμενος, καὶ θεούμενος κατὰ μέθεξιν θείαν· διὰ τοῦτο, τὴν σεπτήν σου καὶ ἁγίαν, ἐπιτελοῦμεν πανήγυριν."
 
 meVE.SticGlory.mode = misc_gr_GR_cog.Mode5
-meVE.SticGlory.melody  = ""
+meVE.SticGlory.melody = ""
 meVE.SticGlory.text = "Δεῦτε ἀναβῶμεν εἰς τὸ ὄρος Κυρίου, καὶ εἰς τὸν οἶκον τοῦ Θεοῦ ἡμῶν καὶ θεασώμεθα τὴν δόξαν τῆς Μεταμορφώσεως αὐτοῦ, δόξαν ὡς μονογενοῦς παρὰ Πατρός, φωτὶ προσλάβωμεν φῶς, καὶ μετάρσιοι γενόμενοι τῷ πνεύματι, Τριάδα ὁμοούσιον ὑμνήσωμεν εἰς τοὺς αἰῶνας."
 
 meVE.Aposticha1.mode = misc_gr_GR_cog.Mode2
@@ -59,7 +59,7 @@ meVE.Aposticha3.melody = he.a.m2_gr_GR_cog.OikosTouEfratha.name
 meVE.Aposticha3.text = "Φύσιν τὴν ἐξ Ἀδάμ, Χριστὸς ἀμεῖψαι θέλων; ἐν ὄρει νῦν ἀπαίρει, Θαβὼρ παραγυμνώσων, τοῖς μύσταις τὴν Θεότητα."
 
 meVE.AposGlory.mode = misc_gr_GR_cog.Mode2
-meVE.AposGlory.melody  = ""
+meVE.AposGlory.melody = ""
 meVE.AposGlory.text = "Ὁ ἐν τῷ ὄρει τῷ Θαβὼρ μεταμορφωθεὶς ἐν δόξῃ Χριστὲ ὁ Θεός, καὶ ὑποδείξας τοῖς Μαθηταῖς σου τὴν δόξαν τῆς σῆς Θεότητος, καταύγασον καὶ ἡμᾶς, τῷ φωτὶ τῆς σῆς ἐπιγνώσεως, καὶ ὁδήγησον ἐν τῇ τρίβῳ τῶν ἐντολῶν σου, ὡς μόνος ἀγαθὸς καὶ φιλάνθρωπος."
 
 meVE.Apolytikion1.mode = misc_gr_GR_cog.Mode4
@@ -346,7 +346,7 @@ meMA.Kontakion2.text = "Ὡς εὐσεβείας μάρτυρα, καὶ ἀ�
 
 meMA.Oikos2.text = "Ὁ χορὸς τῶν πιστῶν συναγάλλεται, Εὐσιγνίου τὴν μνήμην γεραίροντες, Βασιλεῖς, Πατριάρχαι καὶ ἄρχοντες, ξένοι, δοῦλοι, πτωχοὶ καὶ αὐτόχθονες, ἐπὶ τοῖς θαύμασι τοῦ Μάρτυρος δράμετε, ἡ σορὸς ἐκβλύζει θαυμάτων χάριν, καὶ πιστῶς οἱ λαοὶ ἀπαρύονται, καὶ Θεὸν ἀνυμνοῦσι τρανῶς βοῶντες, ταῖς αὐτοῦ ἱκεσίαις, τοὺς δούλους σου συντήρησον Πολυέλεε."
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C1H.ode = misc_gr_GR_cog.Ode7
 meMA.Ode7C1H.mode = misc_gr_GR_cog.Mode4
@@ -555,20 +555,16 @@ meMA.Aposticha1.mode = misc_gr_GR_cog.Mode1
 meMA.Aposticha1.melody = he.a.m1_gr_GR_cog.TonOuranionTagmaton.name
 meMA.Aposticha1.text = "Τῆς παναγίας ἐνδόξου Μεταμορφώσεως, προϋπαντὴν ποιοῦντες, τῇ παρούσῃ ἡμέρᾳ, Χριστὸν δοξολογοῦμεν τὸν τὴν ἡμῶν, τῷ πυρὶ τῆς Θεότητος, ἀναμορφώσαντα φύσιν, καὶ ὡς τὸ πρίν, ἀφθαρσίαν ἀπαστράψαντα."
 
-meMA.ApostichaVerse2.text = "Ἔλεος καὶ ἀλήθεια συνήντησαν, δικαιοσύνη καὶ εἰρήνη κατεφίλησαν."
-
 meMA.Aposticha2.mode = misc_gr_GR_cog.Mode1
 meMA.Aposticha2.melody = he.a.m1_gr_GR_cog.TonOuranionTagmaton.name
 meMA.Aposticha2.text = "Ἐπὶ τὸ ἅγιον ὄρος δεῦτε ἀπίωμεν, καὶ τὴν παμφαεστάτην, Μεταμόρφωσιν πίστει, κατίδωμεν Κυρίου, τοῦτον πιστῶς, προσκυνοῦντες καὶ λέγοντες· Σὺ εἶ Θεὸς ἡμῶν μόνος, ὁ σαρκωθείς, καὶ θεώσας τὸ ἀνθρώπινον."
-
-meMA.ApostichaVerse3.text = "Κύριε, ἐν τῷ φωτὶ τοῦ προσώπου σου πορεύσονται."
 
 meMA.Aposticha3.mode = misc_gr_GR_cog.Mode1
 meMA.Aposticha3.melody = he.a.m1_gr_GR_cog.TonOuranionTagmaton.name
 meMA.Aposticha3.text = "Αὕτη ἐστὶν ἡ ἡμέρα, ἡ προεόρτιος, μεθ' ἣν μεταμορφοῦται, ὁ Χριστὸς συμπαρόντων, Μωσέως καὶ Ἠλία, καὶ τῶν αὐτοῦ Μαθητῶν ἐν τῷ ὄρει Θαβώρ, φωνῆς δὲ θείας λαλούσης· Οὗτός ἐστιν, ἀληθῶς ὁ ἐκλεκτός μου Υἱός."
 
 meMA.AposGlory.mode = misc_gr_GR_cog.Mode5
-meMA.AposGlory.melody  = ""
+meMA.AposGlory.melody = ""
 meMA.AposGlory.text = "Νόμου καὶ Προφητῶν σε Χριστέ, ποιητὴν καὶ πληρωτὴν ἐμαρτύρησαν, ὁρῶντες ἐν τῇ νεφέλῃ, Μωϋσῆς ὁ θεόπτης, καὶ Ἠλίας ὁ ἔμπυρος ἁρματηλάτης καὶ ἄφλεκτος οὐρανοδρόμος, ἐπὶ τῆς Μεταμορφώσεώς σου, μεθ'ὧν καὶ ἡμᾶς τοῦ σοῦ φωτισμοῦ ἀξίωσον Δέσποτα, ὑμνεῖν σὲ εἰς τοὺς αἰῶνας."
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
@@ -576,7 +572,7 @@ meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.text = meMA.Kontakion1.text
 
 meLI.SeasonalKontakion.mode = me.m08.d06_gr_GR_cog.meMA.Kontakion1.mode
-meLI.SeasonalKontakion.melody  = ""
+meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = me.m08.d06_gr_GR_cog.meMA.Kontakion1.text
 
 meMegalynarion.text = ""

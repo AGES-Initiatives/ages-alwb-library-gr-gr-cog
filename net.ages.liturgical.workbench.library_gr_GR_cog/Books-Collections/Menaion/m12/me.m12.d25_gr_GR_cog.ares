@@ -51,7 +51,7 @@ meVE.ProphecyTroparion2Refrain.text = "Μάγους ὁδηγήσας εἰς 
 meVE.TheotokosHymn.mode = ""
 meVE.TheotokosHymn.text = eu.lichrysbasil_gr_GR_cog.euLI.Key1328.basil.text
 
-meVE.CommunionHymn.text = da.d1_gr_GR_cog.daLI.CommunionHymn.text
+meVE.MM.CommunionHymn.text = properties_gr_GR_cog.media.key
 
 meVE.Lity1.poet = poets_gr_GR_cog.IoannouMonachou
 meVE.Lity1.mode = misc_gr_GR_cog.Mode1
@@ -127,7 +127,7 @@ meMA.Kathisma31.mode = misc_gr_GR_cog.Mode4
 meMA.Kathisma31.melody = he.a.m4_gr_GR_cog.KateplagiIosif.name
 meMA.Kathisma31.text = "Ὁ ἀχώρητος παντί, πῶς ἐχωρήθη ἐν γαστρὶ; ὁ ἐν κόλποις τοῦ Πατρός, πῶς ἐν ἀγκάλαις τῆς Μητρός; πάντως ὡς οἶδεν ὡς ἠθέλησε καὶ ὡς ηὐδόκησεν· ἄσαρκος γὰρ ὢν, ἐσαρκώθη ἑκών· καὶ γέγονεν ὁ Ὢν ὃ οὐκ ἦν δι' ἡμᾶς· καὶ μὴ ἐκστὰς τῆς φύσεως, μετέσχε τοῦ ἡμετέρου φυράματος. Διπλοῦς ἐτέχθη, Χριστὸς τὸν ἄνω, κόσμον θέλων ἀναπληρῶσαι."
 
-meMA.Prokeimenon.text = "" // for media
+meMA.MM.Prokeimenon.text = properties_gr_GR_cog.media.key
 
 meMA.PostGospelGlory.mode = misc_gr_GR_cog.Mode2
 meMA.PostGospelGlory.melody = ""
@@ -617,7 +617,7 @@ meMA.Lauds4.mode = misc_gr_GR_cog.Mode4
 meMA.Lauds4.melody = ""
 meMA.Lauds4.text = "Δεῦτε ἀνυμνήσωμεν, τὴν Μητέρα τοῦ Σωτῆρος, τὴν μετὰ τόκον πάλιν ὀφθεῖσαν Παρθένον· Χαίροις Πόλις ἔμψυχε, τοῦ Βασιλέως καὶ Θεοῦ, ἐν ᾗ Χριστὸς οἰκήσας, σωτηρίαν εἰργάσατο. Μετὰ τοῦ Γαβριὴλ ἀνυμνοῦμέν σε, μετὰ τῶν Ποιμένων δοξάζομεν κράζοντες· Θεοτόκε πρέσβευε, τῷ ἐκ σοῦ σαρκωθέντι, σωθῆναι ἡμᾶς."
 
-meMA.LaudsSundayVerse1.text = "" //for media
+meMA.MM.LaudsSunday.text = properties_gr_GR_cog.media.key
 
 meMA.LaudsGlory.poet = poets_gr_GR_cog.Germanou
 meMA.LaudsGlory.mode = misc_gr_GR_cog.Mode6
@@ -631,7 +631,7 @@ meMA.LaudsBoth.text = "Σήμερον ὁ Χριστός, ἐν Βηθλεὲ�
 
 meLI.Antiphon2.text = "ὁ ἐκ Παρθένου τεχθείς,"
 
-meLI.EntranceHymn.text = ""
+meLI.MM.EntranceHymn.text = properties_gr_GR_cog.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
@@ -646,7 +646,7 @@ meLI.TheotokosHymn.mode = misc_gr_GR_cog.Mode1
 meLI.TheotokosHymnVerse.text = meMA.Ode9C1M01.text
 meLI.TheotokosHymn.text = meMA.Ode9C1H.text
 
-meLI.CommunionHymn.text = ""
+meLI.MM.CommunionHymn.text = properties_gr_GR_cog.media.key
 
 meLI.AfterCommunion.mode = misc_gr_GR_cog.Mode4
 meLI.AfterCommunion.text = meVE.Apolytikion1.text

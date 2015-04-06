@@ -61,7 +61,7 @@ meVE.AposTheotokion.text = "Ὅταν μου εἰς ἔννοιαν, τὸ φο
 
 meVE.GeneralApolytikion1.mode = misc_gr_GR_cog.Mode3
 meVE.GeneralApolytikion1.melody = he.ga_gr_GR_cog.ApostoleAgie.name
-meVE.GeneralApolytikion1.text = "" //for media
+meVE.GeneralApolytikion1.text = properties_gr_GR_cog.media.key
 meVE.GeneralApolytikion1.name = "Θωμᾶ,"
 
 meVE.Apolytikion2.poet = poets_gr_GR_cog.Gerasimou
@@ -309,9 +309,7 @@ meMA.LaudsTheotokion.mode = misc_gr_GR_cog.Mode6
 meMA.LaudsTheotokion.melody = he.o_gr_GR_cog.TheotokeSyEi.name
 meMA.LaudsTheotokion.text = he.o_gr_GR_cog.TheotokeSyEiApostolou.text
 
-meMA.LaudsSundayVerse1.text = meVE.ApostichaVerse2.text
-
-meMA.LaudsSundayVerse2.text = meVE.ApostichaVerse3.text
+meMA.MM.LaudsSunday.text = properties_gr_GR_cog.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody

@@ -90,7 +90,7 @@ meMA.Kathisma3T.mode = misc_gr_GR_cog.Mode3
 meMA.Kathisma3T.melody = he.a.m3_gr_GR_cog.TinOraiotita.name
 meMA.Kathisma3T.text = "Ἐν τῇ κοιμήσει σου, Παρθένε ἄχραντε, καὶ ὁ Ἰάκωβος ὁ ἀδελφόθεος, μετὰ τῶν ἄλλων μαθητῶν παρῆν, ὡς θεασόμενος, τὸ ζωαρχικώτατον καὶ πανάχραντον σκῆνός σου, καὶ τὸ ἀνερμήνευτον ἀνυμνήσων μυστήριον, τῆς θείας καὶ φρικτῆς σου λοχείας, ὃ προσκυνοῦντας ἡμᾶς σῶσον."
 
-meMA.Prokeimenon.text = "" // for media
+meMA.MM.Prokeimenon.text = properties_gr_GR_cog.media.key
 
 meMA.PostGospelGlory.mode = misc_gr_GR_cog.Mode2
 meMA.PostGospelGlory.melody = ""
@@ -335,9 +335,7 @@ meMA.LaudsTheotokion.mode = misc_gr_GR_cog.Mode1
 meMA.LaudsTheotokion.melody = ""
 meMA.LaudsTheotokion.text = oc.m1.d3_gr_GR_cog.ocVE.AposTheotokion.text
 
-meMA.LaudsSundayVerse1.text = ""
-
-meMA.LaudsSundayVerse2.text = ""
+meMA.MM.LaudsSunday.text = properties_gr_GR_cog.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
@@ -347,7 +345,7 @@ meLI.SeasonalKontakion.mode = misc_gr_GR_cog.Mode2
 meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = ho.s07_gr_GR_cog.hoTY.Key0408.text
 
-meLI.CommunionHymn.text = ""
+meLI.MM.CommunionHymn.text = properties_gr_GR_cog.media.key
 
 meMegalynarion.text = ""
 

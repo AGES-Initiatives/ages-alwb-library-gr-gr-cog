@@ -513,21 +513,15 @@ meMA.LaudsBoth.mode = misc_gr_GR_cog.Mode5
 meMA.LaudsBoth.melody = misc_gr_GR_cog.Idiomelon
 meMA.LaudsBoth.text = "Ἀκατάληπτον τὸ τελούμενον, ἐν Βηθλεὲμ σήμερον μυστήριον! ὁ ἀόρατος ὁρᾶται, ὁ ἄσαρκος σαρκοῦται, ὁ Λόγος παχύνεται, καὶ ὁ Ὢν γίνεται ὃ οὐκ ἦν, Παρθένος τίκτει ἐν σπηλαίῳ βρέφος νέον, τὸν Πλάστην τῆς φύσεως· φάτνῃ ἐκτυποῦται, εἰς θρόνον ἐπουράνιον, κτήνη ἀπεικάζει, χερουβικὴν παράστασιν· Ποιμένες θαυμάζουσι· Μάγοι δῶρα προσφέρουσιν· Ἄγγελοι ἀνυμνοῦντες λέγουσι· Δόξα ἐν ὑψίστοις Θεῷ , καὶ ἐπὶ γῆς εἰρήνη· ἐν ἀνθρώποις γὰρ εὐδόκησεν, ἀναλλοιώτως ὁ Ἐμμανουήλ."
 
-meMA.LaudsSundayVerse1.text = "Εἰς πᾶσαν τὴν γῆν ἐξῆλθεν ὁ φθόγγος αὐτοῦ, καὶ εἰς τὰ πέρατα τῆς οἰκουμένης τὰ ῥήματα αὐτοῦ."
-
-meMA.LaudsSundayVerse2.text = "Οἱ οὐρανοὶ διηγοῦνται δόξαν Θεοῦ, ποίησιν δὲ χειρῶν αὐτοῦ ἀναγγέλλει τὸ στερέωμα."
+meMA.MM.LaudsSunday.text = properties_gr_GR_cog.media.key
 
 meMA.Aposticha1.mode = misc_gr_GR_cog.Mode1
 meMA.Aposticha1.melody = he.a.m1_gr_GR_cog.PaneffimoiMartyres.name
 meMA.Aposticha1.text = "Ἰδοῦσα κρατούμενον χερσίν, ἑαυτῆς ἡ Πάναγνος, τὸν Ποιητὴν ἀπεφθέγγετο. Τέκνον γλυκύτατον, πῶς σὲ βρέφος βλέπω, καὶ νοεῖν οὐ δύναμαι, τὴν ἄπειρόν σου νῦν συγκατάβασιν, ὑμνῶ τὸ κράτος σου, προσκυνῶ τὴν εὐσπλαγχνίαν σου, δι' ἧς σῶσαι, κόσμον παραγέγονας."
 
-meMA.ApostichaVerse2.text = meVE.ApostichaVerse2.text
-
 meMA.Aposticha2.mode = misc_gr_GR_cog.Mode1
 meMA.Aposticha2.melody = he.a.m1_gr_GR_cog.PaneffimoiMartyres.name
 meMA.Aposticha2.text = "Ὡς βρέφος με βλέπουσα ταῖς σαῖς, ἐπαναπαυόμενον, Μῆτερ ἀγκάλαις εὐφράνθητι· ἦλθον τὸν κόσμον γάρ, ὅλον διασῶσαι, καὶ Ἀδὰμ ὃν ἔπλασα, κακίστῃ συμβουλίᾳ τοῦ ὄφεως, ξύλου γευσάμενον, καὶ τρυφῆς ἔξω γενόμενον, Παραδείσου, καὶ καταφθειρόμενον."
-
-meMA.ApostichaVerse3.text = meVE.ApostichaVerse3.text
 
 meMA.Aposticha3.mode = misc_gr_GR_cog.Mode1
 meMA.Aposticha3.melody = he.a.m1_gr_GR_cog.PaneffimoiMartyres.name
@@ -552,7 +546,7 @@ meLI.SeasonalKontakion.mode = misc_gr_GR_cog.Mode3
 meLI.SeasonalKontakion.melody = misc_gr_GR_cog.Automelon
 meLI.SeasonalKontakion.text = me.m12.d25_gr_GR_cog.meMA.Kontakion1.text
 
-meLI.CommunionHymn.text = da.d5_gr_GR_cog.daLI.CommunionHymnAlt.text
+meLI.MM.CommunionHymn.text = properties_gr_GR_cog.media.key
 
 meMegalynarion.text = ""
 

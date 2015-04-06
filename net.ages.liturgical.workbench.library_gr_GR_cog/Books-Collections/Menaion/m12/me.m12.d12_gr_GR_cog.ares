@@ -88,7 +88,7 @@ meMA.Kathisma3T.mode = misc_gr_GR_cog.Mode8
 meMA.Kathisma3T.melody = he.a.m8_gr_GR_cog.TinSofianKaiLogon.name
 meMA.Kathisma3T.text = "Χαῖρε θρόνε πυρίμορφε τοῦ Θεοῦ, Χαῖρε Κόρη Καθέδρα βασιλική, Κλίνη πορφυρόστρωτε, χρυσοπόρφυρε θάλαμε, Χλαμὺς ἁλουργόχροε, τιμαλφέστατον Τέμενος, ἀστραπηφόρον Ἅρμα, Λυχνία πολύφωτε. Χαῖρε Θεοτόκε, δωδεκάτειχε Πόλις, καὶ Πύλη χρυσήλατε, καὶ Παστὰς ἀγλαόμορφε, ἀγλαόχρυσε Τράπεζα, θεοκόσμητον Σκήνωμα, Χαῖρε ἔνδοξε Νύμφη ἡλιοστάλακτε, Χαῖρε μόνη ψυχῆς μου εὐπρέπεια."
 
-meMA.Prokeimenon.text = "" // for media
+meMA.MM.Prokeimenon.text = properties_gr_GR_cog.media.key
 
 meMA.PostGospelGlory.mode = misc_gr_GR_cog.Mode2
 meMA.PostGospelGlory.melody = ""
@@ -312,7 +312,7 @@ meMA.LaudsTheotokion.mode = misc_gr_GR_cog.Mode4
 meMA.LaudsTheotokion.melody = ""
 meMA.LaudsTheotokion.text = oc.m4.d2_gr_GR_cog.ocMA.AposTheotokion.text
 
-meMA.LaudsSundayVerse1.text = ""
+meMA.MM.LaudsSunday.text = properties_gr_GR_cog.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
@@ -322,6 +322,6 @@ meLI.SeasonalKontakion.mode = me.m12.d20_gr_GR_cog.meMA.Kontakion1.mode
 meLI.SeasonalKontakion.melody = me.m12.d20_gr_GR_cog.meMA.Kontakion1.melody
 meLI.SeasonalKontakion.text = me.m12.d20_gr_GR_cog.meMA.Kontakion1.text
 
-meLI.CommunionHymn.text = ""
+meLI.MM.CommunionHymn.text = properties_gr_GR_cog.media.key
 
 meMegalynarion.text = ""

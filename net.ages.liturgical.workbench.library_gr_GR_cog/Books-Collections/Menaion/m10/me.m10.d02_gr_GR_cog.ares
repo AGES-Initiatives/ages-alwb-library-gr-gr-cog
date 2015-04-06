@@ -9,7 +9,7 @@ meNote.text = ""
 meLE.commemoration1 = "Μνήμη τοῦ Ἁγίου Ἱερομάρτυρος Κυπριανοῦ, καὶ Ἰουστίνης τῆς Παρθένου."
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -27,7 +27,7 @@ meVE.Stichera03.melody = he.a.m4_gr_GR_cog.OsGennaionEnMartysi.name
 meVE.Stichera03.text = "Ἐπῳδαῖς ταῖς τοῦ δαίμονος, τὰς ᾠδὰς τὰς τοῦ Πνεύματος, καὶ Σταυροῦ τὸ τρόπαιον ἀντιτάξασα, τὴν παρθενίαν ἐτήρησας· καὶ Μάρτυς ἀήττητος, προσηνέχθης τῶ Χριστῷ, ἱερώτατον σφάγιον· ὅθεν ἔτυχες, τὼν στεφάνων τῆς νίκης, Ἰουστῖνα, τῶν Παρθένων καὶ Μαρτύρων, κεκοσμημένη φαιδρότησι."
 
 meVE.SticGlory.mode = misc_gr_GR_cog.Mode2
-meVE.SticGlory.melody  = ""
+meVE.SticGlory.melody = ""
 meVE.SticGlory.text = "Διδασκαλίαν τῆς πλάνης, καὶ γνῶσιν τῶν εἰδώλων, ἀπεδύσω ἀληθῶς, καὶ Σταυρὸν ἠμφιάσω, ὅπλον εἰς σωτηρίαν, Κυπριανὲ παμμακάριστε. Ἔρριψας τὰς βίβλους τάς μαγικάς, τὸν ἄνθρωπον ἀπέθου τὸν παλαιόν, καὶ ᾤκησεν ἐν σοὶ θεογνωσίᾳ, ἡ Τριὰς ἡ ὁμοούσιος· Αὐτὴν ἱκέτευε Ἱεράρχα, σὺν Ἀγγέλοις τοῦ σωθῆναι ἡμᾶς."
 
 meVE.SticTheotokion.mode = misc_gr_GR_cog.Mode2
@@ -39,7 +39,7 @@ meVE.SticStavrotheotokion.melody = he.a.m2_gr_GR_cog.OteEkTouXylou.name
 meVE.SticStavrotheotokion.text = "Ξύλῳ, τοῦ Σταυροῦ σε Ἰησοῦ, προσαναρτηθέντα ὁρῶσα, ἡ Ἀπειρόγαμος, ἔκλαιε καὶ ἔλεγε· Τέκνον γλυκύτατον, ἵνα τὶ ἐγκατέλιπες, ἐμὲ τὴν τεκοῦσαν, μόνην φῶς ἀπρόσιτον, τοῦ προανάρχου Πατρός; σπεῦσον, καὶ δοξάσθητι ὅπως, δόξης ἐπιτύχωσι θείας, οἱ τὰ θεῖα πάθη σου δοξάζοντες."
 
 meVE.AposGlory.mode = misc_gr_GR_cog.Mode2
-meVE.AposGlory.melody  = ""
+meVE.AposGlory.melody = ""
 meVE.AposGlory.text = "Τὸν φωστῆρα τὸν θεολαμπῆ, τὸν τοῦ Παύλου συνόμιλον, καὶ ἔργοις συμμέτοχον, Κυπριανὸν εὐφημήσωμεν· μέτ' Ἀγγέλων γὰρ ἀγάλλεται, λαβὼν τὸ στέφος τῆς ἀφθαρσίας, παρὰ τοῦ μόνου Θεοῦ, καὶ πρεσβεύει, σωθῆναι τὰς ψυχὰς ἡμῶν."
 
 meVE.AposTheotokion.mode = misc_gr_GR_cog.Mode2
@@ -52,7 +52,7 @@ meVE.AposStavrotheotokion.text = "Ὅτε, ἡ ἀμίαντος ἀμνάς, 
 
 meVE.GeneralApolytikion1.mode = misc_gr_GR_cog.Mode4
 meVE.GeneralApolytikion1.melody = he.ga_gr_GR_cog.KaiTroponMetochos.name
-meVE.GeneralApolytikion1.text = "" //for media
+meVE.GeneralApolytikion1.text = properties_gr_GR_cog.media.key
 meVE.GeneralApolytikion1.name = "Κυπριανέ,"
 
 meVE.Apolytikion2.poet = poets_gr_GR_cog.Gerasimou
@@ -190,7 +190,7 @@ meMA.Kontakion1.text = "Ὡς ἱεράρχην τίμιον, καὶ ἀθλ�
 
 meMA.Oikos1.text = "Τὸν σοφὸν Ἱεράρχην τιμήσωμεν, ὡς ποιμένα σοφὸν καὶ διδάσκαλον, ὅτι ἐξ ἀκανθῶν πλάνης ἤνθησεν, ὥσπερ ῥόδον τερπνότατον, καὶ ἡμᾶς τοὺς πιστοὺς κατεμύρισεν, ἰαμάτων ὀδμαῖς καὶ βολαῖς θαυμάτων· ὥστε ψάλλειν ἡμᾶς τοῦ Δαυῒδ τὴν ᾠδήν· Ἀλληλούϊα."
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C11.ode = misc_gr_GR_cog.Ode7
 meMA.Ode7C11.mode = misc_gr_GR_cog.Mode4
@@ -270,12 +270,10 @@ meMA.ExapTheotokion.mode = misc_gr_GR_cog.Mode2
 meMA.ExapTheotokion.melody = he.a.m2_gr_GR_cog.GynaikesAkoutisthite.name
 meMA.ExapTheotokion.text = "Χαρὰν τὴν ἀνεκλάλητον, πάναγνε ἡ κυήσασα, χαρᾶς ἡμᾶς αἰωνίου, μετόχους ποίησον πάντας, Παρθένε θεονύμφευτε, ἡ σκέπη τὸ κραταίωμα, τῶν εὐσεβῶς βοώντων σοι·. Μὴ ἐπιλάθῃ σῶν δούλων, Θεοκυῆτορ Μαρία."
 
-meMA.LaudsSundayVerse1.text = "Δίκαιος ὡς φοῖνιξ ἀνθήσει, καὶ ὡσεὶ κέδρος ἡ ἐν τῷ Λινάνῳ πληθυνθήσεται."
-
-meMA.LaudsSundayVerse2.text = "Τοῖς ἁγίοις τοῖς ἐν τῇ γῇ αὐτοῦ ἐθαυμάστωσεν ὁ Κύριος."
+meMA.MM.LaudsSunday.text = properties_gr_GR_cog.media.key
 
 meMA.AposGlory.mode = misc_gr_GR_cog.Mode8
-meMA.AposGlory.melody  = ""
+meMA.AposGlory.melody = ""
 meMA.AposGlory.text = "Ὁ τῆς κακίας πρότερον, ἀκριβὴς ὑπέρμαχος, τῆς Ἐκκλησίας ὕστερον, ἀληθὴς διδάσκαλος, ὁ λειτουργὸς τῆς πλάνης τῶν εἰδώλων, ἀρχιερεὺς τῆς πίστεως ἐφάνη, καὶ ὁ ἀκόλαστος, σώφρων διὰ τιμίας Παρθένου. Αμφοτέρων ταῖς εὐχαῖς, σῶσον ἡμᾶς Κύριε."
 
 meMA.AposTheotokion.mode = misc_gr_GR_cog.Mode8
@@ -291,7 +289,7 @@ meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.text = meMA.Kontakion1.text
 
 meLI.SeasonalKontakion.mode = misc_gr_GR_cog.Mode2
-meLI.SeasonalKontakion.melody  = ""
+meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = ho.s07_gr_GR_cog.hoTY.Key0408.text
 
 meMegalynarion.text = ""

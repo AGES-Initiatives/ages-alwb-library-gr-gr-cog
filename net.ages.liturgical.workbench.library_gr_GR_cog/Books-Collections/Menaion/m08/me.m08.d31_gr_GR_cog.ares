@@ -516,7 +516,7 @@ meMA.LaudsGlory.mode = misc_gr_GR_cog.Mode2
 meMA.LaudsGlory.melody = misc_gr_GR_cog.Idiomelon
 meMA.LaudsGlory.text = meVE.SticGlory.text
 
-meMA.LaudsSundayVerse1.text = "" // for media
+meMA.MM.LaudsSunday.text = properties_gr_GR_cog.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
@@ -526,7 +526,7 @@ meLI.SeasonalKontakion.mode = meMA.Kontakion1.mode
 meLI.SeasonalKontakion.melody = meMA.Kontakion1.melody
 meLI.SeasonalKontakion.text = meMA.Kontakion1.text
 
-meLI.CommunionHymn.text = "" // for media
+meLI.MM.CommunionHymn.text = properties_gr_GR_cog.media.key
 
 meMegalynarion.text = ""
 

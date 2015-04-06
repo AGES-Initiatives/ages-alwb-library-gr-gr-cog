@@ -74,7 +74,7 @@ meMA.Kathisma3T.mode = misc_gr_GR_cog.Mode5
 meMA.Kathisma3T.melody = he.a.m5_gr_GR_cog.TonSynanarchonLogon.name
 meMA.Kathisma3T.text = oc.m5.d3_gr_GR_cog.ocVE.ApolTheotokionVM.text
 
-meMA.Prokeimenon.text = "" // for media
+meMA.MM.Prokeimenon.text = properties_gr_GR_cog.media.key
 meMA.PostGospelGlory.mode = misc_gr_GR_cog.Mode2
 meMA.PostGospelGlory.melody = ""
 meMA.PostGospelGlory.text = ho.s03_gr_GR_cog.hoMA.PostGospelMartyrs.text
@@ -372,9 +372,7 @@ meMA.LaudsTheotokion.mode = misc_gr_GR_cog.Mode5
 meMA.LaudsTheotokion.melody = ""
 meMA.LaudsTheotokion.text = oc.m5.d3_gr_GR_cog.ocVE.AposTheotokion.text
 
-meMA.LaudsSundayVerse1.text = "Θαυμαστὸς ὁ Θεὸς ἐν τοῖς ἁγίοις αὐτοῦ."
-
-meMA.LaudsSundayVerse2.text = "Τοῖς Ἁγίοις τοῖς ἐν τῇ γῇ αὐτοῦ ἐθαυμάστωσεν ὁ Κύριος."
+meMA.MM.LaudsSunday.text = properties_gr_GR_cog.media.key
 
 meMA.AposGlory.mode = misc_gr_GR_cog.Mode2
 meMA.AposGlory.melody = misc_gr_GR_cog.Idiomelon
@@ -405,7 +403,7 @@ meLI.SeasonalKontakion.text = ho.s07_gr_GR_cog.hoTY.Key0408.text
 meLI.TheotokosHymn.mode = ""
 meLI.TheotokosHymn.text = ""
 
-meLI.CommunionHymn.text = da.d3_gr_GR_cog.daLI.CommunionHymn.text
+meLI.MM.CommunionHymn.text = properties_gr_GR_cog.media.key
 
 meMegalynarion.text = ""
 

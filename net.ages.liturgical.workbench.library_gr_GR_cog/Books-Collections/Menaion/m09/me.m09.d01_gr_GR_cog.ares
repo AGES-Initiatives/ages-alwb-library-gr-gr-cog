@@ -140,7 +140,7 @@ meMA.Kathisma32.mode = misc_gr_GR_cog.Mode4
 meMA.Kathisma32.melody = he.a.m4_gr_GR_cog.KateplagiIosif.name
 meMA.Kathisma32.text = "Ὡς Δεσπότῃ τοῦ παντός, καὶ χορηγῷ τῶν ἀγαθῶν, σοὶ προσπίπτομεν πιστῶς, ἀναβοῶντες ἐκτενῶς. Ὑπὸ τῆς σῆς δυσωπούμενος εὐσπλαγχνίας, Σωτὴρ καὶ ταῖς εὐχαῖς τῆς τεκούσης σε, καὶ πάντων τῶν ἀεὶ εὐαρεστούντων σοι, ἐνιαυτὸν εὐπρόσδεκτον προσάξαι σοι, ὡς ἀγαθὸς καταξίωσον, τοὺς ἐν οὐσίαις, δυσὶ τιμῶντας, καὶ πιστῶς σε δοξάζοντας."
 
-meMA.Prokeimenon.text = "" // for media
+meMA.MM.Prokeimenon.text = properties_gr_GR_cog.media.key
 
 meMA.PostGospelGlory.mode = misc_gr_GR_cog.Mode2
 meMA.PostGospelGlory.melody = ""
@@ -802,12 +802,11 @@ meMA.LaudsBoth.mode = misc_gr_GR_cog.Mode4
 meMA.LaudsBoth.melody = misc_gr_GR_cog.Idiomelon
 meMA.LaudsBoth.text = "Ὁ ἀρρήτῳ σοφίᾳ συστησάμενος τὰ σύμπαντα, Λόγε Χριστὲ ὁ Θεός, ὁ καιροὺς καὶ χρόνους ἡμῖν προθέμενος, τὰ ἔργα τῶν χειρῶν σου εὐλόγησον, τὸν δὲ πιστὸν Βασιλέα ἐν τῇ δυνάμει σου εὔφρανον, διδοὺς αὐτῷ κατὰ βαρβάρων τὴν ἰσχύν, ὡς μόνος ἀγαθὸς καὶ φιλάνθρωπος."
 
-meMA.LaudsSundayVerse1.text = "" // for media
-meMA.LaudsSundayVerse2.text = "" // for media of Vespers Stichera used as Lauds
+meMA.MM.LaudsSunday.text = properties_gr_GR_cog.media.key
 
 meLI.Antiphon2.text = ho.s07_gr_GR_cog.hoLI.Antiphon2w.text
 
-meLI.EntranceHymn.text = "" // for media
+meLI.MM.EntranceHymn.text = properties_gr_GR_cog.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
@@ -817,7 +816,7 @@ meLI.SeasonalKontakion.mode = misc_gr_GR_cog.Mode4
 meLI.SeasonalKontakion.melody = he.a.m4_gr_GR_cog.OYpsotheisEnToStavro.name
 meLI.SeasonalKontakion.text = "Ὁ τῶν αἰώνων Ποιητὴς καὶ Δεσπότης, Θεὲ τῶν ὅλων ὑπερούσιε ὄντως, τὴν ἐνιαύσιον εὐλόγησον περίοδον, σῴζων τῷ ἐλέει σου, τῷ ἀπείρῳ οἰκτίρμων, πάντας τοὺς λατερεύοντας, σοὶ τῷ μόνῳ Δεσπότῃ, καὶ ἐκβοῶντας φόβῳ· Λυτρωτά, εὔφορον πᾶσι τὸ ἔτος χορήγησον."
 
-meLI.CommunionHymn.text = "" // for media
+meLI.MM.CommunionHymn.text = properties_gr_GR_cog.media.key
 
 meMegalynarion.text = ""
 

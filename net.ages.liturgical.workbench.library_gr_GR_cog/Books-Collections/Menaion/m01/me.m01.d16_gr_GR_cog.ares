@@ -536,9 +536,7 @@ meMA.LaudsStavrotheotokion.mode = misc_gr_GR_cog.Mode4
 meMA.LaudsStavrotheotokion.melody = he.a.m4_gr_GR_cog.OsGennaionEnMartysi.name
 meMA.LaudsStavrotheotokion.text = "Τὸν Ἀμνὸν καὶ Ποιμένα σε, ἐπὶ ξύλου ὡς ἔβλεψεν, ἡ Ἀμνὰς ἡ τέξασα ἐπωδύρετο, καὶ μητρικῶς σοι ἐφθέγγετο. Υἱὲ ποθεινότατε, πῶς ἐν ξύλῳ τοῦ Σταυροῦ, ἀνηρτήθης μακρόθυμε; πῶς τὰς χεῖράς σου, καὶ τοὺς πόδας σου Λόγε προσηλώθης, ὑπ' ἀνόμων καὶ τὸ αἷμα, τὸ σὸν ἐξέχεας Δέσποτα;"
 
-meMA.LaudsSundayVerse1.text = meVE.ApostichaVerse2.text
-
-meMA.LaudsSundayVerse2.text = meVE.ApostichaVerse3.text
+meMA.MM.LaudsSunday.text = properties_gr_GR_cog.media.key
 
 meMA.AposGlory.poet = poets_gr_GR_cog.Anatoliou
 meMA.AposGlory.mode = misc_gr_GR_cog.Mode4
@@ -561,7 +559,7 @@ meLI.SeasonalKontakion.mode = misc_gr_GR_cog.Mode1
 meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = me.m02.d02_gr_GR_cog.meMA.Kontakion1.text
 
-meLI.CommunionHymn.text = da.d5_gr_GR_cog.daLI.CommunionHymnAlt.text
+meLI.MM.CommunionHymn.text = properties_gr_GR_cog.media.key
 
 meMegalynarion.text = ""
 

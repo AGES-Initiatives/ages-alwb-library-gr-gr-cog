@@ -9,7 +9,7 @@ meNote.text = ""
 meLE.commemoration1 = "Προεόρτια τῶν Φώτων, καὶ μνήμη τοῦ Ἁγίου Προφήτου Μαλαχίου, καὶ τοῦ Ἁγίου Μάρτυρος Γορδίου."
 meLE.commemoration2 = ""
 meHO.number = "3."
-meHO.rank  = "5"
+meHO.rank = "5"
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -40,7 +40,7 @@ meVE.Stichera06.text = "Ξίφει κεφαλὴν τεμνόμενος, ἀπ�
 
 meVE.SticGlory.poet = poets_gr_GR_cog.IoannouMonachou
 meVE.SticGlory.mode = misc_gr_GR_cog.Mode4
-meVE.SticGlory.melody  = ""
+meVE.SticGlory.melody = ""
 meVE.SticGlory.text = "Ὢ τοῦ παραδόξου θαύματος! ὁ ἐν Πνεύματι Ἁγίῳ βαπτίζων καὶ πυρί, ἐν Ἰορδάνῃ ἔρχεται βαπτισθῆναι ὑπὸ Ἰωάννου, Θεὸς οὐ γυμνός, οὐδὲ ἄνθρωπος ψιλός, ἀλλ' ἐν δυσὶ ταῖς φύσεσιν, εἷς ὁ αὐτὸς Υἱὸς μονογενής, ζητῶν μὲν τὸ βάπτισμα, ὡς ἄνθρωπος ἐκ θνητοῦ, αἴρων δὲ ὡς Θεός, τὴν ἁμαρτίαν τοῦ κόσμου, καὶ παρέχων πᾶσι τὸ μέγα ἔλεος."
 
 meVE.Aposticha1.mode = misc_gr_GR_cog.Mode6
@@ -61,7 +61,7 @@ meVE.Aposticha3.text = "Συνέλθωμεν πιστοὶ νοητῶς, πρ�
 
 meVE.AposGlory.poet = poets_gr_GR_cog.Vyzantiou
 meVE.AposGlory.mode = misc_gr_GR_cog.Mode5
-meVE.AposGlory.melody  = ""
+meVE.AposGlory.melody = ""
 meVE.AposGlory.text = "Ἐν Ἰορδάνῃ ποταμῷ Χριστὸς ὁ Θεὸς ἡμῶν, μολεῖ πρὸς τὸ Βάπτισμα, καθᾶραι θέλων ἡμᾶς, ἐκ τῶν ἀνομιῶν ἡμῶν, τῇ αὐτοῦ ἐπιφανείᾳ, ὡς μόνος ἀγαθὸς καὶ φιλάνθρωπος."
 
 meVE.Apolytikion1.mode = me.m01.d02_gr_GR_cog.meVE.Apolytikion1.mode
@@ -544,7 +544,7 @@ meMA.Kontakion2.mode = misc_gr_GR_cog.Mode6
 meMA.Kontakion2.melody = he.a.m6_gr_GR_cog.TinEnPresveiais.name
 meMA.Kontakion2.text = "Τὸν ἐν ἀθλήσει ἀήττητον στρατιώτην, καὶ ἐν βασάνοις ἀνίκητον στεφανίτην, Γόρδιον πάντες ἀνευφημήσωμεν, τὸν ἐξ Ἑῴας μέγαν, ὄντως ἀστέρα λάμψαντα, τὸ θεῖον ἀγλάϊσμα τῶν Μαρτύρων Χριστοῦ."
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C1H.ode = misc_gr_GR_cog.Ode7
 meMA.Ode7C1H.mode = misc_gr_GR_cog.Mode4
@@ -778,21 +778,15 @@ meMA.LaudsBoth.mode = misc_gr_GR_cog.Mode6
 meMA.LaudsBoth.melody = he.a.m6_gr_GR_cog.AiAngelikai.name
 meMA.LaudsBoth.text = "Νόμου πληρωτής, κατὰ σάρκα χρηματίσας, ἦλθεν ὁ Χριστός, ἀπαρχὴν τῆς σωτηρίας, ἐπὶ τὸν Ἰορδάνην, ἐκτελέσαι ὡς εὔσπλαγχνος, καὶ τῷ Βαπτιστῇ καθυποκλίνει, τὴν κορυφὴν πιστῶς βοῶντι, λαοὶ κράξωμεν· Εὐλογημένος ὁ φανείς, Θεὸς ἡμῶν δόξα σοι."
 
-meMA.LaudsSundayVerse1.text = ""
-
-meMA.LaudsSundayVerse2.text = ""
+meMA.MM.LaudsSunday.text = properties_gr_GR_cog.media.key
 
 meMA.Aposticha1.mode = misc_gr_GR_cog.Mode2
 meMA.Aposticha1.melody = he.a.m2_gr_GR_cog.OikosTouEfratha.name
 meMA.Aposticha1.text = "Ἀπὸ τῆς Βηθλεέμ, ἐπὶ τὸν Ἰορδάνην, μεταβῶμεν· ἐκεῖ γάρ, τὸ φῶς τοῖς ἐν τῷ σκότει, αὐγάζειν ἤδη ἄρχεται."
 
-meMA.ApostichaVerse2.text = "Διὰ τοῦτο μνησθήσομαί σου ἐκ γῆς Ἰορδάνου καὶ Ἐρμωνιείμ."
-
 meMA.Aposticha2.mode = misc_gr_GR_cog.Mode2
 meMA.Aposticha2.melody = he.a.m2_gr_GR_cog.OikosTouEfratha.name
 meMA.Aposticha2.text = "Γῆ ἡ τοῦ Ζαβουλών, οἱ πέραν Ἰορδάνου, ἀκούσατε· Ἐγγίζει, Χριστὸς ἡ σωτηρία, τὸ φῶς ἡ ἀπολύτρωσις."
-
-meMA.ApostichaVerse3.text = "Εἴδοσάν σε ὕδατα ὁ Θεός, εἴδοσάν σε ὕδατα καὶ ἐφοβήθησαν."
 
 meMA.Aposticha3.mode = misc_gr_GR_cog.Mode2
 meMA.Aposticha3.melody = he.a.m2_gr_GR_cog.OikosTouEfratha.name

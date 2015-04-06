@@ -131,11 +131,8 @@ meMA.Kathisma31.mode = misc_gr_GR_cog.Mode4
 meMA.Kathisma31.melody = he.a.m4_gr_GR_cog.OYpsotheisEnToStavro.name
 meMA.Kathisma31.text = "Ὁ ἀνελθὼν σὺν Μαθηταῖς ἐν τῷ ὄρει, καὶ ἐν τῇ δόξῃ τοῦ Πατρὸς ἀπαστράψας, σὺν Μωϋσῇ Ἠλίας σοι παρίστανται· Νόμος καὶ Προφῆται γὰρ ὡς Θεῷ λειτουργοῦσιν, ᾧ καὶ τὴν Υἱότητα τὴν φυσικὴν ὁ Γεννήτωρ, ὁμολογῶν ἐκάλεσεν Υἱόν, ὃν ἀνυμνοῦμεν σὺν σοὶ καὶ τῷ Πνεύματι."
 
-meMA.Prokeimenon.text = "" // for media
+meMA.MM.Prokeimenon.text = properties_gr_GR_cog.media.key
 //From goarch: http://goarch.org/chapel/lectionary_view?type=MGandcode=384andlanguage=elanddate=8/6/2013
-//meMA.Gospel.name = "Λουκᾶν" //"Ματθαῖον or Μᾶρκον or Λουκᾶν or Ἰωάννην or Matthew or Mark or Luke or John"
-//meMA.Gospel.chapverse = "(Κεφ. 9.28-36)" //"(Κεφ. ΓΓʹ 11-11) or 1:11-11"
-//meMA.Gospel.text = "'Εγένετο δὲ μετὰ τοὺς λόγους τούτους ὡσεὶ ἡμέραι ὀκτὼ καὶ παραλαβὼν τὸν Πέτρον καὶ 'Ιωάννην καὶ 'Ιάκωβον ἀνέβη εἰς τὸ ὄρος προσεύξασθαι. καὶ ἐγένετο ἐν τῷ προσεύχεσθαι αὐτὸν τὸ εἶδος τοῦ προσώπου αὐτοῦ ἕτερον καὶ ὁ ἱματισμὸς αὐτοῦ λευκὸς ἐξαστράπτων. καὶ ἰδοὺ ἄνδρες δύο συνελάλουν αὐτῷ, οἵτινες ἦσαν Μωϋσῆς καὶ 'Ηλίας, οἳ ὀφθέντες ἐν δόξῃ ἔλεγον τὴν ἔξοδον αὐτοῦ ἣν ἔμελλε πληροῦν ἐν ῾Ιερουσαλήμ. ὁ δὲ Πέτρος καὶ οἱ σὺν αὐτῷ ἦσαν βεβαρημένοι ὕπνῳ· διαγρηγορήσαντες δὲ εἶδον τὴν δόξαν αὐτοῦ καὶ τοὺς δύο ἄνδρας τοὺς συνεστῶτας αὐτῷ. καὶ ἐγένετο ἐν τῷ διαχωρίζεσθαι αὐτοὺς ἀπ' αὐτοῦ εἶπεν ὁ Πέτρος πρὸς τὸν 'Ιησοῦν· ἐπιστάτα, καλόν ἐστιν ἡμᾶς ὧδε εἶναι· καὶ ποιήσωμεν σκηνὰς τρεῖς, μίαν σοὶ καὶ μίαν Μωϋσεῖ καὶ μίαν 'Ηλίᾳ, μὴ εἰδὼς ὃ λέγει. ταῦτα δὲ αὐτοῦ λέγοντος ἐγένετο νεφέλη καὶ ἐπεσκίασεν αὐτούς· ἐφοβήθησαν δὲ ἐν τῷ εἰσελθεῖν ἐκείνους εἰς τὴν νεφέλην· καὶ φωνὴ ἐγένετο ἐκ τῆς νεφέλης λέγουσα· οὗτός ἐστιν ὁ υἱός μου ὁ ἀγαπητός· αὐτοῦ ἀκούετε. καὶ ἐν τῷ γενέσθαι τὴν φωνὴν εὑρέθη ὁ 'Ιησοῦς μόνος. καὶ αὐτοὶ ἐσίγησαν καὶ οὐδενὶ ἀπήγγειλαν ἐν ἐκείναις ταῖς ἡμέραις οὐδὲν ὧν ἑωράκασιν."
 
 meMA.PostGospelGlory.mode = misc_gr_GR_cog.Mode2
 meMA.PostGospelGlory.melody = ""
@@ -558,7 +555,7 @@ meMA.LaudsGlory.mode = misc_gr_GR_cog.Mode8
 meMA.LaudsGlory.melody = ""
 meMA.LaudsGlory.text = "Παρέλαβεν ὁ Χριστός, τὸν Πέτρον καὶ Ἰάκωβον καὶ Ἰωάννην, εἰς ὄρος ὑψηλὸν κατ' ἰδίαν, καὶ μετεμορφώθη ἔμπροσθεν αὐτῶν, καὶ ἔλαμψε τὸ πρόσωπον αὐτοῦ ὡς ὁ Ἥλιος, τὰ δὲ ἱμάτια αὐτοῦ, ἐγένετο λευκὰ ὡς τὸ φῶς. Καὶ ὤφθησαν Μωϋσῆς καὶ Ἠλίας μετ' αὐτοῦ συλλαλοῦντες, καὶ νεφέλη φωτεινὴ ἐπεσκίασεν αὐτούς, καὶ ἰδοὺ φωνὴ ἐκ τῆς νεφέλης λέγουσα· Οὗτός ἐστιν ὁ Υἱός μου ὁ ἀγαπητός, ἐν ᾧ ηὐδόκησᾳ, αὐτοῦ ἀκούετε."
 
-meMA.LaudsSundayVerse1.text = "" // for media on Sunday after
+meMA.MM.LaudsSunday.text = properties_gr_GR_cog.media.key
 
 meLI.Antiphon2.text = "ὁ ἐν τῷ ὄρει τῷ Θαβὼρ μεταμορφωθείς,"
 
@@ -570,12 +567,12 @@ meLI.SeasonalKontakion.mode = meMA.Kontakion1.mode
 meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = meMA.Kontakion1.text
 
-meLI.EntranceHymn.text = "" // for media
+meLI.MM.EntranceHymn.text = properties_gr_GR_cog.media.key
 
 meLI.TheotokosHymn.mode = misc_gr_GR_cog.Mode8
 meLI.TheotokosHymn.text = meMA.Ode7C23.text
 
-meLI.CommunionHymn.text = "" // for media
+meLI.MM.CommunionHymn.text = properties_gr_GR_cog.media.key
 
 meMegalynarion.text = ""
 

@@ -472,7 +472,7 @@ meMA.Lauds4.mode = misc_gr_GR_cog.Mode4
 meMA.Lauds4.melody = he.a.m4_gr_GR_cog.OExYpsistouKlitheis.name
 meMA.Lauds4.text = "Πέτρε καὶ Παῦλε τοῦ Λόγου ἀροτῆρες, Ἀνδρέα, lάκωβε, καὶ Ἰωάννη σοφέ, Βαρθολομαῖε καὶ Φίλιππε, Θωμᾶ Ματθαῖε, Σίμων Ἰούδα, θεῖε Ἰάκωβε, παγκόσμιε πάντιμε, τῶν Μαθητῶν δωδεκάς, οἱ ἐν τῷ κόσμῳ κηρύξαντες, τὴν παναγίαν, Τριάδα φύσει Θεὸν ἀΐδιον, τῆς Ἐκκλησίας οἱ ἀλάξευτοι, ὄντως πύργοι καὶ στῦλοι ἀσάλευτοι, τῷ Δεσπότῃ τῶν ὅλων, ἱκετεύσατε σωθῆναι ἡμᾶς."
 
-meMA.Lauds456.text = "" // for media
+meMA.MM.Lauds123as456.text = properties_gr_GR_cog.media.key
 meMA.Lauds678.text = "" // for media
 
 meMA.LaudsGlory.poet = poets_gr_GR_cog.KosmaMonachou
@@ -484,9 +484,7 @@ meMA.LaudsTheotokion.mode = misc_gr_GR_cog.Mode8
 meMA.LaudsTheotokion.melody = ""
 meMA.LaudsTheotokion.text = oc.m8.d5_gr_GR_cog.ocMA.AposTheotokion.text
 
-meMA.LaudsSundayVerse1.text = meVE.ApostichaVerse2.text
-
-meMA.LaudsSundayVerse2.text = meVE.ApostichaVerse3.text
+meMA.MM.LaudsSunday.text = properties_gr_GR_cog.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
@@ -496,6 +494,6 @@ meLI.SeasonalKontakion.mode = misc_gr_GR_cog.Mode2
 meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = ho.s07_gr_GR_cog.hoTY.Key0408.text
 
-meLI.CommunionHymn.text = da.d5_gr_GR_cog.daLI.CommunionHymn.text
+meLI.MM.CommunionHymn.text = properties_gr_GR_cog.media.key
 
 meMegalynarion.text = ""

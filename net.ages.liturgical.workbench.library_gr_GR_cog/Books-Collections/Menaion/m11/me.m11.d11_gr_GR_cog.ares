@@ -490,8 +490,6 @@ meMA.ExapTheotokion.mode = misc_gr_GR_cog.Mode3
 meMA.ExapTheotokion.melody = he.a.m3_gr_GR_cog.OOuranonToisAstrois.name
 meMA.ExapTheotokion.text = "Ἐν σοὶ πανάχραντε Κόρη, ἐθεωρήθησαν ὄντως, αἱ τοῦ Κυρίου πορεῖαι, καὶ τοὺς βροτοὺς ὁδηγοῦσιν, ἔνθα χορεῖαι Ἀγγέλων, καὶ πάντων Ἁγίων δῆμοι."
 
-meMA.ApostichaVerse4.text = ""
-
 meMA.Aposticha4.mode = misc_gr_GR_cog.Mode2
 meMA.Aposticha4.melody = ""
 meMA.Aposticha4.text = "Δεῦτε φίλαθλοι τὴν τρισαυγῆ τῶν Μαρτύρων τιμήσωμεν χορείαν, Μηνᾶν τε καὶ Βίκτωρα καὶ Βικέντιον, ὅτι αἵματα ἔδωκαν, καὶ ὠνήσαντο τὴν αἰώνιον ζωήν· διὸ καὶ καρτερικῶς ἀντέλεγον τῷ ἐφευρέτῃ τῶν κακῶν· Οὐ προκρίνομεν τὰ φθαρτὰ τῶν ἀφθάρτων, οὐ στρατευόμεθα βασιλεῖ θνητῷ γηΐνῳ, ἀλλὰ τῷ ζῶντι βασιλεῖ στρατευόμεθα, τῷ ἀεὶ βοῶντι τοῖς πιστοῖς· Ὁ πιστεύων εἰς ἐμὲ κἂν ἀποθάνῃ ζήσεται."
@@ -509,7 +507,7 @@ meMA.AposStavrotheotokion.mode = misc_gr_GR_cog.Mode1
 meMA.AposStavrotheotokion.melody = he.a.m1_gr_GR_cog.PaneffimoiMartyres.name
 meMA.AposStavrotheotokion.text = "Σφαγήν σου τὴν ἄδικον Χριστέ, ἡ Παρθένος βλέπουσα, ὀδυρομένη ἐβόα σοι· Τέκνον γλυκύτατον, πῶς ἀδίκως πάσχεις; πῶς τῷ ξύλω κρέμασαι, ὁ πᾶσαν γῆν κρεμάσας τοῖς ὕδασι; Μὴ λίπῃς μόνην με, εὐεργέτα πολυέλεε, τὴν μητέρα, καὶ δούλην σου δέομαι."
 
-meMA.LaudsSundayVerse1.text = "" // for media
+meMA.MM.LaudsSunday.text = properties_gr_GR_cog.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
@@ -519,7 +517,7 @@ meLI.SeasonalKontakion.mode = me.m11.d21_gr_GR_cog.meMA.Kontakion1.mode
 meLI.SeasonalKontakion.melody = me.m11.d21_gr_GR_cog.meMA.Kontakion1.melody
 meLI.SeasonalKontakion.text = me.m11.d21_gr_GR_cog.meMA.Kontakion1.text
 
-meLI.CommunionHymn.text = "" // for media
+meLI.MM.CommunionHymn.text = properties_gr_GR_cog.media.key
 
 meMegalynarion.text = ""
 

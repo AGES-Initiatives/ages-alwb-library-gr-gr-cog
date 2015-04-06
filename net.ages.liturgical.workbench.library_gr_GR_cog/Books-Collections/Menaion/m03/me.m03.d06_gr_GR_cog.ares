@@ -9,7 +9,7 @@ meNote.text = ""
 meLE.commemoration1 = "Μνήμη τῶν Ἁγίων τεσσαράκοντα δύο Μαρτύρων τῶν ἐν τῷ Ἀμορίῳ, Θεοδώρου, Κωνσταντίνου, Καλλίστου, Θεοφίλου, Βασσώη καὶ τῆς συνοδίας αὐτῶν."
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -36,11 +36,11 @@ meVE.SticStavrotheotokion.text = "Μὴ ἐποδύρου μου Μῆτερ κ
 
 meVE.SticGlory.poet = poets_gr_GR_cog.Methodiou
 meVE.SticGlory.mode = misc_gr_GR_cog.Mode4
-meVE.SticGlory.melody  = ""
+meVE.SticGlory.melody = ""
 meVE.SticGlory.text = "Ἡ Ἐκκλησία σήμερον πανηγυρίζει μυστικῶς, νέαν στολὴν ἐνδυσαμένη, ὡς πορφύραν καὶ βύσσον, τὰ αἵματα τῶν νέων Ἀθλοφόρων· τούτους γὰρ ἐν εὐσεβείᾳ ἐκθρεψαμένη, θυσίαν ἄμωμον δὲ τὴν καὶ εὐάρεστον, Χριστῷ προσήγαγε. Διὸ νικητὰς ὁ τούτους τῶν παρανόμων ἀναδείξας, καὶ στεφανώσας καὶ δοξάσας, καὶ ἡμῖν κατάπεμψον, ταῖς αὐτῶν πρεσβείαις τὸ μέγα ἔλεος."
 
 meVE.SticTheotokion2.mode = misc_gr_GR_cog.Mode2
-meVE.SticTheotokion2.melody  = ""
+meVE.SticTheotokion2.melody = ""
 meVE.SticTheotokion2.text = ho.s23_gr_GR_cog.hoCA.Troparion7.text
 
 meVE.SticStavrotheotokion2.mode = misc_gr_GR_cog.Mode2
@@ -49,7 +49,7 @@ meVE.SticStavrotheotokion2.text = "Ὕβρεις, ὑπομείναντα πο�
 
 meVE.AposGlory.poet = poets_gr_GR_cog.Sykeotou
 meVE.AposGlory.mode = misc_gr_GR_cog.Mode6
-meVE.AposGlory.melody  = ""
+meVE.AposGlory.melody = ""
 meVE.AposGlory.text = "Φάλαγγα θεοστεφῆ, ἀρτιφανῶν Μαρτύρων, σφάγιον ἄμωμον, ὑπὲρ Χριστοῦ τυθέντων προθύμως, τὸν ἁγιόλεκτον συνασπισμὸν τῶν τεσσαράκοντα δύο, φιλομάρτυρες δεῦτε τιμήσωμεν, καὶ τὴν πανίερον μνήμην πνευματικῶς τελέσαντες, βοήσωμεν πρὸς αὐτούς· θραύσατε θράσος τῶν ἀσεβῶν καὶ βαρβάρων, καὶ ῥύσασθε λαὸν εὐσεβόφρονα, εὐχαῖς ἡμῶν, πάσης περιστάσεως."
 
 meVE.AposTheotokion.mode = misc_gr_GR_cog.Mode6
@@ -224,7 +224,7 @@ meMA.Kontakion1.text = "Τοὺς νεοφανεῖς, ὁπλίτας τῆς �
 
 meMA.Oikos1.text = "Τὸ τοῦ Χριστοῦ ἀμήχανον κάλλος, καὶ τὴν ἄφραστον δόξαν, ἣν Ἀγγέλων χοροὶ ἐπιθυμοῦσι θεάσασθαι, ἐν παῤῥησίᾳ ἡμεῖς ὁρῶντες, μετὰ πάντων Ἁγίων τῶν ἀπ' αἰῶνος, οἱ τοῦ Χριστοῦ τεσσαράκοντα καὶ δύο Ἀθληταί, ταῖς ἁγίαις ἡμῶν πρεσβείαις, τοὺς ὑμᾶς εὐφημοῦντας φωτίσατε, ἁμαρτιῶν τὸ σκότος διώκοντες, καὶ υἱοὺς φωτός ἐργαζόμενοι, ὡς πύργοι καὶ φύλακες τῆς Ῥωμαίων ἀρχῆς."
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C1H.ode = misc_gr_GR_cog.Ode7
 meMA.Ode7C1H.mode = misc_gr_GR_cog.Mode6
@@ -320,7 +320,7 @@ meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.text = meMA.Kontakion1.text
 
 meLI.SeasonalKontakion.mode = misc_gr_GR_cog.Mode2
-meLI.SeasonalKontakion.melody  = ""
+meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = ho.s07_gr_GR_cog.hoTY.Key0408.text
 
 meMegalynarion.text = ""

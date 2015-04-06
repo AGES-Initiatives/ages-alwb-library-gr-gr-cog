@@ -9,22 +9,22 @@ meNote.text = ""
 meLE.commemoration1 = ""
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meLI.Kontakion1.mode = ""
 meLI.Kontakion1.melody = ""
 meLI.Kontakion1.text = ""
 
 meLI.SeasonalKontakion.mode = me.m09.d08_gr_GR_cog.meMA.Kontakion1.mode
-meLI.SeasonalKontakion.melody  = ""
+meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = me.m09.d08_gr_GR_cog.meMA.Kontakion1.text
 
-meLI.CommunionHymn.text = "" //for media
+meLI.MM.CommunionHymn.text = properties_gr_GR_cog.media.key
 
 meMegalynarion.text = ""
 

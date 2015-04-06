@@ -708,7 +708,7 @@ meMA.LaudsBoth.mode = misc_gr_GR_cog.Mode3
 meMA.LaudsBoth.melody = ""
 meMA.LaudsBoth.text = "Χριστὲ ὁ Θεὸς ἡμῶν, ὁ τὴν ἑκούσιόν σου σταύρωσιν, εἰς κοινὴν ἐξανάστασιν, τοῦ γένους τῶν ἀνθρώπων καταδεξάμενος, καὶ τῷ καλάμῳ τοῦ Σταυροῦ, βαφαῖς ἐρυθραῖς τοὺς σεαυτοῦ δακτύλους αἱματώσας, ταῖς ἀφεσίμοις ἡμῖν, βασιλικῶς ὑπογράψαι φιλανθρωπευσάμενος, μὴ παρίδῃς ἡμᾶς κινδυνεύοντας, καὶ πάλιν τὴν ἀπὸ σοῦ διάστασιν· ἀλλ' οἰκτείρησον μόνε μακρόθυμε, τὸν ἐν περιστάσει λαόν σου, καὶ ἀνάστηθι, πολέμησον τοὺς πολεμοῦντας ἡμᾶς, ὡς μόνος παντοδύναμος."
 
-meMA.LaudsSundayVerse1.text = "" // for media
+meMA.MM.LaudsSunday.text = properties_gr_GR_cog.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
@@ -718,6 +718,6 @@ meLI.SeasonalKontakion.mode = meMA.Kontakion1.mode
 meLI.SeasonalKontakion.melody = meMA.Kontakion1.melody
 meLI.SeasonalKontakion.text = meMA.Kontakion1.text
 
-meLI.CommunionHymn.text = "" // for media
+meLI.MM.CommunionHymn.text = properties_gr_GR_cog.media.key
 
 meMegalynarion.text = ""

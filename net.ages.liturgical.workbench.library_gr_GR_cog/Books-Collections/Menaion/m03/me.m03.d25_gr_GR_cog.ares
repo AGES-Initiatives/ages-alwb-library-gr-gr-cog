@@ -128,10 +128,7 @@ meMA.Kathisma32.mode = misc_gr_GR_cog.Mode4
 meMA.Kathisma32.melody = he.a.m4_gr_GR_cog.KateplagiIosif.name
 meMA.Kathisma32.text = "Ἀπεστάλη Γαβριήλ, πρὸς τὴν Παρθένον καὶ ἁγνήν, καὶ ἐμήνυσεν αὐτῇ, τὴν ἀνεκλάλητον χαράν, ὅτι ἀσπόρως συλλήψῃ καὶ οὐ φθαρήσῃ· τέξῃ γὰρ Υἱόν, τὸν πρὸ αἰώνων Θεόν, ὃς σώσει τὸν λαόν, ἐκ τῶν πταισμάτων αὐτῶν, καὶ μαρτυρεῖ ὁ πέμψας με εἰπεῖν σοι· Εὐλογημένη τὸ Χαῖρε, Παρθένος τίκτεις, καὶ μετὰ τόκον, πάλιν μένεις Παρθένος."
 
-meMA.Prokeimenon.text = "" // for media
-//meMA.Gospel.name = bible_gr_GR_cog.Luke
-//meMA.Gospel.chapverse = "(Κεφ. 1:39-49, 56)"
-//meMA.Gospel.text = le.go.me.m03.d25_gr_GR_cog.lemeMA.Gospel.text
+meMA.MM.Prokeimenon.text = properties_gr_GR_cog.media.key
 
 meMA.PostGospelGlory.mode = misc_gr_GR_cog.Mode2
 meMA.PostGospelGlory.melody = ""
@@ -414,13 +411,11 @@ meMA.LaudsGlory.mode = misc_gr_GR_cog.Mode2
 meMA.LaudsGlory.melody = ""
 meMA.LaudsGlory.text = "Το ἀπ' αἰῶνος μυστήριον, ἀνακαλύπτεται σήμερον, καὶ ὁ Υἱὸς τοῦ Θεοῦ, Υἱὸς ἀνθρώπου γίνεται, ἵνα τοῦ χείρονος μεταλαβών, μεταδῷ μοι τοῦ βελτίονος. Ἐψεύσθη πάλαι Ἀδάμ, καὶ Θεὸς ἐπιθυμήσας οὐ γέγονεν, ἄνθρωπος γίνεται Θεός, ἵνα Θεὸν τὸν Ἀδὰμ ἀπεργάσηται. Εὐφραινέσθω ἡ κτίσις, χορευέτω, ἡ φύσις, ὅτι Ἀρχάγγελος Παρθένῳ, μετὰ δέους παρίσταται, καὶ τὸ Χαῖρε κομίζει, τῆς λύπης ἀντίθετον. Ὁ διὰ σπλάγχνα ἐλέους ἐνανθρωπήσας, Θεὸς ἡμῶν δόξα σοι."
 
-meMA.LaudsSundayVerse1.text = ""
-
-meMA.LaudsSundayVerse2.text = ""
+meMA.MM.LaudsSunday.text = properties_gr_GR_cog.media.key
 
 meLI.Antiphon2.text = "ὁ δι' ἡμᾶς σαρκωθείς,"
 
-meLI.EntranceHymn.text = "" //for media
+meLI.MM.EntranceHymn.text = properties_gr_GR_cog.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
@@ -434,7 +429,7 @@ meLI.TheotokosHymn.mode = meMA.Ode9C1H.mode
 meLI.TheotokosHymnVerse.text = meMA.Ode9C1M01.text
 meLI.TheotokosHymn.text = meMA.Ode9C1H.text
 
-meLI.CommunionHymn.text = ""//for media
+meLI.MM.CommunionHymn.text = properties_gr_GR_cog.media.key
 
 meMegalynarion.text = ""
 

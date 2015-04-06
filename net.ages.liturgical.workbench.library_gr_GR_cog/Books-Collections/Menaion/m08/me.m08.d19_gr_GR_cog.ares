@@ -9,7 +9,7 @@ meNote.text = ""
 meLE.commemoration1 = "Μνήμη τῶν Ἁγίων Μαρτύρων Ἀνδρέου τοῦ Στρατηλάτου καὶ τῶν σὺν αὐτῷ δισχιλίων πεντακοσίων ἐνενήκοντα τριῶν."
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -39,7 +39,7 @@ meVE.Stichera06.melody = he.a.m1_gr_GR_cog.PaneffimoiMartyres.name
 meVE.Stichera06.text = "Ὅπλον ἀπροσμάχητον Σταυρόν, μάκαρ ἐνδυσάμενος, ὡς θυρεόν τε καὶ θώρακα, πίστιν ἐνδέδυσαι καὶ τοῖς ἐναντίοις, ὤφθης φοβερώτατος, τροπούμενος τὰ τούτων στρατεύματα· διὸ ἱκέτευε, δωρηθῆναι ταῖς ψυχαῖς ἡμῶν, τὴν εἰρήνην καὶ τὸ μέγα ἔλεος."
 
 meVE.SticGlory.mode = misc_gr_GR_cog.Mode4
-meVE.SticGlory.melody  = ""
+meVE.SticGlory.melody = ""
 meVE.SticGlory.text = me.m08.d15_gr_GR_cog.meVE.AposGlory.text
 
 meVE.Aposticha1.mode = misc_gr_GR_cog.Mode2
@@ -59,7 +59,7 @@ meVE.Aposticha3.melody = he.a.m2_gr_GR_cog.OikosTouEfratha.name
 meVE.Aposticha3.text = "Πόλις νέα Σιών, χαῖρε, ὁ Βασιλεύς σου, ἐλήλυθεν ἐν δόξῃ, μορφῆς τοῦ θεανθρώπου, ἀΰλως ἣν ἐμόρφωσεν."
 
 meVE.AposGlory.mode = misc_gr_GR_cog.Mode5
-meVE.AposGlory.melody  = ""
+meVE.AposGlory.melody = ""
 meVE.AposGlory.text = me.m08.d15_gr_GR_cog.meVE.LityGlory.text
 
 meVE.Apolytikion1.poet = poets_gr_GR_cog.Gerasimou
@@ -200,7 +200,7 @@ meMA.Ode6H.mode = misc_gr_GR_cog.Mode4
 meMA.Ode6H.melody = misc_gr_GR_cog.Heirmos
 meMA.Ode6H.text = he.h.m4_gr_GR_cog.ThysoSoiMetaFonis.text
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C11.ode = misc_gr_GR_cog.Ode7
 meMA.Ode7C11.mode = misc_gr_GR_cog.Mode4
@@ -289,13 +289,9 @@ meMA.Aposticha1.mode = misc_gr_GR_cog.Mode2
 meMA.Aposticha1.melody = he.a.m2_gr_GR_cog.OikosTouEfratha.name
 meMA.Aposticha1.text = me.m08.d16_gr_GR_cog.meVE.Aposticha2.text
 
-meMA.ApostichaVerse2.text = meVE.ApostichaVerse2.text
-
 meMA.Aposticha2.mode = misc_gr_GR_cog.Mode2
 meMA.Aposticha2.melody = he.a.m2_gr_GR_cog.OikosTouEfratha.name
 meMA.Aposticha2.text = "Κλῖμαξ πρὸς οὐρανόν, ὁ τάφος τῆς πανάγνου, καὶ Θεοτόκου πέλει, ἀνάγων τοὺς ὑμνοῦντας, τὴν θείαν αὐτῆς Κοίμησιν."
-
-meMA.ApostichaVerse3.text = meVE.ApostichaVerse3.text
 
 meMA.Aposticha3.mode = misc_gr_GR_cog.Mode2
 meMA.Aposticha3.melody = he.a.m2_gr_GR_cog.OikosTouEfratha.name
@@ -305,7 +301,7 @@ meMA.AposGlory.mode = misc_gr_GR_cog.Mode2
 meMA.AposGlory.melody = he.a.m2_gr_GR_cog.OikosTouEfratha.name
 meMA.AposGlory.text = "Πάντες οἱ γηγενεῖς, προσδράμωμεν προθύμως, μετὰ τῶν ἀσωμάτων, κηδεῦσαι τὴν τεκοῦσαν, τὸν Ποιητὴν τῆς κτίσεως."
 
-meMA.LaudsSundayVerse1.text = "" //for media
+meMA.MM.LaudsSunday.text = properties_gr_GR_cog.media.key
 
 meLI.Kontakion1.mode = ""
 meLI.Kontakion1.melody = ""

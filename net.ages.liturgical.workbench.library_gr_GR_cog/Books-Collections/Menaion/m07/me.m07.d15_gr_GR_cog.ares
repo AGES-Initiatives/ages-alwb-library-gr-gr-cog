@@ -360,9 +360,7 @@ meMA.LaudsStavrotheotokion.mode = misc_gr_GR_cog.Mode4
 meMA.LaudsStavrotheotokion.melody = ""
 meMA.LaudsStavrotheotokion.text = "Ἔφερες Πανάμωμε, ἐν τῇ καρδίᾳ σου δίστομον, Συμεών σοι ὡς ἔφησε, ῥομφαίαν καὶ τέτρωσαι, ἐν αὐτῇ καὶ σπλάγχνα, καὶ τὰς διαθέσεις, ὡς ἐθεάσω σὸν Υἱόν, ἐπὶ τοῦ ξύλου σεμνὴ κρεμάμενον· διὸ καὶ ἀνεκραύγαζες· Τέκνον ἐμὸν μὴ παρίδης με, ἀλλὰ σπεῦσον ἀνάστηθι, ὡς προέφης μακρόθυμε."
 
-meMA.LaudsSundayVerse1.text = meVE.ApostichaVerse2.text
-
-meMA.LaudsSundayVerse2.text = meVE.ApostichaVerse3.text
+meMA.MM.LaudsSunday.text = properties_gr_GR_cog.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
@@ -372,6 +370,6 @@ meLI.SeasonalKontakion.mode = misc_gr_GR_cog.Mode2
 meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = ho.s07_gr_GR_cog.hoTY.Key0408.text
 
-meLI.CommunionHymn.text = da.d3_gr_GR_cog.daLI.CommunionHymn.text
+meLI.MM.CommunionHymn.text = properties_gr_GR_cog.media.key
 
 meMegalynarion.text = ""

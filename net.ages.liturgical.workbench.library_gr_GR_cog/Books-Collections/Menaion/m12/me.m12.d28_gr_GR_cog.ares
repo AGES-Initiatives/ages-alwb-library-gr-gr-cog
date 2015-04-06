@@ -9,7 +9,7 @@ meNote.text = ""
 meLE.commemoration1 = "Μνήμη τῶν Ἁγίων Δισμυρίων, τῶν ἐν Νικομηδείᾳ καέντων."
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -40,7 +40,7 @@ meVE.Stichera06.melody = he.a.m1_gr_GR_cog.PaneffimoiMartyres.name
 meVE.Stichera06.text = "Παρθένοι νεάνιδες τῶν σῶν, μύρων ὀσφραινόμεναι, σοῖς ἠκολούθησαν ἴχνεσι, τὸ σὸν μιμούμεναι, ζωηφόρον πάθος, τὸ ψυχοσωτήριον, καὶ πρὸς τὴν ἐκ νεκρῶν ἐξανάστασιν, ἐν σοὶ γηθόμεναι, Εὐεργέτα κατῳκίσθησαν, τοῦ σοῦ κάλλους, σαφῶς ἀπολαύουσαι."
 
 meVE.SticGlory.mode = misc_gr_GR_cog.Mode4
-meVE.SticGlory.melody  = ""
+meVE.SticGlory.melody = ""
 meVE.SticGlory.text = "Εὐφράνθητι Ἱερουσαλήμ, καὶ πανηγυρίσατε πάντες, οἱ ἀγαπῶντες Σιών. Σήμερον ὁ χρόνιος ἐλύθη δεσμός, τῆς καταδίκης τοῦ Ἀδάμ, ὁ Παράδεισος ἡμῖν ἠνεώχθη ὁ ὄφις κατηργήθη· ἣν γὰρ ἠπάτησε πρώην, νῦν ἐθεάσατο, τοῦ Δημιουργοῦ γενομένην Μητέρα. Ὢ βάθος πλούτου, καὶ σοφίας, καὶ γνώσεως Θεοῦ! ἡ προξενήσασα τὸν θάνατον πάσῃ σαρκί, τῆς ἁμαρτίας τὸ ὄργανον, σωτηρίας ἀπαρχὴ ἐγένετο τῷ κόσμῳ παντί, διὰ τῆς Θεοτόκου· βρέφος γὰρ τίκτεται ἐξ αὐτῆς, ὁ παντέλειος Θεός, καὶ διὰ τοῦ τόκου, Παρθενίαν σφραγίζει, σειρὰς ἁμαρτημάτων, λύων διὰ σπαργάνων, καὶ διὰ νηπιότητος, τῆς Εὔας θεραπεύει, τὰς ἐν λύπαις ὠδῖνας. Χορευέτω τοίνυν, πᾶσα ἡ κτίσις καὶ σκιρτάτω· ἀνακαλέσαι γὰρ αὐτήν, παραγέγονε Χριστός, καὶ σῶσαι τὰς ψυχὰς ἡμῶν."
 
 meVE.Aposticha1.mode = misc_gr_GR_cog.Mode2
@@ -60,11 +60,11 @@ meVE.Aposticha3.melody = he.a.m2_gr_GR_cog.OikosTouEfratha.name
 meVE.Aposticha3.text = "Αἶνον θεοτερπῆ, μετὰ Ποιμένων Μάγοι, καὶ σὺν Ἀγγέλοις δόξαν, τῷ ἐκ Παρθένου φύντι, Θεῷ πιστοὶ προσάξωμεν."
 
 meVE.AposGlory.mode = misc_gr_GR_cog.Mode1
-meVE.AposGlory.melody  = ""
+meVE.AposGlory.melody = ""
 meVE.AposGlory.text = me.m12.d25_gr_GR_cog.meVE.Lity3.text
 
 meVE.Apolytikion1.mode = misc_gr_GR_cog.Mode2
-meVE.Apolytikion1.melody  = ""
+meVE.Apolytikion1.melody = ""
 meVE.Apolytikion1.text = "Ἀθλοφόροι Κυρίου, μακαρία ἡ γῆ, ἡ πιανθεῖσα τοῖς αἵμασιν ὑμῶν, καὶ ἅγιαι αἱ σκηναί, αἱ δεξάμεναι τὰ πνεύματα ὑμῶν· ἐν σταδίῳ γὰρ τὸν ἐχθρὸν ἐθριαμβεύσατε, καὶ Χριστὸν μετὰ παρρησίας ἐκηρύξατε, αὐτὸν ὡς ἀγαθὸν ὑπὲρ ἡμῶν ἱκετεύσατε, σωθῆναι δεόμεθα τὰς ψυχὰς ἡμῶν."
 
 meMA.Kathisma11.mode = misc_gr_GR_cog.Mode8
@@ -200,7 +200,7 @@ meMA.Ode6H.mode = misc_gr_GR_cog.Mode1
 meMA.Ode6H.melody = misc_gr_GR_cog.Heirmos
 meMA.Ode6H.text = he.h.m1_gr_GR_cog.TonProfitinIonan.text
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C11.ode = misc_gr_GR_cog.Ode7
 meMA.Ode7C11.mode = misc_gr_GR_cog.Mode1
@@ -293,20 +293,16 @@ meMA.Lauds3.melody = he.a.m4_gr_GR_cog.OsGennaionEnMartysi.name
 meMA.Lauds3.text = "Ἐν τοῖς λόγοις Φιλόθεος, καὶ ἐν ἔργοις Δωρόθεος, καὶ θεῖος Μαρδόνιος, καὶ Γοργόνιος, σὺν τῷ Σεκούνδῳ καὶ Πέτρῳ τε, καὶ Ἴνδῃ ἠρίστευσαν, καὶ ἐχθροῦ παρεμβολάς, ἐτροπώσαντο χαίροντες, καὶ πρεσβεύουσιν, ἐκ παντοίων κινδύνων λυτρωθῆναι, τοὺς ἐν πίστει ἐκτελοῦντας, τὴν σεπτὴν αὐτῶν πανήγυριν."
 
 meMA.LaudsGlory.mode = misc_gr_GR_cog.Mode5
-meMA.LaudsGlory.melody  = ""
+meMA.LaudsGlory.melody = ""
 meMA.LaudsGlory.text = me.m12.d27_gr_GR_cog.meMA.LaudsBoth.text
 
 meMA.Aposticha1.mode = misc_gr_GR_cog.Mode6
 meMA.Aposticha1.melody = he.a.m6_gr_GR_cog.AiAngelikai.name
 meMA.Aposticha1.text = "Ἄγει ἑορτήν, ἐν χαρᾷ πᾶσα ἡ Κτίσις, καὶ οἱ οὐρανοί, σὺν ἡμῖν ἀγαλλιῶνται· ἐν φάτνῃ γὰρ ὁ Κτίστης, ἐκ Παρθένου τικτόμενος, καὶ ἐν Βηθλεὲμ τῆς Ἰουδαίας, βρέφος νῦν ὡράθη παραδόξως, πρὸς ὃν εἴπωμεν· Εὐλογημένος ὁ τεχθείς, Θεὸς ἡμῶν δόξα σοι."
 
-meMA.ApostichaVerse2.text = meVE.ApostichaVerse2.text 
-
 meMA.Aposticha2.mode = misc_gr_GR_cog.Mode6
 meMA.Aposticha2.melody = he.a.m6_gr_GR_cog.AiAngelikai.name
 meMA.Aposticha2.text = "Νέον δι' ἡμᾶς, Ἰησοῦ ὤφθης παιδίον, ὁ ἐκ τοῦ Πατρὸς πρὸ αἰώνων ἀνατείλας, παλαιωθέντας πάλαι, παραβάσει βουλόμενος, πάντας καινουργῆσαι τοὺς ἀνθρώπους· διὸ σοι πάντες εὐχαρίστως, ἀεὶ κράζομεν· Εὐλογημένος ὁ τεχθείς, Θεὸς ἡμῶν δόξα σοι."
-
-meMA.ApostichaVerse3.text = meVE.ApostichaVerse3.text 
 
 meMA.Aposticha3.mode = misc_gr_GR_cog.Mode6
 meMA.Aposticha3.melody = he.a.m6_gr_GR_cog.AiAngelikai.name

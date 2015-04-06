@@ -138,11 +138,8 @@ meMA.Kathisma3T.mode = misc_gr_GR_cog.Mode8
 meMA.Kathisma3T.melody = he.a.m8_gr_GR_cog.ToProstachthen.name
 meMA.Kathisma3T.text = "Θεοχαρίτωτε Ἁγνὴ εὐλογημένη, τὸν διὰ σπλάγχνα οἰκτιρμῶν ἐκ σοῦ τεχθέντα, σὺν ταῖς ἄνω Δυνάμεσι καὶ τοῖς Ἀρχαγγέλοις, καὶ πᾶσι τοῖς ἀσωμάτοις ὑπὲρ ἡμῶν, δυσώπει ἀκαταπαύστως δοῦναι ἡμῖν, πρὸ τοῦ τέλους συγχώρησιν, καὶ ἱλασμὸν ἁμαρτιῶν, καὶ βίου ἐπανόρθωσιν, ὅπως εὔρωμεν ἔλεος."
 
-meMA.Prokeimenon.text = "" // for media
+meMA.MM.Prokeimenon.text = properties_gr_GR_cog.media.key
 //This is the Gospel reading prescribed by the Patriarchal Hemerologion
-//meMA.Gospel.name = "Ματθαῖον "
-//meMA.Gospel.chapverse = "(Κεφ. ΙΗʹ 10-20)"
-//meMA.Gospel.text = "Εἶπεν ὁ Κύριος· ῾Ορᾶτε μὴ καταφρονήσητε ἑνὸς τῶν μικρῶν τούτων· λέγω γὰρ ὑμῖν ὅτι οἱ ἄγγελοι αὐτῶν ἐν οὐρανοῖς διὰ παντὸς βλέπουσι τὸ πρόσωπον τοῦ πατρός μου τοῦ ἐν οὐρανοῖς. ἦλθε γὰρ ὁ υἱὸς τοῦ ἀνθρώπου σῶσαι τὸ ἀπολωλός. Τί ὑμῖν δοκεῖ; ἐὰν γένηταί τινι ἀνθρώπῳ ἑκατὸν πρόβατα καὶ πλανηθῇ ἓν ἐξ αὐτῶν, οὐχὶ ἀφεὶς τὰ ἐνενήκοντα ἐννέα ἐπὶ τὰ ὄρη, πορευθεὶς ζητεῖ τὸ πλανώμενον; καὶ ἐὰν γένηται εὑρεῖν αὐτό, ἀμὴν λέγω ὑμῖν ὅτι χαίρει ἐπ' αὐτῷ μᾶλλον ἢ ἐπὶ τοῖς ἐνενήκοντα ἐννέα τοῖς μὴ πεπλανημένοις. οὕτως οὐκ ἔστι θέλημα ἔμπροσθεν τοῦ πατρὸς ὑμῶν τοῦ ἐν οὐρανοῖς ἵνα ἀπόληται εἷς τῶν μικρῶν τούτων. 'Εὰν δὲ ἁμαρτήσῃ εἰς σὲ ὁ ἀδελφός σου, ὕπαγε καὶ ἔλεγξον αὐτὸν μεταξὺ σοῦ καὶ αὐτοῦ μόνου· ἐάν σου ἀκούσῃ, ἐκέρδησας τὸν ἀδελφόν σου· ἐὰν δὲ μὴ ἀκούσῃ, παράλαβε μετὰ σοῦ ἔτι ἕνα ἢ δύο, ἵνα ἐπὶ στόματος δύο μαρτύρων ἢ τριῶν σταθῇ πᾶν ῥῆμα. ἐὰν δὲ παρακούσῃ αὐτῶν, εἰπὲ τῇ ἐκκλησίᾳ· ἐὰν δὲ καὶ τῆς ἐκκλησίας παρακούσῃ, ἔστω σοι ὥσπερ ὁ ἐθνικὸς καὶ ὁ τελώνης. 'Αμὴν λέγω ὑμῖν, ὅσα ἐὰν δήσητε ἐπὶ τῆς γῆς, ἔσται δεδεμένα ἐν τῷ οὐρανῷ, καὶ ὅσα ἐὰν λύσητε ἐπὶ τῆς γῆς, ἔσται λελυμένα ἐν τῷ οὐρανῷ. Πάλιν ἀμὴν λέγω ὑμῖν ὅτι ἐὰν δύο ὑμῶν συμφωνήσωσιν ἐπὶ τῆς γῆς περὶ παντὸς πράγματος οὗ ἐὰν αἰτήσωνται, γενήσεται αὐτοῖς παρὰ τοῦ πατρός μου τοῦ ἐν οὐρανοῖς. οὗ γάρ εἰσι δύο ἢ τρεῖς συνηγμένοι εἰς τὸ ἐμὸν ὄνομα, ἐκεῖ εἰμι ἐν μέσῳ αὐτῶν."
 
 meMA.PostGospelGlory.mode = misc_gr_GR_cog.Mode2
 meMA.PostGospelGlory.melody = ""
@@ -572,7 +569,7 @@ meMA.LaudsTheotokion.mode = misc_gr_GR_cog.Mode5
 meMA.LaudsTheotokion.melody = ""
 meMA.LaudsTheotokion.text = oc.m5.d3_gr_GR_cog.ocVE.AposTheotokion.text
 
-meMA.LaudsSundayVerse1.text = "" // for media
+meMA.MM.LaudsSunday.text = properties_gr_GR_cog.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
@@ -582,7 +579,7 @@ meLI.SeasonalKontakion.mode = me.m11.d21_gr_GR_cog.meMA.Kontakion1.mode
 meLI.SeasonalKontakion.melody = me.m11.d21_gr_GR_cog.meMA.Kontakion1.melody
 meLI.SeasonalKontakion.text = me.m11.d21_gr_GR_cog.meMA.Kontakion1.text
 
-meLI.CommunionHymn.text = "" // media
+meLI.MM.CommunionHymn.text = properties_gr_GR_cog.media.key
 
 meMegalynarion.text = ""
 

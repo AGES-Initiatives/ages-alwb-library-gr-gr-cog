@@ -87,7 +87,7 @@ meVE.Stichera06.mode = misc_gr_GR_cog.Mode4
 meVE.Stichera06.melody = he.a.m4_gr_GR_cog.OsGennaionEnMartysi.name
 meVE.Stichera06.text = "Παρανόμῳ προστάγματι, ἀπηλάθης τῆς ποίμνης σου, θλίψεσι βασάνοις τε προσωμίλησας, ὑπὲρ τῆς Πίστεως ἔνδοξε, στεῤῥότατε Φώτιε, Ἱεράρχα φαεινέ, Ἐκκλησίας ἑδραίωμα, στῦλε ἄσειστε· διὸ πάντες τιμῶμέν σε προφρόνως, ὡς διδάσκαλον καὶ μύστην, Ὀρθοδοξίας ἀοίδιμε."
 
-meVE.Stichera8910.text = "" //for media
+meVE.Stichera8910.text = properties_gr_GR_cog.media.key
 
 meVE.SticGlory.mode = misc_gr_GR_cog.Mode6
 meVE.SticGlory.melody = ""
@@ -182,7 +182,7 @@ meMA.Kathisma32.mode = misc_gr_GR_cog.Mode4
 meMA.Kathisma32.melody = he.a.m4_gr_GR_cog.KateplagiIosif.name
 meMA.Kathisma32.text = me.m02.d02_gr_GR_cog.meMA.Kathisma31.text
 
-meMA.Prokeimenon.text = "" // for media
+meMA.MM.Prokeimenon.text = properties_gr_GR_cog.media.key
 
 meMA.PostGospelGlory.mode = misc_gr_GR_cog.Mode2
 meMA.PostGospelGlory.melody = ""
@@ -417,13 +417,11 @@ meMA.LaudsBoth.mode = misc_gr_GR_cog.Mode6
 meMA.LaudsBoth.melody = ""
 meMA.LaudsBoth.text = me.m02.d02_gr_GR_cog.meMA.LaudsGlory.text
 
-meMA.LaudsSundayVerse1.text = ""
-
-meMA.LaudsSundayVerse2.text = ""
+meMA.MM.LaudsSunday.text = properties_gr_GR_cog.media.key
 
 meLI.Antiphon2.text = me.m02.d02_gr_GR_cog.meLI.Antiphon2.text
 
-meLI.EntranceHymn.text = me.m02.d02_gr_GR_cog.meLI.Antiphon2.text
+meLI.MM.EntranceHymn.text = properties_gr_GR_cog.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
@@ -433,7 +431,7 @@ meLI.SeasonalKontakion.mode = misc_gr_GR_cog.Mode1
 meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = me.m02.d02_gr_GR_cog.meMA.Kontakion1.text
 
-meLI.CommunionHymn.text = "" //for media
+meLI.MM.CommunionHymn.text = properties_gr_GR_cog.media.key
 
 meMegalynarion.text = "Χαίροις ὁ λαμπρότατος τῆς Χριστοῦ, Ἐκκλησίας μύστης, Ὀρθοδόξων προασπιστής, κακοδόξων μάστιξ, Ἱεραρχίας κλέος, ὁ μέγας θεοφάντωρ, Φώτιε Ἅγιε."
 

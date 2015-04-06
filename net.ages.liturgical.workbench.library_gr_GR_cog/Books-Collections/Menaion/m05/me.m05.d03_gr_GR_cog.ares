@@ -9,7 +9,7 @@ meNote.text = ""
 meLE.commemoration1 = "Μνήμη τῶν Ἁγίων Μαρτύρων Τιμοθέου καὶ Μαύρας, καὶ τοῦ Ἁγίου Πέτρου, Ἐπισκόπου Ἄργους, τοῦ θαυματουργοῦ."
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -170,7 +170,7 @@ meMA.Kontakion2.mode = misc_gr_GR_cog.Mode4
 meMA.Kontakion2.melody = he.a.m4_gr_GR_cog.OYpsotheisEnToStavro.name
 meMA.Kontakion2.text = "Τῷ Κορυφαίῳ τῶν σοφῶν Ἀποστόλων, συνωνυμήσας εὐκλεῶς Πάτερ Πέτρε, τῶν τούτου κατετρύφησας ἁγίων δωρεῶν· ζήλῳ γὰρ τῆς πίστεως, εὐσεβῶς διαπρέψας, θαύμασιν ἐκόσμησας, τὸν σὸν ἔνθεον βίον· Ἱερουργὲ τῆς δόξης τοῦ Χριστοῦ, τοὺς σὲ τιμῶντας, κινδύνων διάσῳζε."
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C11.ode = misc_gr_GR_cog.Ode7
 meMA.Ode7C11.mode = misc_gr_GR_cog.Mode6
@@ -252,19 +252,17 @@ meMA.Ode9H.mode = misc_gr_GR_cog.Mode6
 meMA.Ode9H.melody = misc_gr_GR_cog.Heirmos
 meMA.Ode9H.text = he.h.m6_gr_GR_cog.TheonAnthropois.text
 
-meMA.LaudsSundayVerse1.text = ""
-
-meMA.LaudsSundayVerse2.text = ""
+meMA.MM.LaudsSunday.text = properties_gr_GR_cog.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.text = meMA.Kontakion1.text
 
 meLI.SeasonalKontakion.mode = misc_gr_GR_cog.Mode2
-meLI.SeasonalKontakion.melody  = ""
-meLI.SeasonalKontakion.text  = ""
+meLI.SeasonalKontakion.melody = ""
+meLI.SeasonalKontakion.text = ""
 
-meLI.CommunionHymn.text = ""
+meLI.MM.CommunionHymn.text = properties_gr_GR_cog.media.key
 
 meMegalynarion.text = ""
 

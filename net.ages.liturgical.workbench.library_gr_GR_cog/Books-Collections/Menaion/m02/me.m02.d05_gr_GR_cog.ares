@@ -9,7 +9,7 @@ meNote.text = ""
 meLE.commemoration1 = "Μνήμη τῆς Ἁγίας Μάρτυρος Ἀγάθης."
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -41,12 +41,12 @@ meVE.Stichera06.text = "Ὅρμημα ἀκάθεκτον, πυρὸς αἰτ�
 
 meVE.SticGlory.poet = poets_gr_GR_cog.Sykeotou
 meVE.SticGlory.mode = misc_gr_GR_cog.Mode8
-meVE.SticGlory.melody  = ""
+meVE.SticGlory.melody = ""
 meVE.SticGlory.text = "Παράδοξον θαῦμα γέγονεν, ἐν τῇ ἀθλήσει τῆς πανενδόξου Ἀγάθης, καὶ Μάρτυρος Χριστοῦ τοῦ Θεοῦ, ἐφάμιλλον τῷ Μωϋσεῖ· ἐκεῖνος γάρ, τὸν λαὸν νομοθετῶν ἐν τῷ ὄρει, τὰς ἐγγραφείσας ἐν πλαξὶ θεοχαράκτους Γραφὰς ἐδέξατο, ἐνταῦθα δὲ ὁ Ἄγγελος, οὐρανόθεν τῷ τάφῳ πλάκα ἐπεκόμισεν ἐγγεγραμμένην· Νοῦς ὅσιος, αὐτοπροαίρετος, τιμὴ ἐκ Θεοῦ, καὶ πατρίδος λύτρωσις."
 
 meVE.SticBoth.poet = poets_gr_GR_cog.AndreouKritis
 meVE.SticBoth.mode = misc_gr_GR_cog.Mode8
-meVE.SticBoth.melody  = ""
+meVE.SticBoth.melody = ""
 meVE.SticBoth.text = me.m02.d02_gr_GR_cog.meVE.AposGlory.text 
 
 meVE.Aposticha1.mode = misc_gr_GR_cog.Mode1
@@ -67,11 +67,11 @@ meVE.Aposticha3.text = "Ἡ πύλη ἡ ἔμψυχος Ἁγνή, ἡ Παρ
 
 meVE.AposGlory.poet = poets_gr_GR_cog.AndreouKritis
 meVE.AposGlory.mode = misc_gr_GR_cog.Mode4
-meVE.AposGlory.melody  = ""
+meVE.AposGlory.melody = ""
 meVE.AposGlory.text = me.m02.d02_gr_GR_cog.meVE.Lity8.text 
 
 meVE.Apolytikion1.mode = misc_gr_GR_cog.Mode1
-meVE.Apolytikion1.melody  = ""
+meVE.Apolytikion1.melody = ""
 meVE.Apolytikion1.text = me.m02.d02_gr_GR_cog.meVE.Apolytikion1.text 
 
 meVE.Apolytikion2.poet = poets_gr_GR_cog.Gerasimou
@@ -229,7 +229,7 @@ meMA.Kontakion1.text = "Στολιζέσθω σήμερον, ἡ Ἐκκλησ
 
 meMA.Oikos1.text = "Τῷ τῆς ἁγνείας κάλλει περιαστράπτουσα, παρθένος ὤφθης ἐκλεκτή, καὶ περίβλεποτς ἐν πᾶσι, τῇ τοῦ σώματος ὡραιότητι, τὴν τῆς ψυχῆς καλλονὴν καὶ εὐμορφίαν ὑπερφαίνουσα, ἀγαθώνυμε κόρη, Ἀγάθη παμμακάριστε· καὶ πλοῦτον φθαρτόν, καὶ δόξαν εὐμάραντον, καὶ τὰ τοῦ κόσμου ἡδέα, ὡς ὄναρ λελόγισαι, δι' ἀγάπην τὴν ἔνθεον· καὶ τὸν Σταυρὸν τοοῦ Χριστοῦ ἄρασα, ἀθλητικῶς αὐτῷ ἠκολούθησας, σῶμα ἁπαλὸν ὑπεριδοῦσα, καὶ πυρὸς καὶ σιδήρου ἀνωτέρα φανεῖσα, ἐθριάμβευσας ἐχθροῦ πᾶσαν τὴν δύναμιν, ἐν τῇ ἄνωχαῖρε Κατάνης τὸ καύχημα."
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C1H.ode = misc_gr_GR_cog.Ode7
 meMA.Ode7C1H.mode = misc_gr_GR_cog.Mode2
@@ -314,21 +314,15 @@ meMA.Exaposteilarion2.mode = misc_gr_GR_cog.Mode2
 meMA.Exaposteilarion2.melody = he.a.m2_gr_GR_cog.GynaikesAkoutisthite.name
 meMA.Exaposteilarion2.text = "Πληρῶν σου τὴν ἀπόῤῥητον, οἰκονομίαν Κύριε, ἐν τῷ ναῷ προσηνέχθης, ὑπὸ Μητρὸς ἀπειράνδρου, ἰδὼν δὲ σε ἐκραύγαζεν, ὁ Πρέσβυς· Νῦν ἀπόλυσον, τὸν δοῦλόν σου ὦ Δέσποτα· Σωτὴρ γὰρ ἦλθες τοῦ κόσμου, τὸ πατρικὸν φῶς Χριστέ μου."
 
-meMA.LaudsSundayVerse1.text = ""
-
-meMA.LaudsSundayVerse2.text = ""
+meMA.MM.LaudsSunday.text = properties_gr_GR_cog.media.key
 
 meMA.Aposticha1.mode = misc_gr_GR_cog.Mode2
 meMA.Aposticha1.melody = he.a.m2_gr_GR_cog.OikosTouEfratha.name
 meMA.Aposticha1.text = "Φόβῳ τε καὶ χαρᾷ, ἀγκάλαις τὸν Δεσπότην, ὁ Συμεὼν κατέχων, ζωῆς ᾐτεῖτο λύσιν, ὑμνῶν τὴν Θεομήτορα."
 
-meMA.ApostichaVerse2.text = "Νῦν ἀπολύεις τὸν δοῦλόν σου Δέσποτα, κατὰ τὸ ῥῆμά σου ἐν εἰρήνῃ· ὅτι εἶδον οἱ ὀφθαλμοί μου, τὸ σωτήριόν σου, ὃ ἡτοίμασας κατὰ πρόσωπον πάντων τῶν λαῶν."
-
 meMA.Aposticha2.mode = misc_gr_GR_cog.Mode2
 meMA.Aposticha2.melody = he.a.m2_gr_GR_cog.OikosTouEfratha.name
 meMA.Aposticha2.text = "Νῦν με πρὸς τὴν ζωήν, ἀπόλυσον τὴν ὄντως, ὁ Συμεὼν ἐβόα· Σωτήρ μου, εἶδον γὰρ σε, τὸ φῶς τοῦ κόσμου Δέσποτα."
-
-meMA.ApostichaVerse3.text = "Φῶς, εἰς ἀποκάλυψιν ἐθνῶν, καὶ δόξαν λαοῦ σου Ἰσραήλ."
 
 meMA.Aposticha3.mode = misc_gr_GR_cog.Mode2
 meMA.Aposticha3.melody = he.a.m2_gr_GR_cog.OikosTouEfratha.name
@@ -345,7 +339,7 @@ meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.text = meMA.Kontakion1.text
 
 meLI.SeasonalKontakion.mode = misc_gr_GR_cog.Mode1
-meLI.SeasonalKontakion.melody  = ""
+meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = me.m02.d02_gr_GR_cog.meMA.Kontakion1.text
 
 meMegalynarion.text = ""

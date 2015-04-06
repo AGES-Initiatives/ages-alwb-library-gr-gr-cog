@@ -178,7 +178,7 @@ meMA.Kathisma3T.mode = misc_gr_GR_cog.Mode8
 meMA.Kathisma3T.melody = he.a.m8_gr_GR_cog.TinSofianKaiLogon.name
 meMA.Kathisma3T.text = "Τὴν ἁγίαν μορφήν σου ἑωρακώς, ὡς ὑπάρχει Παρθένε ἐν τῇ Σιών, ὁ θεῖος Παΐσιος, ἐν τῷ Ὄρει ἐδίδαξε, τοῖς εἰκονογράφοις, ποιεῖν ἐν πιστότητι, καὶ πολλήν σου χάριν, ἐκήρυττεν ἅπασιν· ὅθεν Θεοτόκε, μὴ ἐλλείπῃς ἀπαύστως, Χριστὸν ἱκετεύουσα, ὑπὲρ πάντων τῶν δούλων σου, τῶν ὑμνούντων τὸν τόκον σου, καὶ πάντας τοὺς ἁγίους αὐτοῦ, ἐν οἷς ἔστι, ἁγνὴ καὶ ὁ ὅσιος, ὁ τιμώμενος ὕμνοις, ὑπὸ πάντων τὴν σήμερον."
 
-meMA.Prokeimenon.text = "" // for media
+meMA.MM.Prokeimenon.text = properties_gr_GR_cog.media.key
 
 meMA.PostGospelGlory.mode = misc_gr_GR_cog.Mode2
 meMA.PostGospelGlory.melody = ""
@@ -781,9 +781,7 @@ meMA.LaudsTheotokion.mode = misc_gr_GR_cog.Mode8
 meMA.LaudsTheotokion.melody = ""
 meMA.LaudsTheotokion.text = oc.m8.d2_gr_GR_cog.ocMA.AposTheotokion.text
 
-meMA.LaudsSundayVerse1.text = ""
-
-meMA.LaudsSundayVerse2.text = ""
+meMA.MM.LaudsSunday.text = properties_gr_GR_cog.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
@@ -802,7 +800,7 @@ alt1.meNote.text = ""
 alt1.meLE.commemoration1 = "Μνήμη τῶν Ἁγίων Πατέρων Πρόκλου καὶ Ἱλαρίου."
 alt1.meLE.commemoration2 = ""
 alt1.meHO.number = ""
-alt1.meHO.rank  = ""
+alt1.meHO.rank = ""
 alt1.meHO.commemorations = ""
 alt1.meHO.note1 = ""
 alt1.meHO.note2 = ""
@@ -971,7 +969,7 @@ alt1.meMA.Ode6H.mode = misc_gr_GR_cog.Mode4
 alt1.meMA.Ode6H.melody = misc_gr_GR_cog.Heirmos
 alt1.meMA.Ode6H.text = he.h.m4_gr_GR_cog.IlthonEisTaVathi.text
 
-alt1.meMA.Synaxarion.text  = ""
+alt1.meMA.Synaxarion.text = ""
 
 alt1.meMA.Ode7C11.ode = misc_gr_GR_cog.Ode7
 alt1.meMA.Ode7C11.mode = misc_gr_GR_cog.Mode4
@@ -1063,7 +1061,7 @@ alt1.meLI.Kontakion1.melody = ""
 alt1.meLI.Kontakion1.text = ""
 
 alt1.meLI.SeasonalKontakion.mode = misc_gr_GR_cog.Mode2
-alt1.meLI.SeasonalKontakion.melody  = ""
+alt1.meLI.SeasonalKontakion.melody = ""
 alt1.meLI.SeasonalKontakion.text = ho.s07_gr_GR_cog.hoTY.Key0408.text
 
 alt1.meMegalynarion.text = ""

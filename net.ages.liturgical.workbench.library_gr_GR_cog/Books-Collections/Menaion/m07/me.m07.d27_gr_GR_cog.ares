@@ -122,7 +122,7 @@ meMA.Kathisma3T.mode = misc_gr_GR_cog.Mode4
 meMA.Kathisma3T.melody = he.a.m4_gr_GR_cog.EpefanisSimeron.name
 meMA.Kathisma3T.text = "Τὰς ἀχράντους χεῖράς σου, Παρθενομῆτορ, ἐφαπλοῦσα σκέπασον, τοὺς πεποιθότας ἐπὶ σέ, καὶ τῷ Υἱῷ σου κραυγάζοντας· Πᾶσι παράσχου Χριστὲ τὰ ἐλέη σου."
 
-meMA.Prokeimenon.text = "" // for media
+meMA.MM.Prokeimenon.text = properties_gr_GR_cog.media.key
 
 meMA.PostGospelGlory.mode = misc_gr_GR_cog.Mode2
 meMA.PostGospelGlory.melody = ""
@@ -559,7 +559,7 @@ meMA.Lauds3.mode = misc_gr_GR_cog.Mode8
 meMA.Lauds3.melody = he.a.m8_gr_GR_cog.OTouParadoxou.name
 meMA.Lauds3.text = "Κάλλει θεόφρον τοῦ σώματος, τὴν ψυχικὴν καλλονήν, εὐθυβόλως ἀντέθηκας, καὶ φρενῶν εὐπρέπειαν, τῆς σαρκὸς ὡραιότητι, καὶ τοὺς ὁρῶντας Μάρτυς κατέπληξας, τερατουργίαις λάμπων καὶ θαύμασιν, ἄνθει νεότητος, πρεσβυτέρων σύνεσιν, προσειληφώς, πίστει τε καὶ χάριτι, καταλαμπόμενος."
 
-meMA.LaudsSundayVerse1.text = "" // for media
+meMA.MM.LaudsSunday.text = properties_gr_GR_cog.media.key
 
 meMA.LaudsGlory.poet = poets_gr_GR_cog.Vyzantiou
 meMA.LaudsGlory.mode = misc_gr_GR_cog.Mode4

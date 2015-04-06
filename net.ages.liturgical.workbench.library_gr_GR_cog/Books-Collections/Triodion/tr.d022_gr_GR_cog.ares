@@ -29,7 +29,7 @@ trVE.Stichera04.mode = misc_gr_GR_cog.Mode6
 trVE.Stichera04.melody = he.a.m6_gr_GR_cog.OlinApothemenoi.name
 trVE.Stichera04.text = "Ἀδὰμ ἐξωστράκισται, παρακοῇ Παραδείσου, καὶ τρυφῆς ἐκβέβληται, γυναικὸς τοῖς ῥήμασιν ἀπατώμενος, καὶ γυμνὸς κάθηται, τοῦ χωρίου οἴμοι! ἐναντίον ὀδυρόμενος. Διὸ σπουδάσωμεν, πάντες τὸν καιρὸν ὑποδέξασθαι, νηστείας ὑπακούοντες, εὐαγγελικῶν παραδόσεων, ἵνα διὰ τούτων, εὐάρεστοι γενόμενοι Χριστῷ, τοῦ Παραδείσου τὴν οἴκησιν, πάλιν ἀπολάβωμεν."
 
-trVE.Stichera567.text = "" //for media
+trVE.MM.Stichera123as567.text = properties_gr_GR_cog.media.key
 
 trVE.SticGlory.mode = misc_gr_GR_cog.Mode6
 trVE.SticGlory.melody = misc_gr_GR_cog.Idiomelon
@@ -40,7 +40,7 @@ trVE.LityGlory.melody = misc_gr_GR_cog.Idiomelon
 trVE.LityGlory.text = "Ἥλιος ἀκτῖνας ἔκρυψεν, ἡ σελήνη σὺν τοῖς ἄστροις εἰς αἷμα μετετράπη· ὄρη ἔφριξαν, βουνοὶ ἐτρόμαξαν, ὅτε Παράδεισος ἐκλείσθη. Ἐκβαίνων ὁ Ἀδάμ, χερσὶ τύπτων τὰς ὄψεις, ἔλεγεν· Ἐλεῆμον, ἐλέησόν με τὸν παραπεσόντα."
 
 trVE.LityBoth.mode = misc_gr_GR_cog.Mode6
-trVE.LityBoth.melody  = ""
+trVE.LityBoth.melody = ""
 trVE.LityBoth.text = "Μυστικῶς ἀνυμνοῦμέν σε, Θεοτόκε Μαρία· ἀνεδείχθης γὰρ θρόνος τοῦ μεγάλου Βασιλέως, σκηνὴ παναγία, τῶν οὐρανῶν πλατυτέρα, Χερουβὶμ ἅρμα, ἀνωτέρα δὲ τῶν Σεραφίμ, νυμφὼν δόξης· ἐκ σοῦ γὰρ προῆλθε, σαρκωθεὶς ὁ πάντων Θεός. Αὐτὸν ἱκέτευε, σωθῆναι τὰς ψυχὰς ἡμῶν."
 
 trVE.AposGlory.mode = misc_gr_GR_cog.Mode6
@@ -48,19 +48,19 @@ trVE.AposGlory.melody = misc_gr_GR_cog.Idiomelon
 trVE.AposGlory.text = "Ἐξεβλήθη Ἀδὰμ τοῦ Παραδείσου, διὰ τῆς βρώσεως· διὸ καὶ καθεζόμενος ἀπέναντι τούτου, ὠδύρετο, ὁλολύζων, ἐλεεινῇ τῇ φωνῇ, καὶ ἔλεγεν· Οἴμοι, τί πέπονθα ὁ τάλας ἐγώ! μίαν ἐντολὴν παρέβην τὴν τοῦ Δεσπότου, καὶ τῶν ἀγαθῶν παντοίων ἐστέρημαι. Παράδεισε ἁγιώτατε, ὁ δι' ἐμὲ πεφυτευμένος, καὶ διὰ τὴν Εὔαν κεκλεισμένος, ἱκέτευε τῷ σὲ ποιήσαντι, κᾀμὲ πλάσαντι, ὅπως τῶν σῶν ἀνθέων πλησθήσωμαι. Διὸ καὶ πρὸς αὐτὸν ὁ Σωτήρ· Τὸ ἐμὸν πλάσμα οὐ θέλω ἀπολέσθαι, ἀλλὰ βούλομαι τοῦτο σῴζεσθαι, καὶ εἰς ἐπίγνωσιν ἀληθείας ἐλθεῖν, ὅτι τὸν ἐρχόμενον πρός με, οὐ μὴ ἐκβάλλω ἔξω."
 
 trVE.AposTheotokion.mode = misc_gr_GR_cog.Mode6
-trVE.AposTheotokion.melody  = ""
+trVE.AposTheotokion.melody = ""
 trVE.AposTheotokion.text = oc.m6.d1_gr_GR_cog.ocVE.AposTheotokion.text
 
 trMA.PostGospelGlory.mode = misc_gr_GR_cog.Mode8
-trMA.PostGospelGlory.melody  = ""
+trMA.PostGospelGlory.melody = ""
 trMA.PostGospelGlory.text = tr.d001_gr_GR_cog.trMA.PostGospelGlory.text
 
 trMA.PostGospelBoth.mode = misc_gr_GR_cog.Mode8
-trMA.PostGospelBoth.melody  = ""
+trMA.PostGospelBoth.melody = ""
 trMA.PostGospelBoth.text = tr.d001_gr_GR_cog.trMA.PostGospelBoth.text
 
 trMA.PostGospelIdiomelon.mode = misc_gr_GR_cog.Mode6
-trMA.PostGospelIdiomelon.melody  = ""
+trMA.PostGospelIdiomelon.melody = ""
 trMA.PostGospelIdiomelon.text = tr.d001_gr_GR_cog.trMA.PostGospelIdiomelon.text
 
 trMA.C1Poet = poets_gr_GR_cog.ChristoforouTouProtasikritou
@@ -331,12 +331,12 @@ trMA.LaudsGlory.mode = misc_gr_GR_cog.Mode6
 trMA.LaudsGlory.melody = misc_gr_GR_cog.Idiomelon
 trMA.LaudsGlory.text = "Ἔφθασε καιρός, ἡ τῶν πνευματικῶν ἀγώνων ἀρχή, ἡ κατὰ τῶν δαιμόνων νίκη, ἡ πάνοπλος ἐγκράτεια, ἡ τῶν Ἀγγέλων εὐπρέπεια, ἡ πρὸς Θεὸν παρρησία· δι' αὐτῆς γὰρ Μωϋσῆς, γέγονε τῷ Κτίστῃ συνόμιλος, καὶ φωνὴν ἀοράτως, ἐν ταῖς ἀκοαῖς ὑπεδέξατο· Κύριε, δι' αὐτῆς ἀξίωσον καὶ ἡμᾶς, προσκυνῆσαί σου τὰ Πάθη καὶ τὴν ἁγίαν Ἀνάστασιν, ὡς φιλάνθρωπος."
 
-trMA.LaudsTheotokion.mode  = ""
-trMA.LaudsTheotokion.melody  = ""
+trMA.LaudsTheotokion.mode = ""
+trMA.LaudsTheotokion.melody = ""
 trMA.LaudsTheotokion.text = oc.m2.d1_gr_GR_cog.ocMA.Kathisma23.text
 
 trLI.SeasonalKontakion.mode = misc_gr_GR_cog.Mode6
-trLI.SeasonalKontakion.melody  = ""
+trLI.SeasonalKontakion.melody = ""
 trLI.SeasonalKontakion.text = trMA.Kontakion1.text
 
 trMegalynarion.text = ""

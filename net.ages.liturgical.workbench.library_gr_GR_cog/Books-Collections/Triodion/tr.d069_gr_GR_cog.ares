@@ -46,7 +46,7 @@ trLI.TheotokosHymn.text = oc.m8.d1_gr_GR_cog.ocMA.Kathisma23.text
 
 trLI.CommunionHymn.text = "Τοῦ Δείπνου σου τοῦ μυστικοῦ, σήμερον Υἱὲ Θεοῦ, κοινωνόν με παράλαβε· οὐ μὴ γὰρ τοῖς ἐχθροῖς σου τὸ Μυστήριον εἴπω, οὐ φίλημά σοι δώσω, καθάπερ ὁ Ἰούδας, ἀλλ' ὡς ὁ Λῃστὴς ὁμολογῶ σοι. Μνήσθητί μου Κύριε, ὅταν ἔλθῃς ἐν τῇ Βασιλείᾳ σου."
 
-trLI.AfterCommunion.mode  = ""
+trLI.AfterCommunion.mode = ""
 trLI.AfterCommunion.text = trLI.CommunionHymn.text
 
 // Foot Washing
@@ -76,10 +76,10 @@ trHW.NiptirIdiomelon6.text = "Νυσταγμῷ διαβολικῷ, συσχε�
 
 // Holy Thursday night
 
-trHW.Alleluia.text = "" //for media
+trHW.Alleluia.text = properties_gr_GR_cog.media.key
 
 trHW.Troparion.mode = misc_gr_GR_cog.Mode8
-trHW.Troparion.melody  = ""
+trHW.Troparion.melody = ""
 trHW.Troparion.text = tr.d068_gr_GR_cog.trHW.Troparion.text
 
 trHW.Antiphon01.title = "Ἀντίφωνον Αʹ."
@@ -328,7 +328,7 @@ trHW.BeatitudesT.mode = misc_gr_GR_cog.Mode4
 trHW.BeatutidesT.melody = he.a.m4_gr_GR_cog.DiaXylouOAdam.name
 trHW.BeatitudesT.text = "Τὴν Μητέρα σου Χριστέ, τὴν ἐν σαρκὶ ἀσπόρως τεκοῦσάν σε, καὶ Παρθένον ἀληθῶς, καὶ μετὰ τόκον μείνασαν ἄφθορον, αὐτήν σοι προσάγομεν, εἰς πρεσβείαν Δέσποτα πολυέλεε, πταισμάτων συγχώρησιν, δωρήσασθαι πάντοτε, τοῖς κραυγάζουσι· Μνήσθητι καὶ ἡμῶν Σωτήρ, ἐν τῇ Βασιλείᾳ σου."
 
-trHW.Prokeimenon.text = "" //for media
+trHW.Prokeimenon.text = properties_gr_GR_cog.media.key
 
 trMA.C1Poet = poets_gr_GR_cog.KosmaMonachou
 trMA.C1Acrostic.text = "οὗ ἡ Ἀκροστιχίς· Προσάββατόν τε."
@@ -354,7 +354,7 @@ trMA.Ode5K.melody = misc_gr_GR_cog.Heirmos
 trMA.Ode5K.text = he.h.m6_gr_GR_cog.ProsSeOrthrizo.text
 
 trMA.Kontakion1.mode = misc_gr_GR_cog.Mode8
-trMA.Kontakion1.melody  = ""
+trMA.Kontakion1.melody = ""
 trMA.Kontakion1.text = "Τὸν δι' ἡμᾶς σταυρωθέντα, δεῦτε πάντες ὑμνήσωμεν· αὐτὸν γὰρ κατεῖδε Μαρία ἐπὶ τοῦ ξύλου, καὶ ἔλεγεν· Εἰ καὶ σταυρὸν ὑπομένεις, σὺ ὑπάρχεις ὁ Υἱὸς καὶ Θεός μου."
 
 trMA.Oikos1.text = "Τὸν ἴδιον Ἄρνα, ἡ ἀμνὰς θεωροῦσα πρὸς σφαγὴν ἑλκόμενον, ἠκολούθει Μαρία, τρυχομένη μεθ' ἑτέρων γυναικῶν, ταῦτα βοῶσα· Ποῦ πορεύῃ Τέκνον, τίνος χάριν, τόν ταχὺν δρόμον τελεῖς; μὴ ἕτερος γάμος πάλιν ἐστὶν ἐν Κανᾷ; Κᾀκεὶ νῦν σπεύδεις, ἵνα ἐξ ὕδατος αὐτοῖς οἶνον ποιήσης; συνέλθω σοι Τέκνον, ἢ μείνω σοι μᾶλλον; δός μοι λόγον Λόγε, μὴ σιγῶν παρέλθῃς με, ὁ ἁγνὴν τηρήσας με· σὺ γὰρ ὑπάρχεις ὁ Υἱὸς καὶ Θεός μου."
@@ -432,7 +432,7 @@ trMA.Exaposteilarion1.mode = misc_gr_GR_cog.Mode3
 trMA.Exaposteilarion1.melody = misc_gr_GR_cog.Automelon
 trMA.Exaposteilarion1.text = he.a.m3_gr_GR_cog.TonListinAfthimeron.text
 
-trHW.Lauds01.text = ""//for media
+trHW.Lauds01.text = properties_gr_GR_cog.media.key
 
 trMA.Lauds1.mode = misc_gr_GR_cog.Mode3
 trMA.Lauds1.melody = misc_gr_GR_cog.Idiomelon
@@ -499,15 +499,15 @@ trH1.Theotokion.mode = misc_gr_GR_cog.Mode1
 trH1.Theotokion.text = ho.s04_gr_GR_cog.hoH1.Theotokion.text
 
 trH1.Idiomelon1.mode = misc_gr_GR_cog.Mode8
-trH1.Idiomelon1.melody  = ""
+trH1.Idiomelon1.melody = ""
 trH1.Idiomelon1.text = trHW.Antiphon122.text
 
 trH1.Idiomelon2.mode = misc_gr_GR_cog.Mode8
-trH1.Idiomelon2.melody  = ""
+trH1.Idiomelon2.melody = ""
 trH1.Idiomelon2.text = "Ὡς πρόβατον ἐπὶ σφαγήν, ἤχθης Χριστὲ Βασιλεῦ, καὶ ὡς ἀμνὸς ἄκακος, προσηλώθης τῷ σταυρῷ, ὑπὸ τῶν παρανόμων ἀνδρῶν, διὰ τὰς ἁμαρτίας ἡμῶν φιλάνθρωπε."
 
 trH1.Idiomelon3.mode = misc_gr_GR_cog.Mode8
-trH1.Idiomelon3.melody  = ""
+trH1.Idiomelon3.melody = ""
 trH1.Idiomelon3.text = trHW.Antiphon071.text
 
 trH1.Kontakion.mode = misc_gr_GR_cog.Mode8

@@ -21,7 +21,7 @@ trVE.Stichera02.mode = misc_gr_GR_cog.Mode1
 trVE.Stichera02.melody = misc_gr_GR_cog.Idiomelon
 trVE.Stichera02.text = "Ἐπιγνῶμεν ἀδελφοὶ τοῦ μυστηρίου τὴν δύναμιν· τὸν γὰρ ἐκ τῆς ἁμαρτίας, πρὸς τὴν πατρικὴν ἑστίαν, ἀναδραμόντα, Ἄσωτον Υἱὸν ὁ πανάγαθος Πατήρ, προϋπαντήσας ἀσπάζεται, καὶ πάλιν τῆς οἰκείας δόξης, χαρίζεται τὰ γνωρίσματα, καὶ μυστικὴν τοῖς ἄνω ἐπιτελεῖ ευφροσύνην, θύων τὸν μόσχον τὸν σιτευτόν, ἵνα ἡμεῖς ἀξίως πολιτευσώμεθα, τῷ τε θύσαντι φιλανθρώπῳ Πατρί, καὶ τῷ ἐνδόξῳ θύματι, τῷ Σωτῆρι τῶν ψυχῶν ἡμῶν. "
 
-trVE.Stichera567.text = "" //for media
+trVE.MM.Stichera123as567.text = properties_gr_GR_cog.media.key
 
 trVE.SticGlory.mode = misc_gr_GR_cog.Mode2
 trVE.SticGlory.melody = misc_gr_GR_cog.Idiomelon
@@ -32,19 +32,19 @@ trVE.AposGlory.melody = misc_gr_GR_cog.Idiomelon
 trVE.AposGlory.text = "Τῆς πατρικῆς δωρεὰς διασκορπίσας τὸν πλοῦτον, ἀλόγοις συνεβοσκόμην ὁ τάλας κτήνεσι, καὶ τῆς αὐτῶν ὀρεγόμενος τροφῆς ἐλίμωττον μὴ χορταζόμενος, ἀλλ' ὑποστρέψας πρὸς τὸν εὔσπλαγχνον Πατέρα, κραυγάζω σὺν δάκρυσι· Δέξαι με ὡς μίσθιον, προσπίπτοντα τῇ φιλανθρωπίᾳ σου, καὶ σῶσόν με."
 
 trVE.AposTheotokion.mode = misc_gr_GR_cog.Mode6
-trVE.AposTheotokion.melody  = ""
+trVE.AposTheotokion.melody = ""
 trVE.AposTheotokion.text = oc.m6.d1_gr_GR_cog.ocVE.AposTheotokion.text
 
 trMA.PostGospelGlory.mode = misc_gr_GR_cog.Mode8
-trMA.PostGospelGlory.melody  = ""
+trMA.PostGospelGlory.melody = ""
 trMA.PostGospelGlory.text = tr.d001_gr_GR_cog.trMA.PostGospelGlory.text
 
 trMA.PostGospelBoth.mode = misc_gr_GR_cog.Mode8
-trMA.PostGospelBoth.melody  = ""
+trMA.PostGospelBoth.melody = ""
 trMA.PostGospelBoth.text = tr.d001_gr_GR_cog.trMA.PostGospelBoth.text
 
 trMA.PostGospelIdiomelon.mode = misc_gr_GR_cog.Mode6
-trMA.PostGospelIdiomelon.melody  = ""
+trMA.PostGospelIdiomelon.melody = ""
 trMA.PostGospelIdiomelon.text = tr.d001_gr_GR_cog.trMA.PostGospelIdiomelon.text
 
 trMA.C1Poet = poets_gr_GR_cog.KyriouIosif
@@ -303,21 +303,21 @@ trMA.LaudsGlory.mode = misc_gr_GR_cog.Mode6
 trMA.LaudsGlory.melody = misc_gr_GR_cog.Idiomelon
 trMA.LaudsGlory.text = "Πάτερ ἀγαθέ, ἐμακρύνθην ἀπὸ σοῦ μὴ ἐγκαταλίπῃς με, μηδὲ ἀχρεῖον δείξῃς τῆς βασιλείας σου· ὁ ἐχθρὸς ὁ παμπόνηρος ἐγύμνωσέ με, καὶ ᾖρέ μου τὸν πλοῦτον· τῆς ψυχῆς τὰ χαρίσματα ἀσώτως διεσκόρπισα, ἀναστὰς οὖν, ἐπιστρέψας πρὸς σὲ ἐκβοῶ· Ποίησόν με ὡς ἕνα τῶν μισθίων σου, ὁ δι' ἐμὲ ἐν Σταυρῷ τὰς ἀχράντους σου χεῖρας ἁπλώσας, ἵνα τοῦ δεινοῦ θηρὸς ἀφαρπάσῃς με, καὶ τὴν πρώτην καταστολὴν ἐπενδύσῃς με, ὡς μόνος πολυέλεος."
 
-trMA.LaudsTheotokion.mode  = ""
-trMA.LaudsTheotokion.melody  = ""
+trMA.LaudsTheotokion.mode = ""
+trMA.LaudsTheotokion.melody = ""
 trMA.LaudsTheotokion.text = oc.m2.d1_gr_GR_cog.ocMA.Kathisma23.text
 
 trLI.SeasonalKontakion.mode = misc_gr_GR_cog.Mode3
 trLI.SeasonalKontakion.melody = he.a.m3_gr_GR_cog.IParthenosSimeron.name
 trLI.SeasonalKontakion.text = trMA.Kontakion1.text
 
-trLI.Alleluia.mode  = ""
+trLI.Alleluia.mode = ""
 
 trLI.AlleluiaVerse1.text = ""
 
 trLI.AlleluiaVerse2.text = ""
 
-trLI.CommunionHymn.text = ""
+trLI.MM.CommunionHymn.text = properties_gr_GR_cog.media.key
 
 trMegalynarion.text = ""
 

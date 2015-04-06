@@ -13,19 +13,19 @@ trHO.note1 = ""
 trHO.note2 = ""
 
 trVE.Stichera01.mode = misc_gr_GR_cog.Mode1
-trVE.Stichera01.melody  = ""
+trVE.Stichera01.melody = ""
 trVE.Stichera01.text = oc.m1.d1_gr_GR_cog.ocVE.Stichera1.text
 
 trVE.Stichera02.mode = misc_gr_GR_cog.Mode1
-trVE.Stichera02.melody  = ""
+trVE.Stichera02.melody = ""
 trVE.Stichera02.text = oc.m1.d1_gr_GR_cog.ocVE.Stichera2.text
 
 trVE.Stichera03.mode = misc_gr_GR_cog.Mode1
-trVE.Stichera03.melody  = ""
+trVE.Stichera03.melody = ""
 trVE.Stichera03.text = oc.m1.d1_gr_GR_cog.ocVE.Stichera3.text
 
 trVE.Stichera04.mode = misc_gr_GR_cog.Mode1
-trVE.Stichera04.melody  = ""
+trVE.Stichera04.melody = ""
 trVE.Stichera04.text = oc.m1.d1_gr_GR_cog.ocVE.Aposticha1.text
 
 trVE.Stichera05.mode = misc_gr_GR_cog.Mode8
@@ -45,15 +45,15 @@ trVE.SticGlory.melody = misc_gr_GR_cog.Idiomelon
 trVE.SticGlory.text = tr.d070_gr_GR_cog.trMA.LaudsGlory.text
 
 trVE.SticTheotokion.mode = misc_gr_GR_cog.Mode1
-trVE.SticTheotokion.melody  = ""
+trVE.SticTheotokion.melody = ""
 trVE.SticTheotokion.text = oc.m1.d1_gr_GR_cog.ocVE.SticTheotokion.text
 
 // Hymn of the Three Servants
 trHW.SaturdayHymn.title = "Ὗμνος τῶν Τριῶν Ἁγίων Παίδων"
 trHW.SaturdayHymn.mode = misc_gr_GR_cog.Mode1
-trHW.SaturdayHymn.text = "" //for media
+trHW.SaturdayHymn.text = properties_gr_GR_cog.media.key
 
-trHW.SaturdayArise.text = "" //for media
+trHW.SaturdayArise.text = properties_gr_GR_cog.media.key
 
 trHW.CherubicHymn.title = "Ἀντὶ τοῦ συνήθους Χερουβικοῦ."
 trHW.CherubicHymn.mode = misc_gr_GR_cog.Mode5
@@ -63,7 +63,7 @@ trHW.CherubicHymnPart2.text = "Τὰ πολυόμματα Χερουβίμ, κ
 trHW.TheotokosHymn.mode = misc_gr_GR_cog.Mode8
 trHW.TheotokosHymn.text = oc.m8.d1_gr_GR_cog.ocMA.Kathisma23.text
 
-trHW.CommunionHymn.text = "" //for media
+trHW.CommunionHymn.text = properties_gr_GR_cog.media.key
 
 trHW.AfterCommunion.mode = misc_gr_GR_cog.Mode3
 trHW.AfterCommunion.text = "Μνήσθητι εὔσπλαγχνε καὶ ἡμῶν, καθὼς ἐμνημόνευσας τοῦ Λῃστοῦ, ἐν τῇ βασιλείᾳ τῶν οὐρανῶν."

@@ -21,7 +21,7 @@ trVE.Stichera02.mode = misc_gr_GR_cog.Mode1
 trVE.Stichera02.melody = misc_gr_GR_cog.Idiomelon
 trVE.Stichera02.text = "Φαρισαῖος κενοδοξίᾳ νικώμενος, καὶ Τελώνης τῇ μετανοίᾳ κλινόμενος, προσῆλθόν σοι τῷ μόνῳ Δεσπότῃ, ἀλλ' ὁ μὲν καυχησάμενος, ἐστερήθη τῶν ἀγαθῶν, ὁ δὲ μὴ φθεγξάμενος, ἠξιώθη τῶν δωρεῶν. Ἐν τούτοις τοῖς στεναγμοῖς, στήριξόν με Χριστὲ ὁ Θεὸς ὡς φιλάνθρωπος."
 
-trVE.Stichera567.text = "" //for media
+trVE.MM.Stichera123as567.text = properties_gr_GR_cog.media.key
 
 trVE.SticGlory.mode = misc_gr_GR_cog.Mode8
 trVE.SticGlory.melody = misc_gr_GR_cog.Idiomelon
@@ -32,19 +32,19 @@ trVE.AposGlory.melody = misc_gr_GR_cog.Idiomelon
 trVE.AposGlory.text = "Βεβαρημένων τῶν ὀφθαλμῶν μου ἐκ τῶν ἀνομιῶν μου, οὐ δύναμαι ἀτενίσαι, καὶ ἰδεῖν τὸν αἰθέρα τοῦ οὐρανοῦ, ἀλλὰ δέξαι με ὡς τὸν Τελώνην, μετανοοῦντα Σωτήρ, καὶ ἐλέησόν με."
 
 trVE.AposTheotokion.mode = oc.m5.d1_gr_GR_cog.ocVE.AposTheotokion.mode
-trVE.AposTheotokion.melody  = ""
+trVE.AposTheotokion.melody = ""
 trVE.AposTheotokion.text = oc.m5.d1_gr_GR_cog.ocVE.AposTheotokion.text
 
 trMA.PostGospelGlory.mode = misc_gr_GR_cog.Mode8
-trMA.PostGospelGlory.melody  = ""
+trMA.PostGospelGlory.melody = ""
 trMA.PostGospelGlory.text = "Τῆς μετανοίας ἄνοιξόν μοι πύλας Ζωοδότα· ὀρθρίζει γὰρ τὸ πνεῦμά μου, πρὸς ναὸν τὸν ἅγιόν σου, ναὸν φέρον τοῦ σώματος, ὅλον ἐσπιλωμένον· ἀλλ' ὡς οἰκτίρμων κάθαρον, εὐσπλάγχνῳ σου ἐλέει."
 
 trMA.PostGospelBoth.mode = misc_gr_GR_cog.Mode8
-trMA.PostGospelBoth.melody  = ""
+trMA.PostGospelBoth.melody = ""
 trMA.PostGospelBoth.text = "Τῆς σωτηρίας εὔθυνόν μοι τρίβους, Θεοτόκε· αἰσχραῖς γὰρ κατερρύπωσα, τὴν ψυχὴν ἁμαρτίαις, ὡς ῥαθύμως τὸν βίον μου, ὅλον ἐκδαπανήσας, ταῖς σαῖς πρεσβείαις ῥῦσαί με, πάσης ἀκαθαρσίας."
 
 trMA.PostGospelIdiomelon.mode = misc_gr_GR_cog.Mode6
-trMA.PostGospelIdiomelon.melody  = ""
+trMA.PostGospelIdiomelon.melody = ""
 trMA.PostGospelIdiomelon.text = "Τὰ πλήθη τῶν πεπραγμένων μοι δεινῶν, ἐννοῶν ὁ τάλας, τρέμω τὴν φοβερὰν ἡμέραν τῆς κρίσεως· ἀλλὰ θαρρῶν εἰς τὸ ἔλεος τῆς εὐσπλαγχνίας σου, ὡς ὁ Δαυῒδ βοῶ σοι· Ἐλέησόν με ὁ Θεός, κατὰ τὸ μέγα σου ἔλεος."
 
 trMA.C1Poet = poets_gr_GR_cog.Georgiou
@@ -391,21 +391,21 @@ trMA.Lauds4.mode = misc_gr_GR_cog.Mode3
 trMA.Lauds4.melody = misc_gr_GR_cog.Idiomelon
 trMA.Lauds4.text = "Τοῦ Φαρισαίου τὴν μεχάλαυχον φωνήν, πιστοὶ μισήσαντες, τοῦ δὲ Τελώνου τὴν εὐκατάνυκτον εὐχὴν ζηλώσαντες, μὴ τὰ ὑψηλὰ φρονῶμεν, ἀλλ' ἑαυτοὺς ταπεινοῦντες, ἐν κατανύξει κράξωμεν· ὁ Θεὸς ἱλάσθητι, ταῖς ἁμαρτίαις ἡμῶν."
 
-trMA.LaudsSundayVerse1.text = "" //needed for media
+trMA.MM.LaudsSunday_i_12as56.text = properties_gr_GR_cog.media.key
 
 trMA.LaudsGlory.mode = misc_gr_GR_cog.Mode8
 trMA.LaudsGlory.melody = misc_gr_GR_cog.Idiomelon
 trMA.LaudsGlory.text = "Ταῖς ἐξ ἔργων καυχήσεσι, Φαρισαῖον δικαιοῦντα ἑαυτὸν κατέκρινας Κύριε, καὶ Τελώνην μετριοπαθήσαντα, καὶ στεναγμοῖς ἱλασμὸν αἰτούμενον, ἐδικαίωσας· οὐ γὰρ προσίεσαι, τοὺς μεγαλόφρονας λογισμούς, καὶ τὰς συντετριμμένας καρδίας, οὐκ ἐξουθενεῖς· διὸ καὶ ἡμεῖς σοὶ προσπίπτομεν, ἐν ταπεινώσει τῷ παθόντι δι' ἡμᾶς· Παράσχου τὴν ἄφεσιν καὶ τὸ μέγα ἔλεος."
 
-trMA.LaudsTheotokion.mode  = ""
-trMA.LaudsTheotokion.melody  = ""
+trMA.LaudsTheotokion.mode = ""
+trMA.LaudsTheotokion.melody = ""
 trMA.LaudsTheotokion.text = oc.m2.d1_gr_GR_cog.ocMA.Kathisma23.text
 
 trLI.SeasonalKontakion.mode = misc_gr_GR_cog.Mode4
 trLI.SeasonalKontakion.melody = he.a.m4_gr_GR_cog.EpefanisSimeron.name
 trLI.SeasonalKontakion.text = trMA.Kontakion0.text
 
-trLI.CommunionHymn.text = ""
+trLI.MM.CommunionHymn.text = properties_gr_GR_cog.media.key
 
 trMegalynarion.text = ""
 

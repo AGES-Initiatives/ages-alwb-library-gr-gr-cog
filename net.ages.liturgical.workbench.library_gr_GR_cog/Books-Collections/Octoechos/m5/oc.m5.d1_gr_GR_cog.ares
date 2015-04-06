@@ -1,16 +1,12 @@
 A_Resource_Whose_Name = oc.m5.d1_gr_GR_cog
 
-ocGE.GlorySticheraric.mode = misc_gr_GR_cog.Mode5 // for mode-specific media
-ocGE.GlorySticheraric.text = prayers_gr_GR_cog.DoxaPatri.text
+ocGE.MM.GlorySticheraric.text = properties_gr_GR_cog.media.key
 
-ocGE.BothSticheraric.mode = misc_gr_GR_cog.Mode5 // for mode-specific media
-ocGE.BothSticheraric.text = prayers_gr_GR_cog.KaiNynKaiAei.text
+ocGE.MM.BothSticheraric.text = properties_gr_GR_cog.media.key
 
-ocGE.GloryHeirmologic.mode = misc_gr_GR_cog.Mode5 // for mode-specific media
-ocGE.GloryHeirmologic.text = prayers_gr_GR_cog.DoxaPatri.text
+ocGE.MM.GloryHeirmologic.text = properties_gr_GR_cog.media.key
 
-ocGE.BothHeirmologic.mode = misc_gr_GR_cog.Mode5 // for mode-specific media
-ocGE.BothHeirmologic.text = prayers_gr_GR_cog.KaiNynKaiAei.text
+ocGE.MM.BothHeirmologic.text = properties_gr_GR_cog.media.key
 
 ocSV.Dogmatic.mode = misc_gr_GR_cog.Mode5
 ocSV.Dogmatic.melody = ""
@@ -32,11 +28,9 @@ ocSV.AposDogmatic.mode = misc_gr_GR_cog.Mode5
 ocSV.AposDogmatic.melody = ""
 ocSV.AposDogmatic.text = "Αἱ περὶ σοῦ προφητεῖαι ἐπληρώθησαν, Παρθένε ἁγνή· ὁ μὲν γάρ σε τῶν Προφητῶν, Πύλην προηγόρευσεν ἐν Ἐδέμ, βλέπουσαν κατὰ ἀνατολάς, ἐν ᾗ οὐδεὶς διῆλθεν, εἰμὴ ὁ σὸς πλαστουργός, καὶ τοῦ κόσμου παντός, ὁ δὲ βάτον πυρὶ φλεγομένην, ὅτι ἐν σοὶ ᾤκησε τὸ πῦρ τῆς Θεότητος, καὶ ἄφλεκτος ἔμεινας, ἄλλος ὄρος ἅγιον, ἐξ οὗ ἐτμήθη λίθος ὁ ἀκρογωνιαῖος, ἄνευ χειρὸς ἀνθρώπου, καὶ ἐπάταξε τὴν εἰκόνα τοῦ νοητοῦ Ναβουχοδονόσορ. Ἀληθῶς μέγα καὶ παράδοξον, τὸ ἐν σοὶ μυστήριον, ὑπάρχει Θεομῆτορ! Διό σε δοξάζομεν· διὰ σοῦ γὰρ γέγονεν, ἡ σωτηρία τῶν ψυχῶν ἡμῶν."
 
-ocVE.LIHC1.mode = misc_gr_GR_cog.Mode5
-ocVE.LIHC1.text = properties_gr_GR_cog.media.key
+ocVE.MM.LIHC1.text = properties_gr_GR_cog.media.key
 
-ocVE.LIHC2.mode = misc_gr_GR_cog.Mode5
-ocVE.LIHC2.text = properties_gr_GR_cog.media.key
+ocVE.MM.LIHC2.text = properties_gr_GR_cog.media.key
 
 ocVE.Stichera1.mode = misc_gr_GR_cog.Mode5
 ocVE.Stichera1.melody = ""
@@ -252,8 +246,7 @@ ocMO.Ode9T.ode = misc_gr_GR_cog.Ode9
 ocMO.Ode9T.melody = he.h.m5_gr_GR_cog.IsaiaChoreve.name
 ocMO.Ode9T.text = "Ὡς ἁγνὴ καὶ ἄμωμος, καὶ παρθένος τέτοκας Υἱόν, λυτρούμενον ἡμᾶς, ἀπὸ πειρασμῶν, Θεὸν ἀναλλοίωτον, ἀλλὰ καὶ νῦν ἄφεσιν ἡμῖν, τῶν παραπτώσεων, τοῦτον δοῦναι καθικέτευε."
 
-ocMA.GodIsTheLord.mode = misc_gr_GR_cog.Mode5
-ocMA.GodIsTheLord.text = ho.s03_gr_GR_cog.hoMA.GodIsTheLord.text
+ocMA.MM.GodIsTheLord.text = properties_gr_GR_cog.media.key
 
 ocMA.Kathisma11.mode = misc_gr_GR_cog.Mode5
 ocMA.Kathisma11.melody = he.a.m5_gr_GR_cog.TonSynanarchonLogon.name
@@ -319,9 +312,8 @@ ocMA.Antiphon33.mode = misc_gr_GR_cog.Mode5
 ocMA.Antiphon33.melody = ""
 ocMA.Antiphon33.text = "Ἁγίῳ Πνεύματι, ζωαρχικὴ ἀξία, ἐξ οὗ πᾶν ζῶον ἐμψυχοῦται, ὡς ἐν Πατρί, ἅμα τε καὶ Λόγῳ."
 
-ocMA.Prokeimenon.text = "Ἀνάστηθι Κύριε ὁ Θεός μου, ὅτι σὺ βασιλεύεις εἰς τοὺς αἰῶνας."
+ocMA.MM.Prokeimenon.text = properties_gr_GR_cog.media.key
 
-ocMA.ProkeimenonVerse.text = "Ἐξομολογήσομαί σοι, Κύριε, ἐν ὅλῃ καρδίᾳ μου."
 
 ocMA.C3Acrostic.text = "οὗ ἡ ἀκροστιχίς· Φῶς ἡ τεκοῦσα, φώτισόν με, Παρθένε."
 
@@ -747,9 +739,9 @@ ocMA.OdeS9C33.ode = misc_gr_GR_cog.Ode9
 ocMA.OdeS9C33.melody = he.h.m5_gr_GR_cog.IsaiaChoreve.name
 ocMA.OdeS9C33.text = "Ἐν θρόνῳ καθήμενος, ὁ Υἱός σου τῷ δεσποτικῷ, χρυσοῖς σε ἐν κροσσωτοῖς, θείαις ἀρεταῖς, φαιδρῶς διαλάμπουσαν, ἐκ δεξιῶν, ἔστησεν αὐτοῦ, νέμων τὰ αἴσια, ὡς Μητρί σοι Παναμώμητε."
 
-ocMA.Lauds01.text = properties_gr_GR_cog.media.key
+ocMA.MM.Lauds01.text = properties_gr_GR_cog.media.key
 
-ocMA.Lauds02.text = properties_gr_GR_cog.media.key
+ocMA.MM.Lauds02.text = properties_gr_GR_cog.media.key
 
 ocMA.Magnificat.mode = misc_gr_GR_cog.Mode5
 ocMA.Magnificat.text = he.h.m6_gr_GR_cog.TinTimioteran.text

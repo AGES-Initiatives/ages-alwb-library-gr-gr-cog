@@ -1,16 +1,12 @@
 A_Resource_Whose_Name = oc.m1.d1_gr_GR_cog
 
-ocGE.GlorySticheraric.mode = misc_gr_GR_cog.Mode1 // for mode-specific media
-ocGE.GlorySticheraric.text = prayers_gr_GR_cog.DoxaPatri.text
+ocGE.MM.GlorySticheraric.text = properties_gr_GR_cog.media.key
 
-ocGE.BothSticheraric.mode = misc_gr_GR_cog.Mode1 // for mode-specific media
-ocGE.BothSticheraric.text = prayers_gr_GR_cog.KaiNynKaiAei.text
+ocGE.MM.BothSticheraric.text = properties_gr_GR_cog.media.key
 
-ocGE.GloryHeirmologic.mode = misc_gr_GR_cog.Mode1 // for mode-specific media
-ocGE.GloryHeirmologic.text = prayers_gr_GR_cog.DoxaPatri.text
+ocGE.MM.GloryHeirmologic.text = properties_gr_GR_cog.media.key
 
-ocGE.BothHeirmologic.mode = misc_gr_GR_cog.Mode1 // for mode-specific media
-ocGE.BothHeirmologic.text = prayers_gr_GR_cog.KaiNynKaiAei.text
+ocGE.MM.BothHeirmologic.text = properties_gr_GR_cog.media.key
 
 ocSV.Dogmatic.mode = misc_gr_GR_cog.Mode1
 ocSV.Dogmatic.melody = ""
@@ -32,11 +28,9 @@ ocSV.AposDogmatic.mode = misc_gr_GR_cog.Mode1
 ocSV.AposDogmatic.melody = misc_gr_GR_cog.Automelon
 ocSV.AposDogmatic.text = he.a.m1_gr_GR_cog.NefelinSeFotos.text
 
-ocVE.LIHC1.mode = misc_gr_GR_cog.Mode1
-ocVE.LIHC1.text = properties_gr_GR_cog.media.key
+ocVE.MM.LIHC1.text = properties_gr_GR_cog.media.key
 
-ocVE.LIHC2.mode = misc_gr_GR_cog.Mode1
-ocVE.LIHC2.text = properties_gr_GR_cog.media.key
+ocVE.MM.LIHC2.text = properties_gr_GR_cog.media.key
 
 ocVE.Stichera1.mode = misc_gr_GR_cog.Mode1
 ocVE.Stichera1.melody = ""
@@ -257,8 +251,7 @@ ocMO.Ode9T.ode = misc_gr_GR_cog.Ode9
 ocMO.Ode9T.melody = he.h.m1_gr_GR_cog.TyponTisAgnis.name
 ocMO.Ode9T.text = "Νεῦσον ταῖς ἡμῶν δεήσεσιν ὁ ἐν τρισὶ θεαρχικαῖς ὑποστάσεσι, μόνος εἷς Θεὸς ἀληθινός, πιστευόμενος, καὶ παράσχου σοῖς δούλοις παράκλησιν, πρεσβείαις τῆς ἀχράντου, καὶ πανυμνήτου Θεομήτορος."
 
-ocMA.GodIsTheLord.mode = misc_gr_GR_cog.Mode1
-ocMA.GodIsTheLord.text = ho.s03_gr_GR_cog.hoMA.GodIsTheLord.text
+ocMA.MM.GodIsTheLord.text = properties_gr_GR_cog.media.key
 
 ocMA.Kathisma11.mode = misc_gr_GR_cog.Mode1
 ocMA.Kathisma11.melody = misc_gr_GR_cog.Automelon
@@ -324,7 +317,7 @@ ocMA.Antiphon33.mode = misc_gr_GR_cog.Mode1
 ocMA.Antiphon33.melody = ""
 ocMA.Antiphon33.text = "Ἁγίῳ Πνεύματι, τιμὴν προσκύνησιν, δόξαν καὶ κράτος, ὡς Πατρί τε ἄξιον, καὶ τῷ Υἱῷ δεῖ προσφέρειν· Μονὰς γάρ ἐστιν ἡ Τριὰς τῇ φύσει, ἀλλ' οὐ προσώποις."
 
-ocMA.Prokeimenon.text = properties_gr_GR_cog.media.key
+ocMA.MM.Prokeimenon.text = properties_gr_GR_cog.media.key
 
 ocMA.C1Poet = poets_gr_GR_cog.IoannouTouDamaskinou
 
@@ -742,8 +735,8 @@ ocMA.OdeS9C33.text = "Ὢ τῶν ὑπὲρ νοῦν θαυμάτων σου!
 ocMA.Magnificat.mode = misc_gr_GR_cog.Mode1
 ocMA.Magnificat.text = he.h.m6_gr_GR_cog.TinTimioteran.text
 
-ocMA.Lauds01.text = properties_gr_GR_cog.media.key
-ocMA.Lauds02.text = properties_gr_GR_cog.media.key
+ocMA.MM.Lauds01.text = properties_gr_GR_cog.media.key
+ocMA.MM.Lauds02.text = properties_gr_GR_cog.media.key
 
 ocMA.Lauds1.mode = misc_gr_GR_cog.Mode1
 ocMA.Lauds1.melody = ""

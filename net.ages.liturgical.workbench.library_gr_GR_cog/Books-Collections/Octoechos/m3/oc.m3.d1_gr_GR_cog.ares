@@ -1,16 +1,12 @@
 A_Resource_Whose_Name = oc.m3.d1_gr_GR_cog
 
-ocGE.GlorySticheraric.mode = misc_gr_GR_cog.Mode3 // for mode-specific media
-ocGE.GlorySticheraric.text = prayers_gr_GR_cog.DoxaPatri.text
+ocGE.MM.GlorySticheraric.text = properties_gr_GR_cog.media.key
 
-ocGE.BothSticheraric.mode = misc_gr_GR_cog.Mode3 // for mode-specific media
-ocGE.BothSticheraric.text = prayers_gr_GR_cog.KaiNynKaiAei.text
+ocGE.MM.BothSticheraric.text = properties_gr_GR_cog.media.key
 
-ocGE.GloryHeirmologic.mode = misc_gr_GR_cog.Mode3 // for mode-specific media
-ocGE.GloryHeirmologic.text = prayers_gr_GR_cog.DoxaPatri.text
+ocGE.MM.GloryHeirmologic.text = properties_gr_GR_cog.media.key
 
-ocGE.BothHeirmologic.mode = misc_gr_GR_cog.Mode3 // for mode-specific media
-ocGE.BothHeirmologic.text = prayers_gr_GR_cog.KaiNynKaiAei.text
+ocGE.MM.BothHeirmologic.text = properties_gr_GR_cog.media.key
 
 ocSV.Dogmatic.mode = misc_gr_GR_cog.Mode3
 ocSV.Dogmatic.melody = ""
@@ -32,11 +28,9 @@ ocSV.AposDogmatic.mode = misc_gr_GR_cog.Mode3
 ocSV.AposDogmatic.melody = ""
 ocSV.AposDogmatic.text = "Ἀνάπλασιν καὶ ζωήν, διὰ σοῦ δευτέραν γινώσκομεν, ἄχραντε Μαρία, τῆς ἀνθρωπίνης φύσεως, ἐν τῇ γαστρί σου φυραθέντα τὸν κτίστην τῆς κτίσεως, καὶ ἀναστήσαντα ἡμᾶς, ἐκ τοῦ ᾅδου καὶ τοῦ θανάτου, καὶ ζωὴν αἰώνιον παρεσχηκότα ἡμῖν, τοῦ βοᾶν σοι Ἀειπάρθενε· Χαῖρε ἡ συνάψασα τὰ κάτω τοῖς ἐπουρανίοις. Χαῖρε ἡ ἐλπίς πάντων τῶν περάτων τῆς γῆς, καὶ προστασία καὶ ἀντίληψις. Χαῖρε ἡ τῇ Ἀναστάσει τοῦ Υἱοῦ σου, φαιδρύνουσα τὰ σύμπαντα, καὶ παρέχουσα τῷ κόσμῳ τὸ μέγα ἔλεος."
 
-ocVE.LIHC1.mode = misc_gr_GR_cog.Mode3
-ocVE.LIHC1.text = properties_gr_GR_cog.media.key
+ocVE.MM.LIHC1.text = properties_gr_GR_cog.media.key
 
-ocVE.LIHC2.mode = misc_gr_GR_cog.Mode3
-ocVE.LIHC2.text = properties_gr_GR_cog.media.key
+ocVE.MM.LIHC2.text = properties_gr_GR_cog.media.key
 
 ocVE.Stichera1.mode = misc_gr_GR_cog.Mode3
 ocVE.Stichera1.melody = ""
@@ -252,8 +246,7 @@ ocMO.Ode9T.ode = misc_gr_GR_cog.Ode9
 ocMO.Ode9T.melody = he.h.m3_gr_GR_cog.KainonToThavma.name
 ocMO.Ode9T.text = "Ναόν με δεῖξον τῆς μοναρχικῆς, καὶ τριφεγγοῦς σου θεαρχίας φωτοειδῆ, καθαρῶς λατρεύειν σοι τῷ Κτίστῃ τῶν ὅλων, καὶ τῆς ἀφράστου δόξης νοερὸν θεωρόν, πρεσβείαις τῆς μόνης Θεοτόκου, ἣν ἐπαξίως, ὡς ὑπερένδοξον μεγαλύνομεν."
 
-ocMA.GodIsTheLord.mode = misc_gr_GR_cog.Mode3
-ocMA.GodIsTheLord.text = ho.s03_gr_GR_cog.hoMA.GodIsTheLord.text
+ocMA.MM.GodIsTheLord.text = properties_gr_GR_cog.media.key
 
 ocMA.Kathisma11.mode = misc_gr_GR_cog.Mode3
 ocMA.Kathisma11.melody = ""
@@ -319,9 +312,8 @@ ocMA.Antiphon33.mode = misc_gr_GR_cog.Mode3
 ocMA.Antiphon33.melody = ""
 ocMA.Antiphon33.text = "Ἁγίῳ Πνεύματι, ὁ πᾶς πλοῦτος τῆς δόξης, ἐξ οὗ χάρις καὶ ζωὴ πάσῃ τῇ κτίσει· σὺν Πατρὶ γάρ, ἀνυμνεῖται καὶ τῷ Λόγῳ."
 
-ocMA.Prokeimenon.text = "Εἴπατε ἐν τοῖς ἔθνεσιν, ὅτι Κύριος ἐβασίλευσε· καὶ γὰρ κατώρθωσε τὴν οἰκουμένην, ἥτις οὐ σαλευθήσεται."
+ocMA.MM.Prokeimenon.text = properties_gr_GR_cog.media.key
 
-ocMA.ProkeimenonVerse.text = "ᾌσατε τῷ Κυρίῳ ᾆσμα καινόν."
 
 ocMA.C2Poet = poets_gr_GR_cog.IoannouMonachou
 ocMA.C2Acrostic.text = "οὗ ἡ ἀκροστιχὶς μετὰ τῶν Εἱρμῶν· Ἄγω τρίτον (μ)έλισμά σοι, Θεοῦ Λόγε."
@@ -679,9 +671,9 @@ ocMA.OdeS9C32.text = "Ἔθου ἡμῖν ἀκαταίσχυντον πρέ�
 ocMA.Magnificat.mode = misc_gr_GR_cog.Mode3
 ocMA.Magnificat.text = he.h.m6_gr_GR_cog.TinTimioteran.text
 
-ocMA.Lauds01.text = properties_gr_GR_cog.media.key
+ocMA.MM.Lauds01.text = properties_gr_GR_cog.media.key
 
-ocMA.Lauds02.text = properties_gr_GR_cog.media.key
+ocMA.MM.Lauds02.text = properties_gr_GR_cog.media.key
 
 ocMA.Lauds1.mode = misc_gr_GR_cog.Mode3
 ocMA.Lauds1.melody = ""

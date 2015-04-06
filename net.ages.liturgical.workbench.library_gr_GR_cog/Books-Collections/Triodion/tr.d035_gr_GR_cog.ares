@@ -14,11 +14,11 @@ trHO.note2 = ""
 trDismissal = ""
 
 trVE.AposIdiomelon1.mode = misc_gr_GR_cog.Mode4
-trVE.AposIdiomelon1.melody  = ""
+trVE.AposIdiomelon1.melody = ""
 trVE.AposIdiomelon1.text = "Νῦν καιρὸς εὐπρόσδεκτος, νῦν ἡμέρα σωτηρίας, ἐν τῷ πλήθει τοῦ ἐλέους σου, ἐπίσκεψαί μου τὴν ψυχήν, καὶ τὸ φορτίον τῶν ἀνομιῶν μου, ἄνες μόνε Φιλάνθρωπε. "
 
 trVE.Apolytikion1.mode = misc_gr_GR_cog.Mode2
-trVE.Apolytikion1.melody  = ""
+trVE.Apolytikion1.melody = ""
 trVE.Apolytikion1.text = da.d7_gr_GR_cog.daVE.Apolytikion1.text
 
 trVE.Apolytikion2.mode = misc_gr_GR_cog.Mode2
@@ -26,15 +26,15 @@ trVE.Apolytikion2.melody = ""
 trVE.Apolytikion2.text = da.d7_gr_GR_cog.daVE.Apolytikion2.text
 
 trVE.ApolTheotokion.mode = misc_gr_GR_cog.Mode2
-trVE.ApolTheotokion.melody  = ""
+trVE.ApolTheotokion.melody = ""
 trVE.ApolTheotokion.text = da.d7_gr_GR_cog.daVE.ApolTheotokion.text
 
 trMA.Kathisma21.mode = misc_gr_GR_cog.Mode5
-trMA.Kathisma21.melody  = ""
+trMA.Kathisma21.melody = ""
 trMA.Kathisma21.text = tr.d014_gr_GR_cog.trMA.Kathisma21.text
 
 trMA.Kathisma21b.mode = misc_gr_GR_cog.Mode5
-trMA.Kathisma21b.melody  = ""
+trMA.Kathisma21b.melody = ""
 trMA.Kathisma21b.text = tr.d014_gr_GR_cog.trMA.Kathisma21b.text
 
 trMA.Kathisma22.mode = misc_gr_GR_cog.Mode5
@@ -163,17 +163,17 @@ trMA.Ode8C11.text = "Τῶν βασάνων εἴδη, ἀσθενείᾳ σ�
 
 trMA.Ode8C12.ode = misc_gr_GR_cog.Ode8
 trMA.Ode8C12.mode = misc_gr_GR_cog.Mode8
-trMA.Ode8C12.melody  = ""
+trMA.Ode8C12.melody = ""
 trMA.Ode8C12.text = "Οἴμοι! πῶς παρῆλθον, πᾶσαι αἱ ἡμέραι μου ἐν ἀμελείᾳ, καὶ ἰδοὺ τὸ τέλος, φθάνει ἀτελείωτον, καλῶν λαβεῖν με. Οἱ καλῶς τὸν δρόμον, τελέσαντες Μάρτυρες, τέλος ἀγαθόν μοι, γενέσθαι δυσωπεῖτε."
 
 trMA.Ode8C13.ode = misc_gr_GR_cog.Ode8
 trMA.Ode8C13.mode = misc_gr_GR_cog.Mode8
-trMA.Ode8C13.melody  = ""
+trMA.Ode8C13.melody = ""
 trMA.Ode8C13.text = "Σταλαγμοῖς αἱμάτων, τὴν πυρὰν ἐσβέσατε τῆς ἀθεΐας, θεῖοι Ἀθλοφόροι, καὶ τοῖς ἐκδημήσασι τοῦδε τοῦ βίου, ἐξαιτεῖτε ὄντως, τὴν θείαν ἀνάπαυσιν, καὶ τῶν πεπραγμένων, τὴν λύσιν εἰς αἰῶνας."
 
 trMA.Ode8C1T.ode = misc_gr_GR_cog.Ode8
 trMA.Ode8C1T.mode = misc_gr_GR_cog.Mode8
-trMA.Ode8C1T.melody  = ""
+trMA.Ode8C1T.melody = ""
 trMA.Ode8C1T.text = "Ἰεζεκιὴλ σε, πύλην ἀδιόδευτον Ἁγνὴ προεῖδε, μετανοίας πύλας, πᾶσιν ὑπανοίγουσαν ἀπεγνωσμένοις· ὅθεν δυσωπῶ σε, τρίβους μοι ὑπάνοιξον, τὰς πρὸς τὰς ἐκεῖθεν, φερούσας καταπαύσεις."
 
 trMA.Ode8C21.ode = misc_gr_GR_cog.Ode8
@@ -271,10 +271,10 @@ trMA.Exaposteilarion1.melody = he.a.m3_gr_GR_cog.OOuranonToisAstrois.name
 trMA.Exaposteilarion1.text = tr.d014_gr_GR_cog.trMA.Exaposteilarion1.text
 
 trLI.SeasonalKontakion.mode = misc_gr_GR_cog.Mode8
-trLI.SeasonalKontakion.melody  = ""
+trLI.SeasonalKontakion.melody = ""
 trLI.SeasonalKontakion.text = tr.d014_gr_GR_cog.trMA.Kontakion1.text
 
-trLI.CommunionHymn.text = da.d7_gr_GR_cog.daLI.CommunionHymn.text
+trLI.MM.CommunionHymn.text = properties_gr_GR_cog.media.key
 
-trLI.CommunionHymn2.text = da.d7_gr_GR_cog.daLI.CommunionHymnAlt.text
+trLI.MM.CommunionHymn2.text = properties_gr_GR_cog.media.key
 

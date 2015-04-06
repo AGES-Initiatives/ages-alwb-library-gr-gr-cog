@@ -122,11 +122,11 @@ trVE.AposBoth.melody = misc_gr_GR_cog.Idiomelon
 trVE.AposBoth.text = trVE.Stichera01.text
 
 trVE.Apolytikion1.mode = misc_gr_GR_cog.Mode1
-trVE.Apolytikion1.melody  = ""
+trVE.Apolytikion1.melody = ""
 trVE.Apolytikion1.text = tr.d063_gr_GR_cog.trVE.Apolytikion1.text
 
 trVE.Apolytikion2.mode = misc_gr_GR_cog.Mode4
-trVE.Apolytikion2.melody  = ""
+trVE.Apolytikion2.melody = ""
 trVE.Apolytikion2.text = "Συνταφέντες σοι διὰ τοῦ Βαπτίσματος, Χριστὲ ὁ Θεὸς ἡμῶν, τῆς ἀθανάτου ζωῆς ἠξιώθημεν τῇ Ἀναστάσει σου, καὶ ἀνυμνοῦντες κράζομεν· Ὡσαννὰ ἐν τοῖς ὑψίστοις, εὐλογημένος ὁ ἐρχόμενος, ἐν ὀνόματι Κυρίου."
 
 trMA.Kathisma11.mode = misc_gr_GR_cog.Mode4
@@ -149,18 +149,14 @@ trMA.Kathisma31.mode = misc_gr_GR_cog.Mode8
 trMA.Kathisma31.melody = he.a.m8_gr_GR_cog.ToProstachthen.name
 trMA.Kathisma31.text = "Ὁ ἐπὶ θρόνου Χερουβὶμ καὶ ἐπὶ πώλου, ἐπικαθίσας δι' ἡμᾶς, καὶ πρὸς τὸ Πάθος, τὸ ἑκούσιον φθάσας, σήμερον ἀκούει, τῶν Παίδων, ἀναβοώντων τὸ Ὡσαννά, τῶν ὄχλων, ἀναφωνούντων Υἱὲ Δαυΐδ, σπεῦσον σῶσαι οὓς ἔπλασας, εὐλογημένε Ἰησοῦ· εἰς τοῦτο γὰρ ἐλήλυθας, ὅπως γνῶμεν τὴν δόξαν σου."
 
-trMA.Prokeimenon.text = "" //for media
-
-trMA.Gospel.name = "Ματθαῖον"
-trMA.Gospel.chapverse = ""
-trMA.Gospel.text = ""
+trMA.MM.Prokeimenon.text = properties_gr_GR_cog.media.key
 
 trMA.PostGospelGlory.mode = misc_gr_GR_cog.Mode2
-trMA.PostGospelGlory.melody  = ""
-trMA.PostGospelGlory.text = "Σήμερον ὁ Χριστός, εἰσέρχεται ἐν πόλει Βηθανίᾳ ἐν πώλῳ καθήμενος, τὴν ἀλογίαν λύων, τῶν ἐθνῶν τὴν κάκιστον, πάλαι κεχερσωμένην."
+trMA.PostGospelGlory.melody = ""
+trMA.PostGospelGlory.text = "Σήμερον ὁ Χριστός, εἰσέρχεται ἐν πόλει τῇ ἁγίᾳ ἐν πώλῳ καθήμενος, τὴν ἀλογίαν λύων, τῶν ἐθνῶν τὴν κάκιστον, πάλαι κεχερσωμένην."
 
 trMA.PostGospelBoth.mode = misc_gr_GR_cog.Mode2
-trMA.PostGospelBoth.melody  = ""
+trMA.PostGospelBoth.melody = ""
 trMA.PostGospelBoth.text = trMA.PostGospelGlory.text
 
 trMA.PostGospelIdiomelon.mode = misc_gr_GR_cog.Mode6
@@ -211,7 +207,7 @@ trMA.Ode3K.melody = misc_gr_GR_cog.Heirmos
 trMA.Ode3K.text = he.h.m4_gr_GR_cog.NaousanAkrotomon.text
 
 trMA.Hypakoe.mode = misc_gr_GR_cog.Mode6
-trMA.Hypakoe.melody  = ""
+trMA.Hypakoe.melody = ""
 trMA.Hypakoe.text = "Μετὰ κλάδων ὑμνήσαντες πρότερον, μετὰ ξύλων συνέλαβον ὕστερον, οἱ ἀγνώμονες Χριστόν, Ἰουδαῖοι τὸν Θεόν, ἡμεῖς δὲ πίστει ἀμεταθέτῳ, ἀεὶ τιμῶντες ὡς εὐεργέτην, διαπαντὸς βοήσωμεν αὐτῷ· Εὐλογημένος εἶ ὁ ἐρχόμενος, τὸν Ἀδὰμ ἀνακαλέσασθαι."
 
 trMA.Ode4C1H.ode = misc_gr_GR_cog.Ode4
@@ -367,7 +363,7 @@ trMA.Ode9K.melody = misc_gr_GR_cog.Heirmos
 trMA.Ode9K.text = he.h.m4_gr_GR_cog.TheosKyriosKaiEpefanenImin.text
 
 trMA.Exaposteilarion1.mode = misc_gr_GR_cog.Mode2
-trMA.Exaposteilarion1.melody  = ""
+trMA.Exaposteilarion1.melody = ""
 trMA.Exaposteilarion1.text = ho.s03_gr_GR_cog.hoMA.SunExapVerse1.text
 
 trMA.Lauds1.mode = misc_gr_GR_cog.Mode4
@@ -392,8 +388,7 @@ trMA.LaudsGlory.text = "Πρὸ ἓξ ἡμερῶν τοῦ Πάσχα, ἦλ�
 
 trLI.Antiphon2.text = "ὁ ἐπὶ πώλου ὄνου καθεσθείς," 
 
-trLI.EntranceHymn.text = "" //for media
-
+trLI.MM.EntranceHymn.text = properties_gr_GR_cog.media.key
 trLI.SeasonalKontakion.mode = misc_gr_GR_cog.Mode6
 trLI.SeasonalKontakion.melody = misc_gr_GR_cog.Automelon
 trLI.SeasonalKontakion.text = trMA.Kontakion1.text
@@ -401,7 +396,7 @@ trLI.SeasonalKontakion.text = trMA.Kontakion1.text
 trLI.TheotokosHymn.mode = misc_gr_GR_cog.Mode4
 trLI.TheotokosHymn.text = trMA.Ode9C1H.text
 
-trLI.CommunionHymn.text = "" //for media
+trLI.MM.CommunionHymn.text = properties_gr_GR_cog.media.key
 
 trLI.AfterCommunion.mode = misc_gr_GR_cog.Mode1
 trLI.AfterCommunion.text = trVE.Apolytikion1.text

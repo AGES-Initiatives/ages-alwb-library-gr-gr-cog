@@ -14,15 +14,15 @@ peHO.note2 = ""
 peDismissal = dismissals_gr_GR_cog.dis00.pentecost
 
 peVE.Stichera01.mode = pe.d120_gr_GR_cog.peMA.Lauds1.mode
-peVE.Stichera01.melody  = ""
+peVE.Stichera01.melody = ""
 peVE.Stichera01.text = pe.d120_gr_GR_cog.peMA.Lauds1.text
 
 peVE.Stichera02.mode = pe.d120_gr_GR_cog.peMA.Lauds2.mode
-peVE.Stichera02.melody  = ""
+peVE.Stichera02.melody = ""
 peVE.Stichera02.text = pe.d120_gr_GR_cog.peMA.Lauds2.text
 
 peVE.Stichera03.mode = pe.d120_gr_GR_cog.peMA.Lauds3.mode
-peVE.Stichera03.melody  = ""
+peVE.Stichera03.melody = ""
 peVE.Stichera03.text = pe.d120_gr_GR_cog.peMA.Lauds3.text
 
 peVE.SticGlory.mode = pe.d120_gr_GR_cog.peMA.LaudsGlory.mode
@@ -88,7 +88,7 @@ peVE.AposGlory.melody = pe.d120_gr_GR_cog.peVE.SticGlory.melody
 peVE.AposGlory.text = pe.d120_gr_GR_cog.peVE.SticGlory.text
 
 peVE.Apolytikion1.mode = pe.d120_gr_GR_cog.peVE.Apolytikion1.mode
-peVE.Apolytikion1.melody  = ""
+peVE.Apolytikion1.melody = ""
 peVE.Apolytikion1.text = pe.d120_gr_GR_cog.peVE.Apolytikion1.text
 
 peMA.Kathisma11.mode = pe.d120_gr_GR_cog.peMA.Kathisma11.mode
@@ -100,7 +100,7 @@ peMA.Kathisma21.melody = pe.d120_gr_GR_cog.peMA.Kathisma21.melody
 peMA.Kathisma21.text = pe.d120_gr_GR_cog.peMA.Kathisma21.text
 
 peMA.Kontakion1.mode = pe.d120_gr_GR_cog.peMA.Kontakion1.mode
-peMA.Kontakion1.melody  = pe.d120_gr_GR_cog.peMA.Kontakion1.melody
+peMA.Kontakion1.melody = pe.d120_gr_GR_cog.peMA.Kontakion1.melody
 peMA.Kontakion1.text = pe.d120_gr_GR_cog.peMA.Kontakion1.text
 
 peMA.Oikos1.text = pe.d120_gr_GR_cog.peMA.Oikos1.text
@@ -137,10 +137,10 @@ peMA.LaudsGlory.text = pe.d120_gr_GR_cog.peVE.AposGlory.text
 
 peLI.Antiphon2.text = pe.d120_gr_GR_cog.peLI.Antiphon2.text
 
-peLI.EntranceHymn.text = pe.d120_gr_GR_cog.peLI.EntranceHymn.text
+peLI.MM.EntranceHymn.text = properties_gr_GR_cog.media.key
 
 peLI.SeasonalKontakion.mode = pe.d120_gr_GR_cog.peMA.Kontakion1.mode
-peLI.SeasonalKontakion.melody  = ""
+peLI.SeasonalKontakion.melody = ""
 peLI.SeasonalKontakion.text = pe.d120_gr_GR_cog.peMA.Kontakion1.text
 
 peLI.TheotokosHymn.mode = pe.d120_gr_GR_cog.peMA.Ode9C2H.mode

@@ -38,7 +38,7 @@ pePA.ChristIsRisenShort.text = "Χριστὸς ἀνέστη ἐκ νεκρῶ
 //pePA.PaschaVerse4.text = "Αὕτη ἡ ἡμέρα, ἣν ἐποίησεν ὁ Κύριος· ἀγαλλιασώμεθα καὶ εὐφρανθῶμεν ἐν αὐτῇ."
 
 pePA.Canon.Poet = poets_gr_GR_cog.IoannouTouDamaskinou
-pePA.Canon.text = "Ὁ Κανὼν τοῦ Πάσχα" //for media of entire canon
+pePA.Canon.text = properties_gr_GR_cog.media.key
 
 pePA.CanonT.Acrostic = "Οὗ ἡ ἀκροστιχὶς ἐν τοῖς πρώτοις Τροπαρίοις. Θεοφάνους."
 
@@ -176,7 +176,7 @@ pePA.Ode6T2.melody = he.h.m1_gr_GR_cog.KatilthesEnToisKatotatois.name
 pePA.Ode6T2.text = "Κατῆλθεν ἐν τοῖς κατωτάτοις τῆς γῆς ὁ λαγόσι σου Ἁγνή, κατελθὼν καὶ οἰκήσας, καὶ σαρκωθεὶς ὑπὲρ νοῦν καὶ συνήγειρεν, ἑαυτῷ τὸν Ἀδάμ, ἀναστὰς ἐκ τοῦ τάφου."
 
 pePA.Kontakion.mode = misc_gr_GR_cog.Mode8
-pePA.Kontakion.melody  = ""
+pePA.Kontakion.melody = ""
 pePA.Kontakion.text = "Εἰ καὶ ἐν τάφῳ κατῆλθες Ἀθάνατε, ἀλλὰ τοῦ ᾅδου καθεῖλες τὴν δύναμιν· καὶ ἀνέστης ὡς νικητής, Χριστὲ ὁ Θεός, γυναιξὶ Μυροφόροις φθεγξάμενος, Χαίρετε, καὶ τοῖς σοῖς Ἀποστόλοις εἰρήνην δωρούμενος, ὁ τοῖς πεσοῦσι παρέχων ἀνάστασιν."
 
 pePA.Oikos.text = "Τὸν πρὸ ἡλίου Ἥλιον δύναντά ποτε ἐν τάφῳ, προέφθασαν πρὸς ὄρθρον, ἐκζητοῦσαι ὡς ἡμέραν, Μυροφόροι κόραι, καὶ πρὸς ἀλλήλας ἐβόων· Ὦ φίλαι, δεῦτε τοῖς ἀρώμασιν ὑπαλείψωμεν, Σῶμα ζωηφόρον καὶ τεθαμμένον, σάρκα ἀνιστῶσαν τὸν παραπεσόντα Ἀδάμ, κείμενον ἐν τῷ μνήματι· ἄγωμεν, σπεύσωμεν, ὥσπερ οἱ Μάγοι, καὶ προσκυνήσωμεν, καὶ προσκομίσωμεν τὰ μύρα ὡς δῶρα, τῷ μὴ ἐν σπαργάνοις, ἀλλ' ἐν σινδόνι ἐνειλημένῳ· καὶ κλαύσωμεν, καὶ κράξωμεν· Ὦ Δέσποτα, ἐξεγέρθητι, ὁ τοῖς πεσοῦσι παρέχων ἀνάστασιν."
@@ -330,10 +330,10 @@ pePA.Hours.R03 = "Τρισσεύεται δὲ ἡ τοιαύτη Ἀκολο�
 
 pePA.Antiphon2.text = ho.s07_gr_GR_cog.hoLI.Antiphon2s.text
 
-pePA.EntranceHymn.text = "" //for media
+pePA.EntranceHymn.text = properties_gr_GR_cog.media.key
 
 pePA.SeasonalKontakion.mode = misc_gr_GR_cog.Mode8
-pePA.SeasonalKontakion.melody  = ""
+pePA.SeasonalKontakion.melody = ""
 pePA.SeasonalKontakion.text = pePA.Kontakion.text
 
 pePA.TheotokosHymn.mode = misc_gr_GR_cog.Mode1

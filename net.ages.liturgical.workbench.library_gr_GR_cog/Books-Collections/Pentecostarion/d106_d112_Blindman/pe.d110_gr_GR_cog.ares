@@ -118,7 +118,7 @@ peVE.AposGlory.melody = misc_gr_GR_cog.Idiomelon
 peVE.AposGlory.text = "Ἀνέβη ὁ Θεὸς ἐν ἀλαλαγμῷ, Κύριος ἐν φωνῇ σάλπιγγος, τοῦ ἀνυψῶσαι τὴν πεσοῦσαν εἰκόνα τοῦ Ἀδάμ, καὶ ἀποστεῖλαι Πνεῦμα Παράκλητον, τοῦ ἁγιάσαι τὰς ψυχὰς ἡμῶν."
 
 peVE.Apolytikion1.mode = misc_gr_GR_cog.Mode4
-peVE.Apolytikion1.melody  = ""
+peVE.Apolytikion1.melody = ""
 peVE.Apolytikion1.text = "Ἀνελήφθης ἐν δόξῃ, Χριστὲ ὁ Θεὸς ἡμῶν, χαροποιήσας τοὺς Μαθητάς, τῇ ἐπαγγελίᾳ τοῦ ἁγίου Πνεύματος· βεβαιωθέντων αὐτῶν διὰ τῆς εὐλογίας, ὅτι σὺ εἶ ὁ Υἱός τοῦ Θεοῦ, ὁ λυτρωτὴς τοῦ κόσμου."
 
 peMA.Kathisma11.mode = misc_gr_GR_cog.Mode1
@@ -133,14 +133,14 @@ peMA.Kathisma31.mode = misc_gr_GR_cog.Mode5
 peMA.Kathisma31.melody = he.a.m5_gr_GR_cog.TonSynanarchonLogon.name
 peMA.Kathisma31.text = "Κατελθὼν οὐρανόθεν εἰς τὰ ἐπίγεια, καὶ τὴν κάτω κειμένην ἐν τῇ τοῦ ᾍδου φρουρᾷ, συναναστήσας ὡς Θεός, Ἀδαμιαίαν μορφήν, τῇ Ἀναλήψει σου Χριστέ, εἰς οὐρανούς ἀναγαγών, τῷ θρόνῳ τῷ πατρικῷ σου, συγκάθεδρον ἀπειργάσω, ὡς ἐλεήμων καὶ φιλάνθρωπος."
 
-peMA.Prokeimenon.text = "" //for media
+peMA.MM.Prokeimenon.text = properties_gr_GR_cog.media.key
 
 peMA.PostGospelGlory.mode = misc_gr_GR_cog.Mode2
-peMA.PostGospelGlory.melody  = ""
+peMA.PostGospelGlory.melody = ""
 peMA.PostGospelGlory.text = ho.s03_gr_GR_cog.hoMA.PostGospelApostles.text
 
 peMA.PostGospelBoth.mode = misc_gr_GR_cog.Mode2
-peMA.PostGospelBoth.melody  = ""
+peMA.PostGospelBoth.melody = ""
 peMA.PostGospelBoth.text = ho.s03_gr_GR_cog.hoMA.PostGospelTheotokos.text
 
 peMA.PostGospelIdiomelon.mode = misc_gr_GR_cog.Mode6
@@ -601,7 +601,7 @@ peMA.Lauds3.mode = misc_gr_GR_cog.Mode1
 peMA.Lauds3.melody = he.a.m1_gr_GR_cog.TonOuranionTagmaton.name
 peMA.Lauds3.text = "Οἱ Γαλιλαῖοι ὁρῶντες, ἀναληφθέντα σε, ἀπὸ τοῦ Ἐλαιῶνος, μετὰ σώματος Λόγε, ἤκουον Ἀγγέλων, βοώντων αὐτοῖς· Τί ἑστήκατε βλέποντες; οὗτος ἐλεύσεται πάλιν μετὰ σαρκός, καθ' ὃν τρόπον ἐθεάσασθε."
 
-peMA.Lauds123.text = ""//for media
+peMA.MM.Lauds123.text = properties_gr_GR_cog.media.key
 
 peMA.LaudsGlory.mode = misc_gr_GR_cog.Mode2
 peMA.LaudsGlory.melody = misc_gr_GR_cog.Idiomelon
@@ -609,7 +609,7 @@ peMA.LaudsGlory.text = peVE.Aposticha1.text
 
 peLI.Antiphon2.text = "ὁ ἐν δόξῃ ἀναληφθεὶς ἀφ' ἡμῶν εἰς τοὺς οὐρανούς,"
 
-peLI.EntranceHymn.text = "" //for media
+peLI.MM.EntranceHymn.text = properties_gr_GR_cog.media.key
 
 peLI.SeasonalKontakion.mode = peMA.Kontakion1.mode
 peLI.SeasonalKontakion.melody = peMA.Kontakion1.melody
@@ -618,7 +618,7 @@ peLI.SeasonalKontakion.text = peMA.Kontakion1.text
 peLI.TheotokosHymn.mode = peMA.Ode9C1H.mode
 peLI.TheotokosHymn.text = peMA.Ode9C1H.text
 
-peLI.CommunionHymn.text = "" //for media
+peLI.MM.CommunionHymn.text = properties_gr_GR_cog.media.key
 
 peLI.AfterCommunion.mode = peVE.Apolytikion1.mode
 peLI.AfterCommunion.text = peVE.Apolytikion1.text

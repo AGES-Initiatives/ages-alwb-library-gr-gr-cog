@@ -47,7 +47,7 @@ peVE.AposGlory.melody = misc_gr_GR_cog.Idiomelon
 peVE.AposGlory.text = "Μεσούσης τῆς ἑορτῆς, διδάσκοντός σου Σωτήρ, ἔλεγον οἱ Ἰουδαῖοι· Πῶς οὗτος οἶδε γράμματα, μὴ μεμαθηκώς; ἀγνοοῦντες, ὅτι σὺ εἶ ἡ σοφία, ἡ κατασκευάσασα τόν κόσμον· Δόξα σοι."
 
 peVE.Apolytikion1.mode = misc_gr_GR_cog.Mode8
-peVE.Apolytikion1.melody  = ""
+peVE.Apolytikion1.melody = ""
 peVE.Apolytikion1.text = "Μεσούσης τῆς ἑορτῆς, διψῶσάν μου τὴν ψυχήν, εὐσεβείας πότισον νάματα ὅτι πᾶσι Σωτὴρ ἐβόησας· ὁ διψῶν, ἐρχέσθω πρός με καὶ πινέτω· Ἡ πηγὴ τῆς ζωῆς, Χριστὲ ὁ Θεὸς δόξα σοι."
 
 peMA.Kathisma11.mode = misc_gr_GR_cog.Mode4
@@ -604,7 +604,7 @@ peMA.Lauds3.mode = misc_gr_GR_cog.Mode4
 peMA.Lauds3.melody = he.a.m4_gr_GR_cog.OsGennaionEnMartysi.name
 peMA.Lauds3.text = "Μωϋσέα ἑλίθασαν οἱ δεινοὶ καὶ παράνομοι, Ἰουδαίων σύστημα τὸ ἀχάριστον, τὸν Ἡσαΐαν δὲ ἔπρισαν, ξυλίνῳ ἐν πρίονι, ἐν βορβόρῳ τὸν σοφόν, Ἱερεμίαν ἐνέβαλον· τὸν δὲ Κύριον, ἐν Σταυρῷ ἀνυψοῦντες, ἐπεβόων· Τὸν ναὸν ὁ καταλύων, σῶσον σαυτὸν καὶ πιστεύσομεν."
 
-peMA.Lauds123.text = "" //for media
+peMA.MM.Lauds123.text = properties_gr_GR_cog.media.key
 
 peMA.LaudsGlory.mode = misc_gr_GR_cog.Mode4
 peMA.LaudsGlory.melody = misc_gr_GR_cog.Idiomelon
@@ -617,6 +617,6 @@ peLI.SeasonalKontakion.text = peMA.Kontakion1.text
 peLI.TheotokosHymn.mode = misc_gr_GR_cog.Mode8
 peLI.TheotokosHymn.text = peMA.Ode9C2H.text
 
-peLI.CommunionHymn.text = ""
+peLI.MM.CommunionHymn.text = properties_gr_GR_cog.media.key
 
 peMegalynarion.text = ""

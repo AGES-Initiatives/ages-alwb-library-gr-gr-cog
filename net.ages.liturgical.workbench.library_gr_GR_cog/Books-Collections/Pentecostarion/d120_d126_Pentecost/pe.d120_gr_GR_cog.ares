@@ -83,7 +83,7 @@ peVE.AposGlory.melody = misc_gr_GR_cog.Idiomelon
 peVE.AposGlory.text = "Γλῶσσαι ποτὲ συνεχύθησαν, διὰ τὴν τόλμαν τῆς πυργοποιΐας, γλῶσσαι δὲ νῦν ἐσοφίσθησαν, διὰ τὴν δόξαν τῆς θεογνωσίας. Ἐκεῖ κατεδίκασε Θεὸς τοὺς ἀσεβεῖς τῷ πταίσματι, ἐνταῦθα ἐφώτισε Χριστὸς τοὺς ἁλιεῖς τῷ Πνεύματι. Τότε κατειργάσθη ἡ ἀφωνία, πρὸς τιμωρίαν, ἄρτι καινουργεῖται ἡ συμφωνία, πρὸς σωτηρίαν τῶν ψυχῶν ἡμῶν."
 
 peVE.Apolytikion1.mode = misc_gr_GR_cog.Mode8
-peVE.Apolytikion1.melody  = ""
+peVE.Apolytikion1.melody = ""
 peVE.Apolytikion1.text = "Εὐλογητὸς εἶ, Χριστὲ ὁ Θεὸς ἡμῶν, ὁ πανσόφους τοὺς ἁλιεῖς ἀναδείξας, καταπέμψας αὐτοῖς τὸ Πνεῦμα τὸ ἅγιον, καὶ δι' αὐτῶν τὴν οἰκουμένην σαγηνεύσας, φιλάνθρωπε, δόξα σοι."
 
 peMA.Kathisma11.mode = misc_gr_GR_cog.Mode4
@@ -98,14 +98,14 @@ peMA.Kathisma31.mode = misc_gr_GR_cog.Mode8
 peMA.Kathisma31.melody = he.a.m8_gr_GR_cog.ToProstachthen.name
 peMA.Kathisma31.text = "Μετὰ τὴν Ἔγερσιν Χριστέ, τὴν ἐκ τοῦ τάφου, καὶ τὴν πρὸς ὕψος οὐρανοῦ, θείαν Ἀνάληψιν, τοῖς θεόπταις τὴν δόξαν σου κατέπεμψας οἰκτίρμον· Πνεῦμα εὐθὲς ἐγκαινίσας τοῖς Μαθηταῖς· ὅθεν, ὥσπερ κιθάρα μουσουργική, πᾶσιν ἐτρανολόγησαν, τῷ θείῳ πλήκτρῳ μυστικῶς, Σῶτερ, τὰ ἀπηχήματα, καὶ τὴν οἰκονομίαν σου."
 
-peMA.Prokeimenon.text = "" //for media
+peMA.MM.Prokeimenon.text = properties_gr_GR_cog.media.key
 
 peMA.PostGospelGlory.mode = misc_gr_GR_cog.Mode2
-peMA.PostGospelGlory.melody  = ""
+peMA.PostGospelGlory.melody = ""
 peMA.PostGospelGlory.text = ho.s03_gr_GR_cog.hoMA.PostGospelApostles.text
 
 peMA.PostGospelBoth.mode = misc_gr_GR_cog.Mode2
-peMA.PostGospelBoth.melody  = ""
+peMA.PostGospelBoth.melody = ""
 peMA.PostGospelBoth.text = ho.s03_gr_GR_cog.hoMA.PostGospelTheotokos.text
 
 peMA.PostGospelIdiomelon.mode = misc_gr_GR_cog.Mode6
@@ -348,7 +348,7 @@ peMA.Ode6C224.text = "Λέσχην ἀπηνῆ τῶν ἐθνῶν ποππυ
 peMA.Ode6C225.text = "Ὤκιστα δεικνύς, πυρπνόως καθιδρύεις."
 
 peMA.Kontakion1.mode = misc_gr_GR_cog.Mode8
-peMA.Kontakion1.melody  = ""
+peMA.Kontakion1.melody = ""
 peMA.Kontakion1.text = "Ὅτε καταβὰς τὰς γλώσσας συνέχεε, διεμέριζεν ἔθνη ὁ Ὕψιστος· ὅτε τοῦ πυρὸς τὰς γλώσσας διένειμεν, εἰς ἑνότητα πάντας ἐκάλεσε, καὶ συμφώνως δοξάζομεν τὸ πανάγιον Πνεῦμα."
 
 peMA.Oikos1.text = "Ταχεῖαν καὶ σταθηρὰν δίδου παραμυθίαν τοῖς δούλοις σου, Ἰησοῦ, ἐν τῷ ἀκηδιάσαι τὰ πνεύματα ἡμῶν, μὴ χωρίζου τῶν ψυχῶν ἡμῶν ἐν θλίψεσι, μὴ μακρύνου τῶν φρενῶν ἡμῶν ἐν περιστάσεσιν, ἀλλὰ ἀεὶ ἡμᾶς πρόφθασον. Ἔγγισον ἡμῖν, ἔγγισον ὁ πανταχοῦ, ὥς περ καὶ τοῖς Ἀποστόλοις σου πάντοτε συνῇς, οὕτω καὶ τοῖς σὲ ποθοῦσιν ἕνωσον σαυτὸν οἰκτίρμον, ἵνα συνημμένοι σοι ὑμνῶμεν, καὶ δοξολογῶμεν τὸ πανάγιόν σου Πνεῦμα."
@@ -524,33 +524,33 @@ peMA.Exaposteilarion2.melody = he.a.m3_gr_GR_cog.OOuranonToisAstrois.name
 peMA.Exaposteilarion2.text = "Φῶς ὁ Πατήρ, φῶς ὁ Λόγος, φῶς καὶ τὸ ἅγιον Πνεῦμα, ὅπερ ἐν γλώσσαις πυρίναις, τοῖς Ἀποστόλοις ἐπέμφθη, καὶ δι' αὐτοῦ πᾶς ὁ κόσμος φωταγωγεῖται, Τριάδα σέβειν ἁγίαν."
 
 peMA.Lauds1.mode = misc_gr_GR_cog.Mode4
-peMA.Lauds1.melody  = ""
+peMA.Lauds1.melody = ""
 peMA.Lauds1.text = "Παράδοξα σήμερον εἶδον τὰ ἔθνη πάντα ἐν πόλει Δαυΐδ, ὅτε τὸ Πνεῦμα κατῆλθε τὸ ἅγιον ἐν πυρίναις γλώσσαις, καθὼς ὁ θεηγόρος Λουκᾶς ἀπεφθέγξατο. Φησὶ γάρ· Συνηγμένων τῶν Μαθητῶν τοῦ Χριστοῦ, ἐγένετο ἦχος καθάπερ φερομένης βιαίας πνοῆς, καὶ ἐπλήρωσε τὸν οἶκον, οὗ ἦσαν καθήμενοι, καὶ πάντες ἤρξαντο φθέγγεσθαι, ξένοις ῥήμασι, ξένοις δόγμασι, ξένοις διδάγμασι, τῆς ἁγίας Τριάδος."
 
 peMA.Lauds2.mode = misc_gr_GR_cog.Mode4
-peMA.Lauds2.melody  = ""
+peMA.Lauds2.melody = ""
 peMA.Lauds2.text = "Τὸ Πνεῦμα τὸ ἅγιον, ἦν μὲν ἀεί, καὶ ἔστι καὶ ἔσται, οὕτε ἀρξάμενον, οὔτε παυσόμενον, ἀλλ' ἀεὶ Πατρὶ καὶ Υἱῷ συντεταγμένον, καὶ συναριθμούμενον; ζωή, καὶ ζωοποιοῦν, φῶς, καὶ φωτὸς χορηγόν; αὐτάγαθον, καὶ πηγὴ ἀγαθότητος· δι' οὗ Πατὴρ γνωρίζεται, καὶ Υἱὸς δοξάζεται, καὶ παρὰ πάντων γινώσκεται, μία δύναμις, μία σύνταξις, μία προσκύνησις, τῆς ἁγίας Τριάδος."
 
 peMA.Lauds3.mode = misc_gr_GR_cog.Mode4
-peMA.Lauds3.melody  = ""
+peMA.Lauds3.melody = ""
 peMA.Lauds3.text = "Τὸ Πνεῦμα τὸ ἅγιον, φῶς, καὶ ζωή, καὶ ζῶσα πηγὴ νοερά, Πνεῦμα σοφίας, Πνεῦμα συνέσεως, ἀγαθόν, εὐθές, νοερόν, ἡγεμονεῦον καθαῖρον τὰ πταίσματα, Θεὸς καὶ θεοποιοῦν, πῦρ, ἐκ πυρὸς προϊόν, λαλοῦν, ἐνεργοῦν, διαιροῦν τὰ χαρίσματα· δι' οὗ Προφῆται ἅπαντες, καὶ Θεοῦ Ἀπόστολοι, μετὰ Μαρτύρων ἐστέφθησαν. Ξένον ἄκουσμα, ξένον θέαμα, πῦρ διαιρούμενον εἰς νομὰς χαρισμάτων."
 
 peMA.LaudsGlory.mode = misc_gr_GR_cog.Mode6
-peMA.LaudsGlory.melody  = ""
+peMA.LaudsGlory.melody = ""
 peMA.LaudsGlory.text = prayers_gr_GR_cog.VasilefOuranie.text
 
 peLI.Antiphon2.text = "Σῶσον ἡμᾶς, Παράκλητε ἀγαθέ,"
 
-peLI.EntranceHymn.text = "" //for media
+peLI.MM.EntranceHymn.text = properties_gr_GR_cog.media.key
 
 peLI.SeasonalKontakion.mode = peMA.Kontakion1.mode
-peLI.SeasonalKontakion.melody  = ""
+peLI.SeasonalKontakion.melody = ""
 peLI.SeasonalKontakion.text = peMA.Kontakion1.text
 
 peLI.TheotokosHymn.mode = peMA.Ode9C1H.mode
 peLI.TheotokosHymn.text = peMA.Ode9C1H.text
 
-peLI.CommunionHymn.text = "" //for media
+peLI.MM.CommunionHymn.text = properties_gr_GR_cog.media.key
 
 peLI.AfterCommunion.mode = peVE.Apolytikion1.mode
 peLI.AfterCommunion.text = peVE.Apolytikion1.text

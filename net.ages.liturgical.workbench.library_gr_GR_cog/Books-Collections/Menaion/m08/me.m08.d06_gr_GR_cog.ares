@@ -64,7 +64,7 @@ meVE.Stichera04.mode = misc_gr_GR_cog.Mode4
 meVE.Stichera04.melody = ""
 meVE.Stichera04.text = "Ὄρος τὸ ποτὲ ζοφῶδες καὶ καπνῶδες, νῦν τίμιον καὶ ἅγιόν ἐστιν, ἐν ᾧ οἱ πόδες σου ἔστησαν Κύριε· πρὸ αἰώνων γὰρ κεκαλυμμένον μυστήριον, ἐπ' ἐσχάτων ἐφανέρωσεν ἡ φρικτή σου Μεταμόρφωσις, Πέτρῳ Ἰωάννῃ καὶ Ἰακώβῳ, οἵτινες τὴν ἀκτῖνα τοῦ προσώπου σου μὴ φέροντες, καὶ τὴν λαμπρότητα τῶν χιτώνων σου, ἐπὶ πρόσωπον, εἰς γῆν κατεβαρύνοντο, οἳ καὶ τῇ ἐκστάσει συνεχόμενοι, ἐθαύμαζον βλέποντες, Μωϋσῆν καὶ Ἠλίαν συλλαλοῦντάς σοι τὰ μέλλοντα συμβαίνειν σοι, καὶ φωνὴ ἐκ τοῦ Πατρός, ἐμαρτύρει λέγουσα· Οὗτός ἐστιν ὁ Υἱός μου ὁ ἀγαπητός, ἐν ᾧ εὐδόκησᾳ, αὐτοῦ ἀκούετε, ὃς τις καὶ δωρεῖται τῷ κόσμῳ τὸ μέγα ἔλεος."
 
-meVE.Stichera78910.text = "" // for media stichera78910 on Sunday after feast
+meVE.MM.Stichera1234as78910.text = properties_gr_GR_cog.media.key
 
 meVE.SticGlory.poet = poets_gr_GR_cog.Anatoliou
 meVE.SticGlory.mode = misc_gr_GR_cog.Mode6
@@ -85,11 +85,11 @@ meVE.Lity3.text = "Τὸ προήλιον σέλας Χριστός, σωμα
 
 meVE.LityGlory.mode = misc_gr_GR_cog.Mode5
 meVE.LityGlory.melody = ""
-meVE.LityGlory.text = "Δεῦτε ἀναβῶμεν εἰς τὸ ὄρος Κυρίου, καὶ εἰς τὸν οἶκον τοῦ Θεοῦ ἡμῶν, καὶ θεασώμεθα τὴν δόξαν τῆς Μεταμορφώσεως αὐτοῦ, δόξαν ὡς μονογενοῦς παρὰ Πατρός, φωτὶ προσλάβωμεν φῶς, καὶ μετάρσιοι γενόμενοι τῷ πνεύματι, Τριάδα ὁμοούσιον ὑμνήσωμεν εἰς τοὺς αἰῶνας."
+meVE.LityGlory.text = me.m08.d05_gr_GR_cog.meVE.SticGlory.text
 
 meVE.LityBoth.mode = misc_gr_GR_cog.Mode5
 meVE.LityBoth.melody = ""
-meVE.LityBoth.text = "Νόμου καὶ Προφητῶν σε Χριστέ, ποιητὴν καὶ πληρωτὴν ἐμαρτύρησαν, ὁρῶντες ἐν τῇ νεφέλῃ, Μωϋσῆς ὁ θεόπτης καὶ Ἠλίας ὁ ἔμπυρος ἁρματηλάτης, καὶ ἄφλεκτος οὐρανοδρόμος, ἐπὶ τῆς Μεταμορφώσεώς σου, μεθ' ὧν καὶ ἡμᾶς, τοῦ σοῦ φωτισμοῦ ἀξίωσον Δέσποτα, ὑμνεῖν σε εἰς τοὺς αἰῶνας."
+meVE.LityBoth.text = me.m08.d05_gr_GR_cog.meMA.AposGlory.text
 
 meVE.Aposticha1.mode = misc_gr_GR_cog.Mode1
 meVE.Aposticha1.melody = ""

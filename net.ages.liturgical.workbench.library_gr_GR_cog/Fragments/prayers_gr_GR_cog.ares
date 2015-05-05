@@ -36,8 +36,6 @@ DoxaSoiOTheos1 = "Δόξα σοι ὁ Θεός."
 
 DoxaSoiOTheosImon.text = "Δόξα σοι ὁ Θεὸς ἡμῶν, δόξα σοι."
 
-DoxaTiAgiaAnastasei.text = "Δόξα τῇ ἁγίᾳ Ἀναστάσει σου, Κύριε."
-
 DoxaTiMakrothymia.text = "Δόξα τῇ μακροθυμίᾳ σου, Κύριε, δόξα σοι."
 
 DoxaTiMakrothymiaP.text = "(Δόξα τῇ μακρουθμίᾳ σου, Κύριε, δόξα σοι.)"
@@ -71,16 +69,6 @@ EvlogisonP = "(Εὐλόγησον.)"
 EnOnomatiKyriou.text = "Ἐν ὀνόματι Κυρίου εὐλόγησον, Πάτερ."
 
 EvlogisonThymiama.text = "Εὐλόγησον, Δέσποτα, τὸ θυμίαμα."
-
-AgieTouTheou.text = "Ἅγιε τοῦ Θεοῦ, πρέσβευε ὑπὲρ ἡμῶν."
-
-AgiaTouTheou.text = "Ἁγία τοῦ Θεοῦ, πρέσβευε ὑπὲρ ἡμῶν."
-
-AgioiTouTheou.text = "Ἅγιοι τοῦ Θεοῦ, πρεσβεύσατε ὑπὲρ ἡμῶν."
-
-ApostoleTouChristou.text = "Ἀπόστολε τοῦ Χριστοῦ, πρεσβεύσατε ὑπὲρ ἡμῶν."
-
-OsiaTouTheou.text = "Ὁσία τοῦ Θεοῦ, πρεσβευε ὑπὲρ ἡμῶν."
 
 EleisonMeOTheos.text = "Ἐλέησόν με, ὁ Θεός, ἐλέησόν με."
 
@@ -633,9 +621,13 @@ verse_Angels.text = "Ἀρχάγγελοι τοῦ Θεοῦ, πρεσβεύσα
 
 verseP_Angels.text = "(Ἀρχάγγελοι τοῦ Θεοῦ, πρεσβεύσατε ὑπὲρ ἡμῶν.)"
 
-verse_ApostlesMartyrs.text = "Ἀπόστολοι τοῦ Χριστοῦ, πρεσβεύσατε ὑπὲρ ἡμῶν."
+verse_Apostle.text = "Ἀπόστολε τοῦ Χριστοῦ, πρέσβευε ὑπὲρ ἡμῶν."
 
-verseP_ApostlesMartyrs.text = "(Ἀπόστολοι τοῦ Χριστοῦ, πρεσβεύσατε ὑπὲρ ἡμῶν.)"
+verse_Apostles.text = "Ἀπόστολοι τοῦ Χριστοῦ, πρεσβεύσατε ὑπὲρ ἡμῶν."
+
+verse_ApostlesMartyrs.text = "Ἀπόστολοι καὶ Μάρτυρες τοῦ Χριστοῦ, πρεσβεύσατε ὑπὲρ ἡμῶν."
+
+verseP_ApostlesMartyrs.text = "(Ἀπόστολοι καὶ Μάρτυρες τοῦ Χριστοῦ, πρεσβεύσατε ὑπὲρ ἡμῶν.)"
 
 verse_Baptist.text = "Βαπτιστὰ τοῦ Χριστοῦ, πρέσβευε ὑπὲρ ἡμῶν."
 
@@ -644,6 +636,16 @@ verseP_Baptist.text = "(Βαπτιστὰ τοῦ Χριστοῦ, πρέσβε�
 verse_Cross.text = "Σταυρὲ πανάγιε τοῦ Χριστοῦ, σκέπε ἡμᾶς τῇ δυνάμει σου."
 
 verseP_Cross.text = "(Σταυρὲ πανάγιε τοῦ Χριστοῦ, σκέπε ἡμᾶς τῇ δυνάμει σου.)"
+
+verse_Crucifixion.text = "Δόξα τῇ ἁγίᾳ Σταυρώσει σου, Κύριε."
+
+verse_DevoutMan.text = "Ὅσιε τοῦ Θεοῦ, πρέσβευε ὑπὲρ ἡμῶν."
+
+verse_DevoutMen.text = "Ὅσιοι τοῦ Θεοῦ, πρεσβεύσατε ὑπὲρ ἡμῶν."
+
+verse_DevoutWoman.text = "Ὁσία τοῦ Θεοῦ, πρέσβευε ὑπὲρ ἡμῶν."
+
+verse_God.text = "Δόξα σοι ὁ Θεὸς ἡμῶν, δόξα σοι."
 
 verse_GreatMartyrs.text = "Ἅγιοι μεγαλομάρτυρες τοῦ Χριστοῦ, πρεσβεύσατε ὑπὲρ ἡμῶν."
 
@@ -661,9 +663,17 @@ verse_Panteleimon.text = "Ἅγιε ἔνδοξε μεγαλομάρτυς το�
 
 verseP_Panteleimon.text = "(Ἅγιε ἔνδοξε μεγαλομάρτυς τοῦ Χριστοῦ καὶ ἰαματικὲ Παντελεῆμον, πρέσβευε ὑπὲρ ἡμῶν.)"
 
+verse_Resurrection.text = "Δόξα τῇ ἁγίᾳ Ἀναστάσει σου, Κύριε."
+
 verse_Righteous.text = "Ἅγιοι προπάτορες τοῦ Χριστοῦ, πρεσβεύσατε ὑπὲρ ἡμῶν."
 
 verseP_Righteous.text = "(Ἅγιοι προπάτορες τοῦ Χριστοῦ, πρεσβεύσατε ὑπὲρ ἡμῶν.)"
+
+verse_SaintM.text = "Ἅγιε τοῦ Θεοῦ, πρέσβευε ὑπὲρ ἡμῶν."
+
+verse_SaintW.text = "Ἁγία τοῦ Θεοῦ, πρέσβευε ὑπὲρ ἡμῶν."
+
+verse_SaintsM.text = "Ἅγιοι τοῦ Θεοῦ, πρεσβεύσατε ὑπὲρ ἡμῶν."
 
 verse_SoulSaturday.text = "Πρεσβείαις, Κύριε, τῶν Μαρτύρων σου, ἀνάπαυσον τὰς ψυχὰς τῶν δούλων σου."
 

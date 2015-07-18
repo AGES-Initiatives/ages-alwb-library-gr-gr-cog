@@ -220,11 +220,6 @@ meMA.Ode1C3T.mode = misc_gr_GR_cog.Mode8
 meMA.Ode1C3T.melody = he.h.m8_gr_GR_cog.AsomenToKyrioPantesLaoi.name
 meMA.Ode1C3T.text = "Ἄχραντε Θεοτόκε, χαῖρε σεμνή, ἡ τὸν ἀχώρητον Θεόν, ἐν σῇ γαστρὶ χωρήσασα, λυτρωθῆναι τῶν δεινῶν, αἴτησαι τοὺς ἀνυμνοῦντάς σε."
 
-meMA.Ode1K.ode = misc_gr_GR_cog.Ode1
-meMA.Ode1K.mode = misc_gr_GR_cog.Mode8
-meMA.Ode1K.melody = misc_gr_GR_cog.Heirmos
-meMA.Ode1K.text = he.h.m8_gr_GR_cog.StavronCharaxasMosis.text
-
 meMA.Ode3C1H.ode = misc_gr_GR_cog.Ode3
 meMA.Ode3C1H.mode = misc_gr_GR_cog.Mode1
 meMA.Ode3C1H.melody = misc_gr_GR_cog.Heirmos
@@ -289,11 +284,6 @@ meMA.Ode3C3T.ode = misc_gr_GR_cog.Ode3
 meMA.Ode3C3T.mode = misc_gr_GR_cog.Mode8
 meMA.Ode3C3T.melody = he.h.m8_gr_GR_cog.TonFovonSouKyrie.name
 meMA.Ode3C3T.text = "Ἀρρήτως συνέλαβες Θεόνυμφε, τὸν Σωτῆρά τε καὶ Κύριον, τὸν λυτρούμενον ἡμᾶς τῶν δεινῶν, τοὺς σὲ ἐν ἀληθείᾳ ἐπικαλουμένους."
-
-meMA.Ode3K.ode = misc_gr_GR_cog.Ode3
-meMA.Ode3K.mode = misc_gr_GR_cog.Mode8
-meMA.Ode3K.melody = misc_gr_GR_cog.Heirmos
-meMA.Ode3K.text = he.h.m8_gr_GR_cog.RavdosEisTypon.text
 
 meMA.Ode3Kathisma1.mode = misc_gr_GR_cog.Mode8
 meMA.Ode3Kathisma1.melody = he.a.m8_gr_GR_cog.TinSofianKaiLogon.name
@@ -382,15 +372,10 @@ meMA.Ode4C3T.mode = misc_gr_GR_cog.Mode8
 meMA.Ode4C3T.melody = he.h.m8_gr_GR_cog.EisakikoaKyrie.name
 meMA.Ode4C3T.text = "Τὸν Θεὸν ὃν ἐκύησας, ἄχραντε Μαρία δυσώπει πάντοτε, τοῖς οἰκέταις σου δωρήσασθαι, τῶν πλημμελημάτων τὴν συγχώρησιν."
 
-meMA.Ode4K.ode = misc_gr_GR_cog.Ode4
-meMA.Ode4K.mode = misc_gr_GR_cog.Mode8
-meMA.Ode4K.melody = misc_gr_GR_cog.Heirmos
-meMA.Ode4K.text = he.h.m8_gr_GR_cog.EisakikoaKyrie.text
-
 meMA.Ode5C1H.ode = misc_gr_GR_cog.Ode5
 meMA.Ode5C1H.mode = misc_gr_GR_cog.Mode1
 meMA.Ode5C1H.melody = misc_gr_GR_cog.Heirmos
-meMA.Ode5C1H.text = he.h.m1_gr_GR_cog.EkNyktosOrthrizontes.name
+meMA.Ode5C1H.text = he.h.m1_gr_GR_cog.EkNyktosOrthrizontes.text
 
 meMA.Ode5C11.ode = misc_gr_GR_cog.Ode5
 meMA.Ode5C11.mode = misc_gr_GR_cog.Mode1
@@ -452,11 +437,6 @@ meMA.Ode5C3T.mode = misc_gr_GR_cog.Mode8
 meMA.Ode5C3T.melody = he.h.m8_gr_GR_cog.FotisonImas.name
 meMA.Ode5C3T.text = "Δυσώπησον ἀεί, τὸν Υἱόν σου καὶ Θεὸν ἡμῶν, ἀπειρόγαμε Μαρία ἁγνή, τοῦ καταπέμψαι ἡμῖν τοῖς πιστοῖς τὸ ἔλεος."
 
-meMA.Ode5K.ode = misc_gr_GR_cog.Ode5
-meMA.Ode5K.mode = misc_gr_GR_cog.Mode8
-meMA.Ode5K.melody = misc_gr_GR_cog.Heirmos
-meMA.Ode5K.text = he.h.m8_gr_GR_cog.OTrismakaristonXylon.text
-
 meMA.Ode6C1H.ode = misc_gr_GR_cog.Ode6
 meMA.Ode6C1H.mode = misc_gr_GR_cog.Mode1
 meMA.Ode6C1H.melody = misc_gr_GR_cog.Heirmos
@@ -516,11 +496,6 @@ meMA.Ode6C3T.ode = misc_gr_GR_cog.Ode6
 meMA.Ode6C3T.mode = misc_gr_GR_cog.Mode8
 meMA.Ode6C3T.melody = he.h.m8_gr_GR_cog.ChitonaMoiParaschou.name
 meMA.Ode6C3T.text = "Ναὸν σε τοῦ Θεοῦ καὶ κιβωτόν, καὶ παστάδα ἔμψυχον, καὶ πύλην οὐράνιον, Θεοτόκε οἱ Πιστοὶ καταγγέλλομεν."
-
-meMA.Ode6K.ode = misc_gr_GR_cog.Ode6
-meMA.Ode6K.mode = misc_gr_GR_cog.Mode8
-meMA.Ode6K.melody = misc_gr_GR_cog.Heirmos
-meMA.Ode6K.text = he.h.m8_gr_GR_cog.NotiouThiros.text
 
 meMA.Kontakion1.poet = poets_gr_GR_cog.PatriarchouKyrillou
 meMA.Kontakion1.mode = misc_gr_GR_cog.Mode3
@@ -600,11 +575,6 @@ meMA.Ode7C3T.mode = misc_gr_GR_cog.Mode8
 meMA.Ode7C3T.melody = he.h.m8_gr_GR_cog.PaidesTheoseveis.name
 meMA.Ode7C3T.text = "Ἔπρεπε τῷ ἀσπόρως σαρκουμένῳ, ἐκ σοῦ προελθεῖν Παρθένε ἄχραντε· σὺ γὰρ ἔφυσας τὸν πάντων ἁγνὴ ἀνυπέρβλητον, ᾧ βοῶντες, ὕμνοις κραυγάζομεν· Εὐλογητὸς ὁ Θεὸς ὁ τῶν Πατέρων ἡμῶν."
 
-meMA.Ode7K.ode = misc_gr_GR_cog.Ode7
-meMA.Ode7K.mode = misc_gr_GR_cog.Mode8
-meMA.Ode7K.melody = misc_gr_GR_cog.Heirmos
-meMA.Ode7K.text = he.h.m8_gr_GR_cog.EknoonProstagma.text
-
 meMA.Ode8C1H.ode = misc_gr_GR_cog.Ode8
 meMA.Ode8C1H.mode = misc_gr_GR_cog.Mode1
 meMA.Ode8C1H.melody = misc_gr_GR_cog.Heirmos
@@ -680,11 +650,6 @@ meMA.Ode8C3T.mode = misc_gr_GR_cog.Mode8
 meMA.Ode8C3T.melody = he.h.m8_gr_GR_cog.TonEnOreiAgio.name
 meMA.Ode8C3T.text = "Τὴν δι' Ἀγγέλου τὸ Χαῖρε δεξαμένην, καὶ τεκοῦσαν τὸν Κύριον τῆς δόξης, καὶ τὸ φῶς τῷ κόσμῳ ἀνατείλασαν, πάντες σὲ ὑμνοῦμεν, καὶ δοξολογοῦμεν Παρθένε Θεοτόκε."
 
-meMA.Ode8K.ode = misc_gr_GR_cog.Ode8
-meMA.Ode8K.mode = misc_gr_GR_cog.Mode8
-meMA.Ode8K.melody = misc_gr_GR_cog.Heirmos
-meMA.Ode8K.text = he.h.m8_gr_GR_cog.EvlogeitePaides.text
-
 meMA.Ode9C1H.ode = misc_gr_GR_cog.Ode9
 meMA.Ode9C1H.mode = misc_gr_GR_cog.Mode1
 meMA.Ode9C1H.melody = misc_gr_GR_cog.Heirmos
@@ -744,16 +709,6 @@ meMA.Ode9C3T.ode = misc_gr_GR_cog.Ode9
 meMA.Ode9C3T.mode = misc_gr_GR_cog.Mode8
 meMA.Ode9C3T.melody = he.h.m8_gr_GR_cog.TonProdilothenta.name
 meMA.Ode9C3T.text = "Βάτος καιομένη, πυρὶ καὶ μὴ φλεγομένη, ἀνεδείχθης ὦ Παρθένε, συλλαβοῦσα ἀσπόρως, τὸν Θεὸν καὶ Σωτῆρα τοῦ κόσμου, ὃν ἀκαταπαύστως μεγαλύνομεν."
-
-meMA.Ode9K.ode = misc_gr_GR_cog.Ode9
-meMA.Ode9K.mode = misc_gr_GR_cog.Mode8
-meMA.Ode9K.melody = misc_gr_GR_cog.Heirmos
-meMA.Ode9K.text = he.h.m8_gr_GR_cog.MystikosEiTheotoke.text
-
-meMA.Ode9K2.ode = misc_gr_GR_cog.Ode9
-meMA.Ode9K2.mode = misc_gr_GR_cog.Mode8
-meMA.Ode9K2.melody = misc_gr_GR_cog.Heirmos
-meMA.Ode9K2.text = he.h.m8_gr_GR_cog.ODiaVroseos.text
 
 meMA.Exaposteilarion1.mode = misc_gr_GR_cog.Mode2
 meMA.Exaposteilarion1.melody = he.a.m2_gr_GR_cog.ToisMathitaisSynelthomen.name

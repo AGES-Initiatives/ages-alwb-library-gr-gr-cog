@@ -437,6 +437,7 @@ meMegalynarion.text = ""
 alt1.meDate.text = "Τῌ ΚΗʹ ΟΚΤΩΒΡΙΟΥ"
 alt1.meCommemoration.text = "Ἀνάμνησιν ἐπιτελοῦμεν τῆς ἁγίας Σκέπης τῆ Ὑπεραγίας Δεσποίνης ἡμῶν Θεοτόκου καὶ Ἀειπαρθένου Μαρίας." //full title of day
 alt1.meShortCommemoration1.text = ""
+
 alt1.meInsert1 = "" //for use in petitions and dismissal
 alt1.meInsert2 = "ἧς τῆς ἁγίας Σκέπης τὴν ἀνάμνησιν ἐπιτελοῦμεν," //for use in petitions and dismissal
 alt1.meNote.text = "Ἡ Ἀκολουθία αὕτη, ποιηθεῖσα ὑπὸ τοῦ ἐν Ἁγίῳ Ὄρει ᾀσματογράφου Μοναχοῦ Γερασίμου Μικραγιαννανίτου, ἐνεκρίθη ὑπὸ τῆς Ἱερὰς Συνόδου τῆς Ἐκκλησίας τῆς Ἑλλάδος ἐν τῇ συνεδρίᾳ Αὐτῆς τῆς 21ης Ὀκτωβρίου 1952, καθ' ἣ καἰ ἀπεφασίσθη ὁ συνεορτασμὸς τῆς Ἑορτῆς τῆς ἁγίας Σκέπης τῆς Ὑπεραγίας Θεοτόκου μετὰ τῆς Ἐθνικῆς Ἑορτῆς τῶν Νικητηρίων τῆς 28ης Ὀκτωβρίου. (Αἱ Συνοδικαὶ Ἐγκύκλιοι, Τόμος Βʹ, Ἀθῆναι 1956, σελ. 649)."
@@ -634,12 +635,6 @@ alt1.meMA.Ode1C24.ode = misc_gr_GR_cog.Ode1
 alt1.meMA.Ode1C24.mode = misc_gr_GR_cog.Mode8
 alt1.meMA.Ode1C24.melody = he.h.m8_gr_GR_cog.ArmatilatinFarao.name
 alt1.meMA.Ode1C24.text = "Πλήρης φωτὸς πλήρης ἐλέους Δέσποινα, ἐν Βλαχερνὼν τῷ ναῷ, μυστικῶς ἐπέστης, καὶ λαμπρῶς ὑπέδειξας, τῆς πρὸς ἡμᾶς εὐνοίας σου, τὴν ἐξαίρετον χάριν, τῇ ἀναπτύξει τῆς Σκέπης σου· ὅθεν κατὰ χρέος ὑμνοῦμεν σε."
-
-alt1.meMA.Ode1K.ode = misc_gr_GR_cog.Ode1
-alt1.meMA.Ode1K.mode = misc_gr_GR_cog.Mode4
-alt1.meMA.Ode1K.melody = misc_gr_GR_cog.Heirmos
-alt1.meMA.Ode1K.text = he.h.m4_gr_GR_cog.AnoixoToStomaMou.text
-
 alt1.meMA.Ode3C1H.ode = misc_gr_GR_cog.Ode3
 alt1.meMA.Ode3C1H.mode = misc_gr_GR_cog.Mode4
 alt1.meMA.Ode3C1H.melody = misc_gr_GR_cog.Heirmos
@@ -685,14 +680,9 @@ alt1.meMA.Ode3C24.mode = misc_gr_GR_cog.Mode8
 alt1.meMA.Ode3C24.melody = he.h.m8_gr_GR_cog.OStereosasKatArchas.name
 alt1.meMA.Ode3C24.text = "Μυρίων πρόξενος καλῶν, τεκοῦσα τὸν Θεὸν Λόγον, ἀνεδείχθης τῶν ἀνθρώπων τῷ γένει, καὶ μυρίων ἀναγκῶν, καὶ πειρασμῶν καὶ θλίψεων, λυτροῦσαι τῇ σῇ Σκέπῃ, τοὺς σὲ Παρθένε γεραίροντας."
 
-alt1.meMA.Ode3K.ode = misc_gr_GR_cog.Ode3
-alt1.meMA.Ode3K.mode = misc_gr_GR_cog.Mode4
-alt1.meMA.Ode3K.melody = misc_gr_GR_cog.Heirmos
-alt1.meMA.Ode3K.text = he.h.m4_gr_GR_cog.TousSousYmnologous.text
-
 alt1.meMA.Ode3Kathisma1.mode = misc_gr_GR_cog.Mode3
 alt1.meMA.Ode3Kathisma1.melody = he.a.m3_gr_GR_cog.TheiasPisteos.name
-alt1.meMA.Ode3Kathisma1.text = "Σκέπη πέφηνας, καὶ σωτηρία, καὶ ἀντίληψις, καὶ προστασία, τῶν Ὀρθοδόξων Ἑλλήνων Πανύμνητε· ὅθεν τὴν Σκέπην τὴν σὴν μεγαλύνομεν, καὶ τὴν θερμὴν προστασίαν κηρύττομεν, Κόρη Παναγνέ, ἡ σκέπουσα τάς ψυχὰς ἡμῶν, ἐκ πάσης ἐπιθέσεως τοῦ δράκοντος."
+alt1.meMA.Ode3Kathisma1.text = "Σκέπη πέφηνας, καὶ σωτηρία, καὶ ἀντίληψις, καὶ προστασία, τῶν Ὀρθοδόξων Ἑλλήνων Πανύμνητε‧ ὅθεν τὴν Σκέπην τὴν σὴν μεγαλύνομεν, καὶ τὴν θερμὴν προστασίαν κηρύττομεν, Κόρη Παναγνέ, ἡ σκέπουσα τάς ψυχὰς ἡμῶν, ἐκ πάσης ἐπιθέσεως τοῦ δράκοντος."
 
 alt1.meMA.Ode4C1H.ode = misc_gr_GR_cog.Ode4
 alt1.meMA.Ode4C1H.mode = misc_gr_GR_cog.Mode4
@@ -738,12 +728,6 @@ alt1.meMA.Ode4C24.ode = misc_gr_GR_cog.Ode4
 alt1.meMA.Ode4C24.mode = misc_gr_GR_cog.Mode8
 alt1.meMA.Ode4C24.melody = he.h.m8_gr_GR_cog.SyMouIschys.name
 alt1.meMA.Ode4C24.text = "Τὴν θαυμαστήν, καὶ ἀστραπόμορφον Σκέπην σου, δι' ἧς σκέπεις, καὶ σῴζεις Πανύμνητε, τῶν εὐσεβούντων πᾶσαν ψυχήν, ἀνυμνολογοῦμεν, οἱ διὰ ταύτης σῳζόμενοι, δεινῶν πειρατηρίων, καὶ πιστῶς σοι βοῶμεν· χαῖρε Κόρη ἀνθρώπων βοήθεια."
-
-alt1.meMA.Ode4K.ode = misc_gr_GR_cog.Ode4
-alt1.meMA.Ode4K.mode = misc_gr_GR_cog.Mode4
-alt1.meMA.Ode4K.melody = misc_gr_GR_cog.Heirmos
-alt1.meMA.Ode4K.text = he.h.m4_gr_GR_cog.TinAnexichniaston.text
-
 alt1.meMA.Ode5C1H.ode = misc_gr_GR_cog.Ode5
 alt1.meMA.Ode5C1H.mode = misc_gr_GR_cog.Mode4
 alt1.meMA.Ode5C1H.melody = misc_gr_GR_cog.Heirmos
@@ -788,12 +772,6 @@ alt1.meMA.Ode5C24.ode = misc_gr_GR_cog.Ode5
 alt1.meMA.Ode5C24.mode = misc_gr_GR_cog.Mode8
 alt1.meMA.Ode5C24.melody = he.h.m8_gr_GR_cog.InaTiMeAposo.name
 alt1.meMA.Ode5C24.text = "Ἐν ἐρήμῳ μὲν πάλαι, τὸν Ἰσραηλίτην λαὸν Κόρη ἔσκεπε, φωταυγὴς νεφέλη· νῦν ἡμᾶς δὲ ἡ πάμφωτος Σκέπη σου, σκέπει καὶ διέπει, καὶ πρὸς τὸ φῶς τῶν προσταγμάτων, τοῦ Υἱοῦ σου ἰθύνει ἑκάστοτε."
-
-alt1.meMA.Ode5K.ode = misc_gr_GR_cog.Ode5
-alt1.meMA.Ode5K.mode = misc_gr_GR_cog.Mode4
-alt1.meMA.Ode5K.melody = misc_gr_GR_cog.Heirmos
-alt1.meMA.Ode5K.text = he.h.m4_gr_GR_cog.ExestiTaSympanta.text
-
 alt1.meMA.Ode6C1H.ode = misc_gr_GR_cog.Ode6
 alt1.meMA.Ode6C1H.mode = misc_gr_GR_cog.Mode4
 alt1.meMA.Ode6C1H.melody = misc_gr_GR_cog.Heirmos
@@ -838,12 +816,6 @@ alt1.meMA.Ode6C24.ode = misc_gr_GR_cog.Ode6
 alt1.meMA.Ode6C24.mode = misc_gr_GR_cog.Mode8
 alt1.meMA.Ode6C24.melody = he.h.m8_gr_GR_cog.IlasthitiMoiSotir.name
 alt1.meMA.Ode6C24.text = "Κύκλῳ ἡμῶν ὥσπερ πῦρ, καταναλίσκον τοὺς ἄφρονας, τὴν Σκέπην σου τὴν λαμπράν, παρεμβάλλεις Ἄχραντε, ἡμᾶς διασῴζουσα, τῆς τούτων μανίας· διὰ τοῦτο σε δοξάζομεν."
-
-alt1.meMA.Ode6K.ode = misc_gr_GR_cog.Ode6
-alt1.meMA.Ode6K.mode = misc_gr_GR_cog.Mode4
-alt1.meMA.Ode6K.melody = misc_gr_GR_cog.Heirmos
-alt1.meMA.Ode6K.text = he.h.m4_gr_GR_cog.TinTheianTaftin.text
-
 alt1.meMA.Kontakion1.mode = misc_gr_GR_cog.Mode8
 alt1.meMA.Kontakion1.melody = he.a.m8_gr_GR_cog.TiYpermacho.name
 alt1.meMA.Kontakion1.text = "Ὥσπερ νεφέλη ἀγλαῶς ἐπισκιάζουσα, τῆς Ἐκκλησίας τὰ πληρώματα Πανάχραντε, ἐν τῇ πόλει πάλαι ὤφθης τῇ Βασιλίδι. Ἀλλ' ὡς σκέπη τοῦ λαοῦ σου καὶ ὑπέρμαχος, περισκέπασον ἡμᾶς ἐκ πάσης θλίψεως, τοὺς κραυγάζοντας· Χαῖρε Σκέπη ὁλόφωτε."
@@ -903,12 +875,6 @@ alt1.meMA.Ode7C24.ode = misc_gr_GR_cog.Ode7
 alt1.meMA.Ode7C24.mode = misc_gr_GR_cog.Mode8
 alt1.meMA.Ode7C24.melody = he.h.m8_gr_GR_cog.TheouSynkatavasin.name
 alt1.meMA.Ode7C24.text = "Ἐκάλυπτε πρότερον, φωτὸς νεφέλη τοῦ μαρτυρίου σκηνήν‧ νῦν δὲ Κόρη καλύπτει, τὴν Ἐκκλησίαν Χριστοῦ ἡ Σκέπη σου, ἡ θαυμαστὴ καὶ ὑπέρλαμπρος Ἄχραντε, ἡμέρας τε καὶ νυκτός, καθάπερ ὄρος Θεοῦ."
-
-alt1.meMA.Ode7K.ode = misc_gr_GR_cog.Ode7
-alt1.meMA.Ode7K.mode = misc_gr_GR_cog.Mode4
-alt1.meMA.Ode7K.melody = misc_gr_GR_cog.Heirmos
-alt1.meMA.Ode7K.text = he.h.m4_gr_GR_cog.OukElatrefsan.text
-
 alt1.meMA.Ode8C1H.ode = misc_gr_GR_cog.Ode8
 alt1.meMA.Ode8C1H.mode = misc_gr_GR_cog.Mode4
 alt1.meMA.Ode8C1H.melody = misc_gr_GR_cog.Heirmos
@@ -953,12 +919,6 @@ alt1.meMA.Ode8C24.ode = misc_gr_GR_cog.Ode8
 alt1.meMA.Ode8C24.mode = misc_gr_GR_cog.Mode8
 alt1.meMA.Ode8C24.melody = he.h.m8_gr_GR_cog.TonEnOreiAgio.name
 alt1.meMA.Ode8C24.text = "Ἰσχυρὰν σε παράκλησιν ἐν βίῳ, κεκτημένοι Ἁγνή, καὶ ἀρραργῆ ἐλπίδα, τῇ κραταιᾷ σοῦ Σκέπῃ καταφεύγομεν, καὶ τῶν τοῦ δολίου, λυτρούμεθα σκανδάλων, ὑμνοῦντές σου τὴν χάριν."
-
-alt1.meMA.Ode8K.ode = misc_gr_GR_cog.Ode8
-alt1.meMA.Ode8K.mode = misc_gr_GR_cog.Mode4
-alt1.meMA.Ode8K.melody = misc_gr_GR_cog.Heirmos
-alt1.meMA.Ode8K.text = he.h.m4_gr_GR_cog.PaidasEvageis.text
-
 alt1.meMA.Ode9C1M01.text = "Ἄγγελοι τὴν Σκέπην τῆς Θεοτόκου, ἐν ὕμνοις μεγαλύνουσιν, ὅτι πιστῶν τάς χορείας, ἁπανταχοῦ περισκέπει."
 alt1.meMA.Ode9C1M02.text = "Ἄγγελοι τὴν Σκέπην τῆς Θεοτόκου, ὁρῶντες κατεπλήττοντο, πῶς περισκέπει καὶ σῴζει τοὺς ἐπ' αὐτῇ πεποιθότας."
 alt1.meMA.Ode9C1M03.text = "Ἄγγελοι καὶ ἄνθρωποι τὴν σεπτήν Σου, Σκέπην τιμῶμεν Δέσποινα· πάντας γὰρ σκέπεις ἐν ταύτῃ, τοὺς σὲ πιστῶς ἀνυμνοῦντας."
@@ -1014,12 +974,6 @@ alt1.meMA.Ode9C24.ode = misc_gr_GR_cog.Ode9
 alt1.meMA.Ode9C24.mode = misc_gr_GR_cog.Mode8
 alt1.meMA.Ode9C24.melody = he.h.m8_gr_GR_cog.ExestiEpiTouto.name
 alt1.meMA.Ode9C24.text = "Ὑμνοῦντές σου τῆς Σκέπης τάς πολλαπλάς, δωρεᾶς καὶ τὴν χάριν τὴν ἄφθονον, Μῆτερ Ἁγνή, ὧν κατατρυφῶμεν διηνεκῶς, ἀπὸ ψυχῆς βοῶμεν σοι‧ Ὥσπερ πάλαι ἔσκεπες σὸν λαόν, οὕτω καὶ νῦν χειρί σου, σκέπε ἡμᾶς καὶ σῷζε, ἄχρι τερμάτων βίου Ἄχραντε."
-
-alt1.meMA.Ode9K.ode = misc_gr_GR_cog.Ode9
-alt1.meMA.Ode9K.mode = misc_gr_GR_cog.Mode4
-alt1.meMA.Ode9K.melody = misc_gr_GR_cog.Heirmos
-alt1.meMA.Ode9K.text = he.h.m4_gr_GR_cog.ApasGigenis.text
-
 alt1.meMA.Exaposteilarion1.mode = misc_gr_GR_cog.Mode3
 alt1.meMA.Exaposteilarion1.melody = he.a.m3_gr_GR_cog.OOuranonToisAstrois.name
 alt1.meMA.Exaposteilarion1.text = "Ἡ θεία Σκέπη σου Κόρη, ἐπισκιάζει τοὺς πιστοὺς καὶ τὸ ἡμέτερον Γένος, σκέπει, διέπει καὶ φρουρεῖ, ἀπὸ παντοίων κινδύνων, ἀπήμαντον Θεοτόκε."
@@ -1041,7 +995,7 @@ alt1.meMA.Lauds3.melody = he.a.m1_gr_GR_cog.TonOuranionTagmaton.name
 alt1.meMA.Lauds3.text = "Ἡ Βασιλεύουσα πόλις, Παρθένε πρότερον, ἐρρύετο κινδύνων, καὶ δεινῶν πολεμίων, τῇ Σκέπῃ σου τῇ θείᾳ καὶ θαυμαστῇ, ἡ Ἑλλὰς δὲ νῦν ἅπασα, τῇ ταύτης χάριτι ῥύεται χαλεπῶν, συμφορῶν καὶ περιστάσεων."
 
 alt1.meMA.Lauds4.mode = misc_gr_GR_cog.Mode1
-alt1.meMA.Lauds4.melody = ""
+alt1.meMA.Lauds4.melody = he.a.m1_gr_GR_cog.TonOuranionTagmaton.name
 alt1.meMA.Lauds4.text = "Ὡς θαυμαστὴ σου Παρθένε περὶ τὸ Γένος σου, πάλαι καὶ νῦν τυγχάνει, τῆς εὐνοίας ἡ χάρις· διὸ ὑπὸ τὴν Σκέπην σου τὴν σεπτήν, καθ' ἑκάστην προστρέχοντες, λύσιν εὑρίσκομεν πάσης ἐπιβουλῆς, καὶ καλῶν παντοίων μέθεξιν."
 
 alt1.meMA.LaudsGlory.mode = misc_gr_GR_cog.Mode5

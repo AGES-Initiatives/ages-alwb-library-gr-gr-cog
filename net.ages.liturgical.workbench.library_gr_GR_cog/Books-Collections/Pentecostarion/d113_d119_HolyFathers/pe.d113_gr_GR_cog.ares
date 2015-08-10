@@ -127,10 +127,6 @@ peMA.Ode3C1T.mode = misc_gr_GR_cog.Mode6
 peMA.Ode3C1T.melody = he.h.m6_gr_GR_cog.OukEstinAgios.name
 peMA.Ode3C1T.text = "Οὐ σθένει λόγος σε βροτῶν, οὐδὲ γλῶσσα Παρθένε, εὐφημεῖν σε ἀξίως· ἐκ σοῦ γὰρ ἄνευ σπορᾶς, ὁ ζωοδότης Χριστός, σαρκωθῆναι Πάναγνε ηὐδόκησεν."
 
-peMA.Kontakion1.mode = misc_gr_GR_cog.Mode6
-peMA.Kontakion1.melody = misc_gr_GR_cog.Automelon
-peMA.Kontakion1.text = pe.d110_gr_GR_cog.peMA.Kontakion1.text
-
 peMA.Ode3Kathisma1.mode = misc_gr_GR_cog.Mode4
 peMA.Ode3Kathisma1.melody = he.a.m4_gr_GR_cog.TachyProkatalave.name
 peMA.Ode3Kathisma1.text = me.m07.dHF_gr_GR_cog.meMA.Ode3Kathisma1.text
@@ -203,11 +199,11 @@ peMA.Ode6C1T.mode = misc_gr_GR_cog.Mode6
 peMA.Ode6C1T.melody = he.h.m6_gr_GR_cog.TouViouTinThalassan.name
 peMA.Ode6C1T.text = "Ὁ μέγας προέγραψεν, ἐν Προφήταις Μωϋσῆς, σὲ κιβωτὸν καὶ τράπεζαν, καὶ λυχνίαν, καὶ στάμνον συμβολικῶς, σημαίνων τὴν σάρκωσιν, τὴν ἐκ σοῦ τοῦ Ὑψίστου Μητροπάρθενε."
 
-peMA.Kontakion2.mode = misc_gr_GR_cog.Mode8
-peMA.Kontakion2.melody = misc_gr_GR_cog.Automelon
-peMA.Kontakion2.text = me.m07.dHF_gr_GR_cog.meMA.Kontakion1.text
+peMA.Kontakion1.mode = misc_gr_GR_cog.Mode8
+peMA.Kontakion1.melody = misc_gr_GR_cog.Automelon
+peMA.Kontakion1.text = me.m07.dHF_gr_GR_cog.meMA.Kontakion1.text
 
-peMA.Oikos2.text = me.m07.dHF_gr_GR_cog.meMA.Oikos1.text
+peMA.Oikos1.text = me.m07.dHF_gr_GR_cog.meMA.Oikos1.text
 
 peMA.Synaxarion.commemoration.text = "Τῇ αὐτῇ ἡμέρᾳ, Κυριακῇ ἑβδόμῃ ἀπὸ τοῦ Πάσχα, τὴν ἐν Νικαίᾳ πρώτην Οἰκουμενικὴν Σύνοδον ἑορτάζομεν, τῶν τριακοσίων δέκα καὶ ὀκτὼ θεοφόρων Πατέρων."
 peMA.Synaxarion.couplet1.title = titles_gr_GR_cog.Stichoi

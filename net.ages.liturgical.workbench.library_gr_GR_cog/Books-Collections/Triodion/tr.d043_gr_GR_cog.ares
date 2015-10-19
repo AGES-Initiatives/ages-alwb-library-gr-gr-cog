@@ -163,8 +163,6 @@ trMA.Ode3Kathisma1.mode = misc_gr_GR_cog.Mode6
 trMA.Ode3Kathisma1.melody = ""
 trMA.Ode3Kathisma1.text = oc.m6.d4_gr_GR_cog.ocMA.Kathisma22.text
 
-trMA.Ode3Kathisma2Verse.text = "Ὑψοῦτε Κύριον τὸν Θεὸν ἡμῶν καὶ προσκυνεῖτε τῷ ὑποποδίῳ τῶν ποδῶν αὐτοῦ."
-
 trMA.Ode3Kathisma2.mode = misc_gr_GR_cog.Mode6
 trMA.Ode3Kathisma2.melody = ""
 trMA.Ode3Kathisma2.text = oc.m6.d4_gr_GR_cog.ocMA.Kathisma21.text
@@ -396,13 +394,9 @@ trMA.Lauds1.mode = misc_gr_GR_cog.Mode4
 trMA.Lauds1.melody = he.a.m4_gr_GR_cog.OsGennaionEnMartysi.name
 trMA.Lauds1.text = "Ἐν φωναῖς ἀλαλάξωμεν, ἐν ᾠδαῖς μεγαλύνωμεν, τὸν Σταυρὸν τὸν τίμιον, ἀσπαζόμενοι, καὶ πρὸς αὐτὸν ἐκβοήσωμεν· Σταυρὲ πανσεβάσμιε, καθαγίασον ἡμῶν τὰς ψυχάς καὶ τὰ σώματα, τῇ δυνάμει σου, καὶ παντοίας ἐκ βλάβης ἐναντίων, διατήρησον ἀτρώτους τοὺς εὐσεβῶς προσκυνοῦντάς σε."
 
-trMA.LaudsSundayVerse1.text = "Ὑψοῦτε Κύριον τὸν Θεὸν ἡμῶν, καὶ προσκυνεῖτε τῷ ὑποποδίῳ τῶν ποδῶν αὐτοῦ."
-
 trMA.Lauds2.mode = misc_gr_GR_cog.Mode4
 trMA.Lauds2.melody = he.a.m4_gr_GR_cog.OsGennaionEnMartysi.name
 trMA.Lauds2.text = "Προσελθόντες ἀρύσατε, μὴ κενούμενα νάματα, τοῦ Σταυροῦ τῇ χάριτι, προερχόμενα, ἰδοὺ προκείμενον βλέποντες τὸ Ξύλον τὸ ἅγιον, χαρισμάτων τὴν πηγὴν ἀρδομένην τῷ Αἵματι καὶ τῷ ὕδατι τοῦ Δεσπότου τῶν ὅλων, τοῦ ἐν τούτῳ, ἑκουσίως ὑψωθέντος καὶ τοὺς βροτοὺς ἀνυψώσαντος."
-
-trMA.LaudsSundayVerse2.text = "Ὁ δὲ Θεὸς ἡμῶν πρὸ αἰώνων εἰργάσατο σωτηρίαν ἐν μέσῳ τῆς γῆς."
 
 trMA.Lauds3.mode = misc_gr_GR_cog.Mode4
 trMA.Lauds3.melody = he.a.m4_gr_GR_cog.OsGennaionEnMartysi.name
@@ -430,16 +424,11 @@ trMA.AdditionalIdiomelonGlory.melody = misc_gr_GR_cog.Idiomelon
 trMA.AdditionalIdiomelonGlory.text = "Σήμερον ὁ ἀπρόσιτος τῇ οὐσίᾳ προσιτός μοι γίνεται, καὶ πάσχει πάθη, ἐλευθερῶν με τῶν παθῶν, ὁ φῶς παρέχων τυφλοῖς ὑπὸ ἀνόμων χειλέων ἐμπτύεται, καὶ δίδωσι τὸν νῶτον ὑπὲρ αἰχμαλώτων εἰς μάστιγας. Τοῦτον ἡ Ἁγνὴ καὶ Μήτηρ, ἐπὶ Σταυροῦ θεωροῦσα, ὀδυνηρῶς ἐφθέγγετο· οἴμοι Τέκνον ἐμόν! τί τοῦτο πεποίηκας; ὁ ὡραῖος κάλλει παρὰ πάντας βροτούς, ἄπνους ἄμορφος φαίνῃ, οὐκ ἔχων εἶδος οὐδὲ κάλλος· οἴμοι τὸ ἐμὸν φῶς! οὐ δύναμαι ὑπνοῦντα καθορᾶν σε· τὰ σπλάγχνα τιτρώσκομαι καὶ δεινή μοι ῥομφαία τὴν καρδίαν διέρχεται. Ἀνυμνῶ σου τὰ Πάθη, προσκυνῶ σου τὸ εὔσπλαγχνον, μακρόθυμε Κύριε δόξα σοι."
 
 trMA.AdditionalIdiomelonBoth.mode = misc_gr_GR_cog.Mode6
-trMA.AdditionalIdiomelonBoth.melody = "Εἱρμολογικόν."
+trMA.AdditionalIdiomelonBoth.melody = misc_gr_GR_cog.Heirmologic
 trMA.AdditionalIdiomelonBoth.text = oc.m6.d4_gr_GR_cog.ocMA.Kathisma21.text
 
-
-
-
-trLI.Antiphon2.text = ""
-
-
 trLI.MM.EntranceHymn.text = properties_gr_GR_cog.media.key
+
 trLI.SeasonalKontakion.mode = misc_gr_GR_cog.Mode8
 trLI.SeasonalKontakion.melody = misc_gr_GR_cog.Automelon
 trLI.SeasonalKontakion.text = he.a.m8_gr_GR_cog.TiYpermacho.text

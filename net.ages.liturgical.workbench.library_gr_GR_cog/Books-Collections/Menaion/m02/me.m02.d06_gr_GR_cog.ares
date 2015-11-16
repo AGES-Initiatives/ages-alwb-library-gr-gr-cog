@@ -61,7 +61,7 @@ meSV.AposBoth.text = ""
 
 meVE.Stichera01.mode = misc_gr_GR_cog.Mode2
 meVE.Stichera01.melody = he.a.m2_gr_GR_cog.OteEkTouXylou.name
-meVE.Stichera01.text = "Ὅτε ἐπινεύσει θεϊκῇ, μέγας τῆς Χριστοῦ Ἐκκλησίας, προεχειρὶσθης Ποιμήν, καὶ τὴν τῆς αἱρέσεως κάθεῖλες ἔπαρσιν, διελέγξας προσθήκην τε, τὴν ἐν τῷ Συμβόλῳ, τότε ἡ ὁμήγυρις πιστῶν ἐκρότησε, χεῖρας ἐν χαρᾷ ἐκβοῶσα, δόξα σοι Τριὰς Παναγία, δόξα σοι Τριὰς ἡ Ὁμοούσιος."
+meVE.Stichera01.text = "Ὅτε ἐπινεύσει θεϊκῇ, μέγας τῆς Χριστοῦ Ἐκκλησίας, προεχειρίσθης Ποιμήν, καὶ τὴν τῆς αἱρέσεως καθεῖλες ἔπαρσιν, διελέγξας προσθήκην τε, τὴν ἐν τῷ Συμβόλῳ, τότε ἡ ὁμήγυρις πιστῶν ἐκρότησε, χεῖρας ἐν χαρᾷ ἐκβοῶσα, δόξα σοι Τριὰς Παναγία, δόξα σοι Τριὰς ἡ Ὁμοούσιος."
 
 meVE.Stichera02.mode = misc_gr_GR_cog.Mode2
 meVE.Stichera02.melody = he.a.m2_gr_GR_cog.OteEkTouXylou.name
@@ -143,12 +143,9 @@ meVE.Apolytikion1.mode = misc_gr_GR_cog.Mode4
 meVE.Apolytikion1.melody = ""
 meVE.Apolytikion1.text = "Ὡς τῶν Ἀποστόλων ὁμότροπος, καὶ τῆς Οἰκουμένης διδάσκαλος, τῷ Δεσπότῃ τῶν ὅλων ἱκέτευε Φώτιε, εἰρήνην τῇ Οἰκουμένῃ δωρήσασθαι, καὶ ταῖς ψυχαῖς ἡμῶν τὸ μέγα ἔλεος."
 
-meVE.Apolytikion2.mode = misc_gr_GR_cog.Mode1
-meVE.Apolytikion2.melody = ""
-meVE.Apolytikion2.text = me.m02.d02_gr_GR_cog.meVE.Apolytikion1.text
-
-//http://ec-patr.org/gr/typikon/2013/2013-02-06.htm
-//Καθίσματα: Τοῦ Ἁγίου τῆς αʹ καί βʹ Στιχολογίας καί τό μετά τόν Πολυέλεον καί εἰς τό Καί νῦν, ἀντί Θεοτοκίων, ἀνά ἕν τῆς Ἑορτῆς· «Χορός ἀγγελικός...», «Ὁ ὤν σύν τῷ Πατρί...» καί· «Νηπιάζει δι' ἐμέ...».
+meVE.Apolytikion2.mode = misc_gr_GR_cog.Mode5
+meVE.Apolytikion2.melody = he.a.m5_gr_GR_cog.TonSynanarchonLogon.name
+meVE.Apolytikion2.text = "Τῆς σοφίας ἐκφάντωρ λαμπρὸς γενόμενος, Ὀρθοδοξίας ἐδείχθης θεοπαγὴς προμαχών, τῶν πατέρων καλλονὴ Φώτιε μέγιστε· σὺ γὰρ αἱρέσεων δεινῶν, στηλιτεύεις τὴν ὀφρύν, Ἐώας τὸ θεῖον σέλας, τῆς Ἐκκλησίας λαμπρότης, ἣν διατήρει Πάτερ ἄσειστον."
 
 meMA.Kathisma11.mode = misc_gr_GR_cog.Mode1
 meMA.Kathisma11.melody = he.a.m1_gr_GR_cog.TonTafonSouSotir.name
@@ -791,4 +788,145 @@ alt1.meMA.Ode3KathismaT.text = "Οὐ σιωπήσομεν ποτὲ Θεοτ�
 alt1.meMA.Ode3KathismaSt.mode = misc_gr_GR_cog.Mode4
 alt1.meMA.Ode3KathismaSt.melody = he.a.m4_gr_GR_cog.OYpsotheisEnToStavro.name
 alt1.meMA.Ode3KathismaSt.text = "Τὸν ἐξ ἀνάρχου τοῦ Πατρὸς γεννηθέντα, ἡ ἐπ' ἐσχάτων σε σαρκὶ τετοκυῖα, ἐπὶ Σταυροῦ κρεμάμενον ὁρῶσά σε Χριστέ. Οἴμοι! ποθεινότατε, Ἰησοῦ ἀνεβόα, πῶς ὁ δοξαζόμενος, ὡς Θεὸς ὑπ' Ἀγγέλων, ὑπὸ ἀνόμων νῦν βροτῶν Υἱέ, θέλων σταυροῦσαι; Ὑμνῶ σε μακρόθυμε."
+
+
+alt2.meDate.text = "" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+alt2.meCommemoration.text = "Μνήνη τῶν Ὁσίων καὶ Θεοφόρων Πατέρων ἡμῶν Βαρσανουφίου τοῦ Μεγάλου Γέροντος καὶ Ἰωάννου τοῦ Προφήτου καὶ μαθητοῦ τοῦ Ἁγίου Βαρσανουφίου, τοῦ ἄλλου Γέροντος." // full title of day
+alt2.meShortCommemoration1.text = ""
+alt2.meInsert1 = "καὶ τῶν ὁσίων καὶ θεοφόρων πατέρων ἡμῶν Βαρσανουφίου καὶ Ἰωάννου," // for use in petitions and dismissal
+alt2.meInsert2 = "ὧν καὶ τὴν μνήμην ἐπιτελοῦμεν·" // for use in petitions and dismissal
+alt2.meNote.text = ""
+alt2.meLE.commemoration1 = ""
+alt2.meLE.commemoration2 = ""
+alt2.meHO.number = ""
+alt2.meHO.rank = ""
+alt2.meHO.commemorations = ""
+alt2.meHO.note1 = ""
+alt2.meHO.note2 = ""
+alt2.meDismissal = dismissals_gr_GR_cog.dis00.meeting
+
+alt2.meSV.Stichera1.mode = misc_gr_GR_cog.Mode1
+alt2.meSV.Stichera1.melody = he.a.m1_gr_GR_cog.TonOuranionTagmaton.name
+alt2.meSV.Stichera1.text = "Τὴν θαυμαστὴν ξυνωρίδα τῶν Ἀσκητῶν τοῦ Χριστοῦ, τοὺς παμφαεῖς αστέρας, ἀρετῶν τῶν ὁσίων, τὸν μέγαν Βαρσανούφιον ἐν ᾠδαῖς, ἱεραῖς εὐφημήσωμεν, σὺν Ἰωάννῃ τῷ χάριν προφητικήν, δεξαμενῳ θείῳ Πνεύματι."
+
+alt2.meSV.Stichera2.mode = misc_gr_GR_cog.Mode1
+alt2.meSV.Stichera2.melody = he.a.m1_gr_GR_cog.TonOuranionTagmaton.name
+alt2.meSV.Stichera2.text = "Ὁ φωταυγέστατος λύχνος θείας ἀσκήσεως, ὁ κεκτημένος χάριν, οὐρανόθεν πλουσίαν, ὁ μέγας Βαρσανούφιος Μοναστῶν, τὰς χορείας προτρέπεται, ζηλοῦν τὰ κρείττονα λόγῳ ὑπαρκτικῷ· δεῦτε πάντες οὖν προσέλθωμεν."
+
+alt2.meSV.Stichera3.mode = misc_gr_GR_cog.Mode1
+alt2.meSV.Stichera3.melody = he.a.m1_gr_GR_cog.TonOuranionTagmaton.name
+alt2.meSV.Stichera3.text = "Τοῦ Παρακλήτου δοχεῖον τὸ καθαρώτατον, προφητικῶς ὁ βλέπων, καὶ σαφῶς προαγγέλλων, τὰ μέλλοντα συμβαίνειν πάντας ἡμᾶς, τοῖς οἰκείοις παλαίσμασιν, ὁ Ἰωάννης ὁ
+Ὅσιος πρὸς ζωήν, ἐπαλείφει τὴν οὐράνιον."
+
+alt2.meSV.Stichera4.mode = misc_gr_GR_cog.Mode1
+alt2.meSV.Stichera4.melody = he.a.m1_gr_GR_cog.TonOuranionTagmaton.name
+alt2.meSV.Stichera4.text = "Ὡς μιμητὴς τῶν Ἀγγέλων βίου λαμπρότητι, εἰκόνα τε καὶ στήλην, καὶ ὁμοίωμα θεῖον, παμμάκαρ Βαρσανούφιε ἀληθῶς, Ἰωάννην τὸν Ὅσιον, ὡς μαθητὴν θεῖον ἔσχες· ὅθεν ὑμᾶς, ὁμοφώνως μακαρίζομεν."
+
+alt2.meSV.SticGlory.mode = misc_gr_GR_cog.Mode4
+alt2.meSV.SticGlory.melody = ""
+alt2.meSV.SticGlory.text = ""
+
+alt2.meSV.SticBoth.mode = misc_gr_GR_cog.Mode4
+alt2.meSV.SticBoth.melody = ""
+alt2.meSV.SticBoth.text = me.m02.d02_gr_GR_cog.meVE.Lity8.text
+
+alt2.meSV.Aposticha1.mode = misc_gr_GR_cog.Mode2
+alt2.meSV.Aposticha1.melody = he.a.m2_gr_GR_cog.OikosTouEfratha.name
+alt2.meSV.Aposticha1.text = ""
+
+alt2.meSV.Aposticha2.mode = misc_gr_GR_cog.Mode2
+alt2.meSV.Aposticha2.melody = he.a.m2_gr_GR_cog.OikosTouEfratha.name
+alt2.meSV.Aposticha2.text = ""
+
+alt2.meSV.Aposticha3.mode = misc_gr_GR_cog.Mode2
+alt2.meSV.Aposticha3.melody = he.a.m2_gr_GR_cog.OikosTouEfratha.name
+alt2.meSV.Aposticha3.text = ""
+
+alt2.meSV.AposGlory.mode = misc_gr_GR_cog.Mode2
+alt2.meSV.AposGlory.melody = he.a.m2_gr_GR_cog.OikosTouEfratha.name
+alt2.meSV.AposGlory.text = ""
+
+alt2.meSV.AposBoth.mode = misc_gr_GR_cog.Mode2
+alt2.meSV.AposBoth.melody = he.a.m2_gr_GR_cog.OikosTouEfratha.name
+alt2.meSV.AposBoth.text = ""
+
+alt2.meVE.Stichera01.mode = misc_gr_GR_cog.Mode2
+alt2.meVE.Stichera01.melody = he.a.m2_gr_GR_cog.PoioisEffimionStemmasin.name
+alt2.meVE.Stichera01.text = "Ποίοις εὐφημιῶν στέμμασιν, ἀναδήσωμεν τοὺς Θεοφόρους; τοὺς δυσὶν ἐν σώμασι πέλοντας, καὶ ἑνὶ φρονήματι λάμψαντας, ἐν τῇ ἰσαγγέλῳ πολιτείᾳ· τὸν μέγαν, καὶ θεηγόρον Βαρσανούφιον, σὺν τούτῳ, τὸν Ἰωάννην τὸν θεόληπτον, τοὺς ἐν σαρκὶ ἀσωμάτους, καὶ ἐν πλούτῳ θείων, χαρισμάτων περιφανεῖς· τοὺς πᾶσι πρεσβεύοντας, πρὸς Χριστοῦ τὸ μέγα ἔλεος."
+
+alt2.meVE.Stichera02.mode = misc_gr_GR_cog.Mode2
+alt2.meVE.Stichera02.melody = he.a.m2_gr_GR_cog.PoioisEffimionStemmasin.name
+alt2.meVE.Stichera02.text = "Ποίοις ᾀσματικοῖς μέλεσιν, εὐφημήσωμεν τοὺς Θεοφόρους; τὸν θεοειδῆ Βαρσανούφιον, καὶ τὸν Ἰωάννην τὸν Ὅσιον, τὰς τοῦ Παρακλήτου δᾳδουχίας· τὸν μέν, ὡς ἐν διδαχαῖς κρήνην θεόβρυτον· τὸν δέ, ὡς ἐν προφητείᾳ στόμα ἔνθεον· τὰ τῆς ζωῆς τῆς ἁγίας, κλήματα ἀνθοῦντα, κατακάρπως τῶν ἀρετῶν, τῶν θείων τοὺς βότρυας, πρὸς εὐφροσύνην τῶν ψυχῶν ἡμῶν."
+
+alt2.meVE.Stichera03.mode = misc_gr_GR_cog.Mode2
+alt2.meVE.Stichera03.melody = he.a.m2_gr_GR_cog.PoioisEffimionStemmasin.name
+alt2.meVE.Stichera03.text = "Ποίοις μελῳδικοῖς ᾄσμασιν, ἐπαινέσωμεν τοὺς Θεοφόρους; τοὺς ἡμᾶς ἐνθέως παιδεύοντας, λόγοις θεοσόφοις καὶ πράξεσι, πρὸς σωτηριώδεις ἐπιδόσεις· τοὺς ἔξω, σαρκὸς καὶ κόσμου βιοτεύσαντας, καὶ θείας, ἀναπλησθέντας ἐπιλάμψεως, ἐκ τῆς πηγῆς τῆς Τριφώτου, σὺν Βαρσανουφίῳ, Ἰωάννην τὸν θαυμαστόν, τοὺς θείους θεράποντας, τοῦ Σωτῆρος τῶν ψυχῶν ἡμῶν."
+
+alt2.meVE.Stichera04.mode = misc_gr_GR_cog.Mode6
+alt2.meVE.Stichera04.melody = he.a.m6_gr_GR_cog.OlinApothemenoi.name
+alt2.meVE.Stichera04.text = ""
+
+alt2.meVE.Stichera05.mode = misc_gr_GR_cog.Mode6
+alt2.meVE.Stichera05.melody = he.a.m6_gr_GR_cog.OlinApothemenoi.name
+alt2.meVE.Stichera05.text = ""
+
+alt2.meVE.Stichera06.mode = misc_gr_GR_cog.Mode6
+alt2.meVE.Stichera06.melody = he.a.m6_gr_GR_cog.OlinApothemenoi.name
+alt2.meVE.Stichera06.text = ""
+
+alt2.meVE.SticGlory.mode = misc_gr_GR_cog.Mode6
+alt2.meVE.SticGlory.melody = ""
+alt2.meVE.SticGlory.text = ""
+
+alt2.meVE.SticBoth.mode = misc_gr_GR_cog.Mode6
+alt2.meVE.SticBoth.melody = ""
+alt2.meVE.SticBoth.text = me.m02.d02_gr_GR_cog.meVE.SticGlory.text
+
+alt2.meVE.Lity1.mode = misc_gr_GR_cog.Mode1
+alt2.meVE.Lity1.melody = ""
+alt2.meVE.Lity1.text = "Τὴν κοσμικὴν ἀρνησάμενοι σχέσιν, τῷ Χριστῷ ᾠκειώθητε, δι' ἀσκητικῆς πολιτείας, Ὅσιοι Πατέρες· καὶ σύμφρονες ὄντες ἐν πᾶσι, καὶ τῶν ἴσων καμάτων ζηλωταὶ καὶ ἐργάται, τῶν ἴσων χαρίτων ἠξιώθητε, ἰσοτίμως δοξασθέντες· πλουσίᾳ γὰρ ἀμφοτέροις, ἡ χάρις δέδοται, περιουσίᾳ θείας ἀγάπης. Ἀλλ' ὦ Βαρσανούφιε θεόσοφε, καὶ Ἰωάννη θεόφρον, ἐν τῷ συνδέσμῳ τῆς ἀγάπης, καὶ ἡμᾶς τηρήσατε, αἰτούμενοι ἡμῖν τὸ μέγα ἔλεος."
+
+alt2.meVE.Lity2.mode = misc_gr_GR_cog.Mode2
+alt2.meVE.Lity2.melody = ""
+alt2.meVE.Lity2.text = "Ἐξ Αἰγύπτου ὡς ἄστρον πάμφωτον, Βαρσανούφιε Πάτερ ἀνέτειλας, καὶ ἐν Παλαιστίνῃ ἐξέλαμψας, τῇ καθαρᾷ πολλιτείᾳ σου, πάντας καταυγάζων, τῇ τοῦ λόγου λαμπρότητι, καὶ τοὺς θεόφρονας ἐκπλήττων, τῇ ἀφθονίᾳ τῶν ἐν σοὶ θείων δόσεων· θησαυρὸς γὰρ τοῦ Πνεύματος, ἐχρημάτισας Ὅσιε, καὶ Μοναστῶν σοφὸς διδάσκαλος, ὡς ἐν πᾶσι πρακτικός· ἔνθεν τοῦ βίου σου ἔσχηκας, Ἰωάννην τὸν Ὅσιον, μιμητὴν ἐνθεώτατον, καὶ κοινωνὸν τῆς χάριτος· μεθ' οὗ ἀεὶ πρέσβευε, ὑπὲρ τῶν ψυχῶν ἡμῶν."
+
+alt2.meVE.Lity3.mode = misc_gr_GR_cog.Mode3
+alt2.meVE.Lity3.melody = ""
+alt2.meVE.Lity3.text = ""
+
+alt2.meVE.Lity4.mode = misc_gr_GR_cog.Mode4
+alt2.meVE.Lity4.melody = ""
+alt2.meVE.Lity4.text = ""
+
+alt2.meVE.LityGlory.mode = misc_gr_GR_cog.Mode4
+alt2.meVE.LityGlory.melody = ""
+alt2.meVE.LityGlory.text = "Ἀγγελικῶς πολιτευσάμενοι, ἀσκητικῆς πολιτείας, ὑποφῆται καὶ ἐκφάντορες ὤφθητε, Πατέρες θεόσοφοι· ὡς γὰρ πράξαντες καλῶς, σοφῶς διδάσκετε, τὰ τῆς σωτηρίας ἐχόμενα, ἐν ἀληθεῖ διακρίσει, καὶ τῷ φωτὶ τῆς χάριτος, Βαρσανούφιε Ὅσιε σὺν Ἰωάννῃ, αἰτούμενοι πᾶσι φωτισμόν, καὶ πταισμάτων ἄφεσιν."
+
+alt2.meVE.LityBoth.mode = misc_gr_GR_cog.Mode4
+alt2.meVE.LityBoth.melody = ""
+alt2.meVE.LityBoth.text = me.m02.d02_gr_GR_cog.meVE.Lity6.text
+
+alt2.meVE.Aposticha1.mode = misc_gr_GR_cog.Mode5
+alt2.meVE.Aposticha1.melody = he.a.m5_gr_GR_cog.ChairoisAskitikon.name
+alt2.meVE.Aposticha1.text = "Χαίροις ἡ τῶν Ὁσίων δυάς· τῶν ἀρετῶν τὰ καθαρὰ καταγώγια· ἀστέρες οἱ φωταυγοῦντες, τῆς ἀπαθείας τὸ φῶς, καὶ ζωῆς τῆς θείας τὴν λαμπρότητα· σοφὲ Βαρσανούφιε, Ἀσκητῶν ἀκροθίνιον, καὶ Ἰωάννη, προφητείας ὁ ἔπλεως· θείου Πνεύματος, τὰ εὐάρμοστα ὄργανα· λύχνοι τῆς διακρίσωες, σοφίας κειμήλια, ἀσκητικῆς πολιτείας, οἱ Θεοφόροι διδάσκαλοι· Χριστὸν δυσωπεῖτε, ταῖς ψυχαῖς ἡμῶν δοθῆναι, τὸ μέγα ἔλεος."
+
+alt2.meVE.Aposticha2.mode = misc_gr_GR_cog.Mode5
+alt2.meVE.Aposticha2.melody = he.a.m5_gr_GR_cog.ChairoisAskitikon.name
+alt2.meVE.Aposticha2.text = "Χαίροις ἡ τῶν Ὁσίων δυάς· οἱ τῶν Ἀγγέλων μιμηταὶ καὶ ὁμότροποι, οἱ ζήσαντες ἐν τῷ κόσμῳ, ἐν θεολήπτῳ ψυχῇ, συντονίᾳ θείων ἀναβάσεων· οἱ ἴσοι τὴν ἄσκησιν, καὶ τῷ βίῳ ἰσάμιλλοι· οἱ πληρωθέντες, οὐρανίου ἐλλάμψεως, ὡς καθάραντες, καὶ ψυχὴν καὶ διάνοιαν· Ὅσιε Βαρσανούφιε, Χριστοῦ φίλε γνήσιε, καὶ Ἰωάννη θεόφρον, μύστα τῆς χάριτος ἔνθεε, ἀεὶ δυσωπεῖτε, ταῖς ψυχαῖς ἡμῶν δοθῆναι, τὸ μέγα ἔλεος."
+
+alt2.meVE.Aposticha3.mode = misc_gr_GR_cog.Mode5
+alt2.meVE.Aposticha3.melody = he.a.m5_gr_GR_cog.ChairoisAskitikon.name
+alt2.meVE.Aposticha3.text = "Χαίροις ἡ τῶν Ὁσίων δυάς· ὑφηγηταὶ τῶν Μοναστῶν πρακτικώτατοι, οἱ πᾶσιν ἐν ἀκριβείᾳ, καὶ διανοίᾳ σοφῇ, τῆς ζωῆς τῆς θείας ἀναπτύσσοντες, τὸν τρόπον τὸν ἔνθεον, καὶ ἐπίδοσιν ἅπασαν, δι' ἧς ὑψοῦται, ἡ ψυχὴ πρὸς τὰ κρείττονα, καὶ ἐκτρέπεται, ἡ τῆς πλάνης ἐπίφασις· Ὅσιε Βαρσανούφιε, Πατέρων ἀγλάισμα, καὶ Ἰωάννη παμμάκαρ, τῶν Μοναζόντων ὑπόδειγμα. Χριστὸν δυσωπεῖτε, ταὶς ψυχαῖς ἡμῶν δοθῆναι, τὸ μέγα ἔλεος."
+
+alt2.meVE.AposGlory.mode = misc_gr_GR_cog.Mode8
+alt2.meVE.AposGlory.melody = ""
+alt2.meVE.AposGlory.text = "Τίς ἐπαξίως ὑμνήσει, τὴν ἐν ἀσκήσει πολιτείαν ὑμῶν, καὶ τὸν πλοῦτον τῶν ἐν ὑμῖν χαρισμάτων, Βαρσανούφιε καὶ Ἰωάννη μακάριοι; ὡς γὰρ ἄγγελοι ἐν γῇ, μετὰ σαρκὸς ὡράθητε, νεκρώσαντες τὰ τῆς ὕλης, σὺν τοῖς παθήμασι καὶ ταῖς ἐπιθυμίαις· καὶ ζωοποιοῦ ἐνεργείας, γεωργήσαντες τὰ ἄνθη, τὴν εὐωδίαν διαπνέετε, τῆς ἀφθαρσίας ταῖς ψυχαῖς ἡμῶν. Καὶ νῦν Ἀγγέλοις συνόντες, πρεσβεύσατε δοθῆναι πᾶσι τὸ θεῖον ἔλεος."
+
+alt2.meVE.AposBoth.mode = misc_gr_GR_cog.Mode8
+alt2.meVE.AposBoth.melody = ""
+alt2.meVE.AposBoth.text = me.m02.d02_gr_GR_cog.meVE.AposGlory.text
+
+alt2.meVE.Apolytikion1.mode = misc_gr_GR_cog.Mode5
+alt2.meVE.Apolytikion1.melody = he.a.m5_gr_GR_cog.TonSynanarchonLogon.name
+alt2.meVE.Apolytikion1.text = "Τὸν ἰσάγγελον βίον πολιτευσάμενοι, Βαρσανούφιε Πάτερ σὺν  Ἰωάννῃ ὁμοῦ, τῆς ἀσκήσεως λαμπροὶ ἀστέρες ὤφθητε, καὶ Μοναζόντων ὁδηγοί, πρὸς τὴν κρείττονα ὁδόν, ὡς πλήρεις φωτὸς τοῦ θείου, ἐκδυσωποῦντες ἀπαύστως, ἐλεηθῆναι τὰς ψυχὰς ἡμῶν."
 

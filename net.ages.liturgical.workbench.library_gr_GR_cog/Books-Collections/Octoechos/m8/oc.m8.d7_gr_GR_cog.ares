@@ -51,7 +51,7 @@ ocVE.ApolTheotokionVM.text = oc.m8.d1_gr_GR_cog.ocVE.ApolTheotokionVM.text
 ocMA.MM.Alleluia.text = properties_gr_GR_cog.media.key
 
 ocMA.Kathisma11.mode = misc_gr_GR_cog.Mode8
-ocMA.Kathisma11.melody = ""
+ocMA.Kathisma11.melody = oc.m8.d3_gr_GR_cog.ocMA.Kathisma32.melody
 ocMA.Kathisma11.text = oc.m8.d3_gr_GR_cog.ocMA.Kathisma32.text
 
 ocMA.Kathisma12.mode = misc_gr_GR_cog.Mode8
@@ -588,7 +588,7 @@ octrVE.SticBoth.melody = ""
 octrVE.SticBoth.text = ocVE.SticTheotokion.text
 
 octrMA.Kathisma11.mode = misc_gr_GR_cog.Mode8
-octrMA.Kathisma11.melody = ""
+octrMA.Kathisma11.melody = ocMA.Kathisma11.melody
 octrMA.Kathisma11.text = ocMA.Kathisma11.text
 
 octrMA.Kathisma12.mode = misc_gr_GR_cog.Mode8

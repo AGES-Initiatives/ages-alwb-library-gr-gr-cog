@@ -62,7 +62,7 @@ ocMA.Kathisma13.text = "Τὸν ἐξ αἱμάτων σου ἁγνῶν, σω
 
 ocMA.Kathisma21.mode = misc_gr_GR_cog.Mode8
 ocMA.Kathisma21.melody = he.a.m8_gr_GR_cog.AnestisEkNekron.name
-ocMA.Kathisma21.text = "Ἐν μέσῳ τῆς Ἐδέμ, ξύλον θάνατον ἤνθησεν, ἐν μέσῳ δὲ τῆς γῆς, ξύλον ζωὴν ἐβλάστησε· γευσάμενοι γὰρ τοῦ πρώτου, ἄφθαρτοι ὄντες, φθαρτοὶ γεγόναμεν, σχόντες δὲ τοῦ δευτέρου, τῆς ἀφθαρσίας κατετρυφήσαμεν· ἐν τῷ Σταυρῷ γὰρ ἔσωσε Χριστός, τὸ γένος τῶν ἀνθρώπων."
+ocMA.Kathisma21.text = oc.m8.d4_gr_GR_cog.ocMA.Kathisma21.text
 
 ocMA.Kathisma21b.mode = misc_gr_GR_cog.Mode8
 ocMA.Kathisma21b.melody = he.a.m8_gr_GR_cog.TinSofianKaiLogon.name
@@ -70,11 +70,11 @@ ocMA.Kathisma21b.text = "Ὁ Σταυρὸν ὑπομείνας, ὡς ἀγα
 
 ocMA.Kathisma22.mode = misc_gr_GR_cog.Mode8
 ocMA.Kathisma22.melody = he.a.m8_gr_GR_cog.ToProstachthen.name
-ocMA.Kathisma22.text = "Ἐν Παραδείσῳ μὲν τὸ πρίν, ξύλον ἐγύμνωσεν, ἐπὶ τῇ γεύσει ὁ ἐχθρός, εἰσφέρων νέκρωσιν, τοῦ Σταυροῦ δὲ τὸ ξύλον, τῆς ζωῆς τὸ ἔνδυμα, ἀνθρώποις, φέρον ἐπάγη, ἐπὶ τῆς γῆς, καὶ κόσμος, ὅλος ἐπλήσθη, πάσης χαρᾶς, ὃν ὁρῶντες ὑψούμενον, Θεῷ ἐν πίστει λαοί, συμφώνως ἐκβοήσωμεν· Πλήρης δόξης ὁ οἶκός σου."
+ocMA.Kathisma22.text = oc.m8.d4_gr_GR_cog.ocMA.Kathisma22.text
 
 ocMA.Kathisma22b.mode = misc_gr_GR_cog.Mode8
 ocMA.Kathisma22b.melody = he.a.m8_gr_GR_cog.AnestisEkNekron.name
-ocMA.Kathisma22b.text = "Ἐν μέσῳ τῆς Ἐδέμ, ξύλον θάνατον ἤνθησεν, ἐν μέσῳ δὲ τῆς γῆς, ξύλον ζωὴν ἐβλάστησε· γευσάμενοι γὰρ τοῦ πρώτου, ἄφθαρτοι ὄντες, φθαρτοὶ γεγόναμεν, σχόντες δὲ τοῦ δευτέρου, τῆς ἀφθαρσίας κατετρυφήσαμεν· ἐν τῷ Σταυρῷ γὰρ ἔσωσε Χριστός, τὸ γένος τῶν ἀνθρώπων."
+ocMA.Kathisma22b.text = oc.m8.d4_gr_GR_cog.ocMA.Kathisma21.text
 
 ocMA.Kathisma23.mode = misc_gr_GR_cog.Mode8
 ocMA.Kathisma23.melody = he.a.m8_gr_GR_cog.ToProstachthen.name
@@ -560,7 +560,7 @@ octrMA.Triadic3.mode = misc_gr_GR_cog.Mode8
 octrMA.Triadic3.text = oc.m8.d2_gr_GR_cog.octrMA.Triadic3.text
 
 octrMA.Kathisma11.mode = misc_gr_GR_cog.Mode8
-octrMA.Kathisma11.melody = ""
+octrMA.Kathisma11.melody = ocMA.Kathisma21.melody
 octrMA.Kathisma11.text = ocMA.Kathisma21.text
 
 octrMA.Kathisma12.mode = misc_gr_GR_cog.Mode8

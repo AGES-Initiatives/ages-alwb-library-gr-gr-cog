@@ -14,6 +14,8 @@ meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
 
+meVE.Stichera.notice = rubrical_gr_GR_cog.DifferentMenaionSticheraInEnglish
+
 meVE.Stichera01.mode = misc_gr_GR_cog.Mode4
 meVE.Stichera01.melody = he.a.m4_gr_GR_cog.OsGennaionEnMartysi.name
 meVE.Stichera01.text = "Ὡς ἀστὴρ ἀνατέταλκας, καὶ πιστοὺς κατεφώτισας, ἱεραῖς λαμπρότησι τῶν δογμάτων σου, καὶ τὰς αἱρέσεις ἐσκότασας, καὶ τέλεον ἔτρεψας, καὶ ὡς δοῦλος τὸ δοθέν, πλεονάσας σου τάλαντον, εὐηρέστησας, τῷ Δεσπότῃ θεόφρον, οὗ εἰς χεῖρας ἐναπέθου σου τὸ πνεῦμα, τὸ ἱερώτατον Κύριλλε."
@@ -39,6 +41,7 @@ meVE.Apolytikion1.mode = misc_gr_GR_cog.Mode3
 meVE.Apolytikion1.melody = he.a.m3_gr_GR_cog.TinOraiotita.name
 meVE.Apolytikion1.text = "Στολὴν τὴν ἔνθεον, ἀμφιεσάμενος, στῦλος ὁλόφωτος, ὤφθης τῆς πίστεως, τῶν Ἀποστόλων ἐν Σιών, τὴν χάριν κεκληρωμένος· ὅθεν ἐνδιέπρεψας, εὐσεβείας τοῖς δόγμασι, καὶ πιστῶς ἐσκόρπισας, τῆς σοφίας τὸ τάλαντον. Καὶ νῦν ὑμὲρ ἡμῶν ἐκδυσώπει, Κύριλλε Πάτερ Ἱεράρχα."
 
+meMA.C1.notice = rubrical_gr_GR_cog.DifferentMenaionCanonInEnglish
 meMA.C1Acrostic.text = "οὗ ἡ Ἀκροστιχίς· Κύριλλον ὑμνῶ τὸν πρόεδρον Αἰλίας."
 meMA.C1Poet = poets_gr_GR_cog.Theofanous
 
@@ -94,19 +97,19 @@ meMA.Ode3C1T.mode = misc_gr_GR_cog.Mode4
 meMA.Ode3C1T.melody = he.h.m4_gr_GR_cog.OtiSteiraEteken.name
 meMA.Ode3C1T.text = "Νοῦς οὐδὲ οὐράνιος τὴν ὑπὲρ νοῦν σου λοχείαν, διερμηνεύει Κόρη· Νοῦ γὰρ τοῦ πρώτου ἐν γαστρί, Λόγον Ἁγνὴ συνέλαβες, τὸν τὰ πάντα λόγῳ συστησάμενον."
 
-meMA.Ode3Kathisma1.mode = misc_gr_GR_cog.Mode4
+meMA.Ode3Kathisma1.mode = misc_gr_GR_cog.Mode8
 meMA.Ode3Kathisma1.melody = he.a.m8_gr_GR_cog.TinSofianKaiLogon.name
 meMA.Ode3Kathisma1.text = "Τὴν σοφίαν τοῦ λόγου πεπλουτηκώς, ἐξηρεύξω δογμάτων ῥεῖθρα ζωῆς, καὶ πᾶσαν κατήρδευσας, εὐσεβούντων διάνοιαν, καὶ βακτηρίᾳ θείᾳ ποιμάνας τὸ ποίμνιον, ἐπὶ χλόην θείας, ἐξέθρεψας γνώσεως· ὅθεν ὡς Ποιμένα, καὶ διδάσκαλον μέγαν, καὶ πίστεως πρόμαχον, εὐφημοῦμέν σε Κυριλλε, Ἱεράρχα κραυγάζοντες· Πρέσβευε Χριστῷ τῷ Θεῷ, τῶν πταισμάτων ἄφεσιν δωρήσασθαι, τοῖς ἑορτάζουσι πόθῳ, τὴν ἁγίαν μνήμην σου."
 
-meMA.Ode3Kathisma2.mode = misc_gr_GR_cog.Mode5
+meMA.Ode3Kathisma2.mode = misc_gr_GR_cog.Mode1
 meMA.Ode3Kathisma2.melody = he.a.m1_gr_GR_cog.TonTafonSouSotir.name
 meMA.Ode3Kathisma2.text = "Ἡ γλῶσσά σου Σοφέ, θεϊκαῖς ἐπιπνοίαις, ἐφώτισε λαούς, μίαν σέβειν Τριάδα, τῇ φύσει ἀμέριστον, μεριστὴν τοῖς προσώποις δέ· ὅθεν χαίροντες, τὴν παναγίαν σου μνήμην, ἑορτάζομεν, πρὸς τὸν Θεὸν πρεσβευτὴν σε, ἀεὶ προβαλλόμενοι."
 
-meMA.Ode3KathismaT.mode = misc_gr_GR_cog.Mode5
+meMA.Ode3KathismaT.mode = misc_gr_GR_cog.Mode1
 meMA.Ode3KathismaT.melody = he.a.m1_gr_GR_cog.TonTafonSouSotir.name
 meMA.Ode3KathismaT.text = "Μαρία τὸ σεπτόν, τοῦ Δεσπότου δοχεῖον, ἀνάστησον ἡμᾶς, πεπτωκότας εἰς χάος, δεινῆς ἀπογνώσεως, καὶ πταισμάτων καὶ θλίψεων, καὶ ἀνάγαγε, ἐκ ῥαθυμίας πταισμάτων, τοῦ δοξάζειν σε, Παντελεῆμον τὴν μόνην, ἐλπίδα τῶν δούλων σου."
 
-meMA.Ode3KathismaSt.mode = misc_gr_GR_cog.Mode5
+meMA.Ode3KathismaSt.mode = misc_gr_GR_cog.Mode1
 meMA.Ode3KathismaSt.melody = he.a.m1_gr_GR_cog.TonTafonSouSotir.name
 meMA.Ode3KathismaSt.text = "Ὁρῶσά σε Χριστέ, ἡ πανάμωμος Μήτηρ, νεκρὸν ἐπὶ Σταυροῦ, ἡπλωμένον ἐβόα· Υἱέ μου συνάναρχε, τῷ Πατρὶ καὶ τῷ Πνεύματι, τὶς ἡ ἄφατος, οἰκονομία σου αὕτη, δι' ἧς ἔσωσας, τὸ τῶν ἀχράντων χειρῶν σου, σοφὸν δημιούργημα;"
 

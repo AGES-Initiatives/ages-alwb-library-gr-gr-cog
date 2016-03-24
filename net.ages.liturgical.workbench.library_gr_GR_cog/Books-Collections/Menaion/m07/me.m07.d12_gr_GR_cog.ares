@@ -192,7 +192,7 @@ meMA.PostGospelBoth.text = ho.s03_gr_GR_cog.hoMA.PostGospelTheotokos.text
 
 meMA.PostGospelIdiomelon.mode = misc_gr_GR_cog.Mode6
 meMA.PostGospelIdiomelon.melody = ""
-meMA.PostGospelIdiomelon.text = ""
+meMA.PostGospelIdiomelon.text = "Δεῦτε πιστοί, τῆς Παϊσίου τραπέζης ἐνθέως μετάσχωμεν· ἰδοὺ γὰρ ὁ πατὴρ ἡμῶν Παΐσιος ο νέος, τοῦ παλαιοῦ ὁμότροπος φανείς, συγκαλεῖται ἡμᾶς πρὸς ἑστίασιν πνευματικήν· δεῦτε, ἅπαντες, εὐφρανθῶμεν τοῖς καρποῖς τῶν καμάτων, τοῖς μελιῤῥύτοις λόγοις, καὶ τοῖς νάμασι τῶν θαυμάτων αὐτοῦ, ὡς παρόντα δὲ ὁρῶντες τὸν ἡμέτερον προστάτην, αὐτὸν ἱκετεύσωμεν· Ὅσιε Πάτερ, πρέσβευε Χριστῷ τῷ Θεῷ, σωθῆναι τὰς ψυχὰς ἡμῶν."
 
 meMA.C1Poet = ""
 meMA.C1Acrostic.text = ""
@@ -418,16 +418,16 @@ meMA.Ode6C2T.text = ""
 
 meMA.Kontakion1.mode = misc_gr_GR_cog.Mode8
 meMA.Kontakion1.melody = he.a.m8_gr_GR_cog.TiYpermacho.name
-meMA.Kontakion1.text = ""
+meMA.Kontakion1.text = "Ἀγγελικῶς ἐπὶ τῆς γῆς πολιτευσάμενος * καὶ δι' ἀγάπης λάμψας, ὅσιε Παΐσιε, * μοναζόντων μέγα στήριγμα ἀνεδείχθης, * τῶν πιστῶν χειραγωγὸς πρὸς βίον ἅγιον, * οἰκουμένης δὲ ἐντρύφημα γλυκύτατον· * διὸ κράζομεν· Χαίροις, Πάτερ παγκόσμιε."
 
-meMA.Oikos1.text = ""
-meMA.Oikos12.text = ""
-meMA.Oikos13.text = ""
-meMA.Oikos14.text = ""
-meMA.Oikos15.text = ""
-meMA.Oikos16.text = ""
-meMA.Oikos17.text = ""
-meMA.Oikos18.text = ""
+meMA.Oikos1.text = "Ἄγγελοι διηπόρουν, πῶς ἐν σώμαιτι ὤν, Πάτερ, εἰς οὐρανοὺς δι' ἀγάπης ἀνέβης, κἀντεῦθεν θείας ἀγάπης πλησθείς, τὴν γῆν τῷ φωτὶ τῆς ἀγάπης οὐράνωσας! Ἡμεῖς δέ, σὲ θαυμάζοντες, πανευλαβῶς βοῶμέν σοι τοιαῦτα·"
+meMA.Oikos12.text = "Χαῖρε, ὁ μύστης τῆς ἡσυχίας· χαῖρε, δοχεῖον ἀγάπης θείας."
+meMA.Oikos13.text = "Χαῖρε, ὁ Ἀγγέλων ἄρτον δεξάμενος· χαῖρε, ὁ Ἁγίους ὑποδεξάμενος."
+meMA.Oikos14.text = "Χαῖρε, ὅτι τὸν Θεάνθρωπον ἠξιώθης κατιδεῖν· χαῖρε, ὅτι τῆς Θεόπαιδος ἐθεάσω τὴν μορφήν."
+meMA.Oikos15.text = "Χαῖρε, ὁ εὐσυμπάθητος ὑπὲρ πάντων εὐχέτης· χαῖρε, ὁ παντὸς τοῦ κόσμου ἀφανὴς εὐεργέτης."
+meMA.Oikos16.text = "Χαῖρε, Ὀρθοδοξίας ὑπέρμαχος ἄριστος· χαῖρε, κακοδοξίας ἀντίπαλος κράτιστος."
+meMA.Oikos17.text = "Χαῖρε, τοῦ Ὄρους Ἄθω ἡ αἴγλη· χαῖρε, Μονῆς Θεολόγου ἡ σκέπη."
+meMA.Oikos18.text = "Χαίροις, Πάτερ παγκόσμιε."
 
 meMA.Synaxarion.text = ""
 
@@ -556,13 +556,17 @@ meMA.Ode9C2T.mode = misc_gr_GR_cog.Mode4
 meMA.Ode9C2T.melody = he.h.m4_gr_GR_cog.ApasGigenis.name
 meMA.Ode9C2T.text = ""
 
-meMA.Exaposteilarion1.mode = misc_gr_GR_cog.Mode2
-meMA.Exaposteilarion1.melody = he.a.m2_gr_GR_cog.ToisMathitaisSynelthomen.name
-meMA.Exaposteilarion1.text = ""
+meMA.Exaposteilarion1.mode = misc_gr_GR_cog.Mode3
+meMA.Exaposteilarion1.melody = he.a.m3_gr_GR_cog.ApostoloiEkPeraton.name
+meMA.Exaposteilarion1.text = "Πηγὴ ἀείῤῥυτος ὤφθης χριστομιμήτου ἀγάπης, * Παΐσιε θεοφόρε, τὴν οἰκουμένην ἀρδεύων * τοῖς ῥείθροις τῶν σῶν ῥημάτων * καὶ ὀμβροις τῶν σῶν θαυμάτων."
+
+meMA.Exaposteilarion2.mode = misc_gr_GR_cog.Mode2
+meMA.Exaposteilarion2.melody = he.a.m2_gr_GR_cog.ToisMathitaisSynelthomen.name
+meMA.Exaposteilarion2.text = "Συναθροισθέντες σήμερον * τῇ ἁγίᾳ σου μνήνῃ * ἐν τῷ ναῷ σου, Ὅσιε, * καὶ κύκλῳ τοῦ σοῦ τάφου, * ἐν εὐλαβείᾳ βοῶμεν· * Ὦ Παΐσιε πάτερ, * καὶ τάφῳ καλυπτόμενος, * ἀοράτως ὑπάρχεις μέσον ἡμῶν, * ὅθεν δέξαι πάντων τὰς ἱκεσίας * καὶ δώρησαι πρεσβείαις σου * πᾶσι τὴν σωτηρίαν."
 
 meMA.ExapTheotokion.mode = misc_gr_GR_cog.Mode2
 meMA.ExapTheotokion.melody = he.a.m2_gr_GR_cog.ToisMathitaisSynelthomen.name
-meMA.ExapTheotokion.text = ""
+meMA.ExapTheotokion.text = "Χάριν μεγίστην εὕρηκας * ἐκ Θεοῦ, ὡς ἐβόα * ὁ Γαβριήλ σοι, Πάναγνε, * Μεγαλόχαρη Κόρη· * ὅθεν ἡμεῖς γηθοσύνως * ἐκτενῶς σοι βοῶμεν· * Χαῖρε, ἡμῶν πρὸς Κύριον * θερμοτάτη πρεσβεία· χαῖρε, δι' ἧς * θείας ἠξιώθημεν μετουσίας· Πανύμνητε, οὐ παύσομεν * ἀναμέλπειν σοι· Χαῖρε."
 
 meMA.Lauds1.mode = misc_gr_GR_cog.Mode1
 meMA.Lauds1.melody = he.a.m1_gr_GR_cog.PaneffimoiMartyres.name

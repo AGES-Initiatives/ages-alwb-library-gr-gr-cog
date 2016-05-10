@@ -47,9 +47,11 @@ meVE.Apolytikion1.mode = misc_gr_GR_cog.Mode5
 meVE.Apolytikion1.melody = he.a.m5_gr_GR_cog.TonSynanarchonLogon.name
 meVE.Apolytikion1.text = "Ὡς παρθένος φρονίμη καὶ ἀδιάφθορος, κατηγγυήθης ὁσίως τῷ Ζωοδότῃ Χριστῷ, καὶ προσκαίρων τὴν χλιδὴν ἐμφρόνως ἔλιπες· ὅθεν ἐν μέσῳ τῶν ἀνδρῶν, ὡς ἀμόλυντος ἀμνάς, ἐξέλαμψας Εὐφροσύνη, καὶ τοῦ Βελίαρ τὰ κέντρα, τῇ πολιτείᾳ σου ἀπήμβλυνας."
 
+//public uses general canon
+meMA.C1.notice = rubrical_gr_GR_cog.DifferentMenaionCanonInEnglish
 meMA.C2Acrostic.text = "οὗ ἡ Ἀκροστιχίς· Ὕμνον σοι μέλπω προφρόνως Εὐφροσύνη· Ὁ Ἰωσήφ."
 
-meMA.C1.verse = ""
+meMA.C1.verse = prayers_gr_GR_cog.verse_SaintW.text
 
 meMA.Ode1C11.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C11.mode = misc_gr_GR_cog.Mode8

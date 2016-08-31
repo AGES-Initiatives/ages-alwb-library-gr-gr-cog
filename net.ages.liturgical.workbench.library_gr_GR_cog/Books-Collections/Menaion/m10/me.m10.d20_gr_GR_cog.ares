@@ -296,8 +296,8 @@ meLI.SeasonalKontakion.text = ho.s07_gr_GR_cog.hoTY.Key0408.text
 
 meMegalynarion.text = ""
 
-alt1.meDate.text = "" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-alt1.meCommemoration.text = "" //full title of day
+alt1.meDate.text = "ΤΗ Κ’ ΤΟΥ ΑΥΤΟΎ ΜΗΝΌΣ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+alt1.meCommemoration.text = "Μνήμη του οσίου και θεοφόρου Πατρός ημών Γερασίμου του νέου Ασκητού, του θαυματουργού, του εν Κεφαλληνία ασκήσαντος." //full title of day
 alt1.meCommemoration2.text = "" //full title of day
 alt1.meShortCommemoration1.text = ""
 alt1.meInsert1 = "" //for use in petitions and dismissal
@@ -467,15 +467,15 @@ alt1.meVE.AposBoth.text = oc.m8.d1_gr_GR_cog.ocVE.AposTheotokion.text
 
 alt1.meVE.Apolytikion1.mode = misc_gr_GR_cog.Mode1
 alt1.meVE.Apolytikion1.melody = 
-alt1.meVE.Apolytikion1.text = ""
+alt1.meVE.Apolytikion1.text = "Των Ορθοδόξων προστάτην, και εν σώματι άγγελον, και θαυματουργόν θεοφόρον, νεοφανέντα ημίν, επαινέσωμεν πιστοί, θείον Γεράσιμον’ ότι αξίως παρά θεού απείληφεν, ιαμάτων την αέναον χάριν’ ρώννυσι τους νοσούντας, δαιμονώντας ιάται’ διό και τοις τιμώσιν αυτόν, βρύει ιάματα."
 
 alt1.meVE.Apolytikion2.mode = misc_gr_GR_cog.Mode1
 alt1.meVE.Apolytikion2.melody = he.a.m1_gr_GR_cog.TisErimouPolitis.name
-alt1.meVE.Apolytikion2.text = ""
+alt1.meVE.Apolytikion2.text = "Των Τρικκάλων τον γόνον, Κεφαλλήνων το κλέισμα, Ομαλών Μονής τον προστάτην, σε ευφημούμεν Γεράσιμε’ εβίωσας γαρ εν τήδε τη ζωή, ως άγγελος ουράνιος θεού’ διό δόξης ηξιώθη, και αφθαρσίας σώμα σου το πάντιμον. Δόξα τω σε δοξάσαντι Χριστώ, δόξα τω σε αφθαρτήσαντι, δόξα τω δωρησαμένω σε πιστοίς, πρέσβυν ακοίμητον."
 
 alt1.meVE.Apolytikion3.mode = misc_gr_GR_cog.Mode1
 alt1.meVE.Apolytikion3.melody = he.a.m1_gr_GR_cog.TisErimouPolitis.name
-alt1.meVE.Apolytikion3.text = ""
+alt1.meVE.Apolytikion3.text = "Εκ νεότητος Πάτερ τω Χριστώ ηκολούθησας, και αγγελικώς εν τω κόσμω, διανύσας τον βίον σου, επλήσθης ουρανίων δωρεών, Γεράσιμε οσίων καλλονή» δια τούτο ιαμάτων τας δωρεάς, παρέχεις τοις βοώσί σοι’ Δόξα τω δεδωκότι σοι ισχύν, δόξα τω σε θαυμαστώσαντι, δόξα τω ενεργούντι δια σου, πάσιν ιάματα."
 
 alt1.meMA.Kathisma11.mode = misc_gr_GR_cog.Mode1
 alt1.meMA.Kathisma11.melody = he.a.m1_gr_GR_cog.TonTafonSouSotir.name
@@ -884,13 +884,13 @@ alt1.meMA.Ode6C3T.text = ""
 
 alt1.meMA.Kontakion1.mode = misc_gr_GR_cog.Mode3
 alt1.meMA.Kontakion1.melody = he.a.m3_gr_GR_cog.IParthenosSimeron.name
-alt1.meMA.Kontakion1.text = ""
+alt1.meMA.Kontakion1.text = "Ευχαρίστοις άσμασι, των Κεφαλλήνων η νήσος, προσκαλείται σήμερον, των Ορθοδόξων τα πλήθη, μέγιστον, νεοφανέντα εγκωμιάσαι, καύχημα, ορθοδοξίας αναφανέντα, τον Γεράσιμον τον θείον, τον ρύστην ταύτης ομού και πρόμαχον."
 
 alt1.meMA.Kontakion2.mode = misc_gr_GR_cog.Mode4
 alt1.meMA.Kontakion2.melody = he.a.m4_gr_GR_cog.EpefanisSimeron.name
-alt1.meMA.Kontakion2.text = ""
+alt1.meMA.Kontakion2.text = "Επεφάνης Όσιε τη Εκκλησία, ως φωστήρ πολύφωτος, ταις των θαυμάτων αστραπαίς, καταπυρσεύων τους ψάλλοντας· χαίροις οσίων το κλέος Γεράσιμε."
 
-alt1.meMA.Oikos2.text = ""
+alt1.meMA.Oikos2.text = "Ωσπερ νεόφωτος αστήρ, Χριστού τη Εκκλησία, εξανατείλας μυστικώς, των αρετών μαρμαρυγαίς, και των θαυμάτων τω φωτί, Ορθοδοξίας την λαμπρότητα, υπέρ ήλιον πάσι λάμπουσαν, έδειξας Όσιε’ συ γαρ δι’ ασκητικής πολιτείας, της σαρκός νεκρώσας το φρόνημα, και τοις πάλαι οσίοις, πόθω πολλώ αμιλληθείς, εθεώθης κατά μέθεξιν, και των θείων δωρεών τον πλούτον εκομίσω, θαυμάτων δεξάμενος ενέργειαν, και πάντας παιδεύων, προς κτήσιν των κρειττόνων, τη των σών προτερημάτων λαμπρότητι. Όθεν Κεφαλληνία η νήσος, αγιασθείσα ασκητικοίς σου αγώσιν, ως πλούτον θεοδώρητον, και ταμείον θείας χάριτος, το σον λείψανον θησαυρίζουσα, λυτρούται πάσης θλίψεως, απαύστως ανυμνούσα σε’ η δε του Χριστού Εκκλησία Ορθοδόξος, καυχωμένη εν σοι, ακλινής και άσειστος διαμένει, και αιρετικών τας ερεσχελίας καταισχύνει, ευφροσύνως βοώσά σοι’ χαίροις οσίων το κλέος Γεράσιμε."
 
 alt1.meMA.Synaxarion.text = ""
 
@@ -1106,11 +1106,11 @@ alt1.meMA.Ode9C3T.text = ""
 
 alt1.meMA.Exaposteilarion1.mode = misc_gr_GR_cog.Mode2
 alt1.meMA.Exaposteilarion1.melody = he.a.m2_gr_GR_cog.ToisMathitaisSynelthomen.name
-alt1.meMA.Exaposteilarion1.text = ""
+alt1.meMA.Exaposteilarion1.text = "Ασκητικοίς παλαίσμασιν, επί γης διαπρέψας, και μοναστών υπόδει¬γμα, γενόμενος εν τω βίω, Γεράσιμε θεοφόρε, θαυμασίως εδοξάσθης, παρά θεού μακάριε, και το θείον σου σκήνος ώφθη ημίν, άφθαρτον ακέραιον χάριτι θεία, αναβλυστάνον πάντοτε, ιαμάτων τα ρείθρα."
 
 alt1.meMA.Exaposteilarion2.mode = misc_gr_GR_cog.Mode2
 alt1.meMA.Exaposteilarion2.melody = he.a.m2_gr_GR_cog.TonMathitonOrontonSe.name
-alt1.meMA.Exaposteilarion2.text = ""
+alt1.meMA.Exaposteilarion2.text = "Των Κεφαλλήνων ώφθης θερμός προστάτης, Γεράσιμε θεόφρον και αντιλήπτωρ’ διό εκ πάσης ρϋσαι περιστάσεως, την νήσόν σου μακά¬ριε, την εορτάζουσαν πόθω, την φωτοφόρον σου μνήμην."
 
 alt1.meMA.ExapTheotokion.mode = misc_gr_GR_cog.Mode2
 alt1.meMA.ExapTheotokion.melody = he.a.m2_gr_GR_cog.TonMathitonOrontonSe.name
@@ -1146,9 +1146,9 @@ alt1.meLI.Kontakion1.text = alt1.meMA.Kontakion1.text
 
 alt1.meLI.MM.CommunionHymn.text = properties_gr_GR_cog.media.key
 
-alt1.meMegalynarion.text = ""
+alt1.meMegalynarion.text = "Της Πελοποννήσου θείος βλαστός, και Κεφαλληνίας ο ασύλητος θησαυρός, και πάσης Ελλάδος, το καύχημα το μέγα, Γεράσιμε θεόφρον, σκέπε τους δούλους σου."
 
-alt1.meMegalynarion2.text = ""
+alt1.meMegalynarion2.text = "Χαίροις των Τρικκάλων γόνος λαμπρός, χαίροις Κεφαλλήνων, απροσμάχητος βοηθός’ χαίροις ιερέων, το καύχημα και κλέος, Γε¬ράσιμε τρισμάκαρ, πιστών το καύχημα."
 
-alt1.meCoupletv1.text = ""
-alt1.meCoupletv2.text = ""
+alt1.meCoupletv1.text = "Γεράσιμε, δίδου τω σω συνωνύμω"
+alt1.meCoupletv2.text = "Χάριν θείαν, μέλψαντι Τας Αρετάς σου."

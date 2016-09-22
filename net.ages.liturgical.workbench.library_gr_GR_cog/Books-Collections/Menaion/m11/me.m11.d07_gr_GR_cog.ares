@@ -3,7 +3,7 @@ A_Resource_Whose_Name = me.m11.d07_gr_GR_cog
 meDate.text = "Τῌ Ζʹ ΝΟΕΜΒΡΙΟΥ"
 meCommemoration.text = "Μνήμη τῶν Ἁγίων Τριάκοντα Τριῶν Μαρτύρων, τῶν ἐν Μελιτηνῇ, καὶ Μνήμη τοῦ Ὁσίου Πατρὸς ἡμῶν καὶ Θαυματουργοῦ Λαζάρου, τοῦ ἐν τῷ Γαλησίῳ Ὄρει Ἀσκήσαντος." // full title of day
 meShortCommemoration1.text = ""
-meInsert1 = "καὶ τῶν Ἁγίων τριάκοντα τριῶν Μαρτύρων, τῶν ἐν Μελιτηνῇ, καὶ Μνήμη τοῦ Ὁσίου Πατρὸς ἡμῶν καὶ θαυματουργοῦ Λαζάρου, τοῦ ἐν τῷ Γαλησίῳ ὄρει ἀσκήσαντος, " // for use in petitions and dismissal
+meInsert1 = "καὶ τῶν Ἁγίων τριάκοντα τριῶν Μαρτύρων, τῶν ἐν Μελιτηνῇ, καὶ τοῦ Ὁσίου Πατρὸς ἡμῶν καὶ θαυματουργοῦ Λαζάρου," // for use in petitions and dismissal
 meInsert2 = "ὧν καὶ τὴν μνήμην ἐπιτελοῦμεν· " // for use in petitions and dismissal
 meNote.text = ""
 meLE.commemoration1 = "Μνήμη τῶν Ἁγίων Τριάκοντα Τριῶν Μαρτύρων, τῶν ἐν Μελιτηνῇ, καὶ Μνήμη τοῦ Ὁσίου Πατρὸς ἡμῶν καὶ Θαυματουργοῦ Λαζάρου, τοῦ ἐν τῷ Γαλησίῳ Ὄρει Ἀσκήσαντος."
@@ -44,7 +44,7 @@ meVE.SticGlory.text = "Ὅσιε Πάτερ, οὐκ ἔδωκας ὕπνον 
 
 meVE.SticTheotokion.mode = misc_gr_GR_cog.Mode5
 meVE.SticTheotokion.melody = he.a.m5_gr_GR_cog.ChairoisAskitikon.name
-meVE.SticTheotokion.text = "Λάμψον τὸν φωτισμὸν σου ἐμοί, τῷ τῶν παθῶν σκότει δεινῶς ἐνυπάρχοντι, τὸ φέγγος τῆς ἀληθείας, ἡ συλλαβοῦσα Θεόν, καὶ σαρκὶ τεκοῦσα Μητροπάρθενε, βυθοῦ ἀπογνώσεως, διὰ τάχους ἀνάγαγε, καὶ ἐπὶ πέτραν, ἀσφαλοῦς βιοτεύσεως, ἐπιστήριξον, τῆς ψυχῆς μου τὰ βήματα. Δίκασον τοὺς ἀπαύστως με, πιέζοντας δαίμονας, παῦσον τόν πόνον ἐν τάχει, τῆς ταλαιπώρου καρδίας μου, ἐλπὶς τῶν περάτων, ἡ τῷ κόσμῳ δωρουμένη, τὸ μέγα ἔλεος."
+meVE.SticTheotokion.text = "Λάμψον τὸν φωτισμόν σου ἐμοί, τῷ τῶν παθῶν σκότει δεινῶς ἐνυπάρχοντι, τὸ φέγγος τῆς ἀληθείας, ἡ συλλαβοῦσα Θεόν, καὶ σαρκὶ τεκοῦσα Μητροπάρθενε, βυθοῦ ἀπογνώσεως, διὰ τάχους ἀνάγαγε, καὶ ἐπὶ πέτραν, ἀσφαλοῦς βιοτεύσεως, ἐπιστήριξον, τῆς ψυχῆς μου τὰ βήματα. Δίκασον τοὺς ἀπαύστως με, πιέζοντας δαίμονας, παῦσον τόν πόνον ἐν τάχει, τῆς ταλαιπώρου καρδίας μου, ἐλπὶς τῶν περάτων, ἡ τῷ κόσμῳ δωρουμένη, τὸ μέγα ἔλεος."
 
 meVE.SticStavrotheotokion.mode = misc_gr_GR_cog.Mode5
 meVE.SticStavrotheotokion.melody = he.a.m5_gr_GR_cog.ChairoisAskitikon.name
@@ -56,7 +56,7 @@ meVE.AposGlory.text = "Ὅσιε Πάτερ, εἰς πᾶσαν τὴν γῆ�
 
 meVE.AposTheotokion.mode = misc_gr_GR_cog.Mode6
 meVE.AposTheotokion.melody = he.a.m6_gr_GR_cog.TriimerosAnestis.name
-meVE.AposTheotokion.text = "Τὸ ὄμμα τῆς καρδίας μου, ἐκτείνω πρὸς σὲ Δέσποινα, μὴ παρίδῃς τὸν πικρόν μου στεναγμόν· ἐν ὥρᾳ ὅταν κρίνῃ, ὁ σὸς Υἱὸς τὸν κόσμον, γενοῦ μοι σκέπη καὶ βοήθεια."
+meVE.AposTheotokion.text = me.m07.d08_gr_GR_cog.meVE.SticTheotokion.text
 
 meVE.AposStavrotheotokion.mode = misc_gr_GR_cog.Mode6
 meVE.AposStavrotheotokion.melody = he.a.m6_gr_GR_cog.TriimerosAnestis.name

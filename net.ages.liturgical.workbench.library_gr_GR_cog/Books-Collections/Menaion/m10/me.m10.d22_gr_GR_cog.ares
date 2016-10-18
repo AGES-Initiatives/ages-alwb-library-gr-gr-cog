@@ -45,11 +45,11 @@ meVE.SticGlory.text = "Ἀρχιερεῦ Ὅσιε, παμμακάριστε �
 
 meVE.SticTheotokion.mode = misc_gr_GR_cog.Mode3
 meVE.SticTheotokion.melody = he.a.m3_gr_GR_cog.MegaliTouStavrouSou.name
-meVE.SticTheotokion.text = "Ἀγγέλων χαρμονὴ τῶν θείων Κόρη πέφυκας, τῶν Ἀποστόλων δόξα, καὶ Προφητῶν ἐκσφράγισμα, τῶν ἀνθρώπων τε πιστῶν ἡ προστασία, καὶ ὁδηγὸς σωτήριος, διὰ τοῦτό σε προσκυνοῦμεν Παρθένε."
+meVE.SticTheotokion.text = oc.m3.d5_gr_GR_cog.ocVE.AposTheotokion.text
 
 meVE.SticStavrotheotokion.mode = misc_gr_GR_cog.Mode3
 meVE.SticStavrotheotokion.melody = he.a.m3_gr_GR_cog.MegaliTouStavrouSou.name
-meVE.SticStavrotheotokion.text = "Ὁρῶσα τὸν ἐκ σοῦ τεχθέντα Παναμώμητε κρεμάμενον ἐν ξύλῳ, ὠλόλυζες βοῶσα· Ποθεινότατόν μου τέκνον, ποῦ σου ἔδυ τὸ κάλλος τὸ φωσφόρον, τοῦ καλλωπίσαντος, τῶν ἀνθρώπων τὸ γένος;"
+meVE.SticStavrotheotokion.text = oc.m3.d6_gr_GR_cog.ocVE.SticTheotokion.text
 
 meVE.AposGlory.mode = misc_gr_GR_cog.Mode8
 meVE.AposGlory.melody = ""
@@ -305,9 +305,9 @@ meMA.Ode6H.text = he.h.m4_gr_GR_cog.ThysoSoiMetaFonis.text
 
 meMA.Kontakion1.mode = misc_gr_GR_cog.Mode8
 meMA.Kontakion1.melody = he.a.m8_gr_GR_cog.OsAparchas.name
-meMA.Kontakion1.text = "Ὡς Ἱερέα μεγιστον, καὶ Ἀποστόλων σύσκηνον, ἡ Ἐκκλησία γεραίρει σε ἅπασα, ἡ τῶν πιστῶν Ἀβέρκιε, ἣν ταῖς σαῖς ἱκεσίαις περιφύλαττε μάκαρ, ἀκαταγώνιστον, ἐξ αἱρέσεως πάσης, καὶ ἄσειστον πολυθαύμαστε."
+meMA.Kontakion1.text = "Ὡς Ἱερέα μέγιστον, καὶ Ἀποστόλων σύσκηνον, ἡ Ἐκκλησία γεραίρει σε ἅπασα, ἡ τῶν πιστῶν Ἀβέρκιε, ἣν ταῖς σαῖς ἱκεσίαις περιφύλαττε μάκαρ, ἀκαταγώνιστον, ἐξ αἱρέσεως πάσης, καὶ ἄσειστον πολυθαύμαστε."
 
-meMA.Oikos1.text = "Ὡς πολύς σου ὁ πλοῦτος τῆς χάριτος! ἀριθμὸς δὲ οὐκ ἔστι τῆς δόξης σου· ἐκ μὴ ὄντων γὰρ πάντα παρήγαγες,ὁρατὰ καὶ ἀόρατα Κύριε. Αὐτὸς οὖν φιλάνθρωπε, δώρησαι τῇ βεβήλῳ καρδίᾳ μου αἴνεσιν θείαν, ὁ ὑπ' Ἀγγέλων ἀπαύστως ὑμνούμενος, ἵνα τὸν Ἱεράρχην τιμήσω, τὸν ὡς ἀληθῶς πολυθαύμαστον."
+meMA.Oikos1.text = "Ὡς πολύς σου ὁ πλοῦτος τῆς χάριτος! ἀριθμὸς δὲ οὐκ ἔστι τῆς δόξης σου· ἐκ μὴ ὄντων γὰρ πάντα παρήγαγες, ὁρατὰ καὶ ἀόρατα Κύριε. Αὐτὸς οὖν φιλάνθρωπε, δώρησαι τῇ βεβήλῳ καρδίᾳ μου αἴνεσιν θείαν, ὁ ὑπ' Ἀγγέλων ἀπαύστως ὑμνούμενος, ἵνα τὸν Ἱεράρχην τιμήσω, τὸν ὡς ἀληθῶς πολυθαύμαστον."
 
 meMA.Synaxarion.text = ""
 
@@ -461,7 +461,7 @@ meMA.Exaposteilarion2.text = "Σὺν Ἰαμβλίχῳ μέλψωμεν, Ἰ
 
 meMA.Lauds1.mode = misc_gr_GR_cog.Mode8
 meMA.Lauds1.melody = he.a.m8_gr_GR_cog.KyrieEiKaiKritirio.name
-meMA.Lauds1.text = "Ἔχρισε, σὲ Ἀρχιερέα ἡ χάρις, τοῦ Παρακλήτου, Ἀβέρκιε, πλάνης καθαιροῦντα τεμένη, καὶ ἀνιστῶντα τῇ χάριτι, ναοὺς Θεοῦ ἱερούς, εἰς δόξαν τε καὶ αἴνεσιν,τοῦ τεχθέντος ἐκ Παρθένου, καὶ τὰ πάντα ἁγιάσαντος."
+meMA.Lauds1.text = "Ἔχρισε, σὲ Ἀρχιερέα ἡ χάρις, τοῦ Παρακλήτου, Ἀβέρκιε, πλάνης καθαιροῦντα τεμένη, καὶ ἀνιστῶντα τῇ χάριτι, ναοὺς Θεοῦ ἱερούς, εἰς δόξαν τε καὶ αἴνεσιν, τοῦ τεχθέντος ἐκ Παρθένου, καὶ τὰ πάντα ἁγιάσαντος."
 
 meMA.Lauds2.mode = misc_gr_GR_cog.Mode8
 meMA.Lauds2.melody = he.a.m8_gr_GR_cog.KyrieEiKaiKritirio.name
@@ -473,15 +473,15 @@ meMA.Lauds3.text = "Μέγιστος, πᾶσιν ὥσπερ ἥλιος Πά
 
 meMA.LaudsGlory.mode = misc_gr_GR_cog.Mode3
 meMA.LaudsGlory.melody = ""
-meMA.LaudsGlory.text = "Ἀρχιερεῦ Ὅσιε, παμμακάριστε Πάτερ, θαυματουργὲ θεράπον Χριστοῦ Ἀβέρκιε, προφητικῷ ἐκλάμψας βίῳ, καὶ ἀποστολικῶν ἀξιωθεὶς χαρισμάτων, τῷ Σωτῆρι λειτουργῶν, σὺν Ἀγγέλοις ἀπαύστως, πρέσβευε ῥυσθῆναι ἀπὸ πάσης ἀπειλῆς τὰς ψυχὰς ἡμῶν."
+meMA.LaudsGlory.text = meVE.SticGlory.text
 
 meMA.LaudsTheotokion.mode = misc_gr_GR_cog.Mode3
 meMA.LaudsTheotokion.melody = he.a.m3_gr_GR_cog.MegaliTouStavrouSou.name
-meMA.LaudsTheotokion.text = "Ἀγγέλων χαρμονὴ τῶν θείων Κόρη πέφυκας, τῶν Ἀποστόλων δόξα, καὶ Προφητῶν ἐκσφράγισμα, τῶν ἀνθρώπων τε πιστῶν ἡ προστασία, καὶ ὁδηγὸς σωτήριος· διὰ τοῦτό σε προσκυνοῦμεν Παρθένε."
+meMA.LaudsTheotokion.text = oc.m3.d5_gr_GR_cog.ocVE.AposTheotokion.text
 
 meMA.LaudsStavrotheotokion.mode = misc_gr_GR_cog.Mode3
 meMA.LaudsStavrotheotokion.melody = he.a.m3_gr_GR_cog.MegaliTouStavrouSou.name
-meMA.LaudsStavrotheotokion.text = "Ὁρῶσα τὸν ἐκ σοῦ τεχθέντα Παναμώμητε, κρεμάμενον ἐν ξύλῳ, ὠλόλυζες βοῶσα· Ποθεινότατόν μου Τέκνον, ποῦ σου ἔδυ τὸ κάλλος τὸ φωσφόρον, τοῦ καλλωπίσαντος τῶν ἀνθρώπων τὸ γένος;"
+meMA.LaudsStavrotheotokion.text = oc.m3.d6_gr_GR_cog.ocVE.SticTheotokion.text
 
 meMA.MM.LaudsSunday.text = properties_gr_GR_cog.media.key
 

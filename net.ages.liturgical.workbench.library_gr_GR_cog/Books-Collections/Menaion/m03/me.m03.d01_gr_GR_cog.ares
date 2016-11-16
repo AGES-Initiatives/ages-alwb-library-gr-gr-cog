@@ -56,6 +56,8 @@ meVE.Apolytikion1.mode = misc_gr_GR_cog.Mode3
 meVE.Apolytikion1.melody = he.a.m3_gr_GR_cog.TheiasPisteos.name
 meVE.Apolytikion1.text = "Φόβον ἔνθεον, ἀναλαβοῦσα, κόσμου ἔλιπες, τὴν εὐδοξίαν, καὶ τῷ Λόγῳ Εὐδοκία προσέδραμες· οὗ τὸν ζυγὸν τῇ σαρκί σου βαστάσασα, ὑπερφυῶς ἠγωνίσω δι' αἵματος. Μάρτυς ἔνδοξε, Χριστὸν τὸν Θεὸν ἱκέτευε, δωρήσασθαι ἡμῖν τὸ μέγα ἔλεος."
 
+meMA.C1.notice = rubrical_gr_GR_cog.DifferentMenaionCanonInEnglish
+
 meMA.C1Acrostic.text = " οὗ ἡ Ἀκροστιχίς· Τῆς Εὐδοκίας τοὺς ἀγῶνας αἰνέσω."
 
 meMA.Ode1C1H.ode = misc_gr_GR_cog.Ode1
@@ -63,8 +65,8 @@ meMA.Ode1C1H.mode = misc_gr_GR_cog.Mode8
 meMA.Ode1C1H.melody = misc_gr_GR_cog.Heirmos
 meMA.Ode1C1H.text = he.h.m8_gr_GR_cog.AsomenToKyrio.text
 
-meMA.C1.title = ""
-meMA.C1.verse = ""
+meMA.C1.title = titles_gr_GR_cog.KanonTisAgias
+meMA.C1.verse = prayers_gr_GR_cog.verse_SaintW.text
 
 meMA.Ode1C11.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C11.mode = misc_gr_GR_cog.Mode8

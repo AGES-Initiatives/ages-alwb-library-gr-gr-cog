@@ -147,8 +147,8 @@ meMA.Ode1C1H.mode = misc_gr_GR_cog.Mode4
 meMA.Ode1C1H.melody = misc_gr_GR_cog.Heirmos
 meMA.Ode1C1H.text = he.h.m4_gr_GR_cog.AnoixoToStomaMou_Syllipsis.text
 
-meMA.C1.title = ""
-meMA.C1.verse = ""
+meMA.C1.title = titles_gr_GR_cog.KanonTisEortis
+meMA.C1.verse = prayers_gr_GR_cog.verse_Theotokos.text
 
 meMA.Ode1C11.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C11.mode = misc_gr_GR_cog.Mode4
@@ -158,7 +158,7 @@ meMA.Ode1C11.text = "ᾈδέτω σοι Δέσποινα, κινῶν τὴν 
 meMA.Ode1C12.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C12.mode = misc_gr_GR_cog.Mode4
 meMA.Ode1C12.melody = he.h.m4_gr_GR_cog.AnoixoToStomaMou.name
-meMA.Ode1C12.text = "Βοῶ σοι γηθομενος· κλῖνον τὸ οὖς σου καὶ πρόσχες μοι, Θεοῦ καταγγέλλοντι, σύλληψιν ἄσπορον· εὗρες χάριν γάρ, ἐνώπιον Κυρίου, ἣν εὗρεν οὐδέποτε, ἄλλη τις Πάναγνε."
+meMA.Ode1C12.text = "Βοῶ σοι γηθόμενος· κλῖνον τὸ οὖς σου καὶ πρόσχες μοι, Θεοῦ καταγγέλλοντι, σύλληψιν ἄσπορον· εὗρες χάριν γάρ, ἐνώπιον Κυρίου, ἣν εὗρεν οὐδέποτε, ἄλλη τις Πάναγνε."
 
 meMA.Ode1C13.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C13.mode = misc_gr_GR_cog.Mode4
@@ -274,6 +274,7 @@ meMA.Ode6C14.mode = misc_gr_GR_cog.Mode4
 meMA.Ode6C14.melody = he.h.m4_gr_GR_cog.EvoiseProtypon.name
 meMA.Ode6C14.text = "Ὑπέσχετο, ὁ Θεός, Ἀβραὰμ τῷ προπάτορι, εὐλογεῖσθαι, ἐν τῷ σπέρματι τούτου τὰ Ἔθνη Ἁγνή· διὰ σοῦ δὲ πέρας, ἡ ὑπόσχεσις δέχεται σήμερον."
 
+meMA.Kontakion1.rubric = "Ψάλλεται τό Κοντάκιον··\"Τῇ ὑπερμάχῳ...\". Ὁ Ἱερεὺς πρὸ τῆς εἰκόνος τῆς Θεοτόκου φέρων ἐπιτραχήλιον καὶ φελώνιον ἀπαγγέλλει τὸν Οἶκον· \"Ἄγγελος πρωτοστάτης...\"."
 meMA.Kontakion1.mode = misc_gr_GR_cog.Mode8
 meMA.Kontakion1.melody = misc_gr_GR_cog.Automelon
 meMA.Kontakion1.text = he.a.m8_gr_GR_cog.TiYpermacho.text

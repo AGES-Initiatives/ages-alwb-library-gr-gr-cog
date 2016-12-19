@@ -73,10 +73,13 @@ co.pdf.header = "ΑΠΟΔΕΙΠΝΟΝ"
 co.pdf.cover = "Ἡ Ἀκολουθία τοῦ Ἀποδείπνου"
 co.smallcompline.pdf.cover = "Ἀπόδειπνον Μικρόν"
 co.smallcompline.pdf.header = "ΑΠΟΔΕΙΠΝΟΝ ΜΙΚΡΟΝ"
+co.akathist.html.tab = "ΜΙΚΡΟΝ ΑΠΟΔΕΙΠΝΟΝ ΚΑΙ ΑΚΑΘΙΣΤΟΣ"
+co.akathist.pdf.header = "Μικρὸν Ἀπόδειπνον καὶ Ἀκάθιστος"
+co.akathist.pdf.cover = "Μικρὸν Ἀπόδειπνον καὶ Ἀκάθιστος"
 co.salutations.pdf.cover = "Μικρὸν Ἀπόδειπνον καὶ Χαιρετισμοί"
 co.salutations.pdf.header = "ΜΙΚΡΟΝ ΑΠΟΔΕΙΠΝΟΝ ΚΑΙ ΧΑΙΡΕΤΙΣΜΟΙ"
-co.greatcompline.pdf.cover = "Ἀπόδειπνον Μέγα"
-co.greatcompline.pdf.header = "ΑΠΟΔΕΙΠΝΟΝ ΜΕΓΑ"
+//co.greatcompline.pdf.cover = "Ἀπόδειπνον Μέγα"
+//co.greatcompline.pdf.header = "ΑΠΟΔΕΙΠΝΟΝ ΜΕΓΑ"
 
 co1.html.tab = "ΠΑΝΝΥΧΙΣ" //this is the pre-resurrection service of Pascha
 co1.pdf.header = "Παννυχίς"
@@ -97,6 +100,10 @@ co4.pdf.cover = "Μικρὸν Ἀπόδειπνον καὶ Μέγας Καν
 em.html.tab = "ΟΡΘΡΟΣ" //this is for Matins in the evening during Holy Week
 em.pdf.header = "Ὄρθρος"
 em.pdf.cover = "Ὄρθρος"
+
+gc.html.tab = "ΑΠΟΔΕΙΠΝΟΝ ΜΕΓΑ"
+gc.pdf.header = "Ἀπόδειπνον Μέγα"
+gc.pdf.cover = "Ἀπόδειπνον Μέγα"
 
 gh.html.tab = "ΜΕΓΑΛΑΙ ΩΡΑΙ"
 gh.pdf.header = "Μεγάλαι Ὧραι"

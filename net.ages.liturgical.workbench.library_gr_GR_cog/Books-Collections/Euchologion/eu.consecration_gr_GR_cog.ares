@@ -78,7 +78,58 @@ euMA.Kathisma31.mode = misc_gr_GR_cog.Mode4
 euMA.Kathisma31.melody = he.a.m4_gr_GR_cog.TachyProkatalave.name
 euMA.Kathisma31.text = "Τῷ οἴκῳ σου Κύριε πρέπει ἁγίασμα, ἐν τούτῳ γὰρ τὸ ὄνομα τὸ σὸν φιλάνθρωπε, ἐνθέως δοξάζεται, ὅθεν σὺν τῷ Προφήτῃ, ἐκβοῶμέν σοι πίστει· Σοῦ τὸ Ἅγιον Πνεῦμα νῦν ἐγκαίνισον πάντας, πρεσβείαις τῆς Θεοτόκου μόνε Φιλάνθρωπε."
 
-//Odes 1 and 3 from 09-13 Canon 2
+euMA.C1.title = "Κανὼν τῶν Ἐγκαινίων."
+euMA.C1.verse = prayers_gr_GR_cog.verse_God.text
+
+euMA.Ode1C1H.ode = misc_gr_GR_cog.Ode1
+euMA.Ode1C1H.mode = misc_gr_GR_cog.Mode4
+euMA.Ode1C1H.melody = misc_gr_GR_cog.Heirmos
+euMA.Ode1C1H.text = he.h.m4_gr_GR_cog.ThalassisToErythraion.text
+
+euMA.Ode1C11.ode = misc_gr_GR_cog.Ode1
+euMA.Ode1C11.mode = misc_gr_GR_cog.Mode4
+euMA.Ode1C11.melody = he.h.m4_gr_GR_cog.ThalassisToErythraion.name
+euMA.Ode1C11.text = me.m09.d13_gr_GR_cog.meMA.Ode1C21.text
+
+euMA.Ode1C12.ode = misc_gr_GR_cog.Ode1
+euMA.Ode1C12.mode = misc_gr_GR_cog.Mode4
+euMA.Ode1C12.melody = he.h.m4_gr_GR_cog.ThalassisToErythraion.name
+euMA.Ode1C12.text = me.m09.d13_gr_GR_cog.meMA.Ode1C22.text
+
+euMA.Ode1C13.ode = misc_gr_GR_cog.Ode1
+euMA.Ode1C13.mode = misc_gr_GR_cog.Mode4
+euMA.Ode1C13.melody = he.h.m4_gr_GR_cog.ThalassisToErythraion.name
+euMA.Ode1C13.text = me.m09.d13_gr_GR_cog.meMA.Ode1C23.text
+
+euMA.Ode1C1T.ode = misc_gr_GR_cog.Ode1
+euMA.Ode1C1T.mode = misc_gr_GR_cog.Mode4
+euMA.Ode1C1T.melody = he.h.m4_gr_GR_cog.ThalassisToErythraion.name
+euMA.Ode1C1T.text = me.m09.d13_gr_GR_cog.meMA.Ode1C2T.text
+
+euMA.Ode3C1H.ode = misc_gr_GR_cog.Ode3
+euMA.Ode3C1H.mode = misc_gr_GR_cog.Mode4
+euMA.Ode3C1H.melody = misc_gr_GR_cog.Heirmos
+euMA.Ode3C1H.text = he.h.m4_gr_GR_cog.EffrainetaiEpiSoi.text
+
+euMA.Ode3C11.ode = misc_gr_GR_cog.Ode3
+euMA.Ode3C11.mode = misc_gr_GR_cog.Mode4
+euMA.Ode3C11.melody = he.h.m4_gr_GR_cog.EffrainetaiEpiSoi.name
+euMA.Ode3C11.text = me.m09.d13_gr_GR_cog.meMA.Ode3C21.text
+
+euMA.Ode3C12.ode = misc_gr_GR_cog.Ode3
+euMA.Ode3C12.mode = misc_gr_GR_cog.Mode4
+euMA.Ode3C12.melody = he.h.m4_gr_GR_cog.EffrainetaiEpiSoi.name
+euMA.Ode3C12.text = me.m09.d13_gr_GR_cog.meMA.Ode3C22.text
+
+euMA.Ode3C13.ode = misc_gr_GR_cog.Ode3
+euMA.Ode3C13.mode = misc_gr_GR_cog.Mode4
+euMA.Ode3C13.melody = he.h.m4_gr_GR_cog.EffrainetaiEpiSoi.name
+euMA.Ode3C13.text = me.m09.d13_gr_GR_cog.meMA.Ode3C23.text
+
+euMA.Ode3C1T.ode = misc_gr_GR_cog.Ode3
+euMA.Ode3C1T.mode = misc_gr_GR_cog.Mode4
+euMA.Ode3C1T.melody = he.h.m4_gr_GR_cog.EffrainetaiEpiSoi.name
+euMA.Ode3C1T.text = me.m09.d13_gr_GR_cog.meMA.Ode3C2T.text
 
 euMA.Ode3Kathisma1.mode = misc_gr_GR_cog.Mode4
 euMA.Ode3Kathisma1.melody = he.a.m4_gr_GR_cog.TachyProkatalave.name
@@ -88,7 +139,80 @@ euMA.Ode3KathismaT.mode = misc_gr_GR_cog.Mode4
 euMA.Ode3KathismaT.melody = he.a.m4_gr_GR_cog.TachyProkatalave.name
 euMA.Ode3KathismaT.text = me.m09.d13_gr_GR_cog.meMA.Ode3KathismaT.text
 
-//Odes 4, 5, and 6 from 09-13 Canon 2
+euMA.Ode4C1H.ode = misc_gr_GR_cog.Ode4
+euMA.Ode4C1H.mode = misc_gr_GR_cog.Mode4
+euMA.Ode4C1H.melody = misc_gr_GR_cog.Heirmos
+euMA.Ode4C1H.text = he.h.m4_gr_GR_cog.EparthentaSeIdousa.text
+
+euMA.Ode4C11.ode = misc_gr_GR_cog.Ode4
+euMA.Ode4C11.mode = misc_gr_GR_cog.Mode4
+euMA.Ode4C11.melody = he.h.m4_gr_GR_cog.EparthentaSeIdousa.name
+euMA.Ode4C11.text = me.m09.d13_gr_GR_cog.meMA.Ode4C21.text
+
+euMA.Ode4C12.ode = misc_gr_GR_cog.Ode4
+euMA.Ode4C12.mode = misc_gr_GR_cog.Mode4
+euMA.Ode4C12.melody = he.h.m4_gr_GR_cog.EparthentaSeIdousa.name
+euMA.Ode4C12.text = me.m09.d13_gr_GR_cog.meMA.Ode4C22.text
+
+euMA.Ode4C13.ode = misc_gr_GR_cog.Ode4
+euMA.Ode4C13.mode = misc_gr_GR_cog.Mode4
+euMA.Ode4C13.melody = he.h.m4_gr_GR_cog.EparthentaSeIdousa.name
+euMA.Ode4C13.text = me.m09.d13_gr_GR_cog.meMA.Ode4C23.text
+
+euMA.Ode4C1T.ode = misc_gr_GR_cog.Ode4
+euMA.Ode4C1T.mode = misc_gr_GR_cog.Mode4
+euMA.Ode4C1T.melody = he.h.m4_gr_GR_cog.EparthentaSeIdousa.name
+euMA.Ode4C1T.text = me.m09.d13_gr_GR_cog.meMA.Ode4C2T.text
+
+euMA.Ode5C1H.ode = misc_gr_GR_cog.Ode5
+euMA.Ode5C1H.mode = misc_gr_GR_cog.Mode4
+euMA.Ode5C1H.melody = misc_gr_GR_cog.Heirmos
+euMA.Ode5C1H.text = he.h.m4_gr_GR_cog.SyKyrieMouFos.text
+
+euMA.Ode5C11.ode = misc_gr_GR_cog.Ode5
+euMA.Ode5C11.mode = misc_gr_GR_cog.Mode4
+euMA.Ode5C11.melody = he.h.m4_gr_GR_cog.SyKyrieMouFos.name
+euMA.Ode5C11.text = me.m09.d13_gr_GR_cog.meMA.Ode5C21.text
+
+euMA.Ode5C12.ode = misc_gr_GR_cog.Ode5
+euMA.Ode5C12.mode = misc_gr_GR_cog.Mode4
+euMA.Ode5C12.melody = he.h.m4_gr_GR_cog.SyKyrieMouFos.name
+euMA.Ode5C12.text = me.m09.d13_gr_GR_cog.meMA.Ode5C22.text
+
+euMA.Ode5C13.ode = misc_gr_GR_cog.Ode5
+euMA.Ode5C13.mode = misc_gr_GR_cog.Mode4
+euMA.Ode5C13.melody = he.h.m4_gr_GR_cog.SyKyrieMouFos.name
+euMA.Ode5C13.text = me.m09.d13_gr_GR_cog.meMA.Ode5C23.text
+
+euMA.Ode5C1T.ode = misc_gr_GR_cog.Ode5
+euMA.Ode5C1T.mode = misc_gr_GR_cog.Mode4
+euMA.Ode5C1T.melody = he.h.m4_gr_GR_cog.SyKyrieMouFos.name
+euMA.Ode5C1T.text = me.m09.d13_gr_GR_cog.meMA.Ode5C2T.text
+
+euMA.Ode6C1H.ode = misc_gr_GR_cog.Ode6
+euMA.Ode6C1H.mode = misc_gr_GR_cog.Mode4
+euMA.Ode6C1H.melody = misc_gr_GR_cog.Heirmos
+euMA.Ode6C1H.text = he.h.m4_gr_GR_cog.ThysoSoiMetaFonis.text
+
+euMA.Ode6C11.ode = misc_gr_GR_cog.Ode6
+euMA.Ode6C11.mode = misc_gr_GR_cog.Mode4
+euMA.Ode6C11.melody = he.h.m4_gr_GR_cog.ThysoSoiMetaFonis.name
+euMA.Ode6C11.text = me.m09.d13_gr_GR_cog.meMA.Ode6C21.text
+
+euMA.Ode6C12.ode = misc_gr_GR_cog.Ode6
+euMA.Ode6C12.mode = misc_gr_GR_cog.Mode4
+euMA.Ode6C12.melody = he.h.m4_gr_GR_cog.ThysoSoiMetaFonis.name
+euMA.Ode6C12.text = me.m09.d13_gr_GR_cog.meMA.Ode6C22.text
+
+euMA.Ode6C13.ode = misc_gr_GR_cog.Ode6
+euMA.Ode6C13.mode = misc_gr_GR_cog.Mode4
+euMA.Ode6C13.melody = he.h.m4_gr_GR_cog.ThysoSoiMetaFonis.name
+euMA.Ode6C13.text = me.m09.d13_gr_GR_cog.meMA.Ode6C23.text
+
+euMA.Ode6C1T.ode = misc_gr_GR_cog.Ode6
+euMA.Ode6C1T.mode = misc_gr_GR_cog.Mode4
+euMA.Ode6C1T.melody = he.h.m4_gr_GR_cog.ThysoSoiMetaFonis.name
+euMA.Ode6C1T.text = me.m09.d13_gr_GR_cog.meMA.Ode6C2T.text
 
 euMA.Kontakion.mode = me.m09.d13_gr_GR_cog.meMA.Kontakion1.mode
 euMA.Kontakion.melody = me.m09.d13_gr_GR_cog.meMA.Kontakion1.melody
@@ -96,7 +220,80 @@ euMA.Kontakion.text = me.m09.d13_gr_GR_cog.meMA.Kontakion1.text
 
 euMA.Oikos.text = me.m09.d13_gr_GR_cog.meMA.Oikos1.text
 
-//Odes 7, 8, and 9 from 09-13 Canon 2
+euMA.Ode7C1H.ode = misc_gr_GR_cog.Ode7
+euMA.Ode7C1H.mode = misc_gr_GR_cog.Mode4
+euMA.Ode7C1H.melody = misc_gr_GR_cog.Heirmos
+euMA.Ode7C1H.text = he.h.m4_gr_GR_cog.EnTiKaminoAvramiaioi.text
+
+euMA.Ode7C11.ode = misc_gr_GR_cog.Ode7
+euMA.Ode7C11.mode = misc_gr_GR_cog.Mode4
+euMA.Ode7C11.melody = he.h.m4_gr_GR_cog.EnTiKaminoAvramiaioi.name
+euMA.Ode7C11.text = me.m09.d13_gr_GR_cog.meMA.Ode7C21.text
+
+euMA.Ode7C12.ode = misc_gr_GR_cog.Ode7
+euMA.Ode7C12.mode = misc_gr_GR_cog.Mode4
+euMA.Ode7C12.melody = he.h.m4_gr_GR_cog.EnTiKaminoAvramiaioi.name
+euMA.Ode7C12.text = me.m09.d13_gr_GR_cog.meMA.Ode7C22.text
+
+euMA.Ode7C13.ode = misc_gr_GR_cog.Ode7
+euMA.Ode7C13.mode = misc_gr_GR_cog.Mode4
+euMA.Ode7C13.melody = he.h.m4_gr_GR_cog.EnTiKaminoAvramiaioi.name
+euMA.Ode7C13.text = me.m09.d13_gr_GR_cog.meMA.Ode7C23.text
+
+euMA.Ode7C1T.ode = misc_gr_GR_cog.Ode7
+euMA.Ode7C1T.mode = misc_gr_GR_cog.Mode4
+euMA.Ode7C1T.melody = he.h.m4_gr_GR_cog.EnTiKaminoAvramiaioi.name
+euMA.Ode7C1T.text = me.m09.d13_gr_GR_cog.meMA.Ode7C2T.text
+
+euMA.Ode8C1H.ode = misc_gr_GR_cog.Ode8
+euMA.Ode8C1H.mode = misc_gr_GR_cog.Mode4
+euMA.Ode8C1H.melody = misc_gr_GR_cog.Heirmos
+euMA.Ode8C1H.text = he.h.m4_gr_GR_cog.CheirasEkpetasasDaniil.text
+
+euMA.Ode8C11.ode = misc_gr_GR_cog.Ode8
+euMA.Ode8C11.mode = misc_gr_GR_cog.Mode4
+euMA.Ode8C11.melody = he.h.m4_gr_GR_cog.CheirasEkpetasasDaniil.name
+euMA.Ode8C11.text = me.m09.d13_gr_GR_cog.meMA.Ode8C21.text
+
+euMA.Ode8C12.ode = misc_gr_GR_cog.Ode8
+euMA.Ode8C12.mode = misc_gr_GR_cog.Mode4
+euMA.Ode8C12.melody = he.h.m4_gr_GR_cog.CheirasEkpetasasDaniil.name
+euMA.Ode8C12.text = me.m09.d13_gr_GR_cog.meMA.Ode8C22.text
+
+euMA.Ode8C13.ode = misc_gr_GR_cog.Ode8
+euMA.Ode8C13.mode = misc_gr_GR_cog.Mode4
+euMA.Ode8C13.melody = he.h.m4_gr_GR_cog.CheirasEkpetasasDaniil.name
+euMA.Ode8C13.text = me.m09.d13_gr_GR_cog.meMA.Ode8C23.text
+
+euMA.Ode8C1T.ode = misc_gr_GR_cog.Ode8
+euMA.Ode8C1T.mode = misc_gr_GR_cog.Mode4
+euMA.Ode8C1T.melody = he.h.m4_gr_GR_cog.CheirasEkpetasasDaniil.name
+euMA.Ode8C1T.text = me.m09.d13_gr_GR_cog.meMA.Ode8C2T.text
+
+euMA.Ode9C1H.ode = misc_gr_GR_cog.Ode9
+euMA.Ode9C1H.mode = misc_gr_GR_cog.Mode4
+euMA.Ode9C1H.melody = misc_gr_GR_cog.Heirmos
+euMA.Ode9C1H.text = he.h.m4_gr_GR_cog.LithosAcheirotmitos.text
+
+euMA.Ode9C11.ode = misc_gr_GR_cog.Ode9
+euMA.Ode9C11.mode = misc_gr_GR_cog.Mode4
+euMA.Ode9C11.melody = he.h.m4_gr_GR_cog.LithosAcheirotmitos.name
+euMA.Ode9C11.text = me.m09.d13_gr_GR_cog.meMA.Ode9C21.text
+
+euMA.Ode9C12.ode = misc_gr_GR_cog.Ode9
+euMA.Ode9C12.mode = misc_gr_GR_cog.Mode4
+euMA.Ode9C12.melody = he.h.m4_gr_GR_cog.LithosAcheirotmitos.name
+euMA.Ode9C12.text = me.m09.d13_gr_GR_cog.meMA.Ode9C22.text
+
+euMA.Ode9C13.ode = misc_gr_GR_cog.Ode9
+euMA.Ode9C13.mode = misc_gr_GR_cog.Mode4
+euMA.Ode9C13.melody = he.h.m4_gr_GR_cog.LithosAcheirotmitos.name
+euMA.Ode9C13.text = me.m09.d13_gr_GR_cog.meMA.Ode9C23.text
+
+euMA.Ode9C1T.ode = misc_gr_GR_cog.Ode9
+euMA.Ode9C1T.mode = misc_gr_GR_cog.Mode4
+euMA.Ode9C1T.melody = he.h.m4_gr_GR_cog.LithosAcheirotmitos.name
+euMA.Ode9C1T.text = me.m09.d13_gr_GR_cog.meMA.Ode9C2T.text
 
 euMA.Exaposteilarion1.mode = misc_gr_GR_cog.Mode2
 euMA.Exaposteilarion1.melody = he.a.m2_gr_GR_cog.GynaikesAkoutisthite.name
@@ -118,6 +315,7 @@ euMA.LaudsBoth.mode = misc_gr_GR_cog.Mode5
 euMA.LaudsBoth.melody = misc_gr_GR_cog.Idiomelon
 euMA.LaudsBoth.text = me.m12.d09_gr_GR_cog.meMA.LaudsGlory.text
 
+euMA.MM.Lauds12as12.text = properties_gr_GR_cog.media.key
 euMA.MM.Lauds123as456.text = properties_gr_GR_cog.media.key
 
 euCON.Key4000.title = "ΕΓΚΑΙΝΙΑ ΚΑΙ ΛΕΙΤΟΥΡΓΙΑ"

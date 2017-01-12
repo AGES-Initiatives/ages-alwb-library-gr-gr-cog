@@ -27,6 +27,9 @@ cl.bishop2.fimi.text = ""
 //cl.double_commemoration.bishop1and2 = "" //blank or yes
 cl.fimi.bishop1 = "yes" //blank or yes
 
+cl.monastery1 = ""
+cl.monastery2 = ""
+
 cl.localpatronsaint1.supplication = "(τοῦ Ἁγίου τοῦ Ναοῦ)·"
 cl.localpatronsaint1.dismissal = "(τοῦ Ἁγίου τοῦ Ναοῦ)·"
 cl.localpatronsaint1.greatcompline = "(Ὁ Ἅγιος τοῦ Ναοῦ), πρέσβευε ὑπὲρ ἡμῶν τῶν ἁμαρτωλῶν."
@@ -60,6 +63,11 @@ cl.relics.saint3.Apolytikion.title = ""
 cl.relics.saint3.Apolytikion.mode = ""
 cl.relics.saint3.Apolytikion.melody = ""
 cl.relics.saint3.Apolytikion.text = ""
+
+cl.saints.array01.text = ""
+cl.saints.array02.text = ""
+cl.saints.array03.text = ""
+
 
 //Rubrics
 cl.eu.lichrysbasil.R001 = "(Καὶ ψάλλεται τὸ Α’ Ἀντίφωνον, συνοδευόμενον ἀπὸ τὸ ἐφύμνιον:)"

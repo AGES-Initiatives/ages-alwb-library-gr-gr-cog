@@ -27,8 +27,10 @@ cl.bishop2.fimi.text = ""
 //cl.double_commemoration.bishop1and2 = "" //blank or yes
 cl.fimi.bishop1 = "yes" //blank or yes
 
-cl.monastery1 = ""
-cl.monastery2 = ""
+cl.monastery1_c = "," //abbot
+cl.monastery2_c = "," //elder
+cl.monastery1_p = "."
+cl.monastery2_p = "."
 
 cl.localpatronsaint1.supplication = "(τοῦ Ἁγίου τοῦ Ναοῦ)·"
 cl.localpatronsaint1.dismissal = "(τοῦ Ἁγίου τοῦ Ναοῦ)·"
@@ -63,6 +65,12 @@ cl.relics.saint3.Apolytikion.title = ""
 cl.relics.saint3.Apolytikion.mode = ""
 cl.relics.saint3.Apolytikion.melody = ""
 cl.relics.saint3.Apolytikion.text = ""
+
+cl.relics.saint4 = ""
+cl.relics.saint4.Apolytikion.title = ""
+cl.relics.saint4.Apolytikion.mode = ""
+cl.relics.saint4.Apolytikion.melody = ""
+cl.relics.saint4.Apolytikion.text = ""
 
 cl.saints.array01.text = ""
 cl.saints.array02.text = ""

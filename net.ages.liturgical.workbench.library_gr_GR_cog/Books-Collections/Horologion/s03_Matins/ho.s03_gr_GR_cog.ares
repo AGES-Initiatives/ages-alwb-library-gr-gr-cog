@@ -164,46 +164,57 @@ Hymn 3x
 Title Mode8
 Hymn 3x
 
-Title Exaposteilaria
-Subtitle
-On Monday
-Title Mode
-Hymn
-Title Theot
-Hymn
-
-On Tuesday
-Title Mode
-Hymn
-Title Theot
-Hymn ref
-
-On Wed and Fri
-Title Mode
-Hymn
-Title StavTheot
-Hymn
-
-On Thur
-Title Mode
-Hymn
-Title
-Hymn
-Title Theot
-Hymn
 */
+hoMA.Exaposteilaria.title = "Ἐξαποστειλάρια"
+hoMA.Exaposteilaria.title2 = "τῆς ὅλης ἑβδομάδος"
+
+hoMA.ExapMonTitle = "Τῇ Δευτέρᾳ"
+hoMA.ExapMon1.mode = misc_gr_GR_cog.Mode3
+hoMA.ExapMon1.melody = misc_gr_GR_cog.Automelon
+hoMA.ExapMon1.text = he.a.m3_gr_GR_cog.OOuranonToisAstrois.text
+
+hoMA.ExapMonTh.mode = misc_gr_GR_cog.Mode3
+hoMA.ExapMonTh.melody = he.a.m3_gr_GR_cog.OOuranonToisAstrois.name
+hoMA.ExapMonTh.text = ho.s23_gr_GR_cog.hoCA.Exaposteilarion2.text
+
+hoMA.ExapTueTitle = "Τῇ Τρίτῃ"
+hoMA.ExapTue1.mode = misc_gr_GR_cog.Mode3
+hoMA.ExapTue1.melody = he.a.m3_gr_GR_cog.OOuranonToisAstrois.name
+hoMA.ExapTue1.text = da.d3_gr_GR_cog.daMA.Exaposteilarion1.text
+
+hoMA.ExapTueTh.mode = misc_gr_GR_cog.Mode3
+hoMA.ExapTueTh.melody = he.a.m3_gr_GR_cog.OOuranonToisAstrois.name
+hoMA.ExapTueTh.text = ho.s23_gr_GR_cog.hoCA.Exaposteilarion2.text
+
+hoMA.ExapWedFriTitle = "Τῇ Τετάρτῃ καὶ Παρασκευῇ"
+hoMA.ExapWedFri1.mode = misc_gr_GR_cog.Mode2
+hoMA.ExapWedFri1.melody = he.a.m2_gr_GR_cog.TonMathitonOrontonSe.name
+hoMA.ExapWedFri1.text = me.m09.d14_gr_GR_cog.meMA.Exaposteilarion1.text
+
+hoMA.ExapWedFriTh.mode = misc_gr_GR_cog.Mode3
+hoMA.ExapWedFriTh.melody = he.a.m3_gr_GR_cog.OOuranonToisAstrois.name
+hoMA.ExapWedFriTh.text = da.d6_gr_GR_cog.daMA.ExapTheotokion.text
+
+hoMA.ExapThuTitle = "Τῇ Πέμπτῃ"
+hoMA.ExapThu1.mode = misc_gr_GR_cog.Mode2
+hoMA.ExapThu1.melody = he.a.m2_gr_GR_cog.GynaikesAkoutisthite.name
+hoMA.ExapThu1.text = "Εἰς πᾶσαν τὴν ὑφήλιον, δραμόντες ἐκηρύξατε, τὴν τοῦ Χριστοῦ ἐκ Παρθένου, ἁγίαν σάρκωσιν ὄντως, ἐκ πλάνης ἐπιστρέφοντες, τὰ ἔθνη καὶ φωτίζοντες, καὶ πάντας ἐκδιδάσκοντες, Τριάδα σέβειν ἁγίαν, Ἀπόστολοι τοῦ Σωτῆρος."
+
+hoMA.ExapThu2.mode = misc_gr_GR_cog.Mode2
+hoMA.ExapThu2.melody = he.a.m2_gr_GR_cog.GynaikesAkoutisthite.name
+hoMA.ExapThu2.text = me.m12.d06_gr_GR_cog.meMA.Exaposteilarion1.text
+
+hoMA.ExapThuTh.mode = misc_gr_GR_cog.Mode2
+hoMA.ExapThuTh.melody = he.a.m2_gr_GR_cog.GynaikesAkoutisthite.name
+hoMA.ExapThuTh.text = "Μαρία καθαρώτατον, χρυσοῦν θυμιατήριον, τῆς ἀχωρήτου Τριάδος, δοχεῖον γεγενημένη, ἐν ᾧ Πατὴρ ηὐδόκησεν, ὁ δὲ Υἱὸς ἐσκήνωσε, καὶ Πνεῦμα τὸ πανάγιον, ἐπισκιάσαν σοι Κόρη, ἀνέδειξε Θεοτόκον."
 
 hoMA.ExapSatTitle = "Τῷ Σαββάτῳ"
 hoMA.ExapSat1.mode = misc_gr_GR_cog.Mode3
-hoMA.ExapSat1.melody = misc_gr_GR_cog.Automelon
-hoMA.ExapSat1.text = da.d7_gr_GR_cog.daMA.Exaposteilarion1.text 
+hoMA.ExapSat1.melody = he.a.m3_gr_GR_cog.OOuranonToisAstrois.name
+hoMA.ExapSat1.text = da.d7_gr_GR_cog.daMA.Exaposteilarion2.text 
 
-hoMA.ExapSat2.mode = misc_gr_GR_cog.Mode3
-hoMA.ExapSat2.melody = he.a.m3_gr_GR_cog.OOuranonToisAstrois.name
-hoMA.ExapSat2.text = da.d7_gr_GR_cog.daMA.Exaposteilarion2.text 
-
-hoMA.ExapSatTh.mode = misc_gr_GR_cog.Mode3
-hoMA.ExapSatTh.melody = he.a.m3_gr_GR_cog.OOuranonToisAstrois.name
+hoMA.ExapSatTh.mode = misc_gr_GR_cog.Mode2
+hoMA.ExapSatTh.melody = he.a.m2_gr_GR_cog.TonMathitonOrontonSe.name
 hoMA.ExapSatTh.text = da.d7_gr_GR_cog.daMA.ExapTheotokion.text 
 
 R19 = ""

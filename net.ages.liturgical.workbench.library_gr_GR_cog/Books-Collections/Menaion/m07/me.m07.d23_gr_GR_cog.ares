@@ -1,10 +1,10 @@
 A_Resource_Whose_Name = me.m07.d23_gr_GR_cog
 
 meDate.text = "Τῌ ΚΓʹ ΙΟΥΛΙΟΥ"
-meCommemoration.text = "Μνήμη τοῦ Ἁγίου Ἱερομαρτυρος Φωκᾶ, τοῦ Προφήτου Ἰεζεκιὴλ καὶ τῆς Ὁσίας Μητρὸς ἡμῶν Πελαγίας τῆς ἐν Τἠνῳ." //full title of day
-meShortCommemoration1.text = ""
-meInsert1 = "καὶ τοῦ Ἁγίου Ἱερομαρτυρος Φωκᾶ, τοῦ Προφήτου Ἰεζεκιὴλ καὶ τῆς Ὁσίας Μητρὸς ἡμῶν Πελαγίας τῆς ἐν Τἠνῳ, " //for use in petitions and dismissal
-meInsert2 = "ὧν καὶ τὴν μνήμην ἐπιτελοῦμεν· " //for use in petitions and dismissal
+meCommemoration.text = "Μνήμη τοῦ Ἁγίου Ἱερομαρτυρος Φωκᾶ, τοῦ Προφήτου Ἰεζεκιὴλ καὶ τῆς Ὁσίας Μητρὸς ἡμῶν Πελαγίας τῆς ἐν Τήνῳ." //full title of day
+meShortCommemoration1.text = "Μνήμη τοῦ Ἁγίου Ἱερομαρτυρος Φωκᾶ"
+meInsert1 = "καὶ τοῦ Ἁγίου Ἱερομαρτυρος Φωκᾶ," //for use in petitions and dismissal
+meInsert2 = "οὗ καὶ τὴν μνήμην ἐπιτελοῦμεν· " //for use in petitions and dismissal
 meNote.text = ""
 meLE.commemoration1 = "Μνήμη τοῦ Ἁγίου Ἱερομαρτυρος Φωκᾶ, τοῦ Προφήτου Ἰεζεκιὴλ καὶ τῆς Ὁσίας Μητρὸς ἡμῶν Πελαγίας τῆς ἐν Τἠνῳ."
 meLE.commemoration2 = ""
@@ -39,6 +39,7 @@ meVE.SticStavrotheotokion.melody = he.a.m4_gr_GR_cog.OsGennaionEnMartysi.name
 meVE.SticStavrotheotokion.text = "Ὡς ἑώρακε Κύριε, ἡ Παρθένος καὶ Μήτηρ σου, ἐν Σταυρῷ κρεμάμενον, ἐξεπλήττετο, καὶ ἀτενίζουσα ἔλεγε· Τὶ σοι ἀνταπέδωκαν, οἱ πολλῶν σου δωρεῶν, ἀπολαύσαντες Δέσποτα; Ἀλλὰ δέομαι· Μὴ μὲ μόνην ἐάσῃς ἐν τῷ κόσμῳ, ἀλλὰ σπεῦσον ἀναστῆναι, συνανιστῶν τοὺς προπάτορας."
 
 meVE.GeneralApolytikion1.name = "Φωκᾶ," // name of saint for General Apolytikia when not in Menaion
+meVE.MM.GeneralApolytikion1.text = properties_gr_GR_cog.media.key
 
 meVE.Apolytikion1.poet = poets_gr_GR_cog.Gerasimou
 meVE.Apolytikion1.mode = misc_gr_GR_cog.Mode3
@@ -57,8 +58,8 @@ meVE.Apolytikion3.text = "Ἀμέμπτως ἐβίωσας, ἐν ἐγκρα
 
 meMA.C1Acrostic.text = "οὗ ἡ Ἀκροστιχίς (ἄνευ τῶν Θεοτοκίων)· Φωκᾶς ὁ Φωστὴρ πᾶσιν ἐκλάμπει χάριν."
 
-meMA.C1.title = ""
-meMA.C1.verse = ""
+meMA.C1.title = titles_gr_GR_cog.TouIeromartyros
+meMA.C1.verse = prayers_gr_GR_cog.verse_SaintM.text
 
 meMA.Ode1C11.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C11.mode = misc_gr_GR_cog.Mode4

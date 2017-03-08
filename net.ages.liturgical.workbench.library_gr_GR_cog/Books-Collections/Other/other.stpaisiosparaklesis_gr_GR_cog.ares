@@ -16,11 +16,6 @@ hoCA.Apolytikion2.text = ho.s23_gr_GR_cog.hoCA.Apolytikion2.text
 
 hoCA.Acrostic.text = ""
 
-hoCA.Ode1H.ode = misc_gr_GR_cog.Ode1
-hoCA.Ode1H.mode = misc_gr_GR_cog.Mode8
-hoCA.Ode1H.melody = misc_gr_GR_cog.Heirmos
-hoCA.Ode1H.text = he.h.m8_gr_GR_cog.YgranDiodefsas.text
-
 hoCA.Ode11.ode = misc_gr_GR_cog.Ode1
 hoCA.Ode11.mode = misc_gr_GR_cog.Mode8
 hoCA.Ode11.melody = he.h.m8_gr_GR_cog.YgranDiodefsas.name
@@ -36,15 +31,10 @@ hoCA.Ode13.mode = misc_gr_GR_cog.Mode8
 hoCA.Ode13.melody = he.h.m8_gr_GR_cog.YgranDiodefsas.name
 hoCA.Ode13.text = "Χοροὶ μοναζόντων καὶ κοσμικῶν, πρὸς σὲ ὁμοφώνως, ἀτενίζουσι τὸν σεμνόν, αἰτούμενοι Πάτερ τὴν σὴν χάριν, ἵνα τὸ θράσος τοῦ δράκοντος θραύσωσι."
 
-hoCA.Ode14.ode = misc_gr_GR_cog.Ode1
-hoCA.Ode14.mode = misc_gr_GR_cog.Mode8
-hoCA.Ode14.melody = he.h.m8_gr_GR_cog.YgranDiodefsas.name
-hoCA.Ode14.text = "Ὁ κτίσεως πάσης δημιουργός, ἐκ σοῦ τῆς Παρθένου, ἐδανείσθη ὑπερφυῶς, τὴν σάρκα τὴν σὴν διὸ μὴ παύσῃ, τοῦτον ἁγνὴ ὑπὲρ πάντων λιτάζουσα."
-
-hoCA.Ode3H.ode = misc_gr_GR_cog.Ode3
-hoCA.Ode3H.mode = misc_gr_GR_cog.Mode8
-hoCA.Ode3H.melody = misc_gr_GR_cog.Heirmos
-hoCA.Ode3H.text = he.h.m8_gr_GR_cog.OuraniasApsidos.text
+hoCA.Ode1T.ode = misc_gr_GR_cog.Ode1
+hoCA.Ode1T.mode = misc_gr_GR_cog.Mode8
+hoCA.Ode1T.melody = he.h.m8_gr_GR_cog.YgranDiodefsas.name
+hoCA.Ode1T.text = "Ὁ κτίσεως πάσης δημιουργός, ἐκ σοῦ τῆς Παρθένου, ἐδανείσθη ὑπερφυῶς, τὴν σάρκα τὴν σὴν διὸ μὴ παύσῃ, τοῦτον ἁγνὴ ὑπὲρ πάντων λιτάζουσα."
 
 hoCA.Ode31.ode = misc_gr_GR_cog.Ode3
 hoCA.Ode31.mode = misc_gr_GR_cog.Mode8
@@ -61,10 +51,10 @@ hoCA.Ode33.mode = misc_gr_GR_cog.Mode8
 hoCA.Ode33.melody = he.h.m8_gr_GR_cog.OuraniasApsidos.name
 hoCA.Ode33.text = "Ἀσωτεύσας θεόφρον, ἐν πονηροῖς πάθεσι, καὶ ἐκδαπανήσας τὸν πλοῦτον, τῆς θείας χάριτος, γυμνὸς περίκειμαι, καὶ ἱκετεύω λιταῖς σου, τὴν στολὴν τοῦ Πνεύματος, πάλιν ἐνδύσαί με."
 
-hoCA.Ode34.ode = misc_gr_GR_cog.Ode3
-hoCA.Ode34.mode = misc_gr_GR_cog.Mode8
-hoCA.Ode34.melody = he.h.m8_gr_GR_cog.OuraniasApsidos.name
-hoCA.Ode34.text = "Τὴν σὴν ἔχω εἰκόνα, ὡς χαρμονὴν Πάναγνε, καὶ παραμυθίαν γενναίαν, ἐν βίῳ πάντοτε· διὸ καὶ ἵσταμαι, πρὸ τῆς ἁγίας μορφῆς σου, καὶ αἰτοῦμαι ἄχραντε, τὴν σὴν ἀντίληψιν."
+hoCA.Ode3T.ode = misc_gr_GR_cog.Ode3
+hoCA.Ode3T.mode = misc_gr_GR_cog.Mode8
+hoCA.Ode3T.melody = he.h.m8_gr_GR_cog.OuraniasApsidos.name
+hoCA.Ode3T.text = "Τὴν σὴν ἔχω εἰκόνα, ὡς χαρμονὴν Πάναγνε, καὶ παραμυθίαν γενναίαν, ἐν βίῳ πάντοτε· διὸ καὶ ἵσταμαι, πρὸ τῆς ἁγίας μορφῆς σου, καὶ αἰτοῦμαι ἄχραντε, τὴν σὴν ἀντίληψιν."
 
 hoCA.Troparion31.mode = misc_gr_GR_cog.Mode8
 hoCA.Troparion31.melody = "Διάσωσον."
@@ -77,11 +67,6 @@ hoCA.Troparion32.text = ho.s23_gr_GR_cog.hoCA.Troparion32.text
 hoCA.Kathisma11.mode = misc_gr_GR_cog.Mode2
 hoCA.Kathisma11.melody = he.a.m2_gr_GR_cog.TaAnoZiton.name
 hoCA.Kathisma11.text = "Φαράσων βλαστός, καὶ Ἄθωνος τὸ κλέϊσμα, ὑπάρχων σεπτέ, Παΐσιε πανάρετε, ψυχῆς τε καὶ τοῦ σώματος, τὰ ποικίλα νοσήματα ἴασαι, καὶ τὴν πληθὺν δαιμόνων ἀφ' ἡμῶν, ἀπέλασον τάχιστα ἰσχύϊ σου."
-
-hoCA.Ode4H.ode = misc_gr_GR_cog.Ode4
-hoCA.Ode4H.mode = misc_gr_GR_cog.Mode8
-hoCA.Ode4H.melody = misc_gr_GR_cog.Heirmos
-hoCA.Ode4H.text = he.h.m8_gr_GR_cog.EisakikoaKyrie.text
 
 hoCA.Ode41.ode = misc_gr_GR_cog.Ode4
 hoCA.Ode41.mode = misc_gr_GR_cog.Mode8
@@ -98,15 +83,10 @@ hoCA.Ode43.mode = misc_gr_GR_cog.Mode8
 hoCA.Ode43.melody = he.h.m8_gr_GR_cog.EisakikoaKyrie.name
 hoCA.Ode43.text = "Παρεδόθην ταῖς θλίψεσι, καὶ στενοχωρίαις πολλαῖς Παΐσιε, διὸ χάρισαι πρεσβείαις σου, τὴν ἐντός μου ὅσιε εἰρήνευσιν."
 
-hoCA.Ode44.ode = misc_gr_GR_cog.Ode4
-hoCA.Ode44.mode = misc_gr_GR_cog.Mode8
-hoCA.Ode44.melody = he.h.m8_gr_GR_cog.EisakikoaKyrie.name
-hoCA.Ode44.text = "Ἀπωλείας τὸν αἴτιον, καὶ τοῦ ψεύδους Μῆτερ μέγαν συνήγορον, τὸν μισάνθρωπον διάβολον, καὶ πειράζοντά με ἐξουθένωσον."
-
-hoCA.Ode5H.ode = misc_gr_GR_cog.Ode5
-hoCA.Ode5H.mode = misc_gr_GR_cog.Mode8
-hoCA.Ode5H.melody = misc_gr_GR_cog.Heirmos
-hoCA.Ode5H.text = he.h.m8_gr_GR_cog.FotisonImas.text
+hoCA.Ode4T.ode = misc_gr_GR_cog.Ode4
+hoCA.Ode4T.mode = misc_gr_GR_cog.Mode8
+hoCA.Ode4T.melody = he.h.m8_gr_GR_cog.EisakikoaKyrie.name
+hoCA.Ode4T.text = "Ἀπωλείας τὸν αἴτιον, καὶ τοῦ ψεύδους Μῆτερ μέγαν συνήγορον, τὸν μισάνθρωπον διάβολον, καὶ πειράζοντά με ἐξουθένωσον."
 
 hoCA.Ode51.ode = misc_gr_GR_cog.Ode5
 hoCA.Ode51.mode = misc_gr_GR_cog.Mode8
@@ -123,15 +103,10 @@ hoCA.Ode53.mode = misc_gr_GR_cog.Mode8
 hoCA.Ode53.melody = he.h.m8_gr_GR_cog.FotisonImas.name
 hoCA.Ode53.text = "Ἴσος παλαιῶν, ἀσκητῶν φανεὶς Παΐσιε, σοὶ ἐδόθη χαρισμάτων ἡ πληθύς, διὸ ἴασαι τὰ ἕλκη τῶν ψυχῶν ἡμῶν."
 
-hoCA.Ode54.ode = misc_gr_GR_cog.Ode5
-hoCA.Ode54.mode = misc_gr_GR_cog.Mode8
-hoCA.Ode54.melody = he.h.m8_gr_GR_cog.FotisonImas.name
-hoCA.Ode54.text = "Ἔχουσα ἡ γῆ, σὲ προστάτιδα θεόνυμφε, προσδοκᾷ τὴν εἰρηναίαν βιοτήν, καὶ δεινῶν ἐπισυμβάσεων περάτωσιν."
-
-hoCA.Ode6H.ode = misc_gr_GR_cog.Ode6
-hoCA.Ode6H.mode = misc_gr_GR_cog.Mode8
-hoCA.Ode6H.melody = misc_gr_GR_cog.Heirmos
-hoCA.Ode6H.text = he.h.m8_gr_GR_cog.TinDeisinEkcheo.text
+hoCA.Ode5T.ode = misc_gr_GR_cog.Ode5
+hoCA.Ode5T.mode = misc_gr_GR_cog.Mode8
+hoCA.Ode5T.melody = he.h.m8_gr_GR_cog.FotisonImas.name
+hoCA.Ode5T.text = "Ἔχουσα ἡ γῆ, σὲ προστάτιδα θεόνυμφε, προσδοκᾷ τὴν εἰρηναίαν βιοτήν, καὶ δεινῶν ἐπισυμβάσεων περάτωσιν."
 
 hoCA.Ode61.ode = misc_gr_GR_cog.Ode6
 hoCA.Ode61.mode = misc_gr_GR_cog.Mode8
@@ -148,10 +123,10 @@ hoCA.Ode63.mode = misc_gr_GR_cog.Mode8
 hoCA.Ode63.melody = he.h.m8_gr_GR_cog.TinDeisinEkcheo.name
 hoCA.Ode63.text = "Ὡς ἄγγελος, ἐκ τοῦ ὄρους Ἄθωνος, ἐν τῇ μάνδρᾳ Σουρωτῆς καταφθάνεις, μοναζουσῶν τὸν χορὸν ἐκδιδάσκων, τῆς εὐσεβείας ἀλείπτης γενόμενος· διὸ καὶ νῦν πάντας ἡμᾶς, πρὸς τὰ κρείττω ὁδήγησον ὅσιε."
 
-hoCA.Ode64.ode = misc_gr_GR_cog.Ode6
-hoCA.Ode64.mode = misc_gr_GR_cog.Mode8
-hoCA.Ode64.melody = he.h.m8_gr_GR_cog.TinDeisinEkcheo.name
-hoCA.Ode64.text = "Νοσούντων, καὶ τῶν στενόντων Παρθένε, ἀναδείχθητι ἰάτειρα θεία, καὶ ἀνιάτων παθῶν ταῖς λιταῖς σου, θεραπευτὴς τῆς ψυχῆς καὶ τοῦ σώματος, γενοῦ θεόνυμφε ἁγνή, τῶν σὲ ὑμνούντων ἐν ᾄσμασι δούλων σου."
+hoCA.Ode6T.ode = misc_gr_GR_cog.Ode6
+hoCA.Ode6T.mode = misc_gr_GR_cog.Mode8
+hoCA.Ode6T.melody = he.h.m8_gr_GR_cog.TinDeisinEkcheo.name
+hoCA.Ode6T.text = "Νοσούντων, καὶ τῶν στενόντων Παρθένε, ἀναδείχθητι ἰάτειρα θεία, καὶ ἀνιάτων παθῶν ταῖς λιταῖς σου, θεραπευτὴς τῆς ψυχῆς καὶ τοῦ σώματος, γενοῦ θεόνυμφε ἁγνή, τῶν σὲ ὑμνούντων ἐν ᾄσμασι δούλων σου."
 
 hoCA.Troparion61.mode = misc_gr_GR_cog.Mode8
 hoCA.Troparion61.melody = "Διάσωσον."
@@ -177,11 +152,6 @@ hoCA.PostGospelHymn1.mode = misc_gr_GR_cog.Mode6
 hoCA.PostGospelHymn1.melody = he.a.m6_gr_GR_cog.OlinApothemenoi.name
 hoCA.PostGospelHymn1.text = "Ὅσιε Παΐσιε, τοῦ Ὄρους Ἄθωνος κλέος, Σουρωτῆς τὸ καύχημα, καὶ Φαράσων γόνος ὁ εὐσυμπάθητος, ἀληθῶς γέγονας, ἐν ἐσχάτοις χρόνοις, διὰ τοῦτο καὶ βοῶμέν σοι, πάσης στενώσεως, καὶ τῶν ἀδοκήτων συμβάσεων, τῆς λύμης τῶν αἱρέσεων, καὶ ἐπηρειῶν τοῦ ἀλάστορος, ἀνιάτων νόσων, ἡμᾶς τοὺς σὲ τιμῶντας εὐλαβῶς, μὴ διαλείπῃς πρεσβείαις σου, διασῴζων πάντοτε."
 
-hoCA.Ode7H.ode = misc_gr_GR_cog.Ode7
-hoCA.Ode7H.mode = misc_gr_GR_cog.Mode8
-hoCA.Ode7H.melody = misc_gr_GR_cog.Heirmos
-hoCA.Ode7H.text = he.h.m8_gr_GR_cog.OiEkTisIoudaias.text
-
 hoCA.Ode71.ode = misc_gr_GR_cog.Ode7
 hoCA.Ode71.mode = misc_gr_GR_cog.Mode8
 hoCA.Ode71.melody = he.h.m8_gr_GR_cog.OiEkTisIoudaias.name
@@ -197,15 +167,10 @@ hoCA.Ode73.mode = misc_gr_GR_cog.Mode8
 hoCA.Ode73.melody = he.h.m8_gr_GR_cog.OiEkTisIoudaias.name
 hoCA.Ode73.text = "Τὴν νεότητα πᾶσαν, ἐκ τοῦ λάκκου ἀγνοίας, καὶ ἀθεότητος, καὶ πάσης ἀναρχίας, Παΐσιε παμμάκαρ, ταῖς λιταῖς σου ἐξάγαγε, σὺ γὰρ ἐκτήσω σεμνέ, μεγίστην παῤῥησίαν."
 
-hoCA.Ode74.ode = misc_gr_GR_cog.Ode7
-hoCA.Ode74.mode = misc_gr_GR_cog.Mode8
-hoCA.Ode74.melody = he.h.m8_gr_GR_cog.OiEkTisIoudaias.name
-hoCA.Ode74.text = "Ἡδυμόλπως Παρθένε, φοβερὰ προστασία, ἀκαταμάχητε, ὑμνῶ σου τὴν εἰκόνα, τὴν ὄντως θεσπεσίαν, ἣν ἐπ' ὤμων ἐκράτησε, Παΐσιος ὁ σεμνός, ὁ δοῦλός σου Μαρία."
-
-hoCA.Ode8H.ode = misc_gr_GR_cog.Ode8
-hoCA.Ode8H.mode = misc_gr_GR_cog.Mode8
-hoCA.Ode8H.melody = misc_gr_GR_cog.Heirmos
-hoCA.Ode8H.text = he.h.m8_gr_GR_cog.TonVasileaTonOuranon.text
+hoCA.Ode7T.ode = misc_gr_GR_cog.Ode7
+hoCA.Ode7T.mode = misc_gr_GR_cog.Mode8
+hoCA.Ode7T.melody = he.h.m8_gr_GR_cog.OiEkTisIoudaias.name
+hoCA.Ode7T.text = "Ἡδυμόλπως Παρθένε, φοβερὰ προστασία, ἀκαταμάχητε, ὑμνῶ σου τὴν εἰκόνα, τὴν ὄντως θεσπεσίαν, ἣν ἐπ' ὤμων ἐκράτησε, Παΐσιος ὁ σεμνός, ὁ δοῦλός σου Μαρία."
 
 hoCA.Ode81.ode = misc_gr_GR_cog.Ode8
 hoCA.Ode81.mode = misc_gr_GR_cog.Mode8
@@ -222,15 +187,10 @@ hoCA.Ode83.mode = misc_gr_GR_cog.Mode8
 hoCA.Ode83.melody = he.h.m8_gr_GR_cog.TonVasileaTonOuranon.name
 hoCA.Ode83.text = "Ἰῷ πορνείας, καὶ ἁμαρτάδων ἀθέσμων, τῆς νεότητος τὰ πλήθη παραπαίει, ὅθεν χεῖρα τούτοις, παράσχου θεοφόρε."
 
-hoCA.Ode84.ode = misc_gr_GR_cog.Ode8
-hoCA.Ode84.mode = misc_gr_GR_cog.Mode8
-hoCA.Ode84.melody = he.h.m8_gr_GR_cog.TonVasileaTonOuranon.name
-hoCA.Ode84.text = "Σεσαρκωμένος, ἐκ τῆς ἁγίας γαστρός σου, ὁ φιλάνθρωπος Δεσπότης καὶ Υἱός σου, Δέσποινα ἐξῆλθε, τοῦ σῶσαι τοὺς ἀνθρώπους."
-
-hoCA.Ode9H.ode = misc_gr_GR_cog.Ode9
-hoCA.Ode9H.mode = misc_gr_GR_cog.Mode8
-hoCA.Ode9H.melody = misc_gr_GR_cog.Heirmos
-hoCA.Ode9H.text = he.h.m8_gr_GR_cog.KyriosTheotokon.text
+hoCA.Ode8T.ode = misc_gr_GR_cog.Ode8
+hoCA.Ode8T.mode = misc_gr_GR_cog.Mode8
+hoCA.Ode8T.melody = he.h.m8_gr_GR_cog.TonVasileaTonOuranon.name
+hoCA.Ode8T.text = "Σεσαρκωμένος, ἐκ τῆς ἁγίας γαστρός σου, ὁ φιλάνθρωπος Δεσπότης καὶ Υἱός σου, Δέσποινα ἐξῆλθε, τοῦ σῶσαι τοὺς ἀνθρώπους."
 
 hoCA.Ode91.ode = misc_gr_GR_cog.Ode9
 hoCA.Ode91.mode = misc_gr_GR_cog.Mode8
@@ -247,10 +207,10 @@ hoCA.Ode93.mode = misc_gr_GR_cog.Mode8
 hoCA.Ode93.melody = he.h.m8_gr_GR_cog.KyriosTheotokon.name
 hoCA.Ode93.text = "Ἡ Σουρωτὴ καὶ Ἄθως, καὶ πᾶσα Ἐκκλησία, ἐπικαλεῖταί σε πάτερ Παΐσιε, ὅπως σωφρόνως τὴν τρίβον Χριστοῦ βαδίσωμεν."
 
-hoCA.Ode94.ode = misc_gr_GR_cog.Ode9
-hoCA.Ode94.mode = misc_gr_GR_cog.Mode8
-hoCA.Ode94.melody = he.h.m8_gr_GR_cog.KyriosTheotokon.name
-hoCA.Ode94.text = "Λοιμοῦ λιμοῦ καὶ ἄλλων, δεινῶν ἐν τῇ Ἑλλάδι, ταῖς σαῖς πρεσβείαις ἐλπίζομεν τάχιστα, ἀπαλλαγῆναι ταχέως σεπτὲ Παΐσιε."
+hoCA.Ode9T.ode = misc_gr_GR_cog.Ode9
+hoCA.Ode9T.mode = misc_gr_GR_cog.Mode8
+hoCA.Ode9T.melody = he.h.m8_gr_GR_cog.KyriosTheotokon.name
+hoCA.Ode9T.text = "Λοιμοῦ λιμοῦ καὶ ἄλλων, δεινῶν ἐν τῇ Ἑλλάδι, ταῖς σαῖς πρεσβείαις ἐλπίζομεν τάχιστα, ἀπαλλαγῆναι ταχέως σεπτὲ Παΐσιε."
 
 hoCA.Meg00.text = ho.s03_gr_GR_cog.hoMA.Ode9.Meg00.text
 hoCA.Meg01.melody = misc_gr_GR_cog.Heirmos
@@ -273,9 +233,13 @@ hoCA.Troparion1.melody = he.a.m2_gr_GR_cog.OteEkTouXylou.name
 hoCA.Troparion1.text = "Πάτερ ὁσιώτατε τοὺς βροτούς, τοὺς ὑμνολογοῦντας, πολιτείαν σου τὴν σεπτήν, τῇ ἐπισκοπῇ σου, προστάτευσον ἐκ βλάβης, βελίαρ τοῦ ἀρχαίου, τοῦ πολεμήτορος."
 
 hoCA.Troparion2.mode = misc_gr_GR_cog.Mode2
-hoCA.Troparion2.melody = "Πάθη τὰ δυσώδη τῆς ψυχῆς, καὶ τὰ ἀνομήματα πάντα, τὰς ἀῤῥωστίας σαρκός, καὶ τὰ ἐνεργήματα, πολυειδῶν φοβιῶν, τῆς δειλίας τὴν βάσανον, καὶ πάσης ἀνάγκης, ἄγχος καὶ δυνάστευσιν, καὶ τῆς πενίας κακά, ὅσιε Παΐσιε σπεῦσον, ταῖς πρὸς τὸν Χριστὸν ἱκεσίαις, παῦσαι ἀπὸ πάντων τῶν ὑμνούντων σε."
-hoCA.Troparion2.text = ho.s23_gr_GR_cog.hoCA.Troparion6.text
+hoCA.Troparion2.melody = he.a.m2_gr_GR_cog.OteEkTouXylou.name
+hoCA.Troparion2.text = "Πάθη τὰ δυσώδη τῆς ψυχῆς, καὶ τὰ ἀνομήματα πάντα, τὰς ἀῤῥωστίας σαρκός, καὶ τὰ ἐνεργήματα, πολυειδῶν φοβιῶν, τῆς δειλίας τὴν βάσανον, καὶ πάσης ἀνάγκης, ἄγχος καὶ δυνάστευσιν, καὶ τῆς πενίας κακά, ὅσιε Παΐσιε σπεῦσον, ταῖς πρὸς τὸν Χριστὸν ἱκεσίαις, παῦσαι ἀπὸ πάντων τῶν ὑμνούντων σε."
 
 hoCA.Troparion3.mode = misc_gr_GR_cog.Mode2
 hoCA.Troparion3.melody = ""
-hoCA.Troparion3.text = ho.s23_gr_GR_cog.hoCA.Troparion7.text
+hoCA.Troparion3.text = ho.s23_gr_GR_cog.hoCA.Troparion6.text
+
+hoCA.Troparion4.mode = misc_gr_GR_cog.Mode2
+hoCA.Troparion4.melody = ""
+hoCA.Troparion4.text = ho.s23_gr_GR_cog.hoCA.Troparion7.text

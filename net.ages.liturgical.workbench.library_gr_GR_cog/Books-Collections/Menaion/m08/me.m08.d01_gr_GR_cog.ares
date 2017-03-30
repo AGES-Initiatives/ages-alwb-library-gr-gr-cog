@@ -5,7 +5,8 @@ meHO.DaysHours.text = ""
 
 meDate.text = "Τῌ Αʹ ΑΥΓΟΥΣΤΟΥ"
 meCommemoration.text = "Ἡ Πρόοδος τοῦ τιμίου Σταυροῦ· καὶ Μνήμη τῶν Ἁγίων ἑπτὰ Μαρτύρων τῶν Μακκαβαίων καὶ τοῦ διδασκάλου αὐτῶν Ἐλεαζάρου καὶ τῆς μητρὸς αὐτῶν Σολομονῆς." // full title of day
-meShortCommemoration1.text = ""
+meShortCommemoration1.text = "Ἡ Πρόοδος τοῦ τιμίου Σταυροῦ."
+meInsert0 = "οὗ τὴν πρόοδον ἐπιτελοῦμεν·"
 meInsert1 = "τῶν Ἁγίων ἑπτὰ Μαρτύρων τῶν Μακκαβαίων καὶ τοῦ διδασκάλου αὐτῶν Ἐλεαζάρου καὶ τῆς μητρὸς αὐτῶν Σολομονῆς, " // for use in petitions and dismissal
 meInsert2 = "ὧν καὶ τὴν μνήμην ἐπιτελοῦμεν· " // for use in petitions and dismissal
 meNote.text = ""
@@ -48,7 +49,7 @@ meVE.SticGlory.text = "Οἱ Ἅγιοι Μακκαβαῖοι τῷ τυράν
 
 meVE.SticBoth.mode = misc_gr_GR_cog.Mode8
 meVE.SticBoth.melody = ""
-meVE.SticBoth.text = "Ὅνπερ πάλαι Μωϋσῆς, προτυπώσας ἐν ἑαυτῷ, τὸν Ἀμαλὴκ καταβαλὼν ἐτροπώσατο, καὶ Δαυῒδ ὁ μελῳδός, ὑποπόδιόν σοι βοῶν, προσκυνεῖσθαι διετάξατο, τίμιον Σταυρόν σου Χριστὲ ὁ Θεός, σήμερον ἁμαρτωλοὶ προσκυνοῦμεν, χείλεσιν ἀναξίοις, σὲ τὸν καταξιώσαντα παγῆναι ἐν αὐτῷ, ἀνυμνοῦντες δεόμεθα, Κύριε, σὺν τῷ Λῃστῇ τῆς βασιλείας σου ἀξίωσον ἡμᾶς."
+meVE.SticBoth.text = me.m09.d14_gr_GR_cog.meVE.AposGlory.text
 
 meVE.Aposticha1.mode = misc_gr_GR_cog.Mode1
 meVE.Aposticha1.melody = he.a.m1_gr_GR_cog.TonOuranionTagmaton.name
@@ -69,7 +70,7 @@ meVE.AposGlory.text = "Ψυχαὶ δικαίων ἐν χειρὶ Κυρίο
 
 meVE.AposBoth.mode = misc_gr_GR_cog.Mode8
 meVE.AposBoth.melody = ""
-meVE.AposBoth.text = "Ἡ φωνὴ τοῦ Προφήτου σου Μωϋσέως, ὁ Θεός, πεπλήρωται ἡ λέγουσα. Ὄψεσθε τὴν ζωὴν ὑμῶν κρεμαμένην, ἀπέναντι τῶν ὀφθαλμῶν ὑμῶν. Σήμερον Σταυρὸς ὑψοῦται, καὶ κόσμος ἐκ πλάνης ἐλευθεροῦται. Σήμερον τοῦ Χριστοῦ ἡ Ἀνάστασις ἐγκαινίζεται, καὶ τὰ πέρατα τῆς γῆς ἀγάλλονται, ἐν κυμβάλοις Δαυϊτικοῖς, ὕμνον σοι προσφέροντα καὶ λέγοντα. Εἰργάσω σωτηρίαν ἐν μέσῳ τῆς γῆς ὁ Θεός, Σταυρὸν καὶ τὴν Ἀνάστασιν, δι' ὧν ἡμᾶς ἔσωσας ἀγαθὲ καὶ φιλάνθρωπε, Παντοδύναμε, Κύριε δόξα σοι."
+meVE.AposBoth.text = me.m09.d14_gr_GR_cog.meMA.AdditionalIdiomelonGlory.text
 
 meVE.Apolytikion1.mode = misc_gr_GR_cog.Mode4
 meVE.Apolytikion1.Poet = poets_gr_GR_cog.Gerasimou
@@ -98,8 +99,8 @@ meMA.Ode1C1H.mode = misc_gr_GR_cog.Mode8
 meMA.Ode1C1H.melody = misc_gr_GR_cog.Heirmos
 meMA.Ode1C1H.text = he.h.m8_gr_GR_cog.ArmatilatinFarao.text
 
-meMA.C1.title = ""
-meMA.C1.verse = ""
+meMA.C1.title = titles_gr_GR_cog.KanonTouStavrou
+meMA.C1.verse = prayers_gr_GR_cog.verse_Cross.text
 
 meMA.Ode1C11.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C11.mode = misc_gr_GR_cog.Mode8
@@ -126,8 +127,8 @@ meMA.Ode1C1T.mode = misc_gr_GR_cog.Mode8
 meMA.Ode1C1T.melody = he.h.m8_gr_GR_cog.ArmatilatinFarao.name
 meMA.Ode1C1T.text = "Ὅτε σε τέκνον ἀπορρήτως ἔτεκον, ὠδῖνας ἔφυγον, καὶ πῶς νυνὶ ὅλη, ὀδυνῶν πεπλήρωμαι; Ὁρῶ γὰρ σε κρεμάμενον, ὡς κακοῦργον ἐν ξύλῳ, τὴν γῆν ἀσχέτως κρεμάσαντα, ἔλεγεν ἡ Πάναγνος κλαίουσα."
 
-meMA.C2.title = ""
-meMA.C2.verse = ""
+meMA.C2.title = titles_gr_GR_cog.KanonTonAgion
+meMA.C2.verse = prayers_gr_GR_cog.verse_SaintsM.text
 
 meMA.Ode1C21.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C21.mode = misc_gr_GR_cog.Mode1
@@ -642,13 +643,13 @@ meMA.LaudsGlory.text = "Τὸν κατὰ Μακκαβαίων συγκροτη
 
 meMA.LaudsBoth.mode = misc_gr_GR_cog.Mode4
 meMA.LaudsBoth.melody = ""
-meMA.LaudsBoth.text = "Ὁ συμμαχήσας Κύριε τῷ πραοτάτῳ Δαυΐδ, ὑποτάξαι τὸν ἀλλόφυλον, τῷ πιστῷ ἡμῶν Βασιλεῖ συμπολέμησον, καὶ τῷ ὅπλῳ τοῦ Σταυροῦ κατάβαλε τοὺς ἐχθροὺς ἡμῶν, δεῖξον εὔσπλαγχνε εἰς ἡμᾶς, τὰ ἀρχαῖα ἐλέη σου, καὶ γνώτωσαν ἀληθῶς, ὅτι, σὺ εἶ Θεός, καὶ ἐν σοὶ πεποιθότες νικῶμεν, πρεσβευούσης συνήθως τῆς ἀχράντου σου Μητρός, δωρηθῆναι ἡμῖν τὸ μέγα ἔλεος."
+meMA.LaudsBoth.text = tr.d043_gr_GR_cog.trVE.AposGlory.text
 
-meMA.MM.LaudsSunday.text = properties_gr_GR_cog.media.key
+meMA.MM.Lauds1123as5678.text = properties_gr_GR_cog.media.key
 
 meMA.AdditionalIdiomelon1.mode = misc_gr_GR_cog.Mode2
 meMA.AdditionalIdiomelon1.melody = ""
-meMA.AdditionalIdiomelon1.text = "Δεῦτε πιστοί, τὸ ζωοποιὸν ξύλον προσκυνήσωμεν, ἐν ᾧ Χριστὸς ὁ Βασιλεὺς τῆς δόξης, ἑκουσίως χεῖρας ἐκτείνας, ὕψωσεν ἡμᾶς εἰς τὴν ἀρχαίαν μακαριότητα, οὕς πρὶν ὁ ἐχθρός, δι' ἡδονῆς συλήσας, ἐξορίστους Θεοῦ πεποίηκε. Δεῦτε πιστοί, ξύλον προσκυνήσωμεν, δι' οὗ ἠξιώθημεν τῶν ἀοράτων ἐχθρῶν συντρίβειν τὰς κάρας. Δεῦτε πᾶσαι αἱ πατριαὶ τῶν ἐθνῶν, τὸν Σταυρὸν τοῦ Κυρίου ὕμνοις τιμήσωμεν. Χαίροις Σταυρέ, τοῦ πεσόντος Ἀδὰμ ἡ τελεία λύτρωσις. Ἐν σοὶ οἱ πιστότατοι Βασιλεῖς ἡμῶν καυχῶνται, ὡς τῇ σῇ δυνάμει Ἰσμαηλίτην λαόν, κραταιῶς ὑποτάττοντες. Σὲ νῦν μετὰ φόβου Χριστιανοὶ ἀσπαζόμενοι, τὸν ἐν σοὶ προσπαγέντα Θεὸν δοξάζομεν λέγοντες· Κύριε, ὁ ἐν αὐτῷ προσπαγείς, ἐλέησον ἡμᾶς ὡς ἀγαθὸς καὶ φιλάνθρωπος."
+meMA.AdditionalIdiomelon1.text = me.m09.d14_gr_GR_cog.meMA.AdditionalIdiomelon1.text
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody

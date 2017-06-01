@@ -2,7 +2,7 @@ A_Resource_Whose_Name = me.m10.d06_gr_GR_cog
 
 meDate.text = "Τῌ Ϛʹ ΟΚΤΩΒΡΙΟΥ"
 meCommemoration.text = "Μνήμη τοῦ Ἁγίου Ἐνδόξου Ἀποστόλου Θωμᾶ." // full title of day
-meShortCommemoration1.text = ""
+meShortCommemoration1.text = "Μνήμη τοῦ Ἁγίου Ἀποστόλου Θωμᾶ."
 meInsert1 = "καὶ τοῦ Ἁγίου ἐνδόξου Ἀποστόλου Θωμᾶ, " // for use in petitions and dismissal
 meInsert2 = "οὗ καὶ τὴν μνήμην ἐπιτελοῦμεν· " // for use in petitions and dismissal
 meNote.text = ""
@@ -76,8 +76,8 @@ meMA.Kathisma2T.text = "Τὸν ἐκ σοῦ σαρκωθέντα Θεὸν κ
 meMA.C1Poet = poets_gr_GR_cog.Theofanous
 meMA.C1Acrostic.text = "οὗ ἡ Ἀκροστιχίς· Τῶν θαυμάτων γέμοντα Θωμᾶν θαυμάσω."
 
-meMA.C1.title = ""
-meMA.C1.verse = ""
+meMA.C1.title = titles_gr_GR_cog.KanonTouApostolou
+meMA.C1.verse = prayers_gr_GR_cog.verse_Apostle.text
 
 meMA.Ode1C11.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C11.mode = misc_gr_GR_cog.Mode4
@@ -302,7 +302,7 @@ meMA.Lauds3.text = "Τὸν τῆς ἀλείας βυθὸν καταλιπώ
 
 meMA.LaudsGlory.mode = misc_gr_GR_cog.Mode6
 meMA.LaudsGlory.melody = ""
-meMA.LaudsGlory.text = "Τὰ θεῖα ἐποπτεύων, Χριστοῦ τῆς σοφίας, νοητὸς ἀναδέδειξαι κρατήρ, μυστικῶς Θωμᾶ Ἀπόστολε, ἐν ᾧ τῶν πιστῶν αἱ ψυχαὶ εὐφραίνονται· τῇ γὰρ θείᾳ σαγήνῃ τοῦ Πνεύματος, λαοὺς ἀνείλκυσας, ἐκ βυθοῦ τῆς ἀπογνώσεως· ὅθεν ἐκ Σιών, ὡς ποταμὸς τῆς χάριτος ἐξῆλθες, τὰ σὰ ἐκβλύζων ἔνθεα δόγματα, εἰς τὴν σύμπασαν κτίσιν. Διὸ τοῦ Χριστοῦ τὰ πάθη ἐκμιμούμενος, τὴν πλευρὰν ἑλογχεύθης, καὶ ἐν τῷ γνόφω εἰσδύς της ἀφθαρσίας, αὐτὸν ἱκέτευε, ἐλεηθῆναι τὰς ψυχὰς ἡμῶν."
+meMA.LaudsGlory.text = meVE.AposGlory.text
 
 meMA.LaudsTheotokion.mode = misc_gr_GR_cog.Mode6
 meMA.LaudsTheotokion.melody = he.o_gr_GR_cog.TheotokeSyEi.name

@@ -2,7 +2,7 @@ A_Resource_Whose_Name = me.m11.d19_gr_GR_cog
 
 meDate.text = "Τῌ ΙΘʹ ΝΟΕΜΒΡΙΟΥ"
 meCommemoration.text = "Μνήμη τοῦ ἁγίου Προφήτου Ἀβδιού· καὶ τοῦ ἁγίου Μάρτυρος Βαρλαάμ." //full title of day
-meShortCommemoration1.text = ""
+meShortCommemoration1.text = "Μνήμη τοῦ ἁγίου Προφήτου Ἀβδιού."
 meInsert1 = "καὶ τοῦ ἁγίου Προφήτου Ἀβδιού, καὶ τοῦ ἁγίου Μάρτυρος Βαρλαάμ, " //for use in petitions and dismissal
 meInsert2 = "ὧν καὶ τὴν μνήμην ἐπιτελοῦμεν· " //for use in petitions and dismissal
 meNote.text = ""
@@ -62,8 +62,8 @@ meMA.C1Acrostic.text = "οὗ ἡ Ἀκροστιχίς· Τὸ τοῦ βλέ
 meMA.C2Poet = poets_gr_GR_cog.Theofanous
 meMA.C2Acrostic.text = "οὗ ἡ Ἀκροστιχίς· Τοὺς καρτερούς σου, Βαρλαάμ, μέλπω τόνους."
 
-meMA.C1.title = ""
-meMA.C1.verse = ""
+meMA.C1.title = titles_gr_GR_cog.KanonTouProfitou
+meMA.C1.verse = prayers_gr_GR_cog.verse_Prophet.text
 
 meMA.Ode1C11.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C11.mode = misc_gr_GR_cog.Mode5
@@ -85,8 +85,8 @@ meMA.Ode1C1T.mode = misc_gr_GR_cog.Mode5
 meMA.Ode1C1T.melody = he.h.m5_gr_GR_cog.ToSotiriTheo.name
 meMA.Ode1C1T.text = "Οἱ σωθέντες τῷ σῶ, Θεογεννῆτορ ἁγνή, ἀσπόρῳ, τόκῳ δυσωποῦμέν σε. Τῆς κοσμικῆς περιφορᾶς, ἡμᾶς διάσωσον, συμφώνως κραυγάζοντας, ὕμνον ἐπινίκιον."
 
-meMA.C2.title = ""
-meMA.C2.verse = ""
+meMA.C2.title = titles_gr_GR_cog.KanonTouMartyros
+meMA.C2.verse = prayers_gr_GR_cog.verse_SaintM.text
 
 meMA.Ode1C21.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C21.mode = misc_gr_GR_cog.Mode4

@@ -2,9 +2,9 @@ A_Resource_Whose_Name = me.m12.d03_gr_GR_cog
 
 meDate.text = "Τῌ Γʹ ΔΕΚΕΜΒΡΙΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
 meCommemoration.text = "Μνήμη τοῦ Ἁγίου Προφήτου Σοφονίου." //full title of day
-meShortCommemoration1.text = ""
-meInsert1 = "καὶ τοῦ Ἁγίου Προφήτου Σοφονίου, " //for use in petitions and dismissal
-meInsert2 = "οὗ καὶ τὴν μνήμην ἐπιτελοῦμεν· " //for use in petitions and dismissal
+meShortCommemoration1.text = "Μνήμη τοῦ Ἁγίου Προφήτου Σοφονίου."
+meInsert1 = "" //for use in petitions and dismissal
+meInsert2 = "" //for use in petitions and dismissal
 meNote.text = ""
 meLE.commemoration1 = "Μνήμη τοῦ Ἁγίου Προφήτου Σοφονίου."
 meLE.commemoration2 = ""
@@ -45,8 +45,8 @@ meVE.Apolytikion2.text = "Συνιεὶς φερωνύμως τῶν μελλ�
 
 meMA.C1Acrostic.text = "οὗ ἡ Ἀκροστιχίς· Σοφονίου μὲ κῦδος ἀγλαϊζέτω."
 
-meMA.C1.title = ""
-meMA.C1.verse = ""
+meMA.C1.title = titles_gr_GR_cog.KanonTouProfitou
+meMA.C1.verse = prayers_gr_GR_cog.verse_Prophet.text
 
 meMA.Ode1C11.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C11.mode = misc_gr_GR_cog.Mode6

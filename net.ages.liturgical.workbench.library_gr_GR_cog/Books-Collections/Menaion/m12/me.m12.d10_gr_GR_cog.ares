@@ -2,7 +2,7 @@ A_Resource_Whose_Name = me.m12.d10_gr_GR_cog
 
 meDate.text = "Τῌ Ιʹ ΔΕΚΕΜΒΡΙΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
 meCommemoration.text = "Μνήμη τῶν Ἁγίων Μαρτύρων, Μηνᾶ τοῦ Καλλικελάδου, Ἑρμογένους, καὶ Εὐγράφου." //full title of day
-meShortCommemoration1.text = ""
+meShortCommemoration1.text = "Μνήμη τῶν Ἁγίων Μαρτύρων, Μηνᾶ τοῦ Καλλικελάδου, Ἑρμογένους, καὶ Εὐγράφου."
 meInsert1 = "καὶ τῶν Ἁγίων Μαρτύρων, Μηνᾶ τοῦ Καλλικελάδου, Ἑρμογένους, καὶ Εὐγράφου, " //for use in petitions and dismissal
 meInsert2 = "ὧν καὶ τὴν μνήμην ἐπιτελοῦμεν· " //for use in petitions and dismissal
 meNote.text = ""
@@ -69,8 +69,8 @@ meVE.Apolytikion1.text = "Ἡ καλλικέλαδος, θεόφρον γλῶ
 
 meMA.C1Acrostic.text = "οὗ ἡ Ἀκροστιχίς· Στερροὺς ἀνυμνῶ Μάρτυρας στεφηφόρους. Ἰωσήφ."
 
-meMA.C1.title = ""
-meMA.C1.verse = ""
+meMA.C1.title = titles_gr_GR_cog.KanonTonMartyron
+meMA.C1.verse = prayers_gr_GR_cog.verse_SaintsM.text
 
 meMA.Ode1C11.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C11.mode = misc_gr_GR_cog.Mode1

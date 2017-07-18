@@ -473,6 +473,8 @@ meMA.Lauds3.mode = misc_gr_GR_cog.Mode8
 meMA.Lauds3.melody = he.a.m8_gr_GR_cog.KyrieEiKaiKritirio.name
 meMA.Lauds3.text = "Μέγιστος, πᾶσιν ὥσπερ ἥλιος Πάτερ, τῇ οἰκουμένῃ ἀνέτειλας, λάμψεσι πανσόφων σου λόγων, καὶ ἰαμάτων λαμπρότησι, φωταγωγῶν τοὺς πιστούς, καὶ σκότος παθῶν πάντοτε, ἐκδιώκων συνεργείᾳ, τοῦ Ἁγίου μάκαρ Πνεύματος."
 
+meMA.MM.Lauds1123as5678.text = properties_gr_GR_cog.media.key
+
 meMA.LaudsGlory.mode = misc_gr_GR_cog.Mode3
 meMA.LaudsGlory.melody = ""
 meMA.LaudsGlory.text = meVE.SticGlory.text
@@ -484,8 +486,6 @@ meMA.LaudsTheotokion.text = oc.m3.d5_gr_GR_cog.ocVE.AposTheotokion.text
 meMA.LaudsStavrotheotokion.mode = misc_gr_GR_cog.Mode3
 meMA.LaudsStavrotheotokion.melody = he.a.m3_gr_GR_cog.MegaliTouStavrouSou.name
 meMA.LaudsStavrotheotokion.text = oc.m3.d6_gr_GR_cog.ocVE.SticTheotokion.text
-
-meMA.MM.LaudsSunday.text = properties_gr_GR_cog.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody

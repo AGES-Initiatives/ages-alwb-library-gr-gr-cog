@@ -64,9 +64,15 @@ meVE.Apolytikion1.mode = me.m01.d02_gr_GR_cog.meVE.Apolytikion1.mode
 meVE.Apolytikion1.melody = me.m01.d02_gr_GR_cog.meVE.Apolytikion1.melody
 meVE.Apolytikion1.text = me.m01.d02_gr_GR_cog.meVE.Apolytikion1.text
 
+meCO.C1Poet = poets_gr_GR_cog.SymeonTouLogothetou
 meCO.C1Acrostic.text = "οὗ ἡ Ἀκροστιχίς· Τετράδι ψαλῶ."
+meCO.C1.title = "Τριῴδιον."
+meCO.C1.verse = prayers_gr_GR_cog.verse_God.text
 
+meCO.C2Poet = ""
 meCO.C2Acrostic.text = "οὗ ἡ Ἀκροστιχίς· Προσάββατόν τε."
+meCO.C2.title = "Ἕτερον Τριῴδιον."
+meCO.C2.verse = prayers_gr_GR_cog.verse_God.text
 
 meCO.Ode3C1H.ode = misc_gr_GR_cog.Ode3
 meCO.Ode3C1H.mode = misc_gr_GR_cog.Mode2
@@ -141,7 +147,7 @@ meCO.Ode8C24.text = "Ἀπαγορεύεις, Ἰωάννη ὅπερ δρά�
 meCO.Ode8C2H.ode = misc_gr_GR_cog.Ode8
 meCO.Ode8C2H.mode = misc_gr_GR_cog.Mode6
 meCO.Ode8C2H.melody = misc_gr_GR_cog.Heirmos
-meCO.Ode8C2H.text = "Στήλην κακίας, τοῦ δεινοῦ Ἡρῴδου πάντες ἐκμυκτηρίσαντες, πρὸς Ἰορδάνην δεῦτε ἴωμεν, πιστοὶ ἵν᾽ ὀψώμεθα, Χριστὸν τὸν λυτρωτήν, ὑπὸ Προδρόμου, βαπτιζόμενον σαρκὶ ἐν ῥείθροις· ὂν πᾶσα κτίσις εὐλογεῖ, δοξάζουσα εἰς τοὺς αἰῶνας."
+meCO.Ode8C2H.text = he.h.m6_gr_GR_cog.StilinKakiasTouDeinou.text
 
 meCO.Ode9C1H.ode = misc_gr_GR_cog.Ode9
 meCO.Ode9C1H.mode = misc_gr_GR_cog.Mode2

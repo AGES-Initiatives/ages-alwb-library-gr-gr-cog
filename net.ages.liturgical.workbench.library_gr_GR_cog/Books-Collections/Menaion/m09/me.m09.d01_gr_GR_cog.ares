@@ -517,6 +517,13 @@ meMA.Kontakion2.text = he.a.m2_gr_GR_cog.TaAnoZiton.text
 
 meMA.Oikos2.text = "Τοῦ Συμεὼν τὸν ἄμεμπτον βίον, ποία γλῶσσα ἀνθρώπων ἐξαρκέσει ποτέ, πρὸς ἔπαινον ἐξηγήσασθαι; ὅμως ὑμνήσω Θεοῦ σοφία, τὰ τοῦ ἥρωος ἆθλα καὶ τοὺς ἀγῶνας, τοῦ ἐν τῇ γῇ ὡς φωστῆρος φανέντος τοῖς πᾶσι βροτοῖς, καὶ μεγάλως τῇ καρτερίᾳ τῷ χορῷ τῶν Ἀγγέλων ἐκλάμψαντος· σὺν τούτοις γὰρ ψάλλων ἀπαύστως Χριστῷ, πρεσβεύων οὐ παύει ὑπὲρ πάντων ἡμῶν."
 
+meMA.Kontakion3.poet = poets_gr_GR_cog.IakovouProtopsaltou
+meMA.Kontakion3.mode = misc_gr_GR_cog.Mode4
+meMA.Kontakion3.melody = he.a.m4_gr_GR_cog.OYpsotheisEnToStavro.name
+meMA.Kontakion3.text = "Ὁ τῶν αἰώνων Ποιητὴς καὶ Δεσπότης, Θεὲ τῶν ὅλων ὑπερούσιε ὄντως, τὴν ἐνιαύσιον εὐλόγησον περίοδον, σῴζων τῷ ἐλέει σου, τῷ ἀπείρῳ οἰκτίρμων, πάντας τοὺς λατερεύοντας, σοὶ τῷ μόνῳ Δεσπότῃ, καὶ ἐκβοῶντας φόβῳ· Λυτρωτά, εὔφορον πᾶσι τὸ ἔτος χορήγησον."
+
+meMA.Oikos3.text = "Ἀρρήτῳ πάντα ὡς Θεῷ ποιήσαντι σοφίᾳ, ἱσχύϊ τε παντουργικῇ διασῴζοντι πάντα, τὸν ὕμνον δέει ἐκ ψυχῆς προσάγομεν, ἐντρόμως δυσωποῦντες παρασχεῖν εὐφορίαν τῇ γῇ ἐν τῇ σήμερον ἐτησίῳ ἀπαρχῇ, παντὸς ῥυσθῆναι δυσχεροῦς, ὁρατῶν καὶ ἀοράτων δυσμενῶν, ἐν ταῖς αἰσίαις κράζοντες περιόδοις· Εὔφορον πᾶσι τὸ ἔτος χορήγησον."
+
 meMA.Synaxarion.text = ""
 
 meMA.Ode7C1H.ode = misc_gr_GR_cog.Ode7
@@ -769,6 +776,14 @@ meLI.MM.EntranceHymn.text = properties_gr_GR_cog.media.key
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.text = meMA.Kontakion1.text
+
+meLI.Kontakion2.mode = meMA.Kontakion2.mode
+meLI.Kontakion2.melody = meMA.Kontakion2.melody
+meLI.Kontakion2.text = meMA.Kontakion2.text
+
+meLI.Kontakion3.mode = meMA.Kontakion3.mode
+meLI.Kontakion3.melody = meMA.Kontakion3.melody
+meLI.Kontakion3.text = meMA.Kontakion3.text
 
 meLI.SeasonalKontakion.mode = misc_gr_GR_cog.Mode4
 meLI.SeasonalKontakion.melody = he.a.m4_gr_GR_cog.OYpsotheisEnToStavro.name

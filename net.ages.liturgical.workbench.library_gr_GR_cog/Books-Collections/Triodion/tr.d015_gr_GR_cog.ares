@@ -457,17 +457,10 @@ trMA.LaudsTheotokion.mode = ""
 trMA.LaudsTheotokion.melody = ""
 trMA.LaudsTheotokion.text = oc.m2.d1_gr_GR_cog.ocMA.Kathisma23.text
 
-trLI.SeasonalKontakion.mode = misc_gr_GR_cog.Mode1
-trLI.SeasonalKontakion.melody = ""
-trLI.SeasonalKontakion.text = trMA.Kontakion1.text
-
-trLI.Alleluia.mode = misc_gr_GR_cog.Mode8
-
-trLI.AlleluiaVerse1.text = ""
-
-trLI.AlleluiaVerse2.text = ""
+trLI.Kontakion1.mode = trMA.Kontakion1.mode
+trLI.Kontakion1.melody = trMA.Kontakion1.melody
+trLI.Kontakion1.text = trMA.Kontakion1.text
 
 trLI.MM.CommunionHymn.text = properties_gr_GR_cog.media.key
 
 trMegalynarion.text = ""
-

@@ -352,9 +352,10 @@ trMA.LaudsGlory.text = "Πρὸ ἓξ ἡμερῶν τοῦ Πάσχα, ἦλ�
 trLI.Antiphon2.text = "ὁ ἐπὶ πώλου ὄνου καθεσθείς," 
 
 trLI.MM.EntranceHymn.text = properties_gr_GR_cog.media.key
-trLI.SeasonalKontakion.mode = misc_gr_GR_cog.Mode6
-trLI.SeasonalKontakion.melody = misc_gr_GR_cog.Automelon
-trLI.SeasonalKontakion.text = trMA.Kontakion1.text
+
+trLI.Kontakion1.mode = trMA.Kontakion1.mode
+trLI.Kontakion1.melody = trMA.Kontakion1.melody
+trLI.Kontakion1.text = trMA.Kontakion1.text
 
 trLI.TheotokosHymn.mode = misc_gr_GR_cog.Mode4
 trLI.TheotokosHymn.text = trMA.Ode9C1H.text

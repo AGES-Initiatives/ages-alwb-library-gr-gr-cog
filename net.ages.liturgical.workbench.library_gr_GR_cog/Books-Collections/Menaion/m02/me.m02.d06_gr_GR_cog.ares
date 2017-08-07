@@ -414,10 +414,6 @@ meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.text = meMA.Kontakion1.text
 
-meLI.SeasonalKontakion.mode = misc_gr_GR_cog.Mode1
-meLI.SeasonalKontakion.melody = ""
-meLI.SeasonalKontakion.text = me.m02.d02_gr_GR_cog.meMA.Kontakion1.text
-
 meLI.MM.CommunionHymn.text = properties_gr_GR_cog.media.key
 
 meMegalynarion.text = "Χαίροις ὁ λαμπρότατος τῆς Χριστοῦ, Ἐκκλησίας μύστης, Ὀρθοδόξων προασπιστής, κακοδόξων μάστιξ, Ἱεραρχίας κλέος, ὁ μέγας θεοφάντωρ, Φώτιε Ἅγιε."
@@ -765,10 +761,6 @@ alt1.meLI.Kontakion1.mode = ""
 alt1.meLI.Kontakion1.melody = ""
 alt1.meLI.Kontakion1.text = ""
 
-alt1.meLI.SeasonalKontakion.mode = misc_gr_GR_cog.Mode1
-alt1.meLI.SeasonalKontakion.melody = ""
-alt1.meLI.SeasonalKontakion.text = me.m02.d02_gr_GR_cog.meMA.Kontakion1.text
-
 alt1.meMegalynarion.text = ""
 
 //These extra hymns are found in the back of the Feb. Menaion
@@ -788,7 +780,6 @@ alt1.meMA.Ode3KathismaT.text = "Οὐ σιωπήσομεν ποτὲ Θεοτ�
 alt1.meMA.Ode3KathismaSt.mode = misc_gr_GR_cog.Mode4
 alt1.meMA.Ode3KathismaSt.melody = he.a.m4_gr_GR_cog.OYpsotheisEnToStavro.name
 alt1.meMA.Ode3KathismaSt.text = "Τὸν ἐξ ἀνάρχου τοῦ Πατρὸς γεννηθέντα, ἡ ἐπ' ἐσχάτων σε σαρκὶ τετοκυῖα, ἐπὶ Σταυροῦ κρεμάμενον ὁρῶσά σε Χριστέ. Οἴμοι! ποθεινότατε, Ἰησοῦ ἀνεβόα, πῶς ὁ δοξαζόμενος, ὡς Θεὸς ὑπ' Ἀγγέλων, ὑπὸ ἀνόμων νῦν βροτῶν Υἱέ, θέλων σταυροῦσαι; Ὑμνῶ σε μακρόθυμε."
-
 
 alt2.meDate.text = "" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
 alt2.meCommemoration.text = "Μνήνη τῶν Ὁσίων καὶ Θεοφόρων Πατέρων ἡμῶν Βαρσανουφίου τοῦ Μεγάλου Γέροντος καὶ Ἰωάννου τοῦ Προφήτου καὶ μαθητοῦ τοῦ Ἁγίου Βαρσανουφίου, τοῦ ἄλλου Γέροντος." // full title of day
@@ -1195,10 +1186,6 @@ alt2.meLI.MM.EntranceHymn.text = properties_gr_GR_cog.media.key
 alt2.meLI.Kontakion1.mode = alt2.meMA.Kontakion1.mode
 alt2.meLI.Kontakion1.melody = alt2.meMA.Kontakion1.melody
 alt2.meLI.Kontakion1.text = alt2.meMA.Kontakion1.text
-
-alt2.meLI.SeasonalKontakion.mode = misc_gr_GR_cog.Mode1
-alt2.meLI.SeasonalKontakion.melody = ""
-alt2.meLI.SeasonalKontakion.text = me.m02.d02_gr_GR_cog.meMA.Kontakion1.text
 
 alt2.meLI.MM.CommunionHymn.text = properties_gr_GR_cog.media.key
 

@@ -365,11 +365,10 @@ trMA.LaudsTheotokion.mode = ""
 trMA.LaudsTheotokion.melody = ""
 trMA.LaudsTheotokion.text = oc.m2.d1_gr_GR_cog.ocMA.Kathisma23.text
 
-trLI.SeasonalKontakion.mode = misc_gr_GR_cog.Mode4
-trLI.SeasonalKontakion.melody = he.a.m4_gr_GR_cog.EpefanisSimeron.name
-trLI.SeasonalKontakion.text = trMA.Kontakion0.text
+trLI.Kontakion1.mode = trMA.Kontakion0.mode
+trLI.Kontakion1.melody = trMA.Kontakion0.melody
+trLI.Kontakion1.text = trMA.Kontakion0.text
 
 trLI.MM.CommunionHymn.text = properties_gr_GR_cog.media.key
 
 trMegalynarion.text = ""
-

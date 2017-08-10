@@ -59,11 +59,6 @@ hoVE.FridayAlleluia.title = ""
 hoVE.FridayAlleluia.text = "" //for possible media
 
 R15 = ""
-
-//Not in Horologion. Needed for Vespers readings
-hoVE.Reading_Intro.text1 = "" //This first part is needed to construct the English sentence.
-hoVE.Reading_Intro.text2 = "τὸ ἀνάγνωσμα."
-
 R16 = ""
 //This Prayer is also in the Small Doxology, at Matins, Compline etc. with "day" and "night"
 hoVE.Prayer_Kataxioson.text = "Καταξίωσον, Κύριε, ἐν τῇ ἑσπέρᾳ ταύτῃ, ἀναμαρτήτους φυλαχθῆναι ἡμᾶς. Εὐλογητὸς εἶ, Κύριε, ὁ Θεὸς τῶν Πατέρων ἡμῶν, καὶ αἰνετὸν καὶ δεδοξασμένον τὸ ὄνομά σου εἰς τοὺς αἰῶνας. Ἀμήν. Γένοιτο, Κύριε, τὸ ἔλεός σου ἐφ' ἡμᾶς, καθάπερ ἠλπίσαμεν ἐπὶ σέ. Εὐλογητὸς εἶ, Κύριε, δίδαξόν με τὰ δικαιώματά σου. Εὐλογητὸς εἶ, Δέσποτα, συνέτισον μὲ τὰ δικαιώματά σου. Εὐλογητὸς εἶ, Ἅγιε, φώτισόν με τοῖς δικαιώμασί σου. Κύριε, τὸ ἔλεός σου εἰς τὸν αἰῶνα· τὰ ἔργα τῶν χειρῶν σου μὴ παρίδῃς. Σοὶ πρέπει αἶνος, σοὶ πρέπει ὕμνος, σοὶ δόξα πρέπει, τῷ Πατρὶ καὶ τῷ Υἱῷ καὶ τῷ Ἁγίῳ Πνεύματι, νῦν καὶ ἀεὶ καὶ εἰς τοὺς αἰῶνας των αἰώνων."
@@ -73,7 +68,7 @@ R19 = ""
 R20 = ""
 R21 = ""
 hoVE.LentApolytikion1.mode = misc_gr_GR_cog.Mode5
-hoVE.LentApolytikion1.text = "Θεοτόκε Παρθένε, χαῖρε κεχαριτωμένη Μαρία, ὁ Κύριος μετὰ σοῦ· εὐλογημένη σὺ ἐν γυναιξί, καὶ εὐλογημένος ὁ καρπὸς τῆς κοιλίας σου, ὅτι Σωτῆρα ἔτεκες τῶν ψυχῶν ἡμῶν."
+hoVE.LentApolytikion1.text = prayers_gr_GR_cog.TheotokeParthene.text
 hoVE.LentApolytikion2.mode = misc_gr_GR_cog.Mode5
 hoVE.LentApolytikion2.text = "Βαπτιστὰ τοῦ Χριστοῦ, πάντων ἡμῶν μνήσθητι, ἵνα ῥυσθῶμεν τῶν ἀνομιῶν ἡμῶν· σοὶ γὰρ ἐδόθη χάρις πρεσβεύειν ὑπὲρ ἡμῶν."
 hoVE.LentApolytikion3.mode = misc_gr_GR_cog.Mode5
@@ -90,11 +85,9 @@ R26 = ""
 
 // Not in Orologion
 //Lity
-hoVE.LityKyrieEleison.text = prayers_gr_GR_cog.res06
+hoVE.MM.LityKyrieEleison.text.text = properties_gr_GR_cog.media.key
 
 // Artoclasia
-hoVE.ArtoklasiaTheotokeParthene.text = hoVE.LentApolytikion1.text
-hoVE.ArtoklasiaPrayer1 = "Κύριε, Ἰησοῦ Χριστέ, ὁ Θεὸς ἡμῶν, ὁ εὐλογήσας τοὺς πέντε ἄρτους ἐν τῇ ἐρήμῳ, καὶ ἐξ αὐτῶν πεντακισχιλίους ἄνδρας χορτάσας, αὐτὸς εὐλόγησον καὶ τοὺς ἄρτους τούτους, τὸν σῖτον, τὸν οἶνον, καὶ τὸ ἔλαιον· καὶ πλήθυνον αὐτὰ ἐν τῇ ἁγίᾳ Ἐκκλησίᾳ, τῇ πόλει ταύτῃ, ἐν τοῖς οἴκοις τῶν ἑορταζόντων καὶ εἰς τὸν κόσμον σου ἅπαντα· καὶ τοὺς ἐξ αὐτῶν μεταλαμβάνοντας πιστοὺς δούλους σου ἁγίασον."
-hoVE.ArtoklasiaPrayer2 = "Ὅτι σὺ εἶ ὁ εὐλογῶν καὶ ἁγιάζων τὰ σύμπαντα, Χριστὲ ὁ Θεὸς ἡμῶν, καὶ σοὶ τὴν δόξαν ἀναπέμπομεν, σὺν τῷ ἀνάρχῳ σου Πατρί, καὶ τῷ Παναγίῳ καὶ ἀγαθῷ καὶ ζωοποιῷ σου Πνεύματι, νῦν καὶ ἀεὶ καὶ εἰς τοὺς αἰῶνας τῶν αἰώνων."
-hoVE.ArtoklasiaHymn.text = properties_gr_GR_cog.media.key
+hoVE.MM.ArtoklasiaTheotokeParthene.text = properties_gr_GR_cog.media.key
+hoVE.MM.ArtoklasiaHymn.text = properties_gr_GR_cog.media.key
 

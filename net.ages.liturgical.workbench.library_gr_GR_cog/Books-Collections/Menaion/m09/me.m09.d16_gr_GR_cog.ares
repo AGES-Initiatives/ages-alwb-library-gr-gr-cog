@@ -41,7 +41,7 @@ meVE.Stichera06.text = "Καὶ θανοῦσα ἀείζωον, τῶν αἱ�
 meVE.SticGlory.poet = poets_gr_GR_cog.Anatoliou
 meVE.SticGlory.mode = misc_gr_GR_cog.Mode6
 meVE.SticGlory.melody = ""
-meVE.SticGlory.text = "Ἡ διηνθισμένη ταῖς ἀρεταῖς, καὶ πεφωτισμένη τὸν λογισμόν, ἡ μύρα προχέουσα ἐν ταῖς καρδίαις τῶν πιστῶν, ἡ ἐκ τῆς Ἑῴας ἀνατείλασα, ὡς ἀστὴρ φαεινός, καὶ ἀθροισμὸν ποιήσασα, διὰ τῆς τοῦ Ἁγίου Πνεύματος ἐπιφοιτήσεως, τῶν θείων Πατέρων· μὴ διαλίπῃς ὑπὲρ ἡμῶν δυσωποῦσα πρὸς Κύριον, Εὐφημία πανένδοξε, σωθῆναι τὰς ψυχὰς ἡμῶν."
+meVE.SticGlory.text = me.m07.d11_gr_GR_cog.meVE.AposGlory.text
 
 meVE.SticBoth.mode = misc_gr_GR_cog.Mode6
 meVE.SticBoth.melody = ""
@@ -62,7 +62,7 @@ meVE.Aposticha3.text = "Σταυρῷ προσηλωθεὶς δι' ἐμέ, Σ
 meVE.AposGlory.poet = poets_gr_GR_cog.Vyzantiou
 meVE.AposGlory.mode = misc_gr_GR_cog.Mode8
 meVE.AposGlory.melody = ""
-meVE.AposGlory.text = "Πᾶσα γλῶσσα κινείσθω πρὸς εὐφημίαν, τῆς πανενδόξου Εὐφημίας, ἄπαν γένος, καὶ ἡλικία πᾶσα, νεανίσκοι καὶ παρθένοι, τὴν Χριστοῦ παρθενομάρτυρα, ἐγκωμίοις στεφανώσωμεν· νομίμως γὰρ ἀνδρισαμένη, καὶ τὸ χαῦνον τοῦ θήλεος ἀπορρίψασα, δι' ἀθλητικῶν πόνων, τὸν τύραννον ἐχθρὸν καταβέβληκεν· οὐρανίῳ δὲ καὶ θείῳ σθένει κοσμηθεῖσα, αἰτεῖται τὸν νυμφίον καὶ Θεόν, δωρήσασθαι ἡμῖν τὸ μέγα ἔλεος."
+meVE.AposGlory.text = me.m07.d11_gr_GR_cog.meMA.LaudsGlory.text
 
 meVE.AposBoth.mode = misc_gr_GR_cog.Mode8
 meVE.AposBoth.melody = ""
@@ -74,7 +74,7 @@ meVE.Apolytikion1.text = "Τῷ θείῳ ἔρωτι, λαμπρῶς ἀθλ�
 
 meMA.Kathisma11.mode = misc_gr_GR_cog.Mode4
 meMA.Kathisma11.melody = he.a.m4_gr_GR_cog.OYpsotheisEnToStavro.name
-meMA.Kathisma11.text = "Τὸν νυμφίον σου Χριστὸν ἀγαπήσασα, τὴν λαμπάδα σου φαιδρῶς εὐτρεπίσασα, ταῖς ἀρεταῖς διέλαμψας Πανεύφημε· ὅθεν εἰσελήλυθας, σὺν αὐτῷ εἰς τοὺς γάμους, τὸ στέφος τῆς ἀθλήσεως, παρ' αὐτοῦ δεξαμένη· ἀλλ' ἐκ κινδύνων λύτρωσαι ἡμᾶς, τοὺς ἐκτελοῦντας ἐν πίστει τὴν μνήμην σου."
+meMA.Kathisma11.text = me.m07.d11_gr_GR_cog.meMA.Ode3Kathisma1.text
 
 meMA.Kathisma12.mode = misc_gr_GR_cog.Mode4
 meMA.Kathisma12.melody = misc_gr_GR_cog.Automelon
@@ -95,8 +95,8 @@ meMA.PostGospelIdiomelon.text = "Εὐφημεῖν σε τὴν σεμνήν, 
 meMA.C1Poet = poets_gr_GR_cog.IoannouMonachou
 meMA.C1Acrostic.text = "οὗ ἡ Ἀκροστιχίς· Ἐγκωμιάζω τὴν πανεύφημον κόρην. Ἄνευ τῶν Θεοτοκίων."
 
-meMA.C1.title = ""
-meMA.C1.verse = ""
+meMA.C1.title = titles_gr_GR_cog.KanonTisAgias
+meMA.C1.verse = prayers_gr_GR_cog.verse_SaintW.text
 
 meMA.Ode1C11.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C11.mode = misc_gr_GR_cog.Mode8
@@ -360,7 +360,7 @@ meMA.AposGlory.text = "Σήμερον χοροὶ Πατέρων Πανεύφ
 meMA.AposBoth.poet = poets_gr_GR_cog.AndreouIerosolymitou
 meMA.AposBoth.mode = misc_gr_GR_cog.Mode1
 meMA.AposBoth.melody = ""
-meMA.AposBoth.text = "Σήμερον ὡς ἀληθῶς, ἡ ἁγιόφθογγος ῥῆσις τοῦ Δαυῒδ πέρας εἴληφεν· ἰδοὺ γὰρ ἐμφανῶς τὸ τῶν ἀχράντων ποδῶν σου προσκυνοῦμεν ὑποπόδιον· καὶ ἐν τῇ τῶν πτερύγων σου ἐλπίζοντες σκιᾷ, πανοικτίρμον βοῶμέν σοι· Σημειωθήτω ἐφ' ἡμᾶς τὸ φῶς τοῦ προσώπου σου, καὶ ἀνύψωσον τοῦ ὀρθοδόξου λαοῦ σου τὸ κέρας, τῇ τοῦ τιμίου Σταυροῦ σου ἀνυψώσει, Χριστὲ πολυέλεε."
+meMA.AposBoth.text = me.m09.d14_gr_GR_cog.meVE.Lity1.text
 
 meLI.Antiphon2.text = me.m09.d14_gr_GR_cog.meLI.Antiphon2.text
 

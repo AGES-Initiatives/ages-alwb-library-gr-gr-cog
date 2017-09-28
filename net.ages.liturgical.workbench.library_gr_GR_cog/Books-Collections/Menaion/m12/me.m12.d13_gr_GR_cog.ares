@@ -3,7 +3,7 @@ A_Resource_Whose_Name = me.m12.d13_gr_GR_cog
 meDate.text = "Τῌ ΙΓʹ ΔΕΚΕΜΒΡΙΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
 meCommemoration.text = "Μνήμη τῶν Ἁγίων Μαρτύρων Εὐστρατίου, Αὐξεντίου, Εὐγενίου, Μαρδαρίου, καὶ Ὀρέστου, καὶ τῆς Ἁγίας Μάρτυρος Λουκίας τῆς Παρθένου." // full title of day
 meShortCommemoration1.text = ""
-meInsert1 = "καὶ τῶν Ἁγίων Μαρτύρων Εὐστρατίου, Αὐξεντίου, Εὐγενίου, Μαρδαρίου, καὶ Ὀρέστου, καὶ τῆς Ἁγίας Μάρτυρος Λουκίας τῆς Παρθένου, " // for use in petitions and dismissal
+meInsert1 = "τῶν Ἁγίων Μαρτύρων Εὐστρατίου, Αὐξεντίου, Εὐγενίου, Μαρδαρίου, καὶ Ὀρέστου," // for use in petitions and dismissal
 meInsert2 = "ὧν καὶ τὴν μνήμην ἐπιτελοῦμεν· " // for use in petitions and dismissal
 meNote.text = ""
 meLE.commemoration1 = "Μνήμη τῶν Ἁγίων Μαρτύρων Εὐστρατίου, Αὐξεντίου, Εὐγενίου, Μαρδαρίου, καὶ Ὀρέστου."
@@ -86,8 +86,8 @@ meVE.Apolytikion2.text = "Παρθενίας φοροῦσα χλαῖναν �
 
 meMA.C1Poet = poets_gr_GR_cog.IoannouMonachou
 
-meMA.C1.title = ""
-meMA.C1.verse = ""
+meMA.C1.title = titles_gr_GR_cog.KanonTonAgion
+meMA.C1.verse = prayers_gr_GR_cog.verse_SaintsM.text
 
 meMA.Ode1C11.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C11.mode = misc_gr_GR_cog.Mode4

@@ -1,9 +1,9 @@
 A_Resource_Whose_Name = me.m12.d20_gr_GR_cog
 
 meDate.text = "Τῌ Κʹ ΔΕΚΕΜΒΡΙΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "Μνήμη τοῦ Ἁγίου Ἱερομάρτυρος Ἰγνατίου τοῦ Θεοφόρου καὶ Προεόρτια τῶν Γενεθλίων τοῦ Σωτῆρος ἡμῶν." // full title of day
+meCommemoration.text = "Μνήμη τοῦ Ἁγίου Ἱερομάρτυρος Ἰγνατίου τοῦ Θεοφόρου· καὶ Προεόρτια τῶν Γενεθλίων τοῦ Σωτῆρος ἡμῶν." // full title of day
 meShortCommemoration1.text = ""
-meInsert1 = "καὶ τοῦ Ἁγίου Ἱερομάρτυρος, Ἰγνατίου τοῦ Θεοφόρου καὶ Προὲορτια τῶν Γενεθλίων τοῦ Σωτῆρος ἡμῶν, " // for use in petitions and dismissal
+meInsert1 = "καὶ τοῦ ἁγίου ἐνδόξου Ἱερομάρτυρος Ἰγνατίου τοῦ Θεοφόρου," // for use in petitions and dismissal
 meInsert2 = "οὗ καὶ τὴν μνήμην ἐπιτελοῦμεν· " // for use in petitions and dismissal
 meNote.text = ""
 meLE.commemoration1 = "Μνήμη τοῦ Ἁγίου Ἱερομάρτυρος Ἰγνατίου τοῦ Θεοφόρου."
@@ -84,6 +84,9 @@ meVE.Apolytikion2.mode = misc_gr_GR_cog.Mode3
 meVE.Apolytikion2.melody = he.a.m3_gr_GR_cog.TheiasPisteos.name
 meVE.Apolytikion2.text = "Θείῳ ἔρωτι ἐπτερωμένος, τοῦ σὲ ψεύσαντος, χερσὶν ἀχράντοις, Θεοφόρος ἀνεδείχθης Ἰγνάτιε· καὶ ἐν τῇ Δύσει τελέσας τὸν δρόμον σου, πρὸς τὴν ἀνέσπερον λῆξιν ἐσκήνωσας. Πάτερ Ὅσιε, Χριστὸν τὸν Θεὸν ἱκέτευε, δωρήσασθαι ἡμῖν τὸ μέγα ἔλεος."
 
+meCO.C1.title = "Κανὼν Τριῴδιον Προεόρτιον"
+meCO.C1.verse = prayers_gr_GR_cog.verse_God.text
+
 meCO.C1Acrostic.text = "οὗ ἡ Ἀκροστιχίς· Τῇ δευτέρᾳ."
 
 meCO.Ode1C1H.ode = misc_gr_GR_cog.Ode1
@@ -148,8 +151,8 @@ meMA.Ode1C1H.mode = misc_gr_GR_cog.Mode1
 meMA.Ode1C1H.melody = misc_gr_GR_cog.Heirmos
 meMA.Ode1C1H.text = he.h.m1_gr_GR_cog.OdinEpinikion.text
 
-meMA.C1.title = ""
-meMA.C1.verse = ""
+meMA.C1.title = titles_gr_GR_cog.KanonProeortios
+meMA.C1.verse = prayers_gr_GR_cog.verse_God.text
 
 meMA.Ode1C11.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C11.mode = misc_gr_GR_cog.Mode1
@@ -171,8 +174,8 @@ meMA.Ode1C14.mode = misc_gr_GR_cog.Mode1
 meMA.Ode1C14.melody = he.h.m1_gr_GR_cog.OdinEpinikion.name
 meMA.Ode1C14.text = "Ἰδοὺ νῦν πεπλήρωται, τοῦ Ἡσαΐου, ἡ πρόρρησις Πάναγνε· τοῦ τεκεῖν τὸν ἄχρονον· ἐν Σπηλαίῳ γὰρ Υἱόν, ἐλήλυθας, πᾶσα ἡ γῆ διὸ εὐφραίνεται."
 
-meMA.C2.title = ""
-meMA.C2.verse = ""
+meMA.C2.title = titles_gr_GR_cog.KanonTouAgiou
+meMA.C2.verse = prayers_gr_GR_cog.verse_SaintM.text
 
 meMA.Ode1C21.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C21.mode = misc_gr_GR_cog.Mode1

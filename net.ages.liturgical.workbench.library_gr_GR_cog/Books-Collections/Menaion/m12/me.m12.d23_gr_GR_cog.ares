@@ -2,8 +2,8 @@ A_Resource_Whose_Name = me.m12.d23_gr_GR_cog
 
 meDate.text = "Τῌ ΚΓʹ ΔΕΚΕΜΒΡΙΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
 meCommemoration.text = "Μνήμη τῶν Ἁγίων δέκα Μαρτύρων τῶν ἐν Κρήτῃ." //full title of day
-meShortCommemoration1.text = ""
-meInsert1 = "καὶ τῶν Ἁγίων δέκα Μαρτύρων τῶν ἐν Κρήτῃ, " //for use in petitions and dismissal
+meShortCommemoration1.text = "Μνήμη τῶν Ἁγίων δέκα Μαρτύρων τῶν ἐν Κρήτῃ."
+meInsert1 = "καὶ τῶν Ἁγίων δέκα Μαρτύρων τῶν ἐν Κρήτῃ," //for use in petitions and dismissal
 meInsert2 = "ὧν καὶ τὴν μνήμην ἐπιτελοῦμεν· " //for use in petitions and dismissal
 meNote.text = ""
 meLE.commemoration1 = "Μνήμη τῶν Ἁγίων δέκα Μαρτύρων τῶν ἐν Κρήτῃ."
@@ -142,10 +142,10 @@ meCO.Ode9C12.mode = misc_gr_GR_cog.Mode6
 meCO.Ode9C12.melody = he.h.m6_gr_GR_cog.TinTimioteran.name
 meCO.Ode9C12.text = "Νόμους τοὺς τῆς φύσεως ἀδικῶν, καὶ θεσμοὺς τοὺς θείους, ἀθετῶν Ἡρῴδης δεινός, μητέρας ἀνόμως, ἠτέκνωσε καὶ βρέφη, ἀνεῖλεν ἀναιτίως, διὰ τὴν πάντων Ζωήν."
 
-meCO.Ode93.ode = misc_gr_GR_cog.Ode9
-meCO.Ode93.mode = misc_gr_GR_cog.Mode6
-meCO.Ode93.melody = he.h.m6_gr_GR_cog.TinTimioteran.name
-meCO.Ode93.text = "Τοῖς ἔθνεσιν ἤνοικται τῆς Ἐδέμ, πύλη τικτομένου, ἐν Σπηλαίῳ τοῦ Λυτρωτοῦ· πηγή τε διψῶσιν, ἀθανασίας βλύζει, ὁ Κύριος τῆς δόξης, ὃν μεγαλύνομεν."
+meCO.Ode9C13.ode = misc_gr_GR_cog.Ode9
+meCO.Ode9C13.mode = misc_gr_GR_cog.Mode6
+meCO.Ode9C13.melody = he.h.m6_gr_GR_cog.TinTimioteran.name
+meCO.Ode9C13.text = "Τοῖς ἔθνεσιν ἤνοικται τῆς Ἐδέμ, πύλη τικτομένου, ἐν Σπηλαίῳ τοῦ Λυτρωτοῦ· πηγή τε διψῶσιν, ἀθανασίας βλύζει, ὁ Κύριος τῆς δόξης, ὃν μεγαλύνομεν."
 
 meCO.Ode9C14.ode = misc_gr_GR_cog.Ode9
 meCO.Ode9C14.mode = misc_gr_GR_cog.Mode6

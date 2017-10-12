@@ -29,7 +29,7 @@ meVE.Stichera03.text = "Τὶ σε Δανιὴλ νῦν καλέσωμεν; Μ
 meVE.SticGlory.poet = poets_gr_GR_cog.Stouditou
 meVE.SticGlory.mode = misc_gr_GR_cog.Mode5
 meVE.SticGlory.melody = ""
-meVE.SticGlory.text = "Τὸ ἐμπιστευθὲν σοι τάλαντον παρὰ Χριστοῦ, καλῶς ἐργασάμενος Ὅσιε Πάτερ, ἀνεδείχθης καὶ μετὰ θάνατον, δαιμόνων φυγαδευτής, καὶ ἰατὴρ ποικίλων ἀρρωστημάτων, στῦλος καὶ ἑδραίωμα, καὶ ὄρος Ἅγιον, τῆς Ἐκκλησίας τοῦ Χριστοῦ· διὸ σε ἱκετεύομεν, Δανιὴλ θαυματουργέ, τὴν εἰρήνην αἴτησαι, καὶ ταῖς ψυχαῖς ἡμῶν, τὸ μέγα ἔλεος."
+meVE.SticGlory.text = "Τὸ ἐμπιστευθέν σοι τάλαντον παρὰ Χριστοῦ, καλῶς ἐργασάμενος Ὅσιε Πάτερ, ἀνεδείχθης καὶ μετὰ θάνατον, δαιμόνων φυγαδευτής, καὶ ἰατὴρ ποικίλων ἀρρωστημάτων, στῦλος καὶ ἑδραίωμα, καὶ ὄρος Ἅγιον, τῆς Ἐκκλησίας τοῦ Χριστοῦ· διὸ σε ἱκετεύομεν, Δανιὴλ θαυματουργέ, τὴν εἰρήνην αἴτησαι, καὶ ταῖς ψυχαῖς ἡμῶν, τὸ μέγα ἔλεος."
 
 meVE.SticTheotokion.mode = misc_gr_GR_cog.Mode5
 meVE.SticTheotokion.melody = ""
@@ -39,9 +39,10 @@ meVE.SticStavrotheotokion.mode = misc_gr_GR_cog.Mode5
 meVE.SticStavrotheotokion.melody = he.a.m5_gr_GR_cog.ChairoisAskitikon.name
 meVE.SticStavrotheotokion.text = "Πάθος σου τὸ σεπτὸν ἡ σεμνή, καὶ πανυπέραγνός σου Μήτηρ Μακρόθυμε, παντάναξ ἑωρακυῖα, δακρυρροοῦσα πικρῶς, καὶ τὰ στήθη τύπτουσα ἐκραύγαζεν· Ἰησοῦ μου γλυκύτατε, πρόσφθεγμά μοι σωτήριον, φῶς παντὸς κόσμου, θεῖε Ἥλιε ἄδυτε, πῶς ἐν ξύλῳ σε, σταυρικῷ νῦν κρεμάμενον· οἷα κακοῦργον βλέπουσα, καὶ λόγχῃ τὴν ἄχραντον, φεῦ μοι! πλευρὰν τετρωμένον, καθυπομείνω καὶ ζήσομαι, Υἱὲ καὶ Θεέ μου, εἰμὴ λάμψει μοι τὸ φῶς σου τῆς ἀναστάσεως;"
 
-meVE.Apolytikion1.mode = misc_gr_GR_cog.Mode1
-meVE.Apolytikion1.melody = ""
-meVE.Apolytikion1.text = "Ὑπομονῆς στῦλος γέγονας, ζηλώσας τοὺς Προπάτορας Ὅσιε, τόν, Ἰὼβ ἐν τοῖς πάθεσι, τὸν Ἰωσὴφ ἐν τοῖς πειρασμοῖς, καὶ τὴν τῶν ἀσωμάτων πολιτείαν, ὑπάρχων ἐν σώματι, Δανιὴλ Πατὴρ ἡμῶν, Ὅσιε, πρέσβευε Χριστῷ τῷ Θεῷ, σωθῆναι τὰς ψυχὰς ἡμῶν."
+meVE.GeneralApolytikion1.mode = misc_gr_GR_cog.Mode1
+meVE.GeneralApolytikion1.melody = he.ga_gr_GR_cog.YpomonisStylos.name
+meVE.GeneralApolytikion1.name = "Δανιὴλ"
+meVE.MM.GeneralApolytikion1.text = "" // for media
 
 meMA.C1Acrostic.text = "οὗ ἡ Ἀκροστιχίς· Ὕμνοις γεραίρω Δανιὴλ τὸν Στυλίτην. Ὁ Ἰωσήφ."
 

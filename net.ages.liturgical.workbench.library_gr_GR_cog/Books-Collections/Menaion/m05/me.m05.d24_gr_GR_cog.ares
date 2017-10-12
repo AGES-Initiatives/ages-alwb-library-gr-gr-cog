@@ -39,9 +39,10 @@ meVE.SticStavrotheotokion.mode = misc_gr_GR_cog.Mode2
 meVE.SticStavrotheotokion.melody = he.a.m2_gr_GR_cog.OteEkTouXylou.name
 meVE.SticStavrotheotokion.text = "Βότρυν, τὸν παμπέπειρον Ἁγνή, ὃν ἀγεωργήτως ἐν μήτρᾳ, ἐκυοφόρησας, ξύλῳ ὡς ἑώρακας, τοῦτον κρεμάμενον, θρηνῳδοῦσα ἠλάλαζες, καὶ ἔκραζες· Τέκνον, γλεῦκος ἐναπόσταξον, δι' οὗ ἡ μέθη ἀρθῇ, πᾶσα, τῶν παθῶν εὐεργέτα, δι' ἐμοῦ τῆς σὲ τετοκυΐας, σοῦ τὴν εὐσπλαγχνίαν ἐνδεικνύμενος."
 
-meVE.Apolytikion1.mode = misc_gr_GR_cog.Mode1
-meVE.Apolytikion1.melody = ""
-meVE.Apolytikion1.text = "Ὑπομονῆς στῦλος γέγονας, ζηλώσας τοὺς προπάτορας Ὅσιε, τὸν Ἰὼβ ἐν τοῖς πάθεσι, τὸν Ἰωσὴφ ἐν τοῖς πειρασμοῖς, καὶ τὴν τῶν ἀσωμάτων πολιτείαν ὑπάρχων ἐν σώματι, Συμεὼν Πατὴρ ἡμῶν Ὅσιε, πρέσβευε Χριστῷ τῷ Θεῷ, σωθῆναι τὰς ψυχὰς ἡμῶν."
+meVE.GeneralApolytikion1.mode = misc_gr_GR_cog.Mode1
+meVE.GeneralApolytikion1.melody = he.ga_gr_GR_cog.YpomonisStylos.name
+meVE.GeneralApolytikion1.name = "Συμεὼν"
+meVE.MM.GeneralApolytikion1.text = "" // for media
 
 meMA.C1Poet = poets_gr_GR_cog.IoannouMonachou
 meMA.C1Acrostic.text = "οὗ ἡ Ἀκροστιχίς (ἄνευ τῶν Θεοτοκίων)· Θαυμαστὲ μέλπω Συμεὼν σοῦ τὴν χάριν."

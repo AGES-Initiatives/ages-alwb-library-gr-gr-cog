@@ -2,8 +2,8 @@ A_Resource_Whose_Name = tr.d028_gr_GR_cog
 
 trCommemoration.text = "Μνήμη τοῦ διὰ Κολλύβων Θαύματος τοῦ Ἁγίου Μεγαλομάρτυρος Θεοδώρου τοῦ Τήρωνος." //full title of day
 trShortCommemoration1.text = "Τὸ διὰ Κολλύβων Θαῦμα τοῦ Ἁγίου Θεοδώρου τοῦ Τήρωνος"
-trInsert1 = "" //for use in petitions and dismissal
-trInsert2 = "" //for use in petitions and dismissal
+trInsert1 = "τοῦ Ἁγίου Μεγαλομάρτυρος Θεοδώρου τοῦ Τήρωνος," //for use in petitions and dismissal
+trInsert2 = "οὗ τὸ διὰ κολλύβων θαῦμα ἑορτάζομεν·" //for use in petitions and dismissal
 trNote.text = ""
 trHO.day = ""
 trHO.commemorations = ""
@@ -251,8 +251,8 @@ trMA.Ode1C1H.mode = misc_gr_GR_cog.Mode4
 trMA.Ode1C1H.melody = misc_gr_GR_cog.Heirmos
 trMA.Ode1C1H.text = he.h.m4_gr_GR_cog.AnoixoToStomaMou.text
 
-trMA.C1.title = ""
-trMA.C1.verse = ""
+trMA.C1.title = titles_gr_GR_cog.KanonATouAgiou
+trMA.C1.verse = prayers_gr_GR_cog.verse_SaintM.text
 
 trMA.Ode1C11.ode = misc_gr_GR_cog.Ode1
 trMA.Ode1C11.mode = misc_gr_GR_cog.Mode4
@@ -279,8 +279,8 @@ trMA.Ode1C1T.mode = misc_gr_GR_cog.Mode4
 trMA.Ode1C1T.melody = he.h.m4_gr_GR_cog.AnoixoToStomaMou.name
 trMA.Ode1C1T.text = "Ὡραῖον κἄν ἄωρον, τὸ ἑορτάζειν νενόμισται· ἡ γὰρ ὡραΐσασα, τὰ πάντα Δέσποινα, καὶ νῦν ἔδειξε, τῆς μνήμης κοινωνοῦσα, τῷ προκινδυνεύοντι ταύτης δι' αἵματος."
 
-trMA.C2.title = ""
-trMA.C2.verse = ""
+trMA.C2.title = titles_gr_GR_cog.KanonBTouAgiou
+trMA.C2.verse = prayers_gr_GR_cog.verse_SaintM.text
 
 trMA.Ode1C21.ode = misc_gr_GR_cog.Ode1
 trMA.Ode1C21.mode = misc_gr_GR_cog.Mode6

@@ -1,8 +1,8 @@
 A_Resource_Whose_Name = me.m02.d21_gr_GR_cog 
 
 meDate.text = "Τῌ ΚΑʹ ΦΕΒΡΟΥΑΡΙΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "Μνήμη τοῦ Ὁσίου Πατρὸς ἡμῶν Τιμοθέου, τοῦ ἐν Συμβόλοις καὶ τοῦ Ἁγίου Πατρὸς ἡμῶν Εὐσταθίου, Πατριάρχου Ἀντιοχείας τῆς μεγάλης." //full title of day
-meShortCommemoration1.text = ""
+meCommemoration.text = "Μνήμη τοῦ Ὁσίου Πατρὸς ἡμῶν Τιμοθέου, τοῦ ἐν Συμβόλοις, καὶ τοῦ Ἁγίου Πατρὸς ἡμῶν Εὐσταθίου, Πατριάρχου Ἀντιοχείας τῆς μεγάλης." //full title of day
+meShortCommemoration1.text = "Μνήμη τοῦ Ὁσίου Πατρὸς ἡμῶν Τιμοθέου, τοῦ ἐν Συμβόλοις"
 meInsert1 = "" //for use in petitions and dismissal
 meInsert2 = "" //for use in petitions and dismissal
 meNote.text = ""
@@ -32,7 +32,7 @@ meVE.SticTheotokion.text = "Ὅλος ὁ βίος μου ἄσωτος, ἡ δ
 
 meVE.SticStavrotheotokion.mode = misc_gr_GR_cog.Mode8
 meVE.SticStavrotheotokion.melody = he.a.m8_gr_GR_cog.OTouParadoxou.name
-meVE.SticStavrotheotokion.text = "Ὢ τοῦ παραδόξου θαύματος! ὢ μυστηρίου φρικτοῦ! ὢ φρικτῆς ἐγχειρήσεως! ἡ Παρθένος ἔλεγεν, ἐν Σταυρῷ ὡς ἑώρακεν, ἐν μέσῳ δύο ληστῶν κρεμάμενον, ὃν ἀνωδίνως φρικτῶς ἐκύησεν, ἔκλαιε λέγουσα· Οἴμοι Τέκνον φίλτατον! πῶς ὁ δεινός, δῆμος καὶ ἀχάριστος, Σταυρῷ προσήλωσε;"
+meVE.SticStavrotheotokion.text = he.a.m8_gr_GR_cog.OTouParadoxou.text
 
 meVE.Apolytikion1.poet = poets_gr_GR_cog.Gerasimou
 meVE.Apolytikion1.mode = misc_gr_GR_cog.Mode5

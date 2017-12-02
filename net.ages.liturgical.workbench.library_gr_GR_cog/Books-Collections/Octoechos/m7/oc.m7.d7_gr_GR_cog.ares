@@ -577,7 +577,7 @@ octrVE.SticBoth.text = ocVE.SticTheotokion.text
 
 octrMA.Kathisma11.mode = misc_gr_GR_cog.Mode7
 octrMA.Kathisma11.melody = ""
-octrMA.Kathisma11.text = ocMA.Kathisma12.text
+octrMA.Kathisma11.text = oc.m7.d4_gr_GR_cog.ocMA.Kathisma32.text
 
 octrMA.Kathisma12.mode = misc_gr_GR_cog.Mode7
 octrMA.Kathisma12.melody = ""
@@ -585,7 +585,7 @@ octrMA.Kathisma12.text = oc.m7.d4_gr_GR_cog.octrMA.Ode7Martyricon.text
 
 octrMA.Kathisma13.mode = misc_gr_GR_cog.Mode7
 octrMA.Kathisma13.melody = ""
-octrMA.Kathisma13.text = ocMA.Kathisma21.text
+octrMA.Kathisma13.text = oc.m7.d2_gr_GR_cog.ocMA.Kathisma32.text
 
 octrMA.Kathisma14.mode = misc_gr_GR_cog.Mode7
 octrMA.Kathisma14.melody = ""
@@ -593,26 +593,26 @@ octrMA.Kathisma14.text = "Ἐν χώρᾳ ζώντων Κύριε, καὶ �
 
 octrMA.Kathisma1T.mode = misc_gr_GR_cog.Mode7
 octrMA.Kathisma1T.melody = ""
-octrMA.Kathisma1T.text = ocMA.Kathisma14.text
+octrMA.Kathisma1T.text = oc.m7.d1_gr_GR_cog.ocVE.ApolTheotokionVM.text
 
 octrMA.Photogogic.mode = misc_gr_GR_cog.Mode7
 octrMA.Photogogic.text = oc.m7.d2_gr_GR_cog.octrMA.Photagogic.text
 
 octrMA.Lauds1.mode = misc_gr_GR_cog.Mode7
-octrMA.Lauds1.melody = ocMA.Lauds4.melody
-octrMA.Lauds1.text = ocMA.Lauds4.text
+octrMA.Lauds1.melody = he.a.m7_gr_GR_cog.OukEtiKolyometha.name
+octrMA.Lauds1.text = oc.m7.d2_gr_GR_cog.ocMA.Aposticha3.text
 
 octrMA.Lauds2.mode = misc_gr_GR_cog.Mode7
-octrMA.Lauds2.melody = ocMA.Lauds1.melody
-octrMA.Lauds2.text = ocMA.Lauds1.text
+octrMA.Lauds2.melody = he.a.m7_gr_GR_cog.OukEtiKolyometha.name
+octrMA.Lauds2.text = oc.m7.d3_gr_GR_cog.ocMA.Aposticha3.text
 
 octrMA.Lauds3.mode = misc_gr_GR_cog.Mode7
-octrMA.Lauds3.melody = ocMA.Lauds2.melody
-octrMA.Lauds3.text = ocMA.Lauds2.text
+octrMA.Lauds3.melody = he.a.m7_gr_GR_cog.OukEtiKolyometha.name
+octrMA.Lauds3.text = oc.m7.d4_gr_GR_cog.ocMA.Aposticha3.text
 
 octrMA.Lauds4.mode = misc_gr_GR_cog.Mode7
 octrMA.Lauds4.melody = ""
-octrMA.Lauds4.text = ocMA.Lauds3.text
+octrMA.Lauds4.text = oc.m7.d5_gr_GR_cog.ocMA.Aposticha3.text
 
 octrMA.LaudsGlory.mode = misc_gr_GR_cog.Mode7
 octrMA.LaudsGlory.melody = he.a.m7_gr_GR_cog.OukEtiKolyometha.name

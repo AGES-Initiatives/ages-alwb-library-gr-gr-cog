@@ -458,7 +458,7 @@ meMegalynarion.text = ""
 
 alt1.meDate.text = "Τῌ ΙΖʹ ΔΕΚΕΜΒΡΙΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
 alt1.meCommemoration.text = "Μνήμη τοῦ εν ἁγίοις Πατρός ἡμών Διονυσίου τοῦ νέου, Ἀρχιεπισκόπου Αἰγίνης, τοῦ Θαυματουργοῦ, τοῦ ἐκ τῆς νήσου Ζακύνθου." //full title of day
-alt1.meShortCommemoration1.text = ""
+alt1.meShortCommemoration1.text = "Μνήμη τοῦ Ἁγίου Διονυσίου Ἀρχιεπισκόπου Αἰγίνης"
 alt1.meInsert1 = "καὶ τοῦ εν ἁγίοις Πατρός ἡμών Διονυσίου τοῦ νέου, Ἀρχιεπισκόπου Αἰγίνης, τοῦ Θαυματουργοῦ, τοῦ ἐκ τῆς νήσου Ζακύνθου, " //for use in petitions and dismissal
 alt1.meInsert2 = "οὗ καὶ τὴν μνήμην ἐπιτελοῦμεν· " //for use in petitions and dismissal
 alt1.meNote.text = ""
@@ -786,6 +786,8 @@ alt1.meMA.Lauds4.mode = misc_gr_GR_cog.Mode4
 alt1.meMA.Lauds4.melody = he.a.m4_gr_GR_cog.OsGennaionEnMartysi.name
 alt1.meMA.Lauds4.text = "Ἐντολῶν τοῦ Κυρίου σου, τὴν κυρίαν ἐλάμπρυνας, τὴν ἀγάπην ἔργοις σου· καὶ γὰρ κτείνοντα, σοῦ τὸν αὐτάδελφον ἀδελφόν, ἐνόμισας ἄκακε, παρορῶν τὸ ἑαυτοῦ, ἀνομώτατον ἔγκλημα, μᾶλλον δ' εὐμενῶς, σωτηρίας τὴν τρίβον ἐκδιδάσκων, φιλανθρώπως τὰ πρὸς χρείαν, αὐτῷ παρέσχες μακάριε."
 
+alt1.meMA.MM.Lauds123as678.text = properties_gr_GR_cog.media.key
+
 alt1.meMA.LaudsGlory.mode = misc_gr_GR_cog.Mode8
 alt1.meMA.LaudsGlory.melody = ""
 alt1.meMA.LaudsGlory.text = "Ἑορτὴν χαρμόσυνον, ἑορτάζει σήμερον Ζάκυνθος, ὦ φιλέορτοι, Ἱεράρχου καινοῦ μνήμην τελοῦσα, Διονυσίου τοῦ ἐξ αὐτῆς ἀνατείλαντος, καὶ συγκαλεῖται τάς φίλας πόλεις καὶ νήσους, τάς γείτονας, Κεφαλληνίαν καὶ Κέρκυραν, τὴν μὲν ὡς ἐν τοῖς ἄλλοις οἷς κέκτηται, Σπυρίδωνα αὐχοῦσαν τὸν πολυθαυμαστόν, τὴν δέ, ὡς τὸν θαυματουργὸν πλουτοῦσα νέον Γεράσιμον, συνευφρανθῆναι πνευματικῶς, καὶ πανηγυρίσαι θεοπρεπῶς· μεθ' ὧν καὶ ἡμεῖς ψάλλοντες εἲπωμεν· Ὁ ἐν Ἁγίοις θαυμαστὸς Κύριος, ταῖς αὐτῶν ἱκεσίαις, τὰ ἐπὶ γῆς τῶν Ὀρθοδόξων συστήματα, ἐκ παντοίων κινδύνων λύτρωσαι, καὶ τῆς οὐρανίου βασιλείας ἀξίωσον ὡς Φιλάνθρωπος."
@@ -793,8 +795,6 @@ alt1.meMA.LaudsGlory.text = "Ἑορτὴν χαρμόσυνον, ἑορτά�
 alt1.meMA.LaudsBoth.mode = misc_gr_GR_cog.Mode8
 alt1.meMA.LaudsBoth.melody = ""
 alt1.meMA.LaudsBoth.text = me.m12.d24_gr_GR_cog.meH1.Idiomelon1.text
-
-alt1.meMA.MM.LaudsSunday.text = properties_gr_GR_cog.media.key
 
 alt1.meLI.Kontakion1.mode = alt1.meMA.Kontakion1.mode
 alt1.meLI.Kontakion1.melody = alt1.meMA.Kontakion1.melody

@@ -1,8 +1,8 @@
 A_Resource_Whose_Name = me.m02.d19_gr_GR_cog 
 
 meDate.text = "Τῌ ΙΘʹ ΦΕΒΡΟΥΑΡΙΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "Μνήμη τοῦ Ἁγίου Ἀποστόλου Ἀρχίππου καὶ τῆς Ἁγίας Ὁσιομάρτυρος Φιλοθέης τῆς Ἀθηναίας." //full title of day
-meShortCommemoration1.text = ""
+meCommemoration.text = "Μνήμη τοῦ Ἁγίου Ἀποστόλου Ἀρχίππου καὶ τῆς Ἁγίας Ὁσιομάρτυρος Φιλοθέης τῆς Ἀθηναίας" //full title of day
+meShortCommemoration1.text = "Μνήμη τοῦ Ἁγίου Ἀποστόλου Ἀρχίππου"
 meInsert1 = "καὶ τοῦ Ἁγίου Ἀποστόλου Ἀρχίππου καὶ τῆς Ἁγίας Ὁσιομάρτυρος Φιλοθέης τῆς Ἀθηναίας, " //for use in petitions and dismissal
 meInsert2 = "ὧν καὶ τὴν μνήμην ἐπιτελοῦμεν· " //for use in petitions and dismissal
 meNote.text = ""
@@ -40,13 +40,13 @@ meVE.Apolytikion1.melody = he.a.m4_gr_GR_cog.OYpsotheisEnToStavro.name
 meVE.Apolytikion1.text = "Ὡς προσπελάσας ὁλικῇ διαθέσει, τῷ τῶν ἀῤῥήτων μυητῇ καὶ ἐπόπτῃ, τῶν Ἀποστόλων σύσκηνος ἐδείχθης σοφέ· ὅθεν τὸν τῆς πίστεως, θεῖον λόγον κηρύξας, ἔτεμες τοῖς τρόποις σου, τὰ φυτὰ τῆς κακίας, καὶ ἐναθλήσας Ἄρχιππε στεῤῥῶς, διαιοσύνης ἐδέξω τὸν στέφανον."
 
 meMA.C1Acrostic.text = "οὗ ἡ Ἀκροστιχίς· Ἄρχιππον ὑμνῶ τὸν σοφὸν θεηγόρον. Ἰωσήφ."
+meMA.C1.title = titles_gr_GR_cog.KanonTouApostolou
+meMA.C1.verse = prayers_gr_GR_cog.verse_Apostle.text
 
 meMA.Ode1C1H.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C1H.mode = misc_gr_GR_cog.Mode4
 meMA.Ode1C1H.melody = misc_gr_GR_cog.Heirmos
 meMA.Ode1C1H.text = he.h.m4_gr_GR_cog.ThalassisToErythraion.text
-
-meMA.C2.verse = prayers_gr_GR_cog.verse_Apostle.text
 
 meMA.Ode1C11.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C11.mode = misc_gr_GR_cog.Mode4

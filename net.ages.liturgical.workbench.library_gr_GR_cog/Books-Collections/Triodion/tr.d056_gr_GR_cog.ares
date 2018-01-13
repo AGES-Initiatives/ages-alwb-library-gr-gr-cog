@@ -129,8 +129,7 @@ trMA.Ode1C1H.mode = misc_gr_GR_cog.Mode4
 trMA.Ode1C1H.melody = misc_gr_GR_cog.Heirmos
 trMA.Ode1C1H.text = he.h.m4_gr_GR_cog.AnoixoToStomaMou.text
 
-trMA.C1.title = ""
-trMA.C1.verse = ""
+trMA.C1.verse = prayers_gr_GR_cog.verse_Theotokos.text
 
 trMA.Ode1C11.ode = misc_gr_GR_cog.Ode1
 trMA.Ode1C11.mode = misc_gr_GR_cog.Mode4
@@ -328,6 +327,8 @@ trMA.Ode6C14.text = "Χαρᾶς αἰτία χαρίτωσον, ἡμῶν τ
 
 trMA.C2Poet = poets_gr_GR_cog.Iosif
 trMA.C2Acrostic.text = "οὗ ἡ Ἀκροστιχίς· Αὕτη ἡ ᾠδὴ τοῦ Ἰωσήφ."
+trMA.C2.title = "Τὸ Αʹ Τετραῴδιον."
+trMA.C2.verse = prayers_gr_GR_cog.verse_SaintsM.text
 
 trMA.Ode6C21.ode = misc_gr_GR_cog.Ode6
 trMA.Ode6C21.mode = misc_gr_GR_cog.Mode6
@@ -350,6 +351,8 @@ trMA.Ode6C2T.melody = he.h.m6_gr_GR_cog.TouViouTinThalassan.name
 trMA.Ode6C2T.text = "Ἡ μόνη πανύμνητος, τοῖς ὑμνοῦσί σε πιστῶς, ἁμαρτημάτων ἄφεσιν, καὶ χαρισμάτων θείων διανομήν, δοθῆναι ἱκέτευε, τὸν πανάγιον Λόγον Μητροπάρθενε."
 
 trMA.C3Poet = poets_gr_GR_cog.TheodorouTouStouditou
+trMA.C3.title = "Τὸ Βʹ Τετραῴδιον."
+trMA.C3.verse = prayers_gr_GR_cog.verse_SaintsM.text
 
 trMA.Ode6C31.ode = misc_gr_GR_cog.Ode6
 trMA.Ode6C31.mode = misc_gr_GR_cog.Mode5

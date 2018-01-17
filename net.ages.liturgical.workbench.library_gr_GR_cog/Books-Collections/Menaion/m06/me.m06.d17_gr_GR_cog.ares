@@ -2,7 +2,7 @@ A_Resource_Whose_Name = me.m06.d17_gr_GR_cog
 
 meDate.text = "Τῌ ΙΖʹ ΙΟΥΝΙΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
 meCommemoration.text = "Μνήμη τῶν Ἁγίων Μαρτύρων, Ἰσαύρου, Βασιλείου, Ἰννοκεντίου, Ἑρμείου, Φήλικος καὶ Περεγρίνου· καὶ τῶν Ἁγίων Μαρτύρων, Μανουήλ, Σαβὲλ καὶ Ἰσμαήλ." // full title of day
-meShortCommemoration1.text = ""
+meShortCommemoration1.text = "Μνήμη τῶν Ἁγίων Μαρτύρων, Ἰσαύρου, Βασιλείου, Ἰννοκεντίου, Ἑρμείου, Φήλικος καὶ Περεγρίνου"
 meInsert1 = "καὶ τῶν Ἁγίων Μαρτύρων, Ἰσαύρου, Βασιλείου, Ἰννοκεντίου, Ἑρμείου, Φήλικος καὶ Περεγρίνου, καὶ τῶν Ἁγίων Μαρτύρων, Μανουήλ, Σαβὲλ καὶ Ἰσμαήλ, " // for use in petitions and dismissal
 meInsert2 = "ὧν καὶ τὴν μνήμην ἐπιτελοῦμεν· " // for use in petitions and dismissal
 meNote.text = ""
@@ -59,8 +59,8 @@ meVE.Apolytikion1.text = "Ὡς ἐννεάριθμον, τοῦ Λόγου σ
 
 meMA.C1Acrostic.text = "οὗ ἡ Ἀκροστιχίς· Ἴσαυ(ρε Μ)άρτυς, εὐμενὴς φάνηθί μοι. Ἐν δὲ τοῖς Θεοτοκίοις· Γ(ρ)ηγορίου."
 
-meMA.C1.title = ""
-meMA.C1.verse = ""
+meMA.C1.title = titles_gr_GR_cog.KanonTonAgion
+meMA.C1.verse = prayers_gr_GR_cog.verse_SaintsM.text
 
 meMA.Ode1C11.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C11.mode = misc_gr_GR_cog.Mode8

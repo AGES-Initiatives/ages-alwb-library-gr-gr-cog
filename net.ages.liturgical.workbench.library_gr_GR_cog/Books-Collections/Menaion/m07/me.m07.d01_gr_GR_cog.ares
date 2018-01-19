@@ -5,7 +5,7 @@ meHO.DaysHours.text = ""
 
 meDate.text = "Τῌ Αʹ ΙΟΥΛΙΟΥ"
 meCommemoration.text = "Μνήμη τῶν Ἁγίων καὶ Θαυματουργῶν Ἀναργύρων Κοσμᾶ καὶ Δαμιανοῦ, τῶν ἐν Ῥώμῃ Μαρτυρησάντων" // full title of day
-meShortCommemoration1.text = ""
+meShortCommemoration1.text = "Μνήμη τῶν Ἁγίων Ἀναργύρων Κοσμᾶ καὶ Δαμιανοῦ τῶν ἐν Ῥώμῃ"
 meInsert1 = "τῶν ἁγίων καὶ ἐνδόξων Ἀναργύρων Κοσμᾶ καὶ Δαμιανοῦ, " // for use in petitions and dismissal
 meInsert2 = "ὧν καὶ τὴν μνήμην ἐπιτελοῦμεν· " // for use in petitions and dismissal
 meNote.text = "Εἰ βούλει ἑορτάσαι τοὺς Ἁγίου τούτους,..."
@@ -108,8 +108,8 @@ meMA.Kathisma2T.text = "Προστασία ἄμαχε, τῶν θλιβομέ
 
 meMA.C1Acrostic.text = " οὗ ἡ Ἀκροστιχίς· Κλεινοὺς ἰατροὺς τῶν βροτῶν μέλπειν θέμις. Ἰωσήφ."
 
-meMA.C1.title = ""
-meMA.C1.verse = ""
+meMA.C1.title = titles_gr_GR_cog.KanonTonAgion
+meMA.C1.verse = prayers_gr_GR_cog.verse_SaintsM.text
 
 meMA.Ode1C11.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C11.mode = misc_gr_GR_cog.Mode6

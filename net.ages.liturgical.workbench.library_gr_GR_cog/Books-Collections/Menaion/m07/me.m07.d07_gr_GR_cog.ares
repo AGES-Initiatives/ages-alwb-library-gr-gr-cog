@@ -2,7 +2,7 @@ A_Resource_Whose_Name = me.m07.d07_gr_GR_cog
 
 meDate.text = "Τῌ Ζʹ ΙΟΥΛΙΟΥ"
 meCommemoration.text = "Μνήμη τοῦ Ἁγίου Θωμᾶ τοῦ ἐν Μαλεῷ· καὶ τῆς Ἁγίας Μάρτυρος Κυριακῆς." //full title of day
-meShortCommemoration1.text = ""
+meShortCommemoration1.text = "Μνήμη τῆς Ἁγίας Μάρτυρος Κυριακῆς"
 meInsert1 = "τῆς Ἁγίας ἐνδόξου Μάρτυρος Κυριακῆς, " //for use in petitions and dismissal
 meInsert2 = "ἧς καὶ τὴν μνήμην ἐπιτελοῦμεν· " //for use in petitions and dismissal
 meNote.text = ""
@@ -78,8 +78,8 @@ meVE.Apolytikion3.text = "Καλλιέρημα ὤφθης καὶ θῦμα �
 
 meMA.C2Acrostic.text = " οὗ ἡ Ἀκροστιχίς· Χαίρων κροτῶ σε, Μάρτυς, εὐσεβοφρόνως. Ἰωσήφ."
 
-meMA.C1.title = ""
-meMA.C1.verse = ""
+meMA.C1.title = titles_gr_GR_cog.KanonTouAgiou
+meMA.C1.verse = prayers_gr_GR_cog.verse_SaintM.text
 
 meMA.Ode1C11.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C11.mode = misc_gr_GR_cog.Mode2
@@ -101,8 +101,8 @@ meMA.Ode1C1T.mode = misc_gr_GR_cog.Mode2
 meMA.Ode1C1T.melody = he.h.m2_gr_GR_cog.DefteLaoi.name
 meMA.Ode1C1T.text = "Μόνη Θεόν, πᾶσι τὸν ὄντα ἀχώρητον, σοὶ χωρητὸν γενόμενον, δι' ἀγαθότητα, ἀπεκύησας Κόρη, ὃν αἴτησαι σωθῆναι, τοὺς ἀνυμνοῦντάς σε."
 
-meMA.C2.title = ""
-meMA.C2.verse = ""
+meMA.C2.title = titles_gr_GR_cog.KanonTisAgias
+meMA.C2.verse = prayers_gr_GR_cog.verse_SaintW.text
 
 meMA.Ode1C21.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C21.mode = misc_gr_GR_cog.Mode2

@@ -2,9 +2,9 @@ A_Resource_Whose_Name = me.m07.d29_gr_GR_cog
 
 meDate.text = "Τῌ ΚΘʹ ΙΟΥΛΙΟΥ"
 meCommemoration.text = "Μνήμη τοῦ Ἁγίου Μάρτυρος Καλλινίκου, καὶ τῆς Ἁγίας Μάρτυρος Θεοδότης." // full title of day
-meShortCommemoration1.text = ""
-meInsert1 = "καὶ τοῦ Ἁγίου Μάρτυρος Καλλινίκου, καὶ τῆς Ἁγίας Μάρτυρος Θεοδότης, " // for use in petitions and dismissal
-meInsert2 = "ὧν καὶ τὴν μνήμην ἐπιτελοῦμεν· " // for use in petitions and dismissal
+meShortCommemoration1.text = "Μνήμη τοῦ Ἁγίου Μάρτυρος Καλλινίκου"
+meInsert1 = "" // for use in petitions and dismissal
+meInsert2 = "" // for use in petitions and dismissal
 meNote.text = ""
 meLE.commemoration1 = "Τοῦ Ἁγίου Μάρτυρος Καλλινίκου."
 meLE.commemoration2 = ""
@@ -60,8 +60,8 @@ meMA.C1Acrostic.text = "οὗ ἡ Ἀκροστιχίς· Ἀθλητὰ Καλ
 
 meMA.C2Acrostic.text = "οὗ ἡ Ἀκροστιχίς· Τὴν πρὸς Θεὸν μοι Μάρτυς ἴθυνον τρίβον."
 
-meMA.C1.title = ""
-meMA.C1.verse = ""
+meMA.C1.title = titles_gr_GR_cog.KanonTouAgiou
+meMA.C1.verse = prayers_gr_GR_cog.verse_SaintM.text
 
 meMA.Ode1C11.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C11.mode = misc_gr_GR_cog.Mode4
@@ -83,8 +83,8 @@ meMA.Ode1C1T.mode = misc_gr_GR_cog.Mode4
 meMA.Ode1C1T.melody = he.h.m4_gr_GR_cog.ArmataFarao.name
 meMA.Ode1C1T.text = "Ἥνπερ τῶν Προφητῶν, προεώρακε χορός, ὡς πύλην οὐράνιον, καὶ βάτον ἀκατάφλεκτον, σὲ Παρθενομῆτορ ἄχραντε, Θεὸν τεκοῦσαν ἐπέγνωμεν."
 
-meMA.C2.title = ""
-meMA.C2.verse = ""
+meMA.C2.title = titles_gr_GR_cog.KanonTisAgias
+meMA.C2.verse = prayers_gr_GR_cog.verse_SaintW.text
 
 meMA.Ode1C21.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C21.mode = misc_gr_GR_cog.Mode4

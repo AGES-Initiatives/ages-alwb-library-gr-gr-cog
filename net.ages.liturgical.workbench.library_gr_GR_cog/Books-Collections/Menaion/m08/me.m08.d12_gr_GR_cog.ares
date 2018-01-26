@@ -1,10 +1,11 @@
 A_Resource_Whose_Name = me.m08.d12_gr_GR_cog
 
 meDate.text = "Τῌ ΙΒʹ ΑΥΓΟΥΣΤΟΥ"
-meCommemoration.text = "Μνήμη τῶν Ἁγίων Μαρτύρων Φωτίου καὶ Ἀνικήτου." //full title of day
-meShortCommemoration1.text = ""
-meInsert1 = "καὶ τῶν Ἁγίων Μαρτύρων Φωτίου καὶ Ἀνικήτου, " //for use in petitions and dismissal
-meInsert2 = "ὧν καὶ τὴν μνήμην ἐπιτελοῦμεν· " //for use in petitions and dismissal
+meCommemoration.text = "Μνήμη τῶν Ἁγίων Μαρτύρων Φωτίου καὶ Ἀνικήτου· καὶ τοῦ Ὁσίου Πατρὸς ἡμῶν Μαξίμου τοῦ Ὁμολογητοῦ" //full title of day
+meShortCommemoration1.text = "Μνήμη τῶν Ἁγίων Μαρτύρων Φωτίου καὶ Ἀνικήτου"
+meShortCommemoration2.text = "Μνήμη τοῦ Ὁσίου Πατρὸς ἡμῶν Μαξίμου τοῦ Ὁμολογητοῦ"
+meInsert1 = "" //for use in petitions and dismissal
+meInsert2 = "" //for use in petitions and dismissal
 meNote.text = ""
 meLE.commemoration1 = "Μνήμη τῶν Ἁγίων Μαρτύρων Φωτίου καὶ Ἀνικήτου."
 meLE.commemoration2 = ""

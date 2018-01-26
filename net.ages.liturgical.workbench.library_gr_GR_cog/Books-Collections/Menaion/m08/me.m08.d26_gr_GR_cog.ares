@@ -1,8 +1,8 @@
 A_Resource_Whose_Name = me.m08.d26_gr_GR_cog
 
 meDate.text = "Τῌ ΚϚʹ ΑΥΓΟΥΣΤΟΥ"
-meCommemoration.text = "Μνήμη τῶν Ἁγίων Μαρτύρων Ἀδριανοῦ καὶ Ναταλίας." // full title of day
-meShortCommemoration1.text = ""
+meCommemoration.text = "Μνήμη τῶν Ἁγίων Μαρτύρων Ἀδριανοῦ καὶ Ναταλίας" // full title of day
+meShortCommemoration1.text = "Μνήμη τῶν Ἁγίων Μαρτύρων Ἀδριανοῦ καὶ Ναταλίας"
 meInsert1 = "καὶ τῶν Ἁγίων Μαρτύρων Ἀδριανοῦ καὶ Ναταλίας, " // for use in petitions and dismissal
 meInsert2 = "ὧν καὶ τὴν μνήμην ἐπιτελοῦμεν· " // for use in petitions and dismissal
 meNote.text = ""
@@ -69,8 +69,8 @@ meVE.Apolytikion1.text = "Ἀναφαίρετον ὄλβον ἡγήσω, τ�
 
 meMA.C1Poet = poets_gr_GR_cog.Theofanous
 
-meMA.C1.title = ""
-meMA.C1.verse = ""
+meMA.C1.title = titles_gr_GR_cog.KanonTonAgion
+meMA.C1.verse = prayers_gr_GR_cog.verse_SaintsM.text
 
 meMA.Ode1C11.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C11.mode = misc_gr_GR_cog.Mode6
@@ -305,6 +305,8 @@ meMA.Lauds3.mode = misc_gr_GR_cog.Mode8
 meMA.Lauds3.melody = he.a.m8_gr_GR_cog.OTouParadoxou.name
 meMA.Lauds3.text = "Μέχρι δεσμῶν καὶ στρεβλώσεων, καὶ τῶν μελῶν ἐκκοπῆς, καρτερῶς ἀνθιστάμενοι, τὰς ψυχὰς τῷ Κτίσαντι, ἀποδόντες εἰλήφατε, τὴν αἰωνίαν ὄντως ἀνάπαυσιν, καὶ τὴν ἀγήρω μακαριότητα. Ὢ ἧς ἐτύχατε, θείας ἀντιδόσεως παρὰ Χριστοῦ, μάρτυρες πανένδοξοι, σεβασμιώτατοι!"
 
+meMA.MM.Lauds1123as5678.text = properties_gr_GR_cog.media.key
+
 meMA.LaudsGlory.mode = misc_gr_GR_cog.Mode2
 meMA.LaudsGlory.melody = ""
 meMA.LaudsGlory.text = "Ὁ πάντα προγινώσκων Κύριος, ἀρρήτῳ προμηθείᾳ σε μάρτυς, ὡς εὔκαρπον κλῆμα προσήκατο, ξίφει μαρτυρίου ποικίλως τεμνόμενον, καρτερίας δαψιλοῦς ἐπιφέροντα καρπούς, ἐξ ὧν τρέφονται πιστῶν καρδίαι, τῶν εὐφημούντων σε πόθῳ, Ἀδριανὲ ἔνδοξε."
@@ -312,8 +314,6 @@ meMA.LaudsGlory.text = "Ὁ πάντα προγινώσκων Κύριος, �
 meMA.LaudsTheotokion.mode = misc_gr_GR_cog.Mode2
 meMA.LaudsTheotokion.melody = ""
 meMA.LaudsTheotokion.text = ho.s23_gr_GR_cog.hoCA.Troparion7.text
-
-meMA.MM.LaudsSunday.text = properties_gr_GR_cog.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody

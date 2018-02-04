@@ -1,8 +1,8 @@
 A_Resource_Whose_Name = me.m08.d11_gr_GR_cog
 
 meDate.text = "Τῌ ΙΑʹ ΑΥΓΟΥΣΤΟΥ"
-meCommemoration.text = "Μνήμη τοῦ Ἁγίου Μάρτυρος Εὔπλου." // full title of day
-meShortCommemoration1.text = ""
+meCommemoration.text = "Μνήμη τοῦ Ἁγίου Μάρτυρος Εὔπλου" // full title of day
+meShortCommemoration1.text = "Μνήμη τοῦ Ἁγίου Μάρτυρος Εὔπλου"
 meInsert1 = "καὶ τοῦ Ἁγίου Μάρτυρος Εὔπλου, " // for use in petitions and dismissal
 meInsert2 = "οὗ καὶ τὴν μνήμην ἐπιτελοῦμεν· " // for use in petitions and dismissal
 meNote.text = ""
@@ -316,4 +316,10 @@ meLI.Kontakion1.melody = ""
 meLI.Kontakion1.text = ""
 
 meMegalynarion.text = ""
+
+alt1.meShortCommemoration1.text = "Ἀνάμνησις θαύματος Ἁγίου Σπυρίδωνος ἐν Κερκύρᾳ"
+alt1.meMegalynarion.text = "Τῶν θαυμάτων πέλαγος γεγονώς, πἀσης τρικυμίας ἐν θαλάσσῃ τε καὶ ἐν γῇ, μέγιστε Σπυρίδων, διάσῳζε εὐχαῖς σου, τοὺς ἐπικαλουμένους μέγα σὸν ὄνομα."
+
+alt2.meShortCommemoration1.text = "Μνήμη τοῦ Ἁγίου Νήφωνος Πατριάρχου Κωνσταντινουπόλες"
+alt2.meMegalynarion.text = "Χαίροις Βυζαντίου θεῖος ποιμήν· χαίροις ὅρους Ἄθω, καὶ Δακίας λαμπρὸς φωστήρ, καὶ Μονῆς Προδρόμου, ἀγλάϊσμα καὶ γέρας, Πατριαρχῶν ἡ δόξα, Νήφων Πατὴρ ἡμῶν."
 

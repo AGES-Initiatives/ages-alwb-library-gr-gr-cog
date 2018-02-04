@@ -1,9 +1,9 @@
 A_Resource_Whose_Name = me.m09.d09_gr_GR_cog
 
 meDate.text = "Τῌ Θʹ ΣΕΠΤΕΜΒΡΙΟΥ"
-meCommemoration.text = "Μνήμη τῶν Ἁγίων καὶ Δικαίων Θεοπατόρων Ἰωακεὶμ καὶ Ἄννης, καὶ τοῦ Ἁγίου Μάρτυρος Σεβηριανοῦ." // full title of day
-meShortCommemoration1.text = ""
-meInsert1 = "καὶ τῶν Ἁγίων καὶ Δικαίων Θεοπατόρων Ἰωακεὶμ καὶ Ἄννης, καὶ τοῦ Ἁγίου Μάρτυρος Σεβηριανοῦ, " // for use in petitions and dismissal
+meCommemoration.text = "Μνήμη τῶν Ἁγίων καὶ Δικαίων Θεοπατόρων Ἰωακεὶμ καὶ Ἄννης, καὶ τοῦ Ἁγίου Μάρτυρος Σεβηριανοῦ" // full title of day
+meShortCommemoration1.text = "Μνήμη τῶν Ἁγίων καὶ Δικαίων Θεοπατόρων Ἰωακεὶμ καὶ Ἄννης"
+meInsert1 = "" // for use in petitions and dismissal
 meInsert2 = "ὧν καὶ τὴν μνήμην ἐπιτελοῦμεν· " // for use in petitions and dismissal
 meNote.text = ""
 meLE.commemoration1 = "Μνήμη τῶν Ἁγίων καὶ Δικαίων Θεοπατόρων Ἰωακεὶμ καὶ Ἄννης."
@@ -70,16 +70,16 @@ meVE.Apolytikion2.text = "Σοφίᾳ τῶν λόγων σου, παρεμβ�
 
 meMA.Kathisma11.mode = misc_gr_GR_cog.Mode1
 meMA.Kathisma11.melody = he.a.m1_gr_GR_cog.TouLithouSfragisthentos.name
-meMA.Kathisma11.text = "Τεχθεῖσα παραδόξως στειρωτικῶν ἐξ ὠδίνων, παρθενικῶν ἐκ λαγόνων ἐκύησας ὑπὲρ φύσιν· ὡραῖος φανεῖσα γὰρ βλαστός, ἐξήνθησας τῷ κόσμῳ τὴν ζωήν· διὰ τοῦτο αἱ Δυνάμεις τῶν οὐρανῶν, βοῶσί σοι Θεοτόκε· Δόξα τῇ νῦν προόδῳ σου σεμνή· δόξα τῇ παρθενίᾳ σου· δόξα τῇ κυοφορίᾳ σου, μόνη πανάχραντε."
+meMA.Kathisma11.text = me.m09.d07_gr_GR_cog.meMA.Kathisma11.text
 
 meMA.Kathisma21.mode = misc_gr_GR_cog.Mode5
 meMA.Kathisma21.melody = he.a.m5_gr_GR_cog.TonSynanarchonLogon.name
-meMA.Kathisma21.text = "Τὰ οὐράνια πάντα νῦν ἐπαγάλλονται, τῶν ἀνθρώπων τὸ γένος συνεορτάζει αὐτοῖς, καὶ οἱ Προφῆται μυστικῶς συνευφραίνονται· ἣν γὰρ προεῖδον τυπικῶς, ἐν ταῖς ἀρχαίαις γενεαῖς, βάτον καὶ στάμνον καὶ ῥάβδον, νεφέλην πύλην καὶ θρόνον, καὶ μέγα ὄρος, γεννᾶται σήμερον."
+meMA.Kathisma21.text = me.m09.d07_gr_GR_cog.meMA.Kathisma21.text
 
 meMA.C1Acrostic.text = "οὗ ἡ Ἀκροστιχίς· Τοὺς σοὺς γονεῖς Πάναγνε μέλπω προφρόνως."
 
-meMA.C1.title = ""
-meMA.C1.verse = ""
+meMA.C1.title = titles_gr_GR_cog.KanonTonTheopatoron
+meMA.C1.verse = prayers_gr_GR_cog.verse_SaintsM.text
 
 meMA.Ode1C11.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C11.mode = misc_gr_GR_cog.Mode2
@@ -101,8 +101,8 @@ meMA.Ode1C14.mode = misc_gr_GR_cog.Mode2
 meMA.Ode1C14.melody = he.h.m2_gr_GR_cog.EnVythoKatestrose.name
 meMA.Ode1C14.text = "Σωτηρίας πάσης ἀρχηγοί, ὁ μακαριώτατος, Ἰωακεὶμ καὶ ἡ Ἄννα ἡ ἔνδοξος, τὴν ἁγνὴν καὶ ἄμωμον, καὶ πανάχραντον Θεοτόκον ἐγέννησαν, τῆς θεοσεβείας, ταύτην εἰληφότες τὴν ἀντίδοσιν."
 
-meMA.C2.title = ""
-meMA.C2.verse = ""
+meMA.C2.title = titles_gr_GR_cog.KanonTouMartyros
+meMA.C2.verse = prayers_gr_GR_cog.verse_SaintM.text
 
 meMA.Ode1C21.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C21.mode = misc_gr_GR_cog.Mode8

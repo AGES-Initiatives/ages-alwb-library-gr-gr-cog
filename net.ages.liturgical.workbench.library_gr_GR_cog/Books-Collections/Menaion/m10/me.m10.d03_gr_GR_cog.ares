@@ -1,8 +1,8 @@
 A_Resource_Whose_Name = me.m10.d03_gr_GR_cog
 
 meDate.text = "Τῌ Γʹ ΟΚΤΩΒΡΙΟΥ"
-meCommemoration.text = "Μνήμη τοῦ Ἁγίου Ἱερομάρτυρος Διονυσίου τοῦ Ἀρεοπαγίτου." //full title of day
-meShortCommemoration1.text = "Μνήμη τοῦ Ἁγίου Ἱερομάρτυρος Διονυσίου τοῦ Ἀρεοπαγίτου."
+meCommemoration.text = "Μνήμη τοῦ Ἁγίου Ἱερομάρτυρος Διονυσίου τοῦ Ἀρεοπαγίτου" //full title of day
+meShortCommemoration1.text = "Μνήμη τοῦ Ἁγίου Διονυσίου τοῦ Ἀρεοπαγίτου"
 meInsert1 = "καὶ τοῦ ἁγίου ἐνδόξου ἱερομάρτυρος Διονυσίου τοῦ Ἀρεοπαγίτου, " //for use in petitions and dismissal
 meInsert2 = "οὗ καὶ τὴν μνήμην ἐπιτελοῦμεν· " //for use in petitions and dismissal
 meNote.text = ""
@@ -49,7 +49,7 @@ meVE.AposTheotokion.text = "Ἀπὸ πάσης με θλίψεως, καὶ �
 
 meVE.AposStavrotheotokion.mode = misc_gr_GR_cog.Mode4
 meVE.AposStavrotheotokion.melody = he.a.m4_gr_GR_cog.OsGennaionEnMartysi.name
-meVE.AposStavrotheotokion.text = "Ὡς ἑώρακε Κύριε, ἡ Παρθένος καὶ Μήτηρ σου, ἐν Σταυρῷ κρεμάμενον, ἐπωδύρετο, καὶ θρηνῳδοῦσα ἐφθέγγετο· Τί σοι ἀνταπέδωκαν, οἱ πολλῶν σου δωρεῶν, ἀπολαύσαντες Δέσποτα; Ἀλλὰ δέομαι· Μὴ με μόνην ἐάσῃς ἐν τῷ κόσμῳ, ἀλλὰ σπεῦσον ἀναστῆναι, συνανιστῶν τους προπάτορας."
+meVE.AposStavrotheotokion.text = oc.m4.d6_gr_GR_cog.ocMA.AposTheotokion.text
 
 meVE.GeneralApolytikion1.mode = misc_gr_GR_cog.Mode4
 meVE.GeneralApolytikion1.melody = ""
@@ -59,8 +59,8 @@ meVE.GeneralApolytikion1.name = "Διονύσιε."
 meMA.C1Poet = poets_gr_GR_cog.Theofanous
 meMA.C1Acrostic.text = "οὗ ἡ Ἀκροστιχίς. Τὸν νοῦν γεραίρω τῶν σοφῶν διδαγμάτων."
 
-meMA.C1.title = ""
-meMA.C1.verse = ""
+meMA.C1.title = titles_gr_GR_cog.KanonTouAgiou
+meMA.C1.verse = prayers_gr_GR_cog.verse_SaintM.text
 
 meMA.Ode1C11.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C11.mode = misc_gr_GR_cog.Mode8

@@ -1,10 +1,10 @@
 A_Resource_Whose_Name = me.m11.d04_gr_GR_cog
 
 meDate.text = "Τῌ Δʹ ΝΟΕΜΒΡΙΟΥ"
-meCommemoration.text = "Μνήμη τοῦ Ὁσίου Πατρὸς ἡμῶν, Ἰωαννικίου τοῦ Μεγάλου, καὶ τῶν Ἁγίων Ἱερομαρτύρων, Νικάνδρου, Ἐπισκόπου Μύρων, καὶ Ἑρμαίου Πρεσβυτέρου." // full title of day
-meShortCommemoration1.text = ""
-meInsert1 = "καὶ τοῦ Ὁσίου Πατρὸς ἡμῶν, Ἰωαννικίου τοῦ Μεγάλου, καὶ τῶν ἁγίων Ἱερομαρτύρων, Νικάνδρου, Ἐπισκόπου Μύρων, καὶ Ἑρμαίου Πρεσβυτέρου, " // for use in petitions and dismissal
-meInsert2 = "ὧν καὶ τὴν μνήμην ἐπιτελοῦμεν· " // for use in petitions and dismissal
+meCommemoration.text = "Μνήμη τοῦ Ὁσίου Πατρὸς ἡμῶν Ἰωαννικίου τοῦ Μεγάλου, καὶ τῶν Ἁγίων Ἱερομαρτύρων, Νικάνδρου, Ἐπισκόπου Μύρων, καὶ Ἑρμαίου Πρεσβυτέρου." // full title of day
+meShortCommemoration1.text = "Μνήμη τοῦ Ὁσίου Πατρὸς ἡμῶν Ἰωαννικίου τοῦ Μεγάλου"
+meInsert1 = "καὶ τοῦ Ὁσίου Πατρὸς ἡμῶν, Ἰωαννικίου τοῦ Μεγάλου," // for use in petitions and dismissal
+meInsert2 = "οὗ καὶ τὴν μνήμην ἐπιτελοῦμεν· " // for use in petitions and dismissal
 meNote.text = ""
 meLE.commemoration1 = "Μνήμη τοῦ Ὁσίου Πατρὸς ἡμῶν, Ἰωαννικίου τοῦ Μεγάλου, καὶ τῶν Ἁγίων Ἱερομαρτύρων, Νικάνδρου, Ἐπισκόπου Μύρων, καὶ Ἑρμαίου Πρεσβυτέρου."
 meLE.commemoration2 = ""
@@ -79,8 +79,8 @@ meMA.C1Acrostic.text = "οὗ ἡ Ἀκροστιχίς· Τοῦ Προδρό
 
 meMA.C2Poet = poets_gr_GR_cog.Iosif
 
-meMA.C1.title = ""
-meMA.C1.verse = ""
+meMA.C1.title = titles_gr_GR_cog.KanonTouOsiou
+meMA.C1.verse = prayers_gr_GR_cog.verse_DevoutMan.text
 
 meMA.Ode1C11.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C11.mode = misc_gr_GR_cog.Mode4
@@ -102,8 +102,8 @@ meMA.Ode1C1T.mode = misc_gr_GR_cog.Mode4
 meMA.Ode1C1T.melody = he.h.m4_gr_GR_cog.AnoixoToStomaMou.name
 meMA.Ode1C1T.text = "Πεσόντων ἀνάκλησις, καὶ ἱσταμένων βεβαίωσις, ὑπάρχεις Πανάμωμε· ὅθεν σου δέομαι, συμπεσόντα μου, τὸν νοῦν τῇ ἁμαρτίᾳ, ἀνόρθωσον Δέσποινα, ὅπως δοξάζω σε."
 
-meMA.C2.title = ""
-meMA.C2.verse = ""
+meMA.C2.title = titles_gr_GR_cog.KanonTonIeromartyron
+meMA.C2.verse = prayers_gr_GR_cog.verse_SaintsM.text
 
 meMA.Ode1C21.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C21.mode = misc_gr_GR_cog.Mode4

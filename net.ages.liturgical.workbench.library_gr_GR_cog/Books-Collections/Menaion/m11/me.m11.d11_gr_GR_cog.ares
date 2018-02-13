@@ -2,8 +2,8 @@ A_Resource_Whose_Name = me.m11.d11_gr_GR_cog
 
 meDate.text = "Τῌ ΙΑʹ ΝΟΕΜΒΡΙΟΥ"
 meCommemoration.text = "Μνήμη τῶν Ἁγίων Μαρτύρων Μηνᾶ, Βίκτωρος καὶ Βικεντίου· καὶ τῆς Ἁγίας Μάρτυρος Στεφανίδος· καὶ τοῦ Ὁσίου Πατρὸς ἡμῶν καὶ Ὁμολογητοῦ Θεοδώρου τοῦ Στουδίτου." // full title of day
-meShortCommemoration1.text = ""
-meInsert1 = "καὶ τῶν ἁγίων Μαρτύρων Μηνᾶ, Βίκτωρος καὶ Βικεντίου, καὶ τῆς ἁγίας Μάρτυρος Στεφανίδος, καὶ τοῦ ὁσίου Πατρὸς ἡμῶν καὶ Ὁμολογητοῦ Θεοδώρου τοῦ Στουδίτου, " // for use in petitions and dismissal
+meShortCommemoration1.text = "Μνήμη τῶν Ἁγίων Μαρτύρων Μηνᾶ, Βίκτωρος καὶ Βικεντίου· καὶ τῆς Ἁγίας Μάρτυρος Στεφανίδος"
+meInsert1 = "καὶ τῶν ἁγίων Μαρτύρων Μηνᾶ, Βίκτωρος καὶ Βικεντίου, καὶ τῆς ἁγίας Μάρτυρος Στεφανίδος," // for use in petitions and dismissal
 meInsert2 = "ὧν καὶ τὴν μνήμην ἐπιτελοῦμεν· " // for use in petitions and dismissal
 meNote.text = ""
 meLE.commemoration1 = "Μνήμη τῶν ἁγίων Μαρτύρων Μηνᾶ, Βίκτωρος καὶ Βικεντίου· καὶ τοῦ ὁσίου Πατρὸς ἡμῶν καὶ Ὁμολογητοῦ Θεοδώρου τοῦ Στουδίτου."
@@ -96,8 +96,8 @@ meMA.C1Acrostic.text = "οὗ ἡ Ἀκροστιχίς· Τιμῶ σε, Μά
 meMA.C2Poet = poets_gr_GR_cog.Theofanous
 meMA.C2Acrostic.text = "ἔχων Ἀκροστιχίδα· Τὸν κλεινὸν Θεόδωρον ἐν ᾄσμασι τοῖς δε γεραίρω."
 
-meMA.C1.title = ""
-meMA.C1.verse = ""
+meMA.C1.title = titles_gr_GR_cog.KanonTouAgiou
+meMA.C1.verse = prayers_gr_GR_cog.verse_SaintM.text
 
 meMA.Ode1C11.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C11.mode = misc_gr_GR_cog.Mode4
@@ -119,8 +119,8 @@ meMA.Ode1C1T.mode = misc_gr_GR_cog.Mode4
 meMA.Ode1C1T.melody = he.h.m4_gr_GR_cog.AnoixoToStomaMou.name
 meMA.Ode1C1T.text = "Ὡς ἔμψυχος τράπεζα, ἄρτον χωρεῖς τῆς ζωῆς ἡμῶν, ὡς βάτος βαστάσασα, οὐ κατεφλέχθης τὸ πῦρ, καὶ ὦς ἄμπελος, ἀπότιστος βλαστάνεις, τὸν βότρυν Πανάμωμε, τόν ἀγεώργητον."
 
-meMA.C2.title = ""
-meMA.C2.verse = ""
+meMA.C2.title = titles_gr_GR_cog.KanonTouOsiou
+meMA.C2.verse = prayers_gr_GR_cog.verse_DevoutMan.text
 
 meMA.Ode1C21.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C21.mode = misc_gr_GR_cog.Mode8

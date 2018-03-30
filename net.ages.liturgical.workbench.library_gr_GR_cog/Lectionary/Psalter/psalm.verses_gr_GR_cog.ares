@@ -1,6 +1,11 @@
 A_Resource_Whose_Name = psalm.verses_gr_GR_cog 
 
-//Vespers Prokeimena
+//Vespers
+
+psVE.lihc.v1.info = "140:1"
+psVE.lihc.v1.text = "Κύριε ἐκέκραξα πρὸς σέ, εἰσάκουσόν μου, εἰσάκουσόν μου, Κύριε. Κύριε, ἐκέκραξα πρὸς σέ, εἰσάκουσόν μου· πρόσχες τῇ φωνῇ τῆς δεήσεώς μου, ἐν τῷ κεκραγέναι με πρὸς σέ. Εἰσάκουσόν μου, Κύριε."
+psVE.lihc.v2.info = "140:2"
+psVE.lihc.v2.text = "Κατευθυνθήτω ἡ προσευχή μου, ὡς θυμίαμα ἐνώπιόν σου, ἔπαρσις τῶν χειρῶν μου θυσία ἑσπερινή. Εἰσάκουσόν μου, Κύριε."
 
 psVE.prokeimenon.sunday.info = "133:1"
 psVE.prokeimenon.sunday.v1.text = "Ἰδοὺ δὴ εὐλογεῖτε τὸν Κύριον, πάντες οἱ δοῦλοι Κυρίου."
@@ -64,6 +69,159 @@ psVE.angels.aposverses.info = "103:4, 1"
 psVE.angels.aposverses.v1.text = "Ὁ ποιῶν τοὺς ἀγγέλους αὐτοῦ πνεύματα καὶ τοὺς λειτουργοὺς αὐτοῦ πυρὸς φλόγα."
 psVE.angels.aposverses.v2.text = "Εὐλόγει, ἡ ψυχή μου, τὸν Κύριον. Κύριε ὁ Θεός μου, ἐμεγαλύνθης σφόδρα."
 
+psVE.annunciation.aposverses.info = "95:2, 1"
+psVE.annunciation.aposverses.v1.text = "Εὐαγγελίζεσθε ἡμέραν ἐξ ἡμέρας τὸ σωτήριον τοῦ Θεοῦ ἡμῶν."
+psVE.annunciation.aposverses.v2.text = "Ἄσατε τῷ Κυρίῳ ᾆσμα καινόν, ᾄσατε τῷ Κυρίῳ πᾶσα ἡ γῆ."
+
+psVE.apostle.aposverse.info = "18:5, 2"
+psVE.apostle.aposverse.v1.text = "Εἰς πᾶσαν τὴν γῆν ἐξῆλθεν ὁ φθόγγος αὐτοῦ καὶ εἰς τὰ πέρατα τῆς οἰκουμένης τὰ ῥήματα αὐτοῦ."
+psVE.apostle.aposverse.v2.text = "Οἱ οὐρανοὶ διηγοῦνται δόξαν Θεοῦ, ποίησιν δὲ χειρῶν αὐτοῦ ἀναγγέλλει τὸ στερέωμα."
+
+psVE.apostles.aposverse.info = "18:5, 2"
+psVE.apostles.aposverse.v1.text = "Εἰς πᾶσαν τὴν γῆν ἐξῆλθεν ὁ φθόγγος αὐτῶν καὶ εἰς τὰ πέρατα τῆς οἰκουμένης τὰ ῥήματα αὐτῶν."
+psVE.apostles.aposverse.v2.text = "Οἱ οὐρανοὶ διηγοῦνται δόξαν Θεοῦ, ποίησιν δὲ χειρῶν αὐτοῦ ἀναγγέλλει τὸ στερέωμα."
+
+psVE.ascension.aposverse.info = "46:6, 2"
+psVE.ascension.aposverse.v1.text = "Ἀνέβη ὁ Θεὸς ἐν ἀλαλαγμῷ, Κύριος ἐν φωνῇ σάλπιγγος."
+psVE.ascension.aposverse.v2.text = "Πάντα τὰ ἔθνη κροτήσατε χεῖρας, ἀλαλάξατε τῷ Θεῷ ἐν φωνῇ ἀγαλλιάσεως."
+
+psVE.beforechristmas.aposverse.info = "4:3, 1"
+psVE.beforechristmas.aposverse.v1.text = "Ὁ Θεὸς ἀπὸ Θαιμὰν ἥξει, καὶ ὁ Ἅγιος ἐξ ὄρους κατασκίου δασέος."
+psVE.beforechristmas.aposverse.v2.text = "Κύριε, εἰσακήκοα τὴν ἀκοήν σου, καὶ ἐφοβήθην, Κύριε, κατενόησα τὰ ἔργα σου, καὶ ἐξέστην."
+
+psVE.blindman.aposverse.info = "118:132, 133"
+psVE.blindman.aposverse.v1.text = "Ἐπίβλεψον ἐπ' ἐμὲ καὶ ἐλέησόν με."
+psVE.blindman.aposverse.v2.text = "Τὰ διαβήματά μου κατεύθυνον κατὰ τὸ λόγιόν σου."
+
+psVE.christmas.aposverse.info = "109:1, 3-4"
+psVE.christmas.aposverse.v1.text = "Εἶπεν ὁ Κύριος τῷ Κυρίῳ μου· Κάθου ἐκ δεξιῶν μου, ἕως ἂν θῶ τοὺς ἐχθρούς σου ὑποπόδιον τῶν ποδῶν σου."
+psVE.christmas.aposverse.v2.text = "Ἐκ γαστρὸς πρὸ ἑωσφόρου ἐγέννησά σε. Ὤμοσε Κύριος καὶ οὐ μεταμεληθήσεται."
+
+psVE.conceptionofanne.aposverse.info = "131:11"
+psVE.conceptionofanne.aposverse.v1.text = "Ὤμοσε Κύριος τῷ Δαυῒδ ἀλήθειαν καὶ οὐ μὴ ἀθετήσει αὐτήν."
+psVE.conceptionofanne.aposverse.v2.text = "Ἐκ καρποῦ τῆς κοιλίας σου θήσομαι ἐπὶ τοῦ θρόνου σου."
+
+psVE.consecration.aposverse.info = "25:8, 73:12"
+psVE.consecration.aposverse.v1.text = "Κύριε, ἠγάπησα εὐπρέπειαν οἴκου σου καὶ τόπον σκηνώματος δόξης σου."
+psVE.consecration.aposverse.v2.text = "Τῷ οἴκῳ σου πρέπει ἁγίασμα, Κύριε, εἰς μακρότητα ἡμερῶν."
+
+psVE.cross.aposverse.info = "98:5, 73:12"
+psVE.cross.aposverse.v1.text = "Ὑψοῦτε Κύριον τὸν Θεὸν ἡμῶν καὶ προσκυνεῖτε τῷ ὑποποδίῳ τῶν ποδῶν αὐτοῦ."
+psVE.cross.aposverse.v2.text = "Ὁ δὲ Θεὸς βασιλεὺς ἡμῶν πρὸ αἰώνων, εἰργάσατο σωτηρίαν ἐν μέσῳ τῆς γῆς."
+
+psVE.deceased.aposverse.info = "65:5, 24:13, 101:13"
+psVE.deceased.aposverse.v1.text = "Μακάριοι οὓς ἐξελέξω καὶ προσελάβου, Κύριε."
+psVE.deceased.aposverse.v2.text = "Αἱ ψυχαὶ αὐτῶν ἐν ἀγαθοῖς αὐλισθήσονται."
+psVE.deceased.aposverse.v3.text = "Καὶ τὸ μνημόσυνον αὐτῶν εἰς γενεὰν καὶ γενεάν."
+
+psVE.devoutmen.aposverse.info = "111:1, 115:5, 115:3, 149:5"
+psVE.devoutmen.aposverse.v1.text = "Μακάριος ἀνὴρ ὁ φοβούμενος τὸν Κύριον, ἐν ταῖς ἐντολαῖς αὐτοῦ θελήσει σφόδρα."
+psVE.devoutmen.aposverse.v2.text = "Τίμιος ἐναντίον Κυρίου ὁ θάνατος τοῦ ὁσίου αὐτοῦ."
+psVE.devoutmen.aposverse.v3.text = "Τί ἀνταποδώσωμεν τῷ Κυρίῳ περὶ πάντων, ὧν ἀνταπέδωκεν ἡμῖν;"
+psVE.devoutmen.aposverse.v4.text = "Καυχήσονται ὅσιοι ἐν δόξῃ καὶ ἀγαλλιάσονται ἐπὶ τῶν κοιτῶν αὐτῶν."
+
+psVE.dormition.aposverse.info = "131:8, 11"
+psVE.dormition.aposverse.v1.text = "Ἀνάστηθι, Κύριε, εἰς τὴν ἀνάπαυσίν σου, σὺ καὶ ἡ κιβωτὸς τοῦ ἁγιάσματός σου."
+psVE.dormition.aposverse.v2.text = "Ὤμοσε Κύριος τῷ Δαυῒδ ἀλήθειαν καὶ οὐ μὴ ἀθετήσει αὐτήν· Ἐκ καρποῦ τῆς κοιλίας σου θήσομαι ἐπὶ τοῦ θρόνου σου."
+
+psVE.earthquake.aposverse.info = "59:4, 103:32"
+psVE.earthquake.aposverse.v1.text = "Συνέσεισας τὴν γῆν καὶ συνετάραξας αὐτήν· ἴασαι τὰ συντρίμματα αὐτῆς ὅτι ἐσαλεύθη."
+psVE.earthquake.aposverse.v2.text = "Ὁ ἐπιβλέπων ἐπὶ τὴν γῆν καὶ ποιῶν αὐτὴν τρέμειν, ὁ ἁπτόμενος τῶν ὀρέων καὶ καπνίζονται."
+
+psVE.entry.aposverse.info = "44:15, 16"
+psVE.entry.aposverse.v1.text = "Ἀπενεχθήσονται τῷ βασιλεῖ παρθένοι ὀπίσω αὐτῆς, αἱ πλησίον αὐτῆς ἀπενεχθήσονταί σοι."
+psVE.entry.aposverse.v2.text = "Ἀπενεχθήσονται ἐν εὐφροσύνῃ καὶ ἀγαλλιάσει, ἀχθήσονται εἰς ναὸν βασιλέως."
+
+psVE.epiphany.aposverse.info = "113:3, 113:5, 41:7, 76:17"
+psVE.epiphany.aposverse.v1.text = "Ἡ θάλασσα εἶδε καὶ ἔφυγεν, ὁ Ἰορδάνης ἐστράφη εἰς τὰ ὀπίσω."
+psVE.epiphany.aposverse.v2.text = "Τί σοί ἐστι, θάλασσα, ὅτι ἔφυγες, καὶ σύ, Ἰορδάνη, ὅτι ἐστράφης εἰς τὰ ὀπίσω;"
+psVE.epiphany.aposverse.v3.text = "Διὰ τοῦτο μνησθήσομαί σου ἐκ γῆς Ἰορδάνου καὶ Ἐρμωνιείμ."
+psVE.epiphany.aposverse.v4.text = "Εἴδοσάν σε ὕδατα, ὁ Θεός, εἴδοσάν σε ὕδατα καὶ ἐφοβήθησαν."
+
+psVE.equaltoapostles.aposverse.info = "88:20, 44:8"
+psVE.equaltoapostles.aposverse.v1.text = "Ὕψωσα ἐκλεκτὸν ἐκ τοῦ λαοῦ μου. Εὗρον Δαυῒδ τὸν δοῦλόν μου, ἐν ἐλέει ἁγίῳ μου ἔχρισα αὐτόν."
+psVE.equaltoapostles.aposverse.v2.text = "Διὰ τοῦτο ἔχρισέ σε ὁ Θεὸς ὁ Θεός σου."
+
+psVE.forefathers.aposverse.info = "Δαν. 3:52a, 27"
+psVE.forefathers.aposverse.v1.text = "Εὐλογητὸς εἶ Κύριε ὁ Θεὸς τῶν πατέρων ἡμῶν, καὶ αἰνετὸν καὶ δεδοξασμένον τὸ ὄνομά σου εἰς τοὺς αἰῶνας."
+psVE.forefathers.aposverse.v2.text = "Ὅτι δίκαιος εἶ ἐπὶ πᾶσιν, οἷς ἐποίησας ἡμῖν, καὶ ἐπὶ τὴν πόλιν τὴν ἁγίαν τὴν τῶν Πατέρων ἡμῶν Ἱερουσαλήμ."
+
+psVE.forerunner.aposverse.info = "91:13, 63:11, 131:17, 131:1, Ὠδὴ 9:1, Ὠδὴ 9:8, Ὠδὴ 9:7"
+psVE.forerunner.aposverse.v1.text = "Δίκαιος ὡς φοῖνιξ ἀνθήσει καὶ ὡσεὶ κέδρος ἡ ἐν τῷ Λιβάνῳ πληθυνθήσεται."
+psVE.forerunner.aposverse.v2.text = "Εὐφρανθήσεται δίκαιος ἐν Κυρίῳ καὶ ἐλπιεῖ ἐπ' αὐτόν."
+psVE.forerunner.aposverse.v3.text = "Ἐκεῖ ἐξανατελῶ κέρας τῷ Δαυΐδ, ἡτοίμασα λύχνον τῷ χριστῷ μου."
+psVE.forerunner.aposverse.v4.text = "Μνήσθητι, Κύριε, τοῦ Δαυῒδ καὶ πάσης τῆς πραότητος αὐτοῦ."
+psVE.forerunner.aposverse.v5.text = "Εὐλογητὸς Κύριος ὁ Θεὸς τοῦ Ἰσραήλ, ὅτι ἐπεσκέψατο καὶ ἐποίησε λύτρωσιν τῷ λαῷ αὐτοῦ."
+psVE.forerunner.aposverse.v6.text = "Καὶ σύ, Παιδίον, Προφήτης Ὑψίστου κληθήσῃ· προπορεύσῃ γὰρ πρὸ προσώπου Κυρίου ἑτοιμάσαι ὁδοὺς αὐτοῦ."
+psVE.forerunner.aposverse.v7.text = "Λατρεύειν αὐτῷ ἐν ὁσιότητι καὶ δικαιοσύνῃ ἐνώπιον αὐτοῦ, πάσας τὰς ἡμέρας τῆς ζωῆς ἡμῶν."
+
+psVE.greatmartyrs.aposverse.info = "91:13, 14"
+psVE.greatmartyrs.aposverse.v1.text = "Δίκαιος ὡς φοῖνιξ ἀνθήσει καὶ ὡσεὶ κέδρος ἡ ἐν τῷ Λιβάνῳ πληθυνθήσεται."
+psVE.greatmartyrs.aposverse.v2.text = "Πεφυτευμένοι ἐν τῷ οἴκῳ Κυρίου, ἐν ταῖς αὐλαῖς τοῦ Θεοῦ ἡμῶν ἐξανθήσουσιν."
+psVE.greatmartyrs.aposverse.v3.text = "Πεφυτευμένος ἐν τῷ οἴκῳ Κυρίου, ἐν ταῖς αὐλαῖς τοῦ Θεοῦ ἡμῶν ἐξανθήσει."
+
+psVE.hierarchs.aposverse.info = "48:4, 131:9, 36:30, 149:5, Παρ. 10:32a-33a, 115:5"
+psVE.hierarchs.aposverse.v1.text = "Τὸ στόμα μου λαλήσει σοφίαν καὶ ἡ μελέτη τῆς καρδίας μου σύνεσιν."
+psVE.hierarchs.aposverse.v2.text = "Οἱ ἱερεῖς σου, Κύριε, ἐνδύσονται δικαιοσύνην, καὶ οἱ ὅσιοί σου ἀγαλλιάσονται."
+psVE.hierarchs.aposverse.v3.text = "Στόμα δικαίου μελετήσει σοφίαν, καὶ ἡ γλῶσσα αὐτοῦ λαλήσει κρίσιν."
+psVE.hierarchs.aposverse.v4.text = "Καυχήσονται ὅσιοι ἐν δόξῃ καὶ ἀγαλλιάσονται ἐπὶ τῶν κοιτῶν αὐτῶν."
+psVE.hierarchs.aposverse.v5.text = "Στόμα δικαίου ἀποστάζει σοφίαν, χείλη δὲ ἀνδρῶν ἐπίστανται χάριτας."
+psVE.hierarchs.aposverse.v6.text = "Τίμιος ἐναντίον Κυρίου ὁ θάνατος τοῦ ὁσίου αὐτοῦ."
+
+psMA.holyfathers.laudsverse.info = "Δαν. 3:52a. Ψαλ. 49:5"
+psMA.holyfathers.laudsverse.v1.text = "Εὐλογητὸς εἶ Κύριε ὁ Θεὸς τῶν πατέρων ἡμῶν, καὶ αἰνετὸν καὶ δεδοξασμένον τὸ ὄνομά σου εἰς τοὺς αἰῶνας."
+psMA.holyfathers.laudsverse.v2.text = "Συναγάγετε αὐτῷ τοὺς ὁσίους αὐτοῦ, τοὺς διατιθεμένους τὴν διαθήκην αὐτοῦ ἐπὶ θυσίαις."
+
+psMA.holythursday.aposverse.info = "40:10, 7-8, 9"
+psMA.holythursday.aposverse.v1.text = "Ὁ ἐσθίων ἄρτους μου, ἐμεγάλυνεν ἐπ' ἐμὲ πτερνισμόν."
+psMA.holythursday.aposverse.v2.text = "Ἐξεπορεύετο ἔξω καὶ ἐλάλει ἐπὶ τὸ αὐτό. Κατ' ἐμοῦ ἐψιθύριζον πάντες οἱ ἐχθροί μου, κατ' ἐμοῦ ἐλογίζοντο κακά μοι."
+psMA.holythursday.aposverse.v3.text = "Λόγον παράνομον κατέθεντο κατ' ἐμοῦ· Mὴ ὁ κοιμώμενος οὐχὶ προσθήσει τοῦ ἀναστῆναι;"
+
+psMA.holyfriday.aposverse.info = "21:19, 68:22, 73:12"
+psMA.holyfriday.aposverse.v1.text = "Διεμερίσαντο τὰ ἱμάτιά μου ἑαυτοῖς καὶ ἐπὶ τὸν ἱματισμόν μου ἔβαλον κλῆρον."
+psMA.holyfriday.aposverse.v2.text = "Ἔδωκαν εἰς τὸ βρῶμά μου χολὴν καὶ εἰς τὴν δίψαν μου ἐπότισάν με ὄξος."
+psMA.holyfriday.aposverse.v3.text = "Ὁ δὲ Θεὸς βασιλεὺς ἡμῶν πρὸ αἰώνων, εἰργάσατο σωτηρίαν ἐν μέσῳ τῆς γῆς."
+
+psVE.indiction.aposverse.info = "64:2, 5, 12"
+psVE.indiction.aposverse.v1.text = "Σοὶ πρέπει ὕμνος, ὁ Θεός, ἐν Σιών, καὶ σοὶ ἀποδοθήσεται εὐχὴ ἐν Ἰερουσαλήμ."
+psVE.indiction.aposverse.v2.text = "Πλησθησόμεθα ἐν τοῖς ἀγαθοῖς τοῦ οἴκου σου· ἅγιος ὁ ναός σου, θαυμαστὸς ἐν δικαιοσύνῃ."
+psVE.indiction.aposverse.v3.text = "Εὐλόγησον τὸν στέφανον τοῦ ἐνιαυτοῦ τῆς χρηστότητός σου, Κύριε."
+
+psVE.martyrs.aposverse.info = "67:36, 15:3, 39:2"
+psVE.martyrs.aposverse.v1.text = "Θαυμαστὸς ὁ Θεὸς ἐν τοῖς ἁγίοις αὐτοῦ."
+psVE.martyrs.aposverse.v2.text = "Τοῖς ἁγίοις τοῖς ἐν τῇ γῇ αὐτοῦ ἐθαυμάστωσεν ὁ Κύριος."
+psVE.martyrs.aposverse.v3.text = "Ὑπομένων ὑπέμεινα τὸν Κύριον, καὶ προσέσχε μοι καὶ εἰσήκουσε τῆς δεήσεώς μου.."
+
+psMA.weekday.aposverse.info = "89:14, 15-16, 17"
+psMA.weekday.aposverse.v1.text = "Ἐνεπλήσθημεν τὸ πρωΐ τοῦ ἐλέους σου, Κύριε, καὶ ἠγαλλιασάμεθα καὶ εὐφράνθημεν ἐν πάσαις ταῖς ἡμέραις ἡμῶν· εὐφρανθείημεν ἀνθ' ὧν ἡμερῶν ἐταπείνωσας ἡμᾶς, ἐτῶν, ὧν εἴδομεν κακά. Καὶ ἴδε ἐπὶ τοὺς δούλους σου καὶ ἐπὶ τὰ ἔργα σου καὶ ὁδήγησον τοὺς υἱοὺς αὐτῶν."
+psMA.weekday.aposverse.v1a.text = "Ἐνεπλήσθημεν τὸ πρωΐ τοῦ ἐλέους σου, Κύριε, καὶ ἠγαλλιασάμεθα καὶ εὐφράνθημεν ἐν πάσαις ταῖς ἡμέραις ἡμῶν."
+psMA.weekday.aposverse.v1b.text = "Εὐφρανθείημεν ἀνθ' ὧν ἡμερῶν ἐταπείνωσας ἡμᾶς, ἐτῶν, ὧν εἴδομεν κακά. Καὶ ἴδε ἐπὶ τοὺς δούλους σου καὶ ἐπὶ τὰ ἔργα σου καὶ ὁδήγησον τοὺς υἱοὺς αὐτῶν."
+psMA.weekday.aposverse.v2.text = "Καὶ ἔστω ἡ λαμπρότης Κυρίου τοῦ Θεοῦ ἡμῶν ἐφ' ἡμᾶς, καὶ τὰ ἔργα τῶν χειρῶν ἡμῶν κατεύθυνον ἐφ' ἡμᾶς, καὶ τὸ ἔργον τῶν χειρῶν ἡμῶν κατεύθυνον."
+
+psMA.monday.kathismata.v1.info = ""
+psMA.monday.kathismata.v1.text = ""
+psMA.monday.kathismata.v2.info = ""
+psMA.monday.kathismata.v2.text = ""
+psMA.tuesday.kathismata.v1.info = ""
+psMA.tuesday.kathismata.v1.text = ""
+psMA.tuesday.kathismata.v2.info = ""
+psMA.tuesday.kathismata.v2.text = ""
+psMA.wednesday.kathismata.v1.info = ""
+psMA.wednesday.kathismata.v1.text = ""
+psMA.wednesday.kathismata.v2.info = ""
+psMA.wednesday.kathismata.v2.text = ""
+psMA.thursday.kathismata.v1.info = ""
+psMA.thursday.kathismata.v1.text = ""
+psMA.thursday.kathismata.v2.info = ""
+psMA.thursday.kathismata.v2.text = ""
+psMA.friday.kathismata.v1.info = ""
+psMA.friday.kathismata.v1.text = ""
+psMA.friday.kathismata.v2.info = ""
+psMA.friday.kathismata.v2.text = ""
+psMA.weekday.kathismata.v3.info = ""
+psMA.weekday.kathismata.v3.text = ""
+
+
 
 //Matins Prokeimena
 
@@ -91,10 +249,6 @@ psMA.christmas.prokeimenon.info = "109:3-4, 1"
 psMA.christmas.prokeimenon.v1.text = "Ἐκ γαστρὸς πρὸ ἑωσφόρου ἐγέννησά σε. Ὤμοσε Κύριος καὶ οὐ μεταμεληθήσεται."
 psMA.christmas.prokeimenon.v2.text = "Εἶπεν ὁ Κύριος τῷ Κυρίῳ μου· Κάθου ἐκ δεξιῶν μου, ἕως ἂν θῶ τοὺς ἐχθρούς σου ὑποπόδιον τῶν ποδῶν σου."
 
-psMA.constantine.prokeimenon.info = "88:20, 44:8"
-psMA.constantine.prokeimenon.v1.text = "Ὕψωσα ἐκλεκτὸν ἐκ τοῦ λαοῦ μου. Εὗρον Δαυῒδ τὸν δοῦλόν μου, ἐν ἐλέει ἁγίῳ μου ἔχρισα αὐτόν."
-psMA.constantine.prokeimenon.v2.text = "Διὰ τοῦτο ἔχρισέ σε ὁ Θεὸς ὁ Θεός σου."
-
 psMA.cross.prokeimenon.info = "97:3, 1"
 psMA.cross.prokeimenon.v1.text = "Εἴδοσαν πάντα τὰ πέρατα τῆς γῆς τὸ σωτήριον τοῦ Θεοῦ ἡμῶν."
 psMA.cross.prokeimenon.v2.text = "Ἄσατε τῷ Κυρίῳ ᾆσμα καινόν, ὅτι θαυμαστὰ ἐποίησεν ὁ Κύριος."
@@ -111,6 +265,10 @@ psMA.epiphany.prokeimenon.info = "113:3, 5"
 psMA.epiphany.prokeimenon.v1.text = "Ἡ θάλασσα εἶδε καὶ ἔφυγεν, ὁ Ἰορδάνης ἐστράφη εἰς τὰ ὀπίσω."
 psMA.epiphany.prokeimenon.v2.text = "Τί σοί ἐστι, θάλασσα, ὅτι ἔφυγες, καὶ σύ, Ἰορδάνη, ὅτι ἐστράφης εἰς τὰ ὀπίσω;"
 
+psMA.equaltoapostles.prokeimenon.info = "88:20, 44:8"
+psMA.equaltoapostles.prokeimenon.v1.text = "Ὕψωσα ἐκλεκτὸν ἐκ τοῦ λαοῦ μου. Εὗρον Δαυῒδ τὸν δοῦλόν μου, ἐν ἐλέει ἁγίῳ μου ἔχρισα αὐτόν."
+psMA.equaltoapostles.prokeimenon.v2.text = "Διὰ τοῦτο ἔχρισέ σε ὁ Θεὸς ὁ Θεός σου."
+
 psMA.forerunnerbirth.prokeimenon.info = "Ὠδὴ 9.8, 1"
 psMA.forerunnerbirth.prokeimenon.v1.text = "Καὶ σύ, Παιδίον, Προφήτης Ὑψίστου κληθήσῃ· προπορεύσῃ γὰρ πρὸ προσώπου Κυρίου ἑτοιμάσαι ὁδοὺς αὐτοῦ."
 psMA.forerunnerbirth.prokeimenon.v2.text = "Εὐλογητὸς Κύριος ὁ Θεὸς τοῦ Ἰσραήλ, ὅτι ἐπεσκέψατο καὶ ἐποίησε λύτρωσιν τῷ λαῷ αὐτοῦ."
@@ -125,7 +283,7 @@ psMA.hierarch1.prokeimenon.v2.text = "Ἀκούσατε ταῦτα, πάντ�
 
 psMA.hierarch2.prokeimenon.info = "48:4, 131:9"
 psMA.hierarch2.prokeimenon.v1.text = "Τὸ στόμα μου λαλήσει σοφίαν καὶ ἡ μελέτη τῆς καρδίας μου σύνεσιν."
-psMA.hierarch2.prokeimenon.v2.text = "Οἱ ἱερεῖς σου, Κύριε, ἐνδύσονται δικαιοσύνην, καὶ οἱ ὅσιοί σου ἀγαλλιάσει ἀγαλλιάσονται."
+psMA.hierarch2.prokeimenon.v2.text = "Οἱ ἱερεῖς σου, Κύριε, ἐνδύσονται δικαιοσύνην, καὶ οἱ ὅσιοί σου ἀγαλλιάσονται."
 
 psMA.hierarchs.prokeimenon.info = "131:9, 48:4"
 psMA.hierarchs.prokeimenon.v1.text = "Οἱ ἱερεῖς σου, Κύριε, ἐνδύσονται δικαιοσύνην, καὶ οἱ ὅσιοί σου ἀγαλλιάσει ἀγαλλιάσονται."
@@ -194,6 +352,12 @@ psMA.woman2.prokeimenon.v2.text = "Δίκαιος ὡς φοῖνιξ ἀνθ�
 psMA.woman3.prokeimenon.info = "63:2"
 psMA.woman3.prokeimenon.v1.text = "Εἰσάκουσον, ὁ Θεός, τῆς φωνῆς μου, ἐν τῷ δέεσθαί με πρὸς σέ."
 psMA.woman3.prokeimenon.v2.text = "Ἀπὸ φόβου ἐχθροῦ ἐξελοῦ τὴν ψυχήν μου."
+
+psMA.lauds.v1.info = "150:6, 148:1"
+psMA.lauds.v1.text = "Πᾶσα πνοὴ αἰνεσάτω τὸν Κύριον. Αἰνεῖτε τὸν Κύριον ἐκ τῶν οὐρανῶν· αἰνεῖτε αὐτὸν ἐν τοῖς ὑψίστοις. Σοὶ πρέπει ὕμνος τῷ Θεῷ."
+psMA.lauds.v2.info = "148:2"
+psMA.lauds.v2.text = "Αἰνεῖτε αὐτόν, πάντες οἱ ἄγγελοι αὐτοῦ· αἰνεῖτε αὐτόν, πᾶσαι αἱ δυνάμεις αὐτοῦ. Σοὶ πρέπει ὕμνος τῷ Θεῷ."
+
 
 
 //at Liturgy

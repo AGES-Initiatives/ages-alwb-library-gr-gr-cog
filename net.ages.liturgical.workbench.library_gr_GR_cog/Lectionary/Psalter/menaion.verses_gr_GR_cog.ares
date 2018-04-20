@@ -228,7 +228,7 @@ psLI.m02.d01.alleluia.v1.text = "Δίκαιος ὡς φοῖνιξ ἀνθή�
 psLI.m02.d01.alleluia.v2.info = ps_gr_GR_cog.psa91.v14.number
 psLI.m02.d01.alleluia.v2.text = "Πεφυτευμένοι ἐν τῷ οἴκῳ Κυρίου."
 
-psLI.m02.d02.antiphon1.v1.info = ps_gr_GR_cog.psa44.v2.number //"44:2"
+psLI.m02.d28.antiphon1.v1.info = ps_gr_GR_cog.psa44.v2.number //"44:2"
 psLI.m02.d02.antiphon1.v1.text = "Ἐξηρεύξατο ἡ καρδία μου λόγον ἀγαθόν· λέγω ἐγὼ τὰ ἔργα μου τῷ βασιλεῖ."
 psLI.m02.d02.antiphon1.v2.info = ps_gr_GR_cog.psa44.v2.number //"44:2"
 psLI.m02.d02.antiphon1.v2.text = "Ἡ γλῶσσά μου κάλαμος γραμματέως ὀξυγράφου."
@@ -502,5 +502,246 @@ psLI.m05.d25.alleluia.v1.info = ps_gr_GR_cog.psa91.v13.number
 psLI.m05.d25.alleluia.v1.text = "Δίκαιος ὡς φοῖνιξ ἀνθήσει."
 psLI.m05.d25.alleluia.v2.info = ps_gr_GR_cog.psa91.v14.number
 psLI.m05.d25.alleluia.v2.text = "Πεφυτευμένος ἐν τῷ οἴκῳ Κυρίου."
+
+
+//June
+
+psLI.m06.d02.prokeimenon.v1.info = ps_gr_GR_cog.psa115.v5.number
+psLI.m06.d02.prokeimenon.v1.text = "Τίμιος ἐναντίον Κυρίου ὁ θάνατος τῶν ὁσίου αὐτοῦ."
+psLI.m06.d02.prokeimenon.v2.info = ps_gr_GR_cog.psa115.v3.number
+psLI.m06.d02.prokeimenon.v2.text = "Τί ἀνταποδώσω τῷ Κυρίῳ περὶ πάντων;"
+psLI.m06.d02.alleluia.v1.info = ps_gr_GR_cog.psa131.v9.number
+psLI.m06.d02.alleluia.v1.text = "Οἱ ἱερεῖς σου, Κύριε, ἐνδύσονται δικαιοσύνην."
+psLI.m06.d02.alleluia.v2.info = ps_gr_GR_cog.psa131.v13.number
+psLI.m06.d02.alleluia.v2.text = "Ὅτι ἐξελέξατο Κύριος τὴν Σιών."
+
+psLI.m06.d04.prokeimenon.v1.info = ps_gr_GR_cog.psa48.v4.number
+psLI.m06.d04.prokeimenon.v1.text = "Τὸ στόμα μου λαλήσει σοφίαν."
+psLI.m06.d04.prokeimenon.v2.info = ps_gr_GR_cog.psa48.v2.number
+psLI.m06.d04.prokeimenon.v2.text = "Ἀκούσατε ταῦτα, πάντα τὰ ἔθνη."
+psLI.m06.d04.alleluia.v1.info = ps_gr_GR_cog.psa36.v30.number
+psLI.m06.d04.alleluia.v1.text = "Στόμα δικαίου μελετήσει σοφίαν."
+psLI.m06.d04.alleluia.v2.info = ps_gr_GR_cog.psa36.v31.number
+psLI.m06.d04.alleluia.v2.text = "Ὁ νόμος τοῦ Θεοῦ αὐτοῦ ἐν καρδίᾳ αὐτοῦ."
+
+psLI.m06.d09.prokeimenon.v1.info = ps_gr_GR_cog.psa48.v4.number
+psLI.m06.d09.prokeimenon.v1.text = "Τὸ στόμα μου λαλήσει σοφίαν."
+psLI.m06.d09.prokeimenon.v2.info = ps_gr_GR_cog.psa48.v2.number
+psLI.m06.d09.prokeimenon.v2.text = "Ἀκούσατε ταῦτα, πάντα τὰ ἔθνη."
+psLI.m06.d09.alleluia.v1.info = ps_gr_GR_cog.psa36.v30.number
+psLI.m06.d09.alleluia.v1.text = "Στόμα δικαίου μελετήσει σοφίαν."
+psLI.m06.d09.alleluia.v2.info = ps_gr_GR_cog.psa36.v31.number
+psLI.m06.d09.alleluia.v2.text = "Ὁ νόμος τοῦ Θεοῦ αὐτοῦ ἐν καρδίᾳ αὐτοῦ."
+
+psLI.m06.d14a.prokeimenon.v1.info = ps_gr_GR_cog.psa109.v4.number
+psLI.m06.d14a.prokeimenon.v1.text = "Σὺ ἱερεὺς εἰς τὸν αἰῶνα κατὰ τὴν τάξιν Μελχισεδέκ."
+psLI.m06.d14a.prokeimenon.v2.info = ps_gr_GR_cog.psa109.v1.number
+psLI.m06.d14a.prokeimenon.v2.text = "Εἶπεν ὁ Κύριος τῷ Κυρίῳ μου· Κάθου ἐκ δεξιῶν μου, ἕως ἂν θῶ τοὺς ἐχθρούς σου ὑποπόδιον τῶν ποδῶν σου."
+psLI.m06.d14a.alleluia.v1.info = ps_gr_GR_cog.psa111.v1.number
+psLI.m06.d14a.alleluia.v1.text = "Μακάριος ἀνὴρ ὁ φοβούμενος τὸν Κύριον."
+psLI.m06.d14a.alleluia.v2.info = ps_gr_GR_cog.psa111.v9.number
+psLI.m06.d14a.alleluia.v2.text = "Ἡ δικαιοσύνη αὐτοῦ μένει εἰς τὸν αἰῶνα."
+
+psLI.m06.d14b.prokeimenon.v1.info = ps_gr_GR_cog.psa115.v5.number
+psLI.m06.d14b.prokeimenon.v1.text = "Τίμιος ἐναντίον Κυρίου ὁ θάνατος τοῦ ὁσίου αὐτοῦ."
+psLI.m06.d14b.prokeimenon.v2.info = ps_gr_GR_cog.psa115.v3.number
+psLI.m06.d14b.prokeimenon.v2.text = "Τί ἀνταποδώσω τῷ Κυρίῳ περὶ πάντων, ὧν ἀνταπέδωκέ μοι;"
+
+psLI.m06.d19.prokeimenon.v1.info = ps_gr_GR_cog.psa18.v5.number
+psLI.m06.d19.prokeimenon.v1.text = "Εἰς πᾶσαν τὴν γῆν ἐξῆλθεν ὁ φθόγγος αὐτοῦ."
+psLI.m06.d19.prokeimenon.v2.info = ps_gr_GR_cog.psa18.v2.number
+psLI.m06.d19.prokeimenon.v2.text = "Οἱ οὐρανοὶ διηγοῦνται δόξαν Θεοῦ."
+psLI.m06.d19.alleluia.v1.info = ps_gr_GR_cog.psa88.v6.number
+psLI.m06.d19.alleluia.v1.text = "Ἐξομολογήσονται οἱ οὐρανοὶ τὰ θαυμάσιά σου, Κύριε."
+psLI.m06.d19.alleluia.v2.info = ps_gr_GR_cog.psa88.v8.number
+psLI.m06.d19.alleluia.v2.text = "Ὁ Θεὸς ἐνδοξαζόμενος ἐν βουλῇ ἁγίων."
+
+psLI.m06.d24.prokeimenon.v1.info = ps_gr_GR_cog.psa63.v11.number
+psLI.m06.d24.prokeimenon.v1.text = "Εὐφρανθήσεται δίκαιος ἐν Κυρίῳ."
+psLI.m06.d24.prokeimenon.v2.info = ps_gr_GR_cog.psa63.v2.number
+psLI.m06.d24.prokeimenon.v2.text = "Εἰσάκουσον, ὁ Θεός, τῆς φωνῆς μου."
+psLI.m06.d24.alleluia.v1.info = ps_gr_GR_cog.bode9.v1.number
+psLI.m06.d24.alleluia.v1.text = "Εὐλογητὸς Κύριος ὁ Θεὸς τοῦ Ἰσραήλ, ὅτι ἐπεσκέψατο καὶ ἐποίησε λύτρωσιν τῷ λαῷ αὐτοῦ."
+psLI.m06.d24.alleluia.v2.info = ps_gr_GR_cog.bode9.v8.number
+psLI.m06.d24.alleluia.v2.text = "Καὶ σύ, Παιδίον, Προφήτης Ὑψίστου κληθήσῃ· προπορεύσῃ γὰρ πρὸ προσώπου Κυρίου ἑτοιμάσαι ὁδοὺς αὐτοῦ."
+
+psLI.m06.d25.prokeimenon.v1.info = ps_gr_GR_cog.psa67.v36.number
+psLI.m06.d25.prokeimenon.v1.text = "Θαυμαστὸς ὁ Θεὸς ἐν τοῖς ἁγίοις αὐτοῦ."
+psLI.m06.d25.prokeimenon.v2.info = ps_gr_GR_cog.psa67.v27.number
+psLI.m06.d25.prokeimenon.v2.text = "Ἐν ἐκκλησίαις εὐλογεῖτε τὸν Θεόν."
+psLI.m06.d25.alleluia.v1.info = ps_gr_GR_cog.psa39.v2.number
+psLI.m06.d25.alleluia.v1.text = "Ὑπομένων ὑπέμεινα τὸν Κύριον."
+psLI.m06.d25.alleluia.v2.info = ps_gr_GR_cog.psa39.v3.number
+psLI.m06.d25.alleluia.v2.text = "Καὶ ἀνήγαγέ με ἐκ λάκκου ταλαιπωρίας."
+
+psLI.m06.d28.prokeimenon.v1.info = ps_gr_GR_cog.psa15.v3.number
+psLI.m06.d28.prokeimenon.v1.text = "Τοῖς ἁγίοις τοῖς ἐν τῇ γῇ αὐτοῦ ἐθαυμάστωσεν ὁ Κύριος."
+psLI.m06.d28.prokeimenon.v2.info = ps_gr_GR_cog.psa15.v8.number
+psLI.m06.d28.prokeimenon.v2.text = "Προωρώμην τὸν Κύριον ἐνώπιόν μου διαπαντός."
+psLI.m06.d28.alleluia.v1.info = ps_gr_GR_cog.psa132.v1.number
+psLI.m06.d28.alleluia.v1.text = "Ἰδοὺ δὴ τί καλὸν ἢ τί τερπνόν, ἀλλ' ἢ τὸ κατοικεῖν ἀδελφοὺς ἐπὶ τὸ αὐτό;"
+psLI.m06.d28.alleluia.v2.info = ps_gr_GR_cog.psa132.v3.number
+psLI.m06.d28.alleluia.v2.text = "Ὅτι ἐκεῖ ἐνετείλατο Κύριος τὴν εὐλογίαν, ζωὴν ἕως τοῦ αἰῶνος."
+
+psLI.m06.d29.prokeimenon.v1.info = ps_gr_GR_cog.psa18.v5.number
+psLI.m06.d29.prokeimenon.v1.text = "Εἰς πᾶσαν τὴν γῆν ἐξῆλθεν ὁ φθόγγος αὐτῶν."
+psLI.m06.d29.prokeimenon.v2.info = ps_gr_GR_cog.psa18.v2.number
+psLI.m06.d29.prokeimenon.v2.text = "Οἱ οὐρανοὶ διηγοῦνται δόξαν Θεοῦ."
+psLI.m06.d29.alleluia.v1.info = ps_gr_GR_cog.psa88.v6.number
+psLI.m06.d29.alleluia.v1.text = "Ἐξομολογήσονται οἱ οὐρανοὶ τὰ θαυμάσιά σου, Κύριε."
+psLI.m06.d29.alleluia.v2.info = ps_gr_GR_cog.psa88.v8.number
+psLI.m06.d29.alleluia.v2.text = "Ὁ Θεὸς ἐνδοξαζόμενος ἐν βουλῇ ἁγίων."
+
+psLI.m06.d30.prokeimenon.v1.info = ps_gr_GR_cog.psa18.v5.number
+psLI.m06.d30.prokeimenon.v1.text = "Εἰς πᾶσαν τὴν γῆν ἐξῆλθεν ὁ φθόγγος αὐτῶν."
+psLI.m06.d30.prokeimenon.v2.info = ps_gr_GR_cog.psa18.v2.number
+psLI.m06.d30.prokeimenon.v2.text = "Οἱ οὐρανοὶ διηγοῦνται δόξαν Θεοῦ."
+psLI.m06.d30.alleluia.v1.info = ps_gr_GR_cog.psa88.v6.number
+psLI.m06.d30.alleluia.v1.text = "Ἐξομολογήσονται οἱ οὐρανοὶ τὰ θαυμάσιά σου, Κύριε."
+psLI.m06.d30.alleluia.v2.info = ps_gr_GR_cog.psa88.v8.number
+psLI.m06.d30.alleluia.v2.text = "Ὁ Θεὸς ἐνδοξαζόμενος ἐν βουλῇ ἁγίων."
+
+
+//July
+
+psLI.m07.d01.prokeimenon.v1.info = ps_gr_GR_cog.psa15.v3.number
+psLI.m07.d01.prokeimenon.v1.text = "Τοῖς ἁγίοις τοῖς ἐν τῇ γῇ αὐτοῦ ἐθαυμάστωσεν ὁ Κύριος."
+psLI.m07.d01.prokeimenon.v2.info = ps_gr_GR_cog.psa15.v8.number
+psLI.m07.d01.prokeimenon.v2.text = "Προωρώμην τὸν Κύριον ἐνώπιόν μου διαπαντός."
+psLI.m07.d01.alleluia.v1.info = ps_gr_GR_cog.psa132.v1.number
+psLI.m07.d01.alleluia.v1.text = "Ἰδοὺ δὴ τί καλὸν ἢ τί τερπνόν, ἀλλ' ἢ τὸ κατοικεῖν ἀδελφοὺς ἐπὶ τὸ αὐτό;"
+psLI.m07.d01.alleluia.v2.info = ps_gr_GR_cog.psa132.v3.number
+psLI.m07.d01.alleluia.v2.text = "Ὅτι ἐκεῖ ἐνετείλατο Κύριος τὴν εὐλογίαν, ζωὴν ἕως τοῦ αἰῶνος."
+
+psLI.m07.d02.prokeimenon.v1.info = ps_gr_GR_cog.bode9_mag.v1.number //"Ὠδὴ 9a:1"
+psLI.m07.d02.prokeimenon.v1.text = "Μεγαλύνει ἡ ψυχή μου τὸν Κύριον, καὶ ἠγαλλίασε τὸ πνεῦμά μου ἐπὶ τῷ Θεῷ τῷ σωτῆρί μου."
+psLI.m07.d02.prokeimenon.v2.info = ps_gr_GR_cog.bode9_mag.v1.number //"Ὠδὴ 9a:2"
+psLI.m07.d02.prokeimenon.v2.text = "Ὅτι ἐπέβλεψεν ἐπὶ τὴν ταπείνωσιν τῆς δούλης αὐτοῦ· ἰδού γάρ, ἀπὸ τοῦ νῦν μακαριοῦσί με πᾶσαι αἱ γενεαί."
+psLI.m07.d02.alleluia.v1.info = ps_gr_GR_cog.psa44.v11.number
+psLI.m07.d02.alleluia.v1.text = "Ἄκουσον, θύγατερ, καὶ ἴδε καὶ κλῖνον τὸ οὖς σου."
+psLI.m07.d02.alleluia.v2.info = ps_gr_GR_cog.psa44.v13.number
+psLI.m07.d02.alleluia.v2.text = "Τὸ πρόσωπόν σου λιτανεύσουσιν οἱ πλούσιοι τοῦ λαοῦ."
+
+psLI.m07.d05.prokeimenon.v1.info = ps_gr_GR_cog.psa149.v5.number
+psLI.m07.d05.prokeimenon.v1.text = "Καυχήσονται ὅσιοι ἐν δόξῃ."
+psLI.m07.d05.prokeimenon.v2.info = ps_gr_GR_cog.psa149.v1.number
+psLI.m07.d05.prokeimenon.v2.text = "Ἄσατε τῷ Κυρίῳ ᾆσμα καινόν."
+psLI.m07.d05.alleluia.v1.info = ps_gr_GR_cog.psa111.v1.number
+psLI.m07.d05.alleluia.v1.text = "Μακάριος ἀνὴρ ὁ φοβούμενος τὸν Κύριον."
+psLI.m07.d05.alleluia.v2.info = ps_gr_GR_cog.psa111.v9.number
+psLI.m07.d05.alleluia.v2.text = "Ἡ δικαιοσύνη αὐτοῦ μένει εἰς τὸν αἰῶνα τοῦ αἰῶνος."
+
+psLI.m07.d09.prokeimenon.v1.info = ps_gr_GR_cog.psa149.v5.number
+psLI.m07.d09.prokeimenon.v1.text = "Καυχήσονται ὅσιοι ἐν δόξῃ."
+psLI.m07.d09.prokeimenon.v2.info = ps_gr_GR_cog.psa149.v1.number
+psLI.m07.d09.prokeimenon.v2.text = "Ἄσατε τῷ Κυρίῳ ᾆσμα καινόν."
+psLI.m07.d09.alleluia.v1.info = ps_gr_GR_cog.psa131.v9.number
+psLI.m07.d09.alleluia.v1.text = "Οἱ ἱερεῖς σου, Κύριε, ἐνδύσονται δικαιοσύνην."
+psLI.m07.d09.alleluia.v2.info = ps_gr_GR_cog.psa131.v13.number
+psLI.m07.d09.alleluia.v2.text = "Ὅτι ἐξελέξατο Κύριος τὴν Σιών."
+
+psLI.m07.d13.prokeimenon.v1.info = ps_gr_GR_cog.psa103.v4.number
+psLI.m07.d13.prokeimenon.v1.text = "Ὁ ποιῶν τοὺς ἀγγέλους αὐτοῦ πνεύματα."
+psLI.m07.d13.prokeimenon.v2.info = ps_gr_GR_cog.psa103.v1.number
+psLI.m07.d13.prokeimenon.v2.text = "Εὐλόγει, ἡ ψυχή μου, τὸν Κύριον."
+psLI.m07.d13.alleluia.v1.info = ps_gr_GR_cog.psa148.v1.number
+psLI.m07.d13.alleluia.v1.text = "Αἰνεῖτε τὸν Κύριον ἐκ τῶν οὐρανῶν."
+psLI.m07.d13.alleluia.v2.info = ps_gr_GR_cog.psa148.v2.number
+psLI.m07.d13.alleluia.v2.text = "Αἰνεῖτε αὐτόν, πάντες οἱ ἄγγελοι αὐτοῦ."
+
+psLI.m07.dHF.prokeimenon.v1.info = ps_gr_GR_cog.psa31.v11.number
+psLI.m07.dHF.prokeimenon.v1.text = "Εὐφράνθητε ἐπὶ Κύριον καὶ ἀγαλλιᾶσθε, δίκαιοι."
+psLI.m07.dHF.prokeimenon.v2.info = ps_gr_GR_cog.psa31.v1.number
+psLI.m07.dHF.prokeimenon.v2.text = "Μακάριοι ὧν ἀφέθησαν αἱ ἀνομίαι."
+psLI.m07.dHF.alleluia.v1.info = ps_gr_GR_cog.psa43.v2.number
+psLI.m07.dHF.alleluia.v1.text = "Ὁ Θεός, ἐν τοῖς ὠσὶν ἡμῶν ἠκούσαμεν"
+psLI.m07.dHF.alleluia.v2.info = ps_gr_GR_cog.psa43.v8.number
+psLI.m07.dHF.alleluia.v2.text = "Ἔσωσας γὰρ ἡμᾶς ἐκ τῶν θλιβόντων ἡμᾶς."
+
+psLI.m07.d15.prokeimenon.v1.info = ps_gr_GR_cog.psa67.v36.number
+psLI.m07.d15.prokeimenon.v1.text = "Θαυμαστὸς ὁ Θεὸς ἐν τοῖς ἁγίοις αὐτοῦ."
+psLI.m07.d15.prokeimenon.v2.info = ps_gr_GR_cog.psa67.v27.number
+psLI.m07.d15.prokeimenon.v2.text = "Ἐν ἐκκλησίαις εὐλογεῖτε τὸν Θεόν."
+psLI.m07.d15.alleluia.v1.info = ps_gr_GR_cog.psa33.v18.number
+psLI.m07.d15.alleluia.v1.text = "Ἐκέκραξαν οἱ δίκαιοι, καὶ ὁ Κύριος εἰσήκουσεν αὐτῶν."
+psLI.m07.d15.alleluia.v2.info = ps_gr_GR_cog.psa33.v20.number
+psLI.m07.d15.alleluia.v2.text = "Πολλαὶ αἱ θλίψεις τῶν δικαίων."
+
+psLI.m07.d20.prokeimenon.v1.info = ps_gr_GR_cog.psa109.v4.number
+psLI.m07.d20.prokeimenon.v1.text = "Σὺ ἱερεὺς εἰς τὸν αἰῶνα κατὰ τὴν τάξιν Μελχισεδέκ."
+psLI.m07.d20.prokeimenon.v2.info = ps_gr_GR_cog.psa109.v1.number
+psLI.m07.d20.prokeimenon.v2.text = "Εἶπεν ὁ Κύριος τῷ Κυρίῳ μου· Κάθου ἐκ δεξιῶν μου."
+psLI.m07.d20.alleluia.v1.info = ps_gr_GR_cog.psa98.v6.number
+psLI.m07.d20.alleluia.v1.text = "Μωυσῆς καὶ Ἀαρὼν ἐν τοῖς ἱερεῦσιν αὐτοῦ."
+psLI.m07.d20.alleluia.v2.info = ps_gr_GR_cog.psa33.v18.number
+psLI.m07.d20.alleluia.v2.text = "Ἐκέκραξαν οἱ δίκαιοι, καὶ ὁ Κύριος εἰσήκουσεν αὐτῶν."
+
+psLI.m07.d21.prokeimenon.v1.info = ps_gr_GR_cog.psa39.v2.number
+psLI.m07.d21.prokeimenon.v1.text = "Ὑπομένων ὑπέμεινα τὸν Κύριον."
+psLI.m07.d21.prokeimenon.v2.info = ps_gr_GR_cog.psa33.v20.number
+psLI.m07.d21.prokeimenon.v2.text = "Πολλαὶ αἱ θλίψεις τῶν δικαίων."
+psLI.m07.d21.alleluia.v1.info = ps_gr_GR_cog.psa111.v1.number
+psLI.m07.d21.alleluia.v1.text = "Μακάριος ἀνὴρ ὁ φοβούμενος τὸν Κύριον."
+psLI.m07.d21.alleluia.v2.info = ps_gr_GR_cog.psa111.v9.number
+psLI.m07.d21.alleluia.v2.text = "Ἡ δικαιοσύνη αὐτοῦ μένει εἰς τὸν αἰῶνα."
+
+psLI.m07.d22.prokeimenon.v1.info = ps_gr_GR_cog.psa67.v36.number
+psLI.m07.d22.prokeimenon.v1.text = "Θαυμαστὸς ὁ Θεὸς ἐν τοῖς ἁγίοις αὐτοῦ."
+psLI.m07.d22.prokeimenon.v2.info = ps_gr_GR_cog.psa67.v27.number
+psLI.m07.d22.prokeimenon.v2.text = "Ἐν ἐκκλησίαις εὐλογεῖτε τὸν Θεόν."
+psLI.m07.d22.alleluia.v1.info = ps_gr_GR_cog.psa39.v2.number
+psLI.m07.d22.alleluia.v1.text = "Ὑπομένων ὑπέμεινα τὸν Κύριον."
+psLI.m07.d22.alleluia.v2.info = ps_gr_GR_cog.psa33.v20.number
+psLI.m07.d22.alleluia.v2.text = "Πολλαὶ αἱ θλίψεις τῶν δικαίων."
+
+psLI.m07.d25.prokeimenon.v1.info = ps_gr_GR_cog.psa67.v36.number
+psLI.m07.d25.prokeimenon.v1.text = "Θαυμαστὸς ὁ Θεὸς ἐν τοῖς ἁγίοις αὐτοῦ."
+psLI.m07.d25.prokeimenon.v2.info = ps_gr_GR_cog.psa67.v27.number
+psLI.m07.d25.prokeimenon.v2.text = "Ἐν ἐκκλησίαις εὐλογεῖτε τὸν Θεόν."
+psLI.m07.d25.alleluia.v1.info = ps_gr_GR_cog.psa39.v2.number
+psLI.m07.d25.alleluia.v1.text = "Ὑπομένων ὑπέμεινα τὸν Κύριον."
+psLI.m07.d25.alleluia.v2.info = ps_gr_GR_cog.psa33.v20.number
+psLI.m07.d25.alleluia.v2.text = "Πολλαὶ αἱ θλίψεις τῶν δικαίων."
+
+psLI.m07.d26a.prokeimenon.v1.info = ps_gr_GR_cog.psa115.v3.number
+psLI.m07.d26a.prokeimenon.v1.text = "Τί ἀνταποδώσω τῷ Κυρίῳ περὶ πάντων, ὧν ἀνταπέδωκέ μοι;"
+psLI.m07.d26a.prokeimenon.v2.info = ps_gr_GR_cog.psa115.v5.number
+psLI.m07.d26a.prokeimenon.v2.text = "Τίμιος ἐναντίον Κυρίου ὁ θάνατος τῶν ὁσίων αὐτοῦ."
+psLI.m07.d26a.alleluia.v1.info = ps_gr_GR_cog.psa131.v9.number
+psLI.m07.d26a.alleluia.v1.text = "Οἱ ἱερεῖς σου, Κύριε, ἐνδύσονται δικαιοσύνην"
+psLI.m07.d26a.alleluia.v2.info = ps_gr_GR_cog.psa131.v13.number
+psLI.m07.d26a.alleluia.v2.text = "Ὅτι ἐξελέξατο Κύριος τὴν Σιών"
+
+psLI.m07.d26b.prokeimenon.v1.info = ps_gr_GR_cog.psa67.v36.number
+psLI.m07.d26b.prokeimenon.v1.text = "Θαυμαστὸς ὁ Θεὸς ἐν τοῖς ἁγίοις αὐτοῦ."
+psLI.m07.d26b.prokeimenon.v2.info = ps_gr_GR_cog.psa67.v27.number
+psLI.m07.d26b.prokeimenon.v2.text = "Ἐν ἐκκλησίαις εὐλογεῖτε τὸν Θεόν."
+psLI.m07.d26b.alleluia.v1.info = ps_gr_GR_cog.psa39.v2.number
+psLI.m07.d26b.alleluia.v1.text = "Ὑπομένων ὑπέμεινα τὸν Κύριον."
+psLI.m07.d26b.alleluia.v2.info = ps_gr_GR_cog.psa39.v3.number
+psLI.m07.d26b.alleluia.v2.text = "Καὶ ἔστησεν ἐπὶ πέτραν τοὺς πόδας μου."
+
+psLI.m07.d27.prokeimenon.v1.info = ps_gr_GR_cog.psa63.v11.number
+psLI.m07.d27.prokeimenon.v1.text = "Εὐφρανθήσεται δίκαιος ἐν Κυρίῳ."
+psLI.m07.d27.prokeimenon.v2.info = ps_gr_GR_cog.psa63.v2.number
+psLI.m07.d27.prokeimenon.v2.text = "Εἰσάκουσον, ὁ Θεός, τῆς φωνῆς μου."
+psLI.m07.d27.alleluia.v1.info = ps_gr_GR_cog.psa91.v13.number
+psLI.m07.d27.alleluia.v1.text = "Δίκαιος ὡς φοῖνιξ ἀνθήσει."
+psLI.m07.d27.alleluia.v2.info = ps_gr_GR_cog.psa91.v14.number
+psLI.m07.d27.alleluia.v2.text = "Πεφυτευμένος ἐν τῷ οἴκῳ Κυρίου."
+
+psLI.m07.d28.prokeimenon.v1.info = ps_gr_GR_cog.psa18.v5.number
+psLI.m07.d28.prokeimenon.v1.text = "Εἰς πᾶσαν τὴν γῆν ἐξῆλθεν ὁ φθόγγος αὐτῶν."
+psLI.m07.d28.prokeimenon.v2.info = ps_gr_GR_cog.psa18.v2.number
+psLI.m07.d28.prokeimenon.v2.text = "Οἱ οὐρανοὶ διηγοῦνται δόξαν Θεοῦ."
+psLI.m07.d28.alleluia.v1.info = ps_gr_GR_cog.psa88.v6.number
+psLI.m07.d28.alleluia.v1.text = "Ἐξομολογήσονται οἱ οὐρανοὶ τὰ θαυμάσιά σου, Κύριε."
+psLI.m07.d28.alleluia.v2.info = ps_gr_GR_cog.psa88.v8.number
+psLI.m07.d28.alleluia.v2.text = "Ὁ Θεὸς ἐνδοξαζόμενος ἐν βουλῇ ἁγίων."
+
+psLI.m07.d29.prokeimenon.v1.info = ps_gr_GR_cog.psa63.v11.number
+psLI.m07.d29.prokeimenon.v1.text = "Εὐφρανθήσεται δίκαιος ἐν Κυρίῳ."
+psLI.m07.d29.prokeimenon.v2.info = ps_gr_GR_cog.psa63.v2.number
+psLI.m07.d29.prokeimenon.v2.text = "Εἰσάκουσον, ὁ Θεός, τῆς φωνῆς μου."
 
 

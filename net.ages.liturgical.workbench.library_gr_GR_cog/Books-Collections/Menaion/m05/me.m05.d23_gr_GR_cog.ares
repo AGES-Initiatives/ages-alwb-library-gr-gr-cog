@@ -2,7 +2,7 @@ A_Resource_Whose_Name = me.m05.d23_gr_GR_cog
 
 meDate.text = "Τῌ ΚΓʹ ΜΑΪΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
 meCommemoration.text = "Μνήμη τοῦ Ὁσίου Πατρὸς ἡμῶν καὶ Ὁμολογητοῦ Μιχαήλ, Ἐπισκόπου Συννάδων." //full title of day
-meShortCommemoration1.text = ""
+meShortCommemoration1.text = "Μνήμη τοῦ Ἁγίου Μιχαήλ, Ἐπισκόπου Συννάδων."
 meInsert1 = "καὶ τοῦ Ὁσίου Πατρὸς ἡμῶν καὶ Ὁμολογητοῦ Μιχαήλ, Ἐπισκόπου Συννάδων, " //for use in petitions and dismissal
 meInsert2 = "οὗ καὶ τὴν μνήμην ἐπιτελοῦμεν· " //for use in petitions and dismissal
 meNote.text = ""
@@ -34,6 +34,8 @@ meVE.SticStavrotheotokion.mode = misc_gr_GR_cog.Mode8
 meVE.SticStavrotheotokion.melody = he.a.m8_gr_GR_cog.OTouParadoxou.name
 meVE.SticStavrotheotokion.text = me.m01.d15_gr_GR_cog.meMA.AposStavrotheotokion.text
 
+meVE.GeneralApolytikion1.name = "Μιχαὴλ"
+
 meVE.Apolytikion1.poet = poets_gr_GR_cog.Gerasimou
 meVE.Apolytikion1.mode = misc_gr_GR_cog.Mode4
 meVE.Apolytikion1.melody = he.a.m4_gr_GR_cog.TachyProkatalave.name
@@ -42,8 +44,8 @@ meVE.Apolytikion1.text = "Θεῷ ἀναθέμενος, τὴν σὴν ζω�
 meMA.C1Poet = poets_gr_GR_cog.Theofanous
 meMA.C1Acrostic.text = "οὗ ἡ Ἀκροστιχίς· Ἀρχιερεῦ Μιχαήλ, ἱεροῖς ὕμνοις σε γεραίρω."
 
-meMA.C1.title = ""
-meMA.C1.verse = ""
+meMA.C1.title = titles_gr_GR_cog.KanonTouAgiou
+meMA.C1.verse = prayers_gr_GR_cog.verse_SaintM.text
 
 meMA.Ode1C11.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C11.mode = misc_gr_GR_cog.Mode2

@@ -45,7 +45,7 @@ meVE.SticGlory.text = "Φῶς εἰς ἀποκάλυψιν ἐθνῶν, ἦ�
 
 meVE.Aposticha1.mode = misc_gr_GR_cog.Mode2
 meVE.Aposticha1.melody = he.a.m2_gr_GR_cog.OikosTouEfratha.name
-meVE.Aposticha1.text = "Δέχου ὦ Συμεών, τὸν Κύριον τῆς δόξης, καθὼς ἐχρηματίσθης, ἐκ Πνεύματος ἁγίου· ἰδοὺ γὰρ παραγέγονε."
+meVE.Aposticha1.text = me.m02.d01_gr_GR_cog.meMA.Aposticha3.text
 
 meVE.Aposticha2.mode = misc_gr_GR_cog.Mode2
 meVE.Aposticha2.melody = he.a.m2_gr_GR_cog.OikosTouEfratha.name
@@ -297,19 +297,19 @@ meMA.MM.LaudsSunday.text = properties_gr_GR_cog.media.key
 
 meMA.Aposticha1.mode = misc_gr_GR_cog.Mode2
 meMA.Aposticha1.melody = he.a.m2_gr_GR_cog.OikosTouEfratha.name
-meMA.Aposticha1.text = "Ῥύπου δίχα Χριστός, γεννᾶται ἐκ Παρθένου, ὡς ἐκ Πατρὸς ἀῤῥεύστως, Υἱὸς πρὸ Ἑωσφόρου, ὁ τόν, Ἀδὰμ λυτρούμενος."
+meMA.Aposticha1.text = me.m02.d01_gr_GR_cog.meMA.Aposticha1.text
 
 meMA.Aposticha2.mode = misc_gr_GR_cog.Mode2
 meMA.Aposticha2.melody = he.a.m2_gr_GR_cog.OikosTouEfratha.name
-meMA.Aposticha2.text = "Πύλαι τῶν οὐρανῶν, ἀνοίχθητε· Χριστὸς γάρ, ἐν τῷ ναῷ ὡς βρέφος, ὑπὸ Μητρὸς Παρθένου, Θεῷ Μητρὶ προσάγεται."
+meMA.Aposticha2.text = me.m02.d01_gr_GR_cog.meMA.Aposticha2.text
 
 meMA.Aposticha3.mode = misc_gr_GR_cog.Mode2
 meMA.Aposticha3.melody = he.a.m2_gr_GR_cog.OikosTouEfratha.name
-meMA.Aposticha3.text = "Μέγα καὶ φοβερόν, Μυστήριον καὶ ξένον! ὁ πάντα περιέπων, καὶ βρέφη διαπλάττων, ὡς βρέφος ἀγκαλίζεται."
+meMA.Aposticha3.text = meVE.Aposticha3.text
 
 meMA.AposGlory.mode = misc_gr_GR_cog.Mode2
 meMA.AposGlory.melody = he.a.m2_gr_GR_cog.OikosTouEfratha.name
-meMA.AposGlory.text = "Φέρουσα ἡ Ἁγνή, καὶ ἄχραντος Παρθένος, τὸν Πλάστην καὶ Δεσπότην, ὡς βρέφος ἐν ἀγκάλαις, ἐν τῷ ναῷ εἰσέρχεται."
+meMA.AposGlory.text = meVE.Aposticha2.text
 
 meLI.Antiphon2.text = me.m02.d02_gr_GR_cog.meLI.Antiphon2.text
 

@@ -46,7 +46,7 @@ meVE.SticGlory.text = me.m02.d02_gr_GR_cog.meMA.LaudsGlory.text
 
 meVE.Aposticha1.mode = misc_gr_GR_cog.Mode2
 meVE.Aposticha1.melody = he.a.m2_gr_GR_cog.OikosTouEfratha.name
-meVE.Aposticha1.text = me.m02.d04_gr_GR_cog.meMA.Aposticha2.text
+meVE.Aposticha1.text = me.m02.d01_gr_GR_cog.meMA.Aposticha2.text
 
 meVE.Aposticha2.mode = misc_gr_GR_cog.Mode2
 meVE.Aposticha2.melody = he.a.m2_gr_GR_cog.OikosTouEfratha.name
@@ -58,7 +58,7 @@ meVE.Aposticha3.text = me.m02.d02_gr_GR_cog.meSV.Aposticha3.text
 
 meVE.AposGlory.mode = misc_gr_GR_cog.Mode2
 meVE.AposGlory.melody = he.a.m2_gr_GR_cog.OikosTouEfratha.name
-meVE.AposGlory.text = me.m02.d04_gr_GR_cog.meMA.AposGlory.text
+meVE.AposGlory.text = me.m02.d04_gr_GR_cog.meVE.Aposticha2.text
 
 meVE.Apolytikion1.mode = misc_gr_GR_cog.Mode1
 meVE.Apolytikion1.melody = ""
@@ -553,11 +553,11 @@ meMA.Aposticha1.text = me.m02.d04_gr_GR_cog.meVE.Aposticha2.text
 
 meMA.Aposticha2.mode = misc_gr_GR_cog.Mode2
 meMA.Aposticha2.melody = he.a.m2_gr_GR_cog.OikosTouEfratha.name
-meMA.Aposticha2.text = me.m02.d04_gr_GR_cog.meVE.Aposticha1.text
+meMA.Aposticha2.text = me.m02.d01_gr_GR_cog.meMA.Aposticha3.text
 
 meMA.Aposticha3.mode = misc_gr_GR_cog.Mode2
 meMA.Aposticha3.melody = he.a.m2_gr_GR_cog.OikosTouEfratha.name
-meMA.Aposticha3.text = me.m02.d06_gr_GR_cog.alt1.meVE.Aposticha3.text
+meMA.Aposticha3.text = me.m02.d06_gr_GR_cog.meVE.Aposticha3.text
 
 meMA.AposGlory.mode = misc_gr_GR_cog.Mode2
 meMA.AposGlory.melody = he.a.m2_gr_GR_cog.OikosTouEfratha.name

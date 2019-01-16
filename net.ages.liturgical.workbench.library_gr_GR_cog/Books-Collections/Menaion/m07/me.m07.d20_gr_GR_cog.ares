@@ -108,21 +108,7 @@ meMA.Kathisma2T.mode = misc_gr_GR_cog.Mode1
 meMA.Kathisma2T.melody = he.a.m1_gr_GR_cog.TonTafonSouSotir.name
 meMA.Kathisma2T.text = oc.m1.d1_gr_GR_cog.ocMA.Kathisma23.text
 
-//Not in Menaion, optional Matins Gospel
 meR01 = "Τὸ Μηναῖον δὲν προβλέπει Εὐαγγέλιον τοῦ Ὄρθρου."
-meMA.MM.Prokeimenon.text = properties_gr_GR_cog.media.key
-
-meMA.PostGospelGlory.mode = misc_gr_GR_cog.Mode2
-meMA.PostGospelGlory.melody = ""
-meMA.PostGospelGlory.text = ho.s03_gr_GR_cog.hoMA.PostGospelProphet.text
-
-meMA.PostGospelBoth.mode = misc_gr_GR_cog.Mode2
-meMA.PostGospelBoth.melody = ""
-meMA.PostGospelBoth.text = ho.s03_gr_GR_cog.hoMA.PostGospelTheotokos.text
-
-meMA.PostGospelIdiomelon.mode = misc_gr_GR_cog.Mode6
-meMA.PostGospelIdiomelon.melody = ""
-meMA.PostGospelIdiomelon.text = meVE.AposGlory.text
 
 meMA.C1Poet = poets_gr_GR_cog.IoannouMonachou
 meMA.C1Acrostic.text = "φέρων Ἀκροστιχίδα τὴν δὲ ἄνευ τῶν Θεοτοκίων. Αἰνῶ χορεύων Ἠλιοὺ τὰ θαύματα."
@@ -511,3 +497,73 @@ meLI.Kontakion1.text = meMA.Kontakion1.text
 meLI.MM.CommunionHymn.text = properties_gr_GR_cog.media.key
 
 meMegalynarion.text = ""
+
+//supplemental hymns
+
+alt1.meVE.Stichera04.poet = poets_gr_GR_cog.NikodimouAgioreitou
+alt1.meVE.Stichera04.mode = misc_gr_GR_cog.Mode1
+alt1.meVE.Stichera04.melody = he.a.m1_gr_GR_cog.TonOuranionTagmaton.name
+alt1.meVE.Stichera04.text = "Ἐν τῷ Χωρὴβ μὲν τοπρώην, ἐν Θαβὼρ δ' ὕστερον, τὴν τοῦ Θεοῦ κατεῖδες, θεωρίαν Προφῆτα· ἐκεῖ μὲν ἐν τῇ αὔρᾳ· ἐνταῦθα δέ, ἐν φωτὶ τῆς Θεότητος· καὶ ἐδοξάσθης δισσῶς ἐν τῇ Παλαιᾷ, Ἠλιοὺ κιὰ Νέᾳ χάριτι."
+
+alt1.meVE.Stichera05.poet = poets_gr_GR_cog.NikodimouAgioreitou
+alt1.meVE.Stichera05.mode = misc_gr_GR_cog.Mode2
+alt1.meVE.Stichera05.melody = he.a.m2_gr_GR_cog.PoioisEffimionStemmasin.name
+alt1.meVE.Stichera05.text = "Ποίοις ὑμνῳδιῶν κάλλεσιν, ἀναδήσωμεν τὸν διφρηλάτην; τὸν Οὐρανοδρόμον Ἱέρακα; Ἠλιοὺ τὸν πῦρ ὅλως πνέοντα; τὸν πυρίνου ἅρματος ἱππέα; τὸν ῥεῖθρα, τοῦ Ἰορδάνου διαρρήξαντα; καὶ ὄμβρους, τοῦ οὐρανοῦ λόγῳ πεδήσαντα; τὸν ἐν πυρὶ θυηφόρον; τὸν Χριστῷ λαλοῦντα; τὸν καὶ Πρόδρομον τῆς αὐτοῦ, δευτέρας ἐλεύσεως; τὸν φωστῆρα τὸν φαεινότατον;"
+
+alt1.meVE.Stichera06.poet = poets_gr_GR_cog.NikodimouAgioreitou
+alt1.meVE.Stichera06.mode = misc_gr_GR_cog.Mode2
+alt1.meVE.Stichera06.melody = he.a.m2_gr_GR_cog.PoioisEffimionStemmasin.name
+alt1.meVE.Stichera06.text = "Ποίοις εὐφημιῶν ᾄσμασι, τὸν Θεσβίτην ἀνυμνήσωμεν Ἠλίαν; τὸν ζήλῳ Θεοῦ πυρπολούμενον; καὶ τοὺς ἀσεβεῖς πυρπολήσαντα; τὸν τοὺς μύστας σφάξαντα τῆς Βάαλ; τὸν μύστην, ἧς προεώρακε τῷ Πνεύματι, ἐν αὔρα, λεπτῇ Χριστοῦ θείας σαρκώσεως; τὸν ξενοτρόφον τῆς χήρας; τοῦ πυρὸς τὸν στύλον; τὸν πνέοντα τοῖς νεκροῖς, ζωὴν θείᾳ χάριτι; τὸ τοῦ Πνεύματος ἐνδιαίτημα;"
+
+alt1.meVE.Stichera07.poet = poets_gr_GR_cog.NikodimouAgioreitou
+alt1.meVE.Stichera07.mode = misc_gr_GR_cog.Mode2
+alt1.meVE.Stichera07.melody = he.a.m2_gr_GR_cog.PoioisEffimionStemmasin.name
+alt1.meVE.Stichera07.text = "Ποίοις πνευματικοῖς ἄνθεσι, τὸ τοῦ Πνεύματος στέψωμεν σκεῦος; τὸν φλογὶ πυρὸς σιτιζόμενον, καὶ τὸ πυρὶ σπαργανούμενον; τὸ μιᾶς τροφῆς ἐν τῇ ἰσχύϊ, ὁδόν, τεσσαρακονθήμερον ἀνύσαντα; τροφήν, τὸν διὰ τοῦ κόρακος δεχόμενον; τῶν Προφητῶν τὴν κρηπίδα; Ἠλιοὺ τὸν μέγαν, δι' οὗ δαιμόνων ὀφρῦν, καθεῖλεν ὁ Κύριος; ὁ ἔχων τὸ μέγα ἔλεος."
+
+alt1.meVE.Stichera08.poet = poets_gr_GR_cog.NikodimouAgioreitou
+alt1.meVE.Stichera08.mode = misc_gr_GR_cog.Mode2
+alt1.meVE.Stichera08.melody = he.a.m2_gr_GR_cog.PoioisEffimionStemmasin.name
+alt1.meVE.Stichera08.text = "Πάντες οἱ εὐτελεῖς δοῦλοί σου, σοὶ προσπίπτομεν Θεοῦ Προφῆτα, δώρησαι ἡμῖν ἀνακράζονες, χάριν τὴν τοῦ Πνεύματος ἔνδοξε, ὥπερ Ἐλισσαίῳ ἐδωρήσω, διπλῆν, ταύτην μάκαρ ἐξαιτήσαντι· καὶ δός, εὑρεῖν λύσιν ταῖς πρεσβείαις σου, ὀφλημάτων πάντων, ὅτε Πρόδρομος τοῦ Χριστοῦ, δευτέρας ἐλεύσεως, Ἠλιοὺ ἥξεις θεώνυμε."
+
+alt1.meMA.Kathisma22.poet = poets_gr_GR_cog.NikodimouAgioreitou
+alt1.meMA.Kathisma22.mode = misc_gr_GR_cog.Mode4
+alt1.meMA.Kathisma22.melody = he.a.m4_gr_GR_cog.EpefanisSimeron.name
+alt1.meMA.Kathisma22.text = "Τεσσαρακονθήμερον, ὁδὸν ἀνύεις, μιᾷ βρώσει ἔνδοξε, ῥωσθεὶς Ἀγγέλου τῇ ἁφῇ· διὸ τοῖς πίστει τιμῶσί σε, ῥῶσιν παράσχου, ψυχῆς τε καὶ σώματος."
+
+alt1.meMA.Kathisma2T.mode = misc_gr_GR_cog.Mode4
+alt1.meMA.Kathisma2T.melody = he.a.m4_gr_GR_cog.EpefanisSimeron.name
+alt1.meMA.Kathisma2T.text = me.m06.d14_gr_GR_cog.meMA.Ode3KathismaT.text
+
+alt1.meMA.Kathisma31.poet = poets_gr_GR_cog.NikodimouAgioreitou
+alt1.meMA.Kathisma31.mode = misc_gr_GR_cog.Mode8
+alt1.meMA.Kathisma31.melody = he.a.m8_gr_GR_cog.TinSofianKaiLogon.name
+alt1.meMA.Kathisma31.text = "Ἠλιοὺ τὸν πυρίπνουν καὶ ζηλωτήν, τὸν θεόπτην καὶ Πρόδρομον τοῦ Χριστοῦ, δευτέρας ἐλεύσεως, καὶ τῆς πρώτης συνόμιλον· τὸν δι' ὀρνέου ἕωθεν καὶ δίλης τρεφόμενον· καὶ ξενοτρόπῳ βρώσει τὴν χήραν ἐκτρέφοντα, καὶ τὸν ταύτης παῖδα ἐκ νεκρῶν ἀνιστῶντα· τὸν θῦμα καὶ σχίδακας, πυρὶ θείῳ ἀμπρήσαντα, ἐν ᾠδαῖς εὐφημήσωμεν, κραυγάζοντες αὐτῷ ἐκ ψυχῆς· Τῶν πταισμάτων δωρηθῆναι ἄφεσιν, ἡμῖν πρεσβεύοις Προφῆτα, τοῖς πόθῳ τιμῶσί σε."
+
+alt1.meMA.Kathisma32.poet = poets_gr_GR_cog.NikodimouAgioreitou
+alt1.meMA.Kathisma32.mode = misc_gr_GR_cog.Mode3
+alt1.meMA.Kathisma32.melody = he.a.m3_gr_GR_cog.TinOraiotita.name
+alt1.meMA.Kathisma32.text = "Τὰ Ἰορδάνεια, διῆλθες ὕδατα, Ἠλία πρότερον, καὶ τότε ἅρματι, ἀνῆλθες ὡς εἰς οὐρανόν, ἐμφαίνων τι μυστήριον· ὅτι οὐδεὶς δύναται, ἀνελθεῖν εἰς οὐράνια, ἐκτὸς εἰμὴ πρότερον, μετανοίας τὰ ὕδατα, διέλθῃ καὶ ψυχὴν ἐκκαθάρῃ· ἧς σύμβολον ὁ Ἰορδάνης."
+
+alt1.meMA.Kathisma3T.poet = poets_gr_GR_cog.NikodimouAgioreitou
+alt1.meMA.Kathisma3T.mode = misc_gr_GR_cog.Mode3
+alt1.meMA.Kathisma3T.melody = he.a.m3_gr_GR_cog.TinOraiotita.name
+alt1.meMA.Kathisma3T.text = "Κατατιτρώσκει με, βέλος γλυκύτατον, τῆς ἀγαπήσεως, τῆς σῆς Πανύμνητε· καὶ καταθέλγει με πυκνῶς, βοᾶν σοι εὐλογημένη· Χαῖρε ἡλιόμορφον, Βασιλέως παλάτιον! Χαῖρε θρόνε πύρινε, ἡ Θεὸν ἀναδείξασα, ἄνθρωπον φύσει τῷ τεκετῷ σου, ἀνθρώπους δὲ θεοὺς κατὰ χάριν!"
+
+//Not in Menaion, optional Matins Gospel
+alt1.meMA.MM.Prokeimenon.text = properties_gr_GR_cog.media.key
+
+alt1.meMA.PostGospelGlory.mode = misc_gr_GR_cog.Mode2
+alt1.meMA.PostGospelGlory.melody = ""
+alt1.meMA.PostGospelGlory.text = ho.s03_gr_GR_cog.hoMA.PostGospelProphet.text
+
+alt1.meMA.PostGospelBoth.mode = misc_gr_GR_cog.Mode2
+alt1.meMA.PostGospelBoth.melody = ""
+alt1.meMA.PostGospelBoth.text = ho.s03_gr_GR_cog.hoMA.PostGospelTheotokos.text
+
+alt1.meMA.PostGospelIdiomelon.poet = poets_gr_GR_cog.NikodimouAgioreitou
+alt1.meMA.PostGospelIdiomelon.mode = misc_gr_GR_cog.Mode6
+alt1.meMA.PostGospelIdiomelon.melody = ""
+alt1.meMA.PostGospelIdiomelon.text = "Τοῦ θείου ζήλου τὸ πῦρ, ἐν σῇ καρδίᾳ δεξάμεονς, Ἠλία θεώνυμε, ὅλον τῆς ζωῆς σου τὸν δίαυλον, ἐν πυρὶ διετέλεσας· ἐν γὰρ τῇ γεννήσει σου μάκαρ, παρὰ Ἀγγέλων πῦρ ἐσιτίσθης, ἐν δὲ τῇ ζωῇ σου, τρισσάκις ἐξ οὐρανοῦ πῦρ κατήνεγκας, καὶ ἐν τῷ τέλει σου, ἅρμα πυρὸς ἐξαρπάσαν, ὡς εἰς οὐρανὸν ἀνεβίβασεν. Ὢ τοῦ θαύματος! Πῶς ὁ πύλινος ἀνδριάς, χαλκευθεὶς ἐν τῇ δυνάμει του Πνεύματος, πύρινος ὅλος ἐγένετο! Καὶ νῦν τῷ ἀΰλῳ πυρὶ τῆς Θεότητος ἡνωμένος, πρεσβεύει ὑπὲρ τῶν ψυχῶν ἡμῶν."
+
+alt1.meMegalynarion.poet = poets_gr_GR_cog.NikodimouAgioreitou
+alt1.meMegalynarion.text = "Δεῦτε τὸν πυρίπνουν καὶ ζηλωτήν, τὸν διὰ τεθρίππου, ἁρπαγέντα ἀπὸ τῆς γῆς, τῆς Χριστοῦ δευτέρας, Πρόδρομον παρουσίας, Ἠλίαν τὸν Θεσβίτην, ὕμνοις τιμήσωμεν."

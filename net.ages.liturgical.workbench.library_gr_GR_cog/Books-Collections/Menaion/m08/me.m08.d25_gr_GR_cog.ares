@@ -1,9 +1,9 @@
 A_Resource_Whose_Name = me.m08.d25_gr_GR_cog
 
 meDate.text = "Τῌ ΚΕʹ ΑΥΓΟΥΣΤΟΥ"
-meCommemoration.text = "Μνήμη τῆς ἐπανόδου τοῦ Λειψάνου Ἁγίου Ἀποστόλου Βαρθολομαίου, καὶ μνήμη τοῦ Ἁγίου Ἀποστόλου Τίτου." // full title of day
-meShortCommemoration1.text = ""
-meInsert1 = "τῶν ἁγίου Ἀποστόλων Βαρθολομαίου καὶ Τίτου, " // for use in petitions and dismissal
+meCommemoration.text = "Μνήμη τῆς ἐπανόδου τοῦ Λειψάνου Ἁγίου Ἀποστόλου Βαρθολομαίου, καὶ μνήμη τοῦ Ἁγίου Ἀποστόλου Τίτου" // full title of day
+meShortCommemoration1.text = "Μνήμη τῶν ἁγίων Ἀποστόλων Βαρθολομαίου καὶ Τίτου"
+meInsert1 = "τῶν ἁγίων Ἀποστόλων Βαρθολομαίου καὶ Τίτου, " // for use in petitions and dismissal
 meInsert2 = "ὧν καὶ τὴν μήμην ἐπιτελοῦμεν· " // for use in petitions and dismissal
 meNote.text = ""
 meLE.commemoration1 = "Ἡ Ἐπάνοδος τοῦ Σεπτοῦ Λειψάνου τοῦ Ἁγίου Ἐνδόξου Ἀποστόλου Βαρθολομαίου. Τοῦ Ἁγίου Ἀποστόλου Τίτου, Ἐπισκόπου Γορτύνης τῆς κατὰ Κρήτην, Μαθητοῦ τοῦ Ἁγίου Ἀποστόλου Παύλου."
@@ -68,8 +68,8 @@ meMA.C1Acrostic.text = "οὗ ἡ Ἀκροστιχίς· Ὕμνοις γερ�
 
 meMA.C2Acrostic.text = "ἔχων Ἀκροστίχδα ταύτην· Παύλου μαθητὴν Τίτον ὑμνῶ προφρόνως."
 
-meMA.C1.title = ""
-meMA.C1.verse = ""
+meMA.C1.title = "Κανὠν τοῦ Ἀπ. Βαρθολομαίου."
+meMA.C1.verse = prayers_gr_GR_cog.verse_Apostles.text
 
 meMA.Ode1C11.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C11.mode = misc_gr_GR_cog.Mode4
@@ -91,8 +91,8 @@ meMA.Ode1C1T.mode = misc_gr_GR_cog.Mode4
 meMA.Ode1C1T.melody = he.h.m4_gr_GR_cog.AnoixoToStomaMou.name
 meMA.Ode1C1T.text = "Ὁ πλήρης κεκένωται, ὁ προαιώνιος ἄρχεται, ἐκ Κόρης θεόπαιδος ἀποτικτόμενος, ὃν ἐκήρυξας, ἐν δύο ταῖς οὐσίαις, μιᾷ ὑποστάσει δέ, Θεομακάριστε."
 
-meMA.C2.title = ""
-meMA.C2.verse = ""
+meMA.C2.title = "Κανὠν τοῦ Ἀπ. Τίτου."
+meMA.C2.verse = prayers_gr_GR_cog.verse_Apostles.text
 
 meMA.Ode1C21.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C21.mode = misc_gr_GR_cog.Mode4

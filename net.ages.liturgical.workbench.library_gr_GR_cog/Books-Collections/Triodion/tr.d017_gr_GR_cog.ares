@@ -18,7 +18,7 @@ trVE.AposIdiomelon1.text = "Διὰ νηστείας καθαρθῆναι σπ
 
 trVE.AposMartyric.mode = misc_gr_GR_cog.Mode8
 trVE.AposMartyric.melody = ""
-trVE.AposMartyric.text = "Μάρτυρες Κυρίου, ἱκετεύσατε τὸν Θεὸν ἡμῶν, καὶ αἰτήσατε ταῖς ψυχαῖς ἡμῶν, πλῆθος οἰκτιρμῶν, καὶ τὸν ἱλασμόν, τῶν πολλῶν παραπτωμάτων δεόμεθα."
+trVE.AposMartyric.text = oc.m8.d3_gr_GR_cog.ocVE.Aposticha3.text
 
 trVE.AposTheotokion.mode = misc_gr_GR_cog.Mode8
 trVE.AposTheotokion.melody = ""
@@ -35,6 +35,11 @@ trMA.Kathisma22.text = he.a.m8_gr_GR_cog.TinSofianKaiLogon.text
 trMA.C1Poet = poets_gr_GR_cog.KyriouIosif
 
 trMA.C2Poet = poets_gr_GR_cog.KyriouIosif
+
+trMA.Ode2C1H.ode = misc_gr_GR_cog.Ode2
+trMA.Ode2C1H.mode = misc_gr_GR_cog.Mode3
+trMA.Ode2C1H.melody = misc_gr_GR_cog.Heirmos
+trMA.Ode2C1H.text = he.h.m3_gr_GR_cog.OsOmvrosEpAgrostin.text
 
 trMA.Ode2C11.ode = misc_gr_GR_cog.Ode2
 trMA.Ode2C11.mode = misc_gr_GR_cog.Mode3
@@ -197,9 +202,8 @@ trMA.AposIdiomelon1.text = "Ἀσμένως λαοί, τὴν Νηστεία�
 
 trMA.AposMartyric.mode = misc_gr_GR_cog.Mode3
 trMA.AposMartyric.melody = ""
-trMA.AposMartyric.text = "Βασιλέων καὶ τυράννων, τὸν φόβον ἀπώσαντο οἱ Χριστοῦ Στρατιῶται, καὶ εὐθαρσῶς καὶ ἀνδρείως αὐτὸν ὁμολόγησαν, τὸν ἁπάντων Κύριον, Θεὸν καὶ Βασιλέα ἡμῶν, καὶ πρεσβεύουσιν, ὑπὲρ τῶν ψυχῶν ἡμῶν."
+trMA.AposMartyric.text = oc.m3.d3_gr_GR_cog.ocMA.Aposticha3.text
 
 trMA.AposTheotokion.mode = misc_gr_GR_cog.Mode3
 trMA.AposTheotokion.melody = ""
-trMA.AposTheotokion.text = "Θεοτόκε, προστασία πάντων τῶν δεομένων, εἰς σὲ θαρροῦμεν, εἰς σὲ καυχώμεθα, ἐν σοὶ πᾶσα ἡ ἐλπὶς ἡμῶν ἐστι, πρέσβευε τῷ ἐκ σοῦ τεχθέντι, ὑπὲρ ἀχρείων δούλων σου."
-
+trMA.AposTheotokion.text = oc.m3.d3_gr_GR_cog.ocVE.AposTheotokion.text

@@ -32,7 +32,7 @@ meVE.SticTheotokion.text = "Τὴν σκηνὴν τὴν ἀμόλυντον, 
 
 meVE.SticStavrotheotokion.mode = misc_gr_GR_cog.Mode4
 meVE.SticStavrotheotokion.melody = he.a.m4_gr_GR_cog.OsGennaionEnMartysi.name
-meVE.SticStavrotheotokion.text = "Τὸν ἀμνὸν καὶ Ποιμένα σε, ἐπὶ ξύλου ὡς ἔβλεψεν, ἡ Ἀμνὰς ἡ τέξασα, ἐπωδύρετο, καὶ μητρικῶς σοι ἐφθέγγετο· Υἱὲ ποθεινότατε, πῶς ἐν ξύλῳ τοῦ Σταυροῦ, ἀνηρτήθης μακρόθυμε; πῶς τὰς χεῖράς σου, καὶ τοὺς πόδας σου Λόγε, προσηλώθης, ὑπ' ἀνόμων καὶ τὸ αἷμα, τὸ σὸν ἐξέχεας Δέσποτα;"
+meVE.SticStavrotheotokion.text = oc.m4.d4_gr_GR_cog.ocVE.AposTheotokion.text
 
 meVE.Apolytikion1.poet = poets_gr_GR_cog.Gerasimou
 meVE.Apolytikion1.mode = misc_gr_GR_cog.Mode3
@@ -47,8 +47,8 @@ meMA.Ode1C1H.mode = misc_gr_GR_cog.Mode4
 meMA.Ode1C1H.melody = misc_gr_GR_cog.Heirmos
 meMA.Ode1C1H.text = he.h.m4_gr_GR_cog.ThalassisToErythraion.text
 
-meMA.C1.title = ""
-meMA.C1.verse = ""
+meMA.C1.title = titles_gr_GR_cog.KanonTonMartyron
+meMA.C1.verse = prayers_gr_GR_cog.verse_SaintsM.text
 
 meMA.Ode1C11.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C11.mode = misc_gr_GR_cog.Mode4

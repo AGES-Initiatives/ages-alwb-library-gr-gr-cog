@@ -2,7 +2,7 @@ A_Resource_Whose_Name = me.m04.d10_gr_GR_cog
 
 meDate.text = "Τῌ Ιʹ ΑΠΡΙΛΙΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
 meCommemoration.text = "Μνήμη τῶν Ἁγίων Μαρτύρων Τερεντίου, Πομπηίου, Μαξίμου, Μακαρίου, Ἀφρικανοῦ, καὶ τῶν σὺν αὐτοῖς· καὶ τοῦ Ἁγίου Ἐνδόξου Ἱερομάρτυρος Γρηγορίου τοῦ Εʹ, Ἀρχιεπισκόπου Κωνσταντινουπόεως." // full title of day
-meShortCommemoration1.text = ""
+meShortCommemoration1.text = "Μνήμη τῶν Ἁγίων Μαρτύρων Τερεντίου, Πομπηίου, Μαξίμου, Μακαρίου, Ἀφρικανοῦ, καὶ τῶν σὺν αὐτοῖς"
 meInsert1 = "καὶ τῶν Ἁγίων Μαρτύρων Τερεντίου, Πομπηίου, Μαξίμου, Μακαρίου, Ἀφρικανοῦ, καὶ τῶν σὺν αὐτοῖς καὶ τοῦ ἁγίου ἐνδόξου Ἱερομάρτυρος Γρηγορίου τοῦ Εʹ, Ἀρχιεπισκόπου Κωνσταντινουπόεως, " // for use in petitions and dismissal
 meInsert2 = "ὧν καὶ τὴν μνήμην ἐπιτελοῦμεν· " // for use in petitions and dismissal
 meNote.text = ""
@@ -51,8 +51,8 @@ meMA.Ode1C1H.mode = misc_gr_GR_cog.Mode8
 meMA.Ode1C1H.melody = misc_gr_GR_cog.Heirmos
 meMA.Ode1C1H.text = he.h.m8_gr_GR_cog.YgranDiodefsas.text
 
-meMA.C1.title = ""
-meMA.C1.verse = ""
+meMA.C1.title = titles_gr_GR_cog.KanonTonAgion
+meMA.C1.verse = prayers_gr_GR_cog.verse_SaintsM.text
 
 meMA.Ode1C11.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C11.mode = misc_gr_GR_cog.Mode8

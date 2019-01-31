@@ -58,8 +58,13 @@ trMA.C2Poet = poets_gr_GR_cog.Iosif
 
 trMA.C3Poet = poets_gr_GR_cog.Theodorou
 
-trMA.C1.title = ""
-trMA.C1.verse = ""
+trMA.Ode1C1H.ode = misc_gr_GR_cog.Ode1
+trMA.Ode1C1H.mode = misc_gr_GR_cog.Mode8
+trMA.Ode1C1H.melody = misc_gr_GR_cog.Heirmos
+trMA.Ode1C1H.text = he.h.m8_gr_GR_cog.ArmatilatinFarao.text
+
+trMA.C1.title = titles_gr_GR_cog.KanonATouTriodiou
+trMA.C1.verse = prayers_gr_GR_cog.verse_Cross.text
 
 trMA.Ode1C11.ode = misc_gr_GR_cog.Ode1
 trMA.Ode1C11.mode = misc_gr_GR_cog.Mode8
@@ -85,6 +90,11 @@ trMA.Ode1C1T.ode = misc_gr_GR_cog.Ode1
 trMA.Ode1C1T.mode = misc_gr_GR_cog.Mode8
 trMA.Ode1C1T.melody = he.h.m8_gr_GR_cog.ArmatilatinFarao.name
 trMA.Ode1C1T.text = "Ὅτε σε Τέκνον ἀπορρήτως ἔτεκον, ὠδῖνας ἔφυγον· καὶ πῶς νυνὶ ὅλη, ὀδυνῶν πεπλήρωμαι; Ὁρῶ γάρ σε κρεμάμενον, ὡς κακοῦργον τῷ ξύλῳ, τὸν γῆν ἀσχέτως κρεμάσαντα, ἔλεγεν ἡ Πάναγνος κλαίουσα."
+
+trMA.Ode3C1H.ode = misc_gr_GR_cog.Ode3
+trMA.Ode3C1H.mode = misc_gr_GR_cog.Mode8
+trMA.Ode3C1H.melody = misc_gr_GR_cog.Heirmos
+trMA.Ode3C1H.text = he.h.m8_gr_GR_cog.OStereosasKatArchas.text
 
 trMA.Ode3C11.ode = misc_gr_GR_cog.Ode3
 trMA.Ode3C11.mode = misc_gr_GR_cog.Mode8
@@ -114,6 +124,11 @@ trMA.Ode3Kathisma2.mode = misc_gr_GR_cog.Mode6
 trMA.Ode3Kathisma2.melody = ""
 trMA.Ode3Kathisma2.text = "Σήμερον τὸ προφητικὸν πεπλήρωται λόγιον· ἰδοὺ γὰρ προσκυνοῦμεν εἰς τὸν τόπον, οὗ ἔστησαν οἱ πόδες σου Κύριε, καὶ Ξύλου σωτηρίας γευσάμενοι, τῶν ἐξ ἁμαρτίας παθῶν ἐλευθερίας ἐτύχομεν, πρεσβείαις τῆς Θεοτόκου, μόνε φιλάνθρωπε."
 
+trMA.Ode4C1H.ode = misc_gr_GR_cog.Ode4
+trMA.Ode4C1H.mode = misc_gr_GR_cog.Mode8
+trMA.Ode4C1H.melody = misc_gr_GR_cog.Heirmos
+trMA.Ode4C1H.text = he.h.m8_gr_GR_cog.SyMouIschys.text
+
 trMA.Ode4C11.ode = misc_gr_GR_cog.Ode4
 trMA.Ode4C11.mode = misc_gr_GR_cog.Mode6
 trMA.Ode4C11.melody = he.h.m8_gr_GR_cog.SyMouIschys.name
@@ -138,6 +153,11 @@ trMA.Ode4C1T.ode = misc_gr_GR_cog.Ode4
 trMA.Ode4C1T.mode = misc_gr_GR_cog.Mode6
 trMA.Ode4C1T.melody = he.h.m8_gr_GR_cog.SyMouIschys.name
 trMA.Ode4C1T.text = "Παρθενικῆς, Τέκνον ἐκ μήτρας σε ἔτεκον καὶ ὁρῶσα, Ξύλῳ σε κρεμάμενον, ἐξαπορῶ, καὶ οὐ συνορῶ, ὕψος μυστηρίου, καὶ βάθος πολλῶν κριμάτων σου, ἡ Πάναγνος ἐβόα, ἣν φωναῖς ἀσιγήτοις, ὡς Μητέρα Θεοῦ μακαρίζομεν."
+
+trMA.Ode5C1H.ode = misc_gr_GR_cog.Ode5
+trMA.Ode5C1H.mode = misc_gr_GR_cog.Mode8
+trMA.Ode5C1H.melody = misc_gr_GR_cog.Heirmos
+trMA.Ode5C1H.text = he.h.m8_gr_GR_cog.InaTiMeAposo.text
 
 trMA.Ode5C11.ode = misc_gr_GR_cog.Ode5
 trMA.Ode5C11.mode = misc_gr_GR_cog.Mode6
@@ -209,6 +229,11 @@ trMA.Ode5C3H.mode = misc_gr_GR_cog.Mode4
 trMA.Ode5C3H.melody = misc_gr_GR_cog.Heirmos
 trMA.Ode5C3H.text = he.h.m4_gr_GR_cog.EkNyktosOrthrizonta.text
 
+trMA.Ode6C1H.ode = misc_gr_GR_cog.Ode6
+trMA.Ode6C1H.mode = misc_gr_GR_cog.Mode8
+trMA.Ode6C1H.melody = misc_gr_GR_cog.Heirmos
+trMA.Ode6C1H.text = he.h.m8_gr_GR_cog.IlasthitiMoiSotir.text
+
 trMA.Ode6C11.ode = misc_gr_GR_cog.Ode6
 trMA.Ode6C11.mode = misc_gr_GR_cog.Mode4
 trMA.Ode6C11.melody = he.h.m8_gr_GR_cog.IlasthitiMoiSotir.name
@@ -232,6 +257,11 @@ trMA.Ode6C1T.text = "Νηστεύειν ἡμᾶς Ἁγνή, κακίας π
 trMA.Kontakion1.mode = misc_gr_GR_cog.Mode7
 trMA.Kontakion1.melody = misc_gr_GR_cog.Automelon
 trMA.Kontakion1.text = tr.d043_gr_GR_cog.trMA.Kontakion1.text
+
+trMA.Ode7C1H.ode = misc_gr_GR_cog.Ode7
+trMA.Ode7C1H.mode = misc_gr_GR_cog.Mode8
+trMA.Ode7C1H.melody = misc_gr_GR_cog.Heirmos
+trMA.Ode7C1H.text = he.h.m8_gr_GR_cog.TheouSynkatavasin.text
 
 trMA.Ode7C11.ode = misc_gr_GR_cog.Ode7
 trMA.Ode7C11.mode = misc_gr_GR_cog.Mode8
@@ -257,6 +287,11 @@ trMA.Ode7C1T.ode = misc_gr_GR_cog.Ode7
 trMA.Ode7C1T.mode = misc_gr_GR_cog.Mode8
 trMA.Ode7C1T.melody = he.h.m8_gr_GR_cog.TheouSynkatavasin.name
 trMA.Ode7C1T.text = "Νοός μου τὴν στένωσιν, τῇ σῇ πρεσβείᾳ πλάτυνον Δέσποινα, ἡ στενώσασα πάσας, τὰς μεθοδίας τοῦ πολεμήτορος, καὶ διʹ ὁδοῦ με στενῆς κατευόδωσον, πρὸς πλατυσμόν τῆς ζωῆς, βαδίζειν Μήτηρ Θεοῦ."
+
+trMA.Ode8C1H.ode = misc_gr_GR_cog.Ode8
+trMA.Ode8C1H.mode = misc_gr_GR_cog.Mode8
+trMA.Ode8C1H.melody = misc_gr_GR_cog.Heirmos
+trMA.Ode8C1H.text = he.h.m8_gr_GR_cog.EptaplasiosKaminon.text
 
 trMA.Ode8C11.ode = misc_gr_GR_cog.Ode8
 trMA.Ode8C11.mode = misc_gr_GR_cog.Mode8
@@ -332,6 +367,11 @@ trMA.Ode8C3H.ode = misc_gr_GR_cog.Ode8
 trMA.Ode8C3H.mode = misc_gr_GR_cog.Mode4
 trMA.Ode8C3H.melody = misc_gr_GR_cog.Heirmos
 trMA.Ode8C3H.text = he.h.m4_gr_GR_cog.PantaTaErgaTouTheou.text
+
+trMA.Ode9C1H.ode = misc_gr_GR_cog.Ode9
+trMA.Ode9C1H.mode = misc_gr_GR_cog.Mode8
+trMA.Ode9C1H.melody = misc_gr_GR_cog.Heirmos
+trMA.Ode9C1H.text = he.h.m8_gr_GR_cog.ExestiEpiTouto.text
 
 trMA.Ode9C11.ode = misc_gr_GR_cog.Ode9
 trMA.Ode9C11.mode = misc_gr_GR_cog.Mode8

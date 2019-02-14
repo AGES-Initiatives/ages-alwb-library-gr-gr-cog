@@ -219,11 +219,274 @@ cl.client.VE.key08.text = ""
 cl.client.VE.key09.text = ""
 cl.client.VE.key10.text = ""
 
-
 cl.client.MA.R001 = ""
 cl.client.MA.R002 = ""
 cl.client.MA.R003 = ""
 
 cl.client.LI.R001 = ""
 cl.client.LI.R002 = ""
+
+//canon of the saint of the parish church for use on Saturdays
+
+clMA.C1.notice = ""
+clMA.C1.source = "source of canon"
+clMA.C1.title = "title of canon"
+clMA.C1.verse = "appropriate verse"
+
+clMA.Ode1C1H.ode = misc_gr_GR_cog.Ode1
+clMA.Ode1C1H.mode = misc_gr_GR_cog.Mode0
+clMA.Ode1C1H.melody = "melody"
+clMA.Ode1C1H.text = "Heirmos text"
+
+clMA.Ode1C11.ode = misc_gr_GR_cog.Ode1
+clMA.Ode1C11.mode = misc_gr_GR_cog.Mode0
+clMA.Ode1C11.melody = ""
+clMA.Ode1C11.text = "Troparion 1 text"
+
+clMA.Ode1C12.ode = misc_gr_GR_cog.Ode1
+clMA.Ode1C12.mode = misc_gr_GR_cog.Mode0
+clMA.Ode1C12.melody = ""
+clMA.Ode1C12.text = "Troparion 2 text"
+
+clMA.Ode1C13.ode = misc_gr_GR_cog.Ode1
+clMA.Ode1C13.mode = misc_gr_GR_cog.Mode0
+clMA.Ode1C13.melody = ""
+clMA.Ode1C13.text = "Troparion 3 text"
+
+clMA.Ode1C14.ode = misc_gr_GR_cog.Ode1
+clMA.Ode1C14.mode = misc_gr_GR_cog.Mode0
+clMA.Ode1C14.melody = ""
+clMA.Ode1C14.text = "Troparion 4 text"
+
+clMA.Ode1C15.title = ""
+clMA.Ode1C15.ode = misc_gr_GR_cog.Ode1
+clMA.Ode1C15.mode = misc_gr_GR_cog.Mode0
+clMA.Ode1C15.melody = ""
+clMA.Ode1C15.text = "Troparion 5 text"
+
+clMA.Ode3C1H.ode = misc_gr_GR_cog.Ode3
+clMA.Ode3C1H.mode = misc_gr_GR_cog.Mode0
+clMA.Ode3C1H.melody = "melody"
+clMA.Ode3C1H.text = "Heirmos text"
+
+clMA.Ode3C11.ode = misc_gr_GR_cog.Ode3
+clMA.Ode3C11.mode = misc_gr_GR_cog.Mode0
+clMA.Ode3C11.melody = ""
+clMA.Ode3C11.text = "Troparion 1 text"
+
+clMA.Ode3C12.ode = misc_gr_GR_cog.Ode3
+clMA.Ode3C12.mode = misc_gr_GR_cog.Mode0
+clMA.Ode3C12.melody = ""
+clMA.Ode3C12.text = "Troparion 2 text"
+
+clMA.Ode3C13.ode = misc_gr_GR_cog.Ode3
+clMA.Ode3C13.mode = misc_gr_GR_cog.Mode0
+clMA.Ode3C13.melody = ""
+clMA.Ode3C13.text = "Troparion 3 text"
+
+clMA.Ode3C14.ode = misc_gr_GR_cog.Ode3
+clMA.Ode3C14.mode = misc_gr_GR_cog.Mode0
+clMA.Ode3C14.melody = ""
+clMA.Ode3C14.text = "Troparion 4 text"
+
+clMA.Ode3C15.title = ""
+clMA.Ode3C15.ode = misc_gr_GR_cog.Ode3
+clMA.Ode3C15.mode = misc_gr_GR_cog.Mode0
+clMA.Ode3C15.melody = ""
+clMA.Ode3C15.text = "Troparion 5 text"
+
+clMA.Ode4C1H.ode = misc_gr_GR_cog.Ode4
+clMA.Ode4C1H.mode = misc_gr_GR_cog.Mode0
+clMA.Ode4C1H.melody = "melody"
+clMA.Ode4C1H.text = "Heirmos text"
+
+clMA.Ode4C11.ode = misc_gr_GR_cog.Ode4
+clMA.Ode4C11.mode = misc_gr_GR_cog.Mode0
+clMA.Ode4C11.melody = ""
+clMA.Ode4C11.text = "Troparion 1 text"
+
+clMA.Ode4C12.ode = misc_gr_GR_cog.Ode4
+clMA.Ode4C12.mode = misc_gr_GR_cog.Mode0
+clMA.Ode4C12.melody = ""
+clMA.Ode4C12.text = "Troparion 2 text"
+
+clMA.Ode4C13.ode = misc_gr_GR_cog.Ode4
+clMA.Ode4C13.mode = misc_gr_GR_cog.Mode0
+clMA.Ode4C13.melody = ""
+clMA.Ode4C13.text = "Troparion 3 text"
+
+clMA.Ode4C14.ode = misc_gr_GR_cog.Ode4
+clMA.Ode4C14.mode = misc_gr_GR_cog.Mode0
+clMA.Ode4C14.melody = ""
+clMA.Ode4C14.text = "Troparion 4 text"
+
+clMA.Ode4C15.title = ""
+clMA.Ode4C15.ode = misc_gr_GR_cog.Ode4
+clMA.Ode4C15.mode = misc_gr_GR_cog.Mode0
+clMA.Ode4C15.melody = ""
+clMA.Ode4C15.text = "Troparion 5 text"
+
+clMA.Ode5C1H.ode = misc_gr_GR_cog.Ode5
+clMA.Ode5C1H.mode = misc_gr_GR_cog.Mode0
+clMA.Ode5C1H.melody = "melody"
+clMA.Ode5C1H.text = "Heirmos text"
+
+clMA.Ode5C11.ode = misc_gr_GR_cog.Ode5
+clMA.Ode5C11.mode = misc_gr_GR_cog.Mode0
+clMA.Ode5C11.melody = ""
+clMA.Ode5C11.text = "Troparion 1 text"
+
+clMA.Ode5C12.ode = misc_gr_GR_cog.Ode5
+clMA.Ode5C12.mode = misc_gr_GR_cog.Mode0
+clMA.Ode5C12.melody = ""
+clMA.Ode5C12.text = "Troparion 2 text"
+
+clMA.Ode5C13.ode = misc_gr_GR_cog.Ode5
+clMA.Ode5C13.mode = misc_gr_GR_cog.Mode0
+clMA.Ode5C13.melody = ""
+clMA.Ode5C13.text = "Troparion 3 text"
+
+clMA.Ode5C14.ode = misc_gr_GR_cog.Ode5
+clMA.Ode5C14.mode = misc_gr_GR_cog.Mode0
+clMA.Ode5C14.melody = ""
+clMA.Ode5C14.text = "Troparion 4 text"
+
+clMA.Ode5C15.title = ""
+clMA.Ode5C15.ode = misc_gr_GR_cog.Ode5
+clMA.Ode5C15.mode = misc_gr_GR_cog.Mode0
+clMA.Ode5C15.melody = ""
+clMA.Ode5C15.text = "Troparion 5 text"
+
+clMA.Ode6C1H.ode = misc_gr_GR_cog.Ode6
+clMA.Ode6C1H.mode = misc_gr_GR_cog.Mode0
+clMA.Ode6C1H.melody = "melody"
+clMA.Ode6C1H.text = "Heirmos text"
+
+clMA.Ode6C11.ode = misc_gr_GR_cog.Ode6
+clMA.Ode6C11.mode = misc_gr_GR_cog.Mode0
+clMA.Ode6C11.melody = ""
+clMA.Ode6C11.text = "Troparion 1 text"
+
+clMA.Ode6C12.ode = misc_gr_GR_cog.Ode6
+clMA.Ode6C12.mode = misc_gr_GR_cog.Mode0
+clMA.Ode6C12.melody = ""
+clMA.Ode6C12.text = "Troparion 2 text"
+
+clMA.Ode6C13.ode = misc_gr_GR_cog.Ode6
+clMA.Ode6C13.mode = misc_gr_GR_cog.Mode0
+clMA.Ode6C13.melody = ""
+clMA.Ode6C13.text = "Troparion 3 text"
+
+clMA.Ode6C14.ode = misc_gr_GR_cog.Ode6
+clMA.Ode6C14.mode = misc_gr_GR_cog.Mode0
+clMA.Ode6C14.melody = ""
+clMA.Ode6C14.text = "Troparion 4 text"
+
+clMA.Ode6C15.title = ""
+clMA.Ode6C15.ode = misc_gr_GR_cog.Ode6
+clMA.Ode6C15.mode = misc_gr_GR_cog.Mode0
+clMA.Ode6C15.melody = ""
+clMA.Ode6C15.text = "Troparion 5 text"
+
+clMA.Ode7C1H.ode = misc_gr_GR_cog.Ode7
+clMA.Ode7C1H.mode = misc_gr_GR_cog.Mode0
+clMA.Ode7C1H.melody = "melody"
+clMA.Ode7C1H.text = "Heirmos text"
+
+clMA.Ode7C11.ode = misc_gr_GR_cog.Ode7
+clMA.Ode7C11.mode = misc_gr_GR_cog.Mode0
+clMA.Ode7C11.melody = ""
+clMA.Ode7C11.text = "Troparion 1 text"
+
+clMA.Ode7C12.ode = misc_gr_GR_cog.Ode7
+clMA.Ode7C12.mode = misc_gr_GR_cog.Mode0
+clMA.Ode7C12.melody = ""
+clMA.Ode7C12.text = "Troparion 2 text"
+
+clMA.Ode7C13.ode = misc_gr_GR_cog.Ode7
+clMA.Ode7C13.mode = misc_gr_GR_cog.Mode0
+clMA.Ode7C13.melody = ""
+clMA.Ode7C13.text = "Troparion 3 text"
+
+clMA.Ode7C14.ode = misc_gr_GR_cog.Ode7
+clMA.Ode7C14.mode = misc_gr_GR_cog.Mode0
+clMA.Ode7C14.melody = ""
+clMA.Ode7C14.text = "Troparion 4 text"
+
+clMA.Ode7C15.title = ""
+clMA.Ode7C15.ode = misc_gr_GR_cog.Ode7
+clMA.Ode7C15.mode = misc_gr_GR_cog.Mode0
+clMA.Ode7C15.melody = ""
+clMA.Ode7C15.text = "Troparion 5 text"
+
+clMA.Ode8C1H.ode = misc_gr_GR_cog.Ode8
+clMA.Ode8C1H.mode = misc_gr_GR_cog.Mode0
+clMA.Ode8C1H.melody = "melody"
+clMA.Ode8C1H.text = "Heirmos text"
+
+clMA.Ode8C11.ode = misc_gr_GR_cog.Ode8
+clMA.Ode8C11.mode = misc_gr_GR_cog.Mode0
+clMA.Ode8C11.melody = ""
+clMA.Ode8C11.text = "Troparion 1 text"
+
+clMA.Ode8C12.ode = misc_gr_GR_cog.Ode8
+clMA.Ode8C12.mode = misc_gr_GR_cog.Mode0
+clMA.Ode8C12.melody = ""
+clMA.Ode8C12.text = "Troparion 2 text"
+
+clMA.Ode8C13.ode = misc_gr_GR_cog.Ode8
+clMA.Ode8C13.mode = misc_gr_GR_cog.Mode0
+clMA.Ode8C13.melody = ""
+clMA.Ode8C13.text = "Troparion 3 text"
+
+clMA.Ode8C14.ode = misc_gr_GR_cog.Ode8
+clMA.Ode8C14.mode = misc_gr_GR_cog.Mode0
+clMA.Ode8C14.melody = ""
+clMA.Ode8C14.text = "Troparion 4 text"
+
+clMA.Ode8C15.title = ""
+clMA.Ode8C15.ode = misc_gr_GR_cog.Ode8
+clMA.Ode8C15.mode = misc_gr_GR_cog.Mode0
+clMA.Ode8C15.melody = ""
+clMA.Ode8C15.text = "Troparion 5 text"
+
+clMA.Ode9C1H.ode = misc_gr_GR_cog.Ode9
+clMA.Ode9C1H.mode = misc_gr_GR_cog.Mode0
+clMA.Ode9C1H.melody = "melody"
+clMA.Ode9C1H.text = "Heirmos text"
+
+clMA.Ode9C11.ode = misc_gr_GR_cog.Ode9
+clMA.Ode9C11.mode = misc_gr_GR_cog.Mode0
+clMA.Ode9C11.melody = ""
+clMA.Ode9C11.text = "Troparion 1 text"
+
+clMA.Ode9C12.ode = misc_gr_GR_cog.Ode9
+clMA.Ode9C12.mode = misc_gr_GR_cog.Mode0
+clMA.Ode9C12.melody = ""
+clMA.Ode9C12.text = "Troparion 2 text"
+
+clMA.Ode9C13.ode = misc_gr_GR_cog.Ode9
+clMA.Ode9C13.mode = misc_gr_GR_cog.Mode0
+clMA.Ode9C13.melody = ""
+clMA.Ode9C13.text = "Troparion 3 text"
+
+clMA.Ode9C14.ode = misc_gr_GR_cog.Ode9
+clMA.Ode9C14.mode = misc_gr_GR_cog.Mode0
+clMA.Ode9C14.melody = ""
+clMA.Ode9C14.text = "Troparion 4 text"
+
+clMA.Ode9C15.title = ""
+clMA.Ode9C15.ode = misc_gr_GR_cog.Ode9
+clMA.Ode9C15.mode = misc_gr_GR_cog.Mode0
+clMA.Ode9C15.melody = ""
+clMA.Ode9C15.text = "Troparion 5 text"
+
+
+
+
+
+
+
+
+
 

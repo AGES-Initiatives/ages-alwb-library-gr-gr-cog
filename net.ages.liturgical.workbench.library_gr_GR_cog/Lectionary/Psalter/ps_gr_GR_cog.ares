@@ -5758,7 +5758,7 @@ bode.version = properties_gr_GR_cog.version.designation
 
 bode1.title = "ᾨΔΗ ΠΡΩΤΗ"
 bode1.version = properties_gr_GR_cog.version.designation
-bode1.book = bible_gr_GR_cog.Exodus
+bode1.book_abbr = bible_gr_GR_cog.Exodus.abbr
 bode1.heading1 = "ᾨΔΗ ΜΩΫΣΕΩΣ"
 bode1.chapverse = "(Κεφ. ιεʹ)"
 bode1.heading2 = "Ἄρδην βυθίσας Φαραώ, Μωσῆς λέγει."
@@ -5808,7 +5808,7 @@ bode1.v20.text = "Ὅτι εἰσῆλθεν ἵππος Φαραὼ σὺν ἅ
 
 bode2.title = "ᾨΔΗ ΔΕΥΤΕΡΑ"
 bode2.version = properties_gr_GR_cog.version.designation
-bode2.book = bible_gr_GR_cog.Deuteronomy
+bode2.book_abbr = bible_gr_GR_cog.Deuteronomy.abbr
 bode2.heading1 = "ᾨδὴ Μωΰσέως ἐν τῷ Δευτερονομίῳ"
 bode2.chapverse = "(κεφ. λβʹ 1-43)"
 bode2.heading2 = "Νόμου γραφέντος αὖθις ᾠδὴ Μωσέως."
@@ -5914,7 +5914,7 @@ bode2.v49.text = "Εὐφράνθητε, ἔθνη μετὰ τοῦ λαοῦ 
 
 bode3.title = "ᾨΔΗ ΤΡΙΤΗ"
 bode3.version = properties_gr_GR_cog.version.designation
-bode3.book = bible_gr_GR_cog.Samuel1
+bode3.book_abbr = bible_gr_GR_cog.Samuel1.abbr
 bode3.heading1 = "ΠΡΟΣΕΥΧΗ ΑΝΝΗΣ τῆς ΜΗΤΡΟΣ ΣΑΜΟΥΗΛ τοῦ ΠΡΟΦΗΤΟΥ"
 bode3.chapverse = "(Κεφ. Βʹ)"
 bode3.heading2 = "Θεὸν γεραίρει στεῖρα τίκτουσα ξένως."
@@ -5952,7 +5952,7 @@ bode3.v15.text = "Καὶ δώσει ἰσχὺν τοῖς βασιλεῦσι
 
 bode4.title = "ᾨΔΗ ΤΕΤΑΡΤΗ"
 bode4.version = properties_gr_GR_cog.version.designation
-bode4.book = bible_gr_GR_cog.Habakkuk
+bode4.book_abbr = bible_gr_GR_cog.Habakkuk.abbr
 bode4.heading1 = "ΠΡΟΣΕΥΧΗ ΑΒΒΑΚΟΥΜ τοῦ ΠΡΟΦΗΤΟΥ"
 bode4.chapverse = "(Κεφ. γʹ)"
 bode4.heading2 = "Τὴν τοῦ Λόγου κένωσιν Ἀββακούμ, φράσον."
@@ -6010,7 +6010,7 @@ bode4.v25.text = "Καὶ ἐπὶ τὰ ὑψηλὰ ἐπιβιβᾷ με, τ�
 
 bode5.title = "ᾨΔΗ ΠΕΜΠΤΗ"
 bode5.version = properties_gr_GR_cog.version.designation
-bode5.book = bible_gr_GR_cog.Isaiah
+bode5.book_abbr = bible_gr_GR_cog.Isaiah.abbr
 bode5.heading1 = " ΠΡΟΣΕΥΧΗ ΗΣΑΪΟΥ τοῦ ΠΡΟΦΗΤΟΥ"
 bode5.chapverse = "(Κεφ. κϚʹ)"
 bode5.heading2 = "Ἡσαΐου πρόρρησις, εὐχὴ τὸ πλέον."
@@ -6050,7 +6050,7 @@ bode5.v16.text = "Βάδιζε λαός μου, εἴσελθε εἰς τὸ 
 
 bode6.title = "ᾨΔΗ ΕΚΤΗ"
 bode6.version = properties_gr_GR_cog.version.designation
-bode6.book = bible_gr_GR_cog.Jonah
+bode6.book_abbr = bible_gr_GR_cog.Jonah.abbr
 bode6.heading1 = " ΠΡΟΣΕΥΧΗ ΙΩΝΑ τοῦ ΠΡΟΦΗΤΟΥ"
 bode6.chapverse = "(Κεφ. βʹ)"
 bode6.heading2 = "Ἐκ θηρὸς ἐκραύγαζεν Ἰωνᾶς, λέγων."
@@ -6076,7 +6076,7 @@ bode6.v9.text = "Ἐγὼ δὲ μετὰ φωνῆς αἰνέσεως καὶ
 
 bode7.title = "ᾨΔΗ ΕΒΔΟΜΗ"
 bode7.version = properties_gr_GR_cog.version.designation
-bode7.book = bible_gr_GR_cog.Daniel
+bode7.book_abbr = bible_gr_GR_cog.Daniel.abbr
 bode7.heading1 = "ΠΡΟΣΕΥΧΗ τῶν ΑΓΙΩΝ ΤΡΙΩΝ ΠΑΙΔΩΝ"
 bode7.chapverse = "(Κεφ. γ')"
 bode7.heading2 = "Αἶνος φλόγα σβέννυσι τῶν τριῶν Νέων."
@@ -6140,7 +6140,7 @@ bode7.v28.text = "Εὐλογημένος εἶ ἐν τῷ στερεώματ
 
 bode8.title = "ῼΔΗ ΟΓΔΟΗ"
 bode8.version = properties_gr_GR_cog.version.designation
-bode8.book = bible_gr_GR_cog.Daniel
+bode8.book_abbr = bible_gr_GR_cog.Daniel.abbr
 bode8.heading1 = "Ὕμνος τῶν ἁγίων Τριῶν Παίδων."
 bode8.chapverse = "(Κεφ. γʹ)"
 bode8.heading2 = "Τὸν Δεσπότην ὕμνησον ἡ κτιστῶν φύσις."
@@ -6189,7 +6189,7 @@ bode8.v19.text = "Αἰνοῦμεν, εὐλογοῦμεν καὶ προσκ�
 
 bode9.title = "ᾨΔΗ ΕΝΑΤΗ"
 bode9.version = properties_gr_GR_cog.version.designation
-bode9_mag.book = bible_gr_GR_cog.Luke
+bode9_mag.book_abbr = bible_gr_GR_cog.Luke.abbr
 bode9_mag.heading1 = "ᾨΔΗ τῆς ΘΕΟΤΟΚΟΥ"
 bode9_mag.chapverse = "(Κεφ. αʹ, 47-55)"
 bode9_mag.heading2 = "Τὸν Υἱὸν ὑμνεῖ καὶ Θεόν, Μήτηρ Κόρη."
@@ -6206,7 +6206,7 @@ bode9_mag.v5.number = "(v9a:5)"
 bode9_mag.v5.text = "Καθεῖλε δυνάστας ἀπὸ θρόνων, καὶ ὕψωσε ταπεινούς, πεινῶντας ἐνέπλησεν ἀγαθῶν, καὶ πλουτοῦντας ἐξαπέστειλε κενούς."
 bode9_mag.v6.number = "(ᾨδὴ 9a:6)"
 bode9_mag.v6.text = "Ἀντελάβετο Ἰσραὴλ παιδὸς αὐτοῦ, μνησθῆναι ἐλέους, καθὼς ἐλάλησε πρὸς τοὺς Πατέρας ἡμῶν, τῷ Ἀβραάμ, καὶ τῷ σπέρματι αὐτοῦ ἕως αἰῶνος."
-bode9.book = bible_gr_GR_cog.Luke
+bode9.book_abbr = bible_gr_GR_cog.Luke.abbr
 bode9.heading1 = "ΠΡΟΣΕΥΧΗ ΖΑΧΑΡΙΟΥ ΤΟΥ ΠΑΤΡΟΣ τοῦ ΠΡΟΔΡΟΜΟΥ"
 bode9.chapverse = "(Κεφ. αʹ)"
 bode9.heading2 = "Ὁ Ζαχαρίας εὐλογεῖ παιδὸς τόκον."

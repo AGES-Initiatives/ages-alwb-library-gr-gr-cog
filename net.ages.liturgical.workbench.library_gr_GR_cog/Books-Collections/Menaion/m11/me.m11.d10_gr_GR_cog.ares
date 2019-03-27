@@ -3,8 +3,8 @@ A_Resource_Whose_Name = me.m11.d10_gr_GR_cog
 meDate.text = "Τῌ Ιʹ ΝΟΕΜΒΡΙΟΥ"
 meCommemoration.text = "Μνήμη τῶν Ἁγίων Ἀποστόλων Ὀλυμπᾶ, Ῥοδίωνος, Σωσιπάτρου, Τερτίου, Ἐράστου καὶ Κουάρτου· καὶ τοῦ Ἁγίου Μάρτυρος Ὀρέστου." // full title of day
 meShortCommemoration1.text = "Μνήμη τῶν Ἁγίων Ἀποστόλων Ὀλυμπᾶ, Ῥοδίωνος, Σωσιπάτρου, Τερτίου, Ἐράστου καὶ Κουάρτου"
-meInsert1 = "καὶ τῶν ἁγίων Ἀποστόλων Ὀλυμπᾶ, Ῥοδίωνος, Σωσιπάτρου, Τερτίου, Ἐράστου καὶ Κουάρτου· καὶ τοῦ ἁγίου Μάρτυρος Ὀρέστου, " // for use in petitions and dismissal
-meInsert2 = "ὧν καὶ τὴν μνήμην ἐπιτελοῦμεν·" // for use in petitions and dismissal
+meInsert1 = "" // for use in petitions and dismissal
+meInsert2 = "" // for use in petitions and dismissal
 meNote.text = ""
 meLE.commemoration1 = "Μνήμη τῶν Ἁγίων Ἀποστόλων ἐκ τῶν Ο´ Ἐράστου, Ὀλυμπᾶ, καὶ τῶν  σὺν αὐτοῖς."
 meLE.commemoration2 = ""
@@ -60,8 +60,8 @@ meMA.C1Acrostic.text = "οὗ ἡ Ἀκροστιχίς· Θεηγόρους �
 
 meMA.C2Acrostic.text = "οὗ ἡ Ἀκροστιχίς· Τοὺς σούς, Ὀρέστα Μάρτυς, ἄθλους αἰνέσω."
 
-meMA.C1.title = ""
-meMA.C1.verse = ""
+meMA.C1.title = titles_gr_GR_cog.KanonTonApostolon
+meMA.C1.verse = prayers_gr_GR_cog.verse_Apostles.text
 
 meMA.Ode1C11.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C11.mode = misc_gr_GR_cog.Mode1
@@ -83,8 +83,8 @@ meMA.Ode1C1T.mode = misc_gr_GR_cog.Mode1
 meMA.Ode1C1T.melody = he.h.m1_gr_GR_cog.SouITropaiouchos.name
 meMA.Ode1C1T.text = "Γένος τὸ ἀνθρώπινον τῇ σῇ, κυοφορίᾳ Παρθένε ἀνέπλασας· Λόγον γὰρ ἐκύησας, τὸν τοῦ Πατρὸς σάρκα θνητὴν φορέσαντα, καὶ ἀθανασίας, ὁδοὺς ἡμῖν ὑποδείξαντα."
 
-meMA.C2.title = ""
-meMA.C2.verse = ""
+meMA.C2.title = titles_gr_GR_cog.KanonTouMartyros
+meMA.C2.verse = prayers_gr_GR_cog.verse_SaintM.text
 
 meMA.Ode1C21.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C21.mode = misc_gr_GR_cog.Mode2

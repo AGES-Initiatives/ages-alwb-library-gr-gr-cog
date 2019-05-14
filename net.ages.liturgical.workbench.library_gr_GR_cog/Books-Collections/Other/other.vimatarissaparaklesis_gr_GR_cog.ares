@@ -34,6 +34,13 @@ hoCA.Ode1H.mode = misc_gr_GR_cog.Mode8
 hoCA.Ode1H.melody = misc_gr_GR_cog.Heirmos
 hoCA.Ode1H.text = he.h.m8_gr_GR_cog.YgranDiodefsas.text
 
+R06 = ""
+
+hoCA.Ode10.ode = misc_gr_GR_cog.Ode1
+hoCA.Ode10.mode = misc_gr_GR_cog.Mode8
+hoCA.Ode10.melody = he.h.m8_gr_GR_cog.YgranDiodefsas.name
+hoCA.Ode10.text = ""
+
 hoCA.Ode11.ode = misc_gr_GR_cog.Ode1
 hoCA.Ode11.mode = misc_gr_GR_cog.Mode8
 hoCA.Ode11.melody = he.h.m8_gr_GR_cog.YgranDiodefsas.name
@@ -87,7 +94,6 @@ hoCA.Troparion32.mode = misc_gr_GR_cog.Mode8
 hoCA.Troparion32.melody  = ""
 hoCA.Troparion32.text = ho.s23_gr_GR_cog.hoCA.Troparion32.text
 
-//R06
 //R07
 
 hoCA.Kathisma11.mode = misc_gr_GR_cog.Mode2

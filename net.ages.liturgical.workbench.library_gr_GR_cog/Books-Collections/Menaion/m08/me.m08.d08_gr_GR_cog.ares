@@ -3,6 +3,8 @@ A_Resource_Whose_Name = me.m08.d08_gr_GR_cog
 meDate.text = "Τῌ Ηʹ ΑΥΓΟΥΣΤΟΥ"
 meCommemoration.text = "Μνήμη τοῦ Ἁγίου Αἰμιλιανοῦ, Ἐπισκόπου Κυζίκου" //full title of day
 meShortCommemoration1.text = "Μνήμη τοῦ Ἁγίου Αἰμιλιανοῦ, Ἐπισκόπου Κυζίκου"
+meCom1.title = ""
+meCom2.title = ""
 meInsert1 = "καὶ τοῦ Ὁσίου Πατρὸς ἡμῶν Αἰμιλιανοῦ, Ἐπισκόπου Κυζίκου, " //for use in petitions and dismissal
 meInsert2 = "οὗ καὶ τὴν μνήμην ἐπιτελοῦμεν· " //for use in petitions and dismissal
 meNote.text = ""
@@ -37,7 +39,7 @@ meVE.Stichera05.text = "Ὁ οὐρανίαις μοναῖς ἐνῳκισμ�
 
 meVE.Stichera06.mode = misc_gr_GR_cog.Mode4
 meVE.Stichera06.melody = he.a.m4_gr_GR_cog.OExYpsistouKlitheis.name
-meVE.Stichera06.text = "Πυρίνῃ γλώσσῃ πανσόφως κεχρημένος, ὅτε μιξοβάρβαρον νόμον ἐθέσπισε, μὴ προσκυνεῖσθαι κελεύοντα, τὴν σεβασμίαν, Χριστοῦ Εἰκόνα Λέων ὁ τύραννος, τότε σὺ τόν ἔνθεον νόμον ἀντέθηκας, ὡς διαβαίνει προσκύνησις, ἡ τῆς εἰκόνος, ὣς πού τις ἔφη πρὸς τὸ ἀρχέτυπον, καὶ τῷ σῷ λόγῳ ὡς ἐμβρόντητος, ἀπεφάνθη ὁ θὴρ ὁ δυσώνυμος, πανσεβάσμιε Πάτερ, θεοῤῥῆμον ἱερώτατε."
+meVE.Stichera06.text = "Πυρίνῃ γλώσσῃ πανσόφως κεχρημένος, ὅτε μιξοβάρβαρον νόμον ἐθέσπισε, μὴ προσκυνεῖσθαι κελεύοντα, τὴν σεβασμίαν, Χριστοῦ Εἰκόνα Λέων ὁ τύραννος, τότε σὺ τὸν ἔνθεον νόμον ἀντέθηκας, ὡς διαβαίνει προσκύνησις, ἡ τῆς εἰκόνος, ὣς πού τις ἔφη πρὸς τὸ ἀρχέτυπον, καὶ τῷ σῷ λόγῳ ὡς ἐμβρόντητος, ἀπεφάνθη ὁ θὴρ ὁ δυσώνυμος, πανσεβάσμιε Πάτερ, θεοῤῥῆμον ἱερώτατε."
 
 meVE.SticGlory.mode = misc_gr_GR_cog.Mode1
 meVE.SticGlory.melody = ""
@@ -45,7 +47,7 @@ meVE.SticGlory.text = me.m08.d06_gr_GR_cog.meVE.Aposticha1.text
 
 meVE.Aposticha1.mode = misc_gr_GR_cog.Mode6
 meVE.Aposticha1.melody = he.a.m6_gr_GR_cog.TriimerosAnestis.name
-meVE.Aposticha1.text = "Μορφούμενος δι' οἶκτον Χριστέ, Ἀδὰμ τὸν πρῶτον ἄνθρωπον, ἐκ Παρθένου, ὤφθης δεύτερος, Ἀδάμ, ἐν ὄρει δὲ Σωτήρ μου, Θαβὼρ μετεμορφώθης, παραγυμνῶν σου τήν Θεότητα."
+meVE.Aposticha1.text = "Μορφούμενος δι' οἶκτον Χριστέ, Ἀδὰμ τὸν πρῶτον ἄνθρωπον, ἐκ Παρθένου, ὤφθης δεύτερος, Ἀδάμ, ἐν ὄρει δὲ Σωτήρ μου, Θαβὼρ μετεμορφώθης, παραγυμνῶν σου τὴν Θεότητα."
 
 meVE.Aposticha2.mode = misc_gr_GR_cog.Mode6
 meVE.Aposticha2.melody = he.a.m6_gr_GR_cog.TriimerosAnestis.name
@@ -178,7 +180,7 @@ meMA.Ode5C1T.text = "Ἁγίων Ἁγία, Παρθένε ἁγνή, τῶ�
 meMA.Ode6C11.ode = misc_gr_GR_cog.Ode6
 meMA.Ode6C11.mode = misc_gr_GR_cog.Mode1
 meMA.Ode6C11.melody = he.h.m1_gr_GR_cog.SplanchnonIonan.name
-meMA.Ode6C11.text = "Στῆσαι βουληθείς, νομὴν τῆς αἱρέσεως, προθύμως χωρεὶς πρὸς τοὺς κινδύνους σοφέ, καὶ διήλεγξας παῤῥησίᾳ μεγάλῃ χρησάμενος, τὴν γνώμην τοῦ κρατοῦντος σὺ τήν ἄθεον, πρῶτος τοῦ λαλεῖν ἀρξάμενος, ἠθροισμένης Συνόδου θεόφρονος."
+meMA.Ode6C11.text = "Στῆσαι βουληθείς, νομὴν τῆς αἱρέσεως, προθύμως χωρεὶς πρὸς τοὺς κινδύνους σοφέ, καὶ διήλεγξας παῤῥησίᾳ μεγάλῃ χρησάμενος, τὴν γνώμην τοῦ κρατοῦντος σὺ τὴν ἄθεον, πρῶτος τοῦ λαλεῖν ἀρξάμενος, ἠθροισμένης Συνόδου θεόφρονος."
 
 meMA.Ode6C12.ode = misc_gr_GR_cog.Ode6
 meMA.Ode6C12.mode = misc_gr_GR_cog.Mode1
@@ -258,7 +260,7 @@ meMA.Ode9C12.text = "Λόγου καὶ σοφίας ἄριστε, κεκοσ
 meMA.Ode9C13.ode = misc_gr_GR_cog.Ode9
 meMA.Ode9C13.mode = misc_gr_GR_cog.Mode1
 meMA.Ode9C13.melody = he.h.m1_gr_GR_cog.TyponTisAgnis.name
-meMA.Ode9C13.text = "Πύλας οὐρανίους Ὅσιε, ἀναπετάσας ὁ Δεσπότης ἐδέξατο, Αἰμιλιανέ, τὴν σὴν ψυχὴν ἀναψύξεως, καταπαύσας ἐν τόποις ὡς δίκαιος, καὶ νῦν περιπολεύεις, περὶ τόν θρόνον τοῦ Παντάνακτος."
+meMA.Ode9C13.text = "Πύλας οὐρανίους Ὅσιε, ἀναπετάσας ὁ Δεσπότης ἐδέξατο, Αἰμιλιανέ, τὴν σὴν ψυχὴν ἀναψύξεως, καταπαύσας ἐν τόποις ὡς δίκαιος, καὶ νῦν περιπολεύεις, περὶ τὸν θρόνον τοῦ Παντάνακτος."
 
 meMA.Ode9C1T.ode = misc_gr_GR_cog.Ode9
 meMA.Ode9C1T.mode = misc_gr_GR_cog.Mode1

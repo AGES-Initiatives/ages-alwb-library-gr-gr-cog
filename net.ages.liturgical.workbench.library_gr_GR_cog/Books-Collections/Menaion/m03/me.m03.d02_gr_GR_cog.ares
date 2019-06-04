@@ -3,6 +3,8 @@ A_Resource_Whose_Name = me.m03.d02_gr_GR_cog
 meDate.text = "Τῌ Βʹ ΜΑΡΤΙΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
 meCommemoration.text = "Μνήμη τοῦ Ἁγίου Μάρτυρος Ἡσυχίου τοῦ Συγκλητικοῦ" //full title of day
 meShortCommemoration1.text = "Μνήμη τοῦ Ἁγίου Μάρτυρος Ἡσυχίου"
+meCom1.title = ""
+meCom2.title = ""
 meInsert1 = "καὶ τοῦ Ἁγίου Μάρτυρος Ἡσυχίου τοῦ Συγκλητικοῦ, " //for use in petitions and dismissal
 meInsert2 = "οὗ καὶ τὴν μνήμην ἐπιτελοῦμεν· " //for use in petitions and dismissal
 meNote.text = ""
@@ -20,7 +22,7 @@ meVE.Stichera01.text = "Καὶ ἐν βίῳ περίδοξος, καὶ Μ�
 
 meVE.Stichera02.mode = misc_gr_GR_cog.Mode4
 meVE.Stichera02.melody = he.a.m4_gr_GR_cog.OsGennaionEnMartysi.name
-meVE.Stichera02.text = "Βασιλεῖ τῶν Δυνάμεων, στρατευθεὶς διὰ πίστεως, ἀθλητὰ Ἡσύχιε, δόγμα ἄθεον, παρανομούντων ἠκύρωσας, Βασιλέων ἔνδοξε, καὶ προείλου τὸ θανεῖν διὰ πόθον τόν ἔνθεον· ὅθεν ἅπασα, ἡ σεπτὴ Ἐκκλησία ἑορτάζει, τὴν πανέορτόν σου μνήμην, καὶ θυμηδίας ἀνάπλεων."
+meVE.Stichera02.text = "Βασιλεῖ τῶν Δυνάμεων, στρατευθεὶς διὰ πίστεως, ἀθλητὰ Ἡσύχιε, δόγμα ἄθεον, παρανομούντων ἠκύρωσας, Βασιλέων ἔνδοξε, καὶ προείλου τὸ θανεῖν διὰ πόθον τὸν ἔνθεον· ὅθεν ἅπασα, ἡ σεπτὴ Ἐκκλησία ἑορτάζει, τὴν πανέορτόν σου μνήμην, καὶ θυμηδίας ἀνάπλεων."
 
 meVE.Stichera03.mode = misc_gr_GR_cog.Mode4
 meVE.Stichera03.melody = he.a.m4_gr_GR_cog.OsGennaionEnMartysi.name
@@ -276,6 +278,8 @@ meMegalynarion.text = ""
 alt1.meDate.text = "Τῌ Βʹ ΜΑΡΤΙΟΥ"
 alt1.meCommemoration.text = "Μνήμη τοῦ Ὁσίου Νικολάου ἱερέως τοῦ Πλανᾶ" //full title of day
 alt1.meShortCommemoration1.text = "Μνήμη τοῦ Ὁσίου Νικολάου Πλανᾶ"
+alt1.meCom1.title = ""
+alt1.meCom2.title = ""
 alt1.meInsert1 = "καὶ τοῦ Ὁσίου Νικολάου ἱερέως τοῦ Πλανᾶ," //for use in petitions and dismissal
 alt1.meInsert2 = "οὑ καὶ τὴν μνήμην ἐπιτελοῦμεν·" //for use in petitions and dismissal
 alt1.meNote.text = ""

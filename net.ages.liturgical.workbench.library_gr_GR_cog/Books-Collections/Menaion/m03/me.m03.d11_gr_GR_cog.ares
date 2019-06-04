@@ -3,6 +3,8 @@ A_Resource_Whose_Name = me.m03.d11_gr_GR_cog
 meDate.text = "Τῌ ΙΑʹ ΜΑΡΤΙΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
 meCommemoration.text = "Μνήμη τοῦ ἐν Ἁγίοις Πατρὸς ἡμῶν Σωφρονίου, Πατριάρχου Ἱεροσολύμων, καὶ τῆς Ὁσίας Μητρὸς ἡμῶν Θεοδώρας, βασιλίσσης Ἄρτης." //full title of day
 meShortCommemoration1.text = "Μνήμη τοῦ Ἁγίου Σωφρονίου Ἱεροσολύμων"
+meCom1.title = ""
+meCom2.title = ""
 meInsert1 = "" //for use in petitions and dismissal
 meInsert2 = "" //for use in petitions and dismissal
 meNote.text = ""
@@ -39,7 +41,7 @@ meVE.GeneralApolytikion1.name = "πάτερ Ἱεράρχα Σωφρόνιε,
 meVE.Apolytikion1.poet = poets_gr_GR_cog.Gerasimou
 meVE.Apolytikion1.mode = misc_gr_GR_cog.Mode5
 meVE.Apolytikion1.melody = he.a.m5_gr_GR_cog.TonSynanarchonLogon.name
-meVE.Apolytikion1.text = "Σωφροσύνης τὴν αἴγλην πλουτήσας Ὅσιε, τῆς εὐσεβείας ἐκφαίνεις τὸν ὑπὲρ νοῦν φωτισμόν, ταῖς τῶν Λόγων ἀστραπαῖς Πάτερ Σωφρόνιε· σὺ γὰρ σοφίας κοινωνός, διὰ βίου γεγονώς, στηρίζεις τήν Ἐκκλησίαν, ὡς εὐκλεὴς Ἱεράρχης, καὶ πρεσβευτὴς ἡμῶν πρὸς Κύριον."
+meVE.Apolytikion1.text = "Σωφροσύνης τὴν αἴγλην πλουτήσας Ὅσιε, τῆς εὐσεβείας ἐκφαίνεις τὸν ὑπὲρ νοῦν φωτισμόν, ταῖς τῶν Λόγων ἀστραπαῖς Πάτερ Σωφρόνιε· σὺ γὰρ σοφίας κοινωνός, διὰ βίου γεγονώς, στηρίζεις τὴν Ἐκκλησίαν, ὡς εὐκλεὴς Ἱεράρχης, καὶ πρεσβευτὴς ἡμῶν πρὸς Κύριον."
 
 meVE.Apolytikion2.poet = poets_gr_GR_cog.MitropolitouArtisSerafim
 meVE.Apolytikion2.mode = misc_gr_GR_cog.Mode3
@@ -80,7 +82,7 @@ meMA.Ode1C14.text = "Ῥημάτων ὁ φθόγγος σου, καὶ τῶ�
 meMA.Ode1C1T.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C1T.mode = misc_gr_GR_cog.Mode4
 meMA.Ode1C1T.melody = he.h.m4_gr_GR_cog.AnoixoToStomaMou.name
-meMA.Ode1C1T.text = "Ὁ ὢν φύσει ἄκτιστος, καὶ τῷ Πατρὶ συναΐδιος, καὶ χρόνων ὑπέρτερος, καὶ προαιώνιος, ἐκ σοῦ Δέσποινα, κτιστὸς καὶ ὑπὸ χρόνον, ὡς ἄνθρωπος γίνεται, σῴζων τόν ἄνθρωπον."
+meMA.Ode1C1T.text = "Ὁ ὢν φύσει ἄκτιστος, καὶ τῷ Πατρὶ συναΐδιος, καὶ χρόνων ὑπέρτερος, καὶ προαιώνιος, ἐκ σοῦ Δέσποινα, κτιστὸς καὶ ὑπὸ χρόνον, ὡς ἄνθρωπος γίνεται, σῴζων τὸν ἄνθρωπον."
 
 meMA.Ode3C1H.ode = misc_gr_GR_cog.Ode3
 meMA.Ode3C1H.mode = misc_gr_GR_cog.Mode4
@@ -257,7 +259,7 @@ meMA.Ode8C13.text = "Ἱεροπρεπῶς Ἱερομύστα, τὴν θε�
 meMA.Ode8C14.ode = misc_gr_GR_cog.Ode8
 meMA.Ode8C14.mode = misc_gr_GR_cog.Mode4
 meMA.Ode8C14.melody = he.h.m4_gr_GR_cog.PaidasEvageis.name
-meMA.Ode8C14.text = "Μεγαλοπρεπῶς καὶ ὑπὲρ λόγον, ὁ Λόγος ὁ τῷ Πατρὶ Πάτερ συνάναρχος, λόγον σοι δεδώρηται, λόγους διατρέφοντα, καὶ γλωσσαλγίας λύοντα τὰς τῶν αἱρέσεων, τόν Κύριον ὑμνεῖτε βοῶντα, καὶ ὑπερυψοῦτε εἰς πάντας τοὺς αἰῶνας."
+meMA.Ode8C14.text = "Μεγαλοπρεπῶς καὶ ὑπὲρ λόγον, ὁ Λόγος ὁ τῷ Πατρὶ Πάτερ συνάναρχος, λόγον σοι δεδώρηται, λόγους διατρέφοντα, καὶ γλωσσαλγίας λύοντα τὰς τῶν αἱρέσεων, τὸν Κύριον ὑμνεῖτε βοῶντα, καὶ ὑπερυψοῦτε εἰς πάντας τοὺς αἰῶνας."
 
 meMA.Ode8C1T.ode = misc_gr_GR_cog.Ode8
 meMA.Ode8C1T.mode = misc_gr_GR_cog.Mode4

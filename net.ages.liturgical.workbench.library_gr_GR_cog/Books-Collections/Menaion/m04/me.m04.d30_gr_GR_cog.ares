@@ -3,6 +3,8 @@ A_Resource_Whose_Name = me.m04.d30_gr_GR_cog
 meDate.text = "Τῌ Λʹ ΑΠΡΙΛΙΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
 meCommemoration.text = "Μνήμη τοῦ Ἁγίου Ἀποστόλου Ἰακώβου, Ἀδελφοῦ Ἰωάννου τοῦ Θεολόγου." // full title of day
 meShortCommemoration1.text = ""
+meCom1.title = ""
+meCom2.title = ""
 meInsert1 = "καὶ τοῦ ἁγίου ἐνδόξου καὶ πανευφήμου Ἀποστόλου Ἰακώβου, ἀδελφοῦ Ἰωάννου τοῦ Θεολόγου," // for use in petitions and dismissal
 meInsert2 = "οὗ καὶ τὴν μνήμην ἐπιτελοῦμεν·" // for use in petitions and dismissal
 meNote.text = ""
@@ -71,7 +73,7 @@ meMA.Ode1C14.text = "Βουλῆς μεγάλης τοῦ Πατρός, ὁ �
 meMA.Ode1C1T.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C1T.mode = misc_gr_GR_cog.Mode8
 meMA.Ode1C1T.melody = he.h.m8_gr_GR_cog.ArmatilatinFarao.name
-meMA.Ode1C1T.text = "Δεδοξασμένα περὶ σοῦ λελάληνται, ἐν γενεαῖς γενεῶν, ἡ τὸν Θεὸν Λόγον, ἐν γαστρὶ χωρήσασα, ἁγνὴ δὲ διαμείνασα, Θεοτόκε Μαρία· διὸ σε πάντες γεραίρομεν, τήν μετὰ Θεὸν προστασίαν ἡμῶν."
+meMA.Ode1C1T.text = "Δεδοξασμένα περὶ σοῦ λελάληνται, ἐν γενεαῖς γενεῶν, ἡ τὸν Θεὸν Λόγον, ἐν γαστρὶ χωρήσασα, ἁγνὴ δὲ διαμείνασα, Θεοτόκε Μαρία· διὸ σε πάντες γεραίρομεν, τὴν μετὰ Θεὸν προστασίαν ἡμῶν."
 
 meMA.Ode3C11.ode = misc_gr_GR_cog.Ode3
 meMA.Ode3C11.mode = misc_gr_GR_cog.Mode8
@@ -280,7 +282,7 @@ meMA.Ode9H.text = he.h.m8_gr_GR_cog.ExestiEpiTouto.text
 
 meMA.Exaposteilarion1.mode = misc_gr_GR_cog.Mode2
 meMA.Exaposteilarion1.melody = he.a.m2_gr_GR_cog.TonMathitonOrontonSe.name
-meMA.Exaposteilarion1.text = "Τῷ σαρκωθέντι Λόγῳ δι' εὐσπλαγχνίαν, μαθητευθεὶς Ἰάκωβε τῆς χορείας, ὤφθης Κορυφαίων συναρίθμιος, μεθ' ὧν Χριστῷ δυσώπησον, ὑπὲρ ἡμῶν τῶν τιμώντων, τήν παναγίαν σου μνήμην."
+meMA.Exaposteilarion1.text = "Τῷ σαρκωθέντι Λόγῳ δι' εὐσπλαγχνίαν, μαθητευθεὶς Ἰάκωβε τῆς χορείας, ὤφθης Κορυφαίων συναρίθμιος, μεθ' ὧν Χριστῷ δυσώπησον, ὑπὲρ ἡμῶν τῶν τιμώντων, τὴν παναγίαν σου μνήμην."
 
 meMA.Lauds1.mode = misc_gr_GR_cog.Mode4
 meMA.Lauds1.melody = he.a.m4_gr_GR_cog.OsGennaionEnMartysi.name
@@ -288,7 +290,7 @@ meMA.Lauds1.text = "Τῷ καλάμῳ τῆς χάριτος, ἐκ βυθο
 
 meMA.Lauds2.mode = misc_gr_GR_cog.Mode4
 meMA.Lauds2.melody = he.a.m4_gr_GR_cog.OsGennaionEnMartysi.name
-meMA.Lauds2.text = "Ἡ τοῦ Πνεύματος ἔλλαμψις, ἐπὶ σὲ καταβέβηκε, τοῦ πυρὸς ἐν εἴδει, καὶ σὲ μακάριε, θεῖον δοχεῖον εἰργάσατο, συντόνως ἐλαύνοντα, ἀθεΐας τὴν ἀχλύν, καὶ τόν κόσμον φωτίζοντα, τῇ λαμπρότητι, τῶν πανσόφων σου λόγων, μυστολέκτα, Ἀποστόλων ἡ ἀκρότης, Χριστοῦ αὐτόπτα Ἰάκωβε."
+meMA.Lauds2.text = "Ἡ τοῦ Πνεύματος ἔλλαμψις, ἐπὶ σὲ καταβέβηκε, τοῦ πυρὸς ἐν εἴδει, καὶ σὲ μακάριε, θεῖον δοχεῖον εἰργάσατο, συντόνως ἐλαύνοντα, ἀθεΐας τὴν ἀχλύν, καὶ τὸν κόσμον φωτίζοντα, τῇ λαμπρότητι, τῶν πανσόφων σου λόγων, μυστολέκτα, Ἀποστόλων ἡ ἀκρότης, Χριστοῦ αὐτόπτα Ἰάκωβε."
 
 meMA.Lauds3.mode = misc_gr_GR_cog.Mode4
 meMA.Lauds3.melody = he.a.m4_gr_GR_cog.OsGennaionEnMartysi.name

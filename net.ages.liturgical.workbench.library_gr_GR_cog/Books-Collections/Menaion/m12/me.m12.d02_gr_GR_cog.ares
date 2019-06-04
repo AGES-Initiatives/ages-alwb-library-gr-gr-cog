@@ -3,6 +3,8 @@ A_Resource_Whose_Name = me.m12.d02_gr_GR_cog
 meDate.text = "Τῌ Βʹ ΔΕΚΕΜΒΡΙΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
 meCommemoration.text = "Μνήμη τοῦ Ἁγίου Προφήτου Ἀββακούμ" //full title of day
 meShortCommemoration1.text = "Μνήμη τοῦ Ἁγίου Προφήτου Ἀββακούμ"
+meCom1.title = ""
+meCom2.title = ""
 meInsert1 = "" //for use in petitions and dismissal
 meInsert2 = "" //for use in petitions and dismissal
 meNote.text = ""
@@ -16,7 +18,7 @@ meHO.note2 = ""
 
 meVE.Stichera01.mode = misc_gr_GR_cog.Mode4
 meVE.Stichera01.melody = he.a.m4_gr_GR_cog.OsGennaionEnMartysi.name
-meVE.Stichera01.text = "Ἀββακοὺμ ὁ θαυμάσιος, τὴν ἀκτῖνα τοῦ Πνεύματος, δεδεγμένος γέγονεν, ὅλος ἔνθεος· καὶ τῶν κριτῶν τὴν ἀσέβειαν, καὶ κρίσιν τὴν ἄδικον, θεωρῶν ἀγανακτεῖ, τήν τῆς γνώμης εὐθύτητα, ἐνδεικνύμενος, τοῦ Θεοῦ καὶ Δεσπότου φιλοθέως, καὶ θερμῇ τῇ διανοίᾳ, ὡς δυσχεραίνων καθάπτεται."
+meVE.Stichera01.text = "Ἀββακοὺμ ὁ θαυμάσιος, τὴν ἀκτῖνα τοῦ Πνεύματος, δεδεγμένος γέγονεν, ὅλος ἔνθεος· καὶ τῶν κριτῶν τὴν ἀσέβειαν, καὶ κρίσιν τὴν ἄδικον, θεωρῶν ἀγανακτεῖ, τὴν τῆς γνώμης εὐθύτητα, ἐνδεικνύμενος, τοῦ Θεοῦ καὶ Δεσπότου φιλοθέως, καὶ θερμῇ τῇ διανοίᾳ, ὡς δυσχεραίνων καθάπτεται."
 
 meVE.Stichera02.mode = misc_gr_GR_cog.Mode4
 meVE.Stichera02.melody = he.a.m4_gr_GR_cog.OsGennaionEnMartysi.name
@@ -257,6 +259,8 @@ meMegalynarion.text = ""
 alt1.meDate.text = "Τῌ Βʹ ΔΕΚΕΜΒΡΙΟΥ" // date
 alt1.meCommemoration.text = "Μνήμη τοῦ Ὁσίου καὶ Θεοφόρου Πατρὸς ἡμῶν Πορφυρίου τοῦ Καυσοκαλυβίτου" //full title of day
 alt1.meShortCommemoration1.text = "Μνήμη τοῦ Ὁσίου Πορφυρίου τοῦ Καυσοκαλυβίτου"
+alt1.meCom1.title = ""
+alt1.meCom2.title = ""
 alt1.meInsert1 = "τοῦ Ὁσίου καὶ Θεοφόρου Πατρὸς ἡμῶν Πορφυρίου τοῦ Καυσοκαλυβίτου," //for use in petitions and dismissal
 alt1.meInsert2 = "οὗ καὶ τὴν μνήμην ἐπιτελοῦμεν," //for use in petitions and dismissal
 alt1.meNote.text = ""

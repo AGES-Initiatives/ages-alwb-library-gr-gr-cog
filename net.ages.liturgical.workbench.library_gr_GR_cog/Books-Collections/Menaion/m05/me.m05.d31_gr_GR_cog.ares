@@ -3,6 +3,8 @@ A_Resource_Whose_Name = me.m05.d31_gr_GR_cog
 meDate.text = "Τῌ ΛΑʹ ΜΑΪΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
 meCommemoration.text = "Μνήμη τοῦ Ἁγίου Μάρτυρος Ἑρμείου." //full title of day
 meShortCommemoration1.text = ""
+meCom1.title = ""
+meCom2.title = ""
 meInsert1 = "καὶ τοῦ Ἁγίου Μάρτυρος Ἑρμείου, " //for use in petitions and dismissal
 meInsert2 = "οὗ καὶ τὴν μνήμην ἐπιτελοῦμεν· " //for use in petitions and dismissal
 meNote.text = ""
@@ -28,7 +30,7 @@ meVE.Stichera03.text = "Ὡς ἀκαθαίρετος Πύργος, ταῖς 
 
 meVE.SticTheotokion.mode = misc_gr_GR_cog.Mode1
 meVE.SticTheotokion.melody = he.a.m1_gr_GR_cog.TonOuranionTagmaton.name
-meVE.SticTheotokion.text = "Ἐν τῷ πελάγει τοῦ βίου κλυδωνιζόμενος, καὶ ταῖς τῶν ἐναντίων, ῥαπιζόμενος αὔραις, βοῶ σοι Θεοτόκε. Ἴθυνον νῦν, πρὸς λιμένα με εὔδιον, τῆς μετανοίας τήν ζάλην τῶν λογισμῶν, εἰς γαλήνην μεταβάλλουσα."
+meVE.SticTheotokion.text = "Ἐν τῷ πελάγει τοῦ βίου κλυδωνιζόμενος, καὶ ταῖς τῶν ἐναντίων, ῥαπιζόμενος αὔραις, βοῶ σοι Θεοτόκε. Ἴθυνον νῦν, πρὸς λιμένα με εὔδιον, τῆς μετανοίας τὴν ζάλην τῶν λογισμῶν, εἰς γαλήνην μεταβάλλουσα."
 
 meVE.SticStavrotheotokion.mode = misc_gr_GR_cog.Mode1
 meVE.SticStavrotheotokion.melody = he.a.m1_gr_GR_cog.TonOuranionTagmaton.name
@@ -149,7 +151,7 @@ meMA.Ode5C13.text = "Οὐδαμῶς παρετράπης, στάσεως τ�
 meMA.Ode5C1T.ode = misc_gr_GR_cog.Ode5
 meMA.Ode5C1T.mode = misc_gr_GR_cog.Mode8
 meMA.Ode5C1T.melody = he.h.m8_gr_GR_cog.InaTiMeAposo.name
-meMA.Ode5C1T.text = "Νοερὰν σε λυχνίαν, πάλαι ὁ Προφήτης κατεῖδεν ἐν Πνεύματι, κεκτημένην Κόρη, τὸ λαμπάδιον Χριστὸν τὸν Κύριον, τὸν φωτὶ ἀῤῥήτῳ, πάντας ἡμᾶς φωταγωγοῦντα, τούς πιστῶς σε τιμῶντας πανάμωμε."
+meMA.Ode5C1T.text = "Νοερὰν σε λυχνίαν, πάλαι ὁ Προφήτης κατεῖδεν ἐν Πνεύματι, κεκτημένην Κόρη, τὸ λαμπάδιον Χριστὸν τὸν Κύριον, τὸν φωτὶ ἀῤῥήτῳ, πάντας ἡμᾶς φωταγωγοῦντα, τοὺς πιστῶς σε τιμῶντας πανάμωμε."
 
 meMA.Ode6C11.ode = misc_gr_GR_cog.Ode6
 meMA.Ode6C11.mode = misc_gr_GR_cog.Mode8
@@ -244,7 +246,7 @@ meMA.Ode9C13.text = "Στρατείας ἀλογήσας τῆς ἐπὶ γ�
 meMA.Ode9C14.ode = misc_gr_GR_cog.Ode9
 meMA.Ode9C14.mode = misc_gr_GR_cog.Mode8
 meMA.Ode9C14.melody = he.h.m8_gr_GR_cog.ExestiEpiTouto.name
-meMA.Ode9C14.text = "Ἡ μνήμη σου ἐπέστη ἡ φωταυγής, τὰς ἡμῶν διανοίας φωτίζουσα, μαρμαρυγαῖς, τῶν ἀγωνισμάτων σου τῶν στεῤῥῶν, ἐν ᾗ παρακαλοῦμέν σε. Ἔχων παῤῥησίαν πρὸς τόν Χριστόν, ἱκέτευε ἀπαύστως, τυχεῖν ἡμᾶς ἐλέους, ἐν τῇ ἡμέρᾳ τῆς ἐτάσεως."
+meMA.Ode9C14.text = "Ἡ μνήμη σου ἐπέστη ἡ φωταυγής, τὰς ἡμῶν διανοίας φωτίζουσα, μαρμαρυγαῖς, τῶν ἀγωνισμάτων σου τῶν στεῤῥῶν, ἐν ᾗ παρακαλοῦμέν σε. Ἔχων παῤῥησίαν πρὸς τὸν Χριστόν, ἱκέτευε ἀπαύστως, τυχεῖν ἡμᾶς ἐλέους, ἐν τῇ ἡμέρᾳ τῆς ἐτάσεως."
 
 meMA.Ode9C1T.ode = misc_gr_GR_cog.Ode9
 meMA.Ode9C1T.mode = misc_gr_GR_cog.Mode8

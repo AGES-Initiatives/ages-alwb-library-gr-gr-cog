@@ -6,6 +6,8 @@ meHO.DaysHours.text = ""
 meDate.text = "Τῌ Αʹ ΝΟΕΜΒΡΙΟΥ"
 meCommemoration.text = "Μνήμη τῶν Ἁγίων Ἀναργύρων, Κοσμᾶ καὶ Δαμιανοῦ" //full title of day
 meShortCommemoration1.text = "Μνήμη τῶν Ἁγίων Ἀναργύρων, Κοσμᾶ καὶ Δαμιανοῦ"
+meCom1.title = ""
+meCom2.title = ""
 meInsert1 = "καὶ τῶν Ἁγίων Ἀναργύρων, Κοσμᾶ καὶ Δαμιανοῦ, " //for use in petitions and dismissal
 meInsert2 = "ὧν καὶ τὴν μνήμην ἐπιτελοῦμεν· " //for use in petitions and dismissal
 meNote.text = ""
@@ -77,7 +79,7 @@ meVE.Apolytikion1.text = me.m07.d01_gr_GR_cog.meVE.Apolytikion1.text
 meMA.C1Poet = poets_gr_GR_cog.IoannouTouDamaskinou
 meMA.C1Acrostic.text = "οὗ ἡ Ἀκροστιχίς· Ὕμνοις γεραίρω τοὺς σοφοὺς Ἀναργύρους."
 
-meMA.C2Acrostic.text = "ἔχων Ἀκροστιχίδα τήν δε· Δυάς με σῴζοις τῶν σοφῶν Ἀναργύρων. Ἰωσήφ."
+meMA.C2Acrostic.text = "ἔχων Ἀκροστιχίδα τὴν δε· Δυάς με σῴζοις τῶν σοφῶν Ἀναργύρων. Ἰωσήφ."
 
 meMA.C1.title = titles_gr_GR_cog.KanonATonAgion
 meMA.C1.verse = prayers_gr_GR_cog.verse_SaintsM.text
@@ -123,7 +125,7 @@ meMA.Ode1C23.text = "Ἀνύστακτον ψυχῆς, κεκτημένοι �
 meMA.Ode1C2T.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C2T.mode = misc_gr_GR_cog.Mode4
 meMA.Ode1C2T.melody = he.h.m4_gr_GR_cog.TristatasKrataious.name
-meMA.Ode1C2T.text = "Σωτῆρα καὶ Θεόν, ἐξ ἀγνῶν σου αἱμάτων, ἐσωμάτωσας Ἁγνή, τὸν δείξαντα ἡμῖν, ἰατροὺς τῶν παθῶν ἡμῶν, Ἄχραντε σωτηριώδεις, καὶ θερμοὺς ἀντιλήπτορας, τούς σεπτοὺς Ἀναργύρους ἐν Πνεύματι."
+meMA.Ode1C2T.text = "Σωτῆρα καὶ Θεόν, ἐξ ἀγνῶν σου αἱμάτων, ἐσωμάτωσας Ἁγνή, τὸν δείξαντα ἡμῖν, ἰατροὺς τῶν παθῶν ἡμῶν, Ἄχραντε σωτηριώδεις, καὶ θερμοὺς ἀντιλήπτορας, τοὺς σεπτοὺς Ἀναργύρους ἐν Πνεύματι."
 
 meMA.Ode3C11.ode = misc_gr_GR_cog.Ode3
 meMA.Ode3C11.mode = misc_gr_GR_cog.Mode1
@@ -360,7 +362,7 @@ meMA.Ode7C2T.text = "Ῥάβδος ἐκ ῥίζης, Ἰεσσαὶ σὺ ἀ
 meMA.Ode8C11.ode = misc_gr_GR_cog.Ode8
 meMA.Ode8C11.mode = misc_gr_GR_cog.Mode1
 meMA.Ode8C11.melody = he.h.m1_gr_GR_cog.EnKaminoPaides.name
-meMA.Ode8C11.text = "Νεκρωθέντες κόσμου τοῖς τερπνοῖς, καὶ τῆς φιλαργυρίας,τὴν νόσον ἀποτεμόντες, ὠνομάσθητε σοφοί,τοῖς πᾶσιν Ἀνάργυροι, τοῖς βοῶσι· Πάντα τὰ ἔργα Κυρίου, τόν Κύριον ὑμνεῖτε, καὶ ὑπερυψοῦτε, εἰς πάντας τοὺς αἰῶνας."
+meMA.Ode8C11.text = "Νεκρωθέντες κόσμου τοῖς τερπνοῖς, καὶ τῆς φιλαργυρίας,τὴν νόσον ἀποτεμόντες, ὠνομάσθητε σοφοί,τοῖς πᾶσιν Ἀνάργυροι, τοῖς βοῶσι· Πάντα τὰ ἔργα Κυρίου, τὸν Κύριον ὑμνεῖτε, καὶ ὑπερυψοῦτε, εἰς πάντας τοὺς αἰῶνας."
 
 meMA.Ode8C12.ode = misc_gr_GR_cog.Ode8
 meMA.Ode8C12.mode = misc_gr_GR_cog.Mode1
@@ -370,7 +372,7 @@ meMA.Ode8C12.text = "Αἰωνίου μέτοχοι ζωῆς, γεγόνατ
 meMA.Ode8C13.ode = misc_gr_GR_cog.Ode8
 meMA.Ode8C13.mode = misc_gr_GR_cog.Mode1
 meMA.Ode8C13.melody = he.h.m1_gr_GR_cog.EnKaminoPaides.name
-meMA.Ode8C13.text = "Ῥῦσαι πάντας Δέσποτα Χριστέ, δεινῶν ἀῤῥωστημάτων, πρεσβείαις τῶν Ἀναργύρων, καὶ ἀξίωσον ἀεί, συμφώνως κραυγάζειν σοι· Εὐλογεῖτε πάντα τὰ ἔργα Κυρίου, τόν Κύριον ὑμνεῖτε, καὶ ὑπερυψοῦτε εἰς πάντας τοὺς αἰῶνας."
+meMA.Ode8C13.text = "Ῥῦσαι πάντας Δέσποτα Χριστέ, δεινῶν ἀῤῥωστημάτων, πρεσβείαις τῶν Ἀναργύρων, καὶ ἀξίωσον ἀεί, συμφώνως κραυγάζειν σοι· Εὐλογεῖτε πάντα τὰ ἔργα Κυρίου, τὸν Κύριον ὑμνεῖτε, καὶ ὑπερυψοῦτε εἰς πάντας τοὺς αἰῶνας."
 
 meMA.Ode8C1T.ode = misc_gr_GR_cog.Ode8
 meMA.Ode8C1T.mode = misc_gr_GR_cog.Mode1

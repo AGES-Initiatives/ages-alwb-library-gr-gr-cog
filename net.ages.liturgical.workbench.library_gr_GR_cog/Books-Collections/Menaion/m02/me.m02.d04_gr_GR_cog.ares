@@ -3,6 +3,8 @@ A_Resource_Whose_Name = me.m02.d04_gr_GR_cog
 meDate.text = "Τῌ Δʹ ΦΕΒΡΟΥΑΡΙΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
 meCommemoration.text = "Μνήμη τοῦ Ὁσίου Πατρὸς ἡμῶν Ἰσιδώρου τοῦ Πηλουσιώτου" //full title of day
 meShortCommemoration1.text = "Μνήμη τοῦ Ὁσίου Ἰσιδώρου τοῦ Πηλουσιώτου"
+meCom1.title = ""
+meCom2.title = ""
 meInsert1 = "καὶ τοῦ Ὁσίου Πατρὸς ἡμῶν Ἰσιδώρου τοῦ Πηλουσιώτου, " //for use in petitions and dismissal
 meInsert2 = "οὗ καὶ τὴν μνήμην ἐπιτελοῦμεν· " //for use in petitions and dismissal
 meNote.text = ""
@@ -204,7 +206,7 @@ meMA.Ode6C11.text = "Λογίῳ τῶν κρίσεων, κοσμηθεὶς �
 meMA.Ode6C12.ode = misc_gr_GR_cog.Ode6
 meMA.Ode6C12.mode = misc_gr_GR_cog.Mode6
 meMA.Ode6C12.melody = he.h.m6_gr_GR_cog.TouViouTinThalassan.name
-meMA.Ode6C12.text = "Εὐτόνως τὴν Αἴγυπτον, τῶν παθῶν καὶ τῆς τρυφῆς, σὺ Μοναστῶν τὸ καύχημα, τῆς ἐγκρατείας Ἔνδοξε ταῖς πληγαῖς, ἐτάζων ἐμάστιξας, τοῖς πιστοῖς ὁμαλίζων τήν διάβασιν."
+meMA.Ode6C12.text = "Εὐτόνως τὴν Αἴγυπτον, τῶν παθῶν καὶ τῆς τρυφῆς, σὺ Μοναστῶν τὸ καύχημα, τῆς ἐγκρατείας Ἔνδοξε ταῖς πληγαῖς, ἐτάζων ἐμάστιξας, τοῖς πιστοῖς ὁμαλίζων τὴν διάβασιν."
 
 meMA.Ode6C1T.ode = misc_gr_GR_cog.Ode6
 meMA.Ode6C1T.mode = misc_gr_GR_cog.Mode6
@@ -248,17 +250,17 @@ meMA.Ode8C11.text = "Λογικὴν ὡς θυσίαν πάντα τὸν β�
 meMA.Ode8C12.ode = misc_gr_GR_cog.Ode8
 meMA.Ode8C12.mode = misc_gr_GR_cog.Mode6
 meMA.Ode8C12.melody = he.h.m6_gr_GR_cog.EkFlogosToisOsiois.name
-meMA.Ode8C12.text = "Πλεονάζεις τὸν πλοῦτον καὶ μετὰ θάνατον, τοὺς ἐμψύχους σου λόγους, ὥσπερ πολύτιμον, πᾶσι τοῖς πιστοῖς, κληροδοσίαν λιπών, τοῖς ὑπερυψοῦσι, Χριστὸν εἰς τούς αἰῶνας."
+meMA.Ode8C12.text = "Πλεονάζεις τὸν πλοῦτον καὶ μετὰ θάνατον, τοὺς ἐμψύχους σου λόγους, ὥσπερ πολύτιμον, πᾶσι τοῖς πιστοῖς, κληροδοσίαν λιπών, τοῖς ὑπερυψοῦσι, Χριστὸν εἰς τοὺς αἰῶνας."
 
 meMA.Ode8C13.ode = misc_gr_GR_cog.Ode8
 meMA.Ode8C13.mode = misc_gr_GR_cog.Mode6
 meMA.Ode8C13.melody = he.h.m6_gr_GR_cog.EkFlogosToisOsiois.name
-meMA.Ode8C13.text = "Ὡραιώθης Παμμάκαρ κάλλει τῶν λόγων σου· τοῦ Ἁγίου γὰρ ὤφθης Πνεύματος κάλαμος, γράφων εὐσεβῶς, τούτου γνῶσιν τὴν ἔνθεον, τοῖς ὑπερυψοῦσι, Χριστὸν εἰς τούς αἰῶνας."
+meMA.Ode8C13.text = "Ὡραιώθης Παμμάκαρ κάλλει τῶν λόγων σου· τοῦ Ἁγίου γὰρ ὤφθης Πνεύματος κάλαμος, γράφων εὐσεβῶς, τούτου γνῶσιν τὴν ἔνθεον, τοῖς ὑπερυψοῦσι, Χριστὸν εἰς τοὺς αἰῶνας."
 
 meMA.Ode8C1T.ode = misc_gr_GR_cog.Ode8
 meMA.Ode8C1T.mode = misc_gr_GR_cog.Mode6
 meMA.Ode8C1T.melody = he.h.m6_gr_GR_cog.EkFlogosToisOsiois.name
-meMA.Ode8C1T.text = "Πρὸς τὴν σὴν καταφεύγω σκέπην Πανάμωμε, καὶ προστάτιν ζωῆς μου τανῦν προβάλλομαι, σὲ τὴν ὑπὲρ νοῦν, Θεὸν Λόγον κυήσασαν, ὃν ὑπερυψοῦμεν, εἰς πάντας τούς αἰῶνας."
+meMA.Ode8C1T.text = "Πρὸς τὴν σὴν καταφεύγω σκέπην Πανάμωμε, καὶ προστάτιν ζωῆς μου τανῦν προβάλλομαι, σὲ τὴν ὑπὲρ νοῦν, Θεὸν Λόγον κυήσασαν, ὃν ὑπερυψοῦμεν, εἰς πάντας τοὺς αἰῶνας."
 
 meMA.Ode9C1H.ode = misc_gr_GR_cog.Ode9
 meMA.Ode9C1H.mode = misc_gr_GR_cog.Mode6

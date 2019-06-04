@@ -3,6 +3,8 @@ A_Resource_Whose_Name = me.m07.d04_gr_GR_cog
 meDate.text = "Τῌ Δʹ ΙΟΥΛΙΟΥ"
 meCommemoration.text = "Μνήμη τοῦ ἐν Ἁγίοις Πατρὸς ἡμῶν Ἀνδρέου Κρήτης, τοῦ Ἱεροσολυμίτου." // full title of day
 meShortCommemoration1.text = ""
+meCom1.title = ""
+meCom2.title = ""
 meInsert1 = "καὶ τοῦ ἐν Ἁγίοις Πατρὸς ἡμῶν Ἀνδρέου Κρήτης, τοῦ Ἱεροσολυμίτο, " // for use in petitions and dismissal
 meInsert2 = "ὧν καὶ τὴν μνήμην ἐπιτελοῦμεν· " // for use in petitions and dismissal
 meNote.text = ""
@@ -32,7 +34,7 @@ meVE.SticTheotokion.text = "Τίνι ὡμοιώθης ταλαίπωρε, π
 
 meVE.SticStavrotheotokion.mode = misc_gr_GR_cog.Mode8
 meVE.SticStavrotheotokion.melody = he.a.m8_gr_GR_cog.TiYmasKalesomen.name
-meVE.SticStavrotheotokion.text = "Ἄρνα ἡ ἀμνὰς ὡς ἑώρακεν, ἐπὶ ξύλου ἡπλωμένον, ἑκουσίως σταυρικοῦ, ἀνεβόα μητρικῶς, ὀδυρομένη ἐν κλαυθμῷ· Υἱέ μου, τί τὸ ξένον τοῦτο θέαμα; ὁ πᾶσι, τήν ζωὴν νέμων ὡς Κύριος, πῶς θανατοῦσαι μακρόθυμε, βροτοῖς παρέχων ἀνάστασιν; Δοξάζω σου, τὴν πολλὴν Θεέ μου συγκατάβασιν."
+meVE.SticStavrotheotokion.text = "Ἄρνα ἡ ἀμνὰς ὡς ἑώρακεν, ἐπὶ ξύλου ἡπλωμένον, ἑκουσίως σταυρικοῦ, ἀνεβόα μητρικῶς, ὀδυρομένη ἐν κλαυθμῷ· Υἱέ μου, τί τὸ ξένον τοῦτο θέαμα; ὁ πᾶσι, τὴν ζωὴν νέμων ὡς Κύριος, πῶς θανατοῦσαι μακρόθυμε, βροτοῖς παρέχων ἀνάστασιν; Δοξάζω σου, τὴν πολλὴν Θεέ μου συγκατάβασιν."
 
 meVE.Apolytikion1.mode = misc_gr_GR_cog.Mode8
 meVE.Apolytikion1.melody = he.ga_gr_GR_cog.OrthodoxiasOdigeH.name

@@ -3,6 +3,8 @@ A_Resource_Whose_Name = me.m07.d17_gr_GR_cog
 meDate.text = "Τῌ ΙΖʹ ΙΟΥΛΙΟΥ"
 meCommemoration.text = "Μνήμη τῆς Ἁγίας Μεγαλομάρτυρος Μαρίνης" // full title of day
 meShortCommemoration1.text = "Μνήμη τῆς Ἁγίας Μεγαλομάρτυρος Μαρίνης"
+meCom1.title = ""
+meCom2.title = ""
 meInsert1 = "τῆς ἁγίας Μεγαλομάρτυρος Μαρίνης, " // for use in petitions and dismissal
 meInsert2 = "ἧς καὶ τὴν μνήμην ἐπιτελοῦμεν· " // for use in petitions and dismissal
 meNote.text = ""
@@ -68,7 +70,7 @@ meVE.Aposticha2.text = "Μέγα, τὸ κατόρθωμα τὸ σόν, μ�
 
 meVE.Aposticha3.mode = misc_gr_GR_cog.Mode2
 meVE.Aposticha3.melody = he.a.m2_gr_GR_cog.OteEkTouXylou.name
-meVE.Aposticha3.text = "Λόγου, τοῦ φανέντος ἐπὶ γῆς νύμφη ἐκλεκτὴ ἀνεδείχθης, Μαρῖνα σὺ ἀληθῶς, κάλλει διαλάμπουσα, ἐνθέων πράξεων, καὶ μαραίνουσα χάριτι, φυτὰ ἀθεΐας· ὅθεν τήν πανίερον μνήμην σου σέβομεν, πόθῳ, καὶ λειψάνων τὴν θήκην, νῦν περιπτυσσόμεθα χάριν, ἐξ αὐτῆς ἰάσεων λαμβάνοντες."
+meVE.Aposticha3.text = "Λόγου, τοῦ φανέντος ἐπὶ γῆς νύμφη ἐκλεκτὴ ἀνεδείχθης, Μαρῖνα σὺ ἀληθῶς, κάλλει διαλάμπουσα, ἐνθέων πράξεων, καὶ μαραίνουσα χάριτι, φυτὰ ἀθεΐας· ὅθεν τὴν πανίερον μνήμην σου σέβομεν, πόθῳ, καὶ λειψάνων τὴν θήκην, νῦν περιπτυσσόμεθα χάριν, ἐξ αὐτῆς ἰάσεων λαμβάνοντες."
 
 meVE.AposGlory.mode = misc_gr_GR_cog.Mode6
 meVE.AposGlory.melody = ""
@@ -239,7 +241,7 @@ meMA.Ode3H.text = he.h.m4_gr_GR_cog.EffrainetaiEpiSoi.text
 
 meMA.Ode3Kathisma1.mode = misc_gr_GR_cog.Mode4
 meMA.Ode3Kathisma1.melody = he.a.m4_gr_GR_cog.KateplagiIosif.name
-meMA.Ode3Kathisma1.text = "Μαρῖνα μάρτυς τοῦ Χριστοῦ, ἀνευφημοῦμέν σε πιστοί, ὅτι τὸν τύραννον ἐχθρόν, ἐν τῇ δυνάμει τοῦ Σταυροῦ, ἐν τοῖς ποσὶ κατεπάτησας γενναιοφρόνως, καὶ γέγονας ἡμῖν, ἀνδρεία πίστεως, πᾶσαν τοῦ ἐχθροῦ, πατοῦσα δύναμιν· καὶ οὐρανόθεν ἔλαβες τὸν στέφανον, τῇ κορυφῇ σου ἀοίδιμε, Χριστὸν δυσώπει, σωθῆναι πάντας, τούς τελοῦντας τὴν μνήμην σου."
+meMA.Ode3Kathisma1.text = "Μαρῖνα μάρτυς τοῦ Χριστοῦ, ἀνευφημοῦμέν σε πιστοί, ὅτι τὸν τύραννον ἐχθρόν, ἐν τῇ δυνάμει τοῦ Σταυροῦ, ἐν τοῖς ποσὶ κατεπάτησας γενναιοφρόνως, καὶ γέγονας ἡμῖν, ἀνδρεία πίστεως, πᾶσαν τοῦ ἐχθροῦ, πατοῦσα δύναμιν· καὶ οὐρανόθεν ἔλαβες τὸν στέφανον, τῇ κορυφῇ σου ἀοίδιμε, Χριστὸν δυσώπει, σωθῆναι πάντας, τοὺς τελοῦντας τὴν μνήμην σου."
 
 meMA.Ode3KathismaT.mode = misc_gr_GR_cog.Mode4
 meMA.Ode3KathismaT.melody = misc_gr_GR_cog.Automelon
@@ -459,7 +461,7 @@ meMA.Ode8C13.text = "Ἀρεταῖς ποικίλαις κοσμουμένη,
 meMA.Ode8C14.ode = misc_gr_GR_cog.Ode8
 meMA.Ode8C14.mode = misc_gr_GR_cog.Mode8
 meMA.Ode8C14.melody = he.h.m8_gr_GR_cog.MousikonOrganon.name
-meMA.Ode8C14.text = "Σωτηρίας ὤφθης ἀθληφόρε, τοῖς πολλοῖς αἰτία καὶ μαρτύρων, προσήγαγες δῆμον Χριστῷ, συμφώνως μελῳδοῦσα· Τὸν Κύριον ὑμνεῖτε, καὶ ὑπερυψοῦτε, εἰς πάντας τούς αἰῶνας."
+meMA.Ode8C14.text = "Σωτηρίας ὤφθης ἀθληφόρε, τοῖς πολλοῖς αἰτία καὶ μαρτύρων, προσήγαγες δῆμον Χριστῷ, συμφώνως μελῳδοῦσα· Τὸν Κύριον ὑμνεῖτε, καὶ ὑπερυψοῦτε, εἰς πάντας τοὺς αἰῶνας."
 
 meMA.Ode8C1T.ode = misc_gr_GR_cog.Ode8
 meMA.Ode8C1T.mode = misc_gr_GR_cog.Mode8

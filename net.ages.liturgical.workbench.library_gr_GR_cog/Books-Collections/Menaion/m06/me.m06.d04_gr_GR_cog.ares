@@ -3,6 +3,8 @@ A_Resource_Whose_Name = me.m06.d04_gr_GR_cog
 meDate.text = "Τῌ Δʹ ΙΟΥΝΙΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
 meCommemoration.text = "Μνήμη τοῦ ἐν Ἁγίοις Πατρὸς ἡμῶν Μητροφάνους, Ἀρχιεπισκόπου Κωνσταντινουπόλεως." // full title of day
 meShortCommemoration1.text = ""
+meCom1.title = ""
+meCom2.title = ""
 meInsert1 = "καὶ τοῦ ἐν Ἁγίοις Πατρὸς ἡμῶν Μητροφάνους, Ἀρχιεπισκόπου Κωνσταντινουπόλεως, " // for use in petitions and dismissal
 meInsert2 = "οὗ καὶ τὴν μνήμην ἐπιτελοῦμεν· " // for use in petitions and dismissal
 meNote.text = ""
@@ -387,7 +389,7 @@ meMA.Ode7C23.text = "Νυσταγμὸν ἀπὸ βλεφάρων ἀπωσά
 meMA.Ode7C2T.ode = misc_gr_GR_cog.Ode7
 meMA.Ode7C2T.mode = misc_gr_GR_cog.Mode6
 meMA.Ode7C2T.melody = he.h.m6_gr_GR_cog.DrosovolonMenTinKaminon.name
-meMA.Ode7C2T.text = "Ὁ καθήμενος ἐν κόλποις τοῦ Γεννήτορος, ἀπεριγράπτως Ἄχραντε ἐν τοῖς κόλποις σου καθέζεται νῦν περιγραπτῶς, τὴν σὴν περικείμενος μορφήν, διὰ τὸ σῶσαι τόν Ἀδάμ, νέος Ἀδὰμ γεγονώς."
+meMA.Ode7C2T.text = "Ὁ καθήμενος ἐν κόλποις τοῦ Γεννήτορος, ἀπεριγράπτως Ἄχραντε ἐν τοῖς κόλποις σου καθέζεται νῦν περιγραπτῶς, τὴν σὴν περικείμενος μορφήν, διὰ τὸ σῶσαι τὸν Ἀδάμ, νέος Ἀδὰμ γεγονώς."
 
 meMA.Ode8C11.ode = misc_gr_GR_cog.Ode8
 meMA.Ode8C11.mode = misc_gr_GR_cog.Mode4
@@ -452,7 +454,7 @@ meMA.Ode9C14.text = "Ὦ παμβασιλεῦ, Θεὲ Τρισυπόστατ�
 meMA.Ode9C1T.ode = misc_gr_GR_cog.Ode9
 meMA.Ode9C1T.mode = misc_gr_GR_cog.Mode4
 meMA.Ode9C1T.melody = he.h.m4_gr_GR_cog.ApasGigenis.name
-meMA.Ode9C1T.text = "Σῷζε πειρασμῶν, καὶ παντοίων θλίψεων ἁγνὴ Μητρόθεε, ἅπαντας τοὺς δούλους, καὶ αἰωνίου ῥῦσαι κολάσεως, καὶ τῆς χαρᾶς ἀξίωσον, τοῦ σοῦ Υἱοῦ καὶ Θεοῦ, τούς ἐκ πόθου, σὲ ὕμνοις γεραίροντας, καὶ τὴν θείαν τιμῶντας εἰκόνα σου."
+meMA.Ode9C1T.text = "Σῷζε πειρασμῶν, καὶ παντοίων θλίψεων ἁγνὴ Μητρόθεε, ἅπαντας τοὺς δούλους, καὶ αἰωνίου ῥῦσαι κολάσεως, καὶ τῆς χαρᾶς ἀξίωσον, τοῦ σοῦ Υἱοῦ καὶ Θεοῦ, τοὺς ἐκ πόθου, σὲ ὕμνοις γεραίροντας, καὶ τὴν θείαν τιμῶντας εἰκόνα σου."
 
 meMA.Ode9C21.ode = misc_gr_GR_cog.Ode9
 meMA.Ode9C21.mode = misc_gr_GR_cog.Mode6

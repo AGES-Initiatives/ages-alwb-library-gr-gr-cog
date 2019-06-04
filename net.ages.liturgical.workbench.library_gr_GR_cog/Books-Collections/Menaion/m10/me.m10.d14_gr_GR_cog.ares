@@ -3,6 +3,8 @@ A_Resource_Whose_Name = me.m10.d14_gr_GR_cog
 meDate.text = "Τῌ ΙΔʹ ΟΚΤΩΒΡΙΟΥ"
 meCommemoration.text = "Μνήμη τῶν Ἁγίων Μαρτύρων Ναζαρίου, Γερβασίου, Προτασίου, καὶ Κελσίου· καὶ τοῦ Ὁσίου Πατρὸς ἡμῶν Κοσμᾶ τοῦ Ποιητοῦ." // full title of day
 meShortCommemoration1.text = ""
+meCom1.title = ""
+meCom2.title = ""
 meInsert1 = "καὶ τῶν ἁγίων Μαρτύρων Ναζαρίου, Γερβασίου, Προτασίου, καὶ Κελσίου, καὶ τοῦ ὁσίου Πατρὸς ἡμῶν Κοσμᾶ τοῦ Ποιητοῦ, " // for use in petitions and dismissal
 meInsert2 = "ὧν καὶ τὴν μνήμην ἐπιτελοῦμεν· " // for use in petitions and dismissal
 meNote.text = ""
@@ -184,7 +186,7 @@ meMA.Ode3Kathisma1.text = "Τεσσάρων Ἱερῶν, ἀθλησάντω�
 
 meMA.Ode3Kathisma2.mode = misc_gr_GR_cog.Mode1
 meMA.Ode3Kathisma2.melody = he.a.m1_gr_GR_cog.TonTafonSouSotir.name
-meMA.Ode3Kathisma2.text = "Ἠ λύρα τῆς σεπτῆς, καὶ Ἁγίας Τριάδος, Κοσμᾶς ὁ ἱερός, μελῳδῶν ἰδοὺ ἧκε, τὸ μέλος τὸ Τρισάγιον· Σὺν αὐτῷ οὖν βοήσωμεν· Ὁ Πατὴρ Υἱός, καὶ θεῖον Πνεῦμα τόν κόσμον, σοῦ εἰρήνευσον, καὶ τὸν Σατὰν ὑπὸ πόδας, ἡμῶν ταχὺ σύντριψον."
+meMA.Ode3Kathisma2.text = "Ἠ λύρα τῆς σεπτῆς, καὶ Ἁγίας Τριάδος, Κοσμᾶς ὁ ἱερός, μελῳδῶν ἰδοὺ ἧκε, τὸ μέλος τὸ Τρισάγιον· Σὺν αὐτῷ οὖν βοήσωμεν· Ὁ Πατὴρ Υἱός, καὶ θεῖον Πνεῦμα τὸν κόσμον, σοῦ εἰρήνευσον, καὶ τὸν Σατὰν ὑπὸ πόδας, ἡμῶν ταχὺ σύντριψον."
 
 meMA.Ode3KathismaT.mode = misc_gr_GR_cog.Mode1
 meMA.Ode3KathismaT.melody = he.a.m1_gr_GR_cog.TonTafonSouSotir.name
@@ -413,7 +415,7 @@ meMA.Ode8C22.text = "Τοῖς ἐπαίνοις σε στέφειν μὴ σ�
 meMA.Ode8C23.ode = misc_gr_GR_cog.Ode8
 meMA.Ode8C23.mode = misc_gr_GR_cog.Mode4
 meMA.Ode8C23.melody = he.h.m4_gr_GR_cog.LytrotaTouPantos.name
-meMA.Ode8C23.text = "Νῦν αὐλίζῃ τοῖς ἄνω γηθόμενος, σὺν χοροῖς τῶν Ἁγίων πανόλβιε, ὧν τοὺς λαμπροὺς ἀγῶνάς τε, καὶ τοὺς ἄθλους ἀνύμνεις, πόθῳ κραυγάζων· Εὐλογεῖτε τὰ ἔργα τόν Κύριον."
+meMA.Ode8C23.text = "Νῦν αὐλίζῃ τοῖς ἄνω γηθόμενος, σὺν χοροῖς τῶν Ἁγίων πανόλβιε, ὧν τοὺς λαμπροὺς ἀγῶνάς τε, καὶ τοὺς ἄθλους ἀνύμνεις, πόθῳ κραυγάζων· Εὐλογεῖτε τὰ ἔργα τὸν Κύριον."
 
 meMA.Ode8C2T.ode = misc_gr_GR_cog.Ode8
 meMA.Ode8C2T.mode = misc_gr_GR_cog.Mode4
@@ -443,7 +445,7 @@ meMA.Ode9C13.text = "Σημείοις καὶ τέρασιν ὑμᾶς ἐκ�
 meMA.Ode9C14.ode = misc_gr_GR_cog.Ode9
 meMA.Ode9C14.mode = misc_gr_GR_cog.Mode4
 meMA.Ode9C14.melody = he.h.m4_gr_GR_cog.EvaMenToTisParakois.name
-meMA.Ode9C14.text = "Ἡγίασται πόθῳ τὴν ὑμῶν ἡ σύμπασα, ἐκτελοῦσα μνήμην σήμερον, χαίρουσι Μάρτυρες καὶ πάντες, Προφῆται σὺν ὑμῖν ἑορτάζουσι, μεθ' ὧν ὑπὲρ ἡμῶν ἱκετεύσατε, τόν εὐεργέτην Παμμακάριστοι."
+meMA.Ode9C14.text = "Ἡγίασται πόθῳ τὴν ὑμῶν ἡ σύμπασα, ἐκτελοῦσα μνήμην σήμερον, χαίρουσι Μάρτυρες καὶ πάντες, Προφῆται σὺν ὑμῖν ἑορτάζουσι, μεθ' ὧν ὑπὲρ ἡμῶν ἱκετεύσατε, τὸν εὐεργέτην Παμμακάριστοι."
 
 meMA.Ode9C1T.ode = misc_gr_GR_cog.Ode9
 meMA.Ode9C1T.mode = misc_gr_GR_cog.Mode4

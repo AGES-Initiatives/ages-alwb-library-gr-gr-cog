@@ -3,6 +3,8 @@ A_Resource_Whose_Name = me.m01.d18_gr_GR_cog
 meDate.text = "Τῌ ΙΗʹ ΙΑΝΟΥΑΡΙΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
 meCommemoration.text = "Μνήμη τῶν ἐν Ἁγίοις Πατέρων ἡμῶν, καὶ μεγάλων Ἀρχιεπισκόπων Ἀλεξανδρείας, Ἀθανασίου καὶ Κυρίλλου" // full title of day
 meShortCommemoration1.text = "Μνήμη τῶν Ἁγίων Ἀθανασίου καὶ Κυρίλλου, Ἀρχιεπισκόπων Ἀλεξανδρείας"
+meCom1.title = ""
+meCom2.title = ""
 meInsert1 = "τῶν ἐν Ἁγίοις Πατέρων ἡμῶν καὶ μεγάλων Ἀρχιεπισκόπων Ἀλεξανδρείας, Ἀθανασίου καὶ Κυρίλλου," // for use in petitions and dismissal
 meInsert2 = "ὧν καὶ τὴν μνήμην ἐπιτελοῦμεν·" // for use in petitions and dismissal
 meNote.text = ""
@@ -171,7 +173,7 @@ meMA.Ode1C14.text = "Νεανικῶς τῶν σαρκικῶν κατήργη
 meMA.Ode1C1T.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C1T.mode = misc_gr_GR_cog.Mode8
 meMA.Ode1C1T.melody = he.h.m8_gr_GR_cog.ArmatilatinFarao.name
-meMA.Ode1C1T.text = "Δεδοξασμένα περὶ σοῦ λελάληνται, ἐν γενεαῖς γενεῶν, ἡ τὸν Θεὸν Λόγον, ἐν γαστρὶ χωρήσασα, Ἁγνὴ δὲ διαμείνασα, Θεοτόκε Μαρία· διὸ σε πάντες γεραίρομεν, τήν μετὰ Θεὸν προστασίαν ἡμῶν."
+meMA.Ode1C1T.text = "Δεδοξασμένα περὶ σοῦ λελάληνται, ἐν γενεαῖς γενεῶν, ἡ τὸν Θεὸν Λόγον, ἐν γαστρὶ χωρήσασα, Ἁγνὴ δὲ διαμείνασα, Θεοτόκε Μαρία· διὸ σε πάντες γεραίρομεν, τὴν μετὰ Θεὸν προστασίαν ἡμῶν."
 
 meMA.C2.title = "Κανὼν τοῦ Ἁγ. Κυρίλλου."
 meMA.C2.verse = prayers_gr_GR_cog.verse_SaintM.text
@@ -497,7 +499,7 @@ meMA.Ode9C21.text = "Ὕψωμα Χριστοῦ κατεπαρθὲν τῆς �
 meMA.Ode9C22.ode = misc_gr_GR_cog.Ode9
 meMA.Ode9C22.mode = misc_gr_GR_cog.Mode4
 meMA.Ode9C22.melody = he.h.m4_gr_GR_cog.EvaMenToTisParakois.name
-meMA.Ode9C22.text = "Ῥώσει τῶν φρενῶν καὶ φωτισμῷ τῆς χάριτος, τὴν Τριάδα ὁμοούσιον, τόν τε Υἱὸν σεσαρκωμένον, Θεὸν θεολογήσας Μακάριε, ὀφθείς τε τῆς Θεοτόκου ὑπέρμαχος, ἐν τοῖς ὑψίστοις νῦν δεδόξασαι."
+meMA.Ode9C22.text = "Ῥώσει τῶν φρενῶν καὶ φωτισμῷ τῆς χάριτος, τὴν Τριάδα ὁμοούσιον, τὸν τε Υἱὸν σεσαρκωμένον, Θεὸν θεολογήσας Μακάριε, ὀφθείς τε τῆς Θεοτόκου ὑπέρμαχος, ἐν τοῖς ὑψίστοις νῦν δεδόξασαι."
 
 meMA.Ode9C23.ode = misc_gr_GR_cog.Ode9
 meMA.Ode9C23.mode = misc_gr_GR_cog.Mode4

@@ -3,6 +3,8 @@ A_Resource_Whose_Name = me.m09.d24_gr_GR_cog
 meDate.text = "Τῌ ΚΔʹ ΣΕΠΤΕΜΒΡΙΟΥ"
 meCommemoration.text = "Ἡ Σύναξις τῆς Ὑπεραγίας Θεοτόκου τῆς \"Μυρτιδιωτίσσης\", καὶ Μνήμη τῆς Ἁγίας Μεγαλομάρτυρος καὶ Ἰσαποστόλου Θέκλης." //full title of day
 meShortCommemoration1.text = "Μνήμη τῆς Ἁγίας Μεγαλομάρτυρος καὶ Ἰσαποστόλου Θέκλης."
+meCom1.title = ""
+meCom2.title = ""
 meInsert1 = "τῆς Ἁγίας Μεγαλομάρτυρος καὶ Ἰσαποστόλου Θέκλης, " //for use in petitions and dismissal
 meInsert2 = "ἧς καὶ τὴν μνήμην ἐπιτελοῦμεν· " //for use in petitions and dismissal
 meNote.text = ""
@@ -16,7 +18,7 @@ meHO.note2 = ""
 
 meVE.Stichera01.mode = misc_gr_GR_cog.Mode8
 meVE.Stichera01.melody = he.a.m8_gr_GR_cog.KyrieEiKaiKritirio.name
-meVE.Stichera01.text = "Κύριε, εἰ καὶ ἐν θυρίδι ἡ Θέκλα, προσεπάγη τῷ πόθῳ σου, ἀλλὰ νοερῶς ἐν ὑψίστοις, παρισταμένη τῷ θρόνῳ σου, ἐξεπλήττετο τὴν σήν, ἀσύγκριτον εὐπρέπειαν, τοῦ σαρκωθέντος φιλανθρώπως, ἵνα σώσῃς τάς ψυχὰς ἡμῶν."
+meVE.Stichera01.text = "Κύριε, εἰ καὶ ἐν θυρίδι ἡ Θέκλα, προσεπάγη τῷ πόθῳ σου, ἀλλὰ νοερῶς ἐν ὑψίστοις, παρισταμένη τῷ θρόνῳ σου, ἐξεπλήττετο τὴν σήν, ἀσύγκριτον εὐπρέπειαν, τοῦ σαρκωθέντος φιλανθρώπως, ἵνα σώσῃς τὰς ψυχὰς ἡμῶν."
 
 meVE.Stichera02.mode = misc_gr_GR_cog.Mode8
 meVE.Stichera02.melody = he.a.m8_gr_GR_cog.KyrieEiKaiKritirio.name
@@ -35,7 +37,7 @@ meVE.MM.Stichera123as8910.text = properties_gr_GR_cog.media.key
 meVE.SticGlory.poet = poets_gr_GR_cog.AnatoliouOiDeAndreouIerosolymitou
 meVE.SticGlory.mode = misc_gr_GR_cog.Mode6
 meVE.SticGlory.melody = ""
-meVE.SticGlory.text = "Ἀθλητικοῖς παλαίσμασι, τὸν ἐχθρὸν κατεπάτησας, Θέκλα παμμακάριστε, καὶ τάς τούτου μηχανάς, μαρτυρικῶς συντρίψασα, Θάμυριν ἔφυγες, καὶ Χριστῷ ἐνυμφεύθης τῷ ἀληθεῖ ἐραστῇ, τοῦ Παύλου συνόμιλε, καὶ τοῦ Στεφάνου σύναθλε, παῤῥησίαν ἔχουσα, Πρωτομάρτυς Χριστοῦ ἐν γυναιξί, τῶν πιστῶς ἐκτελούντων τὴν πανέορτον μνήμην σου, ἐκ κινδύνων λύτρωσαι τάς ψυχὰς ἡμῶν."
+meVE.SticGlory.text = "Ἀθλητικοῖς παλαίσμασι, τὸν ἐχθρὸν κατεπάτησας, Θέκλα παμμακάριστε, καὶ τὰς τούτου μηχανάς, μαρτυρικῶς συντρίψασα, Θάμυριν ἔφυγες, καὶ Χριστῷ ἐνυμφεύθης τῷ ἀληθεῖ ἐραστῇ, τοῦ Παύλου συνόμιλε, καὶ τοῦ Στεφάνου σύναθλε, παῤῥησίαν ἔχουσα, Πρωτομάρτυς Χριστοῦ ἐν γυναιξί, τῶν πιστῶς ἐκτελούντων τὴν πανέορτον μνήμην σου, ἐκ κινδύνων λύτρωσαι τὰς ψυχὰς ἡμῶν."
 
 meVE.SticTheotokion.mode = misc_gr_GR_cog.Mode6
 meVE.SticTheotokion.melody = he.a.m6_gr_GR_cog.TriimerosAnestis.name
@@ -124,7 +126,7 @@ meMA.Ode3C13.text = "Ὅλη ἐκδημήσασα, τῶν τῆς σαρκὸ
 meMA.Ode3C1T.ode = misc_gr_GR_cog.Ode3
 meMA.Ode3C1T.mode = misc_gr_GR_cog.Mode8
 meMA.Ode3C1T.melody = he.h.m8_gr_GR_cog.SyEiToStereoma.name
-meMA.Ode3C1T.text = "Δὸς ἡμῖν βοήθειαν, ταῖς ἱκεσίαις σου Πάναγνε, τάς προσβολὰς ἀποκρουομένη, τῶν δεινῶν περιστάσεων."
+meMA.Ode3C1T.text = "Δὸς ἡμῖν βοήθειαν, ταῖς ἱκεσίαις σου Πάναγνε, τὰς προσβολὰς ἀποκρουομένη, τῶν δεινῶν περιστάσεων."
 
 meMA.Ode3H.ode = misc_gr_GR_cog.Ode3
 meMA.Ode3H.mode = misc_gr_GR_cog.Mode8
@@ -133,7 +135,7 @@ meMA.Ode3H.text = he.h.m8_gr_GR_cog.SyEiToStereoma.text
 
 meMA.Ode3Kathisma1.mode = misc_gr_GR_cog.Mode8
 meMA.Ode3Kathisma1.melody = he.a.m8_gr_GR_cog.TinSofianKaiLogon.name
-meMA.Ode3Kathisma1.text = "Εἰς ἀνδρίαν τὸ θῆλυ δι' ἀρετῶν, μεταθεῖσα τῷ πόθῳ τῷ τοῦ Χριστοῦ, Θεοῦ οἰκητήριον, ἀμφοτέρωθεν γέγονας· τῶν παθῶν γὰρ τὸν γνόφον, ἀσκήσει μειώσασα, μαρτυρικῶς ἐδείχθης, ἀθλήσεως καύχημα· ὅθεν καὶ τῷ κόσμῳ, ὡς φωστὴρ διαλάμπεις, δισσῶς ἑξαστράπτουσα, τάς ἀκτῖνας τοῦ Πνεύματος, Πρωτομάρτυς πανεύφημε, πρέσβευε Χριστῷ τῷ Θεῷ, τῶν πταισμάτων ἄφεσιν δωρήσασθαι, τοῖς ἑορτάζουσι πόθῳ, τὴν ἁγίαν μνήμην σου."
+meMA.Ode3Kathisma1.text = "Εἰς ἀνδρίαν τὸ θῆλυ δι' ἀρετῶν, μεταθεῖσα τῷ πόθῳ τῷ τοῦ Χριστοῦ, Θεοῦ οἰκητήριον, ἀμφοτέρωθεν γέγονας· τῶν παθῶν γὰρ τὸν γνόφον, ἀσκήσει μειώσασα, μαρτυρικῶς ἐδείχθης, ἀθλήσεως καύχημα· ὅθεν καὶ τῷ κόσμῳ, ὡς φωστὴρ διαλάμπεις, δισσῶς ἑξαστράπτουσα, τὰς ἀκτῖνας τοῦ Πνεύματος, Πρωτομάρτυς πανεύφημε, πρέσβευε Χριστῷ τῷ Θεῷ, τῶν πταισμάτων ἄφεσιν δωρήσασθαι, τοῖς ἑορτάζουσι πόθῳ, τὴν ἁγίαν μνήμην σου."
 
 meMA.Ode3KathismaT.mode = misc_gr_GR_cog.Mode8
 meMA.Ode3KathismaT.melody = he.a.m8_gr_GR_cog.TinSofianKaiLogon.name
@@ -310,7 +312,7 @@ meMA.ExapTheotokion.text = "Κυρίως Θεοτόκον σε, ὁμολογ�
 meMA.Lauds1.poet = poets_gr_GR_cog.Anatoliou
 meMA.Lauds1.mode = misc_gr_GR_cog.Mode1
 meMA.Lauds1.melody = ""
-meMA.Lauds1.text = "Ἀθλητικὸν στάδιον σήμερον πρόκειται· λαοὶ χορεύσωμεν, καὶ τὰ ἐν αὐτῷ τελούμενα, παράδοξα πράγματα κατοπτεύσωμεν· ἄσπιλος γὰρ ἀμνάς, πρόκειται σφαγῇ, ὑπὲρ τοῦ σφαγιασθέντος Χριστοῦ τοῦ Θεοῦ ἡμῶν, ἡ καλλιπάρθενος Θέκλα καὶ Θεόνυμφος· διὸ Τριάδος τῇ πίστει, τὴν τῶν τυράννων κατήργησεν ἀθεότητα· καὶ σύν, Ἀγγέλοις χορεύουσα, τῷ Σωτῆρι πρεσβεύει, σωθῆναι τάς ψυχὰς ἡμῶν."
+meMA.Lauds1.text = "Ἀθλητικὸν στάδιον σήμερον πρόκειται· λαοὶ χορεύσωμεν, καὶ τὰ ἐν αὐτῷ τελούμενα, παράδοξα πράγματα κατοπτεύσωμεν· ἄσπιλος γὰρ ἀμνάς, πρόκειται σφαγῇ, ὑπὲρ τοῦ σφαγιασθέντος Χριστοῦ τοῦ Θεοῦ ἡμῶν, ἡ καλλιπάρθενος Θέκλα καὶ Θεόνυμφος· διὸ Τριάδος τῇ πίστει, τὴν τῶν τυράννων κατήργησεν ἀθεότητα· καὶ σύν, Ἀγγέλοις χορεύουσα, τῷ Σωτῆρι πρεσβεύει, σωθῆναι τὰς ψυχὰς ἡμῶν."
 
 meMA.Lauds2.poet = poets_gr_GR_cog.Anatoliou
 meMA.Lauds2.mode = misc_gr_GR_cog.Mode1
@@ -362,6 +364,8 @@ alt1.meDate.text = "Τῇ ΚΔ΄ Σεπτεμβρίου"
 alt1.meCommemoration.text = "Ἀνάμνησης ποιούμεθα τῆς θαυμαστῆς ἐν Μυρτιδίοις τῶν Κυθήρων εὑρέσεως τῆς ἱερᾶς καὶ σεβασμίας Εἰκόνος τῆς Παναγίας" //full title of day
 alt1.meShortCommemoration1.text = "Ἡ Σύναξις τῆς Ὑπεραγίας Θεοτόκου τῆς \"Μυρτιδιωτίσσης\""
 
+alt1.meCom1.title = ""
+alt1.meCom2.title = ""
 alt1.meInsert1 = "" //for use in petitions and dismissal
 alt1.meInsert2 = "ἧς τῆς θαυμαστῆς ἐν Μυρτιδίοις τῶν Κυθήρων εὑρέσεως τῆς ἱερᾶς καὶ σεβασμίας Εἰκόνος τὴν ἀνάμνησιν ποιούμεθα," //for use in petitions and dismissal
 alt1.meNote.text = ""
@@ -782,7 +786,7 @@ alt1.meMA.Ode9C1H.text = he.h.m1_gr_GR_cog.NenikintaiTisFyseos.text
 alt1.meMA.Ode9C11.ode = misc_gr_GR_cog.Ode9
 alt1.meMA.Ode9C11.mode = misc_gr_GR_cog.Mode1
 alt1.meMA.Ode9C11.melody = he.h.m1_gr_GR_cog.NenikintaiTisFyseos.name
-alt1.meMA.Ode9C11.text = "Λαμπρότερον ἡλίου καταυγάζει, ἐνδόξως, ἀνατείλασα, Κυθηραίων τήν Νῆσον, ἡ φαιδρά Σου καὶ θεία πανήγυρις, καὶ θυμικῆς εὐφροσύνης, ἀποπληροῖ τοὺς βοῶντας˙ σῶζε ἀεὶ Θεοτόκε, Νῆσον τὴν τιμῶσάν Σε."
+alt1.meMA.Ode9C11.text = "Λαμπρότερον ἡλίου καταυγάζει, ἐνδόξως, ἀνατείλασα, Κυθηραίων τὴν Νῆσον, ἡ φαιδρά Σου καὶ θεία πανήγυρις, καὶ θυμικῆς εὐφροσύνης, ἀποπληροῖ τοὺς βοῶντας˙ σῶζε ἀεὶ Θεοτόκε, Νῆσον τὴν τιμῶσάν Σε."
 
 alt1.meMA.Ode9C12.ode = misc_gr_GR_cog.Ode9
 alt1.meMA.Ode9C12.mode = misc_gr_GR_cog.Mode1
@@ -839,6 +843,8 @@ alt2.meDate.text = "Τῇ ΚΔ΄ Σεπτεμβρίου" // date, e.g. Τῌ Ι�
 alt2.meCommemoration.text = "Μνήμη τοῦ Ὁσίου καὶ Θεοφόρου Πατρὸς ἡμῶν Σιλουανοῦ τοῦ Ἀθωνίτου" //full title of day
 alt2.meCommemoration2.text = "" //full title of day
 alt2.meShortCommemoration1.text = ""
+alt2.meCom1.title = ""
+alt2.meCom2.title = ""
 alt2.meInsert1 = "τοῦ ὁσίου καὶ θεοφόρου πατρὸς ἡμῶν Σιλουανοῦ τοῦ Ἀθωνίτου," //for use in petitions and dismissal
 alt2.meInsert2 = "οὗ καὶ τὴν μνήμην ἐπιτελοῦμεν," //for use in petitions and dismissal
 alt2.meNote.text = ""

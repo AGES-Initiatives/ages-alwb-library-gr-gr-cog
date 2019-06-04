@@ -3,6 +3,8 @@ A_Resource_Whose_Name = me.m05.d13_gr_GR_cog
 meDate.text = "Τῌ ΙΓʹ ΜΑΪΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
 meCommemoration.text = "Μνήμη τῆς Ἁγίας Μάρτυρος Γλυκερίας." //full title of day
 meShortCommemoration1.text = ""
+meCom1.title = ""
+meCom2.title = ""
 meInsert1 = "καὶ τῆς Ἁγίας Μάρτυρος Γλυκερίας, " //for use in petitions and dismissal
 meInsert2 = "ἧς καὶ τὴν μνήμην ἐπιτελοῦμεν· " //for use in petitions and dismissal
 meNote.text = ""
@@ -16,7 +18,7 @@ meHO.note2 = ""
 
 meVE.Stichera01.mode = misc_gr_GR_cog.Mode4
 meVE.Stichera01.melody = he.a.m4_gr_GR_cog.OsGennaionEnMartysi.name
-meVE.Stichera01.text = "Διὰ πόνων ἀθλήσεως, τὸν Δεσπότην νενύμφευσαι, παρθενίας κάλλεσι διαλάμπουσα, καὶ ὥσπερ προῖκα προσήγαγες, αὐτῷ παναοίδιμε, τῶν μελῶν τὴν ἐκκοπήν, καὶ τόν βίαιον θάνατον· ὅθεν ἔτυχες, οὐρανίων θαλάμων Γλυκερία, δυσωποῦσα τοῦ σωθῆναι, τοὺς σὲ πιστῶς μακαρίζοντας."
+meVE.Stichera01.text = "Διὰ πόνων ἀθλήσεως, τὸν Δεσπότην νενύμφευσαι, παρθενίας κάλλεσι διαλάμπουσα, καὶ ὥσπερ προῖκα προσήγαγες, αὐτῷ παναοίδιμε, τῶν μελῶν τὴν ἐκκοπήν, καὶ τὸν βίαιον θάνατον· ὅθεν ἔτυχες, οὐρανίων θαλάμων Γλυκερία, δυσωποῦσα τοῦ σωθῆναι, τοὺς σὲ πιστῶς μακαρίζοντας."
 
 meVE.Stichera02.mode = misc_gr_GR_cog.Mode4
 meVE.Stichera02.melody = he.a.m4_gr_GR_cog.OsGennaionEnMartysi.name

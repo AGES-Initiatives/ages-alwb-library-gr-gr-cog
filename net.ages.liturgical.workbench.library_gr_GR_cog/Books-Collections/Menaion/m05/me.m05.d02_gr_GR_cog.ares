@@ -3,6 +3,8 @@ A_Resource_Whose_Name = me.m05.d02_gr_GR_cog
 meDate.text = "Τῌ Βʹ ΜΑΪΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
 meCommemoration.text = "Μνήμη τῆς ἀνακομιδῆς τοῦ Λειψάνου του ἐν Ἁγίοις Πατρὸς ἡμῶν Ἀθανασίου τοῦ Μεγάλου, Πατριάρχου Ἀλεξανδρείας." //full title of day
 meShortCommemoration1.text = "Μνήμη τοῦ Ἁγίου Ἀθανασίου τοῦ Μεγάλου"
+meCom1.title = ""
+meCom2.title = ""
 meInsert1 = "καὶ του ἐν Ἁγίοις Πατρὸς ἡμῶν Ἀθανασίου τοῦ μεγάλου, Πατριάρχου Ἀλεξανδρείας," //for use in petitions and dismissal
 meInsert2 = "οὗ καὶ τῆς ἀνακομιδῆς τοῦ λειψάνου τὴν μνήμην ἐπιτελοῦμεν·" //for use in petitions and dismissal
 meNote.text = ""
@@ -59,7 +61,7 @@ meVE.Apolytikion1.text = "Στῦλος γέγονας ὀρθοδοξίας, 
 
 meMA.Kathisma11.mode = misc_gr_GR_cog.Mode3
 meMA.Kathisma11.melody = he.a.m3_gr_GR_cog.TheiasPisteos.name
-meMA.Kathisma11.text = "Θείοις δόγμασιν ὀρθοδοξίας, Πάτερ ὥπλισας τὴν Ἐκκλησίαν, ταῖς διδαχαῖς σου τὰς αἱρέσεις ἐξέτεμες, τῆς εὐσεβείας τὸν δρόμον τετέλεκας, καὶ ὡς ὁ Παῦλος τήν πίστιν τετήρηκας· λοιπὸν ἀπόκειται, καὶ σοὶ παναοίδιμε, ὁ δίκαιος τῶν πόνων σου στέφανος."
+meMA.Kathisma11.text = "Θείοις δόγμασιν ὀρθοδοξίας, Πάτερ ὥπλισας τὴν Ἐκκλησίαν, ταῖς διδαχαῖς σου τὰς αἱρέσεις ἐξέτεμες, τῆς εὐσεβείας τὸν δρόμον τετέλεκας, καὶ ὡς ὁ Παῦλος τὴν πίστιν τετήρηκας· λοιπὸν ἀπόκειται, καὶ σοὶ παναοίδιμε, ὁ δίκαιος τῶν πόνων σου στέφανος."
 
 meMA.Kathisma21.mode = misc_gr_GR_cog.Mode4
 meMA.Kathisma21.melody = he.a.m4_gr_GR_cog.EpefanisSimeron.name

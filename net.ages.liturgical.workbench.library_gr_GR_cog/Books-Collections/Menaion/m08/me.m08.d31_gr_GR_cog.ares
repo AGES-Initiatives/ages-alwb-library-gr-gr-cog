@@ -3,6 +3,8 @@ A_Resource_Whose_Name = me.m08.d31_gr_GR_cog
 meDate.text = "Τῌ ΛΑʹ ΑΥΓΟΥΣΤΟΥ"
 meCommemoration.text = "Μνήμη τῆς Καταθέσεως τῆς Τιμίας Ζώνης τῆς Ὑπεραγίας Θεοτόκου" // full title of day
 meShortCommemoration1.text = "Μνήμη τῆς Καταθέσεως τῆς Τιμίας Ζώνης τῆς Ὑπεραγίας Θεοτόκου"
+meCom1.title = ""
+meCom2.title = ""
 meInsert1 = "" // for use in petitions and dismissal
 meInsert2 = "ἧς καὶ τῆς τιμίας Ζώνης τὴν κατάθεσιν ἑορτάζομεν· " // for use in petitions and dismissal
 meNote.text = ""
@@ -199,7 +201,7 @@ meMA.Ode4C21.text = "Ἤρθης πρὸς φῶς, ἄδυτον μεταχωρ
 meMA.Ode4C22.ode = misc_gr_GR_cog.Ode4
 meMA.Ode4C22.mode = misc_gr_GR_cog.Mode8
 meMA.Ode4C22.melody = he.h.m8_gr_GR_cog.SyMouIschys.name
-meMA.Ode4C22.text = "Νέον ἡμεῖς, ὡς οὐρανὸν ὑπερχόμεθα, σοῦ τὸν οἶκον, ἐν ᾧ τεθησαύρισται, καθάπερ ἥλιος φωταυγής, σοῦ ἡ θεία Ζώνη, βολὰς θαυμάτων ἐκπέμπουσα, καὶ πάντων τάς καρδίας, καταυγάζουσα Κόρη, καὶ παθῶν τὴν ὁμίχλην διώκουσα."
+meMA.Ode4C22.text = "Νέον ἡμεῖς, ὡς οὐρανὸν ὑπερχόμεθα, σοῦ τὸν οἶκον, ἐν ᾧ τεθησαύρισται, καθάπερ ἥλιος φωταυγής, σοῦ ἡ θεία Ζώνη, βολὰς θαυμάτων ἐκπέμπουσα, καὶ πάντων τὰς καρδίας, καταυγάζουσα Κόρη, καὶ παθῶν τὴν ὁμίχλην διώκουσα."
 
 meMA.Ode4C23.ode = misc_gr_GR_cog.Ode4
 meMA.Ode4C23.mode = misc_gr_GR_cog.Mode8
@@ -244,7 +246,7 @@ meMA.Ode5C14.text = "Γνωστή σου ἀληθῶς, ἡ χάρις ἀν�
 meMA.Ode5C21.ode = misc_gr_GR_cog.Ode5
 meMA.Ode5C21.mode = misc_gr_GR_cog.Mode8
 meMA.Ode5C21.melody = he.h.m8_gr_GR_cog.InaTiMeAposo.name
-meMA.Ode5C21.text = "Ζώνης θείας τεθείσης, σήμερον ἐν οἴκῳ σου θεοχαρίτωτε, συνεπανετέθη, ἀγαθῶν πᾶσα δόσις τοῖς χρῄζουσι· καὶ πληροῦται πᾶς τις, ἁγιασμοῦ ὁ προσπελάζων, τάς αἰτήσεις πιστῶς κομιζόμενος."
+meMA.Ode5C21.text = "Ζώνης θείας τεθείσης, σήμερον ἐν οἴκῳ σου θεοχαρίτωτε, συνεπανετέθη, ἀγαθῶν πᾶσα δόσις τοῖς χρῄζουσι· καὶ πληροῦται πᾶς τις, ἁγιασμοῦ ὁ προσπελάζων, τὰς αἰτήσεις πιστῶς κομιζόμενος."
 
 meMA.Ode5C22.ode = misc_gr_GR_cog.Ode5
 meMA.Ode5C22.mode = misc_gr_GR_cog.Mode8
@@ -466,7 +468,7 @@ meMA.Lauds1.text = "Ὡς ὑπέρλαμπρον στέφανον, Θεοτ�
 
 meMA.Lauds2.mode = misc_gr_GR_cog.Mode4
 meMA.Lauds2.melody = he.a.m4_gr_GR_cog.OsGennaionEnMartysi.name
-meMA.Lauds2.text = "Σὺ πανάχραντε Δέσποινα, κραταιὸν περιτείχισμα, ἀῤῥαγές τε στήριγμα καὶ διάσωσμα, τῷ σῷ λαῷ καὶ τῇ πόλει σου, ὑπάρχουσα δέδωκας, ὡς φαιδρὰν περιβολήν, τήν ὑπέρτιμον Ζώνην σου, περισῴζουσαν, συμφορῶν ἐκ παντοίων, τοὺς ἐν πίστει, καὶ ζεούσῃ προθυμίᾳ, ταύτην τιμῶντας Θεόνυμφε."
+meMA.Lauds2.text = "Σὺ πανάχραντε Δέσποινα, κραταιὸν περιτείχισμα, ἀῤῥαγές τε στήριγμα καὶ διάσωσμα, τῷ σῷ λαῷ καὶ τῇ πόλει σου, ὑπάρχουσα δέδωκας, ὡς φαιδρὰν περιβολήν, τὴν ὑπέρτιμον Ζώνην σου, περισῴζουσαν, συμφορῶν ἐκ παντοίων, τοὺς ἐν πίστει, καὶ ζεούσῃ προθυμίᾳ, ταύτην τιμῶντας Θεόνυμφε."
 
 meMA.Lauds3.mode = misc_gr_GR_cog.Mode4
 meMA.Lauds3.melody = he.a.m4_gr_GR_cog.OsGennaionEnMartysi.name

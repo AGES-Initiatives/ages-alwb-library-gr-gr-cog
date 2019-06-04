@@ -3,6 +3,8 @@ A_Resource_Whose_Name = me.m10.d06_gr_GR_cog
 meDate.text = "Τῌ Ϛʹ ΟΚΤΩΒΡΙΟΥ"
 meCommemoration.text = "Μνήμη τοῦ Ἁγίου Ἐνδόξου Ἀποστόλου Θωμᾶ." // full title of day
 meShortCommemoration1.text = "Μνήμη τοῦ Ἁγίου Ἀποστόλου Θωμᾶ."
+meCom1.title = ""
+meCom2.title = ""
 meInsert1 = "καὶ τοῦ Ἁγίου ἐνδόξου Ἀποστόλου Θωμᾶ, " // for use in petitions and dismissal
 meInsert2 = "οὗ καὶ τὴν μνήμην ἐπιτελοῦμεν· " // for use in petitions and dismissal
 meNote.text = ""
@@ -53,7 +55,7 @@ meVE.AposGlory.text = "Τὰ θεῖα ἐποπτεύων, Χριστοῦ τ�
 
 meVE.AposTheotokion.mode = misc_gr_GR_cog.Mode6
 meVE.AposTheotokion.melody = he.a.m6_gr_GR_cog.OlinApothemenoi.name
-meVE.AposTheotokion.text = "Ὅταν μου εἰς ἔννοιαν, τὸ φοβερὸν ἔλθῃ βῆμα, τοῦ Υἱοῦ σου Πάναγνε, καὶ τὸ δικαστήριον τὸ παγκόσμιον, ἀπορῶ δέδοικα, δειλιῶν καὶ τρέμων, τὴν τῶν ἔργων μου ἐξέτασιν· φαῦλα γὰρ ἅπαντα, καὶ αἰσχύνης πάσης ἀνάπλεα, καὶ σκότους καὶ κολάσεως, καὶ ἀποστροφῆς ὄντως ἄξια. Ἴδε μου τὴν θλῖψιν, καὶ ἴδε τῆς ψυχῆς τήν συντριβήν, καὶ τῆς ἀνάγκης ἐκείνης με, ῥῦσαι καὶ κολάσεως."
+meVE.AposTheotokion.text = "Ὅταν μου εἰς ἔννοιαν, τὸ φοβερὸν ἔλθῃ βῆμα, τοῦ Υἱοῦ σου Πάναγνε, καὶ τὸ δικαστήριον τὸ παγκόσμιον, ἀπορῶ δέδοικα, δειλιῶν καὶ τρέμων, τὴν τῶν ἔργων μου ἐξέτασιν· φαῦλα γὰρ ἅπαντα, καὶ αἰσχύνης πάσης ἀνάπλεα, καὶ σκότους καὶ κολάσεως, καὶ ἀποστροφῆς ὄντως ἄξια. Ἴδε μου τὴν θλῖψιν, καὶ ἴδε τῆς ψυχῆς τὴν συντριβήν, καὶ τῆς ἀνάγκης ἐκείνης με, ῥῦσαι καὶ κολάσεως."
 
 meVE.GeneralApolytikion1.mode = misc_gr_GR_cog.Mode3
 meVE.GeneralApolytikion1.melody = he.ga_gr_GR_cog.ApostoleAgie.name
@@ -92,7 +94,7 @@ meMA.Ode1C12.text = "Ὁ γνώστης τῶν κρυπτῶν, καὶ νεφ
 meMA.Ode1C13.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C13.mode = misc_gr_GR_cog.Mode4
 meMA.Ode1C13.melody = he.h.m4_gr_GR_cog.TristatasKrataious.name
-meMA.Ode1C13.text = "Ναμάτων μυστικῶν, ποταμὸς ἀνεδείχθης, περικλύζων σὺ Θωμᾶ, τὸ πρόσωπον τῆς γῆς, Ἐκκλησίας τε σύστημα, ῥεύμασι θεογνωσίας, καὶ τῷ ῥοίζῳ τοῦ Πνεύματος, τήν πολύθεον πλάνην ἀπήλασας."
+meMA.Ode1C13.text = "Ναμάτων μυστικῶν, ποταμὸς ἀνεδείχθης, περικλύζων σὺ Θωμᾶ, τὸ πρόσωπον τῆς γῆς, Ἐκκλησίας τε σύστημα, ῥεύμασι θεογνωσίας, καὶ τῷ ῥοίζῳ τοῦ Πνεύματος, τὴν πολύθεον πλάνην ἀπήλασας."
 
 meMA.Ode1C1T.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C1T.mode = misc_gr_GR_cog.Mode4

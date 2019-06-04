@@ -3,6 +3,8 @@ A_Resource_Whose_Name = me.m02.d16_gr_GR_cog
 meDate.text = "Τῌ ΙϚʹ ΦΕΒΡΟΥΑΡΙΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
 meCommemoration.text = "Μνήμη τοῦ Ἁγίου Μάρτυρος Παμφίλου, καὶ τῶν σὺν αὐτῷ" //full title of day
 meShortCommemoration1.text = "Μνήμη τοῦ Ἁγίου Μάρτυρος Παμφίλου, καὶ τῶν σὺν αὐτῷ"
+meCom1.title = ""
+meCom2.title = ""
 meInsert1 = "καὶ τοῦ Ἁγίου Μάρτυρος Παμφίλου, καὶ τῶν σὺν αὐτῷ, " //for use in petitions and dismissal
 meInsert2 = "οὗ καὶ τὴν μνήμην ἐπιτελοῦμεν· " //for use in petitions and dismissal
 meNote.text = ""
@@ -58,7 +60,7 @@ meMA.Ode1C11.text = "Δυνάμει, τοῦ Παναγίου Πνεύματ�
 meMA.Ode1C12.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C12.mode = misc_gr_GR_cog.Mode4
 meMA.Ode1C12.melody = he.h.m4_gr_GR_cog.ThalassisToErythraion.name
-meMA.Ode1C12.text = "ᾘσχύνθη, τοῖς ἀθλοφόροις Μάρτυσιν, ὁ δυσμενὴς προσβαλών· τὴν γὰρ αὐτοῦ φαρέτραν ὁ δεινός, ἐκκενώσας πικρότατα, καταβαλεῖν οὐκ ἴσχυσε, τῶν ἀριστέων τήν στεῤῥότητα."
+meMA.Ode1C12.text = "ᾘσχύνθη, τοῖς ἀθλοφόροις Μάρτυσιν, ὁ δυσμενὴς προσβαλών· τὴν γὰρ αὐτοῦ φαρέτραν ὁ δεινός, ἐκκενώσας πικρότατα, καταβαλεῖν οὐκ ἴσχυσε, τῶν ἀριστέων τὴν στεῤῥότητα."
 
 meMA.Ode1C13.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C13.mode = misc_gr_GR_cog.Mode4
@@ -246,7 +248,7 @@ meMA.Ode8C13.text = "Ναὸς φανείς, Ἰουλιανέ, τοῦ θε�
 meMA.Ode8C1T.ode = misc_gr_GR_cog.Ode8
 meMA.Ode8C1T.mode = misc_gr_GR_cog.Mode4
 meMA.Ode8C1T.melody = he.h.m4_gr_GR_cog.CheirasEkpetasasDaniil.name
-meMA.Ode8C1T.text = "Ἀμήτωρ ὁ Λόγος ἐκ Πατρὸς ὑπάρχων πρότερον, ἀπάτωρ γέγονεν, ἐκ σοῦ τὸ δεύτερον Πάναγνε, σαρκωθεὶς ὁ πρὶν ἀσώματος, δι' εὐσπλαγχνίαν βουληθείς, σῶσαι τούς ψάλλοντας· Εὐλογεῖτε, πάντα τὰ ἔργα Κυρίου τὸν Κύριον."
+meMA.Ode8C1T.text = "Ἀμήτωρ ὁ Λόγος ἐκ Πατρὸς ὑπάρχων πρότερον, ἀπάτωρ γέγονεν, ἐκ σοῦ τὸ δεύτερον Πάναγνε, σαρκωθεὶς ὁ πρὶν ἀσώματος, δι' εὐσπλαγχνίαν βουληθείς, σῶσαι τοὺς ψάλλοντας· Εὐλογεῖτε, πάντα τὰ ἔργα Κυρίου τὸν Κύριον."
 
 meMA.Ode9C1H.ode = misc_gr_GR_cog.Ode9
 meMA.Ode9C1H.mode = misc_gr_GR_cog.Mode4

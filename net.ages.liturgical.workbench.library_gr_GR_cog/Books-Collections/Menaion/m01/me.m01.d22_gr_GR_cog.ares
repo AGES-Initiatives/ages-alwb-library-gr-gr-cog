@@ -3,6 +3,8 @@ A_Resource_Whose_Name = me.m01.d22_gr_GR_cog
 meDate.text = "Τῌ ΚΒʹ ΙΑΝΟΥΑΡΙΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
 meCommemoration.text = "Μνήμη τοῦ Ἁγίου Ἀποστόλου Τιμοθέου, καὶ τοῦ Ἁγίου Ὁσιομάρτυρος Ἀναστασίου τοῦ Πέρσου" // full title of day
 meShortCommemoration1.text = ""
+meCom1.title = ""
+meCom2.title = ""
 meInsert1 = "καὶ τοῦ Ἁγίου Ἀποστόλου Τιμοθέου, καὶ τοῦ Ἁγίου Ὁσιομάρτυρος Ἀναστασίου τοῦ Πέρσου, " // for use in petitions and dismissal
 meInsert2 = "ὧν καὶ τὴν μνήμην ἐπιτελοῦμεν· " // for use in petitions and dismissal
 meNote.text = ""
@@ -131,7 +133,7 @@ meMA.Ode3C13.text = "Νεκρῶν σου τὰ μέλη τῆς σαρκός,
 meMA.Ode3C21.ode = misc_gr_GR_cog.Ode3
 meMA.Ode3C21.mode = misc_gr_GR_cog.Mode1
 meMA.Ode3C21.melody = he.h.m1_gr_GR_cog.OMonosEidos.name
-meMA.Ode3C21.text = "Τὴν τρίβον ὁδεύσας τὴν στενὴν ἐν πρώτοις δι' ἀσκήσεως, πρὸς μαρτυρίου κλέος προέκυψας διὰ βασάνων τρυφὴν εὑράμενος, διὰ πόνων ἔνδοξε Μάρτυς Ἀναστάσιε, τήν οὐράνιον τέρψιν δρεπόμενος."
+meMA.Ode3C21.text = "Τὴν τρίβον ὁδεύσας τὴν στενὴν ἐν πρώτοις δι' ἀσκήσεως, πρὸς μαρτυρίου κλέος προέκυψας διὰ βασάνων τρυφὴν εὑράμενος, διὰ πόνων ἔνδοξε Μάρτυς Ἀναστάσιε, τὴν οὐράνιον τέρψιν δρεπόμενος."
 
 meMA.Ode3C22.ode = misc_gr_GR_cog.Ode3
 meMA.Ode3C22.mode = misc_gr_GR_cog.Mode1
@@ -227,7 +229,7 @@ meMA.Ode5C2T.text = "Κατάραν τῆς Εὔας τῆς πάντων μ�
 meMA.Ode6C11.ode = misc_gr_GR_cog.Ode6
 meMA.Ode6C11.mode = misc_gr_GR_cog.Mode1
 meMA.Ode6C11.melody = he.h.m1_gr_GR_cog.SplanchnonIonan.name
-meMA.Ode6C11.text = "Ἅρμα τοῦ Θεοῦ, ἐφάνης Τιμόθεε, βαστάζων αὐτοῦ τὸ θεῖον ὄνομα, κατ' ἐνώπιον, τῶν ἀθέων τυράννων θεόληπτε, μὴ πτοούμενος τὴν τούτων ἀγριότητα· σὺ γὰρ τήν ἀκαταμάχητον, τοῦ Σωτῆρος ἰσχὺν ἐνεδέδυσο."
+meMA.Ode6C11.text = "Ἅρμα τοῦ Θεοῦ, ἐφάνης Τιμόθεε, βαστάζων αὐτοῦ τὸ θεῖον ὄνομα, κατ' ἐνώπιον, τῶν ἀθέων τυράννων θεόληπτε, μὴ πτοούμενος τὴν τούτων ἀγριότητα· σὺ γὰρ τὴν ἀκαταμάχητον, τοῦ Σωτῆρος ἰσχὺν ἐνεδέδυσο."
 
 meMA.Ode6C12.ode = misc_gr_GR_cog.Ode6
 meMA.Ode6C12.mode = misc_gr_GR_cog.Mode1
@@ -343,7 +345,7 @@ meMA.Ode9C13.text = "Ἶσὸν τῷ Πατρὶ καὶ Πνεύματι, Μ�
 meMA.Ode9C21.ode = misc_gr_GR_cog.Ode9
 meMA.Ode9C21.mode = misc_gr_GR_cog.Mode1
 meMA.Ode9C21.melody = he.h.m1_gr_GR_cog.TyponTisAgnis.name
-meMA.Ode9C21.text = "Ῥείθροις σῶν αἱμάτων Ἔνδοξε, τὴν τῶν εἰδώλων πλάνην πᾶσαν κατέσβεσας· τὸ δὲ πλήρωμα, τῆς Ἐκκλησίας ἐφαίδρυνας· ὑπὲρ ἧς ἱκετεύων πανάριστε, μὴ παύσῃ τόν Δεσπότην, ἵνα σε πάντες μακαρίζωμεν."
+meMA.Ode9C21.text = "Ῥείθροις σῶν αἱμάτων Ἔνδοξε, τὴν τῶν εἰδώλων πλάνην πᾶσαν κατέσβεσας· τὸ δὲ πλήρωμα, τῆς Ἐκκλησίας ἐφαίδρυνας· ὑπὲρ ἧς ἱκετεύων πανάριστε, μὴ παύσῃ τὸν Δεσπότην, ἵνα σε πάντες μακαρίζωμεν."
 
 meMA.Ode9C22.ode = misc_gr_GR_cog.Ode9
 meMA.Ode9C22.mode = misc_gr_GR_cog.Mode1

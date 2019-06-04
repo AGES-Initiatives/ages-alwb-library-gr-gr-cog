@@ -1,8 +1,10 @@
 A_Resource_Whose_Name = me.m01.d09_gr_GR_cog
 
 meDate.text = "Τῌ Θʹ ΙΑΝΟΥΑΡΙΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "Μνήμη τοῦ Ἁγίου Μάρτυρος Πολυεύκτου." // full title of day
-meShortCommemoration1.text = ""
+meCommemoration.text = "Μνήμη τοῦ Ἁγίου Μάρτυρος Πολυεύκτου" // full title of day
+meShortCommemoration1.text = "Μνήμη τοῦ Ἁγίου Μάρτυρος Πολυεύκτου"
+meCom1.title = ""
+meCom2.title = ""
 meInsert1 = "καὶ τοῦ Ἁγίου Μάρτυρος Πολυεύκτου, " // for use in petitions and dismissal
 meInsert2 = "οὗ καὶ τὴν μνήμην ἐπιτελοῦμεν· " // for use in petitions and dismissal
 meNote.text = ""
@@ -215,7 +217,7 @@ meMA.Ode6H.text = he.h.m8_gr_GR_cog.AvyssosAmartion.text
 meMA.Kontakion1.poet = poets_gr_GR_cog.RomanouTouMelodou
 meMA.Kontakion1.mode = misc_gr_GR_cog.Mode4
 meMA.Kontakion1.melody = he.a.m4_gr_GR_cog.EpefanisSimeron.name
-meMA.Kontakion1.text = "Ὁ Δεσπότης κλίνας μὲν ἐν Ἰορδάνῃ, κεφαλὴν συνέτριψε, τάς τῶν δρακόντων κεφαλάς· τοῦ Ἀθλοφόρου ἡ κάρα δέ, ἀποτμηθεῖσα τὸν δόλιον ᾔσχυνεν."
+meMA.Kontakion1.text = "Ὁ Δεσπότης κλίνας μὲν ἐν Ἰορδάνῃ, κεφαλὴν συνέτριψε, τὰς τῶν δρακόντων κεφαλάς· τοῦ Ἀθλοφόρου ἡ κάρα δέ, ἀποτμηθεῖσα τὸν δόλιον ᾔσχυνεν."
 
 meMA.Oikos1.text = "Ἐν Ἰορδάνῃ ποταμῷ, ὁ Κτίστης τῶν ἁπάντων, τὴν κάραν ὑποκλίνας, τὸ Βάπτισμα λαμβάνει· καὶ τῶν δρακόντων κεφαλὰς ἀοράτως συνθλάσας, ῥώμην παρέσχε τοῖς βροτοῖς κατὰ τοῦ μεγαλόφρονος, τοῦ πρὶν ἐν Παραδείσῳ πτερνίσαντος τὸν Ἀδάμ, ἐν βρώσει τῇ τοῦ ξύλου, καὶ θανάτῳ ὑποβαλόντος αὐτὸν παρ' ἐλπίδα. Διὸ ὁ ἀθλητὴς νῦν Πολύευκτος, κολακείαις γυναικὸς μὴ ὑποκύψας, ἤθλησε στεῤῥῶς, προτείνας τὴν κάραν, ἥνπερ ἀποτμηθεῖσα, τὸν δόλιον ᾔσχυνε."
 
@@ -309,7 +311,7 @@ meMA.Aposticha2.text = "Ὢ τῆς ὑπὲρ νοῦν, καὶ ἀφάτου
 
 meMA.Aposticha3.mode = misc_gr_GR_cog.Mode6
 meMA.Aposticha3.melody = he.a.m6_gr_GR_cog.AiAngelikai.name
-meMA.Aposticha3.text = "Ὡς ἐπιβλαβῶν, τῶν γηΐνων ἀπαχθέντες, δεῦτε νοητῶς, καθαρθῶμεν τάς αἰσθήσεις· καὶ τὸν Χριστὸν ἰδόντες ἐν σαρκὶ βαπτιζόμενον, ὑπὸ Ἰωάννου τοῦ Προδρόμου, πάντες σὺν αὐτῷ ὑμνολογοῦντες, πιστῶς κράξωμεν· Εὐλογημένος ὁ φανείς, Θεὸς ἡμῶν δόξα σοι."
+meMA.Aposticha3.text = "Ὡς ἐπιβλαβῶν, τῶν γηΐνων ἀπαχθέντες, δεῦτε νοητῶς, καθαρθῶμεν τὰς αἰσθήσεις· καὶ τὸν Χριστὸν ἰδόντες ἐν σαρκὶ βαπτιζόμενον, ὑπὸ Ἰωάννου τοῦ Προδρόμου, πάντες σὺν αὐτῷ ὑμνολογοῦντες, πιστῶς κράξωμεν· Εὐλογημένος ὁ φανείς, Θεὸς ἡμῶν δόξα σοι."
 
 meMA.AposGlory.mode = misc_gr_GR_cog.Mode6
 meMA.AposGlory.melody = he.a.m6_gr_GR_cog.AiAngelikai.name

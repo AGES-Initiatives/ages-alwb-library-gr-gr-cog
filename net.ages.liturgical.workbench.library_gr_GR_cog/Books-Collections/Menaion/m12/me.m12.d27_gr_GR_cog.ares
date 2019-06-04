@@ -3,6 +3,8 @@ A_Resource_Whose_Name = me.m12.d27_gr_GR_cog
 meDate.text = "Τῌ ΚΖʹ ΔΕΚΕΜΒΡΙΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
 meCommemoration.text = "Μνήμη τοῦ Ἁγίου Πρωτομάρτυρος, καὶ Ἀρχιδιακόνου Στεφάνου, καὶ τοῦ Ὁσίου Πατρὸς ἡμῶν καὶ Ὁμολογητοῦ Θεοδώρου τοῦ Γραπτοῦ, αὐταδέλφου Θεοφάνους τοῦ Ποιητοῦ." // full title of day
 meShortCommemoration1.text = "Μνήμη τοῦ Ἁγίου Πρωτομάρτυρος Στεφάνου"
+meCom1.title = ""
+meCom2.title = ""
 meInsert1 = "καὶ τοῦ Ἁγίου Πρωτομάρτυρος, καὶ Ἀρχιδιακόνου Στεφάνου," // for use in petitions and dismissal
 meInsert2 = "οὗ καὶ τὴν μνήμην ἐπιτελοῦμεν· " // for use in petitions and dismissal
 meNote.text = ""
@@ -31,7 +33,7 @@ meVE.MM.Stichera123as8910.text = properties_gr_GR_cog.media.key
 
 meVE.Stichera04.mode = misc_gr_GR_cog.Mode4
 meVE.Stichera04.melody = he.a.m4_gr_GR_cog.OsGennaionEnMartysi.name
-meVE.Stichera04.text = "Ξενιτείας τοῖς τραύμασι, προσετέθη σοι τραύματα, ἐξορίας Ὅσιε, χαλεπότητι, τοῦ παρανόμως διέποντος, τὸν θρόνον τὸν ἔννομον, καὶ συγχέοντος δεινῶς, τούς θεσμοὺς τοὺς τῆς πίστεως, καὶ τήν, Ἄχραντον, τοῦ Σωτῆρος Εἰκόνα καθελόντος, ὃν τῇ χάριτι τῇ θείᾳ Χριστοῦ θεράπον κατῄσχυνας."
+meVE.Stichera04.text = "Ξενιτείας τοῖς τραύμασι, προσετέθη σοι τραύματα, ἐξορίας Ὅσιε, χαλεπότητι, τοῦ παρανόμως διέποντος, τὸν θρόνον τὸν ἔννομον, καὶ συγχέοντος δεινῶς, τοὺς θεσμοὺς τοὺς τῆς πίστεως, καὶ τήν, Ἄχραντον, τοῦ Σωτῆρος Εἰκόνα καθελόντος, ὃν τῇ χάριτι τῇ θείᾳ Χριστοῦ θεράπον κατῄσχυνας."
 
 meVE.Stichera05.mode = misc_gr_GR_cog.Mode4
 meVE.Stichera05.melody = he.a.m4_gr_GR_cog.OsGennaionEnMartysi.name
@@ -89,7 +91,7 @@ meMA.Kathisma11.text = "Ὁ θρόνῳ πυριμόρφῳ, ἐν ὑψίσ�
 
 meMA.Kathisma21.mode = misc_gr_GR_cog.Mode4
 meMA.Kathisma21.melody = he.a.m4_gr_GR_cog.KateplagiIosif.name
-meMA.Kathisma21.text = "Τὴν τοῦ Πνεύματος πηγήν, ἐν τῇ καρδίᾳ μυστικῶς, κεκτημένος τοῦ Χριστοῦ, ὁ Πρωτομάρτυς ἀληθῶς, τῶν Ἰουδαίων ἀπήλεγξε τὴν αὐθάδειαν, καὶ ἔδειξεν αὐτοῖς, τόν Υἱὸν τοῦ Θεοῦ, ἐκ σπέρματος Δαυΐδ, ἀναβλαστήσαντα, τῷ τῆς σοφίας καὶ χάριτος πληρώματι, πεπληρωμένος ὁ ἔνδοξος. Ἀλλ' ὦ Τρισμάκαρ, τοὺς σὲ τιμῶντας, σῷζε θείαις πρεσβείαις σου."
+meMA.Kathisma21.text = "Τὴν τοῦ Πνεύματος πηγήν, ἐν τῇ καρδίᾳ μυστικῶς, κεκτημένος τοῦ Χριστοῦ, ὁ Πρωτομάρτυς ἀληθῶς, τῶν Ἰουδαίων ἀπήλεγξε τὴν αὐθάδειαν, καὶ ἔδειξεν αὐτοῖς, τὸν Υἱὸν τοῦ Θεοῦ, ἐκ σπέρματος Δαυΐδ, ἀναβλαστήσαντα, τῷ τῆς σοφίας καὶ χάριτος πληρώματι, πεπληρωμένος ὁ ἔνδοξος. Ἀλλ' ὦ Τρισμάκαρ, τοὺς σὲ τιμῶντας, σῷζε θείαις πρεσβείαις σου."
 
 meMA.Kathisma22.mode = misc_gr_GR_cog.Mode4
 meMA.Kathisma22.melody = he.a.m4_gr_GR_cog.KateplagiIosif.name
@@ -484,7 +486,7 @@ meMA.Lauds1.text = "Ἀθλοφορικὸν στέφανον, τῷ Πρωτ�
 meMA.Lauds2.poet = poets_gr_GR_cog.Anatoliou
 meMA.Lauds2.mode = misc_gr_GR_cog.Mode2
 meMA.Lauds2.melody = misc_gr_GR_cog.Idiomelon
-meMA.Lauds2.text = "Ἁγιωσύνην ἐνεδύσω, Στέφανε μακάριε, Πρωτομάρτυς καὶ Πρωτοδιάκονε, τῶν Ἀγγέλων συμμέτοχε, δυσωπήθητι, καὶ πρέσβευε ὑπὲρ ἡμῶν, πρὸς τὸν Σωτῆρα Κύριον τόν ἀναμάρτητον."
+meMA.Lauds2.text = "Ἁγιωσύνην ἐνεδύσω, Στέφανε μακάριε, Πρωτομάρτυς καὶ Πρωτοδιάκονε, τῶν Ἀγγέλων συμμέτοχε, δυσωπήθητι, καὶ πρέσβευε ὑπὲρ ἡμῶν, πρὸς τὸν Σωτῆρα Κύριον τὸν ἀναμάρτητον."
 
 meMA.Lauds3.mode = misc_gr_GR_cog.Mode2
 meMA.Lauds3.melody = misc_gr_GR_cog.Idiomelon

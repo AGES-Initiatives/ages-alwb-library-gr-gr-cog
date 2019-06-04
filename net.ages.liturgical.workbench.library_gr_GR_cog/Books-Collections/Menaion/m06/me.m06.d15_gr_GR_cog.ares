@@ -3,6 +3,8 @@ A_Resource_Whose_Name = me.m06.d15_gr_GR_cog
 meDate.text = "Τῌ ΙΕʹ ΙΟΥΝΙΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
 meCommemoration.text = "Μνήμη τοῦ Ἁγίου Προφήτου Ἀμώς." //full title of day
 meShortCommemoration1.text = ""
+meCom1.title = ""
+meCom2.title = ""
 meInsert1 = "καὶ τοῦ Ἁγίου Προφήτου Ἀμώς, " //for use in petitions and dismissal
 meInsert2 = "οὗ καὶ τὴν μνήμην ἐπιτελοῦμεν· " //for use in petitions and dismissal
 meNote.text = ""
@@ -185,12 +187,12 @@ meMA.Ode7C1T.text = "Τὸν ἀκατάληπτον τόκον τῆς Παρ
 meMA.Ode8C11.ode = misc_gr_GR_cog.Ode8
 meMA.Ode8C11.mode = misc_gr_GR_cog.Mode7
 meMA.Ode8C11.melody = he.h.m7_gr_GR_cog.TonMononAnarchon.name
-meMA.Ode8C11.text = "Ὅλος ἀνέδραμες εἰς αἰθέριον ὕψος, καὶ ἐμυήθης τῶν ἀῤῥήτων τὴν γνῶσιν, καὶ γέγονας μηνυτὴς τῆς τοῦ Λόγου σαρκώσεως Ἀμώς· διὸ σε ἀνυμνοῦμεν, εἰς πάντας τούς αἰῶνας."
+meMA.Ode8C11.text = "Ὅλος ἀνέδραμες εἰς αἰθέριον ὕψος, καὶ ἐμυήθης τῶν ἀῤῥήτων τὴν γνῶσιν, καὶ γέγονας μηνυτὴς τῆς τοῦ Λόγου σαρκώσεως Ἀμώς· διὸ σε ἀνυμνοῦμεν, εἰς πάντας τοὺς αἰῶνας."
 
 meMA.Ode8C12.ode = misc_gr_GR_cog.Ode8
 meMA.Ode8C12.mode = misc_gr_GR_cog.Mode7
 meMA.Ode8C12.melody = he.h.m7_gr_GR_cog.TonMononAnarchon.name
-meMA.Ode8C12.text = "Νοὸς ὀξύτητι τὸν τῶν ὅλων Δεσπότην, κατανοεῖν ὡς ἐφικτὸν ἠξιώθης, μυοῦντά σε, τῶν ἀῤῥήτων τὴν γνῶσιν κραυγάζων εὐσεβῶς· Λαὸς ὑπερυψοῦτε, αὐτὸν εἰς τούς αἰῶνας."
+meMA.Ode8C12.text = "Νοὸς ὀξύτητι τὸν τῶν ὅλων Δεσπότην, κατανοεῖν ὡς ἐφικτὸν ἠξιώθης, μυοῦντά σε, τῶν ἀῤῥήτων τὴν γνῶσιν κραυγάζων εὐσεβῶς· Λαὸς ὑπερυψοῦτε, αὐτὸν εἰς τοὺς αἰῶνας."
 
 meMA.Ode8C13.ode = misc_gr_GR_cog.Ode8
 meMA.Ode8C13.mode = misc_gr_GR_cog.Mode7
@@ -200,7 +202,7 @@ meMA.Ode8C13.text = "Μακαριότητος καὶ χαρᾶς ἀνεκφρ
 meMA.Ode8C1T.ode = misc_gr_GR_cog.Ode8
 meMA.Ode8C1T.mode = misc_gr_GR_cog.Mode7
 meMA.Ode8C1T.melody = he.h.m7_gr_GR_cog.TonMononAnarchon.name
-meMA.Ode8C1T.text = "Ἐν δύο φύσεσι τῆς Τριάδος, τὸν ἕνα θεοπρεπῶς ἄνευ σπορᾶς Θεομῆτορ, ἐγέννησας τὸν Σωτῆρα τοῦ κόσμου· διὸ σε οἱ πιστοί, πόθῳ ὑπερυψοῦμεν, εἰς πάντας τούς αἰῶνας."
+meMA.Ode8C1T.text = "Ἐν δύο φύσεσι τῆς Τριάδος, τὸν ἕνα θεοπρεπῶς ἄνευ σπορᾶς Θεομῆτορ, ἐγέννησας τὸν Σωτῆρα τοῦ κόσμου· διὸ σε οἱ πιστοί, πόθῳ ὑπερυψοῦμεν, εἰς πάντας τοὺς αἰῶνας."
 
 meMA.Ode8H.ode = misc_gr_GR_cog.Ode8
 meMA.Ode8H.mode = misc_gr_GR_cog.Mode7

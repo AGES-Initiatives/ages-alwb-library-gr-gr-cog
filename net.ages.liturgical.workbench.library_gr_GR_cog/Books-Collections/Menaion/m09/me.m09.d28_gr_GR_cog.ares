@@ -3,6 +3,8 @@ A_Resource_Whose_Name = me.m09.d28_gr_GR_cog
 meDate.text = "Τῌ ΚΗʹ ΣΕΠΤΕΜΒΡΙΟΥ"
 meCommemoration.text = "Μνήμη τοῦ Ὁσίου Πατρὸς ἡμῶν καὶ Ὁμολογητοῦ Χαρίτωνος." //full title of day
 meShortCommemoration1.text = ""
+meCom1.title = ""
+meCom2.title = ""
 meInsert1 = "καὶ τοῦ Ὁσίου Πατρὸς ἡμῶν Χαρίτωνος τοῦ Ὁμολογητοῦ, " //for use in petitions and dismissal
 meInsert2 = "οὗ καὶ τὴν μνήμην ἐπιτελοῦμεν· " //for use in petitions and dismissal
 meNote.text = ""
@@ -29,7 +31,7 @@ meVE.Stichera03.text = "Ἐρήμοις καὶ ὄρεσι, σὺ φυγαδε
 meVE.SticGlory.poet = poets_gr_GR_cog.IoannouMonachou
 meVE.SticGlory.mode = misc_gr_GR_cog.Mode4
 meVE.SticGlory.melody = ""
-meVE.SticGlory.text = "Θεοφόρε Χαρίτων, σὺ καὶ μετὰ θάνατον ἐν οὐρανοῖς ζῇς ἐν τῷ Χριστῷ, δι' ὃν τῷ κόσμῳ σεαυτὸν ἀνεσταύρωσας· ἔξω γὰρ σαρκὸς καὶ κόσμου γενόμενος, ὑπὲρ τὰ ὁρώμενα ἔζης ἀληθῶς· οὐ γὰρ ἔζης σεαυτῷ, ἔζη δὲ μᾶλλον ἐν σοὶ Χριστὸς ὁ Θεὸς ἡμῶν· Αὐτὸν ἱκέτευε σωθῆναι τάς ψυχὰς ἡμῶν."
+meVE.SticGlory.text = "Θεοφόρε Χαρίτων, σὺ καὶ μετὰ θάνατον ἐν οὐρανοῖς ζῇς ἐν τῷ Χριστῷ, δι' ὃν τῷ κόσμῳ σεαυτὸν ἀνεσταύρωσας· ἔξω γὰρ σαρκὸς καὶ κόσμου γενόμενος, ὑπὲρ τὰ ὁρώμενα ἔζης ἀληθῶς· οὐ γὰρ ἔζης σεαυτῷ, ἔζη δὲ μᾶλλον ἐν σοὶ Χριστὸς ὁ Θεὸς ἡμῶν· Αὐτὸν ἱκέτευε σωθῆναι τὰς ψυχὰς ἡμῶν."
 
 meVE.SticTheotokion.mode = misc_gr_GR_cog.Mode4
 meVE.SticTheotokion.melody = he.a.m4_gr_GR_cog.OsGennaionEnMartysi.name
@@ -41,7 +43,7 @@ meVE.SticStavrotheotokion.text = "Ἐν Σταυρῷ ὡς ἑώρακε, κα�
 
 meVE.AposGlory.mode = misc_gr_GR_cog.Mode8
 meVE.AposGlory.melody = ""
-meVE.AposGlory.text = "Τῶν Μοναστῶν τὰ πλήθη, τὸν καθηγητήν σε τιμῶμεν Χαρίτων ὅσιε· διὰ σοῦ γὰρ τὴν τρίβον, τὴν ὄντως εὐθεῖαν πορεύεσθαι ἔγνωμεν· Μακάριος εἶ τῷ Χριστῷ δουλεύσας, καὶ ἐχθροῦ θριαμβεύσας τὴν δύναμιν, Ἀγγέλων συνόμιλε, Ὁσίων συμμέτοχε καὶ Δικαίων, μεθ' ὧν πρέσβευε τῷ Κυρίῳ, ἐλεηθῆναι τάς ψυχὰς ἡμῶν."
+meVE.AposGlory.text = "Τῶν Μοναστῶν τὰ πλήθη, τὸν καθηγητήν σε τιμῶμεν Χαρίτων ὅσιε· διὰ σοῦ γὰρ τὴν τρίβον, τὴν ὄντως εὐθεῖαν πορεύεσθαι ἔγνωμεν· Μακάριος εἶ τῷ Χριστῷ δουλεύσας, καὶ ἐχθροῦ θριαμβεύσας τὴν δύναμιν, Ἀγγέλων συνόμιλε, Ὁσίων συμμέτοχε καὶ Δικαίων, μεθ' ὧν πρέσβευε τῷ Κυρίῳ, ἐλεηθῆναι τὰς ψυχὰς ἡμῶν."
 
 meVE.AposTheotokion.mode = misc_gr_GR_cog.Mode8
 meVE.AposTheotokion.melody = he.a.m8_gr_GR_cog.OTouParadoxou.name

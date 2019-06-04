@@ -3,6 +3,8 @@ A_Resource_Whose_Name = me.m03.d20_gr_GR_cog
 meDate.text = "Τῌ Κʹ ΜΑΡΤΙΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
 meCommemoration.text = "Μνήμη τῶν Ὁσίων Πατέρων ἡμῶν τῶν ἐν τῇ Μονῇ τοῦ Ἁγίου Σάββα ἀναιρεθέντων" //full title of day
 meShortCommemoration1.text = "Μνήμη τῶν Ὁσίων Πατέρων ἡμῶν τῶν ἐν τῇ Μονῇ τοῦ Ἁγίου Σάββα ἀναιρεθέντων"
+meCom1.title = ""
+meCom2.title = ""
 meInsert1 = "" //for use in petitions and dismissal
 meInsert2 = "" //for use in petitions and dismissal
 meNote.text = ""
@@ -83,7 +85,7 @@ meMA.Ode3C11.text = "Ἱερεύσαντες ὅλον, τὸν ἑαυτῶν 
 meMA.Ode3C12.ode = misc_gr_GR_cog.Ode3
 meMA.Ode3C12.mode = misc_gr_GR_cog.Mode8
 meMA.Ode3C12.melody = he.h.m8_gr_GR_cog.OuraniasApsidos.name
-meMA.Ode3C12.text = "Σάββα τοῦ Θεοφόρου, ὡς φοιτηταὶ γνήσιοι, τὴν ἐκ τῶν θορύβων ποθήσαντες ἀναχώρησιν, ἀνεπιστρόφως ὁδόν, τὴν τεθλιμμένην πατοῦντες, πρὸς ζωὴν ἐφθάσατε, τήν ἀτελεύτητον."
+meMA.Ode3C12.text = "Σάββα τοῦ Θεοφόρου, ὡς φοιτηταὶ γνήσιοι, τὴν ἐκ τῶν θορύβων ποθήσαντες ἀναχώρησιν, ἀνεπιστρόφως ὁδόν, τὴν τεθλιμμένην πατοῦντες, πρὸς ζωὴν ἐφθάσατε, τὴν ἀτελεύτητον."
 
 meMA.Ode3C13.ode = misc_gr_GR_cog.Ode3
 meMA.Ode3C13.mode = misc_gr_GR_cog.Mode8
@@ -120,7 +122,7 @@ meMA.Ode4C11.text = "Ἐρήμῳ ἀνίκμῳ, ἐγκαρτεροῦντα
 meMA.Ode4C12.ode = misc_gr_GR_cog.Ode4
 meMA.Ode4C12.mode = misc_gr_GR_cog.Mode8
 meMA.Ode4C12.melody = he.h.m8_gr_GR_cog.EpevisEfIppous.name
-meMA.Ode4C12.text = "Ῥιζώσας τὴν πλάνην, ἐν τοῖς ἰδίοις αὐτοῦ μαθηταῖς, πρὸς ἀλληλοφονίαν ἠρέθισε, τὰ τῶν βαρβάρων φῦλα ὁ Δράκων ὁ δόλιος, δι' ὧν καὶ τῆς ἐρήμου, ἐξῶσαι τούς Ὁσίους ἠπείγετο."
+meMA.Ode4C12.text = "Ῥιζώσας τὴν πλάνην, ἐν τοῖς ἰδίοις αὐτοῦ μαθηταῖς, πρὸς ἀλληλοφονίαν ἠρέθισε, τὰ τῶν βαρβάρων φῦλα ὁ Δράκων ὁ δόλιος, δι' ὧν καὶ τῆς ἐρήμου, ἐξῶσαι τοὺς Ὁσίους ἠπείγετο."
 
 meMA.Ode4C13.ode = misc_gr_GR_cog.Ode4
 meMA.Ode4C13.mode = misc_gr_GR_cog.Mode8

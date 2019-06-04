@@ -3,6 +3,8 @@ A_Resource_Whose_Name = me.m01.d04_gr_GR_cog
 meDate.text = "Τῌ Δʹ ΙΑΝΟΥΑΡΙΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
 meCommemoration.text = "Προεόρτια τῶν Φώτων, καὶ ἡ Σύναξις τῶν Ἁγίων Ἑβδομήκοντα Ἀποστόλων, καὶ μνήμη τοῦ Ὁσίου Πατρὸς ἡμῶν Θεοκτίστου." // full title of day
 meShortCommemoration1.text = "Προεόρτια τῶν Φώτων"
+meCom1.title = ""
+meCom2.title = ""
 meInsert1 = "" // for use in petitions and dismissal
 meInsert2 = "" // for use in petitions and dismissal
 meNote.text = ""
@@ -196,7 +198,7 @@ meCO.Ode8C12.text = "Νόμου τηροῦντες τὸ κεφάλαιον, 
 meCO.Ode8C13.ode = misc_gr_GR_cog.Ode8
 meCO.Ode8C13.mode = misc_gr_GR_cog.Mode6
 meCO.Ode8C13.melody = he.h.m6_gr_GR_cog.NomonPatroon.name
-meCO.Ode8C13.text = "Ἐδεξιοῦτο τὸν ἐρχόμενον, τάς ἁμαρτίας πάντων καθᾶραι νάμασιν, ἀλλὰ τοῦτον διεκώλυε, συστελλόμενος φόβῳ· Ἐγὼ γὰρ χρείαν ἔχω βαπτισθῆναι ὑπὸ σοῦ, τῷ Νυμφίῳ ἀντέφησεν, ὁ φίλος ἡ φωνή τε τῷ Λόγῳ, καὶ Ἡλίῳ ὁ λύχνος, ὃν ὑπερυψοῦμεν, εἰς πάντας τοὺς αἰῶνας."
+meCO.Ode8C13.text = "Ἐδεξιοῦτο τὸν ἐρχόμενον, τὰς ἁμαρτίας πάντων καθᾶραι νάμασιν, ἀλλὰ τοῦτον διεκώλυε, συστελλόμενος φόβῳ· Ἐγὼ γὰρ χρείαν ἔχω βαπτισθῆναι ὑπὸ σοῦ, τῷ Νυμφίῳ ἀντέφησεν, ὁ φίλος ἡ φωνή τε τῷ Λόγῳ, καὶ Ἡλίῳ ὁ λύχνος, ὃν ὑπερυψοῦμεν, εἰς πάντας τοὺς αἰῶνας."
 
 meCO.Ode9C1H.ode = misc_gr_GR_cog.Ode9
 meCO.Ode9C1H.mode = misc_gr_GR_cog.Mode6
@@ -436,7 +438,7 @@ meMA.Ode4C2T.text = "Σὲ μακαριώτατος πάλαι χορός, τ�
 meMA.Ode4C31.ode = misc_gr_GR_cog.Ode4
 meMA.Ode4C31.mode = misc_gr_GR_cog.Mode2
 meMA.Ode4C31.melody = he.h.m2_gr_GR_cog.ElilythasEkParthenou.name
-meMA.Ode4C31.text = "Ἐστάλαξαν, γλυκασμὸν οἱ τῶν πόνων ἱδρῶτές σου, πικρίαν ἐξαίροντες, τὴν τῶν Δαιμόνων Ἀοίδιμε, νόσων φυγαδεύοντες, τάς ἁλμυρὰς διεκχύσεις ἀξιάγαστε."
+meMA.Ode4C31.text = "Ἐστάλαξαν, γλυκασμὸν οἱ τῶν πόνων ἱδρῶτές σου, πικρίαν ἐξαίροντες, τὴν τῶν Δαιμόνων Ἀοίδιμε, νόσων φυγαδεύοντες, τὰς ἁλμυρὰς διεκχύσεις ἀξιάγαστε."
 
 meMA.Ode4C32.ode = misc_gr_GR_cog.Ode4
 meMA.Ode4C32.mode = misc_gr_GR_cog.Mode2
@@ -446,7 +448,7 @@ meMA.Ode4C32.text = "Θεούμενος, ἀνενδότοις καθάρσε
 meMA.Ode4C33.ode = misc_gr_GR_cog.Ode4
 meMA.Ode4C33.mode = misc_gr_GR_cog.Mode2
 meMA.Ode4C33.melody = he.h.m2_gr_GR_cog.ElilythasEkParthenou.name
-meMA.Ode4C33.text = "Διέῤῥηξας, τῶν παθῶν τάς θαλάσσας Θεόκτιστε, τῇ ῥάβδῳ τῆς Πίστεως, καὶ Φαραὼ τὸν ἀόρατον, Πάτερ κατεπόντισας, ἐπαγγελίας πρὸς χθόνα φθάσας Ὅσιε."
+meMA.Ode4C33.text = "Διέῤῥηξας, τῶν παθῶν τὰς θαλάσσας Θεόκτιστε, τῇ ῥάβδῳ τῆς Πίστεως, καὶ Φαραὼ τὸν ἀόρατον, Πάτερ κατεπόντισας, ἐπαγγελίας πρὸς χθόνα φθάσας Ὅσιε."
 
 meMA.Ode4C3T.ode = misc_gr_GR_cog.Ode4
 meMA.Ode4C3T.mode = misc_gr_GR_cog.Mode2
@@ -496,7 +498,7 @@ meMA.Ode5C2T.text = "Τὰ ὄμματα φώτισον· Παρθένε τῆ�
 meMA.Ode5C31.ode = misc_gr_GR_cog.Ode5
 meMA.Ode5C31.mode = misc_gr_GR_cog.Mode2
 meMA.Ode5C31.melody = he.h.m2_gr_GR_cog.OFotismos.name
-meMA.Ode5C31.text = "Τῶν προσευχῶν, τῷ ἀρότρῳ ἀνανεώσας, γῆν τῆς καρδίας, ταύτῃ κατεβάλου τοῦ λόγου σπόρον, Πάτερ θέοφρον, καὶ πολύχουν ἐδρέψω, εὐκαρπίαν τῶν εὐφημούντων σε, πάντων εὐσεβῶν, τάς ψυχὰς διατρέφουσαν."
+meMA.Ode5C31.text = "Τῶν προσευχῶν, τῷ ἀρότρῳ ἀνανεώσας, γῆν τῆς καρδίας, ταύτῃ κατεβάλου τοῦ λόγου σπόρον, Πάτερ θέοφρον, καὶ πολύχουν ἐδρέψω, εὐκαρπίαν τῶν εὐφημούντων σε, πάντων εὐσεβῶν, τὰς ψυχὰς διατρέφουσαν."
 
 meMA.Ode5C32.ode = misc_gr_GR_cog.Ode5
 meMA.Ode5C32.mode = misc_gr_GR_cog.Mode2
@@ -687,7 +689,7 @@ meMA.Ode8C31.text = "Ἐν ἀκακίᾳ τὴν ζωήν, διανύσας 
 meMA.Ode8C32.ode = misc_gr_GR_cog.Ode8
 meMA.Ode8C32.mode = misc_gr_GR_cog.Mode2
 meMA.Ode8C32.melody = he.h.m2_gr_GR_cog.TonEnKaminoTouPyros.name
-meMA.Ode8C32.text = "Νῦν ἡ ἀξίνη τῶν ψυχῶν, ἀπειλεῖ τὴν ἐκτομήν, ψυχή μου σπεῦσον, καὶ παθῶν τάς ἀκάνθας, ἀποτεμοῦσα καρπούς, ὡρίμους Κυρίῳ προσάγαγε, ταῖς τοῦ θεοφόρου, εὐχαῖς διασωθεῖσα."
+meMA.Ode8C32.text = "Νῦν ἡ ἀξίνη τῶν ψυχῶν, ἀπειλεῖ τὴν ἐκτομήν, ψυχή μου σπεῦσον, καὶ παθῶν τὰς ἀκάνθας, ἀποτεμοῦσα καρπούς, ὡρίμους Κυρίῳ προσάγαγε, ταῖς τοῦ θεοφόρου, εὐχαῖς διασωθεῖσα."
 
 meMA.Ode8C3T.ode = misc_gr_GR_cog.Ode8
 meMA.Ode8C3T.mode = misc_gr_GR_cog.Mode2

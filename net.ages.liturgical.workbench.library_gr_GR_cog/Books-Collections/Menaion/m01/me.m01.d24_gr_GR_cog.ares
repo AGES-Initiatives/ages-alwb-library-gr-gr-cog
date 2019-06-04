@@ -3,6 +3,8 @@ A_Resource_Whose_Name = me.m01.d24_gr_GR_cog
 meDate.text = "Τῌ ΚΔʹ ΙΑΝΟΥΑΡΙΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
 meCommemoration.text = "Μνήμη τῆς Ὁσίας Μητρὸς ἡμῶν Ξένης" //full title of day
 meShortCommemoration1.text = "Μνήμη τῆς Ὁσίας Μητρὸς ἡμῶν Ξένης"
+meCom1.title = ""
+meCom2.title = ""
 meInsert1 = "καὶ τῆς Ὁσίας Μητρὸς ἡμῶν Ξένης, " //for use in petitions and dismissal
 meInsert2 = "ἧς καὶ τὴν μνήμην ἐπιτελοῦμεν· " //for use in petitions and dismissal
 meNote.text = ""
@@ -136,7 +138,7 @@ meMA.Ode5C13.text = "Τρυγὼν ὡραιοτάτη, χελιδὼν λαμ�
 meMA.Ode5C1T.ode = misc_gr_GR_cog.Ode5
 meMA.Ode5C1T.mode = misc_gr_GR_cog.Mode8
 meMA.Ode5C1T.melody = he.h.m8_gr_GR_cog.TonZofonTisPsychisMou.name
-meMA.Ode5C1T.text = "Ἀμήτορα τῶν ἄνω, ἐπ' ἐσχάτων τοῖς κάτω τίκτεις ἀπάτορα, οὐσιωθέντα Παρθένε, τὸ ἡμέτερον ὅλον, δι' εὐσπλαγχνίαν πολλήν, ὃν ἐκδυσώπει σωθῆναι, φθορᾶς τούς ὑμνοῦντάς σε."
+meMA.Ode5C1T.text = "Ἀμήτορα τῶν ἄνω, ἐπ' ἐσχάτων τοῖς κάτω τίκτεις ἀπάτορα, οὐσιωθέντα Παρθένε, τὸ ἡμέτερον ὅλον, δι' εὐσπλαγχνίαν πολλήν, ὃν ἐκδυσώπει σωθῆναι, φθορᾶς τοὺς ὑμνοῦντάς σε."
 
 meMA.Ode6C11.ode = misc_gr_GR_cog.Ode6
 meMA.Ode6C11.mode = misc_gr_GR_cog.Mode8

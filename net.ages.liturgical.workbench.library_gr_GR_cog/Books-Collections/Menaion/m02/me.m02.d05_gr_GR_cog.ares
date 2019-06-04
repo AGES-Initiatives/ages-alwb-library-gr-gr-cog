@@ -3,6 +3,8 @@ A_Resource_Whose_Name = me.m02.d05_gr_GR_cog
 meDate.text = "Τῌ Εʹ ΦΕΒΡΟΥΑΡΙΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
 meCommemoration.text = "Μνήμη τῆς Ἁγίας Μάρτυρος Ἀγάθης" //full title of day
 meShortCommemoration1.text = "Μνήμη τῆς Ἁγίας Μάρτυρος Ἀγάθης"
+meCom1.title = ""
+meCom2.title = ""
 meInsert1 = "καὶ τῆς Ἁγίας Μάρτυρος Ἀγάθης, " //for use in petitions and dismissal
 meInsert2 = "ἧς καὶ τὴν μνήμην ἐπιτελοῦμεν· " //for use in petitions and dismissal
 meNote.text = ""
@@ -55,7 +57,7 @@ meVE.Aposticha1.text = "Ὡς ὄντως ὑπέρλαμπρος Θεοῦ, κ
 
 meVE.Aposticha2.mode = misc_gr_GR_cog.Mode1
 meVE.Aposticha2.melody = he.a.m1_gr_GR_cog.PaneffimoiMartyres.name
-meVE.Aposticha2.text = "Δεδόξασται σήμερον Χριστόν, Συμεὼν ὡς ἄνθρακα, θεοπρεπῶς εἰσδεξάμενος, καὶ περιπτύσσεται, καθαρθεὶς τὰ χείλη, ἀνθομολογεῖται δέ, καὶ χαίρων ἐξαιτεῖ τήν ἀπόλυσιν. Αὐτὸν οὖν ἅπαντες, εὐσεβῶς νῦν μακαρίζοντες, ἀσιγήτοις ἐν ὕμνοις τιμήσωμεν."
+meVE.Aposticha2.text = "Δεδόξασται σήμερον Χριστόν, Συμεὼν ὡς ἄνθρακα, θεοπρεπῶς εἰσδεξάμενος, καὶ περιπτύσσεται, καθαρθεὶς τὰ χείλη, ἀνθομολογεῖται δέ, καὶ χαίρων ἐξαιτεῖ τὴν ἀπόλυσιν. Αὐτὸν οὖν ἅπαντες, εὐσεβῶς νῦν μακαρίζοντες, ἀσιγήτοις ἐν ὕμνοις τιμήσωμεν."
 
 meVE.Aposticha3.mode = misc_gr_GR_cog.Mode1
 meVE.Aposticha3.melody = he.a.m1_gr_GR_cog.PaneffimoiMartyres.name
@@ -266,12 +268,12 @@ meMA.Ode8C11.text = "Ἐν εὐφροσύνῃ καὶ χαρᾷ, δι' αἰ�
 meMA.Ode8C12.ode = misc_gr_GR_cog.Ode8
 meMA.Ode8C12.mode = misc_gr_GR_cog.Mode2
 meMA.Ode8C12.melody = he.h.m2_gr_GR_cog.TonEnKaminoTouPyros.name
-meMA.Ode8C12.text = "Νῷ καὶ καρδίᾳ καὶ ψυχῇ, ἀγαπήσασα Χριστοῦ τὴν ὑπὲρ λόγον, πολυέραστον θέαν, ἀνεπτερώθης αὐτῷ, βοῶσα· Δραμοῦμαι ὀπίσω σου, καὶ κατασκηνώσω σὺν σοὶ εἰς τούς αἰῶνας."
+meMA.Ode8C12.text = "Νῷ καὶ καρδίᾳ καὶ ψυχῇ, ἀγαπήσασα Χριστοῦ τὴν ὑπὲρ λόγον, πολυέραστον θέαν, ἀνεπτερώθης αὐτῷ, βοῶσα· Δραμοῦμαι ὀπίσω σου, καὶ κατασκηνώσω σὺν σοὶ εἰς τοὺς αἰῶνας."
 
 meMA.Ode8C13.ode = misc_gr_GR_cog.Ode8
 meMA.Ode8C13.mode = misc_gr_GR_cog.Mode2
 meMA.Ode8C13.melody = he.h.m2_gr_GR_cog.TonEnKaminoTouPyros.name
-meMA.Ode8C13.text = "Ὑπερφυέσι κροσσωτοῖς, καὶ ὡραία τῇ στολῇ ἠγλαϊσμένη, βασιλέως θυγάτηρ, ἐν τῇ τιμῇ τοῦ Χριστοῦ, παρέστης Ἀγάθη κραυγάζουσα· Σὲ ὑπερυψοῦμεν Χριστὲ εἰς τούς αἰῶνας."
+meMA.Ode8C13.text = "Ὑπερφυέσι κροσσωτοῖς, καὶ ὡραία τῇ στολῇ ἠγλαϊσμένη, βασιλέως θυγάτηρ, ἐν τῇ τιμῇ τοῦ Χριστοῦ, παρέστης Ἀγάθη κραυγάζουσα· Σὲ ὑπερυψοῦμεν Χριστὲ εἰς τοὺς αἰῶνας."
 
 meMA.Ode8C1T.ode = misc_gr_GR_cog.Ode8
 meMA.Ode8C1T.mode = misc_gr_GR_cog.Mode2

@@ -3,6 +3,8 @@ A_Resource_Whose_Name = me.m09.d19_gr_GR_cog
 meDate.text = "Τῌ ΙΘʹ ΣΕΠΤΕΜΒΡΙΟΥ"
 meCommemoration.text = "Μνήμη τῶν Ἁγίων Μαρτύρων Τροφίμου, Σαββατίου, καὶ Δορυμέδοντος." //full title of day
 meShortCommemoration1.text = ""
+meCom1.title = ""
+meCom2.title = ""
 meInsert1 = "καὶ τῶν Ἁγίων Μαρτύρων Τροφίμου, Σαββατίου, καὶ Δορυμέδοντος, " //for use in petitions and dismissal
 meInsert2 = "ὧν καὶ τὴν μνήμην ἐπιτελοῦμεν· " //for use in petitions and dismissal
 meNote.text = ""
@@ -52,7 +54,7 @@ meVE.Aposticha2.text = "Νεκρώσαντες τὰ πάθη σαρκός, �
 
 meVE.Aposticha3.mode = misc_gr_GR_cog.Mode6
 meVE.Aposticha3.melody = he.a.m6_gr_GR_cog.TriimerosAnestis.name
-meVE.Aposticha3.text = "Ζωήρυτος ἐκ θείας πλευρᾶς, πηγὴ σαφῶς ἐξέβλυσε, τοῦ Σωτῆρος καταρδεύουσα ψυχάς, τῶν πίστει προσκυνούντων, τὸ θεῖον πάθος τούτου, καὶ τὸν Σταυρὸν καὶ τήν Ἀνάστασιν."
+meVE.Aposticha3.text = "Ζωήρυτος ἐκ θείας πλευρᾶς, πηγὴ σαφῶς ἐξέβλυσε, τοῦ Σωτῆρος καταρδεύουσα ψυχάς, τῶν πίστει προσκυνούντων, τὸ θεῖον πάθος τούτου, καὶ τὸν Σταυρὸν καὶ τὴν Ἀνάστασιν."
 
 meVE.AposGlory.mode = misc_gr_GR_cog.Mode6
 meVE.AposGlory.melody = ""
@@ -142,7 +144,7 @@ meMA.Ode4C12.text = "Μαστιγωθείς, διὰ Χριστὸν Μάρτ�
 meMA.Ode4C13.ode = misc_gr_GR_cog.Ode4
 meMA.Ode4C13.mode = misc_gr_GR_cog.Mode8
 meMA.Ode4C13.melody = he.h.m8_gr_GR_cog.SyMouIschys.name
-meMA.Ode4C13.text = "Νεανικῶς, ἐγκαρτερήσας Σαββάτιε, ταῖς βασάνοις, χαίρων ἐναπέδωκας, Θεοῦ εἰς χεῖρας τὴν σὴν ψυχήν, καὶ πρὸς οὐρανίους, μονὰς καλῶς ἐσαββάτισας, νικήσας τόν ἐκεῖθεν, ἐκριφθέντα ἀθλίως, καὶ βραβεῖα τῆς νίκης δεξάμενος."
+meMA.Ode4C13.text = "Νεανικῶς, ἐγκαρτερήσας Σαββάτιε, ταῖς βασάνοις, χαίρων ἐναπέδωκας, Θεοῦ εἰς χεῖρας τὴν σὴν ψυχήν, καὶ πρὸς οὐρανίους, μονὰς καλῶς ἐσαββάτισας, νικήσας τὸν ἐκεῖθεν, ἐκριφθέντα ἀθλίως, καὶ βραβεῖα τῆς νίκης δεξάμενος."
 
 meMA.Ode4C1T.ode = misc_gr_GR_cog.Ode4
 meMA.Ode4C1T.mode = misc_gr_GR_cog.Mode8
@@ -253,7 +255,7 @@ meMA.Ode9C11.text = "Ἰσχὺϊ τοῦ τῶν ὅλων Δημιουργο�
 meMA.Ode9C12.ode = misc_gr_GR_cog.Ode9
 meMA.Ode9C12.mode = misc_gr_GR_cog.Mode8
 meMA.Ode9C12.melody = he.h.m8_gr_GR_cog.ExestiEpiTouto.name
-meMA.Ode9C12.text = "Ὡς θύματα τραπέζῃ τῇ λογικῇ, προσηνέχθητε ξίφει τεμνόμενοι, πανευκλεῶς, καὶ τῶν πρωτοτόκων νῦν ἐν σκηναῖς, περιχαρῶς αὐλίζεσθε, βλέποντες τὴν δόξαν τήν τοῦ Θεοῦ, καὶ τὰς ἐπικαρπίας, δεχόμενοι τῶν πόνων, καὶ τὰ βραβεῖα τῆς ἀθλήσεως."
+meMA.Ode9C12.text = "Ὡς θύματα τραπέζῃ τῇ λογικῇ, προσηνέχθητε ξίφει τεμνόμενοι, πανευκλεῶς, καὶ τῶν πρωτοτόκων νῦν ἐν σκηναῖς, περιχαρῶς αὐλίζεσθε, βλέποντες τὴν δόξαν τὴν τοῦ Θεοῦ, καὶ τὰς ἐπικαρπίας, δεχόμενοι τῶν πόνων, καὶ τὰ βραβεῖα τῆς ἀθλήσεως."
 
 meMA.Ode9C13.ode = misc_gr_GR_cog.Ode9
 meMA.Ode9C13.mode = misc_gr_GR_cog.Mode8

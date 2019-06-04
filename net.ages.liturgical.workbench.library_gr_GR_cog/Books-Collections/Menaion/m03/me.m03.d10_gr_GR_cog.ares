@@ -3,6 +3,8 @@ A_Resource_Whose_Name = me.m03.d10_gr_GR_cog
 meDate.text = "Τῌ Ιʹ ΜΑΡΤΙΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
 meCommemoration.text = "Μνήμη τοῦ Ἁγίου Μάρτυρος Κοδράτου τοῦ ἐν Κορίνθῳ, καὶ τῶν σὺν αὐτῷ" //full title of day
 meShortCommemoration1.text = "Μνήμη τοῦ Ἁγίου Μάρτυρος Κοδράτου"
+meCom1.title = ""
+meCom2.title = ""
 meInsert1 = "καὶ τοῦ Ἁγίου Μάρτυρος Κοδράτου τοῦ ἐν Κορίνθῳ, καὶ τῶν σὺν αὐτῷ, " //for use in petitions and dismissal
 meInsert2 = "" //for use in petitions and dismissal
 meNote.text = ""
@@ -129,7 +131,7 @@ meMA.Ode4C13.text = "Ἡ ἐξάφωτος λυχνία, τῶν Μαρτύρ
 meMA.Ode4C1T.ode = misc_gr_GR_cog.Ode4
 meMA.Ode4C1T.mode = misc_gr_GR_cog.Mode4
 meMA.Ode4C1T.melody = he.h.m4_gr_GR_cog.OKathimenosEnDoxi.name
-meMA.Ode4C1T.text = "Ἡ ἁγία Θεοτόκος, ἣν οἰκῆσαι ηὐδόκησεν ὡς εὐώδη οἶκον, Λόγος τοῦ Πατρὸς ὁμοούσιος, οὐ κατεφλέχθη τὴν μήτραν, οὐκ ὠδίνησε· καὶ γὰρ τέτοκεν, Ἐμμανουὴλ τόν Θεάνθρωπον."
+meMA.Ode4C1T.text = "Ἡ ἁγία Θεοτόκος, ἣν οἰκῆσαι ηὐδόκησεν ὡς εὐώδη οἶκον, Λόγος τοῦ Πατρὸς ὁμοούσιος, οὐ κατεφλέχθη τὴν μήτραν, οὐκ ὠδίνησε· καὶ γὰρ τέτοκεν, Ἐμμανουὴλ τὸν Θεάνθρωπον."
 
 meMA.Ode5C1H.ode = misc_gr_GR_cog.Ode5
 meMA.Ode5C1H.mode = misc_gr_GR_cog.Mode4
@@ -259,7 +261,7 @@ meMA.Ode9C13.text = "Σταλάζων τὸν θεῖον γλυκασμὸν �
 meMA.Ode9C14.ode = misc_gr_GR_cog.Ode9
 meMA.Ode9C14.mode = misc_gr_GR_cog.Mode4
 meMA.Ode9C14.melody = he.h.m4_gr_GR_cog.EvaMenToTisParakois.name
-meMA.Ode9C14.text = "Ἡμέραν ἑόρτιον ὑμῶν τὴν ἄθλησιν, Ἀθλοφόροι πάντες ἄγομεν· ταύτῃ γὰρ στέφος ἀφθαρσίας, ἀράμενοι υἱοὶ χρηματίζετε, φωτός τε καὶ ἡμέρας χορεύοντες, περὶ τόν θρόνον τοῦ Παντάνακτος."
+meMA.Ode9C14.text = "Ἡμέραν ἑόρτιον ὑμῶν τὴν ἄθλησιν, Ἀθλοφόροι πάντες ἄγομεν· ταύτῃ γὰρ στέφος ἀφθαρσίας, ἀράμενοι υἱοὶ χρηματίζετε, φωτός τε καὶ ἡμέρας χορεύοντες, περὶ τὸν θρόνον τοῦ Παντάνακτος."
 
 meMA.Ode9C1T.ode = misc_gr_GR_cog.Ode9
 meMA.Ode9C1T.mode = misc_gr_GR_cog.Mode4

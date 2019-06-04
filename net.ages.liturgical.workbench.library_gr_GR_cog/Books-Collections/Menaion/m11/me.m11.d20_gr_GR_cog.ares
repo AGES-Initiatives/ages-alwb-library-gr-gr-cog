@@ -3,6 +3,8 @@ A_Resource_Whose_Name = me.m11.d20_gr_GR_cog
 meDate.text = "Τῌ Κʹ ΝΟΕΜΒΡΙΟΥ"
 meCommemoration.text = "Τὰ Προεόρτια τῆς ἐν τῷ Ναῷ Εἰσόδου τῆς Ὑπεραγίας Θεοτόκου· καὶ Μνήμη τοῦ Ὁσίου Πατρὸς ᾑμων Γρηγορίου τοῦ Δεκαπολίτου· καὶ τοῦ ἐν Ἁγίοις Πατρὸς ἡμῶν Πρόκλου, Ἀρχιεπισκόπου Κωνσταντινουπόλεως." // full title of day
 meShortCommemoration1.text = "Τὰ Προεόρτια τῆς ἐν τῷ Ναῷ Εἰσόδου τῆς Ὑπεραγίας Θεοτόκου"
+meCom1.title = ""
+meCom2.title = ""
 meInsert1 = "" // for use in petitions and dismissal
 meInsert2 = "" // for use in petitions and dismissal
 meNote.text = ""
@@ -163,7 +165,7 @@ meMA.Ode3C1H.text = he.h.m1_gr_GR_cog.SouITropaiouchos.text
 meMA.Ode3C11.ode = misc_gr_GR_cog.Ode3
 meMA.Ode3C11.mode = misc_gr_GR_cog.Mode4
 meMA.Ode3C11.melody = he.h.m4_gr_GR_cog.TousSousYmnologous_Eisodia.name
-meMA.Ode3C11.text = "Ἐξάρχουσαι κόραι τῆς Παρθένου, λαμπάδας κατέχουσαι φαιδρῶς, τὸ μέλλον ὑπογράφουσιν· ἐκ ταύτης γὰρ τεχθήσεται, ὁ φωτισμὸς τῆς γνώσεως, λύων τῆς πλάνης τήν ζόφωσιν."
+meMA.Ode3C11.text = "Ἐξάρχουσαι κόραι τῆς Παρθένου, λαμπάδας κατέχουσαι φαιδρῶς, τὸ μέλλον ὑπογράφουσιν· ἐκ ταύτης γὰρ τεχθήσεται, ὁ φωτισμὸς τῆς γνώσεως, λύων τῆς πλάνης τὴν ζόφωσιν."
 
 meMA.Ode3C12.ode = misc_gr_GR_cog.Ode3
 meMA.Ode3C12.mode = misc_gr_GR_cog.Mode4
@@ -203,7 +205,7 @@ meMA.Ode3C2T.text = "Χαῖρε μόνη τεκοῦσα, τὸν τοῦ πα
 meMA.Ode3C31.ode = misc_gr_GR_cog.Ode3
 meMA.Ode3C31.mode = misc_gr_GR_cog.Mode1
 meMA.Ode3C31.melody = he.h.m1_gr_GR_cog.OMonosEidos.name
-meMA.Ode3C31.text = "Φῶς τὸ ἐκ φωτὸς θεοπτικῶς, Παμμάκαρ προσλαβόμενος, τῇ Ἐκκλησία φῶς ἐχρημάτισας· διὸ καὶ φῶς σοι θεῖον ἀνέτειλε, νοητῶς ὡς γέγραπται·ᾧ καταλαμπόμενος, τούς ὑμνοῦντας φωτίζεις τὴν μνήμην σου."
+meMA.Ode3C31.text = "Φῶς τὸ ἐκ φωτὸς θεοπτικῶς, Παμμάκαρ προσλαβόμενος, τῇ Ἐκκλησία φῶς ἐχρημάτισας· διὸ καὶ φῶς σοι θεῖον ἀνέτειλε, νοητῶς ὡς γέγραπται·ᾧ καταλαμπόμενος, τοὺς ὑμνοῦντας φωτίζεις τὴν μνήμην σου."
 
 meMA.Ode3C32.ode = misc_gr_GR_cog.Ode3
 meMA.Ode3C32.mode = misc_gr_GR_cog.Mode1
@@ -310,7 +312,7 @@ meMA.Ode5C1H.text = he.h.m4_gr_GR_cog.ExestiTaSympanta_Eisodia.text
 meMA.Ode5C11.ode = misc_gr_GR_cog.Ode5
 meMA.Ode5C11.mode = misc_gr_GR_cog.Mode4
 meMA.Ode5C11.melody = he.h.m4_gr_GR_cog.ExestiTaSympanta_Eisodia.name
-meMA.Ode5C11.text = "Νεφέλαι ῥανάτωσαν, δικαιοσύνην σήμερον· ὡς ἐν οὐρανῷ γὰρ ἐφαπλοῦται, θεία νεφέλη ἐν τῷ ναῶ τοῦ Θεοῦ· ἥτις ἀποστάξει γλυκασμόν, πᾶσαν τῶν ψυχῶν ἡμῶν, τήν πικρίαν ἐξαίροντα."
+meMA.Ode5C11.text = "Νεφέλαι ῥανάτωσαν, δικαιοσύνην σήμερον· ὡς ἐν οὐρανῷ γὰρ ἐφαπλοῦται, θεία νεφέλη ἐν τῷ ναῶ τοῦ Θεοῦ· ἥτις ἀποστάξει γλυκασμόν, πᾶσαν τῶν ψυχῶν ἡμῶν, τὴν πικρίαν ἐξαίροντα."
 
 meMA.Ode5C12.ode = misc_gr_GR_cog.Ode5
 meMA.Ode5C12.mode = misc_gr_GR_cog.Mode4
@@ -335,7 +337,7 @@ meMA.Ode5C21.text = "Γεωργίᾳ τοῦ λόγου, ἄμπελος κα�
 meMA.Ode5C22.ode = misc_gr_GR_cog.Ode5
 meMA.Ode5C22.mode = misc_gr_GR_cog.Mode8
 meMA.Ode5C22.melody = he.h.m8_gr_GR_cog.InaTiMeAposo.name
-meMA.Ode5C22.text = "Ἡ περίδοξος Ῥώμη, Πάτερ ἐξ Ἑῴας σε λαμπτῆρα ἄδυτον, δεξαμένη πίστει, ἐφωτίσθη σεπτοῖς σου χαρίσμασι· τὸν Χριστὸν γὰρ εἶχες, ἐν τῇ ψυχῇ καθάπερ φέγγος, τούς ὁρῶντάς σε Πάτερ αὐγάζοντα."
+meMA.Ode5C22.text = "Ἡ περίδοξος Ῥώμη, Πάτερ ἐξ Ἑῴας σε λαμπτῆρα ἄδυτον, δεξαμένη πίστει, ἐφωτίσθη σεπτοῖς σου χαρίσμασι· τὸν Χριστὸν γὰρ εἶχες, ἐν τῇ ψυχῇ καθάπερ φέγγος, τοὺς ὁρῶντάς σε Πάτερ αὐγάζοντα."
 
 meMA.Ode5C23.ode = misc_gr_GR_cog.Ode5
 meMA.Ode5C23.mode = misc_gr_GR_cog.Mode8
@@ -501,7 +503,7 @@ meMA.Ode7C32.text = "Πῦρ νοητόν, ταῖς φρεσὶν ἀνάψα
 meMA.Ode7C33.ode = misc_gr_GR_cog.Ode7
 meMA.Ode7C33.mode = misc_gr_GR_cog.Mode1
 meMA.Ode7C33.melody = he.h.m1_gr_GR_cog.SeNoitin.name
-meMA.Ode7C33.text = "Σὺ πρὸς Χριστόν, κεκτημένος Ἅγιε, τὴν παῤῥησίαν τοὺς ἐν γῇ, εὐφημοῦντας μελῳδικῶς, μνήμην σου τὴν ἔνδοξον, πάσης περιστάσεως, ἐκλυτρωθῆναι ἱκέτευε, τόν αἰνετὸν ἀνυμνοῦντας, Θεὸν Πρόκλε θεσπέσιε."
+meMA.Ode7C33.text = "Σὺ πρὸς Χριστόν, κεκτημένος Ἅγιε, τὴν παῤῥησίαν τοὺς ἐν γῇ, εὐφημοῦντας μελῳδικῶς, μνήμην σου τὴν ἔνδοξον, πάσης περιστάσεως, ἐκλυτρωθῆναι ἱκέτευε, τὸν αἰνετὸν ἀνυμνοῦντας, Θεὸν Πρόκλε θεσπέσιε."
 
 meMA.Ode7C3T.ode = misc_gr_GR_cog.Ode7
 meMA.Ode7C3T.mode = misc_gr_GR_cog.Mode1
@@ -531,7 +533,7 @@ meMA.Ode8C13.text = "Ἰδοὺ πρεσβῦτα σοφώτατε, ἡ Ἄνν
 meMA.Ode8C14.ode = misc_gr_GR_cog.Ode8
 meMA.Ode8C14.mode = misc_gr_GR_cog.Mode4
 meMA.Ode8C14.melody = he.h.m4_gr_GR_cog.AkoueKori.name
-meMA.Ode8C14.text = "Νῦν ἔγνων γύναι σαφέστατα, προφρόνως ἔφη ὁ γηραιός· Ξύλον ἐν μέσῳ ὡς ἐκβλαστάνει ναοῦ· Ὅπερ ἐξανθήσει θεῖον ὄντως καρπόν, Παραδείσῳ εἰσοικίζοντα, τούς βρώσει ἐξωσθέντας φθορᾶς, ἀναβοῶντας χαρᾷ· Εὐλογεῖτε, πάντα τὰ ἔργα Κυρίου τὸν Κύριον."
+meMA.Ode8C14.text = "Νῦν ἔγνων γύναι σαφέστατα, προφρόνως ἔφη ὁ γηραιός· Ξύλον ἐν μέσῳ ὡς ἐκβλαστάνει ναοῦ· Ὅπερ ἐξανθήσει θεῖον ὄντως καρπόν, Παραδείσῳ εἰσοικίζοντα, τοὺς βρώσει ἐξωσθέντας φθορᾶς, ἀναβοῶντας χαρᾷ· Εὐλογεῖτε, πάντα τὰ ἔργα Κυρίου τὸν Κύριον."
 
 meMA.Ode8C15.ode = misc_gr_GR_cog.Ode8
 meMA.Ode8C15.mode = misc_gr_GR_cog.Mode4
@@ -576,7 +578,7 @@ meMA.Ode8C32.text = "Ὡς ὀργάνῳ Μάκαρ τῆς σεπτῆς, σ
 meMA.Ode8C33.ode = misc_gr_GR_cog.Ode8
 meMA.Ode8C33.mode = misc_gr_GR_cog.Mode1
 meMA.Ode8C33.melody = he.h.m1_gr_GR_cog.EnKaminoPaides.name
-meMA.Ode8C33.text = "Λύρα θεία ὤφθης ἀληθῶς, τὸν φθόγγον ἐνηχοῦσα, τοῖς πίστει προσδεχομένοις, τοῦ Θεοῦ τὴν πρὸς ἡμᾶς, σωτήριον σάρκωσιν, θεῖε Πρόκλε, Πάτερ Παμμάκαρ, καὶ τήν τοῦ Νεστορίου, δυσσεβῆ ματαίαν, φωνὴν ἀποσοβοῦσα."
+meMA.Ode8C33.text = "Λύρα θεία ὤφθης ἀληθῶς, τὸν φθόγγον ἐνηχοῦσα, τοῖς πίστει προσδεχομένοις, τοῦ Θεοῦ τὴν πρὸς ἡμᾶς, σωτήριον σάρκωσιν, θεῖε Πρόκλε, Πάτερ Παμμάκαρ, καὶ τὴν τοῦ Νεστορίου, δυσσεβῆ ματαίαν, φωνὴν ἀποσοβοῦσα."
 
 meMA.Ode8C3T.ode = misc_gr_GR_cog.Ode8
 meMA.Ode8C3T.mode = misc_gr_GR_cog.Mode1
@@ -678,7 +680,7 @@ meMA.Exaposteilarion2.text = "Ὡς ἀρετῶν ὁμότροπος, τοῦ
 
 meMA.Exaposteilarion3.mode = misc_gr_GR_cog.Mode2
 meMA.Exaposteilarion3.melody = he.a.m2_gr_GR_cog.ToisMathitaisSynelthomen.name
-meMA.Exaposteilarion3.text = "Θεοῦ σοφίας τέμενος, καὶ ὑπέρτερον θρόνον, τῶν Χερουβὶμ ὑπάρχουσαν, τὴν ἁγνὴν Θεοτόκον, εὐτρέπισον Ζαχαρία, τοῦ ναοῦ τάς εἰσόδους, τὰ τῶν Ἁγίων Ἅγια, ὑποδέξασθαι ταύτην, καὶ σὺν ἡμῖν, ᾄδε προεόρτιον τῇ Παρθένῳ, ἐξ ἧς Χριστὸς ὁ Κύριος, σαρκωθεὶς κόσμον σῴζει."
+meMA.Exaposteilarion3.text = "Θεοῦ σοφίας τέμενος, καὶ ὑπέρτερον θρόνον, τῶν Χερουβὶμ ὑπάρχουσαν, τὴν ἁγνὴν Θεοτόκον, εὐτρέπισον Ζαχαρία, τοῦ ναοῦ τὰς εἰσόδους, τὰ τῶν Ἁγίων Ἅγια, ὑποδέξασθαι ταύτην, καὶ σὺν ἡμῖν, ᾄδε προεόρτιον τῇ Παρθένῳ, ἐξ ἧς Χριστὸς ὁ Κύριος, σαρκωθεὶς κόσμον σῴζει."
 
 meMA.MM.Apos1123as5678.text = properties_gr_GR_cog.media.key
 

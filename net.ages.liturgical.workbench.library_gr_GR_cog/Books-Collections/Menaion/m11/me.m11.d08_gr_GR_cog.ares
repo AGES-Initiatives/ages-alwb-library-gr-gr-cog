@@ -3,6 +3,8 @@ A_Resource_Whose_Name = me.m11.d08_gr_GR_cog
 meDate.text = "Τῌ Ηʹ ΝΟΕΜΒΡΙΟΥ"
 meCommemoration.text = "Ἡ Σύναξις τῶν Ἀρχιστρατήγων Μιχαὴλ καὶ Γαβριήλ, καὶ τῶν Λοιπῶν Ἀσωμάτων Δυνάμεων" // full title of day
 meShortCommemoration1.text = "Ἡ Σύναξις τῶν Ἀρχιστρατήγων Μιχαὴλ καὶ Γαβριήλ"
+meCom1.title = ""
+meCom2.title = ""
 meInsert1 = "τῶν ἁγίων ἐνδόξων Ἀρχιστρατήγων Μιχαὴλ καὶ Γαβριήλ, καὶ τῶν λοιπῶν Ἀσωμάτων Δυνάμεων," // for use in petitions and dismissal
 meInsert2 = "ὧν καὶ τὴν σύναξιν ἑορτάζομεν·" // for use in petitions and dismissal
 meNote.text = ""
@@ -99,7 +101,7 @@ meVE.Aposticha2.text = "Τῶν οὐρανίων πρωτεύων, ἐν πα
 
 meVE.Aposticha3.mode = misc_gr_GR_cog.Mode1
 meVE.Aposticha3.melody = he.a.m1_gr_GR_cog.TonOuranionTagmaton.name
-meVE.Aposticha3.text = "Τῶν ἀσωμάτων Ἀγγέλων, πρῶτος ὑπάρχεις σαφῶς, καὶ λειτουργὸς τῆς θείας, φωταυγείας ἐκείνης, αὐτόπτης τε καὶ μύστης, σῶσον ἡμᾶς, Μιχαὴλ Ἀρχιστράτηγε, τούς ἐτησίως τιμῶντάς σε εὐσεβῶς, καὶ ὑμνοῦντας τὴν Τριάδα πιστῶς."
+meVE.Aposticha3.text = "Τῶν ἀσωμάτων Ἀγγέλων, πρῶτος ὑπάρχεις σαφῶς, καὶ λειτουργὸς τῆς θείας, φωταυγείας ἐκείνης, αὐτόπτης τε καὶ μύστης, σῶσον ἡμᾶς, Μιχαὴλ Ἀρχιστράτηγε, τοὺς ἐτησίως τιμῶντάς σε εὐσεβῶς, καὶ ὑμνοῦντας τὴν Τριάδα πιστῶς."
 
 meVE.AposGlory.poet = poets_gr_GR_cog.IoannouMonachou
 meVE.AposGlory.mode = misc_gr_GR_cog.Mode8
@@ -416,7 +418,7 @@ meMA.Ode7C2T.text = "Τὸ ἡμέτερον ὅλον, ἐκ Παρθένου
 meMA.Ode8C11.ode = misc_gr_GR_cog.Ode8
 meMA.Ode8C11.mode = misc_gr_GR_cog.Mode8
 meMA.Ode8C11.melody = he.h.m8_gr_GR_cog.TonEnOreiAgio.name
-meMA.Ode8C11.text = "Τῶν Ἀγγέλων, ζηλώσωμεν τὸν βίον, καὶ τὰς φρένας, πτερώσωμεν εἰς ὕψος, καὶ σὺν αὐτοῖς ἀΰλως ἀναμέλψωμεν, Κύριον ὑμνοῦντες, καὶ ὑπερυψοῦντες, εἰς πάντας τούς αἰῶνας."
+meMA.Ode8C11.text = "Τῶν Ἀγγέλων, ζηλώσωμεν τὸν βίον, καὶ τὰς φρένας, πτερώσωμεν εἰς ὕψος, καὶ σὺν αὐτοῖς ἀΰλως ἀναμέλψωμεν, Κύριον ὑμνοῦντες, καὶ ὑπερυψοῦντες, εἰς πάντας τοὺς αἰῶνας."
 
 meMA.Ode8C12.ode = misc_gr_GR_cog.Ode8
 meMA.Ode8C12.mode = misc_gr_GR_cog.Mode8
@@ -507,7 +509,7 @@ meMA.Exaposteilarion3.text = "Ἐξουσιῶν Δυνάμεων, Ἀρχαγ�
 
 meMA.ExapTheotokion.mode = misc_gr_GR_cog.Mode2
 meMA.ExapTheotokion.melody = he.a.m2_gr_GR_cog.ToisMathitaisSynelthomen.name
-meMA.ExapTheotokion.text = "Τιμιωτέρα πέφυκας, Χερουβὶμ τῶν ἐνδόξων, καὶ Σεραφὶμ Πανύμνητε, τῶν φρικτῶν ἀσυγκρίτως, ἐνδοξοτέρα καὶ πάντων, τῶν Ἁγίων Ἀγγέλων, ἁγιωτέρα Πάναγνε· τόν γὰρ Κτίστην τῶν ὅλων, σωματικῶς, ἀποῤῥήτως τέτοκας Θεοτόκε, ὃν αἴτησαι τοῖς δούλοις σου, λύτρον δοῦναι πταισμάτων."
+meMA.ExapTheotokion.text = "Τιμιωτέρα πέφυκας, Χερουβὶμ τῶν ἐνδόξων, καὶ Σεραφὶμ Πανύμνητε, τῶν φρικτῶν ἀσυγκρίτως, ἐνδοξοτέρα καὶ πάντων, τῶν Ἁγίων Ἀγγέλων, ἁγιωτέρα Πάναγνε· τὸν γὰρ Κτίστην τῶν ὅλων, σωματικῶς, ἀποῤῥήτως τέτοκας Θεοτόκε, ὃν αἴτησαι τοῖς δούλοις σου, λύτρον δοῦναι πταισμάτων."
 
 meMA.Lauds1.mode = misc_gr_GR_cog.Mode1
 meMA.Lauds1.melody = he.a.m1_gr_GR_cog.TonOuranionTagmaton.name

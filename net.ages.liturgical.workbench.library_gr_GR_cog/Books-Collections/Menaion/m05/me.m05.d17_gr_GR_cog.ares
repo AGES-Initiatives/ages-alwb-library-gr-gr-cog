@@ -3,6 +3,8 @@ A_Resource_Whose_Name = me.m05.d17_gr_GR_cog
 meDate.text = "Τῌ ΙΖʹ ΜΑΪΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
 meCommemoration.text = "Μνήμη τῶν Ἁγίων Ἀποστόλων Ἀνδρονίκου καὶ Ἰουνίας." //full title of day
 meShortCommemoration1.text = ""
+meCom1.title = ""
+meCom2.title = ""
 meInsert1 = "καὶ τῶν Ἁγίων Ἀποστόλων Ἀνδρονίκου καὶ Ἰουνία, " //for use in petitions and dismissal
 meInsert2 = "ὧν καὶ τὴν μνήμην ἐπιτελοῦμεν· " //for use in petitions and dismissal
 meNote.text = ""
@@ -187,7 +189,7 @@ meMA.Ode8C13.text = "Κήρυξ θεῖος Ἀπόστολος θεόπτη�
 meMA.Ode8C1T.ode = misc_gr_GR_cog.Ode8
 meMA.Ode8C1T.mode = misc_gr_GR_cog.Mode8
 meMA.Ode8C1T.melody = he.h.m8_gr_GR_cog.TonEnOreiAgio.name
-meMA.Ode8C1T.text = "Ὡς λαβίδι χερσὶν ἄνθρακα φέρεις, δρόσον θεῖον πηγάζοντα Παρθένε, τοῖς τῷ φλογμῷ τῆς πλάνης κινδυνεύουσι, φλέγοντα δὲ πάθη, τῶν ὑμνολογούντων, αὐτοῦ τήν βασιλείαν."
+meMA.Ode8C1T.text = "Ὡς λαβίδι χερσὶν ἄνθρακα φέρεις, δρόσον θεῖον πηγάζοντα Παρθένε, τοῖς τῷ φλογμῷ τῆς πλάνης κινδυνεύουσι, φλέγοντα δὲ πάθη, τῶν ὑμνολογούντων, αὐτοῦ τὴν βασιλείαν."
 
 meMA.Ode8H.ode = misc_gr_GR_cog.Ode8
 meMA.Ode8H.mode = misc_gr_GR_cog.Mode8

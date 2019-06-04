@@ -3,6 +3,8 @@ A_Resource_Whose_Name = me.m09.d06_gr_GR_cog
 meDate.text = "Τῌ Ϛʹ ΣΕΠΤΕΜΒΡΙΟΥ"
 meCommemoration.text = "Ἡ Ἀνάμνησις τοῦ Γεγονότος Θαύματος ἐν Κολασσαῖς, ἤτοι ἐν Χώναις, παρὰ τοῦ Ἀρχαγγέλου Μιχαήλ." // full title of day
 meShortCommemoration1.text = ""
+meCom1.title = ""
+meCom2.title = ""
 meInsert1 = "" // for use in petitions and dismissal
 meInsert2 = "" // for use in petitions and dismissal
 meNote.text = ""
@@ -115,7 +117,7 @@ meMA.Ode1C22.text = "Ὁ τοὺς Ἀγγέλους ποιήσας, φλόγ
 meMA.Ode1C23.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C23.mode = misc_gr_GR_cog.Mode4
 meMA.Ode1C23.melody = he.h.m4_gr_GR_cog.ToOdigisantiPalai.name
-meMA.Ode1C23.text = "Ὑμνολογήσωμεν πάντες, τὸν ἀγαθὸν Κύριον, τὸν δωρησάμενον ἡμῖν, τεῖχος ἐχθροῖς ἀπροσμάχητον, καὶ ἀπερίτρεπτον ἔρεισμα πάντοτε, κινδύνων σῴζοντα ἡμᾶς, τόν ἱερὸν Μιχαήλ."
+meMA.Ode1C23.text = "Ὑμνολογήσωμεν πάντες, τὸν ἀγαθὸν Κύριον, τὸν δωρησάμενον ἡμῖν, τεῖχος ἐχθροῖς ἀπροσμάχητον, καὶ ἀπερίτρεπτον ἔρεισμα πάντοτε, κινδύνων σῴζοντα ἡμᾶς, τὸν ἱερὸν Μιχαήλ."
 
 meMA.Ode1C24.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C24.mode = misc_gr_GR_cog.Mode4
@@ -394,12 +396,12 @@ meMA.Ode7C25.text = "Πλανωμένων ὁδηγός, ἀδικουμέν�
 meMA.Ode7C2T.ode = misc_gr_GR_cog.Ode7
 meMA.Ode7C2T.mode = misc_gr_GR_cog.Mode4
 meMA.Ode7C2T.melody = he.h.m4_gr_GR_cog.TiEikoniTiChrysi.name
-meMA.Ode7C2T.text = "Τὸν Σωτῆρα καὶ Θεόν, καὶ Λυτρωτὴν καὶ Δεσπότην, σαρκὶ τεκοῦσα πάναγνε Δέσποινα, τοῦτον ἀεὶ ἄχραντε δυσώπει, ὅπως λύσιν τῶν δεινῶν καὶ πολλῶν ἁμαρτιῶν τήν ἄφεσιν λάβωμεν, ὑμνολογοῦντες αὐτοῦ, τοὺς ὑπὲρ νοῦν οἰκτιρμούς."
+meMA.Ode7C2T.text = "Τὸν Σωτῆρα καὶ Θεόν, καὶ Λυτρωτὴν καὶ Δεσπότην, σαρκὶ τεκοῦσα πάναγνε Δέσποινα, τοῦτον ἀεὶ ἄχραντε δυσώπει, ὅπως λύσιν τῶν δεινῶν καὶ πολλῶν ἁμαρτιῶν τὴν ἄφεσιν λάβωμεν, ὑμνολογοῦντες αὐτοῦ, τοὺς ὑπὲρ νοῦν οἰκτιρμούς."
 
 meMA.Ode8C11.ode = misc_gr_GR_cog.Ode8
 meMA.Ode8C11.mode = misc_gr_GR_cog.Mode4
 meMA.Ode8C11.melody = he.h.m4_gr_GR_cog.LytrotaTouPantos.name
-meMA.Ode8C11.text = "Νοερῶν ἀσωμάτων ταξίαρχος, πρεσβευτὴς τῶν ἀνθρώπων σωτήριος, θεῖος Θεοῦ διάκονος, Μιχαὴλ ἀνεδείχθης, μέλπων ἀπαύστως· Πάντα τὰ ἔργα, εὐλογεῖτε ὑμνεῖτε τόν Κύριον."
+meMA.Ode8C11.text = "Νοερῶν ἀσωμάτων ταξίαρχος, πρεσβευτὴς τῶν ἀνθρώπων σωτήριος, θεῖος Θεοῦ διάκονος, Μιχαὴλ ἀνεδείχθης, μέλπων ἀπαύστως· Πάντα τὰ ἔργα, εὐλογεῖτε ὑμνεῖτε τὸν Κύριον."
 
 meMA.Ode8C12.ode = misc_gr_GR_cog.Ode8
 meMA.Ode8C12.mode = misc_gr_GR_cog.Mode4
@@ -499,7 +501,7 @@ meMA.Ode9C25.text = "Ἡγίασας τοῦτον τὸν σεβάσμιον 
 meMA.Ode9C2T.ode = misc_gr_GR_cog.Ode9
 meMA.Ode9C2T.mode = misc_gr_GR_cog.Mode4
 meMA.Ode9C2T.melody = he.h.m4_gr_GR_cog.EpoiiseKratos.name
-meMA.Ode9C2T.text = "Φανεῖσα Παρθένε, πλατυτέρα οὐρανῶν, ἐχώρησας Θεὸν ἀνερμηνεύτως, ὃν Ἀσωμάτων χοροί, ἀνυμνοῦσι μυστικῶς· αὐτὸν οὖν ἱκέτευε ἁγνή, πάντας ἡμᾶς σωθῆναι, τούς σὲ μακαρίζοντας, φωναῖς ἀσιγήτοις."
+meMA.Ode9C2T.text = "Φανεῖσα Παρθένε, πλατυτέρα οὐρανῶν, ἐχώρησας Θεὸν ἀνερμηνεύτως, ὃν Ἀσωμάτων χοροί, ἀνυμνοῦσι μυστικῶς· αὐτὸν οὖν ἱκέτευε ἁγνή, πάντας ἡμᾶς σωθῆναι, τοὺς σὲ μακαρίζοντας, φωναῖς ἀσιγήτοις."
 
 meMA.Exaposteilarion1.mode = misc_gr_GR_cog.Mode2
 meMA.Exaposteilarion1.melody = he.a.m2_gr_GR_cog.GynaikesAkoutisthite.name

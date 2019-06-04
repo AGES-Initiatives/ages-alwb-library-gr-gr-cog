@@ -3,8 +3,10 @@ A_Resource_Whose_Name = me.m06.d08_gr_GR_cog
 meDate.text = "Τῌ Ηʹ ΙΟΥΝΙΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
 meCommemoration.text = "Μνήμη τῆς Ἀνακομιδῆς τοῦ Λειψάνου τοῦ Ἁγίου Μεγαλομάρτυρος Θεοδώρου τοῦ Στρατηλάτου" // full title of day
 meShortCommemoration1.text = "Ἀνακομιδὴ τοῦ Λειψάνου τοῦ Ἁγ. Μεγαλομάρτυρος Θεοδώρου τοῦ Στρατηλάτου"
-meInsert1 = "" // for use in petitions and dismissal
-meInsert2 = "" // for use in petitions and dismissal
+meCom1.title = ""
+meCom2.title = ""
+meInsert1 = "τοῦ ἁγίου ἑνδόξου Μεγαλομάρτυρος Θεοδώρου τοῦ Στρατηλάτου," // for use in petitions and dismissal
+meInsert2 = "οὗ τοῦ ἁγίου Λειψάνου τὴν Ἀνακομιδὴν ἑορτάζομεν·" // for use in petitions and dismissal
 meNote.text = ""
 meLE.commemoration1 = "Ἡ Ἀνακομιδὴ τοῦ Λειψάνου τοῦ Ἁγίου Μεγαλομάρτυρος Θεοδώρου τοῦ Στρατηλάτου."
 meLE.commemoration2 = ""
@@ -17,19 +19,19 @@ meDismissal = ""
 
 meVE.Stichera01.mode = misc_gr_GR_cog.Mode4
 meVE.Stichera01.melody = he.a.m4_gr_GR_cog.OsGennaionEnMartysi.name
-meVE.Stichera01.text = "Ἀθλητὴς γενναιότατος, στρατιώτης ἀήττητος, ἐν Ἁγίῳ Πνεύματι ἀναδέδειξαι, καταβαλὼν τὸν πολέμιον, σοφίᾳ τῶν λόγων σου, καὶ τῶν ἔργων σου σοφέ, καρτεραῖς ἐπιδείξεσιν· ὅθεν εἴληφας, τοὺς στεφάνους τῆς νίκης, καὶ τοῖς ἄνω, ὁμηγύρεσι συνήφθης, Μεγαλομάρτυς Θεόδωρε."
+meVE.Stichera01.text = me.m02.d08_gr_GR_cog.meMA.Lauds1.text
 
 meVE.Stichera02.mode = misc_gr_GR_cog.Mode4
 meVE.Stichera02.melody = he.a.m4_gr_GR_cog.OsGennaionEnMartysi.name
-meVE.Stichera02.text = "Καὶ σταυρῷ ἀναρτώμενος, καὶ τὰς σάρκας ξεόμενος, ὀξυτάτοις βέλεσι τιτρωσκόμενος, καὶ ἐπὶ ξύλου τεινόμενος, καὶ ξίφει τεμνόμενος, καὶ παντοίαις μηχαναῖς, ἀλγηδόνων κυκλούμενος, ἀπαράτρωτος, καὶ ἀήττητος ὤφθης τῇ δυνάμει, τοῦ Σταυρῷ προσηλωθέντος, κλέος Μαρτύρων Θεόδωρε."
+meVE.Stichera02.text = me.m02.d08_gr_GR_cog.meMA.Lauds2.text
 
 meVE.Stichera03.mode = misc_gr_GR_cog.Mode4
 meVE.Stichera03.melody = he.a.m4_gr_GR_cog.OsGennaionEnMartysi.name
-meVE.Stichera03.text = "Θεῖον ἄγαλμα γέγονας, εὐσεβείας πανόλβιε, δυσσεβῶν ἀγάλματα βδελυξάμενος, καὶ Ἱερεῖον ὁλόκληρον, καὶ θῦμα εὐπρόσδεκτον, τῷ τυθέντι διὰ σέ, καθαρῶς προσαγόμενον, τῷ δοξάσαντι, τὴν Ἁγίαν σου μνήμην καὶ θαυμάτων, θησαυρὸν σε τοῖς ἐν κόσμῳ, δωρησαμένῳ Θεόδωρε."
+meVE.Stichera03.text = me.m02.d08_gr_GR_cog.meMA.Lauds3.text
 
 meVE.SticGlory.mode = misc_gr_GR_cog.Mode8
 meVE.SticGlory.melody = ""
-meVE.SticGlory.text = "Ἀθλητικὸν συστησάμενος στάδιον, κατὰ τῆς πλάνης ἠνδραγάθησας Θεόδωρε, τῇ πυριφθόγγῳ γλώττῃ σου, καταισχύνας Λικινίου τὸ ἀπάνθρωπον. Διὸ καὶ σὺν Ἀγγέλοις χορεύων μακάριε, αἴτησαι Χριστόν, ὅπως ἵλεως γένηται ἡμῖν, ἐν τῇ ἡμέρᾳ τῆς κρίσεως."
+meVE.SticGlory.text = me.m02.d08_gr_GR_cog.meMA.AposGlory.text
 
 meVE.SticTheotokion.mode = misc_gr_GR_cog.Mode8
 meVE.SticTheotokion.melody = ""
@@ -37,19 +39,19 @@ meVE.SticTheotokion.text = oc.m8.d5_gr_GR_cog.ocMA.AposTheotokion.text
 
 meVE.Aposticha1.mode = misc_gr_GR_cog.Mode5
 meVE.Aposticha1.melody = he.a.m5_gr_GR_cog.ChairoisAskitikon.name
-meVE.Aposticha1.text = "Χαίροις ὁ στρατιώτης Χριστοῦ, ὁ τροπωσάμενος ἐχθροῦ τὴν παράταξιν, τῷ ὅπλῳ τῆς εὐσεβείας, ὁ τῶν πιστῶν στηριγμός, ὁ πολλῶν βασάνων ὠνησάμενος, Θεοῦ τήν οὐράνιον, βασιλείαν Θεόδωρε, ἐν ᾗ χορεύων, καὶ μεθέξει θεούμενος, καὶ λαμπόμενος, καθαραῖς διαδόσεσι, μέμνησο τῶν τιμώντων σου, τὴν μνήμην τὴν ἔνδοξον, καὶ προσκυνούντων ἐν πίστει, τὴν τῶν λειψάνων σου λάρνακα, ἀφ' ἧς ἀναβλύζεις, τοῖς αἰτοῦσιν εὐρωστίαν, καὶ μέγα ἔλεος."
+meVE.Aposticha1.text = me.m02.d08_gr_GR_cog.meVE.Stichera01.text
 
 meVE.Aposticha2.mode = misc_gr_GR_cog.Mode5
 meVE.Aposticha2.melody = he.a.m5_gr_GR_cog.ChairoisAskitikon.name
-meVE.Aposticha2.text = "Χαίροις ἡ Ἱερὰ Κεφαλή, τῶν ἀθλοφόρων τὸ σεπτὸν ἀκροθίνιον, ὁ κόσμος τῆς Ἐκκλησίας, ὁ καθαιρέτης ἐχθροῦ, δωρεῶν ἐνθέων ὁ ἐπώνυμος, λαμπτὴρ τὴν ὑφήλιον, καταυγάζων τοῖς θαύμασι, πύργος ὁ μέγας, διαμείνας ἀσάλευτος, ταῖς προσρήξεσι, τῶν ἀπείρων κολάσεων, λόγχῃ τῆς καρτερίας σου, ὁ κτείνας τὸν δράκοντα, ὁ ἀριστεύσας μεγάλως, ὡς στρατιώτης ἀήττητος, Χριστὸν ἐκδυσώπει, ταῖς ψυχαῖς ἡμῶν δοθῆναι, τὸ μέγα ἔλεος."
+meVE.Aposticha2.text = me.m02.d08_gr_GR_cog.meVE.Stichera02.text
 
 meVE.Aposticha3.mode = misc_gr_GR_cog.Mode5
 meVE.Aposticha3.melody = he.a.m5_gr_GR_cog.ChairoisAskitikon.name
-meVE.Aposticha3.text = "Ὅπλῳ τοῦ ζωηφόρου Σταυροῦ, τὴν τῶν εἰδώλων συντριβὴν ἐργασάμενος, μαστίγων ὑπέστης πεῖραν, καὶ ἐπὶ ξύλου ταθείς, σπαραγμοὺς παμμάκαρ ἐκαρτέρησας, ὑφ' ὧν συντριβόμενος, καὶ λαμπάσι φλεγόμενος, σταυρῷ ὑψώθης, τιτρωσκόμενος βέλεσι, καὶ τὰ ὄμματα, ὑπ' αὐτῶν ἐκτυφλούμενος· ὅθεν σε μακαρίζομεν, καλῶς ἐναθλήσαντα, οὐρανίων στεφάνων, ἐπιτυχόντα Θεόδωρε. Διὸ ἐκδυσώπει, ταῖς ψυχαῖς ἡμῶν δοθῆναι, τὸ μέγα ἔλεος."
+meVE.Aposticha3.text = me.m02.d08_gr_GR_cog.meVE.Stichera03.text
 
 meVE.AposGlory.mode = misc_gr_GR_cog.Mode8
 meVE.AposGlory.melody = ""
-meVE.AposGlory.text = "Τῶν τοῦ Θεοῦ δωρεῶν ὡς ἐπώνυμον, καὶ τῆς αὐτοῦ κληρονόμον μακαριότητος, πάντες εὐφημήσωμεν πιστοί, καὶ μακαρίσωμεν ἐπαξίως, Θεόδωρον τὸν γενναῖον Μεγαλομάρτυρα, τῆς οἰκουμένης τὸν ὑπέρμαχον· πρεσβεύει γὰρ Χριστῷ τῷ Θεῷ, ὑπὲρ τῶν ψυχῶν ἡμῶν."
+meVE.AposGlory.text = me.m02.d08_gr_GR_cog.meVE.AposGlory.text
 
 meVE.AposTheotokion.mode = misc_gr_GR_cog.Mode8
 meVE.AposTheotokion.melody = ""
@@ -185,9 +187,9 @@ meMA.Ode6H.text = he.h.m4_gr_GR_cog.ThysoSoiMetaFonis.text
 
 meMA.Kontakion1.mode = misc_gr_GR_cog.Mode2
 meMA.Kontakion1.melody = he.a.m2_gr_GR_cog.TaAnoZiton.name
-meMA.Kontakion1.text = "Ἀνδρείᾳ ψυχῆς τὴν πίστιν θωρακισάμενος, καὶ ῥῆμα Θεοῦ ὡς λόγχην χειρισάμενος, τὸν ἐχθρὸν κατέτρωσας, τῶν Μαρτύρων μέγιστε Θεόδωρε, σὺν αὐτοῖς Χριστῷ τῷ Θεῷ, πρεσβεύων ἀπαύστως ὑπὲρ πάντων ἡμῶν."
+meMA.Kontakion1.text = me.m02.d08_gr_GR_cog.meMA.Kontakion1.text
 
-meMA.Oikos1.text = "Τῶν ἀθλητῶν τὸ ἔκλαμπρον κάλλος, δεῦτε πάντες τῶν ὕμνων τοῖς στεφάνοις πιστοί, Θεόδωρον καταστέψωμεν· δῶρον γὰρ Θεοῦ μέγα τῷ κόσμῳ ἀναδέδεικται, λάμψεσι ταῖς τῶν θαυμάτων· τὸν γὰρ ἐχθρὸν ἐκνικήσας Βελίαρ ἄθλοις σεπτοῖς, ὀμβρίζει ἀντὶ αἱμάτων, κρουνηδὸν ἰαμάτων τὰ ῥεύματα, σὺν τούτοις δὲ πᾶσι χαίρει Χριστῷ, καὶ δίδωσιν εἰρήνην ἀνέκλειπτον, πρεσβεύων ἀπαύστως ὑπὲρ πάντων ἡμῶν."
+meMA.Oikos1.text = me.m02.d08_gr_GR_cog.meMA.Oikos1.text
 
 meMA.Ode7C11.ode = misc_gr_GR_cog.Ode7
 meMA.Ode7C11.mode = misc_gr_GR_cog.Mode4

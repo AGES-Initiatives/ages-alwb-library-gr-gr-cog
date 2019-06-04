@@ -3,6 +3,8 @@ A_Resource_Whose_Name = me.m06.d20_gr_GR_cog
 meDate.text = "Τῌ Κʹ ΙΟΥΝΙΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
 meCommemoration.text = "Μνήμη τοῦ Ἁγίου Ἱερομάρτυρος Μεθοδίου, Ἐπισκόπου Πατάρων." //full title of day
 meShortCommemoration1.text = ""
+meCom1.title = ""
+meCom2.title = ""
 meInsert1 = "καὶ τοῦ Ἁγίου Ἱερομάρτυρος Μεθοδίου, Ἐπισκόπου Πατάρων, " //for use in petitions and dismissal
 meInsert2 = "man
 οὗ καὶ τὴν μνήμην ἐπιτελοῦμεν· " //for use in petitions and dismissal
@@ -212,7 +214,7 @@ meMA.Ode7C1T.text = "Ὑμνολογίαις δοξάζει, τὸν σὸν �
 meMA.Ode8C11.ode = misc_gr_GR_cog.Ode8
 meMA.Ode8C11.mode = misc_gr_GR_cog.Mode7
 meMA.Ode8C11.melody = he.h.m7_gr_GR_cog.TonMononAnarchon.name
-meMA.Ode8C11.text = "Σὲ τὸν ἀόρατον, ὡς ὁρῶν ἐκαρτέρει, τοὺς τῶν τυράννων αἰκισμοὺς ὁ θεόφρων, καὶ στέφανον ἀνεδήσατο μέλπων· Ὑμνεῖτε ἱερεῖς, λαὸς ὑπερυψοῦτε, αὐτὸν εἰς τούς αἰῶνας."
+meMA.Ode8C11.text = "Σὲ τὸν ἀόρατον, ὡς ὁρῶν ἐκαρτέρει, τοὺς τῶν τυράννων αἰκισμοὺς ὁ θεόφρων, καὶ στέφανον ἀνεδήσατο μέλπων· Ὑμνεῖτε ἱερεῖς, λαὸς ὑπερυψοῦτε, αὐτὸν εἰς τοὺς αἰῶνας."
 
 meMA.Ode8C12.ode = misc_gr_GR_cog.Ode8
 meMA.Ode8C12.mode = misc_gr_GR_cog.Mode7

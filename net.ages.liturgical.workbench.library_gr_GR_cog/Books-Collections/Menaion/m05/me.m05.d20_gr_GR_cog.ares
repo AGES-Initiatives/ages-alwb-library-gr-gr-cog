@@ -3,6 +3,8 @@ A_Resource_Whose_Name = me.m05.d20_gr_GR_cog
 meDate.text = "Τῌ Κʹ ΜΑΪΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
 meCommemoration.text = "Μνήμη τοῦ Ἁγίου Μάρτυρος Θαλλελαίου." // full title of day
 meShortCommemoration1.text = ""
+meCom1.title = ""
+meCom2.title = ""
 meInsert1 = "καὶ τοῦ Ἁγίου Μάρτυρος Θαλλελαίου, " // for use in petitions and dismissal
 meInsert2 = "οὗ καὶ τὴν μνήμην ἐπιτελοῦμεν· " // for use in petitions and dismissal
 meNote.text = ""
@@ -203,7 +205,7 @@ meMA.Ode8C13.text = "Συγχορεύουσι τῇ μνήμη σου, τοῖ
 meMA.Ode8C1T.ode = misc_gr_GR_cog.Ode8
 meMA.Ode8C1T.mode = misc_gr_GR_cog.Mode4
 meMA.Ode8C1T.melody = he.h.m4_gr_GR_cog.EnFlogiPyros.name
-meMA.Ode8C1T.text = "Ἱλασμὸν τῶν ἐπταισμένων μοι, Παναγία ἁγνὴ αἴτησαι, καὶ δὸς μοι χεῖρα ἐν πελάγει τῶν δεινῶν, δεινῶς χειμαζομένῳ, ἵνα σε μακαρίζω, καὶ πιστῶς κηρύττω τήν σήν, βεβαίαν προστασίαν."
+meMA.Ode8C1T.text = "Ἱλασμὸν τῶν ἐπταισμένων μοι, Παναγία ἁγνὴ αἴτησαι, καὶ δὸς μοι χεῖρα ἐν πελάγει τῶν δεινῶν, δεινῶς χειμαζομένῳ, ἵνα σε μακαρίζω, καὶ πιστῶς κηρύττω τὴν σήν, βεβαίαν προστασίαν."
 
 meMA.Ode8H.ode = misc_gr_GR_cog.Ode8
 meMA.Ode8H.mode = misc_gr_GR_cog.Mode4
@@ -228,7 +230,7 @@ meMA.Ode9C13.text = "Ἡ γῆ χυθέν σου τὸ αἷμα, ἐδέξα�
 meMA.Ode9C1T.ode = misc_gr_GR_cog.Ode9
 meMA.Ode9C1T.mode = misc_gr_GR_cog.Mode4
 meMA.Ode9C1T.melody = he.h.m4_gr_GR_cog.ParthenomartysPolyathlos.name
-meMA.Ode9C1T.text = "Φωτὸς δοχεῖον γεγένησαι Παρθένε, καὶ θρόνος τοῦ Παντάνακτος ἄχραντε, ἐν ᾧ καθίσας τοῦ παλαιοῦ, πτώματος ἤγειρεν ἡμᾶς, καὶ τῇ συνεδρίᾳ τῇ θείᾳ ἐτίμησε, τούς ἐν πίστει καὶ πόθῳ σε μεγαλύνοντας."
+meMA.Ode9C1T.text = "Φωτὸς δοχεῖον γεγένησαι Παρθένε, καὶ θρόνος τοῦ Παντάνακτος ἄχραντε, ἐν ᾧ καθίσας τοῦ παλαιοῦ, πτώματος ἤγειρεν ἡμᾶς, καὶ τῇ συνεδρίᾳ τῇ θείᾳ ἐτίμησε, τοὺς ἐν πίστει καὶ πόθῳ σε μεγαλύνοντας."
 
 meMA.Ode9H.ode = misc_gr_GR_cog.Ode9
 meMA.Ode9H.mode = misc_gr_GR_cog.Mode4

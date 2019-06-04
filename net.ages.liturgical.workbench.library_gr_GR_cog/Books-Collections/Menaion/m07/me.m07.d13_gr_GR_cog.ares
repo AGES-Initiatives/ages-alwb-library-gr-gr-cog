@@ -3,6 +3,8 @@ A_Resource_Whose_Name = me.m07.d13_gr_GR_cog
 meDate.text = "Τῌ ΙΓʹ ΙΟΥΛΙΟΥ"
 meCommemoration.text = "Σύναξις τοῦ Ἀρχαγγέλου Γαβριήλ, καὶ τοῦ Ὁσίου Πατρὸς ἡμῶν Στεφάνου τοῦ Σαββαΐτου." // full title of day
 meShortCommemoration1.text = ""
+meCom1.title = ""
+meCom2.title = ""
 meInsert1 = "καὶ τοῦ Ἀρχαγγέλου Γαβριήλ, καὶ τοῦ Ὁσίου Πατρὸς ἡμῶν Στεφάνου τοῦ Σαββαΐτου, " // for use in petitions and dismissal
 meInsert2 = "ὧν καὶ τὴν μνήμην ἐπιτελοῦμεν· " // for use in petitions and dismissal
 meNote.text = ""
@@ -177,7 +179,7 @@ meMA.Ode3Kathisma2.text = "Τὸ αἷμά σου σοφέ, μυστικῶς 
 
 meMA.Ode3KathismaT.mode = misc_gr_GR_cog.Mode1
 meMA.Ode3KathismaT.melody = he.a.m1_gr_GR_cog.TonTafonSouSotir.name
-meMA.Ode3KathismaT.text = "Ἀνύμφευτε ἁγνή, Θεοτόκε Παρθένε, ἡ μόνη τῶν πιστῶν, προστασία καὶ σκέπη, κινδύνων καὶ θλίψεων, καὶ δεινῶν περιστάσεων, πάντας λύτρωσαι, τοὺς ἐπὶ σοὶ τάς ἐλπίδας, Κόρη ἔχοντας, καὶ τὰς ψυχὰς ἡμῶν σῶσον, ταῖς θείαις πρεσβείαις σου."
+meMA.Ode3KathismaT.text = "Ἀνύμφευτε ἁγνή, Θεοτόκε Παρθένε, ἡ μόνη τῶν πιστῶν, προστασία καὶ σκέπη, κινδύνων καὶ θλίψεων, καὶ δεινῶν περιστάσεων, πάντας λύτρωσαι, τοὺς ἐπὶ σοὶ τὰς ἐλπίδας, Κόρη ἔχοντας, καὶ τὰς ψυχὰς ἡμῶν σῶσον, ταῖς θείαις πρεσβείαις σου."
 
 meMA.Ode4C11.ode = misc_gr_GR_cog.Ode4
 meMA.Ode4C11.mode = misc_gr_GR_cog.Mode4
@@ -487,6 +489,8 @@ meMegalynarion.text = ""
 alt1.meDate.text = ""
 alt1.meCommemoration.text = "Ἀκολουθία τῆς Ἁγίας Μάρτυρος Γολινδούχ" //full title of day
 alt1.meShortCommemoration1.text = ""
+alt1.meCom1.title = ""
+alt1.meCom2.title = ""
 alt1.meInsert1 = "" //for use in petitions and dismissal
 alt1.meInsert2 = "" //for use in petitions and dismissal
 alt1.meNote.text = ""
@@ -630,7 +634,7 @@ alt1.meMA.Ode7C13.text = "Ῥωμαλέως τὴν χρονίαν ἐκαρτ
 alt1.meMA.Ode7C14.ode = misc_gr_GR_cog.Ode7
 alt1.meMA.Ode7C14.mode = misc_gr_GR_cog.Mode6
 alt1.meMA.Ode7C14.melody = he.h.m6_gr_GR_cog.DrosovolonMenTinKaminon.name
-alt1.meMA.Ode7C14.text = "Ἀναγέννησιν κομίζεται δι' ὕδατος, καὶ πνεύματος Πανεύφημε, ἡ τεκοῦσά σε, νουθεσίαις εἴξασα ταῖς σαῖς, Θεοῦ καταυγάσαντος αὐτῆς, ἀποκαλύψεσι φρικταῖς, τόν λογισμὸν ἐμφανῶς."
+alt1.meMA.Ode7C14.text = "Ἀναγέννησιν κομίζεται δι' ὕδατος, καὶ πνεύματος Πανεύφημε, ἡ τεκοῦσά σε, νουθεσίαις εἴξασα ταῖς σαῖς, Θεοῦ καταυγάσαντος αὐτῆς, ἀποκαλύψεσι φρικταῖς, τὸν λογισμὸν ἐμφανῶς."
 
 alt1.meMA.Ode7C1T.ode = misc_gr_GR_cog.Ode7
 alt1.meMA.Ode7C1T.mode = misc_gr_GR_cog.Mode6

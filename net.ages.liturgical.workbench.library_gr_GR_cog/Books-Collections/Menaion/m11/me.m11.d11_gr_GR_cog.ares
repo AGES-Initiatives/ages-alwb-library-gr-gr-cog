@@ -3,6 +3,8 @@ A_Resource_Whose_Name = me.m11.d11_gr_GR_cog
 meDate.text = "Τῌ ΙΑʹ ΝΟΕΜΒΡΙΟΥ"
 meCommemoration.text = "Μνήμη τῶν Ἁγίων Μαρτύρων Μηνᾶ, Βίκτωρος καὶ Βικεντίου· καὶ τῆς Ἁγίας Μάρτυρος Στεφανίδος· καὶ τοῦ Ὁσίου Πατρὸς ἡμῶν καὶ Ὁμολογητοῦ Θεοδώρου τοῦ Στουδίτου." // full title of day
 meShortCommemoration1.text = "Μνήμη τῶν Ἁγίων Μαρτύρων Μηνᾶ, Βίκτωρος καὶ Βικεντίου· καὶ τῆς Ἁγίας Μάρτυρος Στεφανίδος"
+meCom1.title = ""
+meCom2.title = ""
 meInsert1 = "καὶ τῶν ἁγίων Μαρτύρων Μηνᾶ, Βίκτωρος καὶ Βικεντίου, καὶ τῆς ἁγίας Μάρτυρος Στεφανίδος," // for use in petitions and dismissal
 meInsert2 = "ὧν καὶ τὴν μνήμην ἐπιτελοῦμεν· " // for use in petitions and dismissal
 meNote.text = ""
@@ -117,7 +119,7 @@ meMA.Ode1C13.text = "Μὴ φέρων Ἀοίδιμε, Θεὸν ὁρᾶν �
 meMA.Ode1C1T.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C1T.mode = misc_gr_GR_cog.Mode4
 meMA.Ode1C1T.melody = he.h.m4_gr_GR_cog.AnoixoToStomaMou.name
-meMA.Ode1C1T.text = "Ὡς ἔμψυχος τράπεζα, ἄρτον χωρεῖς τῆς ζωῆς ἡμῶν, ὡς βάτος βαστάσασα, οὐ κατεφλέχθης τὸ πῦρ, καὶ ὦς ἄμπελος, ἀπότιστος βλαστάνεις, τὸν βότρυν Πανάμωμε, τόν ἀγεώργητον."
+meMA.Ode1C1T.text = "Ὡς ἔμψυχος τράπεζα, ἄρτον χωρεῖς τῆς ζωῆς ἡμῶν, ὡς βάτος βαστάσασα, οὐ κατεφλέχθης τὸ πῦρ, καὶ ὦς ἄμπελος, ἀπότιστος βλαστάνεις, τὸν βότρυν Πανάμωμε, τὸν ἀγεώργητον."
 
 meMA.C2.title = titles_gr_GR_cog.KanonTouOsiou
 meMA.C2.verse = prayers_gr_GR_cog.verse_DevoutMan.text
@@ -125,7 +127,7 @@ meMA.C2.verse = prayers_gr_GR_cog.verse_DevoutMan.text
 meMA.Ode1C21.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C21.mode = misc_gr_GR_cog.Mode8
 meMA.Ode1C21.melody = he.h.m8_gr_GR_cog.ArmatilatinFarao.name
-meMA.Ode1C21.text = "Ταῖς φωτοβόλοις ἀστραπαῖς τοῦ Πνεύματος, καταλαμπόμενος, ὁλολαμπὴς στῦλος, Πάτερ ἐχρημάτισας, καθοδηγῶν Θεσπέσιε, πρὸς τὴν γῆν θεοφρόνως, ἐπαγγελίας τούς σπεύδοντας, μύστα τῶν ἀῤῥήτων Θεόδωρε."
+meMA.Ode1C21.text = "Ταῖς φωτοβόλοις ἀστραπαῖς τοῦ Πνεύματος, καταλαμπόμενος, ὁλολαμπὴς στῦλος, Πάτερ ἐχρημάτισας, καθοδηγῶν Θεσπέσιε, πρὸς τὴν γῆν θεοφρόνως, ἐπαγγελίας τοὺς σπεύδοντας, μύστα τῶν ἀῤῥήτων Θεόδωρε."
 
 meMA.Ode1C22.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C22.mode = misc_gr_GR_cog.Mode8
@@ -145,7 +147,7 @@ meMA.Ode1C24.text = "Κεκαθαρμένῃ διανοίᾳ πάνσοφε, 
 meMA.Ode1C2T.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C2T.mode = misc_gr_GR_cog.Mode8
 meMA.Ode1C2T.melody = he.h.m8_gr_GR_cog.ArmatilatinFarao.name
-meMA.Ode1C2T.text = "Λόγον Θεοῦ σωματωθέντα τέτοκας, τὸν πρὶν ἀσώματον, θεανδρικῶς κόσμῳ, συναναστρεφόμενον, ὑπερφυῶς πανάμωμε, Θεοτόκε Παρθένε· διὸ σε πάντες γεραίρομεν, τήν μετὰ Θεὸν προστασίαν ἡμῶν."
+meMA.Ode1C2T.text = "Λόγον Θεοῦ σωματωθέντα τέτοκας, τὸν πρὶν ἀσώματον, θεανδρικῶς κόσμῳ, συναναστρεφόμενον, ὑπερφυῶς πανάμωμε, Θεοτόκε Παρθένε· διὸ σε πάντες γεραίρομεν, τὴν μετὰ Θεὸν προστασίαν ἡμῶν."
 
 meMA.Ode3C11.ode = misc_gr_GR_cog.Ode3
 meMA.Ode3C11.mode = misc_gr_GR_cog.Mode4
@@ -461,7 +463,7 @@ meMA.Ode9C22.text = "Ἁγίως σου τὸν δρόμον διαδραμώ
 meMA.Ode9C23.ode = misc_gr_GR_cog.Ode9
 meMA.Ode9C23.mode = misc_gr_GR_cog.Mode8
 meMA.Ode9C23.melody = he.h.m8_gr_GR_cog.ExestiEpiTouto.name
-meMA.Ode9C23.text = "Ἰδεῖν κατηξιώθης τῶν ἀγαθῶν, τὴν πηγὴν θεοφόρε Θεόδωρε, ὡς μετελθών, βίον ἐνθεώτατον ἀληθῶς, καὶ τῆς τοῦ κόσμου σχέσεως, διὰ πολιτείας εἰλικρινοῦς, τόν νοῦν ἐλευθερώσας, καὶ Μάρτυς στεφηφόρος, γεγενημένος ὤφθης ἄριστος."
+meMA.Ode9C23.text = "Ἰδεῖν κατηξιώθης τῶν ἀγαθῶν, τὴν πηγὴν θεοφόρε Θεόδωρε, ὡς μετελθών, βίον ἐνθεώτατον ἀληθῶς, καὶ τῆς τοῦ κόσμου σχέσεως, διὰ πολιτείας εἰλικρινοῦς, τὸν νοῦν ἐλευθερώσας, καὶ Μάρτυς στεφηφόρος, γεγενημένος ὤφθης ἄριστος."
 
 meMA.Ode9C24.ode = misc_gr_GR_cog.Ode9
 meMA.Ode9C24.mode = misc_gr_GR_cog.Mode8

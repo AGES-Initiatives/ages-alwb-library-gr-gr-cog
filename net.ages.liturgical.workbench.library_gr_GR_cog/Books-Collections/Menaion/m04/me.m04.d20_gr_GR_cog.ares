@@ -3,6 +3,8 @@ A_Resource_Whose_Name = me.m04.d20_gr_GR_cog
 meDate.text = "Τῌ Κʹ ΑΠΡΙΛΙΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
 meCommemoration.text = "Μνήμη τοῦ Ὁσίου Πατρὸς ἡμῶν Θεοδώρου τοῦ Τριχινᾶ." //full title of day
 meShortCommemoration1.text = ""
+meCom1.title = ""
+meCom2.title = ""
 meInsert1 = "καὶ τοῦ Ὁσίου Πατρὸς ἡμῶν Θεοδώρου τοῦ Τριχινᾶ, " //for use in petitions and dismissal
 meInsert2 = "οὗ καὶ τὴν μνήμην ἐπιτελοῦμεν· " //for use in petitions and dismissal
 meNote.text = ""
@@ -94,7 +96,7 @@ meMA.Ode3C1T.text = "Σὺ μόνη τοῖς ἐπὶ γῆς, τῶν ὑπ�
 
 meMA.Ode3Kathisma1.mode = misc_gr_GR_cog.Mode4
 meMA.Ode3Kathisma1.melody = he.a.m4_gr_GR_cog.OYpsotheisEnToStavro.name
-meMA.Ode3Kathisma1.text = "Ὡς καθαρὸς τῷ καθαρῷ προσπελάσας, διὰ συντόνου προσευχῆς καὶ ἁγνείας, καθηγιάσθης Πνεύματι Θεόδωρε· ὅθεν σὺν Ἀγγέλοις νῦν, αὐλιζόμενος μέλπεις, ὕμνον τόν τρισάγιον, τῷ τῶν ὅλων Δεσπότῃ, πρὸς ὃν δυσώπει Ὅσιε ἀεί, τοῦ ἐλεῆσαι τοὺς πόθῳ ὑμνοῦντάς σε."
+meMA.Ode3Kathisma1.text = "Ὡς καθαρὸς τῷ καθαρῷ προσπελάσας, διὰ συντόνου προσευχῆς καὶ ἁγνείας, καθηγιάσθης Πνεύματι Θεόδωρε· ὅθεν σὺν Ἀγγέλοις νῦν, αὐλιζόμενος μέλπεις, ὕμνον τὸν τρισάγιον, τῷ τῶν ὅλων Δεσπότῃ, πρὸς ὃν δυσώπει Ὅσιε ἀεί, τοῦ ἐλεῆσαι τοὺς πόθῳ ὑμνοῦντάς σε."
 
 meMA.Ode3KathismaT.mode = misc_gr_GR_cog.Mode4
 meMA.Ode3KathismaT.melody = he.a.m4_gr_GR_cog.OYpsotheisEnToStavro.name

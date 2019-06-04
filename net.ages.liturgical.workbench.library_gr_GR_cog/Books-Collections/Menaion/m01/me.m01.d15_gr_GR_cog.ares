@@ -3,6 +3,8 @@ A_Resource_Whose_Name = me.m01.d15_gr_GR_cog
 meDate.text = "Τῌ ΙΕʹ ΙΑΝΟΥΑΡΙΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
 meCommemoration.text = "Μνήμη τοῦ Ὁσίου Πατρὸς ἡμῶν Παύλου τοῦ Θηβαίου· καὶ τοῦ Ἁγίου Ἰωάννου τοῦ Καλυβίτου." // full title of day
 meShortCommemoration1.text = ""
+meCom1.title = ""
+meCom2.title = ""
 meInsert1 = "καὶ τοῦ Ὁσίου Πατρὸς ἡμῶν Παύλου τοῦ Θηβαίου· καὶ τοῦ Ἁγίου Ἰωάννου τοῦ Καλυβίτου, " // for use in petitions and dismissal
 meInsert2 = "ὧν καὶ τὴν μνήμην ἐπιτελοῦμεν· " // for use in petitions and dismissal
 meNote.text = ""
@@ -256,7 +258,7 @@ meMA.Ode5C23.text = "Νόμου Θεοῦ πληρωτὴς ἀνεδείχθ�
 meMA.Ode5C2T.ode = misc_gr_GR_cog.Ode5
 meMA.Ode5C2T.mode = misc_gr_GR_cog.Mode2
 meMA.Ode5C2T.melody = he.h.m2_gr_GR_cog.OFotismos.name
-meMA.Ode5C2T.text = "Ἐμμανουήλ, τῶν ἁπάντων Δεσπότην, τίκτεις ἀφθόρως, μείνασα παρθένος καὶ μετὰ τόκον, Παρθενομῆτορ· ὃν ἀπαύστως δυσώπει, ἐπηρείας ἐχθρῶν λυτρώσασθαι, τούς ὑπὸ τὴν σκέπην, τὴν σὴν καταφεύγοντας."
+meMA.Ode5C2T.text = "Ἐμμανουήλ, τῶν ἁπάντων Δεσπότην, τίκτεις ἀφθόρως, μείνασα παρθένος καὶ μετὰ τόκον, Παρθενομῆτορ· ὃν ἀπαύστως δυσώπει, ἐπηρείας ἐχθρῶν λυτρώσασθαι, τοὺς ὑπὸ τὴν σκέπην, τὴν σὴν καταφεύγοντας."
 
 meMA.Ode6C11.ode = misc_gr_GR_cog.Ode6
 meMA.Ode6C11.mode = misc_gr_GR_cog.Mode8

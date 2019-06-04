@@ -3,6 +3,8 @@ A_Resource_Whose_Name = me.m04.d09_gr_GR_cog
 meDate.text = "Τῌ Θʹ ΑΠΡΙΛΙΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
 meCommemoration.text = "Μνήμη τοῦ Ἁγίου Μάρτυρος Εὐψυχίου, τοῦ ἐν Καισαρείᾳ, καὶ τῶν Ἁγίων Ὁσιομαρτύρων Ραφαήλ, Νικολάου καὶ τῆς Ἁγίας Ὁσιοπαρθενομάρτυρος Εἰρήνης." //full title of day
 meShortCommemoration1.text = "Μνήμη τοῦ Ἁγίου Μάρτυρος Εὐψυχίου"
+meCom1.title = ""
+meCom2.title = ""
 meInsert1 = "" //for use in petitions and dismissal
 meInsert2 = "" //for use in petitions and dismissal
 meNote.text = ""
@@ -53,7 +55,7 @@ meMA.C1.verse = prayers_gr_GR_cog.verse_SaintM.text
 meMA.Ode1C11.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C11.mode = misc_gr_GR_cog.Mode8
 meMA.Ode1C11.melody = he.h.m8_gr_GR_cog.YgranDiodefsas.name
-meMA.Ode1C11.text = "Τοὺς ἄθλους εὐψύχως μάκαρ τοὺς σούς, Εὐψύχιε Μάρτυς, ἀναμέλπων σε δυσωπῶ, ἔχων παῤῥησίαν τήν ψυχήν μου, τῆς τῶν παθῶν τυραννίδος ἐξάρπασον."
+meMA.Ode1C11.text = "Τοὺς ἄθλους εὐψύχως μάκαρ τοὺς σούς, Εὐψύχιε Μάρτυς, ἀναμέλπων σε δυσωπῶ, ἔχων παῤῥησίαν τὴν ψυχήν μου, τῆς τῶν παθῶν τυραννίδος ἐξάρπασον."
 
 meMA.Ode1C12.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C12.mode = misc_gr_GR_cog.Mode8
@@ -230,7 +232,7 @@ meMA.Ode8C12.text = "Οἱ τῶν σῶν θαυμάτων, ποταμοὶ χ
 meMA.Ode8C13.ode = misc_gr_GR_cog.Ode8
 meMA.Ode8C13.mode = misc_gr_GR_cog.Mode8
 meMA.Ode8C13.melody = he.h.m8_gr_GR_cog.NikitaiTyrannou.name
-meMA.Ode8C13.text = "Ὑπελθὼν ἀνδρείως, τὸ ἀγώνων στάδιον Μάρτυς ἐξέσθης, μέχρις ἁρμονίας, καὶ αὐτῆς τῆς ἔνδοθεν οἰκονομίας· ἀλλ' ἐφάνης ὅλος, ἀκλινὴς ἀκράδαντος· ὅθεν τούς στεφάνους, ἀπέλαβες τῆς νίκης."
+meMA.Ode8C13.text = "Ὑπελθὼν ἀνδρείως, τὸ ἀγώνων στάδιον Μάρτυς ἐξέσθης, μέχρις ἁρμονίας, καὶ αὐτῆς τῆς ἔνδοθεν οἰκονομίας· ἀλλ' ἐφάνης ὅλος, ἀκλινὴς ἀκράδαντος· ὅθεν τοὺς στεφάνους, ἀπέλαβες τῆς νίκης."
 
 meMA.Ode8C1T.ode = misc_gr_GR_cog.Ode8
 meMA.Ode8C1T.mode = misc_gr_GR_cog.Mode8

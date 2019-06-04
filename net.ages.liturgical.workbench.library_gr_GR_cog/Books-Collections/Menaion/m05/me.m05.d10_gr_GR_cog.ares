@@ -3,6 +3,8 @@ A_Resource_Whose_Name = me.m05.d10_gr_GR_cog
 meDate.text = "Τῌ Ιʹ ΜΑΪΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
 meCommemoration.text = "Μνήμη τοῦ Ἁγίου Ἀποστόλου Σίμωνος τοῦ Ζηλωτοῦ." //full title of day
 meShortCommemoration1.text = ""
+meCom1.title = ""
+meCom2.title = ""
 meInsert1 = "καὶ τοῦ Ἁγίου Ἀποστόλου Σίμωνος τοῦ Ζηλωτοῦ, " //for use in petitions and dismissal
 meInsert2 = "οὗ καὶ τὴν μνήμην ἐπιτελοῦμεν· " //for use in petitions and dismissal
 meNote.text = ""
@@ -189,7 +191,7 @@ meMA.Ode8C12.text = "Καλλοναῖς ἐμπρέπων φωτοβόλοι�
 meMA.Ode8C1T.ode = misc_gr_GR_cog.Ode8
 meMA.Ode8C1T.mode = misc_gr_GR_cog.Mode8
 meMA.Ode8C1T.melody = he.h.m8_gr_GR_cog.MousikonOrganon.name
-meMA.Ode8C1T.text = "Λογισμὸς οὐ δύναται τὸν τόκον, σοῦ Θεογεννῆτορ ἑρμηνεῦσαι, καὶ φράσαι λόγος ἀτονεῖ· Θεὸν γὰρ συλλαβοῦσα, τέτοκας Παρθένε, ὃν ὑπερυψοῦμεν, εἰς πάντας τούς αἰῶνας."
+meMA.Ode8C1T.text = "Λογισμὸς οὐ δύναται τὸν τόκον, σοῦ Θεογεννῆτορ ἑρμηνεῦσαι, καὶ φράσαι λόγος ἀτονεῖ· Θεὸν γὰρ συλλαβοῦσα, τέτοκας Παρθένε, ὃν ὑπερυψοῦμεν, εἰς πάντας τοὺς αἰῶνας."
 
 meMA.Ode8H.ode = misc_gr_GR_cog.Ode8
 meMA.Ode8H.mode = misc_gr_GR_cog.Mode8
@@ -226,7 +228,7 @@ meMA.Lauds1.text = "Τῷ καλάμῳ τῆς χάριτος, ἐκ βυθο
 
 meMA.Lauds2.mode = misc_gr_GR_cog.Mode4
 meMA.Lauds2.melody = he.a.m4_gr_GR_cog.OsGennaionEnMartysi.name
-meMA.Lauds2.text = "Ἡ τοῦ Πνεύματος ἔλλαμψις, ἐπὶ σὲ καταβέβηκε, τοῦ πυρὸς ἐν εἴδει, καὶ σὲ μακάριε, θεῖον δοχεῖον εἰργάσατο, συντόνως ἐλαύνοντα, ἀθεΐας τὴν ἀχλύν, καὶ τόν κόσμον φωτίζοντα τῇ λαμπρότητι, τῶν πανσόφων σου λόγων, μυστολέκτα, Ἀποστόλων ἡ ἀκρότης, Σίμων θεόφρον πανόλβιε."
+meMA.Lauds2.text = "Ἡ τοῦ Πνεύματος ἔλλαμψις, ἐπὶ σὲ καταβέβηκε, τοῦ πυρὸς ἐν εἴδει, καὶ σὲ μακάριε, θεῖον δοχεῖον εἰργάσατο, συντόνως ἐλαύνοντα, ἀθεΐας τὴν ἀχλύν, καὶ τὸν κόσμον φωτίζοντα τῇ λαμπρότητι, τῶν πανσόφων σου λόγων, μυστολέκτα, Ἀποστόλων ἡ ἀκρότης, Σίμων θεόφρον πανόλβιε."
 
 meMA.Lauds3.mode = misc_gr_GR_cog.Mode4
 meMA.Lauds3.melody = he.a.m4_gr_GR_cog.OsGennaionEnMartysi.name

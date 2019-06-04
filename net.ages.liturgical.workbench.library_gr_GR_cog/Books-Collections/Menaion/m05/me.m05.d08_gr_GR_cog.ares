@@ -3,6 +3,8 @@ A_Resource_Whose_Name = me.m05.d08_gr_GR_cog
 meDate.text = "Τῌ Ηʹ ΜΑΪΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
 meCommemoration.text = "Μνήμη τοῦ Ἁγίου Ἐνδόξου Ἀποστόλου καὶ Εὐαγγελιστοῦ Ἰωάννου τοῦ Θεολόγου· καὶ τοῦ Ὁσίου Πατρὸς ἡμῶν Ἀρσενίου τοῦ Μεγάλου." // full title of day
 meShortCommemoration1.text = "Μνήμη τοῦ Ἁγίου Ἐνδόξου Ἀποστόλου καὶ Εὐαγγελιστοῦ Ἰωάννου τοῦ Θεολόγου"
+meCom1.title = ""
+meCom2.title = ""
 meInsert1 = "καὶ τοῦ Ἁγίου ἐνδόξου Ἀποστόλου καὶ Εὐαγγελιστοῦ Ἰωάννου τοῦ Θεολόγου, " // for use in petitions and dismissal
 meInsert2 = "οὗ καὶ τὴν μνήμην ἐπιτελοῦμεν· " // for use in petitions and dismissal
 meNote.text = ""
@@ -150,7 +152,7 @@ meMA.Ode1C22.text = "Σὺ τοὺς θορύβους ἐκφυγὼν Ἀρσ�
 meMA.Ode1C2T.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C2T.mode = misc_gr_GR_cog.Mode8
 meMA.Ode1C2T.melody = he.h.m8_gr_GR_cog.ArmatilatinFarao.name
-meMA.Ode1C2T.text = "Δεδοξασμένα περὶ σοῦ λελάληνται, ἐν γενεαῖς γενεῶν, ἡ τὸν Θεὸν Λόγον, ἐν γαστρὶ χωρήσασα, ἁγνὴ δὲ διαμείνασα, Θεοτόκε Μαρία· διὸ σε πάντες γεραίρομεν, τήν μετὰ Θεὸν προστασίαν ἡμῶν."
+meMA.Ode1C2T.text = "Δεδοξασμένα περὶ σοῦ λελάληνται, ἐν γενεαῖς γενεῶν, ἡ τὸν Θεὸν Λόγον, ἐν γαστρὶ χωρήσασα, ἁγνὴ δὲ διαμείνασα, Θεοτόκε Μαρία· διὸ σε πάντες γεραίρομεν, τὴν μετὰ Θεὸν προστασίαν ἡμῶν."
 
 meMA.Ode3C11.ode = misc_gr_GR_cog.Ode3
 meMA.Ode3C11.mode = misc_gr_GR_cog.Mode8
@@ -263,7 +265,7 @@ meMA.Ode6C12.text = "Λόγος ὁ μονογενής, ὁ ἐν κόλπο�
 meMA.Ode6C1T.ode = misc_gr_GR_cog.Ode6
 meMA.Ode6C1T.mode = misc_gr_GR_cog.Mode8
 meMA.Ode6C1T.melody = he.h.m8_gr_GR_cog.AvyssosAmartion.name
-meMA.Ode6C1T.text = "Φώτισόν μου τὴν ψυχήν, ἡ τεκοῦσα τὸ ἀπαύγασμα δόξης, τῆς τοῦ Πατρὸς Παρθένε, Θεοτόκε πανύμνητε· τὴν σὴν γὰρ οἱ ἀληθεῖς, χάριν κατέχοντες, θιασῶται, τάς γλωσσαλγίας ἀπεκρούσαντο."
+meMA.Ode6C1T.text = "Φώτισόν μου τὴν ψυχήν, ἡ τεκοῦσα τὸ ἀπαύγασμα δόξης, τῆς τοῦ Πατρὸς Παρθένε, Θεοτόκε πανύμνητε· τὴν σὴν γὰρ οἱ ἀληθεῖς, χάριν κατέχοντες, θιασῶται, τὰς γλωσσαλγίας ἀπεκρούσαντο."
 
 meMA.Ode6C21.ode = misc_gr_GR_cog.Ode6
 meMA.Ode6C21.mode = misc_gr_GR_cog.Mode8
@@ -304,7 +306,7 @@ meMA.Ode7C13.text = "Τὸ Πνεῦμα τὸ Ἅγιον, Πατρὸς ἀν�
 meMA.Ode7C1T.ode = misc_gr_GR_cog.Ode7
 meMA.Ode7C1T.mode = misc_gr_GR_cog.Mode8
 meMA.Ode7C1T.melody = he.h.m8_gr_GR_cog.TheouSynkatavasin.name
-meMA.Ode7C1T.text = "Ἀῤῥήτῳ κυήσει σου, φρικτῶν ἀῤῥήτων ἡμᾶς ἠξίωσας, Θεοτόκε πραγμάτων· διὸ φρικτῆς με ῥῦσαι κολάσεως, καὶ τῆς ἀῤῥήτου χαρᾶς καταδίωξον, ἵνα ὑμνῶ σε ἀεὶ τήν πολύΰμνητον."
+meMA.Ode7C1T.text = "Ἀῤῥήτῳ κυήσει σου, φρικτῶν ἀῤῥήτων ἡμᾶς ἠξίωσας, Θεοτόκε πραγμάτων· διὸ φρικτῆς με ῥῦσαι κολάσεως, καὶ τῆς ἀῤῥήτου χαρᾶς καταδίωξον, ἵνα ὑμνῶ σε ἀεὶ τὴν πολύΰμνητον."
 
 meMA.Ode7C21.ode = misc_gr_GR_cog.Ode7
 meMA.Ode7C21.mode = misc_gr_GR_cog.Mode8

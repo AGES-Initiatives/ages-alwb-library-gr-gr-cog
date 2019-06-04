@@ -3,6 +3,8 @@ A_Resource_Whose_Name = me.m08.d16_gr_GR_cog
 meDate.text = "Τῌ ΙϚʹ ΑΥΓΟΥΣΤΟΥ"
 meCommemoration.text = "Μνήμη τῆς ἐξ Ἐδέσσης ἀνακομιδῆς τῆς ἀχειροποιήτου Εἰκόνος τοῦ Κυρίου ἡμῶν Ἰησοῦ Χριστοῦ, ἤτοι τοῦ Ἁγίου Μανδηλίου, καὶ τοῦ Ἁγίου Μάρτυρος Διομήδους." // full title of day
 meShortCommemoration1.text = "Μνήμη τῆς ἐξ Ἐδέσσης ἀνακομιδῆς τοῦ Ἁγίου Μανδηλίου"
+meCom1.title = ""
+meCom2.title = ""
 meInsert1 = "" // for use in petitions and dismissal
 meInsert2 = "" // for use in petitions and dismissal
 meNote.text = ""
@@ -451,6 +453,8 @@ meMegalynarion.text = ""
 alt1.meDate.text = "Τῌ ΙϚʹ ΑΥΓΟΥΣΤΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
 alt1.meCommemoration.text = "Μνήμη τοῦ Ὁσίου και Θεοφόρου Πατρὸς ἡμῶν Γερασίμου τοῦ Νέου Ἀσκητοῦ" //full title of day
 alt1.meShortCommemoration1.text = "Τοῦ Οσίου και Θεοφόρου Πατρὸς ἡμῶν Γερασίμου τοῦ Νέου Ἀσκητοῦ"
+alt1.meCom1.title = ""
+alt1.meCom2.title = ""
 alt1.meInsert1 = "τοῦ ὁσίου και θεοφόρου Πατρὸς ἡμῶν Γερασίμου τοῦ νέου Ἀσκητοῦ," //for use in petitions and dismissal
 alt1.meInsert2 = "οὗ καὶ τὴν μνήμην ἐπιτελοῦμεν," //for use in petitions and dismissal
 alt1.meNote.text = ""
@@ -622,7 +626,7 @@ alt1.meMA.Kathisma11.text = "Νεοφανέντος σου τῇ οἰκουμ�
 
 alt1.meMA.Kathisma12.mode = misc_gr_GR_cog.Mode3
 alt1.meMA.Kathisma12.melody = he.a.m3_gr_GR_cog.TinOraiotita.name
-alt1.meMA.Kathisma12.text = "Τὴν καθαρότητα τῆς διανοίας σου, καὶ τὸ ἐπίμονον, τὸ τῶν καμάτων σου, τήν τε ἰσάγγελον ζωὴν ἰδών σου ὁ Στεφοδότης, χάρισι ἐλάμπρυνε, καὶ λαμπρῶς σε ἐδόξασε, φύλακα παρέχων σε καὶ ἡμῶν ἀντιλήπτορα. Διὸ καὶ εὐχαρίστως ἡ νῆσός σου, δόξαν Θεῷ προσαναπέμπει."
+alt1.meMA.Kathisma12.text = "Τὴν καθαρότητα τῆς διανοίας σου, καὶ τὸ ἐπίμονον, τὸ τῶν καμάτων σου, τὴν τε ἰσάγγελον ζωὴν ἰδών σου ὁ Στεφοδότης, χάρισι ἐλάμπρυνε, καὶ λαμπρῶς σε ἐδόξασε, φύλακα παρέχων σε καὶ ἡμῶν ἀντιλήπτορα. Διὸ καὶ εὐχαρίστως ἡ νῆσός σου, δόξαν Θεῷ προσαναπέμπει."
 
 alt1.meMA.Kathisma13.mode = misc_gr_GR_cog.Mode3
 alt1.meMA.Kathisma13.melody = he.a.m3_gr_GR_cog.TinOraiotita.name

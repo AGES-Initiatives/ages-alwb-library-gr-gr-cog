@@ -3,6 +3,8 @@ A_Resource_Whose_Name = me.m10.d29_gr_GR_cog
 meDate.text = "Τῌ ΚΘʹ ΟΚΤΩΒΡΙΟΥ"
 meCommemoration.text = "Μνήμη τῆς ἁγίας Ὁσιομάρτυρος Ἀναστασίας τῆς Ῥωμαίας· καὶ τοῦ ὁσίου Πατρὸς ἡμῶν Ἀβραμίου." //full title of day
 meShortCommemoration1.text = "Μνήμη τῆς ἁγίας Ὁσιομάρτυρος Ἀναστασίας τῆς Ῥωμαίας."
+meCom1.title = ""
+meCom2.title = ""
 meInsert1 = "καὶ τῆς ἁγίας Ὁσιομάρτυρος Ἀναστασίας τῆς Ῥωμαίας, καὶ τοῦ ὁσίου Πατρὸς ἡμῶν Ἀβραμίου" //for use in petitions and dismissal
 meInsert2 = "ὧν καὶ τὴν μνήμην ἐπιτελοῦμεν· " //for use in petitions and dismissal
 meNote.text = ""
@@ -16,7 +18,7 @@ meHO.note2 = ""
 
 meVE.Stichera01.mode = misc_gr_GR_cog.Mode4
 meVE.Stichera01.melody = he.a.m4_gr_GR_cog.OsGennaionEnMartysi.name
-meVE.Stichera01.text = "Τὰς στρεβλώσεις τοῦ σώματος, καὶ μαστῶν τὴν ἀφαίρεσιν, καὶ χειρῶν ὑπήνεγκας καρτερώτατα, τήν τε ὀδόντων ἐκρίζωσιν, πλευρῶν τὴν κατάφλεξιν, τῶν ποδῶν τήν ἐκκοπήν, καὶ τὸν ἄδικον θάνατον· ὅθεν εἴληφας, τοὺς στεφάνους τῆς νίκης οὐρανίοις, ἐν θαλάμοις κατοικοῦσα, Ἀναστασία πολύαθλε."
+meVE.Stichera01.text = "Τὰς στρεβλώσεις τοῦ σώματος, καὶ μαστῶν τὴν ἀφαίρεσιν, καὶ χειρῶν ὑπήνεγκας καρτερώτατα, τὴν τε ὀδόντων ἐκρίζωσιν, πλευρῶν τὴν κατάφλεξιν, τῶν ποδῶν τὴν ἐκκοπήν, καὶ τὸν ἄδικον θάνατον· ὅθεν εἴληφας, τοὺς στεφάνους τῆς νίκης οὐρανίοις, ἐν θαλάμοις κατοικοῦσα, Ἀναστασία πολύαθλε."
 
 meVE.Stichera02.mode = misc_gr_GR_cog.Mode4
 meVE.Stichera02.melody = he.a.m4_gr_GR_cog.OsGennaionEnMartysi.name
@@ -32,7 +34,7 @@ meVE.Stichera04.text = "Πάτερ θεόφρον Ἀβράμιε, τοῦ �
 
 meVE.Stichera05.mode = misc_gr_GR_cog.Mode8
 meVE.Stichera05.melody = he.a.m8_gr_GR_cog.OTouParadoxou.name
-meVE.Stichera05.text = "Ὅσιε Πάτερ Ἀβράμιε, ἀβραμιαίαν ψυχήν, φερωνύμως κτησάμενος, πειρασμοὺς ὑπήνεγκας, θείᾳ πίστει ῥωννύμενος, καὶ δι' ἀγάπης Θεῷ ἑνούμενος, ἐπαγγελίας τήν γῆν κεκλήρωσαι, ὡραϊζόμενος, ἀρετῶν λαμπρότησιν· ὅθεν τὴν σήν, μνήμην εὐφραινόμενοι, πανηγυρίζομεν."
+meVE.Stichera05.text = "Ὅσιε Πάτερ Ἀβράμιε, ἀβραμιαίαν ψυχήν, φερωνύμως κτησάμενος, πειρασμοὺς ὑπήνεγκας, θείᾳ πίστει ῥωννύμενος, καὶ δι' ἀγάπης Θεῷ ἑνούμενος, ἐπαγγελίας τὴν γῆν κεκλήρωσαι, ὡραϊζόμενος, ἀρετῶν λαμπρότησιν· ὅθεν τὴν σήν, μνήμην εὐφραινόμενοι, πανηγυρίζομεν."
 
 meVE.Stichera06.mode = misc_gr_GR_cog.Mode8
 meVE.Stichera06.melody = he.a.m8_gr_GR_cog.OTouParadoxou.name
@@ -153,7 +155,7 @@ meMA.Ode3H.text = he.h.m8_gr_GR_cog.OuraniasApsidos.text
 
 meMA.Ode3Kathisma1.mode = misc_gr_GR_cog.Mode1
 meMA.Ode3Kathisma1.melody = he.a.m1_gr_GR_cog.TonTafonSouSotir.name
-meMA.Ode3Kathisma1.text = "Ἐκ βρέφους τῷ Θεῷ, ἀνετέθης Ὁσία, νεκρώσασα σαρκός, ἐγκρατείᾳ τὰ πάθη, εἰς ὕψος δ' ἀνέδραμες, μαρτυρίου περίδοξον, ἐναθλήσασα, Ἀναστασία νομίμως, καὶ τόν δράκοντα, καταβαλοῦσα εἰς χάος, δυνάμει τοῦ Πνεύματος."
+meMA.Ode3Kathisma1.text = "Ἐκ βρέφους τῷ Θεῷ, ἀνετέθης Ὁσία, νεκρώσασα σαρκός, ἐγκρατείᾳ τὰ πάθη, εἰς ὕψος δ' ἀνέδραμες, μαρτυρίου περίδοξον, ἐναθλήσασα, Ἀναστασία νομίμως, καὶ τὸν δράκοντα, καταβαλοῦσα εἰς χάος, δυνάμει τοῦ Πνεύματος."
 
 meMA.Ode3Kathisma2.mode = misc_gr_GR_cog.Mode1
 meMA.Ode3Kathisma2.melody = he.a.m1_gr_GR_cog.TonTafonSouSotir.name

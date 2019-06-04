@@ -3,6 +3,8 @@ A_Resource_Whose_Name = me.m08.d27_gr_GR_cog
 meDate.text = "Τῌ ΚΖʹ ΑΥΓΟΥΣΤΟΥ"
 meCommemoration.text = "Μνήμη τοῦ Ὁσίου Πατρὸς ἡμῶν Ποιμένος." // full title of day
 meShortCommemoration1.text = ""
+meCom1.title = ""
+meCom2.title = ""
 meInsert1 = "καὶ τοῦ Ὁσίου Πατρὸς ἡμῶν Ποιμένος, " // for use in petitions and dismissal
 meInsert2 = "οὗ καὶ τὴν μνήμην ἐπιτελοῦμεν· " // for use in petitions and dismissal
 meNote.text = ""
@@ -32,7 +34,7 @@ meVE.SticTheotokion.text = "Τίνι ὡμοιώθης ταλαίπωρε, π
 
 meVE.SticStavrotheotokion.mode = misc_gr_GR_cog.Mode8
 meVE.SticStavrotheotokion.melody = he.a.m8_gr_GR_cog.TiYmasKalesomen.name
-meVE.SticStavrotheotokion.text = "Ἄρνα ἡ ἀμνὰς ὡς ἑώρακεν, ἐπὶ ξύλου ἡπλωμένον, ἑκουσίως σταυρικοῦ, ἀνεβόα μητρικῶς ὀδυρομένη ἐν κλαυθμῷ· Υἱέ μου, τί τὸ ξένον τοῦτο θέαμα; ὁ πᾶσι, τήν ζωὴν νέμων ὡς Κύριος, πῶς θανατοῦσαι μακρόθυμε, βροτοῖς παρέχων ἀνάστασιν; Δοξάζω σου, τὴν πολλὴν Θεέ μου συγκατάβασιν."
+meVE.SticStavrotheotokion.text = "Ἄρνα ἡ ἀμνὰς ὡς ἑώρακεν, ἐπὶ ξύλου ἡπλωμένον, ἑκουσίως σταυρικοῦ, ἀνεβόα μητρικῶς ὀδυρομένη ἐν κλαυθμῷ· Υἱέ μου, τί τὸ ξένον τοῦτο θέαμα; ὁ πᾶσι, τὴν ζωὴν νέμων ὡς Κύριος, πῶς θανατοῦσαι μακρόθυμε, βροτοῖς παρέχων ἀνάστασιν; Δοξάζω σου, τὴν πολλὴν Θεέ μου συγκατάβασιν."
 
 meVE.Apolytikion1.poet = poets_gr_GR_cog.Gerasimou
 meVE.Apolytikion1.mode = misc_gr_GR_cog.Mode3
@@ -257,6 +259,8 @@ meMegalynarion.text = ""
 alt1.meDate.text = "Τῌ ΚΖʹ ΑΥΓΟΥΣΤΟΥ"
 alt1.meCommemoration.text = " Μνήμη τοῦ Ἁγίου Ἐνδόξου Μάρτυρος Φανουρίου τοῦ Νεοφανοῦς." // full title of day
 alt1.meShortCommemoration1.text = "Μνήμη τοῦ Ἁγίου Φανουρίου"
+alt1.meCom1.title = ""
+alt1.meCom2.title = ""
 alt1.meInsert1 = "καὶ τοῦ ἁγίου ἐνδόξου Μάρτυρος Φανουρίου τοῦ Νεοφανοῦς, " // for use in petitions and dismissal
 alt1.meInsert2 = "οὗ καὶ τὴν μνήμην ἐπιτελοῦμεν· " // for use in petitions and dismissal
 alt1.meNote.text = ""

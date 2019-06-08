@@ -1,10 +1,12 @@
 A_Resource_Whose_Name = me.m01.d13_gr_GR_cog
 
 meDate.text = "Τῌ ΙΓʹ ΙΑΝΟΥΑΡΙΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "Μνήμη τῶν Ἁγίων Μαρτύρων Ἑρμύλου καὶ Στρατονίκου." //full title of day
-meShortCommemoration1.text = ""
-meCom1.title = ""
-meCom2.title = ""
+meCommemoration.text = "Μνήμη τῶν Ἁγίων Μαρτύρων Ἑρμύλου καὶ Στρατονίκου" //full title of day
+meCommemoration2.text = "Μνήμη τῶν ἐν Σινᾷ καί Ραϊθὼ ἀναιρεθέντων Ἁγίων Ἀββάδων" // full title of day
+meShortCommemoration1.text = "Μνήμη τῶν Ἁγίων Μαρτύρων Ἑρμύλου καὶ Στρατονίκου"
+meShortCommemoration2.text = "Μνήμη τῶν ἐν Σινᾷ καί Ραϊθὼ ἀναιρεθέντων Ἁγίων Ἀββάδων"
+meCom1.title = "Τῶν Ἁγ. Μαρτύρων."
+meCom2.title = "Τῶν Ἁγ. Ἀββάδων."
 meInsert1 = "καὶ τῶν Ἁγίων Μαρτύρων Ἑρμύλου καὶ Στρατονίκου, " //for use in petitions and dismissal
 meInsert2 = "ὧν καὶ τὴν μνήμην ἐπιτελοῦμεν· " //for use in petitions and dismissal
 meNote.text = ""
@@ -53,11 +55,11 @@ meVE.SticBoth.text = me.m01.d06_gr_GR_cog.meVE.LityBoth.text
 
 meVE.Aposticha1.mode = misc_gr_GR_cog.Mode2
 meVE.Aposticha1.melody = he.a.m2_gr_GR_cog.OikosTouEfratha.name
-meVE.Aposticha1.text = "Ὤφθη τὸ Πατρικόν, ἀπαύγασμα τῆς δόξῃς, ἐν Ἰορδάνου ῥείθροις, βαπτίσματι καθαῖρον, τὸν ῥύπον τῶν ψυχῶν ἡμῶν"
+meVE.Aposticha1.text = me.m01.d03_gr_GR_cog.meMA.AposGlory.text
 
 meVE.Aposticha2.mode = misc_gr_GR_cog.Mode2
 meVE.Aposticha2.melody = he.a.m2_gr_GR_cog.OikosTouEfratha.name
-meVE.Aposticha2.text = "Δέχου δουλοπρεπῶς, Προφῆτα Ἰωάννη, τὸν Λυτρωτὴν τοῦ κόσμου, καὶ βάπτισον τὸν Κτίστην, βροτῶν εἰς ἀναγέννησιν."
+meVE.Aposticha2.text = me.m01.d04_gr_GR_cog.meMA.Aposticha2.text
 
 meVE.Aposticha3.mode = misc_gr_GR_cog.Mode2
 meVE.Aposticha3.melody = he.a.m2_gr_GR_cog.OikosTouEfratha.name

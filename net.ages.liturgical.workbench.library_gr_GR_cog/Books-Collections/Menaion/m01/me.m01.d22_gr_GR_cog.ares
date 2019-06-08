@@ -3,8 +3,8 @@ A_Resource_Whose_Name = me.m01.d22_gr_GR_cog
 meDate.text = "Τῌ ΚΒʹ ΙΑΝΟΥΑΡΙΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
 meCommemoration.text = "Μνήμη τοῦ Ἁγίου Ἀποστόλου Τιμοθέου, καὶ τοῦ Ἁγίου Ὁσιομάρτυρος Ἀναστασίου τοῦ Πέρσου" // full title of day
 meShortCommemoration1.text = ""
-meCom1.title = ""
-meCom2.title = ""
+meCom1.title = "Τοῦ Ἁγ. Τιμοθέου."
+meCom2.title = "Τοῦ Ἁγ. Ἀναστασίου."
 meInsert1 = "καὶ τοῦ Ἁγίου Ἀποστόλου Τιμοθέου, καὶ τοῦ Ἁγίου Ὁσιομάρτυρος Ἀναστασίου τοῦ Πέρσου, " // for use in petitions and dismissal
 meInsert2 = "ὧν καὶ τὴν μνήμην ἐπιτελοῦμεν· " // for use in petitions and dismissal
 meNote.text = ""
@@ -51,7 +51,7 @@ meVE.SticTheotokion.text = "Χαῖρε Παρθένε Θεόνυμφε· χα
 
 meVE.SticStavrotheotokion.mode = misc_gr_GR_cog.Mode8
 meVE.SticStavrotheotokion.melody = he.a.m8_gr_GR_cog.OTouParadoxou.name
-meVE.SticStavrotheotokion.text = "Ὢ τοῦ παραδόξου θαύματος! ὢ μυστηρίου φρικτοῦ! ὢ φρικτῆς ἐγχειρήσεως! ἡ Παρθένος, ἔλεγεν, ἐν Σταυρῷ σε ὡς ἔβλεψεν, ἐν μέσῳ δύω λῃστῶν κρεμάμενον, ὃν ἀνωδίνως, φρικτῶς ἐκύησεν, ἔκλαιε κράζουσα· Οἴμοι τέκνον φίλτατον! πῶς σε δεινῶς, δῆμος ὁ ἀχάριστος, Σταυρῷ προσήλωσεν;"
+meVE.SticStavrotheotokion.text = oc.m8.d4_gr_GR_cog.ocVE.SticTheotokion.text
 
 meVE.Aposticha4.mode = misc_gr_GR_cog.Mode1
 meVE.Aposticha4.melody = ""

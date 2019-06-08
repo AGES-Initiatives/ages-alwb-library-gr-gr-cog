@@ -1,12 +1,12 @@
 A_Resource_Whose_Name = me.m01.d16_gr_GR_cog
 
 meDate.text = "Τῌ ΙϚʹ ΙΑΝΟΥΑΡΙΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "Ἡ προσκύνησις τῆς τιμίας Ἁλύσεως τοῦ Ἁγίου καὶ Πανευφήμου Ἀποστόλου Πέτρου." // full title of day
-meShortCommemoration1.text = ""
+meCommemoration.text = "Ἡ προσκύνησις τῆς τιμίας Ἁλύσεως τοῦ Ἁγίου καὶ Πανευφήμου Ἀποστόλου Πέτρου" // full title of day
+meShortCommemoration1.text = "Προσκύνησις τῆς τιμίας Ἁλύσεως τοῦ Ἀποστόλου Πέτρου"
 meCom1.title = ""
 meCom2.title = ""
-meInsert1 = "" // for use in petitions and dismissal
-meInsert2 = "" // for use in petitions and dismissal
+meInsert1 = "τοῦ ἁγίου, ἐνδόξου καὶ πανευφήμου Ἀποστόλου Πέτρου," // for use in petitions and dismissal
+meInsert2 = "οὗ τῆς τιμίας Ἀλύσεως τὴν προσκύνησιν ἑορτάζομεν," // for use in petitions and dismissal
 meNote.text = ""
 meLE.commemoration1 = "Ἡ Προσκύνησις τῆς Τιμίας Ἁλύσεως τοῦ Ἁγίου καί Ἐνδόξου Ἀποστόλου Πέτρου."
 meLE.commemoration2 = ""
@@ -73,8 +73,8 @@ meMA.C1Acrostic.text = "Ὁ παρὼν φέρει ἀκροστιχίδα, �
 
 meMA.C2Acrostic.text = "οὗ ἡ Ἀκροστιχίς· Πέτρον γεραίρω τὴν βάσιν τῶν δογμάτων Ἰωσήφ."
 
-meMA.C1.title = ""
-meMA.C1.verse = ""
+meMA.C1.title = titles_gr_GR_cog.KanonATouApostolou
+meMA.C1.verse = prayers_gr_GR_cog.verse_Apostle.text
 
 meMA.Ode1C11.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C11.mode = misc_gr_GR_cog.Mode4
@@ -101,8 +101,8 @@ meMA.Ode1C1T.mode = misc_gr_GR_cog.Mode4
 meMA.Ode1C1T.melody = he.h.m4_gr_GR_cog.AnoixoToStomaMou.name
 meMA.Ode1C1T.text = "Ἁγνείας τὸ πάναγνον, ὁ ῥυπαρός τε καὶ ἄναγνος, ἐγὼ ἐνδιαίτημα, μέλπειν οὐ σθένω σε, Ἀπειρόγαμε διὸ με τῇ χωνείᾳ, τοῦ Πνεύματος κάθαρον, ἵνα δοξάσω σε."
 
-meMA.C2.title = ""
-meMA.C2.verse = ""
+meMA.C2.title = titles_gr_GR_cog.KanonBTouApostolou
+meMA.C2.verse = prayers_gr_GR_cog.verse_Apostle.text
 
 meMA.Ode1C21.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C21.mode = misc_gr_GR_cog.Mode4

@@ -1,9 +1,9 @@
 A_Resource_Whose_Name = me.m01.d26_gr_GR_cog
 
 meDate.text = "Τῌ ΚϚʹ ΙΑΝΟΥΑΡΙΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "Μνήμη τοῦ Ὁσίου Πατρὸς ἡμῶν Ξενοφῶντος καὶ τῆς συνοδίας αὐτοῦ." //full title of day
-meShortCommemoration1.text = ""
-meCom1.title = ""
+meCommemoration.text = "Μνήμη τοῦ Ὁσίου Πατρὸς ἡμῶν Ξενοφῶντος καὶ τῆς συνοδίας αὐτοῦ" //full title of day
+meShortCommemoration1.text = "Μνήμη τοῦ Ὁσίου Ξενοφῶντος"
+meCom1.title = "Τοῦ Ἁγ. Ξενοφῶντος."
 meCom2.title = ""
 meInsert1 = "καὶ τοῦ Ὁσίου Πατρὸς ἡμῶν Ξενοφῶντος καὶ τῆς συνοδίας αὐτοῦ " //for use in petitions and dismissal
 meInsert2 = "ὧν καὶ τὴν μνήμην ἐπιτελοῦμεν· " //for use in petitions and dismissal
@@ -34,7 +34,7 @@ meVE.SticTheotokion.text = "Μόνη, τὸν ἀχώρητον Θεόν, ἀ
 
 meVE.SticStavrotheotokion.mode = misc_gr_GR_cog.Mode2
 meVE.SticStavrotheotokion.melody = he.a.m2_gr_GR_cog.OteEkTouXylou.name
-meVE.SticStavrotheotokion.text = "Βότρυν, τὸν παμπέπειρον Ἁγνή, ὃν ἀγεωργήτως ἐν μήτρᾳ ἐκυοφόρησας, ξύλῳ ὡς ἑώρακας τοῦτον κρεμάμενον, θρηνῳδοῦσα ὠλόλυζες, καὶ ἔκραζες. Τέκνον, γλεῦκος ἐναπόσταξον, δι' οὗ ἡ μέθη ἀρθῇ, πᾶσαν τῶν παθῶν Εὐεργέτα, δι' ἐμοῦ τῆς σὲ τετοκυίας, σοῦ τὴν εὐσπλαγχνίαν ἐνδεικνύμενος."
+meVE.SticStavrotheotokion.text = oc.m2.d4_gr_GR_cog.ocVE.SticTheotokion.text
 
 meVE.Apolytikion1.mode = misc_gr_GR_cog.Mode4
 meVE.Apolytikion1.melody = ""
@@ -42,8 +42,8 @@ meVE.Apolytikion1.text = he.ga_gr_GR_cog.OTheosTonPateronImon.text
 
 meMA.C1Acrostic.text = "οὗ ἡ Ἀκροστιχίς· Ξενοφῶντα μέλπω, σύμβιόν τε καὶ τέκνα. Θεοφάνους."
 
-meMA.C1.title = ""
-meMA.C1.verse = ""
+meMA.C1.title = titles_gr_GR_cog.KanonTouOsiou
+meMA.C1.verse = prayers_gr_GR_cog.verse_DevoutMan.text
 
 meMA.Ode1C11.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C11.mode = misc_gr_GR_cog.Mode2

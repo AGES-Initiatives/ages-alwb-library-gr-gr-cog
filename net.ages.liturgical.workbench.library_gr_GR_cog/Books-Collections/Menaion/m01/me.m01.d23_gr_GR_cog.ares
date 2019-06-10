@@ -1,11 +1,11 @@
 A_Resource_Whose_Name = me.m01.d23_gr_GR_cog
 
 meDate.text = "Τῌ ΚΓʹ ΙΑΝΟΥΑΡΙΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "Μνήμη τοῦ Ἁγίου Ἱερομάρτυρος Κλήμεντος Ἀγκύρας, καὶ τοῦ Ἁγίου Μάρτυρος Ἀγαθαγγέλου." //full title of day
-meShortCommemoration1.text = ""
-meCom1.title = ""
-meCom2.title = ""
-meInsert1 = "καὶ τοῦ Ἁγίου Ἱερομάρτυρος Κλήμεντος Ἀγκύρας," //for use in petitions and dismissal
+meCommemoration.text = "Μνήμη τοῦ Ἁγίου Ἱερομάρτυρος Κλήμεντος Ἀγκύρας, καὶ τοῦ Ἁγίου Μάρτυρος Ἀγαθαγγέλου" //full title of day
+meShortCommemoration1.text = "Μνήμη τοῦ Ἁγίου Ἱερομάρτυρος Κλήμεντος Ἀγκύρας, καὶ τοῦ Ἁγίου Μάρτυρος Ἀγαθαγγέλου"
+meCom1.title = "Τοῦ Ἁγ. Κλήμεντος."
+meCom2.title = "Τοῦ Ἁγ. Ἀγαθαγγέλου."
+meInsert1 = "καὶ τοῦ Ἁγίου ἐνδόξου Ἱερομάρτυρος Κλήμεντος Ἀγκύρας," //for use in petitions and dismissal
 meInsert2 = "οὗ καὶ τὴν μνήμην ἐπιτελοῦμεν·" //for use in petitions and dismissal
 meNote.text = ""
 meLE.commemoration1 = "Μνήμη τοῦ Ἁγίου Ἱερομάρτυρος Κλήμεντος Ἀγκύρας, καὶ τοῦ Ἁγίου Μάρτυρος Ἀγαθαγγέλου."
@@ -47,7 +47,7 @@ meVE.SticGlory.text = "Τὴν τῶν χρόνων τετραχῶς περί
 
 meVE.SticTheotokion.mode = misc_gr_GR_cog.Mode8
 meVE.SticTheotokion.melody = he.a.m8_gr_GR_cog.OiMartyresSouKyrie.name
-meVE.SticTheotokion.text = "Ἐξάρπασόν με Δέσποινα, χειρὸς τοῦ δράκοντος τοῦ βροτοκτόνου, τοῦ πολεμοῦντός με ἐν ὑποκρίσει, καταπιεῖν ὁλοτελῶς· σύντριψον τὰς μύλας τούτου δέομαι, καὶ τὰ μηχανήματα διάλυσον, ὅπως ῥυσθεὶς τῶν τούτου ὀνύχων, μεγαλύνω τὴν δυναστείαν σου."
+meVE.SticTheotokion.text = me.m01.d21_gr_GR_cog.meVE.AposTheotokion.text
 
 meVE.SticStavrotheotokion.mode = misc_gr_GR_cog.Mode8
 meVE.SticStavrotheotokion.melody = he.a.m8_gr_GR_cog.OiMartyresSouKyrie.name
@@ -429,8 +429,6 @@ meMA.Exaposteilarion1.text = "Ὡς Παῦλος ὁ Ἀπόστολος, τ�
 meMA.ExapTheotokion.mode = misc_gr_GR_cog.Mode2
 meMA.ExapTheotokion.melody = he.a.m2_gr_GR_cog.GynaikesAkoutisthite.name
 meMA.ExapTheotokion.text = "Ὡς οὖσα καθαρώτατον, δοχεῖον Θεονύμφευτε, τῆς τῶν παθῶν με ἀχλύος, δεῖξον ἐλεύθερον Κόρη, βρυγμοῦ ὀδόντων σκώληκος, καὶ τοῦ πυρὸς ἐξάρπασον, τοῦ αἰωνίου Δέσποινα, ὅπως ἐν Πίστει ὑμνῶ σε, εὐλογημένη Μαρία."
-
-meMA.MM.LaudsSunday.text = properties_gr_GR_cog.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody

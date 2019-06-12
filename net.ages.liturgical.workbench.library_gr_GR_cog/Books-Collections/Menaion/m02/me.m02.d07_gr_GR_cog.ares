@@ -3,8 +3,8 @@ A_Resource_Whose_Name = me.m02.d07_gr_GR_cog
 meDate.text = "Τῌ Ζʹ ΦΕΒΡΟΥΑΡΙΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
 meCommemoration.text = "Μνήμη τοῦ Ὁσίου Πατρὸς ἡμῶν Παρθενίου, Ἐπισκόπου Λαμψάκων, καὶ τοῦ Ὁσίου Πατρὸς ἡμῶν Λουκᾶ, τοῦ ἐν τῷ Στειρίῳ τῆς Ἑλλάδος." //full title of day
 meShortCommemoration1.text = "Μνήμη τοῦ Ἁγίου Παρθενίου, Ἐπισκόπου Λαμψάκων"
-meCom1.title = ""
-meCom2.title = ""
+meCom1.title = "Τοῦ Ἁγ. Παρθενίου."
+meCom2.title = "Τοῦ Ὁσίου Λουκᾶ."
 meInsert1 = "καὶ τοῦ Ὁσίου Πατρὸς ἡμῶν Παρθενίου, Ἐπισκόπου Λαμψάκων, καὶ τοῦ Ὁσίου Πατρὸς ἡμῶν Λουκᾶ, τοῦ ἐν τῷ Στειρίῳ τῆς Ἑλλάδος, " //for use in petitions and dismissal
 meInsert2 = "ὧν καὶ τὴν μνήμην ἐπιτελοῦμεν· " //for use in petitions and dismissal
 meNote.text = ""
@@ -93,7 +93,7 @@ meMA.Ode1C1H.mode = misc_gr_GR_cog.Mode2
 meMA.Ode1C1H.melody = misc_gr_GR_cog.Heirmos
 meMA.Ode1C1H.text = he.h.m2_gr_GR_cog.EnVythoKatestrose.text
 
-meMA.C1.title = ""
+meMA.C1.title = titles_gr_GR_cog.KanonTouAgiou
 meMA.C1.verse = prayers_gr_GR_cog.verse_SaintM.text
 
 meMA.Ode1C11.ode = misc_gr_GR_cog.Ode1
@@ -121,7 +121,7 @@ meMA.Ode1C2H.mode = misc_gr_GR_cog.Mode6
 meMA.Ode1C2H.melody = misc_gr_GR_cog.Heirmos
 meMA.Ode1C2H.text = he.h.m6_gr_GR_cog.OsEnIpeiroPezefsas.text
 
-meMA.C2.title = ""
+meMA.C2.title = titles_gr_GR_cog.KanonTouOsiou
 meMA.C2.verse = prayers_gr_GR_cog.verse_DevoutMan.text
 
 meMA.Ode1C21.ode = misc_gr_GR_cog.Ode1

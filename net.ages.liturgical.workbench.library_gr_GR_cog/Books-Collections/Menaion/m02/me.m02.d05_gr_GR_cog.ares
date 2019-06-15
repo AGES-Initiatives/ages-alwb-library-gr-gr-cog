@@ -19,15 +19,15 @@ meDismissal = dismissals_gr_GR_cog.dis00.meeting
 
 meVE.Stichera01.mode = misc_gr_GR_cog.Mode4
 meVE.Stichera01.melody = he.a.m4_gr_GR_cog.EdokasSimeiosin.name
-meVE.Stichera01.text = "Νόμον τὸν ἐν γράμματι, ἀποπληρῶν ὁ φιλάνθρωπος, τῷ ναῷ νῦν προσάγεται, καὶ τοῦτον εἰσδέχεται, Συμεὼν ὁ Πρέσβυς, γηραιαῖς ἀγκάλαις. Νῦν ἀπολύεις με βοῶν, πρὸς τὴν ἐκεῖθεν μακαριότητα· κατεῖδον γὰρ σε σήμερον, σάρκα θνητὴν περικείμενον, τῆς ζωῆς κυριεύοντα, καὶ θανάτου δεσπόζοντα."
+meVE.Stichera01.text = me.m02.d02_gr_GR_cog.meMA.Lauds1.text
 
 meVE.Stichera02.mode = misc_gr_GR_cog.Mode4
 meVE.Stichera02.melody = he.a.m4_gr_GR_cog.EdokasSimeiosin.name
-meVE.Stichera02.text = "Φῶς εἰς ἀποκάλυψιν, ἐθνῶν ἐπέφανας Κύριε, ἐπὶ κούφης καθήμενος, νεφέλης ὁ ἥλιος, τῆς δικαιοσύνης, νόμου τὸ σκιῶδες, ἀποπληρῶν καὶ τὴν ἀρχήν, καθυποφαίνων τῆς νέας Χάριτος· διὸ σε θεασάμενος, ὁ Συμεὼν ἀνεκραύγαζεν· Ἐκ φθορᾶς με ἀπόλυσον, ὅτι εἶδόν σε Δέσποτα."
+meVE.Stichera02.text = me.m02.d02_gr_GR_cog.meMA.Lauds2.text
 
 meVE.Stichera03.mode = misc_gr_GR_cog.Mode4
 meVE.Stichera03.melody = he.a.m4_gr_GR_cog.EdokasSimeiosin.name
-meVE.Stichera03.text = "Κόλπων τοῦ Γεννήτορος, μὴ χωρισθεὶς τῇ Θεότητι, σαρκωθεὶς ὡς εὐδόκησας ἀγκάλαις κρατούμενος, τῆς Ἀειπαρθένου, χερσὶν ἐπεδόθης, τοῦ θεοδόχου Συμεών, ὁ τῇ χειρί σου κρατῶν τὰ σύμπαντα· διό, Νῦν ἀπολύεις με, περιχαρῶς ἀνεκραύγαζεν, ἀγαθὲ καὶ φιλάνθρωπε, ὅτι εἶδόν σε σήμερον."
+meVE.Stichera03.text = me.m02.d02_gr_GR_cog.meMA.Lauds3.text
 
 meVE.Stichera04.mode = misc_gr_GR_cog.Mode4
 meVE.Stichera04.melody = he.a.m4_gr_GR_cog.EdokasSimeiosin.name
@@ -93,7 +93,7 @@ meMA.Ode1C1H.mode = misc_gr_GR_cog.Mode2
 meMA.Ode1C1H.melody = misc_gr_GR_cog.Heirmos
 meMA.Ode1C1H.text = he.h.m2_gr_GR_cog.DefteLaoi.text
 
-meMA.C1.title = ""
+meMA.C1.title = titles_gr_GR_cog.KanonTisAgias
 meMA.C1.verse = prayers_gr_GR_cog.verse_SaintW.text
 
 meMA.Ode1C11.ode = misc_gr_GR_cog.Ode1

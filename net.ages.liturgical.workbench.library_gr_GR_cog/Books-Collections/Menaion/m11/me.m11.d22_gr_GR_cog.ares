@@ -526,7 +526,7 @@ meMegalynarion.text = ""
 alt1.meDate.text = "Τῌ ΚΒʹ ΝΟΕΜΒΡΙΟΥ"
 alt1.meCommemoration.text = "Μνήμη τοῦ Ὁσίου καὶ Θεοφόρου Πατρὸς ἡμῶν Ἰακώβου, Ἡγουμένου τῆς Ἱερᾶς Μονῆς τοῦ Ὁσίου Δαυῒδ Εὐβοίας" // full title of day
 alt1.meShortCommemoration1.text = "Μνήμη τοῦ Ὁσίου Πατρὸς ἡμῶν Ἰακώβου τῆς Εὐβοίας"
-alt1.meCom1.title = ""
+alt1.meCom1.title = "Τοῦ Ἁγ. Ἰακώβου."
 alt1.meCom2.title = ""
 alt1.meInsert1 = "τοῦ Ὁσίου καὶ Θεοφόρου Πατρὸς ἡμῶν Ἰακώβου τῆς Εὐβοίας," // for use in petitions and dismissal
 alt1.meInsert2 = "οὗ καὶ τὴν μνήμην ἐπιτελοῦμεν," // for use in petitions and dismissal
@@ -539,6 +539,7 @@ alt1.meHO.commemorations = ""
 alt1.meHO.note1 = ""
 alt1.meHO.note2 = ""
 alt1.meDismissal = ""
+alt1.mePoet = poets_gr_GR_cog.IoilEdessis
 
 alt1.meSV.Stichera1.mode = misc_gr_GR_cog.Mode1
 alt1.meSV.Stichera1.melody = he.a.m1_gr_GR_cog.TonOuranionTagmaton.name
@@ -1094,4 +1095,26 @@ alt1.meLI.Kontakion1.text = alt1.meMA.Kontakion1.text
 
 alt1.meMegalynarion.text = "Χαίροις τῆς Εὐβοίας ὁ στολισμός, καὶ ποιμὴν τῆς Μάνδρας, τοῦ ὁσίου πατρὸς Δαυΐδ. Χαίροις ὀρθοδόξων, ὁ βοηθὸς ἐν πᾶσι, Ἰάκωβε παμμάκαρ, ἡμῶν τὸ καύχημα."
 
+alt1.meSV.publication.stichera.text = "Εἰς τὸ \"Κύριε ἐκέκραξα\" ἱστῶμεν Στίχους δʹ καὶ ψάλλομεν τὰ ἑξῆς Προσόμοια."
+alt1.meSV.publication.aposticha.text = "Εἰς τὸν Στίχον, Στιχηρὰ Προσόμοια."
+alt1.meVE.publication.introduction.text = "Μετὰ τὸν Προοιμιακὸν τὸ \"Μακάριος ἀνήρ.\""
+alt1.meVE.publication.stichera.text = "Εἰς δὲ τὸ \"Κύριε ἐκέκραξα\" ἱστῶμεν Στίχους Ϛʹ, καὶ ψάλλομεν τὰ ἑξῆς Προσόμοια."
+alt1.meVE.publication.middle1.text = "Εἴσοδος, τὸ \"Φῶς ἱλαρόν,\" τὸ Προκείμενον τῆς ἡμέρας καὶ τὰ Ἀναγνώσματα."
+alt1.meVE.publication.lity.text = "Εἰς τὴν Λιτήν, Ἰδιόμελα."
+alt1.meVE.publication.aposticha.text = "Εἰς τὸν Στίχον."
+alt1.meVE.publication.symeon.text = "Νῦν ἀπολύεις, τὸ Τρσάγιον καὶ τὸ Ἀπολυτίκιον."
+alt1.meVE.publication.apolytikion3.text = "Ἀπολυτίκιον ψαλλόμενον πρωτίστως ἐν τῇ Ἱερᾷ Μονῇ τοῦ Ὁσίου Δαυΐδ."
+alt1.meMA.publication.kathisma1.text = "Μετὰ τὴν αʹ Στιχολογίαν, Κάθισμα."
+alt1.meMA.publication.kathisma2.text = "Μετὰ τὴν βʹ Στιχολογίαν, Κάθισμα."
+alt1.meMA.publication.polyeleos.text = "Μετὰ τὸν Πολυέλεον, Κάθισμα."
+alt1.meMA.publication.antiphon.text = "Οἱ Ἀναβαθμοί, τὸ αʹ Ἀντίφωνον τοῦ δʹ Ἤχου."
+alt1.meMA.publication.gospel.text = "Πᾶσα πνοή. Εὐαγγέλιον, ζήτει τοῦ Ἁγίου Σάββα, τῇ Εʹ Δεκεμβρίου. Ὁ Νʹ Ψαλμός, καὶ τὰ ἑξῆς·"
+alt1.meMA.publication.gospel_1.text = "Πᾶσα πνοή."
+alt1.meMA.publication.gospel_2.text = "Εὐαγγέλιον, ζήτει τοῦ Ἁγίου Σάββα, τῇ Εʹ Δεκεμβρίου."
+alt1.meMA.publication.gospel_3.text = "Ὁ Νʹ Ψαλμός."
+alt1.meMA.publication.canons.text = "Εἶτα ὁ αʹ Κανὼν τῆς Ἑορτῆς εἰς Ϛʹ καὶ οἱ δύο Κανόνες τοῦ Ἁγίου εἰς ηʹ."
+alt1.meMA.publication.lauds.text = "Εἰς τοὺς Αἴνους, ἱστῶμεν στίχους δʹ καὶ ψάλλομεν τὰ ἑξῆς Προσόμοια."
+alt1.meMA.publication.doxology.text = "Δοξολογία μεγάλη καὶ Ἀπόλυσις."
+alt1.meLI.publication.typika.text = "Τὰ Τυπικά. Οἱ Μακαρισμοί. Καὶ ἐκ τοῦ Κανόνος τοῦ Ἁγίου ἡ γʹ καὶ ἡ Ϛʹ ᾡδή."
+alt1.meLI.publication.bible.text = "Ἀπόστολος καὶ Εὐαγγέλιον 5ης Δεκεμβρίου (Ὁσίου Σάββα)"
 

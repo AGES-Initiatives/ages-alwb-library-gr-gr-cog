@@ -1,8 +1,8 @@
 A_Resource_Whose_Name = me.m08.d21_gr_GR_cog
 
 meDate.text = "Τῌ ΚΑʹ ΑΥΓΟΥΣΤΟΥ"
-meCommemoration.text = "Μνήμη τοῦ Ἁγίου Ἀποστόλου Θαδδαίου καὶ τῆς Ἁγίας Μάρτυρος Βάσσης." //full title of day
-meShortCommemoration1.text = ""
+meCommemoration.text = "Μνήμη τοῦ Ἁγίου Ἀποστόλου Θαδδαίου καὶ τῆς Ἁγίας Μάρτυρος Βάσσης" //full title of day
+meShortCommemoration1.text = "Μνήμη τοῦ Ἁγίου Ἀποστόλου Θαδδαίου καὶ τῆς Ἁγίας Μάρτυρος Βάσσης"
 meCom1.title = ""
 meCom2.title = ""
 meInsert1 = "καὶ τοῦ Ἁγίου Ἀποστόλου Θαδδαίου καὶ τῆς Ἁγίας Μάρτυρος Βάσσης, " //for use in petitions and dismissal
@@ -42,6 +42,7 @@ meVE.Stichera06.text = "Ὄρνις ὡς εὐκέλαδος, ἐπὶ τὸ �
 
 meVE.SticGlory.mode = misc_gr_GR_cog.Mode6
 meVE.SticGlory.melody = me.m08.d16_gr_GR_cog.meVE.SticGlory.melody
+meVE.SticGlory.text = me.m08.d16_gr_GR_cog.meVE.SticGlory.text
 
 meVE.Aposticha1.mode = misc_gr_GR_cog.Mode2
 meVE.Aposticha1.melody = he.a.m2_gr_GR_cog.OikosTouEfratha.name
@@ -57,6 +58,7 @@ meVE.Aposticha3.text = me.m08.d17_gr_GR_cog.meVE.Aposticha3.text
 
 meVE.AposGlory.mode = misc_gr_GR_cog.Mode2
 meVE.AposGlory.melody = me.m08.d15_gr_GR_cog.meVE.Lity3.melody
+meVE.AposGlory.text = me.m08.d15_gr_GR_cog.meVE.Lity3.text
 
 meVE.Apolytikion1.poet = poets_gr_GR_cog.Gerasimou
 meVE.Apolytikion1.mode = misc_gr_GR_cog.Mode4
@@ -80,8 +82,8 @@ meMA.C1Acrostic.text = "οὗ ἡ Ἀκροστιχίς· Θαδδαῖον ὑ
 
 meMA.C2Acrostic.text = "φέρων Ἀκροστιχίδα· Τοὺς σοὺς ἀγῶνας, Βάσσα, τιμῶ προφρόνως. Ἰωσήφ."
 
-meMA.C1.title = ""
-meMA.C1.verse = ""
+meMA.C1.title = titles_gr_GR_cog.KanonTouApostolou
+meMA.C1.verse = prayers_gr_GR_cog.verse_Apostle.text
 
 meMA.Ode1C11.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C11.mode = misc_gr_GR_cog.Mode8
@@ -103,8 +105,8 @@ meMA.Ode1C1T.mode = misc_gr_GR_cog.Mode8
 meMA.Ode1C1T.melody = he.h.m8_gr_GR_cog.AsomenToKyrio.name
 meMA.Ode1C1T.text = "Δέσποινα τῶν ἁπάντων, ὤφθης τῶν κτισμάτων, τὸν δεσπόζοντα, ἀποῤῥήτως τεκοῦσα, Θεοτόκε Παρθένε πανύμνητε."
 
-meMA.C2.title = ""
-meMA.C2.verse = ""
+meMA.C2.title = titles_gr_GR_cog.KanonTisMartyros
+meMA.C2.verse = prayers_gr_GR_cog.verse_SaintW.text
 
 meMA.Ode1C21.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C21.mode = misc_gr_GR_cog.Mode8

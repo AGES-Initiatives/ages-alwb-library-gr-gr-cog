@@ -1,8 +1,8 @@
 A_Resource_Whose_Name = me.m04.d30_gr_GR_cog
 
 meDate.text = "Τῌ Λʹ ΑΠΡΙΛΙΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "Μνήμη τοῦ Ἁγίου Ἀποστόλου Ἰακώβου, Ἀδελφοῦ Ἰωάννου τοῦ Θεολόγου." // full title of day
-meShortCommemoration1.text = ""
+meCommemoration.text = "Μνήμη τοῦ Ἁγίου Ἀποστόλου Ἰακώβου, Ἀδελφοῦ Ἰωάννου τοῦ Θεολόγου" // full title of day
+meShortCommemoration1.text = "Μνήμη τοῦ Ἁγίου Ἀποστόλου Ἰακώβου, Ἀδελφοῦ Ἰωάννου τοῦ Θεολόγου"
 meCom1.title = ""
 meCom2.title = ""
 meInsert1 = "καὶ τοῦ ἁγίου ἐνδόξου καὶ πανευφήμου Ἀποστόλου Ἰακώβου, ἀδελφοῦ Ἰωάννου τοῦ Θεολόγου," // for use in petitions and dismissal
@@ -47,8 +47,8 @@ meVE.Apolytikion1.text = "Γόνος ἅγιος, βροντῆς ὑπάρχ�
 meMA.C1Poet = poets_gr_GR_cog.Theofanous
 meMA.C1Acrostic.text = "οὗ ἡ Ἀκροστιχίς· Τὸν Βροντῆς, Ἰάκωβον ἔμφρονα παῖδα γεραίρω."
 
-meMA.C1.title = ""
-meMA.C1.verse = ""
+meMA.C1.title = titles_gr_GR_cog.KanonTouApostolou
+meMA.C1.verse = prayers_gr_GR_cog.verse_Apostle.text
 
 meMA.Ode1C11.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C11.mode = misc_gr_GR_cog.Mode8

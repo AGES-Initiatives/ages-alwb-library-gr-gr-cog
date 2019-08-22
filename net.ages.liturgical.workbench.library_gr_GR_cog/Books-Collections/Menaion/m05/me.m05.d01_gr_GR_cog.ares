@@ -4,8 +4,8 @@ meHO.Month.text = ""
 meHO.DaysHours.text = ""
 
 meDate.text = "Τῌ Αʹ ΜΑΪΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "Μνήμη τοῦ Ἁγίου Προφήτου Ἱερεμίου." //full title of day
-meShortCommemoration1.text = ""
+meCommemoration.text = "Μνήμη τοῦ Ἁγίου Προφήτου Ἱερεμίου" //full title of day
+meShortCommemoration1.text = "Μνήμη τοῦ Ἁγίου Προφήτου Ἱερεμίου"
 meCom1.title = ""
 meCom2.title = ""
 meInsert1 = "καὶ τοῦ ἁγίου ἐνδόξου Προφήτου Ἱερεμίου," //for use in petitions and dismissal
@@ -35,8 +35,8 @@ meVE.Apolytikion1.mode = misc_gr_GR_cog.Mode2
 meVE.Apolytikion1.melody = he.ga_gr_GR_cog.TouProfitouSou.name
 meVE.GeneralApolytikion1.name = "Ἱερεμίου" // name of saint for General Apolytikia
 
-meMA.C1.title = ""
-meMA.C1.verse = ""
+meMA.C1.title = titles_gr_GR_cog.KanonTouProfitou
+meMA.C1.verse = prayers_gr_GR_cog.verse_Prophet.text
 
 meMA.Ode1C11.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C11.mode = misc_gr_GR_cog.Mode8

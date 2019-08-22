@@ -1,8 +1,8 @@
 A_Resource_Whose_Name = me.m05.d04_gr_GR_cog
 
 meDate.text = "Τῌ Δʹ ΜΑΪΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "Μνήμη τῆς Ἁγίας Μάρτυρος Πελαγίας." //full title of day
-meShortCommemoration1.text = ""
+meCommemoration.text = "Μνήμη τῆς Ἁγίας Μάρτυρος Πελαγίας" //full title of day
+meShortCommemoration1.text = "Μνήμη τῆς Ἁγίας Μάρτυρος Πελαγίας"
 meCom1.title = ""
 meCom2.title = ""
 meInsert1 = "καὶ τῆς Ἁγίας Μάρτυρος Πελαγίας, " //for use in petitions and dismissal
@@ -36,8 +36,8 @@ meVE.Apolytikion1.text = "Θείας πίστεως, τῇ ἐπιγνώσει
 meMA.C1Poet = poets_gr_GR_cog.Theofanous
 meMA.C1Acrostic.text = "οὗ ἡ Ἀκροστιχίς· Πελαγία τὸν αἶνον εἰκότως πλέκω."
 
-meMA.C1.title = ""
-meMA.C1.verse = ""
+meMA.C1.title = titles_gr_GR_cog.KanonTisAgias
+meMA.C1.verse = prayers_gr_GR_cog.verse_SaintW.text
 
 meMA.Ode1C11.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C11.mode = misc_gr_GR_cog.Mode4

@@ -1,8 +1,8 @@
 A_Resource_Whose_Name = me.m05.d07_gr_GR_cog
 
 meDate.text = "Τῌ Ζʹ ΜΑΪΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "Μνήμη τοῦ ἐν Οὐρανῷ Φανέντος Σημείου τοῦ Τιμίου Σταυροῦ, Ὥρᾳ Τρίτῃ τῆς Ἡμέρας, ἐπὶ Κωνσταντίου Βασιλέως, Υἱοῦ Κωνσταντίνου τοῦ Μεγάλου." // full title of day
-meShortCommemoration1.text = ""
+meCommemoration.text = "Ἀνάμνησις τοῦ ἐν Οὐρανῷ Φανέντος Σημείου τοῦ Τιμίου Σταυροῦ, Ὥρᾳ Τρίτῃ τῆς Ἡμέρας, ἐπὶ Κωνσταντίου Βασιλέως, Υἱοῦ Κωνσταντίνου τοῦ Μεγάλου." // full title of day
+meShortCommemoration1.text = "Ἀνάμνησις τοῦ ἐν Οὐρανῷ Φανέντος Σημείου τοῦ Τιμίου Σταυροῦ"
 meCom1.title = ""
 meCom2.title = ""
 meInsert1 = "" // for use in petitions and dismissal
@@ -38,8 +38,8 @@ meVE.Apolytikion1.text = "Τοῦ Σταυροῦ σου ὁ τύπος νῦν
 
 meMA.C1Poet = poets_gr_GR_cog.IoannouMonachou
 
-meMA.C1.title = ""
-meMA.C1.verse = ""
+meMA.C1.title = titles_gr_GR_cog.KanonTouStavrou
+meMA.C1.verse = prayers_gr_GR_cog.verse_Cross.text
 
 meMA.Ode1C11.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C11.mode = misc_gr_GR_cog.Mode4

@@ -1,6 +1,6 @@
 A_Resource_Whose_Name = pe.d098_gr_GR_cog
 
-peCommemoration.text = "" //full title of day
+peCommemoration.text = "Σάββατον τῆς Δʹ Ἑβδομάδος" //full title of day
 peShortCommemoration1.text = "Σάββατον τῆς Δʹ Ἑβδομάδος"
 peInsert1 = "" //for use in petitions and dismissal
 peInsert2 = "" //for use in petitions and dismissal
@@ -103,5 +103,4 @@ peMA.Aposticha3.text = "Ἧκες ὁ πλαστουργός, ἐν τῇ Σι�
 
 peMA.AposGlory.mode = misc_gr_GR_cog.Mode4
 peMA.AposGlory.melody = misc_gr_GR_cog.Idiomelon
-peMA.AposGlory.text = "Κύριε, πρὸ τοῦ ἀχράντου σου Σταυροῦ, τῆς ἑορτῆς μεσούσης, ἐν τῷ ἱερῷ ἀνῆλθες, Ἰουδαίους παῤῥησίᾳ διδάσκων τὰ Μωσέως, καὶ ἐν νόμῳ διὰ σοῦ νομοθετηθέντα, ἐκπληττόμενοι δὲ Χριστέ, τῆς σῆς σοφίας τὸ ἄφραστον μυστήριον, τὴν κατὰ σοῦ σκευωρίαν ἐν ἑαυτοῖς φθόνῳ ἐμελέτων. Πῶς οὗτος οἶδε γράμματα, μὴ μεμαθηκώς; ἀγνοοῦντες, σὲ τὸν Σωτῆρα τῶν ψυχῶν ἡμῶν."
-
+peMA.AposGlory.text = pe.d096_gr_GR_cog.peMA.LaudsGlory.text

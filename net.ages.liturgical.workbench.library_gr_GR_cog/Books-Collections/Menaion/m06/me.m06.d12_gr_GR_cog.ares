@@ -1,8 +1,8 @@
 A_Resource_Whose_Name = me.m06.d12_gr_GR_cog
 
 meDate.text = "Τῌ ΙΒʹ ΙΟΥΝΙΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "Μνήμη τοῦ Ὁσίου Πατρὸς ἡμῶν Ὀνουφρίου." // full title of day
-meShortCommemoration1.text = ""
+meCommemoration.text = "Μνήμη τοῦ Ὁσίου Πατρὸς ἡμῶν Ὀνουφρίου" // full title of day
+meShortCommemoration1.text = "Μνήμη τοῦ Ὁσίου Πατρὸς ἡμῶν Ὀνουφρίου"
 meCom1.title = ""
 meCom2.title = ""
 meInsert1 = "καὶ τοῦ Ὁσίου Πατρὸς ἡμῶν Ὀνουφρίου, " // for use in petitions and dismissal
@@ -31,7 +31,7 @@ meVE.Stichera03.text = "Πάτερ θεόφρον Ὀνούφριε, τῆς 
 
 meVE.SticGlory.mode = misc_gr_GR_cog.Mode6
 meVE.SticGlory.melody = ""
-meVE.SticGlory.text = "Ὅσιε Πάτερ, εἰς πᾶσαν τὴν γῆν, ἐξῆλθεν ὁ φθόγγος τῶν κατορθωμάτων σου· διὸ ἐν τοῖς οὐρανοῖς, εὗρες μισθὸν τῶν καμάτων σου· τῶν δαιμόνων ὤλεσας τὰς φάλαγγας, τῶν Ἀγγέλων ἔφθασας τὰ τάγματα, ὧν τὸν βίον ἀμέμπτως ἐζήλωσας. Παῤῥησίαν ἔχων πρὸς Κύριον, ἐκτενῶς ἱκέτευε, ὑπὲρ τῶν ψυχῶν ἡμῶν."
+meVE.SticGlory.text = me.m01.d15_gr_GR_cog.meVE.AposGlory.text
 
 meVE.SticTheotokion.mode = misc_gr_GR_cog.Mode6
 meVE.SticTheotokion.melody = he.a.m6_gr_GR_cog.TriimerosAnestis.name

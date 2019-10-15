@@ -3,8 +3,9 @@ A_Resource_Whose_Name = me.m02.d25_gr_GR_cog
 meDate.text = "Τῌ ΚΕʹ ΦΕΒΡΟΥΑΡΙΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
 meCommemoration.text = "Μνήμη τοῦ ἐν Ἁγίοις Πατρὸς ἡμῶν Ταρασίου, Ἀρχιεπισκόπου Κωνσταντινουπόλεως." //full title of day
 meShortCommemoration1.text = "Μνήμη τοῦ Ἁγίου Ταρασίου Κωνσταντινουπόλεως"
-meCom1.title = "Τοῦ Ἁγ. Ταρασίου."
-meCom2.title = ""
+meShortCommemoration2.text = "Μνήμη τοῦ Ἁγίου Ταρασίου Κωνσταντινουπόλεως"
+meCom1.title = "Ἀπόδοσις τοῦ Προδρόμου."
+meCom2.title = "Τοῦ Ἁγ. Ταρασίου."
 meInsert1 = "καὶ τοῦ ἐν Ἁγίοις Πατρὸς ἡμῶν Ταρασίου, Ἀρχιεπισκόπου Κωνσταντινουπόλεως, " //for use in petitions and dismissal
 meInsert2 = "οὗ καὶ τὴν μνήμην ἐπιτελοῦμεν· " //for use in petitions and dismissal
 meNote.text = ""
@@ -47,23 +48,23 @@ meVE.SticStavrotheotokion.text = "Πόνους ὑπομείνασα πολλ�
 
 meVE.Stichera04.mode = misc_gr_GR_cog.Mode1
 meVE.Stichera04.melody = he.a.m1_gr_GR_cog.TonOuranionTagmaton.name
-meVE.Stichera04.text = "Ὑπὲρ τὸ ζῆσαι Παμμάκαρ θανεῖν προθέμενος, τὴν τοῦ Χριστοῦ εἰκόνα, προσκυνεῖσθαι προστάττεις, καὶ πάντων τῶν Ἁγίων· ὅθεν λοιπὸν αἱρετιζόντων τὰ στόματα, Δαυϊτικῶς ἐνεφράγη, κατὰ Θεοῦ, τῶν λαλούντων ἀδικίαν πολλήν."
+meVE.Stichera04.text = "Ὑπὲρ τὸ ζῆσαι παμμάκαρ, θανεῖν προθέμενος, τὴν τοῦ Χριστοῦ εἰκόνα, προσκυνεῖσθαι προστάττεις, καὶ πάντων τῶν Ἁγίων· ὅθεν λοιπόν, αἱρετιζόντων τὰ στόματα, Δαυϊτικῶς ἐνεφράγη κατὰ Θεοῦ, τῶν λαλούντων ἀδικίαν πολλήν."
 
 meVE.Stichera05.mode = misc_gr_GR_cog.Mode1
 meVE.Stichera05.melody = he.a.m1_gr_GR_cog.TonOuranionTagmaton.name
-meVE.Stichera05.text = "Φιλαργυρίας τὴν νόσον ἀποσεισάμενος, τὸν θησαυρὸν τῆς ἄνω, βασιλείας ἐκτήσω, Ὅσιε θεόφρον· ὅθεν πιστῶς, ἡ σορὸς τῶν λειψάνων σου, τοῖς προσιοῦσι παρέχει θεοπρεπῶς, τὰ ἰάματα ἀοίδιμε."
+meVE.Stichera05.text = "Φιλαργυρίας τὴν νόσον, ἀποσεισάμενος, τὸν θησαυρὸν τῆς ἄνω, βασιλείας ἐκτήσω, Ὅσιε θεόφρον· ὅθεν πιστῶς, ἡ σορὸς τῶν λειψάνων σου, τοῖς προσιοῦσι παρέχει θεοπρεπῶς, τὰ ἰάματα ἀοίδιμε."
 
 meVE.Stichera06.mode = misc_gr_GR_cog.Mode1
 meVE.Stichera06.melody = he.a.m1_gr_GR_cog.TonOuranionTagmaton.name
-meVE.Stichera06.text = "Ταῖς ἐντολαῖς τοῦ Κυρίου πολιτευόμενος, ὑπογραμμὸς ἐδείχθης, τῷ ποιμνίῳ σου Πάτερ, Ταράσιε τρισμάκαρ· ὅθεν καὶ νῦν , ταῖς διδαχαῖς σου φρουρούμεθα, ἀλλὰ μὴ παύσῃ πρεσβεύων ὑπὲρ ἡμῶν, τῶν τὴν μνήμην σου τελούντων φαιδρῶς."
+meVE.Stichera06.text = "Ταῖς ἐντολαῖς τοῦ Κυρίου, πολιτευόμενος, ὑπογραμμὸς ἐδείχθης, τῷ ποιμνίῳ σου Πάτερ, Ταράσιε τρισμάκαρ· ὅθεν καὶ νῦν, ταῖς διδαχαῖς σου φρουρούμεθα· ἀλλὰ μὴ παύσῃ πρεσβεύων ὑπὲρ ἡμῶν, τῶν τὴν μνήμην σου τελούντων φαιδρῶς."
 
 meVE.Stichera07.mode = misc_gr_GR_cog.Mode1
 meVE.Stichera07.melody = he.a.m1_gr_GR_cog.TonOuranionTagmaton.name
-meVE.Stichera07.text = "Τὸν ἀληθῆ Ἱεράρχην, καὶ λειτουργὸν τοῦ Χριστοῦ, ὡς παρ' αὐτοῦ λαβόντα, τὴν τοῦ Πνεύματος χάριν, τιμήσωμεν ἀξίως Ταράσιον νῦν , τὸν σοφὸν ἀρχιποίμενα· ὡς παῤῥησίαν γὰρ ἔχων πρὸς τὸν Θεόν, ἱκετεύει τοῦ σωθῆναι ἡμᾶς."
+meVE.Stichera07.text = "Τὸν ἀληθῆ Ἱεράρχην, καὶ λειτουργὸν τοῦ Χριστοῦ, ὡς παρ' αὐτοῦ λαβόντα, τὴν τοῦ Πνεύματος χάριν, τιμήσωμεν ἀξίως Ταράσιον νῦν, τὸν σοφὸν ἀρχιποίμενα· ὡς παῤῥησίαν γὰρ ἔχων πρὸς τὸν Θεόν, ἱκετεύει τοῦ σωθῆναι ἡμᾶς."
 
 meVE.SticTheotokion2.mode = misc_gr_GR_cog.Mode1
 meVE.SticTheotokion2.melody = he.a.m1_gr_GR_cog.TonOuranionTagmaton.name
-meVE.SticTheotokion2.text = "Ἐπὶ τὴν σὴν εὐσπλαγχνίαν, προστρέχω πάντοτε, ἐπὶ τοὺς σοὺς προσφεύγω, οἰκτιρμοὺς καθ' ἑκάστην, ὑμνῶν καὶ εὐλογῶν σε, καὶ τὴν πολλήν, ἀνοχὴν ἐκπληττόμενος, τοῦ σοῦ Υἱοῦ ἐπὶ πᾶσί μου τοῖς κακοῖς, ἣν ἐνδείκνυται Θεόνυμφε."
+meVE.SticTheotokion2.text = me.m02.d11_gr_GR_cog.meVE.SticTheotokion.text
 
 meVE.SticStavrotheotokion2.mode = misc_gr_GR_cog.Mode1
 meVE.SticStavrotheotokion2.melody = he.a.m1_gr_GR_cog.TonOuranionTagmaton.name
@@ -73,6 +74,8 @@ meVE.Apolytikion1.poet = poets_gr_GR_cog.Gerasimou
 meVE.Apolytikion1.mode = misc_gr_GR_cog.Mode3
 meVE.Apolytikion1.melody = he.a.m3_gr_GR_cog.TinOraiotita.name
 meVE.Apolytikion1.text = "Βίου ὀρθότητι, καλλωπιζόμενος, φωστὴρ ὑπέρλαμπρος, ὤφθης τοῦ Πνεύματος, καὶ τὴν Εἰκόνα τοῦ Χριστοῦ, Συνόδῳ ἐν τῇ Ἑβδόμῃ, προσκυνεῖν ἐκήρυξας, ὀρθοδόξως μακάριε, στῦλος καὶ ἑδραίωμα, Ἐκκλησίας γενόμενος· διὸ τοὺς σοὺς ἀγῶνας γεραίρει, Πάτερ Ἱεράρχα Ταράσιε."
+
+meMA.C1.notice = rubrical_gr_GR_cog.DifferentMenaionCanonInEnglish
 
 meMA.C1Acrostic.text = "οὗ ἡ Ἀκροστιχίς· Χαίρων γεραίρω Ταράσιον τὸν μέγαν. Ἐν δὲ τοῖς Θετοκίοις· Γεωργίου."
 

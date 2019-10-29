@@ -1,8 +1,8 @@
 A_Resource_Whose_Name = me.m06.d15_gr_GR_cog
 
 meDate.text = "Τῌ ΙΕʹ ΙΟΥΝΙΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "Μνήμη τοῦ Ἁγίου Προφήτου Ἀμώς." //full title of day
-meShortCommemoration1.text = ""
+meCommemoration.text = "Μνήμη τοῦ Ἁγίου Προφήτου Ἀμώς" //full title of day
+meShortCommemoration1.text = "Μνήμη τοῦ Ἁγίου Προφήτου Ἀμώς"
 meCom1.title = ""
 meCom2.title = ""
 meInsert1 = "καὶ τοῦ Ἁγίου Προφήτου Ἀμώς, " //for use in petitions and dismissal
@@ -44,8 +44,8 @@ meVE.Apolytikion1.text = "Προφήτην σε πιστόν, καὶ τῶν 
 
 meMA.C1Acrostic.text = "οὗ ἡ Ἀκροστιχίς· Ἀμώς σε μέλπω τὸν Προφήτην τὸν μέγαν."
 
-meMA.C1.title = ""
-meMA.C1.verse = ""
+meMA.C1.title = titles_gr_GR_cog.KanonTouProfitou
+meMA.C1.verse = prayers_gr_GR_cog.verse_Prophet.text
 
 meMA.Ode1C11.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C11.mode = misc_gr_GR_cog.Mode7
@@ -228,8 +228,6 @@ meMA.Ode9H.ode = misc_gr_GR_cog.Ode9
 meMA.Ode9H.mode = misc_gr_GR_cog.Mode7
 meMA.Ode9H.melody = misc_gr_GR_cog.Heirmos
 meMA.Ode9H.text = he.h.m7_gr_GR_cog.PanymniteTonOuranonYpsilotera.text
-
-meMA.MM.LaudsSunday.text = properties_gr_GR_cog.media.key
 
 meLI.Kontakion1.mode = ""
 meLI.Kontakion1.melody = ""

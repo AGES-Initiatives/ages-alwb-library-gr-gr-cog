@@ -1,8 +1,8 @@
 A_Resource_Whose_Name = me.m06.d27_gr_GR_cog
 
 meDate.text = "Τῌ ΚΖʹ ΙΟΥΝΙΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "Μνήμη τοῦ Ὁσίου Πατρὸς ἡμῶν Σαμψὼν τοῦ Ξενοδόχου." // full title of day
-meShortCommemoration1.text = ""
+meCommemoration.text = "Μνήμη τοῦ Ὁσίου Πατρὸς ἡμῶν Σαμψὼν τοῦ Ξενοδόχου" // full title of day
+meShortCommemoration1.text = "Μνήμη τοῦ Ὁσίου ἡμῶν Σαμψὼν τοῦ Ξενοδόχου"
 meCom1.title = ""
 meCom2.title = ""
 meInsert1 = "καὶ τοῦ Ὁσίου Πατρὸς ἡμῶν Σαμψὼν τοῦ Ξενοδόχου, " // for use in petitions and dismissal
@@ -37,14 +37,17 @@ meVE.SticStavrotheotokion.mode = misc_gr_GR_cog.Mode1
 meVE.SticStavrotheotokion.melody = he.a.m1_gr_GR_cog.PaneffimoiMartyres.name
 meVE.SticStavrotheotokion.text = "Τὸν ἴδιον ἄρνα ἡ ἀμνάς, καὶ ἄμωμος Δέσποινα, ἐν τῷ Σταυρῷ, ὡς ἑώρακεν, εἶδος οὐκ ἔχοντα, οὐδὲ κάλλος. Οἴμοι! θρηνῳδοῦσα ἔλεγε, τὸ κάλλος ποῦ σου ἔδυ γλυκύτατε; ποῦ ἡ εὐπρέπεια; ποῦ ἡ χάρις ἡ ἀστράπτουσα, τῆς μορφῆς σου, Υἱέ μου παμφίλτατε;"
 
-meVE.Apolytikion1.poet = poets_gr_GR_cog.Gerasimou
-meVE.Apolytikion1.mode = misc_gr_GR_cog.Mode4
-meVE.Apolytikion1.melody = he.a.m4_gr_GR_cog.TachyProkatalave.name
-meVE.Apolytikion1.text = "Ὁ φέρων τὴν ίμησιν, τῶν τοῦ Θεοῦ οἰκτιρμῶν, ἐνθέου χρηστότητος, ἀναβλυστάνεις κρουνούς, Σαμψὼν ἱερώτατε· σὺ γὰρ θεομιμήτῳ, ἐλλαμφθεὶς συμπαθείᾳ, ὤφθης τῶν τεφλιμμένων, καὶ πασχόντων ἀκέστως, παρέχων ἑνὶ ἑκάστῳ, ῥῶσιν καὶ ἔλεος."
+meVE.Apolytikion1.mode = misc_gr_GR_cog.Mode8
+meVE.Apolytikion1.melody = ""
+meVE.Apolytikion1.text = "Ἐν τῇ ὑπομονῇ σου ἐκτήσω τὸν μισθόν σου Πάτερ, Ὅσιε, ταῖς προσευχαῖς ἀδιαλείπτως ἐγκαρτερήσας, τοὺς πτωχοὺς ἀγαπήσας, καὶ τούτοις ἐπαρκέσας· Ἀλλὰ πρέσβευε Χριστῷ τῷ Θεῷ, Σαμψὼν θεόφρον μακάριε, σωθῆναι τὰς ψυχὰς ἡμῶν."
+
+meVE.Apolytikion2.poet = poets_gr_GR_cog.Gerasimou
+meVE.Apolytikion2.mode = misc_gr_GR_cog.Mode4
+meVE.Apolytikion2.melody = he.a.m4_gr_GR_cog.TachyProkatalave.name
+meVE.Apolytikion2.text = "Ὁ φέρων τὴν μίμησιν, τῶν τοῦ Θεοῦ οἰκτιρμῶν, ἐνθέου χρηστότητος, ἀναβλυστάνεις κρουνούς, Σαμψὼν ἱερώτατε· σὺ γὰρ θεομιμήτῳ, ἐλλαμφθεὶς συμπαθείᾳ, ὤφθης τῶν τεφλιμμένων, καὶ πασχόντων ἀκέστως, παρέχων ἑνὶ ἑκάστῳ, ῥῶσιν καὶ ἔλεος."
 
 meMA.C1Acrostic.text = "οὗ ἡ Ἀκροστιχίς· Ὑμνῶ σε Σαμψὼν πίστεως θείοις λόγοις, Ἰωσήφ."
 
-//Corrected mode to 2, not Plagal 2 as PDF has
 meMA.C1.title = ""
 meMA.C1.verse = ""
 

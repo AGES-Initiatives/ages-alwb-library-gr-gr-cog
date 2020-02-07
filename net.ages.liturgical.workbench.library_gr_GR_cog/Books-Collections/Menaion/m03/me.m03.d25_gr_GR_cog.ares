@@ -33,7 +33,7 @@ meSV.MM.Stichera123as8910.text = properties_gr_GR_cog.media.key
 
 meSV.SticGlory.mode = misc_gr_GR_cog.Mode1
 meSV.SticGlory.melody = ""
-meSV.SticGlory.text = "Τῷ ἕκτῳ Μηνί, ὁ Ἀρχιστράτηγος ἀπεστάλη πρὸς σὲ τὴν Παρθένον Ἁγνήν, μηνῦσαί σοι τὸν λόγον τῆς σωτηρίας· ἅμα δὲ καὶ καλέσαι σε· Χαῖρε Κεχαριτωμένη, ὁ Κύριος μετὰ σοῦ, τέξῃς Υἱόν, τὸν πρὸ αἰώνων ἐκ Πατρός, ὃς σώσει τὸν λαὸν αὐτοῦ, ἐκ τῶν πταισμάτων αὐτῶν."
+meSV.SticGlory.text = "Τῷ ἕκτῳ Μηνί, ὁ Ἀρχιστράτηγος ἀπεστάλη, πρὸς σὲ τὴν Παρθένον καὶ Ἁγνήν, μηνύσαι σοι τὸν λόγον τῆς σωτηρίας, ἅμα δὲ καὶ καλέσαι σε· Χαῖρε Κεχαριτωμένη, ὁ Κύριος μετὰ σοῦ· τέξῃ Υἱόν, τὸν πρὸ αἰώνων ἐκ Πατρός, καὶ σώσει τὸν λαὸν αὐτοῦ, ἐκ τῶν πταισμάτων αὐτῶν."
 
 meSV.Aposticha1.mode = misc_gr_GR_cog.Mode8
 meSV.Aposticha1.melody = he.a.m8_gr_GR_cog.OTouParadoxou.name
@@ -49,7 +49,7 @@ meSV.Aposticha3.text = "Πνεῦμα Θεοῦ τὸ πανάγιον, ἥξε
 
 meSV.AposGlory.mode = misc_gr_GR_cog.Mode4
 meSV.AposGlory.melody = ""
-meSV.AposGlory.text = meVE.Aposticha1.text
+meSV.AposGlory.text = "Τῷ ἕκτῳ μηνί, ἀπεστάλη ὁ Ἀρχάγγελος πρὸς Παρθένον ἁγνήν, καὶ χαίρειν αὐτῇ προσειπών, εὐηγγελίσατο ἐξ αὐτῆς τὸν Λυτρωτὴν προελθεῖν. Ὅθεν πιστῶς δεξαμένη τὸν ἀσπασμόν, συνέλαβέ σε τὸν προαιώνιον Θεόν, τὸν ἀφράστως εὐδοκήσαντα ἐνανθρωπῆσαι, εἰς σωτηρίαν τῶν ψυχῶν ἡμῶν."
 
 meVE.Stichera01.mode = misc_gr_GR_cog.Mode6
 meVE.Stichera01.melody = he.a.m6_gr_GR_cog.OlinApothemenoi.name
@@ -73,7 +73,7 @@ meVE.SticGlory.text = "Ἀπεστάλη ἐξ οὐρανοῦ Γαβριὴλ
 meVE.Lity1.poet = poets_gr_GR_cog.Vyzantos
 meVE.Lity1.mode = misc_gr_GR_cog.Mode1
 meVE.Lity1.melody = ""
-meVE.Lity1.text = "Τῷ ἕκτῳ μηνί, ὁ Ἀρχιστράτηγος ἀπεστάλη πρὸς σὲ τὴν Παρθένον καὶ Ἁγνήν, μηνῦσαί σοι τὸν λόγον τῆς σωτηρίας, ἅμα δὲ καὶ καλέσαι σε· Χαῖρε Κεχαριτωμένη ὁ Κύριος μετὰ σοῦ· τέξῃ Υἱόν, τὸν πρὸ αἰώνων ἐκ Πατρός, ὃς σώσει τὸν λαὸν αὐτοῦ, ἐκ τῶν πταισμάτων αὐτῶν."
+meVE.Lity1.text = meSV.SticGlory.text
 
 meVE.Lity2.poet = poets_gr_GR_cog.Anatoliou
 meVE.Lity2.mode = misc_gr_GR_cog.Mode1
@@ -87,15 +87,15 @@ meVE.Lity3.text = "Ἀπεστάλη Ἄγγελος Γαβριήλ, οὐρα
 meVE.LityGlory.poet = poets_gr_GR_cog.KosmaMonachou
 meVE.LityGlory.mode = misc_gr_GR_cog.Mode2
 meVE.LityGlory.melody = ""
-meVE.LityGlory.text = "Εὐαγγελίζεται ὁ Γαβριὴλ τῇ Κεχαριτωμένῃ σήμερον· Χαῖρε ἀνύμφευτε Κόρη καὶ ἀπειρόγαμε, μὴ καταπλαγῇς τῇ ξένῃ μου μορφῇ, μηδὲ δειλιάσῃς, Ἀρχάγγελός εἰμι, ὄφις ἐξηπάτησεν Εὔαν ποτέ, νῦν εὐαγγελίζομαί σοι τὴν χαράν, καὶ μενεῖς ἄφθορος, καὶ τέξῃ τὸν Κύριον Ἄχραντε."
+meVE.LityGlory.text = me.m03.d24_gr_GR_cog.meVE.SticGlory.text
 
 meVE.Aposticha1.mode = misc_gr_GR_cog.Mode4
 meVE.Aposticha1.melody = ""
-meVE.Aposticha1.text = "Τῷ ἕκτῳ μηνί, ἀπεστάλη ὁ Ἀρχάγγελος πρὸς Παρθένον ἁγνήν, καὶ χαίρειν αὐτῇ προσειπών, εὐηγγελίσατο ἐξ αὐτῆς τὸν Λυτρωτὴν προελθεῖν. Ὅθεν πιστῶς δεξαμένη τὸν ἀσπασμόν, συνέλαβέ σε τὸν προαιώνιον Θεόν, τὸν ἀφράστως εὐδοκήσαντα ἐνανθρωπῆσαι, εἰς σωτηρίαν τῶν ψυχῶν ἡμῶν."
+meVE.Aposticha1.text = meSV.AposGlory.text
 
 meVE.Aposticha2.mode = misc_gr_GR_cog.Mode4
 meVE.Aposticha2.melody = ""
-meVE.Aposticha2.text = "Γλῶσσαν ἣν οὐκ ἔγνω, ἤκουσεν ἡ Θεοτόκος· ἐλάλει γὰρ πρὸς αὐτὴν ὁ Ἀρχάγγελος, τοῦ Εὐαγγελισμοῦ τὰ ῥήματα· ὅθεν πιστῶς δεξαμένη τὸν ἀσπασμόν, συνέλαβέ σε τὸν προαιώνιον Θεόν. Διὸ καὶ ἡμεῖς ἀγαλλόμενοι βοῶμέν σοι· ὁ ἐξ αὐτῆς σαρκωθεὶς ἀτρέπτως Θεός, εἰρήνην τῷ κόσμῳ δώρησαι, καὶ ταῖς ψυχαῖς ἡμῶν τὸ μέγα ἔλεος."
+meVE.Aposticha2.text = me.m03.d24_gr_GR_cog.meMA.AposGlory.text
 
 meVE.Aposticha3.mode = misc_gr_GR_cog.Mode4
 meVE.Aposticha3.melody = ""
@@ -139,7 +139,7 @@ meMA.PostGospelBoth.text = ho.s03_gr_GR_cog.hoMA.PostGospelTheotokos.text
 meMA.PostGospelIdiomelon.poet = poets_gr_GR_cog.KosmaMonachou
 meMA.PostGospelIdiomelon.mode = misc_gr_GR_cog.Mode2
 meMA.PostGospelIdiomelon.melody = ""
-meMA.PostGospelIdiomelon.text = meVE.LityGlory.text
+meMA.PostGospelIdiomelon.text = me.m03.d24_gr_GR_cog.meVE.SticGlory.text
 
 meMA.C1Poet = poets_gr_GR_cog.IoannouMonachou
 meMA.C1Acrostic.text = "οὗ ἡ Ἀκροστιχίς, κατὰ Ἀλφάβητον."

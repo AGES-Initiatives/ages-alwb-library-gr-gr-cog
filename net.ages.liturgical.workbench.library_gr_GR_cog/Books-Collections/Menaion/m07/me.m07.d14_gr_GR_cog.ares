@@ -2,7 +2,7 @@ A_Resource_Whose_Name = me.m07.d14_gr_GR_cog
 
 meDate.text = "Τῌ ΙΔʹ ΙΟΥΛΙΟΥ"
 meCommemoration.text = "Μνήμη τοῦ Ἁγίου Ἀποστόλου Ἀκύλα, Ἑνὸς τῶν Ἑβδομήκοντα." // full title of day
-meShortCommemoration1.text = ""
+meShortCommemoration1.text = "Μνήμη τοῦ Ἁγίου Ἀποστόλου Ἀκύλα"
 meCom1.title = ""
 meCom2.title = ""
 meInsert1 = "καὶ τοῦ Ἁγίου Ἀποστόλου Ἀκύλα, ἑνὸς τῶν ἑβδομήκοντα, " // for use in petitions and dismissal
@@ -30,7 +30,7 @@ meVE.Stichera03.text = "Οἱ τῷ ναῷ σου τῷ θείῳ πίστε�
 
 meVE.SticTheotokion.mode = misc_gr_GR_cog.Mode1
 meVE.SticTheotokion.melody = he.a.m1_gr_GR_cog.TonOuranionTagmaton.name
-meVE.SticTheotokion.text = "Θεομακάριστε Κόρη τὰς ἱκεσίας ἡμῶν, ὡς εὐμενὴς προστάτις, τῶν πιστῶν, Θεοτόκε, προσάγουσα τῷ Κτίστῃ, τὸν ἱλασμόν, ἀνταμείβου τοῖς δούλοις σου, ὡς παντελής σωτηρία καὶ ἱλασμός, τῶν ψυχῶν ἡμῶν πανάμωμε."
+meVE.SticTheotokion.text = me.m07.d12_gr_GR_cog.meVE.SticTheotokion.text
 
 meVE.SticStavrotheotokion.mode = misc_gr_GR_cog.Mode1
 meVE.SticStavrotheotokion.melody = he.a.m1_gr_GR_cog.TonOuranionTagmaton.name

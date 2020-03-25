@@ -2,9 +2,9 @@ A_Resource_Whose_Name = me.m07.d19_gr_GR_cog
 
 meDate.text = "Τῌ ΙΘʹ ΙΟΥΛΙΟΥ"
 meCommemoration.text = "Μνήμη τῆς Ὁσίας Μακρίνης, ἀδελφῆς τοῦ Μεγάλου Βασιλείου, καὶ τοῦ Ὁσίου Πατρὸς ἡμῶν Δίου." //full title of day
-meShortCommemoration1.text = ""
-meCom1.title = ""
-meCom2.title = ""
+meShortCommemoration1.text = "Μνήμη τῆς Ἁγ. Μακρίνης καὶ τοῦ Ὁσίου Δίου."
+meCom1.title = "Τῆς Ἁγίας Μακρίνης."
+meCom2.title = "Τοῦ Ὁσίου Δίου."
 meInsert1 = "καὶ τῆς Ὁσίας Μακρίνης, ἀδελφῆς τοῦ Μεγάλου Βασιλείου, καὶ τοῦ Ὁσίου Πατρὸς ἡμῶν Δίου, " //for use in petitions and dismissal
 meInsert2 = "ὧν καὶ τὴν μνήμην ἐπιτελοῦμεν· " //for use in petitions and dismissal
 meNote.text = ""
@@ -42,7 +42,7 @@ meVE.Stichera06.text = "Τὴν τοῦ πνεύματος ἔλλαμψιν, �
 
 meVE.SticTheotokion.mode = misc_gr_GR_cog.Mode4
 meVE.SticTheotokion.melody = he.a.m4_gr_GR_cog.OsGennaionEnMartysi.name
-meVE.SticTheotokion.text = "Κατακρίσεως λύτρωσαι, Παναγία Θεόνυμφε, καὶ δεινῶν πταισμάτων με, τὸν ἀνάξιον, καὶ τοῦ θανάτου ἀπάλλαξον, εὐχαῖς σου καὶ δώρησαι, δικαιώσεως τυχεῖν, ἐν ἡμέρᾳ ἐτάσεως, ἧς ἐπέτυχον, τῶν Ἁγίων οἱ δῆμοι μετανοίᾳ, καθαρθέντα με πρὸ τέλους, καὶ τῶν δακρύων ταῖς χύσεσιν."
+meVE.SticTheotokion.text = "Κατακρίσεως λύτρωσαι, Παναγία Θεόνυμφε, καὶ δεινῶν πταισμάτων με τὸν ἀνάξιον, καὶ τοῦ θανάτου ἀπάλλαξον, εὐχαῖς σου καὶ δώρησαι, δικαιώσεως τυχεῖν, ἐν ἡμέρᾳ ἐτάσεως, ἧς ἐπέτυχον, τῶν Ἁγίων οἱ δῆμοι μετανοίᾳ, καθαρθέντα με πρὸ τέλους, καὶ τῶν δακρύων ταῖς χύσεσιν." //similar to me.m02.d15_gr_GR_cog.meVE.SticTheotokion.text
 
 meVE.SticStavrotheotokion.mode = misc_gr_GR_cog.Mode4
 meVE.SticStavrotheotokion.melody = he.a.m4_gr_GR_cog.OsGennaionEnMartysi.name

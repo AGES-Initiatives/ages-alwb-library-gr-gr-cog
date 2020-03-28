@@ -4,10 +4,10 @@ meDate.text = "Τῌ ΙΒʹ ΑΥΓΟΥΣΤΟΥ"
 meCommemoration.text = "Μνήμη τῶν Ἁγίων Μαρτύρων Φωτίου καὶ Ἀνικήτου· καὶ τοῦ Ὁσίου Πατρὸς ἡμῶν Μαξίμου τοῦ Ὁμολογητοῦ" //full title of day
 meShortCommemoration1.text = "Μνήμη τῶν Ἁγίων Μαρτύρων Φωτίου καὶ Ἀνικήτου"
 meShortCommemoration2.text = "Μνήμη τοῦ Ὁσίου Πατρὸς ἡμῶν Μαξίμου τοῦ Ὁμολογητοῦ"
-meCom1.title = ""
-meCom2.title = ""
-meInsert1 = "" //for use in petitions and dismissal
-meInsert2 = "" //for use in petitions and dismissal
+meCom1.title = "Τῶν Μαρτύρων."
+meCom2.title = "Τοῦ Ὁσίου Μαξίμου."
+meInsert1 = "καὶ τοῦ ὁσίου καὶ θεοφόρου πατρὸς ἡμῶν Μαξίμου τοῦ Ὁμολογητοῦ," //for use in petitions and dismissal
+meInsert2 = "οὗ καὶ τὴν μνήνην ἐπιτελοῦμεν," //for use in petitions and dismissal
 meNote.text = ""
 meLE.commemoration1 = "Μνήμη τῶν Ἁγίων Μαρτύρων Φωτίου καὶ Ἀνικήτου."
 meLE.commemoration2 = ""
@@ -48,7 +48,7 @@ meVE.SticGlory.text = me.m01.d21_gr_GR_cog.meVE.AposGlory.text
 
 meVE.SticBoth.mode = misc_gr_GR_cog.Mode8
 meVE.SticBoth.melody = ""
-meVE.SticBoth.text = "Τὸν γνόφον τὸν νομικόν, ἡ φωτεινὴ τῆς Μεταμορφώσεως, διεδέξατο νεφέλη, ἐν ᾗ Μωϋσῆς καὶ Ἠλίας γενόμενοι, καὶ τῆς ὑπερφώτου δόξης ἀξιωθέντες, Θεῷ ἔλεγον· Σὺ ὁ εἶ Θεὸς ἡμῶν, Βασιλεὺς τῶν αἰώνων."
+meVE.SticBoth.text = me.m08.d06_gr_GR_cog.meSV.SticGlory.text
 
 meVE.Aposticha1.mode = misc_gr_GR_cog.Mode2
 meVE.Aposticha1.melody = he.a.m2_gr_GR_cog.OikosTouEfratha.name
@@ -68,7 +68,7 @@ meVE.AposGlory.text = me.m01.d15_gr_GR_cog.meVE.AposGlory.text
 
 meVE.AposBoth.mode = misc_gr_GR_cog.Mode8
 meVE.AposBoth.melody = ""
-meVE.AposBoth.text = "Τῆς Θεότητός σου Χριστέ, ἀμυδρὰν αὐγὴν παραγυμνώσας, τοῖς συναναβᾶσί σοι ἐπὶ τοῦ ὄρους, τῆς ὑπερκοσμίου σου δόξης ἐποίησας κοινωνούς· ὅθεν ἐνθεαστικῶς ἐκραύγαζον· Καλὸν ἐστιν ἡμᾶς ὧδε εἶναι. Μεθ' ὧν καὶ ἡμεῖς, σὲ τὸν μεταμορφωθέντα Σωτῆρα Χριστόν, ἀνυμνοῦμεν εἰς τοὺς αἰῶνας."
+meVE.AposBoth.text = me.m08.d07_gr_GR_cog.meVE.AposGlory.text
 
 meVE.Apolytikion1.poet = poets_gr_GR_cog.Gerasimou
 meVE.Apolytikion1.mode = misc_gr_GR_cog.Mode3

@@ -25,9 +25,11 @@ peVE.Stichera03.mode = pe.d120_gr_GR_cog.peMA.Lauds3.mode
 peVE.Stichera03.melody = ""
 peVE.Stichera03.text = pe.d120_gr_GR_cog.peMA.Lauds3.text
 
-peVE.SticGlory.mode = pe.d120_gr_GR_cog.peMA.LaudsGlory.mode
-peVE.SticGlory.melody = pe.d120_gr_GR_cog.peMA.LaudsGlory.melody
-peVE.SticGlory.text = pe.d120_gr_GR_cog.peMA.LaudsGlory.text
+peVE.MM.Stichera123as567.text = properties_gr_GR_cog.media.key
+
+peVE.SticGlory.mode = misc_gr_GR_cog.Mode6
+peVE.SticGlory.melody = misc_gr_GR_cog.Idiomelon
+peVE.SticGlory.text = pe.d120_gr_GR_cog.peVE.Aposticha3.text
 
 pePE.Prayer1.rubric = "Καὶ ἡμῶν κλινόντων τὰ γόνατα ἐπὶ γῆς, καὶ ἀσκεπῶν ὄντων, ἀναγινώσκει ὁ Ἱερεὺς τὰς Εὐχὰς ἀπὸ τοῦ βήματος μεγαλοφώνως εἰς ἐπήκοον πάντων."
 pePE.Prayer1.title = "Εὐχὴ Αʹ"
@@ -144,6 +146,8 @@ peMA.Lauds2.text = pe.d120_gr_GR_cog.peVE.Stichera06.text
 peMA.Lauds3.mode = pe.d120_gr_GR_cog.peVE.Stichera07.mode
 peMA.Lauds3.melody = pe.d120_gr_GR_cog.peVE.Stichera07.melody
 peMA.Lauds3.text = pe.d120_gr_GR_cog.peVE.Stichera07.text
+
+peMA.MM.Lauds123as123.text = properties_gr_GR_cog.media.key
 
 peMA.LaudsGlory.mode = pe.d120_gr_GR_cog.peVE.AposGlory.mode
 peMA.LaudsGlory.melody = pe.d120_gr_GR_cog.peVE.AposGlory.melody

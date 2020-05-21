@@ -78,7 +78,7 @@ peVE.Aposticha2.text = "Κύριε, τοῦ ἁγίου Πνεύματος �
 
 peVE.Aposticha3.mode = misc_gr_GR_cog.Mode6
 peVE.Aposticha3.melody = misc_gr_GR_cog.Idiomelon
-peVE.Aposticha3.text = prayers_gr_GR_cog.VasilefOuranie.text
+peVE.Aposticha3.text = "Βασιλεῦ οὐράνιε, Παράκλητε, τὸ Πνεῦμα τῆς ἀληθείας, ὁ πανταχοῦ παρὼν καὶ τὰ πάντα πληρῶν, ὁ θησαυρὸς τῶν ἀγαθῶν καὶ ζωῆς χορηγός, ἐλθὲ καὶ σκήνωσον ἐν ἡμῖν καὶ καθάρισον ἡμᾶς ἀπὸ πάσης κηλῖδος καὶ σῷσον, Ἀγαθέ, τὰς ψυχὰς ἡμῶν."
 
 peVE.AposGlory.mode = misc_gr_GR_cog.Mode8
 peVE.AposGlory.melody = misc_gr_GR_cog.Idiomelon
@@ -112,7 +112,7 @@ peMA.PostGospelBoth.text = ho.s03_gr_GR_cog.hoMA.PostGospelTheotokos.text
 
 peMA.PostGospelIdiomelon.mode = misc_gr_GR_cog.Mode6
 peMA.PostGospelIdiomelon.melody = misc_gr_GR_cog.Idiomelon
-peMA.PostGospelIdiomelon.text = prayers_gr_GR_cog.VasilefOuranie.text
+peMA.PostGospelIdiomelon.text = peVE.Aposticha3.text
 
 peMA.C1Poet = poets_gr_GR_cog.KosmaMonachou
 peMA.C1Acrostic.text = "οὗ ἡ Ἀκροστιχίς· Πεντηκοστὴν ἑορτάζομεν."
@@ -557,9 +557,11 @@ peMA.Lauds3.mode = misc_gr_GR_cog.Mode4
 peMA.Lauds3.melody = ""
 peMA.Lauds3.text = "Τὸ Πνεῦμα τὸ ἅγιον, φῶς, καὶ ζωή, καὶ ζῶσα πηγὴ νοερά, Πνεῦμα σοφίας, Πνεῦμα συνέσεως, ἀγαθόν, εὐθές, νοερόν, ἡγεμονεῦον καθαῖρον τὰ πταίσματα, Θεὸς καὶ θεοποιοῦν, πῦρ, ἐκ πυρὸς προϊόν, λαλοῦν, ἐνεργοῦν, διαιροῦν τὰ χαρίσματα· δι' οὗ Προφῆται ἅπαντες, καὶ Θεοῦ Ἀπόστολοι, μετὰ Μαρτύρων ἐστέφθησαν. Ξένον ἄκουσμα, ξένον θέαμα, πῦρ διαιρούμενον εἰς νομὰς χαρισμάτων."
 
+peMA.MM.Lauds123as123.text = properties_gr_GR_cog.media.key
+
 peMA.LaudsGlory.mode = misc_gr_GR_cog.Mode6
 peMA.LaudsGlory.melody = ""
-peMA.LaudsGlory.text = prayers_gr_GR_cog.VasilefOuranie.text
+peMA.LaudsGlory.text = peVE.Aposticha3.text
 
 peLI.Antiphon2.text = "Σῶσον ἡμᾶς, Παράκλητε ἀγαθέ,"
 

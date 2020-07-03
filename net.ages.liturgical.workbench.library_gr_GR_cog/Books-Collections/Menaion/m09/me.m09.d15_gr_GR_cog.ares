@@ -1,8 +1,8 @@
 A_Resource_Whose_Name = me.m09.d15_gr_GR_cog
 
 meDate.text = "Τῌ ΙΕʹ ΣΕΠΤΕΜΒΡΙΟΥ"
-meCommemoration.text = "Μνήμη τοῦ Ἁγίου Μεγαλομάρτυρος Νικήτα." // full title of day
-meShortCommemoration1.text = ""
+meCommemoration.text = "Μνήμη τοῦ Ἁγίου Μεγαλομάρτυρος Νικήτα" // full title of day
+meShortCommemoration1.text = "Μνήμη τοῦ Ἁγίου Μεγαλομάρτυρος Νικήτα"
 meCom1.title = ""
 meCom2.title = ""
 meInsert1 = "καὶ τοῦ Ἁγίου Μεγαλομάρτυρος Νικήτα, " // for use in petitions and dismissal
@@ -44,6 +44,10 @@ meVE.SticGlory.poet = poets_gr_GR_cog.Theofanous
 meVE.SticGlory.mode = misc_gr_GR_cog.Mode6
 meVE.SticGlory.melody = ""
 meVE.SticGlory.text = "Φωστῆρα τῶν Μαρτύρων σε ἔγνωμεν, Νικῆτα τοῦ Χριστοῦ ἀθλητά· σὺ γὰρ τοῦ ἐπὶ γῆς ἀξιώματος, τὴν δόξαν καταλείψας, καὶ πατρικὴν ἀθεΐαν βδελυξάμενος, τοὺς θεούς αὐτῶν συνέτριψας, καὶ νικητικῶς τοὺς βαρβάρους κατῄσχυνας, ὑπὲρ Χριστοῦ τὸ μαρτύριον τῆς ὁμολογίας ἐκπληρώσας· καὶ στρατιώτης τοῦ ἐπουρανίου Θεοῦ γέγονας, ὑπὲρ ἡμῶν δυσωπῶν τὸν εὐεργέτην τοῦ παντός, τοῦ οἰκτειρῆσαι καὶ σῶσαι τὰς ψυχὰς ἡμῶν."
+
+meVE.SticBoth.mode = misc_gr_GR_cog.Mode6
+meVE.SticBoth.melody = ""
+meVE.SticBoth.text = me.m09.d14_gr_GR_cog.meMA.AdditionalIdiomelon6.text
 
 meVE.Aposticha1.mode = misc_gr_GR_cog.Mode6
 meVE.Aposticha1.melody = he.a.m6_gr_GR_cog.OlinApothemenoi.name

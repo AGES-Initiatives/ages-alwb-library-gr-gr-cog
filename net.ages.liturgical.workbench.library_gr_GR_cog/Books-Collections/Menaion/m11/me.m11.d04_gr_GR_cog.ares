@@ -3,8 +3,8 @@ A_Resource_Whose_Name = me.m11.d04_gr_GR_cog
 meDate.text = "Τῌ Δʹ ΝΟΕΜΒΡΙΟΥ"
 meCommemoration.text = "Μνήμη τοῦ Ὁσίου Πατρὸς ἡμῶν Ἰωαννικίου τοῦ Μεγάλου, καὶ τῶν Ἁγίων Ἱερομαρτύρων, Νικάνδρου, Ἐπισκόπου Μύρων, καὶ Ἑρμαίου Πρεσβυτέρου." // full title of day
 meShortCommemoration1.text = "Μνήμη τοῦ Ὁσίου Πατρὸς ἡμῶν Ἰωαννικίου τοῦ Μεγάλου"
-meCom1.title = ""
-meCom2.title = ""
+meCom1.title = "Τοῦ Ἁγ. Ἰωαννικίου."
+meCom2.title = "Τοῦ Ἁγ. Νικάνδρου."
 meInsert1 = "καὶ τοῦ Ὁσίου Πατρὸς ἡμῶν, Ἰωαννικίου τοῦ Μεγάλου," // for use in petitions and dismissal
 meInsert2 = "οὗ καὶ τὴν μνήμην ἐπιτελοῦμεν· " // for use in petitions and dismissal
 meNote.text = ""
@@ -50,7 +50,7 @@ meVE.SticTheotokion.text = "Ἄλλην, κραταιὰν καταφυγήν, 
 
 meVE.SticStavrotheotokion.mode = misc_gr_GR_cog.Mode2
 meVE.SticStavrotheotokion.melody = he.a.m2_gr_GR_cog.OteEkTouXylou.name
-meVE.SticStavrotheotokion.text = "Πόνους,ὑπομείνασα πολλούς, ἐν τῇ τοῦ Υἱοῦ καὶ Θεοῦ σου, σταυρώσει Ἄχραντε, ἔστενες δακρύουσα, καὶ ἀνακράζουσα· Οἴμοι τέκνον γλυκύτατον! ἀδίκως πῶς θνῄσκεις, θέλων ἐκλυτρώσασθαι, τοὺς ἐξ Ἀδὰμ γηγενεῖς; ὅθεν, Παναγία Παρθένε, σὲ παρακαλοῦμεν ἐν πίστει, ἵλεων ἡμῖν τοῦτον ἀπέργασαι."
+meVE.SticStavrotheotokion.text = oc.m2.d4_gr_GR_cog.ocVE.AposTheotokion.text
 
 meVE.AposGlory.mode = misc_gr_GR_cog.Mode6
 meVE.AposGlory.melody = ""

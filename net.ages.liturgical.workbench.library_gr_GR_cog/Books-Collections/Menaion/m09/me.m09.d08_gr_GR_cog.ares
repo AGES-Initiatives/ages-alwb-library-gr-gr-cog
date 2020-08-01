@@ -111,7 +111,7 @@ meVE.LityGlory.text = "Ἐν εὐσήμῳ ἡμέρᾳ ἑορτῆς ἡμ�
 meVE.Aposticha1.poet = poets_gr_GR_cog.GermanouPatriarchou
 meVE.Aposticha1.mode = misc_gr_GR_cog.Mode4
 meVE.Aposticha1.melody = misc_gr_GR_cog.Idiomelon
-meVE.Aposticha1.text = "Ἡ παγκόσμιος χαρά, ἐκ τῶν δικαίων ἀνέτειλεν ἡμῖν, ἐξ Ἰωακεὶμ καὶ τῆς Ἄννης, ἡ πανύμνητος Παρθένος· ἥτις δι' ὑπερβολὴν ἀγαθότητος, ναὸς Θεοῦ ἔμψυχος γίνεται, καὶ μόνη κατὰ ἀλήθειαν, Θεοτόκος γνωρίζεται. Αὐτῆς ταῖς ἱκεσίαις Χριστὲ ὁ Θεός, τῷ κόσμῳ τὴν εἰρήνην κατάπεμψον, καὶ ταῖς ψυχαῖς ἡμῶν τὸ μέγα ἔλεος."
+meVE.Aposticha1.text = me.m09.d07_gr_GR_cog.meVE.AposGlory.text
 
 meVE.Aposticha2.mode = misc_gr_GR_cog.Mode4
 meVE.Aposticha2.melody = misc_gr_GR_cog.Idiomelon
@@ -156,7 +156,7 @@ meMA.PostGospelBoth.text = ho.s03_gr_GR_cog.hoMA.PostGospelTheotokos.text
 meMA.PostGospelIdiomelon.poet = poets_gr_GR_cog.GermanouPatriarchou
 meMA.PostGospelIdiomelon.mode = misc_gr_GR_cog.Mode4
 meMA.PostGospelIdiomelon.melody = ""
-meMA.PostGospelIdiomelon.text = meVE.Aposticha1.text
+meMA.PostGospelIdiomelon.text = me.m09.d07_gr_GR_cog.meVE.AposGlory.text
 
 meMA.C1Poet = poets_gr_GR_cog.KyriouIoannou
 

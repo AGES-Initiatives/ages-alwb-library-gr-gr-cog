@@ -31,7 +31,7 @@ meSV.Stichera3.text = "Ὡς ἀήττητον τρόπαιον, θυρεὸν
 
 meSV.SticGlory.mode = misc_gr_GR_cog.Mode2
 meSV.SticGlory.melody = ""
-meSV.SticGlory.text = meVE.Lity6.text
+meSV.SticGlory.text = "Σύ μου σκέπη κραταιὰ ὑπάρχεις, ὁ τριμερὴς Σταυρὸς τοῦ Χριστοῦ, ἁγίασόν με τῇ δυνάμει σου, ἵνα πίστει καὶ πόθῳ προσκυνῶ καὶ δοξάζω σε."
 
 meSV.Aposticha1.mode = misc_gr_GR_cog.Mode2
 meSV.Aposticha1.melody = he.a.m2_gr_GR_cog.OikosTouEfratha.name
@@ -83,7 +83,7 @@ meVE.Lity3.text = "Προτυπῶν τὸν Σταυρόν σου Χριστ�
 meVE.Lity4.poet = poets_gr_GR_cog.Theofanous
 meVE.Lity4.mode = misc_gr_GR_cog.Mode2
 meVE.Lity4.melody = ""
-meVE.Lity4.text = "Θεῖος θησαυρὸς ἐν γῇ κρυπτόμενος, τοῦ Ζωοδότου ὁ Σταυρός, ἐν οὐρανοῖς ἐδείκνυτο Βασιλεῖ εὐσεβεῖ, νίκης κατ' ἐχθρῶν ὑπογραμμὸν δηλῶν νοερῶς, ὃν γεγηθὼς πίστει καὶ πόθῳ, θεόθεν ἀναδραμὼν πρὸς θεωρίας ὕψωσιν, σπουδῇ μεγίστῃ, ἐκ γῆς λαγόνων ἀνέφηνεν, εἰς κόσμου λύτρον, καὶ σωτηρίαν τῶν ψυχῶν ἡμῶν."
+meVE.Lity4.text = me.m09.d13_gr_GR_cog.meVE.AposBoth.text
 
 meVE.Lity5.poet = poets_gr_GR_cog.Kyprianou
 meVE.Lity5.mode = misc_gr_GR_cog.Mode2
@@ -93,7 +93,7 @@ meVE.Lity5.text = "Ἡ τῶν χειρῶν ἐναλλαγὴ τοῦ Πατρ
 meVE.Lity6.poet = poets_gr_GR_cog.LeontosDespotou
 meVE.Lity6.mode = misc_gr_GR_cog.Mode2
 meVE.Lity6.melody = ""
-meVE.Lity6.text = "Σύ μου σκέπη κραταιὰ ὑπάρχεις, ὁ τριμερὴς Σταυρὸς τοῦ Χριστοῦ, ἁγίασόν με τῇ δυνάμει σου, ἵνα πίστει καὶ πόθῳ προσκυνῶ καὶ δοξάζω σε."
+meVE.Lity6.text = me.m09.d14_gr_GR_cog.meSV.SticGlory.text
 
 meVE.Lity7.mode = misc_gr_GR_cog.Mode4
 meVE.Lity7.melody = ""
@@ -146,11 +146,11 @@ meMA.MM.Prokeimenon.text = properties_gr_GR_cog.media.key
 
 meMA.PostGospelGlory.mode = misc_gr_GR_cog.Mode2
 meMA.PostGospelGlory.melody = ""
-meMA.PostGospelGlory.text = meVE.Lity6.text
+meMA.PostGospelGlory.text = me.m09.d14_gr_GR_cog.meSV.SticGlory.text
 
 meMA.PostGospelBoth.mode = misc_gr_GR_cog.Mode2
 meMA.PostGospelBoth.melody = ""
-meMA.PostGospelBoth.text = meVE.Lity6.text
+meMA.PostGospelBoth.text = me.m09.d14_gr_GR_cog.meSV.SticGlory.text
 
 meMA.PostGospelIdiomelon.mode = misc_gr_GR_cog.Mode6
 meMA.PostGospelIdiomelon.melody = ""

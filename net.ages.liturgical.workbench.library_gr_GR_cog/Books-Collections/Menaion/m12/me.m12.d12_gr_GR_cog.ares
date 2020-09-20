@@ -58,7 +58,7 @@ meVE.AposGlory.text = "Ἱεραρχῶν τὸ θεῖον κειμήλιον,
 
 meVE.AposBoth.mode = misc_gr_GR_cog.Mode2
 meVE.AposBoth.melody = ""
-meVE.AposBoth.text = "Ἰδοὺ καιρός ἤγγικε τῆς σωτηρίας ἡμῶν· Εὐτρεπίζου Σπήλαιον, ἡ Παρθένος ἐγγίζει τοῦ τεκεῖν· Βηθλεὲμ γῆ, Ἰούδα, τέρπου καὶ ἀγάλλου, ὅτι ἐκ σοῦ ἀνατέταλκεν, ὁ Κύριος ἡμῶν. Ἀκούσατε ὄρη καὶ βουνοί, καὶ τὰ περίχωρα τῆς Ἰουδαίας, ὅτι ἔρχεται Χριστός, ἵνα σώσῃ ὃν ἔπλασεν ἄνθρωπον, ὡς φιλάνθρωπος."
+meVE.AposBoth.text = "Ἰδοὺ καιρὸς ἤγγικε τῆς σωτηρίας ἡμῶν· εὐτρεπίζου Σπήλαιον, ἡ Παρθένος ἐγγίζει τοῦ τεκεῖν· Βηθλεὲμ γῆ Ἰούδα, τέρπου καὶ ἀγάλλου, ὅτι ἐκ σοῦ ἀνατέταλκεν ὁ Κύριος ἡμῶν. Ἀκούσατε ὄρη καὶ βουνοί, καὶ τὰ περίχωρα τῆς Ἰουδαίας· ὅτι ἔρχεται Χριστός, ἵνα σώσῃ ὃν ἔπλασεν ἄνθρωπον, ὡς φιλάνθρωπος."
 
 meVE.Apolytikion1.mode = misc_gr_GR_cog.Mode1
 meVE.Apolytikion1.melody = he.a.m1_gr_GR_cog.TouLithouSfragisthentos.name
@@ -305,6 +305,8 @@ meMA.Lauds3.mode = misc_gr_GR_cog.Mode1
 meMA.Lauds3.melody = he.a.m1_gr_GR_cog.TonOuranionTagmaton.name
 meMA.Lauds3.text = "Τοῦ ἀμπελῶνος ἐργάτης διὰ τῆς πίστεως, τῶν ἐντολῶν ἐδείχθης, τοῦ Χριστοῦ θεοφόρε, διὸ τῆς Βασιλείας, τῆς ἄνω λαβών, μυστικῶς τὸ δηνάριον, ἀδιαλείπτως προσεύχου ὑπὲρ ἡμῶν, τῶν τιμώντων σε Σπυρίδων σοφέ."
 
+meMA.MM.Lauds123as678.text = properties_gr_GR_cog.media.key
+
 meMA.LaudsGlory.mode = misc_gr_GR_cog.Mode4
 meMA.LaudsGlory.melody = ""
 meMA.LaudsGlory.text = "Ὅσιε Πάτερ, Ἱεράρχα ἀοίδιμε, ἀποστολικῆς διδασκαλίας γενόμενος ἔμπλεως, καὶ τοῦ θείου Πνεύματος καταγώγιον, δι' ἐναρέτου πολιτείας ἀναδειχθείς, τῆς Ἐκκλησίας τοὺς λύκους, διὰ δογμάτων ἀπήλασας, καὶ ὀρθόδοξον πίστιν σαφῶς τρανώσας, στῦλος ἀναδείκνυσαι, καὶ εὐσεβείας πρόμαχος. Ὅθεν καὶ θαυματουργῶν ἐν τοῖς πέρασιν, ὄφιν εἰς χρυσοῦν μετέβαλες, καὶ νεκρὰν πρὸς ἐρώτησιν ἤγειρας. Ἀλλ' ὦ Πατέρων ἀξιάγαστε, καὶ Διδασκάλων συνόμιλε, τὸν Σωτῆρα πρέσβευε, τοῦ σωθῆναι τὰς ψυχάς ἡμῶν."
@@ -312,8 +314,6 @@ meMA.LaudsGlory.text = "Ὅσιε Πάτερ, Ἱεράρχα ἀοίδιμε
 meMA.LaudsTheotokion.mode = misc_gr_GR_cog.Mode4
 meMA.LaudsTheotokion.melody = ""
 meMA.LaudsTheotokion.text = oc.m4.d2_gr_GR_cog.ocMA.AposTheotokion.text
-
-meMA.MM.LaudsSunday.text = properties_gr_GR_cog.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody

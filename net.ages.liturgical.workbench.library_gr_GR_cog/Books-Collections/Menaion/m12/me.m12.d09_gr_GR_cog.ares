@@ -47,7 +47,7 @@ meVE.SticGlory.text = me.m09.d13_gr_GR_cog.meVE.SticGlory.text
 meVE.SticBoth.poet = poets_gr_GR_cog.Germanou
 meVE.SticBoth.mode = misc_gr_GR_cog.Mode1
 meVE.SticBoth.melody = ""
-meVE.SticBoth.text = "Τὸ ἀπόῤῥητον τοῖς Ἀγγέλοις, καὶ ἀνθρώποις μεγαλεῖον, καὶ ἀπ' αἰῶνος χρησμοδοτούμενον, μυστήριον παράδοξον, σήμερον ἐν τοῖς λαγόσι τῆς σώφρονος Ἄννης βρεφουργεῖται, Μαρία ἡ θεόπαις, ἑτοιμαζομένη εἰς κατοικίαν, τοῦ παμβασιλέως τῶν αἰώνων, καὶ εἰς ἀνάπλασιν τοῦ γένους ἡμῶν, ἣν ἐν καθαρῷ συνειδότι καθικετεύσωμεν, ἀναβοῶντες πρὸς αὐτήν. Πρέσβευε τῷ σῷ Υἱῷ καὶ Θεῷ ὡς προστασία ὑπάρχουσα ἡμῶν τῶν χριστιανῶν, τοῦ σωθῆναι τὰς ψυχὰς ἡμῶν."
+meVE.SticBoth.text = "Τὸ ἀπόῤῥητον τοῖς Ἀγγέλοις, καὶ ἀνθρώποις μεγαλεῖον, καὶ ἀπ' αἰῶνος χρησμοδοτούμενον μυστήριον παράδοξον, σήμερον ἐν τοῖς λαγόσι τῆς σώφρονος Ἄννης βρεφουργεῖται, Μαρία ἡ Θεόπαις, ἑτοιμαζομένη εἰς κατοικίαν, τοῦ Παμβασιλέως τῶν αἰώνων, καὶ εἰς ἀνάπλασιν τοῦ γένους ἡμῶν· ἣν ἐν καθαρῷ συνειδότι καθικετεύσωμεν, ἀναβοῶντες πρὸς αὐτήν· Πρέσβευε τῷ σῷ Υἱῷ καὶ Θεῷ ὡς προστασία ὑπάρχουσα ἡμῶν τῶν χριστιανῶν, τοῦ σωθῆναι τὰς ψυχὰς ἡμῶν."
 
 meVE.Aposticha1.mode = misc_gr_GR_cog.Mode5
 meVE.Aposticha1.melody = he.a.m5_gr_GR_cog.ChairoisAskitikon.name
@@ -654,8 +654,9 @@ meMA.LaudsGlory.text = "Ὁ ἐπὶ τῶν κόλπων τῶν πατρικ�
 
 meMA.LaudsBoth.mode = misc_gr_GR_cog.Mode2
 meMA.LaudsBoth.melody = ""
-meMA.LaudsBoth.text = "Σήμερον ἐκ ῥίζης τοῦ Δαυΐδ, βασιλικὴ Πορφυρὶς ἐκβλαστήσασα, τοῦ Ἰωακεὶμ βλαστάνειν ἀπάρχεται, τὸ ἄνθος τὸ μυστικόν, ἐν ᾧ Χριστὸς ὁ Θεὸς ἡμῶν ἐξήνθησεν, ὁ σῴζων τὰς ψυχὰς ἡμῶν."
+meMA.LaudsBoth.text = meVE.AposBoth.text
 
+meMA.MM.Lauds123456as123456.text = properties_gr_GR_cog.media.key
 meMA.MM.Lauds1234as5678.text = properties_gr_GR_cog.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode

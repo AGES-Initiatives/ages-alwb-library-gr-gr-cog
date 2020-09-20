@@ -78,7 +78,7 @@ meVE.AposGlory.text = "Ὢ τῆς στεῤῥᾶς καὶ ἀδαμαντί�
 meVE.AposBoth.poet = poets_gr_GR_cog.Kyprianou
 meVE.AposBoth.mode = misc_gr_GR_cog.Mode2
 meVE.AposBoth.melody = ""
-meVE.AposBoth.text = "Ἰδοὺ καιρὸς ἤγγικε τῆς σωτηρίας ἡμῶν· εὐτρεπίζου Σπήλαιον, ἡ Παρθένος ἐγγίζει τοῦ τεκεῖν, Βηθλεὲμ γῆ Ἰούδα, τέρπου καὶ ἀγάλλου, ὅτι ἐκ σοῦ ἀνατέταλκεν ὁ Κύριος ἡμῶν. Ἀκούσατε ὄρη καὶ βουνοί, καὶ τὰ περίχωρα τῆς Ἰουδαίας, ὅτι ἔρχεται Χριστός, ἵνα σώσῃ ὃν ἔπλασεν ἄνθρωπον, ὡς φιλάνθρωπος."
+meVE.AposBoth.text = me.m12.d12_gr_GR_cog.meVE.AposBoth.text
 
 meVE.Apolytikion1.mode = misc_gr_GR_cog.Mode4
 meVE.Apolytikion1.melody = he.a.m4_gr_GR_cog.KateplagiIosif.name
@@ -694,8 +694,6 @@ meMA.AposBoth.poet = poets_gr_GR_cog.Vyzantos
 meMA.AposBoth.mode = misc_gr_GR_cog.Mode6
 meMA.AposBoth.melody = ""
 meMA.AposBoth.text = me.m12.d06_gr_GR_cog.meVE.SticBoth.text
-
-meMA.MM.LaudsSunday.text = properties_gr_GR_cog.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody

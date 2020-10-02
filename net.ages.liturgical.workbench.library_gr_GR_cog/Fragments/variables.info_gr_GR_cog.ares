@@ -1,24 +1,40 @@
-A_Resource_Whose_Name = variables.info_gr_GR_cog 
+A_Resource_Whose_Name = variables.info_gr_GR_cog
+
+Notice1.text = "This is the text of the Divine Liturgy of St. John Chrysostom, as it is celebrated throughout most of the year. The variable parts have been omitted. It is intended to be used in conjunction with the \"Liturgy - Variable Parts\" files available each day on the AGES DCS."
+Notice2.text = "This is the text of the Divine Liturgy of St. Basil the Great, as it is celebrated on January 1 and the Sundays of Lent. The variable parts have been omitted. It is intended to be used in conjunction with the \"Liturgy - Variable Parts\" files available each day on the AGES DCS."
 
 Antiphon1.title = "Ἀντίφωνον Αʹ"
+Antiphon1.text = "(Βλέπε μεταβλητές.)"
 Antiphon1.pagenumber = ""
 
 Antiphon2.title = "Ἀντίφωνον Βʹ"
+Antiphon2.text = "(Βλέπε μεταβλητές.)"
 Antiphon2.pagenumber = ""
 
 Antiphon3.title = "Ἀντίφωνον Γʹ"
+Antiphon3.text = "(Βλέπε μεταβλητές.)"
 Antiphon3.pagenumber = ""
 
 SmallEntrance.title = "Μικρὰ Εἴσοδος"
+SmallEntrance.text = "(Βλέπε μεταβλητές.)"
 SmallEntrance.pagenumber = ""
 
 HymnsAfterSmallEntrance.title = "Ὗμνοι μετὰ τὴν Εἴσοδον"
+HymnsAfterSmallEntrance.text = "(Βλέπε μεταβλητές.)"
 
 Trisagion.title = "Τὸ Τρισάγιον"
+Trisagion.text = "(Βλέπε μεταβλητές.)"
 Trisagion.pagenumber = ""
 
-Readings.title = ""
-Readings.pagenumber = ""
+EpistleReading.title = "Ὁ Ἀποστολος."
+EpistleReading.text = "(Βλέπε μεταβλητές.)"
+EpistleReading.pagenumber = ""
+
+Alleluia.title = "Ἀλληλούϊα."
+Alleluia.text = "(Βλέπε μεταβλητές.)"
+
+GospelReading.title = "Τὸ Εὐαγγέλιον."
+GospelReading.text = "(Βλέπε μεταβλητές.)"
 
 GreatEntrance.title = ""
 GreatEntrance.pagenumber = ""
@@ -26,8 +42,9 @@ GreatEntrance.pagenumber = ""
 Creed.title = ""
 Creed.pagenumber = ""
 
-Theotokos.title = "Ὗμνον τῆς Θεοτόκου"
-Theotokos.pagenumber = ""
+TheotokosHymn.title = "Ὗμνον τῆς Θεοτόκου"
+TheotokosHymn.text = "(Βλέπε μεταβλητές.)"
+TheotokosHymn.pagenumber = ""
 
 LordsPrayer.title = ""
 LordsPrayer.pagenumber = ""
@@ -37,6 +54,7 @@ CommunionPrayers.pagenumber = ""
 CommunionPrayers.rubric = ""
 
 CommunionHymn.title = "Τὸ Κοινωνικόν"
+CommunionHymn.text = "(Βλέπε μεταβλητές.)"
 CommunionHymn.pagenumber = ""
 
 HolyCommunion.title = ""
@@ -45,7 +63,9 @@ HolyCommunion.rubric = ""
 Thanksgiving.rubric = ""
 
 AfterCommunion.title = "Μετὰ τὴν Κοινωνίαν"
+AfterCommunion.text = "(Βλέπε μεταβλητές.)"
 AfterCommunion.pagenumber = ""
 
-Dismissal.title = ""
+Dismissal.title = "Ἡ Ἀπόλυσις"
+Dismissal.text = "(Βλέπε μεταβλητές.)"
 Dismissal.pagenumber = ""

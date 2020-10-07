@@ -3,7 +3,7 @@ A_Resource_Whose_Name = me.m02.d25_gr_GR_cog
 meDate.text = "Τῌ ΚΕʹ ΦΕΒΡΟΥΑΡΙΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
 meCommemoration.text = "Μνήμη τοῦ ἐν Ἁγίοις Πατρὸς ἡμῶν Ταρασίου, Ἀρχιεπισκόπου Κωνσταντινουπόλεως." //full title of day
 meShortCommemoration1.text = "Μνήμη τοῦ Ἁγίου Ταρασίου Κωνσταντινουπόλεως"
-meShortCommemoration2.text = "Μνήμη τοῦ Ἁγίου Ταρασίου Κωνσταντινουπόλεως"
+meShortCommemoration2.text = "Ἀπόδοσις τῆς Ἑορτῆς τοῦ Προδρόμου"
 meCom1.title = "Τοῦ Ἁγ. Ταρασίου."
 meCom2.title = "Ἀπόδοσις τοῦ Προδρόμου."
 meInsert1 = "καὶ τοῦ ἐν Ἁγίοις Πατρὸς ἡμῶν Ταρασίου, Ἀρχιεπισκόπου Κωνσταντινουπόλεως, " //for use in petitions and dismissal
@@ -299,6 +299,8 @@ meMA.Ode9C1T.ode = misc_gr_GR_cog.Ode9
 meMA.Ode9C1T.mode = misc_gr_GR_cog.Mode4
 meMA.Ode9C1T.melody = he.h.m4_gr_GR_cog.ApasGigenis.name
 meMA.Ode9C1T.text = "Νέφη τῶν παθῶν, Ἁγνὴ καὶ τῶν θλίψεων διασκεδάσασα, αἴγλῃ εὐφροσύνης σου, καὶ θυμηδίας ἡμᾶς κατάλαμψον, καὶ τῆς εἰρήνης αἴτησαι, τὸν φωτοδότην Χριστόν, ἐναυγάσαι, πάντας τοὺς ὑμνοῦντάς σε, καὶ τῇ θείᾳ σου σκέπῃ περίσῳζε."
+
+meMA.Ode9C1.notice = rubrical_gr_GR_cog.DifferentMenaionOde9InEnglish
 
 meMA.Exaposteilarion1.mode = misc_gr_GR_cog.Mode2
 meMA.Exaposteilarion1.melody = he.a.m2_gr_GR_cog.ToisMathitaisSynelthomen.name

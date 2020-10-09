@@ -3,7 +3,7 @@ A_Resource_Whose_Name = me.m03.d10_gr_GR_cog
 meDate.text = "Τῌ Ιʹ ΜΑΡΤΙΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
 meCommemoration.text = "Μνήμη τοῦ Ἁγίου Μάρτυρος Κοδράτου τοῦ ἐν Κορίνθῳ, καὶ τῶν σὺν αὐτῷ" //full title of day
 meShortCommemoration1.text = "Μνήμη τοῦ Ἁγίου Μάρτυρος Κοδράτου"
-meCom1.title = ""
+meCom1.title = "Τοῦ Ἁγίου."
 meCom2.title = ""
 meInsert1 = "καὶ τοῦ Ἁγίου Μάρτυρος Κοδράτου τοῦ ἐν Κορίνθῳ, καὶ τῶν σὺν αὐτῷ, " //for use in petitions and dismissal
 meInsert2 = "" //for use in petitions and dismissal
@@ -269,6 +269,8 @@ meMA.Ode9C1T.ode = misc_gr_GR_cog.Ode9
 meMA.Ode9C1T.mode = misc_gr_GR_cog.Mode4
 meMA.Ode9C1T.melody = he.h.m4_gr_GR_cog.EvaMenToTisParakois.name
 meMA.Ode9C1T.text = "Φανεῖσα τοῦ πάντων Ποιητοῦ λοχεύτρια, ὑπὲρ πάντα νοῦν πανάμωμε, τῶν οὐρανῶν ὑψηλοτέρα ἐδείχθης καὶ τῶν ὅλων δεσπόζουσα Παρθένε Θεοτόκε πανύμνητε· ὅθεν σε πάντες μεγαλύνομεν."
+
+meMA.Ode9C1.notice = rubrical_gr_GR_cog.DifferentMenaionOde9InEnglish
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody

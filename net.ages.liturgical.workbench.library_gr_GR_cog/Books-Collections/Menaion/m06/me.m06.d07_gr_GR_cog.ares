@@ -1,8 +1,8 @@
 A_Resource_Whose_Name = me.m06.d07_gr_GR_cog
 
 meDate.text = "Τῌ Ζʹ ΙΟΥΝΙΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "Μνήμη τοῦ Ἁγίου Ἱερομάρτυρος Θεοδότου Ἀγκύρας." //full title of day
-meShortCommemoration1.text = ""
+meCommemoration.text = "Μνήμη τοῦ Ἁγίου Ἱερομάρτυρος Θεοδότου Ἀγκύρας" //full title of day
+meShortCommemoration1.text = "Μνήμη τοῦ Ἁγίου Ἱερομάρτυρος Θεοδότου Ἀγκύρας"
 meCom1.title = ""
 meCom2.title = ""
 meInsert1 = "καὶ τοῦ Ἁγίου Ἱερομάρτυρος Θεοδότου Ἀγκύρας, " //for use in petitions and dismissal
@@ -237,7 +237,7 @@ meMA.Ode9C1T.text = "Φωνῇ Ἀγγέλου τέτοκας, τὸν ἄνα
 meMA.Ode9H.ode = misc_gr_GR_cog.Ode9
 meMA.Ode9H.mode = misc_gr_GR_cog.Mode6
 meMA.Ode9H.melody = misc_gr_GR_cog.Heirmos
-meMA.Ode9H.text = he.h.m2_gr_GR_cog.AporeiPasaGlossa.name
+meMA.Ode9H.text = he.h.m2_gr_GR_cog.AporeiPasaGlossa.text
 
 meLI.Kontakion1.mode = ""
 meLI.Kontakion1.melody = ""

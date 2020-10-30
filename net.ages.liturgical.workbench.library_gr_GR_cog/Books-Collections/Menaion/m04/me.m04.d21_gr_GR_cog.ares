@@ -41,6 +41,8 @@ meVE.Apolytikion1.mode = misc_gr_GR_cog.Mode4
 meVE.Apolytikion1.melody = he.a.m4_gr_GR_cog.OYpsotheisEnToStavro.name
 meVE.Apolytikion1.text = "Ὡς Ἱεράρχης καὶ σοφὸς θεηγόρος, τύπος ἐγένου πρὸς ἀθλήσεως πόνους, Πάτερ Ἰανουάριε τοῖς περὶ σεαυτόν. Σῶσος γὰρ καὶ Πρόκουλος, Δισιδέριος Φαῦστος, καὶ σὺν Ἀκουτίωνι, ὁ Εὐτύχιος ἅμα, σὺν σοὶ ἀθλοῦσι μάκαρ εὐσεβῶς· μεθ' ὧν δυσώπει, ὑπὲρ τῶν ψυχῶν ἡμῶν."
 
+meMA.C1.notice = rubrical_gr_GR_cog.DifferentMenaionCanonInEnglish
+
 meMA.C1Acrostic.text = "οὗ ἡ Ἀκροστιχίς· Σύστημα τερπνὸν Μαρτύρων ἐπαινέσω. Ὁ Ἰωσήφ."
 
 meMA.Ode1C1H.ode = misc_gr_GR_cog.Ode1
@@ -48,8 +50,8 @@ meMA.Ode1C1H.mode = misc_gr_GR_cog.Mode4
 meMA.Ode1C1H.melody = misc_gr_GR_cog.Heirmos
 meMA.Ode1C1H.text = he.h.m4_gr_GR_cog.TristatasKrataious.text
 
-meMA.C1.title = ""
-meMA.C1.verse = ""
+meMA.C1.title = titles_gr_GR_cog.KanonTonMartyron
+meMA.C1.verse = prayers_gr_GR_cog.verse_SaintsM.text
 
 meMA.Ode1C11.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C11.mode = misc_gr_GR_cog.Mode4
@@ -282,6 +284,8 @@ meMA.Ode9C1T.ode = misc_gr_GR_cog.Ode9
 meMA.Ode9C1T.mode = misc_gr_GR_cog.Mode4
 meMA.Ode9C1T.melody = he.h.m4_gr_GR_cog.EvaMenToTisParakois.name
 meMA.Ode9C1T.text = "Φωτὸς τοῦ ἐν σοὶ μαρμαρυγαῖς τυφλώττουσαν, τὴν ψυχήν μου φωταγώγησον, καὶ χειραγώγησόν με Κόρη, ὁδοὺς σωτηριώδεις πορεύεσθαι, καὶ πλάνης ἐκφυγεῖν τὰ προσκόμματα, ὅπως ἐν, πίστει μακαρίζω σε."
+
+meMA.Ode9C1.notice = rubrical_gr_GR_cog.DifferentMenaionOde9InEnglish
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody

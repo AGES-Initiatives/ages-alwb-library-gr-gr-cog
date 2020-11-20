@@ -6,8 +6,8 @@ meCommemoration2.text = "Μνήμη τοῦ ἐν Ἁγίοις Πατρὸς 
 meShortCommemoration1.text = "Μνήμη τοῦ Ἁγίου Προφήτου Ἐλισαίου"
 meCom1.title = ""
 meCom2.title = ""
-meInsert1 = "καὶ τοῦ ἁγίου Προφήτου Ἐλισαίου," // for use in petitions and dismissal
-meInsert2 = "οὗ καὶ τὴν μνήμην ἐπιτελοῦμεν· " // for use in petitions and dismissal
+meInsert1 = "καὶ τοῦ ἁγίου ἐνδόξου Προφήτου Ἐλισαίου, καὶ τοῦ ἐν Ἁγίοις Πατρὸς ἡμῶν Μεθοδίου, Ἀρχιεπισκόπου Κωνσταντινουπόλεως," // for use in petitions and dismissal
+meInsert2 = "ὧν καὶ τὴν μνήμην ἐπιτελοῦμεν· " // for use in petitions and dismissal
 meNote.text = ""
 meLE.commemoration1 = "Τοῦ Ἁγίου Προφήτου Ἐλισσαίου."
 meLE.commemoration2 = "Τοῦ ἐν Ἁγίοις Πατρὸς ἡμῶν Μεθοδίου, Ἀρχιεπισκόπου Κωνσταντινουπόλεως."
@@ -79,7 +79,7 @@ meVE.Apolytikion1.text = me.m07.d20_gr_GR_cog.meVE.Apolytikion1.text
 
 meVE.Apolytikion2.mode = misc_gr_GR_cog.Mode8
 meVE.Apolytikion2.melody = he.ga_gr_GR_cog.OrthodoxiasOdigeH.name
-meVE.GeneralApolytikion2.name = "Πάτερ ἱεράρχα Μεθόδιε," // name of saint for General Apolytikia
+meVE.GeneralApolytikion2.name = "Μεθόδιε" // name of saint for General Apolytikia
 
 meMA.C1Poet = poets_gr_GR_cog.IoannouMonachou
 meMA.C1Acrostic.text = "οὗ ἡ Ἀκροστιχίς· Χαῖρε Προφῆτα τοῦ Θεοῦ πανόλβιε. (Ἄνευ τῶν Θεοτοκίων)."
@@ -317,7 +317,7 @@ meMA.Kontakion1.mode = misc_gr_GR_cog.Mode8
 meMA.Kontakion1.melody = he.a.m8_gr_GR_cog.TiYpermacho.name
 meMA.Kontakion1.text = "Διπλῆν τὴν χάριν εἰληφὼς παρὰ τοῦ Πνεύματος, Προφήτης ὤφθης θαυμαστὸς πᾶσι τοῖς πέρασι, τοὺς ὑμνοῦντάς σε λυτρούμενος ἐκ κινδύνων, καὶ δωρούμενος τὴν χάριν τῶν θαυμάτων σου, τοῖς προστρέχουσιν ἐν ταύτῃ μετὰ πίστεως, καὶ βοῶσί σοι· Χαίροις Προφῆτα θεσπέσιε."
 
-meMA.Oikos1.text = "Ἥλιος καταλάμψας ὁ τῆς δικαιοσύνης ἐν τῇ πεφωτισμένῃ ψυχῇ σου, ἀπεδίωξε πᾶσαν ἀχλὺν ἁμαρτίας ἐξ αὐτῆς, καὶ Θεοῦ ἔδειξε Προφήτην σε φαιδρότατον· ἐντεῦθεν καὶ ἡμεῖς κράζομεν οὕτως·"
+meMA.Oikos1.text = "Ἥλιος καταλάμψας, ὁ τῆς δικαιοσύνης, ἐν τῇ πεφωτισμένῃ ψυχῇ σου, ἀπεδίωξε πᾶσαν ἀχλὺν ἁμαρτίας ἐξ αὐτῆς, καὶ Θεοῦ ἔδειξε Προφήτην σε φαιδρότατον· ἐντεῦθεν καὶ ἡμεῖς κράζομεν οὕτως·"
 meMA.Oikos12.text = "Χαῖρε, Θεοῦ ὁ μηδὲν προτιμήσας· χαῖρε, βοῶν κατασφάξας τὰ ζεύγη."
 meMA.Oikos13.text = "Χαῖρε, ὁ καταλείψας τὸν βίον σου ἅπαντα· χαῖρε, ὁ πλουτήσας τὸν πλοῦτον τὸν ἄσυλον."
 meMA.Oikos14.text = "Χαῖρε, ὅτι ἠκολούθησας τῷ καλέσαντι Θεῷ· χαῖρε, ὅτι νῦν ἀπείληφας παρ' αὐτοῦ τὰς δωρεάς."
@@ -462,7 +462,7 @@ meMA.Exaposteilarion1.text = "Ἐξ ἀροτῆρος ὤφθης, προφή�
 
 meMA.Exaposteilarion2.mode = misc_gr_GR_cog.Mode2
 meMA.Exaposteilarion2.melody = he.a.m2_gr_GR_cog.TonMathitonOrontonSe.name
-meMA.Exaposteilarion2.text = "Ὡς ἥλιος ἀνίσχων ἐκ τῆς ἑῴας, ἔδυς εἰς τὰ ἑσπέρια τῇ ἀθλήσει, νῦν δὲ κατεφώτισας τὸν κόσμον, σοῖς πάνσοφε διδάγμασι, Πάτερ Μεθόδιε θεοφόρε· διὸ ἡμῶν ὑπερεύχου."
+meMA.Exaposteilarion2.text = "Ὡς ἥλιος ἀνίσχων ἐκ τῆς ἑῴας, ἔδυς εἰς τὰ ἑσπέρια τῇ ἀθλήσε· νῦν δὲ κατεφώτισας τὸν κόσμον, σοῖς πάνσοφε διδάγμασι· Πάτερ Μεθόδιε θεοφόρε, διὸ ἡμῶν ὑπερεύχου."
 
 meMA.ExapTheotokion.mode = misc_gr_GR_cog.Mode2
 meMA.ExapTheotokion.melody = he.a.m2_gr_GR_cog.TonMathitonOrontonSe.name
@@ -471,7 +471,7 @@ meMA.ExapTheotokion.text = da.d7_gr_GR_cog.daMA.ExapTheotokion2.text
 meMA.AposGlory.poet = poets_gr_GR_cog.FotiouPatriarchou
 meMA.AposGlory.mode = misc_gr_GR_cog.Mode6
 meMA.AposGlory.melody = misc_gr_GR_cog.Idiomelon
-meMA.AposGlory.text = "Ἀστὴρ ἀνέτειλεν εὐσεβείας, ἀπὸ δυσμῶν ἡλίου τοῦ φαινομένου, ὁ μέγας ἐν Ἱεράρχαις Μεθόδιος, καὶ τὴν ἀχλὺν διατμήξας τῶν κακοδόξων, κατέπαυσεν εἰς τὴν ὄντως ἀνατολήν, τοῦ τῆς δικαιοσύνης ἡλίου, Χριστοῦ τοῦ Θεοῦ ἡμῶν, κἀκεῖσε ταῖς ἀσωμάτοις συναυλιζόμενος χορείαις, καὶ πρὸς τῷ θρόνῳ παρεστὼς τῆς Τριάδος, ὡς Ὅσιος, ὡς Μάρτυς, ὡς Ἱερεύς, ὡς Πατριάρχης, πράξει καὶ θεωρίᾳ, ἡμῖν αἰτεῖται τοῖς ἐν πίστει τελοῦσι, τὴν Ἱερὰν αὐτοῦ μνήμην, τὸ μέγα ἔλεος."
+meMA.AposGlory.text = "Ἀστὴρ ἀνέτειλεν εὐσεβείας, ἀπὸ δυσμῶν ἡλίου τοῦ φαινομένου, ὁ μέγας ἐν Ἱεράρχαις Μεθόδιος· καὶ τὴν ἀχλὺν διατμήξας τῶν κακοδόξων, κατέπαυσεν εἰς τὴν ὄντως ἀνατολήν, τοῦ τῆς δικαιοσύνης ἡλίου, Χριστοῦ τοῦ Θεοῦ ἡμῶν· κἀκεῖσε ταῖς ἀσωμάτοις συναυλιζόμενος χορείαις, καὶ πρὸς τῷ θρόνῳ παρεστὼς τῆς Τριάδος, ὡς Ὅσιος, ὡς Μάρτυς, ὡς Ἱερεύς, ὡς Πατριάρχης, πράξει καὶ θεωρίᾳ, ἡμῖν αἰτεῖται τοῖς ἐν πίστει τελοῦσι, τὴν Ἱερὰν αὐτοῦ μνήμην, τὸ μέγα ἔλεος."
 
 meMA.AposTheotokion.mode = misc_gr_GR_cog.Mode6
 meMA.AposTheotokion.melody = he.a.m6_gr_GR_cog.TriimerosAnestis.name

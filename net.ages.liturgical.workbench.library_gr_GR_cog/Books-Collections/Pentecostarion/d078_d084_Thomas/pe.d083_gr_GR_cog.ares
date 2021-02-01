@@ -14,15 +14,15 @@ peHO.note2 = ""
 peDismissal = dismissals_gr_GR_cog.dis00.resurrection
 
 peVE.Stichera01.mode = misc_gr_GR_cog.Mode1
-peVE.Stichera01.melody = he.a.m1_gr_GR_cog.TonOuranionTagmaton.name
+peVE.Stichera01.melody = he.a.m1_gr_GR_cog.TonOuranionTagmaton.incipit
 peVE.Stichera01.text = "Δικαιοσύνης ἐσθῆτα, περιβαλλόμενοι λευκὴν ὑπὲρ χιόνα, τῇ παρούσῃ τοῦ Πάσχα, ἡμέρᾳ εὐφρανθῶμεν, ἐν ᾗ ὁ Χριστός, δικαιοσύνης ὡς ἥλιος, ἐκ τῶν νεκρῶν ἀνατείλας πάντας ἡμᾶς, ἀφθαρσίᾳ κατεφαίδρυνεν."
 
 peVE.Stichera02.mode = misc_gr_GR_cog.Mode1
-peVE.Stichera02.melody = he.a.m1_gr_GR_cog.TonOuranionTagmaton.name
+peVE.Stichera02.melody = he.a.m1_gr_GR_cog.TonOuranionTagmaton.incipit
 peVE.Stichera02.text = "Ἡ βασιλὶς καὶ κυρία, τῶν ἑορτῶν Ἑορτή, ἡ νῦν ἐστὶν ἡμέρα ἣν ἐποίησεν ὄντως, ὁ Κύριος, ἐν ταύτῃ, ὡς ψάλλει Δαυΐδ, μυστικῶς εὐφρανθῶμεν λαοί· τῶν γὰρ θυρῶν κεκλεισμένων τοῖς Μαθηταῖς, τὴν εἰρήνην ἐδωρήσατο."
 
 peVE.Stichera03.mode = misc_gr_GR_cog.Mode1
-peVE.Stichera03.melody = he.a.m1_gr_GR_cog.TonOuranionTagmaton.name
+peVE.Stichera03.melody = he.a.m1_gr_GR_cog.TonOuranionTagmaton.incipit
 peVE.Stichera03.text = pe.d078_gr_GR_cog.peSV.Stichera2.text
 
 peVE.SticGlory.mode = misc_gr_GR_cog.Mode2
@@ -62,7 +62,7 @@ peMA.Kathisma1T.melody = oc.m1.d6_gr_GR_cog.ocMA.Kathisma33.melody
 peMA.Kathisma1T.text = oc.m1.d6_gr_GR_cog.ocMA.Kathisma33.text
 
 peMA.Kathisma21.mode = misc_gr_GR_cog.Mode1
-peMA.Kathisma21.melody = he.a.m1_gr_GR_cog.TonTafonSouSotir.name
+peMA.Kathisma21.melody = he.a.m1_gr_GR_cog.TonTafonSouSotir.incipit
 peMA.Kathisma21.text = "Μακάριος εἶ σὺ τὰς πληγὰς ψηλαφήσας, τῆς κρείττονος πλευρᾶς, τοῦ τὸ μέγιστον τραῦμα, τοῦ Ἀδὰμ ἰατρεύσαντος, καὶ ἡμῖν τοῖς πιστεύσασι, τὸν ἀνώλεθρον, μακαρισμόν προξενήσας, μόνοις ῥήμασι, τοῖς τῶν σεπτῶν Ἀποστόλων, τὴν τούτου Ἀνάστασιν."
 
 peMA.Lauds1.mode = misc_gr_GR_cog.Mode1
@@ -82,15 +82,15 @@ peMA.LaudsGlory.melody = misc_gr_GR_cog.Idiomelon
 peMA.LaudsGlory.text = pe.d078_gr_GR_cog.peVE.LityGlory.text
 
 peMA.Aposticha1.mode = misc_gr_GR_cog.Mode4
-peMA.Aposticha1.melody = he.a.m4_gr_GR_cog.OsGennaionEnMartysi.name
+peMA.Aposticha1.melody = he.a.m4_gr_GR_cog.OsGennaionEnMartysi.incipit
 peMA.Aposticha1.text = "Σταυρωθεὶς τὸν Παράδεισον, τοῖς ἀνθρώποις ἠνέῳξας, καὶ νεκροὺς συνήγειρας, ἡ ζωὴ ἡμῶν, καὶ ἐξανέστης τὸν θάνατον, ἑλὼν τῇ δυνάμει σου, καὶ συνῆψας οὐρανοῖς, ἀληθῶς τὰ ἐπίγεια καὶ ἐπλήρωσας, θυμηδίας ἀπλέτου, Θεοῦ Λόγε, τὸν χορὸν τῶν Ἀποστόλων, τούτοις εἰρήνην φθεγξάμενος."
 
 peMA.Aposticha2.mode = misc_gr_GR_cog.Mode4
-peMA.Aposticha2.melody = he.a.m4_gr_GR_cog.OsGennaionEnMartysi.name
+peMA.Aposticha2.melody = he.a.m4_gr_GR_cog.OsGennaionEnMartysi.incipit
 peMA.Aposticha2.text = "Ἡ φθορὰ ἐξωστράκισται· ἀφθαρσία ἐξήνθησεν· ὁ δεσμὸς ὁ χρόνιος διαλέλυται, οἱ οὐρανοὶ εὐφραινέσθωσαν, γῆ καὶ τὰ ἐπίγεια· ἐξανέστη γὰρ Χριστός, ἐσκυλεύθη ὁ θάνατος, ἡ εὐφρόσυνος, ἐπεφάνη ἡμέρα, κεκλεισμένων, τῶν θυρῶν ἔνδον εἰσῆλθεν ὁ Ζωοδότης καὶ Κύριος."
 
 peMA.Aposticha3.mode = misc_gr_GR_cog.Mode4
-peMA.Aposticha3.melody = he.a.m4_gr_GR_cog.OsGennaionEnMartysi.name
+peMA.Aposticha3.melody = he.a.m4_gr_GR_cog.OsGennaionEnMartysi.incipit
 peMA.Aposticha3.text = "Τῇ ἡμέρᾳ ὁ Κύριος, ἣν ἐποίησε σήμερον, ἀγαλλιασώμεθα εὐφραινόμενοι, ὁ Ζωοδότης ἐγήγερται, ὁ ᾍδης ἐσκύλευται, Ἀποστόλων ὁ χορὸς τὴν χαρὰν ἀκουτίζεται, ἐψηλάφησε, τὴν πλευρὰν τοῦ Δεσπότου, ἀπιστήσας, ὁ Θωμᾶς, καὶ ψηλαφήσας διπλῆν οὐσίαν ἐκήρυξε."
 
 peMA.AposGlory.mode = misc_gr_GR_cog.Mode8

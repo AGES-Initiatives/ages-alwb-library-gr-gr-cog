@@ -1,4 +1,4 @@
-A_Resource_Whose_Name = eu.consecration_gr_GR_cog 
+A_Resource_Whose_Name = eu.consecration_gr_GR_cog
 
 euCON.Key1000.title = "Η ΠΡΟΕΤΟΙΜΑΣΙΑ ΤΩΝ ΑΓΙΩΝ ΛΕΙΨΑΝΩΝ"
 euCON.R100 = "Ὁ Ἀρχιερύς πού πρόκειται νά τελέσῃ τά Ἐγκαίνια εἰσέρχεται εἰς τὸν ναόν, ὅπου τὸν ὑποδέχεται ὁ κλῆρος εἰς τὸν νάρθηκα. Μετά δέ ἀπό τὰς αἰτιήσεις ὁ Ἀρχιερεύς ἀναγινώσκει τὰς εὐχάς·"
@@ -9,38 +9,46 @@ euCON.Key1002.text = "Προαιώνιε Λόγε, καὶ Υἱὲ μονογ
 euCON.R101 = "Τὸ ἑσπέρας τῆς παραμονῆς τῶν ἐγκαινίων, ὁ τελεταρχῶν Ἀρχιερεῦς φέρει εἰς τὸν ναὸν τὰ λείψανα τριῶν Ἁγίων Μαρτύρων, ποὺ θὰ ἐναποτεθοῦν εἰς τὴν Ἁγίαν Τράπεζαν τὴν ἑπομένην ἡμέραν. Ὁ Ἀρχιερεῦς μετὰ τοῦ ἱεροῦ κλήρου εἰσέρχεται εἰς τὸ ἱερόν. Ἐκεῖ οὗτος θέτει τὰ ἅγια λείψανα ἐπὶ ἑνὸς δισκαρίου καὶ τὰ σκεπάζει μὲ ἕνα ἱερὸ κάλυμμα καὶ λέγει·"
 euCON.R102 = "The Choirs sing the Apolytikia for the Saints whose relics were received and also the Apolytikion of the Church."
 euCON.Key1003.mode = misc_gr_GR_cog.Mode6
+euCON.Key1003.incipit = pe.d127_gr_GR_cog.peVE.SticGlory.incipit
 euCON.Key1003.text = pe.d127_gr_GR_cog.peVE.SticGlory.text
 euCON.Key1004.mode = misc_gr_GR_cog.Mode6
+euCON.Key1004.incipit = oc.m6.d5_gr_GR_cog.ocVE.AposTheotokion.incipit
 euCON.Key1004.text = oc.m6.d5_gr_GR_cog.ocVE.AposTheotokion.text
 
 euCON.Key2000.title = "Ο ΕΣΠΕΡΙΝΟΣ"
 
 euVE.Stichera01.mode = misc_gr_GR_cog.Mode6
 euVE.Stichera01.melody = misc_gr_GR_cog.Idiomelon
+euVE.Stichera01.incipit = me.m09.d13_gr_GR_cog.meVE.Stichera01.incipit
 euVE.Stichera01.text = me.m09.d13_gr_GR_cog.meVE.Stichera01.text
 
 euVE.Stichera02.mode = misc_gr_GR_cog.Mode6
 euVE.Stichera02.melody = misc_gr_GR_cog.Idiomelon
+euVE.Stichera02.incipit = me.m09.d13_gr_GR_cog.meVE.Stichera02.incipit
 euVE.Stichera02.text = me.m09.d13_gr_GR_cog.meVE.Stichera02.text
 
 euVE.Stichera03.poet = poets_gr_GR_cog.Anatoliou
 euVE.Stichera03.mode = misc_gr_GR_cog.Mode6
 euVE.Stichera03.melody = misc_gr_GR_cog.Idiomelon
+euVE.Stichera03.incipit = me.m09.d13_gr_GR_cog.meVE.Stichera03.incipit
 euVE.Stichera03.text = me.m09.d13_gr_GR_cog.meVE.Stichera03.text
 
 euVE.Stichera04.poet = poets_gr_GR_cog.IoannouMonachou
 euVE.Stichera04.mode = misc_gr_GR_cog.Mode6
 euVE.Stichera04.melody = misc_gr_GR_cog.Idiomelon
+euVE.Stichera04.incipit = me.m09.d13_gr_GR_cog.meVE.SticGlory.incipit
 euVE.Stichera04.text = me.m09.d13_gr_GR_cog.meVE.SticGlory.text
 
 euVE.SticBoth.poet = poets_gr_GR_cog.Anatoliou
 euVE.SticBoth.mode = misc_gr_GR_cog.Mode2
 euVE.SticBoth.melody = misc_gr_GR_cog.Idiomelon
+euVE.SticBoth.incipit = me.m09.d13_gr_GR_cog.meVE.AposGlory.incipit
 euVE.SticBoth.text = me.m09.d13_gr_GR_cog.meVE.AposGlory.text
 
 euVE.Aposticha1.poet = poets_gr_GR_cog.IoannouMonachou
 euVE.Aposticha1.mode = misc_gr_GR_cog.Mode1
 euVE.Aposticha1.melody = misc_gr_GR_cog.Idiomelon
+euVE.Aposticha1.incipit = me.m09.d13_gr_GR_cog.meMA.Lauds4.incipit
 euVE.Aposticha1.text = me.m09.d13_gr_GR_cog.meMA.Lauds4.text
 
 //euVE.ApostichaVerse2.text = "Δεδοξασμένα ἐλαλήθη περὶ Σοῦ ἡ πόλις τοῦ Θεοῦ."
@@ -48,6 +56,7 @@ euVE.Aposticha1.text = me.m09.d13_gr_GR_cog.meMA.Lauds4.text
 euVE.Aposticha2.poet = poets_gr_GR_cog.Anatoliou
 euVE.Aposticha2.mode = misc_gr_GR_cog.Mode1
 euVE.Aposticha2.melody = misc_gr_GR_cog.Idiomelon
+euVE.Aposticha2.incipit = me.m09.d13_gr_GR_cog.meMA.Lauds5.incipit
 euVE.Aposticha2.text = me.m09.d13_gr_GR_cog.meMA.Lauds5.text
 
 //euVE.ApostichaVerse3.text = "Ἀγαπᾷ Κύριος τὰς πύλας Σιὼν ὑπὲρ πάντα τὰ σκηνώματα Ἰακώβ."
@@ -55,27 +64,33 @@ euVE.Aposticha2.text = me.m09.d13_gr_GR_cog.meMA.Lauds5.text
 euVE.Aposticha3.poet = poets_gr_GR_cog.IoannouMonachou
 euVE.Aposticha3.mode = me.m09.d13_gr_GR_cog.meMA.Lauds6.mode
 euVE.Aposticha3.melody = misc_gr_GR_cog.Idiomelon
+euVE.Aposticha3.incipit = me.m09.d13_gr_GR_cog.meMA.Lauds6.incipit
 euVE.Aposticha3.text = me.m09.d13_gr_GR_cog.meMA.Lauds6.text
 
 euVE.AposGlory.mode = misc_gr_GR_cog.Mode3
 euVE.AposGlory.melody = misc_gr_GR_cog.Idiomelon
+euVE.AposGlory.incipit = me.m09.d13_gr_GR_cog.meMA.LaudsGlory.incipit
 euVE.AposGlory.text = me.m09.d13_gr_GR_cog.meMA.LaudsGlory.text
 
 euVE.Apolytikion.mode = misc_gr_GR_cog.Mode4
 euVE.Apolytikion.melody = ""
+euVE.Apolytikion.incipit = me.m09.d13_gr_GR_cog.meVE.Apolytikion1.incipit
 euVE.Apolytikion.text = me.m09.d13_gr_GR_cog.meVE.Apolytikion1.text
 
 euCON.Key3000.title = "Ο ΟΡΘΡΟΣ"
 euMA.Kathisma11.mode = misc_gr_GR_cog.Mode8
 euMA.Kathisma11.melody = he.a.m8_gr_GR_cog.ToProstachthen.incipit
+euMA.Kathisma11.incipit = me.m09.d13_gr_GR_cog.meMA.Ode3Kathisma1.incipit
 euMA.Kathisma11.text = me.m09.d13_gr_GR_cog.meMA.Ode3Kathisma1.text
 
 euMA.Kathisma21.mode = misc_gr_GR_cog.Mode8
 euMA.Kathisma21.melody = he.a.m8_gr_GR_cog.TinSofianKaiLogon.incipit
+euMA.Kathisma21.incipit = "Ὁ σοφίας ἀῤῥήτου δημιουργός, κατεσκεύασας"
 euMA.Kathisma21.text = "Ὁ σοφίας ἀῤῥήτου δημιουργός, κατεσκεύασας θρόνον τοὺς οὐρανούς, τὴν γῆ δὲ ὑποπόδιον τῶν ποδῶν σου ἐκάλεσας. Καὶ τὸν Ναόν σου τοῦτον, ὅν ηὐδόκησας Κύριε, ἐπὶ τῷ ὀνόματι σου κτισθῆναι εἰς δόξαν σου, τοῦτον ἡρετίσω εἰς τὴν σὴν κατοικίαν, ἀκούειν τὰς δεήσεις τῶν ἐν αὐτῷ εἰσιόντων, ἐν ᾧ πίστει βοῶμέν σοι· Δέσποτα Χριστὲ ὁ Θεός, τῶν πταισμάτων ἄφεσιν κατάπεμψον, τοῖς προσκυνοῦσιν ἐν πίστει τὴν δόξα σου."
 
 euMA.Kathisma31.mode = misc_gr_GR_cog.Mode4
 euMA.Kathisma31.melody = he.a.m4_gr_GR_cog.TachyProkatalave.incipit
+euMA.Kathisma31.incipit = "Τῷ οἴκῳ σου Κύριε πρέπει"
 euMA.Kathisma31.text = "Τῷ οἴκῳ σου Κύριε πρέπει ἁγίασμα, ἐν τούτῳ γὰρ τὸ ὄνομα τὸ σὸν φιλάνθρωπε, ἐνθέως δοξάζεται, ὅθεν σὺν τῷ Προφήτῃ, ἐκβοῶμέν σοι πίστει· Σοῦ τὸ Ἅγιον Πνεῦμα νῦν ἐγκαίνισον πάντας, πρεσβείαις τῆς Θεοτόκου μόνε Φιλάνθρωπε."
 
 euMA.C1.title = "Κανὼν τῶν Ἐγκαινίων."
@@ -84,235 +99,284 @@ euMA.C1.verse = prayers_gr_GR_cog.verse_God.text
 euMA.Ode1C1H.ode = misc_gr_GR_cog.Ode1
 euMA.Ode1C1H.mode = misc_gr_GR_cog.Mode4
 euMA.Ode1C1H.melody = misc_gr_GR_cog.Heirmos
+euMA.Ode1C1H.incipit = he.h.m4_gr_GR_cog.ThalassisToErythraion.incipit
 euMA.Ode1C1H.text = he.h.m4_gr_GR_cog.ThalassisToErythraion.text
 
 euMA.Ode1C11.ode = misc_gr_GR_cog.Ode1
 euMA.Ode1C11.mode = misc_gr_GR_cog.Mode4
 euMA.Ode1C11.melody = he.h.m4_gr_GR_cog.ThalassisToErythraion.incipit
+euMA.Ode1C11.incipit = me.m09.d13_gr_GR_cog.meMA.Ode1C21.incipit
 euMA.Ode1C11.text = me.m09.d13_gr_GR_cog.meMA.Ode1C21.text
 
 euMA.Ode1C12.ode = misc_gr_GR_cog.Ode1
 euMA.Ode1C12.mode = misc_gr_GR_cog.Mode4
 euMA.Ode1C12.melody = he.h.m4_gr_GR_cog.ThalassisToErythraion.incipit
+euMA.Ode1C12.incipit = me.m09.d13_gr_GR_cog.meMA.Ode1C22.incipit
 euMA.Ode1C12.text = me.m09.d13_gr_GR_cog.meMA.Ode1C22.text
 
 euMA.Ode1C13.ode = misc_gr_GR_cog.Ode1
 euMA.Ode1C13.mode = misc_gr_GR_cog.Mode4
 euMA.Ode1C13.melody = he.h.m4_gr_GR_cog.ThalassisToErythraion.incipit
+euMA.Ode1C13.incipit = me.m09.d13_gr_GR_cog.meMA.Ode1C23.incipit
 euMA.Ode1C13.text = me.m09.d13_gr_GR_cog.meMA.Ode1C23.text
 
 euMA.Ode1C1T.ode = misc_gr_GR_cog.Ode1
 euMA.Ode1C1T.mode = misc_gr_GR_cog.Mode4
 euMA.Ode1C1T.melody = he.h.m4_gr_GR_cog.ThalassisToErythraion.incipit
+euMA.Ode1C1T.incipit = me.m09.d13_gr_GR_cog.meMA.Ode1C2T.incipit
 euMA.Ode1C1T.text = me.m09.d13_gr_GR_cog.meMA.Ode1C2T.text
 
 euMA.Ode3C1H.ode = misc_gr_GR_cog.Ode3
 euMA.Ode3C1H.mode = misc_gr_GR_cog.Mode4
 euMA.Ode3C1H.melody = misc_gr_GR_cog.Heirmos
+euMA.Ode3C1H.incipit = he.h.m4_gr_GR_cog.EffrainetaiEpiSoi.incipit
 euMA.Ode3C1H.text = he.h.m4_gr_GR_cog.EffrainetaiEpiSoi.text
 
 euMA.Ode3C11.ode = misc_gr_GR_cog.Ode3
 euMA.Ode3C11.mode = misc_gr_GR_cog.Mode4
 euMA.Ode3C11.melody = he.h.m4_gr_GR_cog.EffrainetaiEpiSoi.incipit
+euMA.Ode3C11.incipit = me.m09.d13_gr_GR_cog.meMA.Ode3C21.incipit
 euMA.Ode3C11.text = me.m09.d13_gr_GR_cog.meMA.Ode3C21.text
 
 euMA.Ode3C12.ode = misc_gr_GR_cog.Ode3
 euMA.Ode3C12.mode = misc_gr_GR_cog.Mode4
 euMA.Ode3C12.melody = he.h.m4_gr_GR_cog.EffrainetaiEpiSoi.incipit
+euMA.Ode3C12.incipit = me.m09.d13_gr_GR_cog.meMA.Ode3C22.incipit
 euMA.Ode3C12.text = me.m09.d13_gr_GR_cog.meMA.Ode3C22.text
 
 euMA.Ode3C13.ode = misc_gr_GR_cog.Ode3
 euMA.Ode3C13.mode = misc_gr_GR_cog.Mode4
 euMA.Ode3C13.melody = he.h.m4_gr_GR_cog.EffrainetaiEpiSoi.incipit
+euMA.Ode3C13.incipit = me.m09.d13_gr_GR_cog.meMA.Ode3C23.incipit
 euMA.Ode3C13.text = me.m09.d13_gr_GR_cog.meMA.Ode3C23.text
 
 euMA.Ode3C1T.ode = misc_gr_GR_cog.Ode3
 euMA.Ode3C1T.mode = misc_gr_GR_cog.Mode4
 euMA.Ode3C1T.melody = he.h.m4_gr_GR_cog.EffrainetaiEpiSoi.incipit
+euMA.Ode3C1T.incipit = me.m09.d13_gr_GR_cog.meMA.Ode3C2T.incipit
 euMA.Ode3C1T.text = me.m09.d13_gr_GR_cog.meMA.Ode3C2T.text
 
 euMA.Ode3Kathisma1.mode = misc_gr_GR_cog.Mode4
 euMA.Ode3Kathisma1.melody = he.a.m4_gr_GR_cog.TachyProkatalave.incipit
+euMA.Ode3Kathisma1.incipit = me.m09.d13_gr_GR_cog.meMA.Kathisma11.incipit
 euMA.Ode3Kathisma1.text = me.m09.d13_gr_GR_cog.meMA.Kathisma11.text
 
 euMA.Ode3KathismaT.mode = misc_gr_GR_cog.Mode4
 euMA.Ode3KathismaT.melody = he.a.m4_gr_GR_cog.TachyProkatalave.incipit
+euMA.Ode3KathismaT.incipit = me.m09.d13_gr_GR_cog.meMA.Ode3KathismaT.incipit
 euMA.Ode3KathismaT.text = me.m09.d13_gr_GR_cog.meMA.Ode3KathismaT.text
 
 euMA.Ode4C1H.ode = misc_gr_GR_cog.Ode4
 euMA.Ode4C1H.mode = misc_gr_GR_cog.Mode4
 euMA.Ode4C1H.melody = misc_gr_GR_cog.Heirmos
+euMA.Ode4C1H.incipit = he.h.m4_gr_GR_cog.EparthentaSeIdousa.incipit
 euMA.Ode4C1H.text = he.h.m4_gr_GR_cog.EparthentaSeIdousa.text
 
 euMA.Ode4C11.ode = misc_gr_GR_cog.Ode4
 euMA.Ode4C11.mode = misc_gr_GR_cog.Mode4
 euMA.Ode4C11.melody = he.h.m4_gr_GR_cog.EparthentaSeIdousa.incipit
+euMA.Ode4C11.incipit = me.m09.d13_gr_GR_cog.meMA.Ode4C21.incipit
 euMA.Ode4C11.text = me.m09.d13_gr_GR_cog.meMA.Ode4C21.text
 
 euMA.Ode4C12.ode = misc_gr_GR_cog.Ode4
 euMA.Ode4C12.mode = misc_gr_GR_cog.Mode4
 euMA.Ode4C12.melody = he.h.m4_gr_GR_cog.EparthentaSeIdousa.incipit
+euMA.Ode4C12.incipit = me.m09.d13_gr_GR_cog.meMA.Ode4C22.incipit
 euMA.Ode4C12.text = me.m09.d13_gr_GR_cog.meMA.Ode4C22.text
 
 euMA.Ode4C13.ode = misc_gr_GR_cog.Ode4
 euMA.Ode4C13.mode = misc_gr_GR_cog.Mode4
 euMA.Ode4C13.melody = he.h.m4_gr_GR_cog.EparthentaSeIdousa.incipit
+euMA.Ode4C13.incipit = me.m09.d13_gr_GR_cog.meMA.Ode4C23.incipit
 euMA.Ode4C13.text = me.m09.d13_gr_GR_cog.meMA.Ode4C23.text
 
 euMA.Ode4C1T.ode = misc_gr_GR_cog.Ode4
 euMA.Ode4C1T.mode = misc_gr_GR_cog.Mode4
 euMA.Ode4C1T.melody = he.h.m4_gr_GR_cog.EparthentaSeIdousa.incipit
+euMA.Ode4C1T.incipit = me.m09.d13_gr_GR_cog.meMA.Ode4C2T.incipit
 euMA.Ode4C1T.text = me.m09.d13_gr_GR_cog.meMA.Ode4C2T.text
 
 euMA.Ode5C1H.ode = misc_gr_GR_cog.Ode5
 euMA.Ode5C1H.mode = misc_gr_GR_cog.Mode4
 euMA.Ode5C1H.melody = misc_gr_GR_cog.Heirmos
+euMA.Ode5C1H.incipit = he.h.m4_gr_GR_cog.SyKyrieMouFos.incipit
 euMA.Ode5C1H.text = he.h.m4_gr_GR_cog.SyKyrieMouFos.text
 
 euMA.Ode5C11.ode = misc_gr_GR_cog.Ode5
 euMA.Ode5C11.mode = misc_gr_GR_cog.Mode4
 euMA.Ode5C11.melody = he.h.m4_gr_GR_cog.SyKyrieMouFos.incipit
+euMA.Ode5C11.incipit = me.m09.d13_gr_GR_cog.meMA.Ode5C21.incipit
 euMA.Ode5C11.text = me.m09.d13_gr_GR_cog.meMA.Ode5C21.text
 
 euMA.Ode5C12.ode = misc_gr_GR_cog.Ode5
 euMA.Ode5C12.mode = misc_gr_GR_cog.Mode4
 euMA.Ode5C12.melody = he.h.m4_gr_GR_cog.SyKyrieMouFos.incipit
+euMA.Ode5C12.incipit = me.m09.d13_gr_GR_cog.meMA.Ode5C22.incipit
 euMA.Ode5C12.text = me.m09.d13_gr_GR_cog.meMA.Ode5C22.text
 
 euMA.Ode5C13.ode = misc_gr_GR_cog.Ode5
 euMA.Ode5C13.mode = misc_gr_GR_cog.Mode4
 euMA.Ode5C13.melody = he.h.m4_gr_GR_cog.SyKyrieMouFos.incipit
+euMA.Ode5C13.incipit = me.m09.d13_gr_GR_cog.meMA.Ode5C23.incipit
 euMA.Ode5C13.text = me.m09.d13_gr_GR_cog.meMA.Ode5C23.text
 
 euMA.Ode5C1T.ode = misc_gr_GR_cog.Ode5
 euMA.Ode5C1T.mode = misc_gr_GR_cog.Mode4
 euMA.Ode5C1T.melody = he.h.m4_gr_GR_cog.SyKyrieMouFos.incipit
+euMA.Ode5C1T.incipit = me.m09.d13_gr_GR_cog.meMA.Ode5C2T.incipit
 euMA.Ode5C1T.text = me.m09.d13_gr_GR_cog.meMA.Ode5C2T.text
 
 euMA.Ode6C1H.ode = misc_gr_GR_cog.Ode6
 euMA.Ode6C1H.mode = misc_gr_GR_cog.Mode4
 euMA.Ode6C1H.melody = misc_gr_GR_cog.Heirmos
+euMA.Ode6C1H.incipit = he.h.m4_gr_GR_cog.ThysoSoiMetaFonis.incipit
 euMA.Ode6C1H.text = he.h.m4_gr_GR_cog.ThysoSoiMetaFonis.text
 
 euMA.Ode6C11.ode = misc_gr_GR_cog.Ode6
 euMA.Ode6C11.mode = misc_gr_GR_cog.Mode4
 euMA.Ode6C11.melody = he.h.m4_gr_GR_cog.ThysoSoiMetaFonis.incipit
+euMA.Ode6C11.incipit = me.m09.d13_gr_GR_cog.meMA.Ode6C21.incipit
 euMA.Ode6C11.text = me.m09.d13_gr_GR_cog.meMA.Ode6C21.text
 
 euMA.Ode6C12.ode = misc_gr_GR_cog.Ode6
 euMA.Ode6C12.mode = misc_gr_GR_cog.Mode4
 euMA.Ode6C12.melody = he.h.m4_gr_GR_cog.ThysoSoiMetaFonis.incipit
+euMA.Ode6C12.incipit = me.m09.d13_gr_GR_cog.meMA.Ode6C22.incipit
 euMA.Ode6C12.text = me.m09.d13_gr_GR_cog.meMA.Ode6C22.text
 
 euMA.Ode6C13.ode = misc_gr_GR_cog.Ode6
 euMA.Ode6C13.mode = misc_gr_GR_cog.Mode4
 euMA.Ode6C13.melody = he.h.m4_gr_GR_cog.ThysoSoiMetaFonis.incipit
+euMA.Ode6C13.incipit = me.m09.d13_gr_GR_cog.meMA.Ode6C23.incipit
 euMA.Ode6C13.text = me.m09.d13_gr_GR_cog.meMA.Ode6C23.text
 
 euMA.Ode6C1T.ode = misc_gr_GR_cog.Ode6
 euMA.Ode6C1T.mode = misc_gr_GR_cog.Mode4
 euMA.Ode6C1T.melody = he.h.m4_gr_GR_cog.ThysoSoiMetaFonis.incipit
+euMA.Ode6C1T.incipit = me.m09.d13_gr_GR_cog.meMA.Ode6C2T.incipit
 euMA.Ode6C1T.text = me.m09.d13_gr_GR_cog.meMA.Ode6C2T.text
 
 euMA.Kontakion.mode = me.m09.d13_gr_GR_cog.meMA.Kontakion1.mode
 euMA.Kontakion.melody = me.m09.d13_gr_GR_cog.meMA.Kontakion1.melody
+euMA.Kontakion.incipit = me.m09.d13_gr_GR_cog.meMA.Kontakion1.incipit
 euMA.Kontakion.text = me.m09.d13_gr_GR_cog.meMA.Kontakion1.text
 
+euMA.Oikos.incipit = me.m09.d13_gr_GR_cog.meMA.Oikos1.incipit
 euMA.Oikos.text = me.m09.d13_gr_GR_cog.meMA.Oikos1.text
 
 euMA.Ode7C1H.ode = misc_gr_GR_cog.Ode7
 euMA.Ode7C1H.mode = misc_gr_GR_cog.Mode4
 euMA.Ode7C1H.melody = misc_gr_GR_cog.Heirmos
+euMA.Ode7C1H.incipit = he.h.m4_gr_GR_cog.EnTiKaminoAvramiaioi.incipit
 euMA.Ode7C1H.text = he.h.m4_gr_GR_cog.EnTiKaminoAvramiaioi.text
 
 euMA.Ode7C11.ode = misc_gr_GR_cog.Ode7
 euMA.Ode7C11.mode = misc_gr_GR_cog.Mode4
 euMA.Ode7C11.melody = he.h.m4_gr_GR_cog.EnTiKaminoAvramiaioi.incipit
+euMA.Ode7C11.incipit = me.m09.d13_gr_GR_cog.meMA.Ode7C21.incipit
 euMA.Ode7C11.text = me.m09.d13_gr_GR_cog.meMA.Ode7C21.text
 
 euMA.Ode7C12.ode = misc_gr_GR_cog.Ode7
 euMA.Ode7C12.mode = misc_gr_GR_cog.Mode4
 euMA.Ode7C12.melody = he.h.m4_gr_GR_cog.EnTiKaminoAvramiaioi.incipit
+euMA.Ode7C12.incipit = me.m09.d13_gr_GR_cog.meMA.Ode7C22.incipit
 euMA.Ode7C12.text = me.m09.d13_gr_GR_cog.meMA.Ode7C22.text
 
 euMA.Ode7C13.ode = misc_gr_GR_cog.Ode7
 euMA.Ode7C13.mode = misc_gr_GR_cog.Mode4
 euMA.Ode7C13.melody = he.h.m4_gr_GR_cog.EnTiKaminoAvramiaioi.incipit
+euMA.Ode7C13.incipit = me.m09.d13_gr_GR_cog.meMA.Ode7C23.incipit
 euMA.Ode7C13.text = me.m09.d13_gr_GR_cog.meMA.Ode7C23.text
 
 euMA.Ode7C1T.ode = misc_gr_GR_cog.Ode7
 euMA.Ode7C1T.mode = misc_gr_GR_cog.Mode4
 euMA.Ode7C1T.melody = he.h.m4_gr_GR_cog.EnTiKaminoAvramiaioi.incipit
+euMA.Ode7C1T.incipit = me.m09.d13_gr_GR_cog.meMA.Ode7C2T.incipit
 euMA.Ode7C1T.text = me.m09.d13_gr_GR_cog.meMA.Ode7C2T.text
 
 euMA.Ode8C1H.ode = misc_gr_GR_cog.Ode8
 euMA.Ode8C1H.mode = misc_gr_GR_cog.Mode4
 euMA.Ode8C1H.melody = misc_gr_GR_cog.Heirmos
+euMA.Ode8C1H.incipit = he.h.m4_gr_GR_cog.CheirasEkpetasasDaniil.incipit
 euMA.Ode8C1H.text = he.h.m4_gr_GR_cog.CheirasEkpetasasDaniil.text
 
 euMA.Ode8C11.ode = misc_gr_GR_cog.Ode8
 euMA.Ode8C11.mode = misc_gr_GR_cog.Mode4
 euMA.Ode8C11.melody = he.h.m4_gr_GR_cog.CheirasEkpetasasDaniil.incipit
+euMA.Ode8C11.incipit = me.m09.d13_gr_GR_cog.meMA.Ode8C21.incipit
 euMA.Ode8C11.text = me.m09.d13_gr_GR_cog.meMA.Ode8C21.text
 
 euMA.Ode8C12.ode = misc_gr_GR_cog.Ode8
 euMA.Ode8C12.mode = misc_gr_GR_cog.Mode4
 euMA.Ode8C12.melody = he.h.m4_gr_GR_cog.CheirasEkpetasasDaniil.incipit
+euMA.Ode8C12.incipit = me.m09.d13_gr_GR_cog.meMA.Ode8C22.incipit
 euMA.Ode8C12.text = me.m09.d13_gr_GR_cog.meMA.Ode8C22.text
 
 euMA.Ode8C13.ode = misc_gr_GR_cog.Ode8
 euMA.Ode8C13.mode = misc_gr_GR_cog.Mode4
 euMA.Ode8C13.melody = he.h.m4_gr_GR_cog.CheirasEkpetasasDaniil.incipit
+euMA.Ode8C13.incipit = me.m09.d13_gr_GR_cog.meMA.Ode8C23.incipit
 euMA.Ode8C13.text = me.m09.d13_gr_GR_cog.meMA.Ode8C23.text
 
 euMA.Ode8C1T.ode = misc_gr_GR_cog.Ode8
 euMA.Ode8C1T.mode = misc_gr_GR_cog.Mode4
 euMA.Ode8C1T.melody = he.h.m4_gr_GR_cog.CheirasEkpetasasDaniil.incipit
+euMA.Ode8C1T.incipit = me.m09.d13_gr_GR_cog.meMA.Ode8C2T.incipit
 euMA.Ode8C1T.text = me.m09.d13_gr_GR_cog.meMA.Ode8C2T.text
 
 euMA.Ode9C1H.ode = misc_gr_GR_cog.Ode9
 euMA.Ode9C1H.mode = misc_gr_GR_cog.Mode4
 euMA.Ode9C1H.melody = misc_gr_GR_cog.Heirmos
+euMA.Ode9C1H.incipit = he.h.m4_gr_GR_cog.LithosAcheirotmitos.incipit
 euMA.Ode9C1H.text = he.h.m4_gr_GR_cog.LithosAcheirotmitos.text
 
 euMA.Ode9C11.ode = misc_gr_GR_cog.Ode9
 euMA.Ode9C11.mode = misc_gr_GR_cog.Mode4
 euMA.Ode9C11.melody = he.h.m4_gr_GR_cog.LithosAcheirotmitos.incipit
+euMA.Ode9C11.incipit = me.m09.d13_gr_GR_cog.meMA.Ode9C21.incipit
 euMA.Ode9C11.text = me.m09.d13_gr_GR_cog.meMA.Ode9C21.text
 
 euMA.Ode9C12.ode = misc_gr_GR_cog.Ode9
 euMA.Ode9C12.mode = misc_gr_GR_cog.Mode4
 euMA.Ode9C12.melody = he.h.m4_gr_GR_cog.LithosAcheirotmitos.incipit
+euMA.Ode9C12.incipit = me.m09.d13_gr_GR_cog.meMA.Ode9C22.incipit
 euMA.Ode9C12.text = me.m09.d13_gr_GR_cog.meMA.Ode9C22.text
 
 euMA.Ode9C13.ode = misc_gr_GR_cog.Ode9
 euMA.Ode9C13.mode = misc_gr_GR_cog.Mode4
 euMA.Ode9C13.melody = he.h.m4_gr_GR_cog.LithosAcheirotmitos.incipit
+euMA.Ode9C13.incipit = me.m09.d13_gr_GR_cog.meMA.Ode9C23.incipit
 euMA.Ode9C13.text = me.m09.d13_gr_GR_cog.meMA.Ode9C23.text
 
 euMA.Ode9C1T.ode = misc_gr_GR_cog.Ode9
 euMA.Ode9C1T.mode = misc_gr_GR_cog.Mode4
 euMA.Ode9C1T.melody = he.h.m4_gr_GR_cog.LithosAcheirotmitos.incipit
+euMA.Ode9C1T.incipit = me.m09.d13_gr_GR_cog.meMA.Ode9C2T.incipit
 euMA.Ode9C1T.text = me.m09.d13_gr_GR_cog.meMA.Ode9C2T.text
 
 euMA.Exaposteilarion1.mode = misc_gr_GR_cog.Mode2
 euMA.Exaposteilarion1.melody = he.a.m2_gr_GR_cog.GynaikesAkoutisthite.incipit
+euMA.Exaposteilarion1.incipit = "Τῷ παναγίῳ Πνεύματι, ἐγκαίνισον Φιλάνθρωπε,"
 euMA.Exaposteilarion1.text = "Τῷ παναγίῳ Πνεύματι, ἐγκαίνισον Φιλάνθρωπε, ἐν ταῖς καρδίαις τῶν πίστει, τὰ ἱερὰ Ἐγκαίνια, τοῦ Οἴκου σου τοῦ πανσέπτου, ἐπιτελοῦντες Κύριε, ἐν ᾧ τὰς προσευχὰς ἡμῶν, τῶν προσκυνούντων σε Σῶτερ, ὥσπερ θυσίαν προσδέχου."
 
 euMA.Lauds1.mode = misc_gr_GR_cog.Mode4
 euMA.Lauds1.melody = he.a.m4_gr_GR_cog.EdokasSimeiosin.incipit
+euMA.Lauds1.incipit = me.m09.d13_gr_GR_cog.meMA.Lauds1.incipit
 euMA.Lauds1.text = me.m09.d13_gr_GR_cog.meMA.Lauds1.text
 
 euMA.Lauds2.mode = misc_gr_GR_cog.Mode4
 euMA.Lauds2.melody = he.a.m4_gr_GR_cog.EdokasSimeiosin.incipit
+euMA.Lauds2.incipit = me.m09.d13_gr_GR_cog.meMA.Lauds2.incipit
 euMA.Lauds2.text = me.m09.d13_gr_GR_cog.meMA.Lauds2.text
 
 euMA.Lauds3.mode = misc_gr_GR_cog.Mode4
 euMA.Lauds3.melody = he.a.m4_gr_GR_cog.EdokasSimeiosin.incipit
+euMA.Lauds3.incipit = me.m09.d13_gr_GR_cog.meMA.Lauds3.incipit
 euMA.Lauds3.text = me.m09.d13_gr_GR_cog.meMA.Lauds3.text
 
 euMA.LaudsBoth.mode = misc_gr_GR_cog.Mode5
 euMA.LaudsBoth.melody = misc_gr_GR_cog.Idiomelon
+euMA.LaudsBoth.incipit = me.m12.d09_gr_GR_cog.meMA.LaudsGlory.incipit
 euMA.LaudsBoth.text = me.m12.d09_gr_GR_cog.meMA.LaudsGlory.text
 
 euMA.MM.Lauds12as12.text = properties_gr_GR_cog.media.key
@@ -334,21 +398,27 @@ euCON.Key4200.title = "PROCESSIONS AROUND THE CHURCH"
 euCON.R420 = " Στη συνέχεια βγαίνουν όλοι έξω από το Ναό."
 euCON.R421 = "Ο Επίσκοπος κρατάει στα χέρια του τα Άγια Λείψανα, προπορευομένων τῶν Ιερέων με το Ευαγγέλιο, και ακολουθούντων όλων τῶν Χριστιανών. Πραγματοποιούνται τρεις λιτανείες γύρω από το Ναό."
 euCON.Key4201.mode = misc_gr_GR_cog.Mode7
+euCON.Key4201.incipit = oc.m7.d3_gr_GR_cog.ocVE.Aposticha3.incipit
 euCON.Key4201.text = oc.m7.d3_gr_GR_cog.ocVE.Aposticha3.text
 euCON.Key4202.mode = misc_gr_GR_cog.Mode7
+euCON.Key4202.incipit = oc.m7.d2_gr_GR_cog.ocVE.Aposticha3.incipit
 euCON.Key4202.text = oc.m7.d2_gr_GR_cog.ocVE.Aposticha3.text
 euCON.R422 = "During the processions around the Church special consecration hymns are sung, or the Hymn \"Holy God...\""
 euCON.Key4203.mode = misc_gr_GR_cog.Mode1
 euCON.Key4203.melody = misc_gr_GR_cog.Idiomelon
+euCON.Key4203.incipit = me.m09.d13_gr_GR_cog.meMA.Lauds4.incipit
 euCON.Key4203.text = me.m09.d13_gr_GR_cog.meMA.Lauds4.text
 euCON.Key4204.mode = misc_gr_GR_cog.Mode1
 euCON.Key4204.melody = misc_gr_GR_cog.Idiomelon
+euCON.Key4204.incipit = me.m09.d13_gr_GR_cog.meMA.Lauds5.incipit
 euCON.Key4204.text = me.m09.d13_gr_GR_cog.meMA.Lauds5.text
 euCON.Key4205.mode = misc_gr_GR_cog.Mode6
 euCON.Key4205.melody = misc_gr_GR_cog.Idiomelon
+euCON.Key4205.incipit = me.m09.d13_gr_GR_cog.meVE.Stichera01.incipit
 euCON.Key4205.text = me.m09.d13_gr_GR_cog.meVE.Stichera01.text
 euCON.Key4206.mode = misc_gr_GR_cog.Mode5
 euCON.Key4206.melody = misc_gr_GR_cog.Idiomelon
+euCON.Key4206.incipit = me.m12.d09_gr_GR_cog.meMA.LaudsGlory.incipit
 euCON.Key4206.text = me.m12.d09_gr_GR_cog.meMA.LaudsGlory.text
 euCON.R423 = "Στο τέλος τῆς πρώτης λιτανείας αναγιγνώσκονται Αποστολικό και Ευαγγελικό Αναγνώσματα."
 euCON.Key4207.title = "ΑΝΑΓΝΩΣΜΑΤΑ"
@@ -361,14 +431,19 @@ euCON.Key4208.title = "ΑΝΑΓΝΩΣΜΑΤΑ"
 //Gospel2
 euCON.R426 = "Ο Επίσκοπος κρατάει στα χέρια του τα Άγια Λείψανα, προπορευομένων τῶν Ιερέων με το Ευαγγέλιο, και ακολουθούντων όλων τῶν Χριστιανών. Πραγματοποιείται η τρίτη λιτανεία γύρω από το Ναό."
 euCON.R427 = "Στο τέλος της τρίτης λιτανείας, γίνεται η είσοδος στο Ναό με ένα ιδιόμορφο τρόπο."
+euCON.Key4209.incipit = "Εὐλογητὸς εἶ, Χριστὲ ὁ Θεὸς"
 euCON.Key4209.text = "Εὐλογητὸς εἶ, Χριστὲ ὁ Θεὸς ἡμῶν, εἰς τοὺς αἰῶνας τῶν αἰώνων."
 euCON.Key4210.mode = misc_gr_GR_cog.Mode3
+euCON.Key4210.incipit = "Ὁ ἐν τῇ πέτρᾳ τῆς"
 euCON.Key4210.text = "Ὁ ἐν τῇ πέτρᾳ τῆς πίστεως οἰκοδομήσας τὴν Ἐκκλησίαν σου, Χριστὲ ὁ Θεός, ἐν αὐτῇ κατεύθυνον τὰς ἱκεσίας ἡμῶν, καὶ πρόσδεξαι λαὸν ἐν πίστει βοῶντά σοι· Σῶσον ἡμᾶς, ὁ Θεὸς ἡμῶν."
 euCON.R428 = "Ο Επίσκοπός πάλι παρακαλεί τον Κύριό μας."
+euCON.Key4211a.incipit = "Ὁ Θεὸς καὶ Πατὴρ τοῦ"
 euCON.Key4211a.text = "Ὁ Θεὸς καὶ Πατὴρ τοῦ Κυρίου ἡμῶν Ἰησοῦ Χριστοῦ, ὁ ὢν εὐλογητὸς εἰς τοὺς αἰῶνας· ὁ διὰ τοῦ καταπετάσματος τῆς σαρκὸς αὐτοῦ ἐγκαινίσας ἡμῖν τῆς τῶν προπατόρων Ἐκκλησίας τῶν ἐν οὐρανοῖς ἀπογεγραμμένων τὴν εἴσοδον, ἔνθα ἦχος ἑορταζόντων καὶ φωνὴ ἀγαλλιάσεως· αὐτός, φιλάνθρωπε Δέσποτα, ἐπίβλεψον ἐφ' ἡμᾶς τοὺς ἁμαρτολοὺς καὶ ἀναξίους δούλους σου, τοὺς τὸν Ἐγκαινισμὸν ἐπιτελοῦντας τοῦ σεβασμίου Ναοῦ"
 euCON.Key4211b.text = "<mark>insert cl.consecration.name</mark>"
+euCON.Key4211c.incipit = "εἰς σύμβολον τῆς ἁγιωτάτης σου"
 euCON.Key4211c.text = "εἰς σύμβολον τῆς ἁγιωτάτης σου Ἐκκλησίας, τουτέστιν αὐτοῦ τοῦ σκήνους ἡμῶν, ὅπερ καὶ ναόν σου, καὶ μέλη Χριστοῦ σου, διὰ τοῦ πανευφήμου Ἀποστόλου Παύλου, ὀνόματι κατηξίωσας· καὶ τοῦτον στερέωσον μέχρι τῆς συντελείας τοῦ αἰῶνος ἀσάλευτον, καὶ δεδοξασμένον ἐν σοί· καὶ ἀξίωσον ἡμᾶς ἐν αὐτῷ αἰνέσιες καὶ δοξολογίας ἀκαταγνώστους προσάγειν τῇ δόξῃ σου, καὶ τῷ Μονογενεῖ σου Υἱῷ, τῷ Κυρίῳ ἡμῶν Ἰησοῦ Χριστῷ, καὶ τῷ Ἁγίῳ σου Πνεύματι, ἐν ἐπιγνώσει καὶ πάσῃ αἰσθήσει· καὶ προσκυνοῦντάς σε ἐν φόβῳ σου, τῶν θείων δειχθῆναι ἀξίους οἰκτιρμῶν, εὐπροσκέκτους τε τῇ σῇ ἀγαθότητι γενέσθαι τὰς δεήσεις ταύτας, ἃς ὑπὲρ ἡμῶν καὶ παντὸς τοῦ λαοῦ σου, τῇ ἀφάτῳ σου εὐσπλαγχνίᾳ προσάγομεν· πρεσβείαις τῆς ἀχράντου Δεσποίνης ἡμῶν Θεοτόκου καὶ ἀειπαρθένου Μαρίας."
 euCON.Key4212.text = prayers_gr_GR_cog.exc06
+euCON.Key4213.incipit = "Δέσποτα Κύριε, ὁ Θεὸς ἡμῶν,"
 euCON.Key4213.text = "Δέσποτα Κύριε, ὁ Θεὸς ἡμῶν, ὁ καταστήσας ἐν οὐρανοῖς τάγματα καὶ στρατιὰς Ἀγγέλων καὶ Ἀρχαγγέλων, εἰς λειτουργίαν τῆς σῆς δόξης, ποίησον σὺν τῇ εἰσόδῳ ἡμῶν εἴσοδον ἁγίων Ἀγγέλων γενέσθαι, συλλειτουργούντων ἡμῖν, καὶ συνδοξολογούντων τὴν σὴν ἀγαθότητα." //eu.lichrysbasil_gr_GR_cog.euLI.Key0501.text
 euCON.Key4214.text = prayers_gr_GR_cog.exc01
 
@@ -378,6 +453,7 @@ euCON.R431 = "Και από μέσα ακούγονται τα λόγια π
 euCON.R432 = "Αφού επαναληφθεί τρεις φορές αυτός ο διάλογος ο Επίσκοπος εισέρχεται θριαμβευτικά στο Ναό, τοποθετώντας τα Άγια Λείψανα στην Αγία Τράπεζα, ενώ ψάλλεται το απολυτίκιο·"
 euCON.Key4304.title = "Ἀπολυτίκιον τῶν Ἐκγαινίων."
 euCON.Key4304.mode = misc_gr_GR_cog.Mode4
+euCON.Key4304.incipit = me.m09.d13_gr_GR_cog.meVE.Apolytikion1.incipit
 euCON.Key4304.text = me.m09.d13_gr_GR_cog.meVE.Apolytikion1.text
 
 euCON.Key4400.title = "THE PLACEMENT OF THE HOLY RELICS"
@@ -417,6 +493,7 @@ euCON.Key4600.title = "ANOINTING OF THE ALTAR TABLE"
 euCON.R460 = "Στη συνέχεια ραντίζει πάλι την Αγία Τράπεζα με ειδικά αρώματα ψάλλοντας το·"
 euCON.R461 = "Κατόπιν καθαγιάζει πάνω στην Αγία Τράπεζα Ιερά Αντιμήνσια."
 euCON.Key4603.text = prayers_gr_GR_cog.enarxis01
+euCON.Key4604.incipit = prayers_gr_GR_cog.Allilouia3.incipit
 euCON.Key4604.text = prayers_gr_GR_cog.Allilouia3.text
 euCON.R462 = "Σταυρώνει την Αγία Τράπεζα με Άγιο Μύρο, το οποίο αλείφει στη συνέχεια με τα χέρια του. Λέγει: \"Ἀλληλούϊα\" (τρίς)."
 euCON.Key4606.text = "Δόξα τῷ Πατρὶ καὶ τῷ Υἱῷ καὶ τῷ Ἁγίῳ Πνεύματι, νῦν καὶ ἀεὶ καὶ εἰς τοὺς αἰῶνας τῶν αἰώνων."

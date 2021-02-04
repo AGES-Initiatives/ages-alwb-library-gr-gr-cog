@@ -1,4 +1,4 @@
-A_Resource_Whose_Name = le.pr.tr.d069_gr_GR_cog 
+A_Resource_Whose_Name = le.pr.tr.d069_gr_GR_cog
 
 lemcVE.reading1.title = ""
 lemcVE.reading1.title_abbr = ""
@@ -38,7 +38,8 @@ lemcH3.Prophecy.version = properties_gr_GR_cog.version.designation
 lemcH3.Prophecy.book_string = bible_gr_GR_cog.Isaiah.text
 lemcH3.Prophecy.book_abbr = bible_gr_GR_cog.Isaiah.abbr
 lemcH3.Prophecy.chapverse = "Κεφ. Νʹ, 4-11 "
-lemcH3.Prophecy.text = lemcTE.reading1.text 
+lemcH3.Prophecy.incipit = lemcTE.reading1.incipit
+lemcH3.Prophecy.text = lemcTE.reading1.text
 
 lemcH6.Prophecy.title = ""
 lemcH6.Prophecy.title_abbr = ""
@@ -54,4 +55,5 @@ lemcH9.Prophecy.version = properties_gr_GR_cog.version.designation
 lemcH9.Prophecy.book_string = bible_gr_GR_cog.Jeremiah.text
 lemcH9.Prophecy.book_abbr = bible_gr_GR_cog.Jeremiah.abbr
 lemcH9.Prophecy.chapverse = "Κεφ. ΙΑʹ, 18-23, ΙΒʹ, 1-5, 9-11, 14-15"
+lemcH9.Prophecy.incipit = le.pr.tr.d068_gr_GR_cog.lemcTE.reading1.incipit
 lemcH9.Prophecy.text = le.pr.tr.d068_gr_GR_cog.lemcTE.reading1.text

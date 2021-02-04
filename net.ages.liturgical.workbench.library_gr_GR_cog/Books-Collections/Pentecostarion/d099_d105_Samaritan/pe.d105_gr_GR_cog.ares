@@ -15,93 +15,116 @@ peDismissal = dismissals_gr_GR_cog.dis00.resurrection
 
 peVE.Stichera01.mode = misc_gr_GR_cog.Mode1
 peVE.Stichera01.melody = pe.d099_gr_GR_cog.peVE.Stichera08.melody
+peVE.Stichera01.incipit = pe.d099_gr_GR_cog.peVE.Stichera08.incipit
 peVE.Stichera01.text = pe.d099_gr_GR_cog.peVE.Stichera08.text
 
 peVE.Stichera02.mode = misc_gr_GR_cog.Mode4
 peVE.Stichera02.melody = pe.d099_gr_GR_cog.peVE.Stichera09.melody
+peVE.Stichera02.incipit = pe.d099_gr_GR_cog.peVE.Stichera09.incipit
 peVE.Stichera02.text = pe.d099_gr_GR_cog.peVE.Stichera09.text
 
 peVE.Stichera03.mode = misc_gr_GR_cog.Mode4
 peVE.Stichera03.melody = pe.d099_gr_GR_cog.peVE.Stichera10.melody
+peVE.Stichera03.incipit = pe.d099_gr_GR_cog.peVE.Stichera10.incipit
 peVE.Stichera03.text = pe.d099_gr_GR_cog.peVE.Stichera10.text
 
 peVE.SticGlory.mode = misc_gr_GR_cog.Mode6
 peVE.SticGlory.melody = pe.d099_gr_GR_cog.peVE.SticGlory.melody
+peVE.SticGlory.incipit = pe.d099_gr_GR_cog.peVE.SticGlory.incipit
 peVE.SticGlory.text = pe.d099_gr_GR_cog.peVE.SticGlory.text
 
 peVE.SticBoth.mode = misc_gr_GR_cog.Mode4
 peVE.SticBoth.melody = oc.m4.d1_gr_GR_cog.ocVE.SticTheotokion.melody
+peVE.SticBoth.incipit = oc.m4.d1_gr_GR_cog.ocVE.SticTheotokion.incipit
 peVE.SticBoth.text = oc.m4.d1_gr_GR_cog.ocVE.SticTheotokion.text
 
 peVE.Aposticha1.mode = misc_gr_GR_cog.Mode4
 peVE.Aposticha1.melody = ""
+peVE.Aposticha1.incipit = oc.m4.d1_gr_GR_cog.ocVE.Stichera1.incipit
 peVE.Aposticha1.text = oc.m4.d1_gr_GR_cog.ocVE.Stichera1.text
 
 peVE.Aposticha2.mode = misc_gr_GR_cog.Mode4
 peVE.Aposticha2.melody = ""
+peVE.Aposticha2.incipit = oc.m4.d1_gr_GR_cog.ocVE.Stichera2.incipit
 peVE.Aposticha2.text = oc.m4.d1_gr_GR_cog.ocVE.Stichera2.text
 
 peVE.Aposticha3.mode = misc_gr_GR_cog.Mode4
 peVE.Aposticha3.melody = ""
+peVE.Aposticha3.incipit = oc.m4.d1_gr_GR_cog.ocVE.Stichera3.incipit
 peVE.Aposticha3.text = oc.m4.d1_gr_GR_cog.ocVE.Stichera3.text
 
 peVE.Aposticha4.mode = misc_gr_GR_cog.Mode4
 peVE.Aposticha4.melody = oc.m4.d1_gr_GR_cog.ocVE.Aposticha1.melody
+peVE.Aposticha4.incipit = oc.m4.d1_gr_GR_cog.ocVE.Aposticha1.incipit
 peVE.Aposticha4.text = oc.m4.d1_gr_GR_cog.ocVE.Aposticha1.text
 
 peVE.AposGlory.mode = misc_gr_GR_cog.Mode8
 peVE.AposGlory.melody = pe.d099_gr_GR_cog.peVE.AposGlory.melody
+peVE.AposGlory.incipit = pe.d099_gr_GR_cog.peVE.AposGlory.incipit
 peVE.AposGlory.text = pe.d099_gr_GR_cog.peVE.AposGlory.text
 
 peMA.Kathisma11.mode = misc_gr_GR_cog.Mode4
 peMA.Kathisma11.melody = ""
+peMA.Kathisma11.incipit = pe.d099_gr_GR_cog.peMA.Kathisma11.incipit
 peMA.Kathisma11.text = pe.d099_gr_GR_cog.peMA.Kathisma11.text
 
 peMA.Kathisma12.mode = misc_gr_GR_cog.Mode4
 peMA.Kathisma12.melody = pe.d099_gr_GR_cog.peMA.Kathisma12.melody
+peMA.Kathisma12.incipit = pe.d099_gr_GR_cog.peMA.Kathisma12.incipit
 peMA.Kathisma12.text = pe.d099_gr_GR_cog.peMA.Kathisma12.text
 
 peMA.Kathisma1T.mode = misc_gr_GR_cog.Mode4
 peMA.Kathisma1T.melody = ""
+peMA.Kathisma1T.incipit = oc.m4.d7_gr_GR_cog.ocMA.Kathisma14.incipit
 peMA.Kathisma1T.text = oc.m4.d7_gr_GR_cog.ocMA.Kathisma14.text
 
 peMA.Kathisma21.mode = misc_gr_GR_cog.Mode4
 peMA.Kathisma21.melody = he.a.m4_gr_GR_cog.OYpsotheisEnToStavro.incipit
+peMA.Kathisma21.incipit = "Ἀγαλλιάσθω οὐρανός, εὐφραινέσθω, τὰ ἐπὶ"
 peMA.Kathisma21.text = "Ἀγαλλιάσθω οὐρανός, εὐφραινέσθω, τὰ ἐπὶ γῆς, ὅτι Χριστὸς ἐκ Παρθένου, ἐπιφανεὶς ὡς ἄνθρωπος, ἐῤῥύσατο φθορᾶς, ἄπαν τὸ ἀνθρώπινον, τῷ ἰδίῳ θανάτῳ· θαύμασιν ἐκλάμψας δέ, γυναικὶ Σαμαρείτιδι, ὕδωρ αἰτῶν παρέχει τὴν πηγήν, τῶν ἰαμάτων, ὡς μόνος ἀθάνατος."
 
 peMA.Lauds1.mode = misc_gr_GR_cog.Mode4
 peMA.Lauds1.melody = ""
+peMA.Lauds1.incipit = oc.m4.d1_gr_GR_cog.ocMA.Lauds1.incipit
 peMA.Lauds1.text = oc.m4.d1_gr_GR_cog.ocMA.Lauds1.text
 
 peMA.Lauds2.mode = misc_gr_GR_cog.Mode4
 peMA.Lauds2.melody = ""
+peMA.Lauds2.incipit = oc.m4.d1_gr_GR_cog.ocMA.Lauds2.incipit
 peMA.Lauds2.text = oc.m4.d1_gr_GR_cog.ocMA.Lauds2.text
 
 peMA.Lauds3.mode = misc_gr_GR_cog.Mode4
 peMA.Lauds3.melody = ""
+peMA.Lauds3.incipit = oc.m4.d1_gr_GR_cog.ocMA.Lauds3.incipit
 peMA.Lauds3.text = oc.m4.d1_gr_GR_cog.ocMA.Lauds3.text
 
 peMA.Lauds4.mode = misc_gr_GR_cog.Mode4
 peMA.Lauds4.melody = ""
+peMA.Lauds4.incipit = oc.m4.d1_gr_GR_cog.ocMA.Lauds4.incipit
 peMA.Lauds4.text = oc.m4.d1_gr_GR_cog.ocMA.Lauds4.text
 
 peMA.LaudsGlory.mode = misc_gr_GR_cog.Mode6
 peMA.LaudsGlory.melody = pe.d099_gr_GR_cog.peMA.LaudsGlory.melody
+peMA.LaudsGlory.incipit = pe.d099_gr_GR_cog.peMA.LaudsGlory.incipit
 peMA.LaudsGlory.text = pe.d099_gr_GR_cog.peMA.LaudsGlory.text
 
 peMA.Aposticha1.mode = misc_gr_GR_cog.Mode4
 peMA.Aposticha1.melody = he.a.m4_gr_GR_cog.OsGennaionEnMartysi.incipit
+peMA.Aposticha1.incipit = "Τὴν πηγὴν ἐν τῷ φρέατι,"
 peMA.Aposticha1.text = "Τὴν πηγὴν ἐν τῷ φρέατι, κατιδὼν τὴν ἀέναον, καθημένην γύναιον, φέρον καύσωνας, πλείστων παθῶν ἀκεσώδυνον, λαβεῖν ἐπεζήτησεν, ὕδωρ ζῶν τὸ ἐξ αὐτῆς, κρουνηδὸν ἐκχεόμενον· ὃ καὶ ἔλαβε, δωρεὰν ἐκ τοῦ Λόγου· καὶ οὐκέτι πρὸς τὸ φρέαρ ἐπισπεύδει, τὸ γεηρὸν καὶ ἐπίκηρον."
 
 peMA.Aposticha2.mode = misc_gr_GR_cog.Mode4
 peMA.Aposticha2.melody = he.a.m4_gr_GR_cog.OsGennaionEnMartysi.incipit
+peMA.Aposticha2.incipit = "Ἰουδαίων τὰ ἔθιμα, τοῦ γυναίου"
 peMA.Aposticha2.text = "Ἰουδαίων τὰ ἔθιμα, τοῦ γυναίου διώκοντος, καὶ τὸ σφῶν προβάλλοντος ἀκοινώνητον, τῇ μεταλήψει τοῦ ὕδατος, Χριστὸς μετωχέτευσεν, ὁ σοφὸς Δημιουργός, τοῖς ἡδέσι προσφθέγμασιν, ἐξαιτήσασθαι, τὸ ζωήῤῥυτον πόμα, θεῖον ὕδωρ, οὗ πιοῦσα πρὸς τὴν πόλιν, μετοχετεύει τὰ νάματα."
 
 peMA.Aposticha3.mode = misc_gr_GR_cog.Mode4
 peMA.Aposticha3.melody = he.a.m4_gr_GR_cog.OsGennaionEnMartysi.incipit
+peMA.Aposticha3.incipit = "Οὔτε ἄντλημα κέκτησαι, καὶ τὸ"
 peMA.Aposticha3.text = "Οὔτε ἄντλημα κέκτησαι, καὶ τὸ φρέαρ βαθύτατον· πόθεν οὖν καὶ δώσεις μοι ὕδωρ ἄφθαρτον; ἡ Σαμαρεῖτις ἐβόα σοι, Χριστέ σε ὡς ἄνθρωπον, οἰομένη οὐ Θεόν, καὶ τοὺς λόγους θαυμάζουσα· ἣν προσρήμασι, γλυκυτάτοις ἀρδεύσας σὲ Θεόν τε, καὶ Σωτῆρα τῶν ἁπάντων, ὁμολογεῖν παρεσκεύασας."
 
 peMA.AposGlory.mode = misc_gr_GR_cog.Mode6
 peMA.AposGlory.melody = pe.d099_gr_GR_cog.peMA.Lauds8.melody
+peMA.AposGlory.incipit = pe.d099_gr_GR_cog.peMA.Lauds8.incipit
 peMA.AposGlory.text = pe.d099_gr_GR_cog.peMA.Lauds8.text
 

@@ -1,4 +1,4 @@
-A_Resource_Whose_Name = da.d6_gr_GR_cog 
+A_Resource_Whose_Name = da.d6_gr_GR_cog
 
 daDay.text = "Παρασκευή."
 daCommemoration.text = "Σταυρώσιμον."
@@ -8,10 +8,12 @@ daVE.OnTheEveningBefore = template.titles_gr_GR_cog.d.onThursdayEvening
 
 daVE.Apolytikion1.mode = misc_gr_GR_cog.Mode1
 daVE.Apolytikion1.melody = ""
+daVE.Apolytikion1.incipit = me.m09.d14_gr_GR_cog.meVE.Apolytikion1.incipit
 daVE.Apolytikion1.text = me.m09.d14_gr_GR_cog.meVE.Apolytikion1.text
 
 daVE.ApolTheotokion.mode = misc_gr_GR_cog.Mode1
 daVE.ApolTheotokion.melody = ""
+daVE.ApolTheotokion.incipit = oc.m1.d4_gr_GR_cog.ocVE.ApolTheotokionVM.incipit
 daVE.ApolTheotokion.text = oc.m1.d4_gr_GR_cog.ocVE.ApolTheotokionVM.text
 
 daMA.Triadic1Ending.text = "Δυνάμει τοῦ Σταυροῦ σου σῶσον ἡμᾶς."
@@ -28,14 +30,17 @@ daMA.Photagogic3Beginning.text = prayers_gr_GR_cog.fbPresveiaisKyrieTisTheotokou
 
 daMA.Exaposteilarion1.mode = misc_gr_GR_cog.Mode2
 daMA.Exaposteilarion1.melody = he.a.m2_gr_GR_cog.TonMathitonOrontonSe.incipit
+daMA.Exaposteilarion1.incipit = me.m09.d14_gr_GR_cog.meMA.Exaposteilarion1.incipit
 daMA.Exaposteilarion1.text = me.m09.d14_gr_GR_cog.meMA.Exaposteilarion1.text
 
 daMA.Exaposteilarion2.mode = misc_gr_GR_cog.Mode3
 daMA.Exaposteilarion2.melody = he.a.m3_gr_GR_cog.OOuranonToisAstrois.incipit
+daMA.Exaposteilarion2.incipit = "Σταυρὲ Χριστοῦ μου τὸ σκῆπτρον,"
 daMA.Exaposteilarion2.text = "Σταυρὲ Χριστοῦ μου τὸ σκῆπτρον, καὶ νῖκος τῶν ἀνακτόρων, τῶν Ὀρθοδόξων ἡ δόξα, φρούρει τοὺς σὲ προσκυνοῦντας, ἵνα ἡττῶνται τὰ πλήθη, τῶν κακοδόξων ἀνθρώπων."
 
 daMA.ExapTheotokion2.mode = misc_gr_GR_cog.Mode3
 daMA.ExapTheotokion2.melody = he.a.m3_gr_GR_cog.OOuranonToisAstrois.incipit
+daMA.ExapTheotokion2.incipit = "Ἐν τῷ Σταυρῷ παρεστῶσα, ἡ"
 daMA.ExapTheotokion2.text = "Ἐν τῷ Σταυρῷ παρεστῶσα, ἡ σὲ ἀσπόρως τεκοῦσα, καὶ θρηνῳδοῦσα ἐβόα· Οἴμοι! γλυκύτατον τέκνον, πῶς ἔδυς ἐξ ὀφθαλμῶν μου, πῶς ἐν νεκροῖς ἐλογίσθης;"
 
 daLI.CommunionHymn.text = properties_gr_GR_cog.media.key

@@ -1,10 +1,11 @@
-A_Resource_Whose_Name = da.d1_gr_GR_cog 
+A_Resource_Whose_Name = da.d1_gr_GR_cog
 
 daDay.text = "Κυριακή."
 daCommemoration.text = "Ἀναστάσιμα."
 
 daVE.OnTheEveningBefore = template.titles_gr_GR_cog.d.onSaturdayEvening
 
-daLI.GospelAlleluia.text = prayers_gr_GR_cog.Allilouia3.text 
+daLI.GospelAlleluia.incipit = prayers_gr_GR_cog.Allilouia3.incipit
+daLI.GospelAlleluia.text = prayers_gr_GR_cog.Allilouia3.text
 
 daLI.CommunionHymn.text = properties_gr_GR_cog.media.key

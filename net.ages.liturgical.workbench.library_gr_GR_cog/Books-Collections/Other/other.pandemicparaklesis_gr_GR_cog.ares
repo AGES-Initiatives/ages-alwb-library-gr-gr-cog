@@ -1,4 +1,4 @@
-A_Resource_Whose_Name = other.pandemicparaklesis_gr_GR_cog 
+A_Resource_Whose_Name = other.pandemicparaklesis_gr_GR_cog
 
 hoCA.title = "Παρακλητικός Κανὼν"
 hoCA.title2 = "Ψαλλόμενος εἰς Ἀπειλὴν Λοιμικῆς Ἀσθενείας"
@@ -11,10 +11,12 @@ hoCA.media.text = "" // for complete music
 
 hoCA.Apolytikion1.mode = misc_gr_GR_cog.Mode4
 hoCA.Apolytikion1.melody = he.a.m4_gr_GR_cog.OYpsotheisEnToStavro.incipit
+hoCA.Apolytikion1.incipit = "Ὁ ἰατρὸς τῶν χαλεπῶς ἀσθενούντων,"
 hoCA.Apolytikion1.text = "Ὁ ἰατρὸς τῶν χαλεπῶς ἀσθενούντων, καὶ ἀντιλήπτωρ τῶν εἰς σὲ ἐλπιζόντων, ὁ πάντας θέλων Κύριε, σωθῆναι τοὺς βροτούς, ἐφ' ἡμᾶς ἐπίβλεψον, ἀπὸ θρόνου σου δόξης, καὶ κραυγῆς ἐπάκουσον, ἐκ βαθέων βοώσης· Ἐκ τοῦ λοιμοῦ ἀπάλλαξον ἡμᾶς, τῆς ἀπειλῆς ὡς Θεὸς πολυεύσπλαγχνος."
 
 hoCA.Apolytikion2.mode = misc_gr_GR_cog.Mode4
 hoCA.Apolytikion2.melody = he.a.m4_gr_GR_cog.OYpsotheisEnToStavro.incipit
+hoCA.Apolytikion2.incipit = ho.s23_gr_GR_cog.hoCA.Apolytikion2.incipit
 hoCA.Apolytikion2.text = ho.s23_gr_GR_cog.hoCA.Apolytikion2.text
 
 hoCA.acrostic = "οὗ ἡ Ἀκροστιχὶς ἐν τῷ δ´ Τροπαρίῳ ἑκάστης Ὠιδῆς· «Κυρίλλου»."
@@ -23,223 +25,275 @@ hoCA.verse = prayers_gr_GR_cog.verse_Trinity.text
 hoCA.Ode11.ode = misc_gr_GR_cog.Ode1
 hoCA.Ode11.mode = misc_gr_GR_cog.Mode8
 hoCA.Ode11.melody = he.h.m8_gr_GR_cog.YgranDiodefsas.incipit
+hoCA.Ode11.incipit = "Τριὰς Παναγία ὁ Εἷς Θεός,"
 hoCA.Ode11.text = "Τριὰς Παναγία ὁ Εἷς Θεός, τὴν σὴν εὐσπλαγχνίαν, ἡμῖν δεῖξον τοῖς ταπεινοῖς, καὶ παῦσον λοιμοῦ θανατηφόρου, τὴν ἐπελθοῦσαν πολύπονον μάστιγα."
 
 hoCA.Ode12.ode = misc_gr_GR_cog.Ode1
 hoCA.Ode12.mode = misc_gr_GR_cog.Mode8
 hoCA.Ode12.melody = he.h.m8_gr_GR_cog.YgranDiodefsas.incipit
+hoCA.Ode12.incipit = "Λοιμοῦ ἐνεστῶτος ἐπιδρομή, συνέχει Οἰκτίρμων,"
 hoCA.Ode12.text = "Λοιμοῦ ἐνεστῶτος ἐπιδρομή, συνέχει Οἰκτίρμων, τὰς καρδίας πάντων ἡμῶν· πρόφθασον καὶ σῶσον τὸν λαόν σου, τὸν εἰς σὲ μόνον ἐλπίζοντα, Κύριε."
 
 hoCA.Ode13.ode = misc_gr_GR_cog.Ode1
 hoCA.Ode13.mode = misc_gr_GR_cog.Mode8
 hoCA.Ode13.melody = he.h.m8_gr_GR_cog.YgranDiodefsas.incipit
+hoCA.Ode13.incipit = "Εὐχαῖς Ἀποστόλων καὶ Προφητῶν, Μαρτύρων,"
 hoCA.Ode13.text = "Εὐχαῖς Ἀποστόλων καὶ Προφητῶν, Μαρτύρων, Ὁσίων, θεοφόρων Ἱεραρχῶν, ἵλαθι Οἰκτίρμων τοῦ λαοῦ σου, καὶ ἐκ λοιμοῦ τοῦ κινδύνου διάσωσον."
 
 hoCA.Ode1T.ode = misc_gr_GR_cog.Ode1
 hoCA.Ode1T.mode = misc_gr_GR_cog.Mode8
 hoCA.Ode1T.melody = he.h.m8_gr_GR_cog.YgranDiodefsas.incipit
+hoCA.Ode1T.incipit = "Κυρία Παρθένε Μῆτερ Θεοῦ, τῶν"
 hoCA.Ode1T.text = "Κυρία Παρθένε Μῆτερ Θεοῦ, τῶν ἀπεγνωσμένων, γλυκυτάτη καταφυγή, ἡμᾶς ἐν λοιμοῦ τοῦ ἐνεστῶτος, τῇ περιστάσει χορήγει παράκλησιν."
 
 hoCA.Ode31.ode = misc_gr_GR_cog.Ode3
 hoCA.Ode31.mode = misc_gr_GR_cog.Mode8
 hoCA.Ode31.melody = he.h.m8_gr_GR_cog.OuraniasApsidos.incipit
+hoCA.Ode31.incipit = "Στεναγμοὺς τῆς καρδίας, σῶν οἰκετῶν"
 hoCA.Ode31.text = "Στεναγμοὺς τῆς καρδίας, σῶν οἰκετῶν ἄκουσον, σπλάγχνοις ἐν πολλῶν οἰκτριρμῶν σου, Εὔσπλαγχνε Κύριε, καὶ ἀποσόβησον, τῆς λοιμικῆς ἀῤῥωστίας, τάχιστα τόν κίνδυνον, ἀπὸ τῶν τέκνων σου."
 
 hoCA.Ode32.ode = misc_gr_GR_cog.Ode3
 hoCA.Ode32.mode = misc_gr_GR_cog.Mode8
 hoCA.Ode32.melody = he.h.m8_gr_GR_cog.OuraniasApsidos.incipit
+hoCA.Ode32.incipit = "Ὢ Τριὰς Παναγία! ὢ Ἀγαθὲ"
 hoCA.Ode32.text = "Ὢ Τριὰς Παναγία! ὢ Ἀγαθὲ Κύριε! σὲ γονυπετοῦντες ἐν πίστει, καθικετεύομεν· Δεῦρο ἐλέησον, τὰ πλάσματά σου Οἰκτῖρμον, καὶ λοιμοῦ ἀπάλλαξον, λύμης καὶ θλίψεως."
 
 hoCA.Ode33.ode = misc_gr_GR_cog.Ode3
 hoCA.Ode33.mode = misc_gr_GR_cog.Mode8
 hoCA.Ode33.melody = he.h.m8_gr_GR_cog.OuraniasApsidos.incipit
+hoCA.Ode33.incipit = "Τὴν ταπείνωσιν ἴδε, σῶν οἰκετῶν"
 hoCA.Ode33.text = "Τὴν ταπείνωσιν ἴδε, σῶν οἰκετῶν Δέσποτα· ἄφες τὰς πολλὰς ἁμαρτίας, ἡμῶν δεόμεθα, καὶ ῥῦσαι Δέσποτα, ἐκ τῆς παρούσης ἀνάγκης, γένος τὸ ἀνθρώπινον, ὡς πολυεύσπλαγχνος."
 
 hoCA.Ode3T.ode = misc_gr_GR_cog.Ode3
 hoCA.Ode3T.mode = misc_gr_GR_cog.Mode8
 hoCA.Ode3T.melody = he.h.m8_gr_GR_cog.OuraniasApsidos.incipit
+hoCA.Ode3T.incipit = "Ὑπερύμνητε Κόρη, ἡ τὸν Θεὸν"
 hoCA.Ode3T.text = "Ὑπερύμνητε Κόρη, ἡ τὸν Θεὸν τέξασα, τὸν τὰς ἀσθενείας καὶ νόσους, βροτῶν βαστάσαντα, ἀτρώτους φύλαττε, ἐκ λοιμοφόρου ἀνάγκης, τοὺς πιστοὺς ἱκέτας σου, τῇ προμηθείᾳ σου."
 
 hoCA.Troparion31.mode = misc_gr_GR_cog.Mode8
 hoCA.Troparion31.melody = ""
+hoCA.Troparion31.incipit = "Διάσωσον Τριὰς Ἁγία, ὁ Κύριος"
 hoCA.Troparion31.text = "Διάσωσον Τριὰς Ἁγία, ὁ Κύριος τοῦ ἐλέους, ἀπὸ λοιμοῦ τῆς ἀνάγκης καὶ θλίψεως, οὓς φιλανθρώπως σωθῆναι θέλεις ἀνθρώπους."
 
 hoCA.Troparion32.mode = misc_gr_GR_cog.Mode8
 hoCA.Troparion32.melody = ""
+hoCA.Troparion32.incipit = ho.s23_gr_GR_cog.hoCA.Troparion32.incipit
 hoCA.Troparion32.text = ho.s23_gr_GR_cog.hoCA.Troparion32.text
 
 hoCA.Kathisma11.mode = misc_gr_GR_cog.Mode2
 hoCA.Kathisma11.melody = he.a.m2_gr_GR_cog.TaAnoZiton.incipit
+hoCA.Kathisma11.incipit = "Ἁγία Τριάς, ὁ Εἷς Θεὸς"
 hoCA.Kathisma11.text = "Ἁγία Τριάς, ὁ Εἷς Θεὸς καὶ Κύριος, τῆς βροτολοιγοῦς, ἐπιδραμούσης θλίψεως, τὸν λαόν σου λύτρωσαι, τὴν ὑγείαν πᾶσι δωρούμενος· τοῦ σοῦ ἐλέους πλήρης γὰρ ἡ γῆ, καὶ σοὶ προσκυνοῦμεν Παντοδύναμε."
 
 hoCA.Ode41.ode = misc_gr_GR_cog.Ode4
 hoCA.Ode41.mode = misc_gr_GR_cog.Mode8
 hoCA.Ode41.melody = he.h.m8_gr_GR_cog.EisakikoaKyrie.incipit
+hoCA.Ode41.incipit = "Ἀνεξάντλητον πέλαγος, οἰκτιρμῶν ὑπάρχων Εὔσπλαγχνε"
 hoCA.Ode41.text = "Ἀνεξάντλητον πέλαγος, οἰκτιρμῶν ὑπάρχων Εὔσπλαγχνε Κύριε, μὴ ἐάσῃς ἀπολλύμενον, λοιμικῆς ἐκ νόσου τὸ ἀνθρώπινον."
 
 hoCA.Ode42.ode = misc_gr_GR_cog.Ode4
 hoCA.Ode42.mode = misc_gr_GR_cog.Mode8
 hoCA.Ode42.melody = he.h.m8_gr_GR_cog.EisakikoaKyrie.incipit
+hoCA.Ode42.incipit = "Σοὶ δακρύοντες λέγομεν· Ἐπὶ τὸν"
 hoCA.Ode42.text = "Σοὶ δακρύοντες λέγομεν· Ἐπὶ τὸν λαόν σου Σῶτερ σπλαγχνίσθητι, καὶ τῆς νόσου τὴν κατήφειαν, εἰς χαρὰν τελείαν μεταποίησον."
 
 hoCA.Ode43.ode = misc_gr_GR_cog.Ode4
 hoCA.Ode43.mode = misc_gr_GR_cog.Mode8
 hoCA.Ode43.melody = he.h.m8_gr_GR_cog.EisakikoaKyrie.incipit
+hoCA.Ode43.incipit = "Φιλανθρώπως οἰκτείρησον· τῆς φωνῆς ἐπάκουσον"
 hoCA.Ode43.text = "Φιλανθρώπως οἰκτείρησον· τῆς φωνῆς ἐπάκουσον ἡμῶν Δέσποτα, καὶ διάσωσον ὡς εὔσπλαγχνος, ἀπὸ τῆς εὑρούσης ἡμᾶς θλίψεως."
 
 hoCA.Ode4T.ode = misc_gr_GR_cog.Ode4
 hoCA.Ode4T.mode = misc_gr_GR_cog.Mode8
 hoCA.Ode4T.melody = he.h.m8_gr_GR_cog.EisakikoaKyrie.incipit
+hoCA.Ode4T.incipit = "Ῥῶσιν δίδου καὶ δύναμιν, ἐν"
 hoCA.Ode4T.text = "Ῥῶσιν δίδου καὶ δύναμιν, ἐν τῇ ἐνεστώσῃ ἀνάγκῃ ἅπασι, τοῖς προστρέχουσι τῇ σκέπῃ σου, Θεοτόκε Κόρη Ἀειπάρθενε."
 
 hoCA.Ode51.ode = misc_gr_GR_cog.Ode5
 hoCA.Ode51.mode = misc_gr_GR_cog.Mode8
 hoCA.Ode51.melody = he.h.m8_gr_GR_cog.FotisonImas.incipit
+hoCA.Ode51.incipit = "Ἄλλον σου Θεόν, οὐ γινώσκομεν"
 hoCA.Ode51.text = "Ἄλλον σου Θεόν, οὐ γινώσκομεν καὶ Κύριον· σοῦ δεόμεθα ἀφάνισον ταχύ, ἀσθενείας τὴν φορὰν ὡς Πολυέλεος."
 
 hoCA.Ode52.ode = misc_gr_GR_cog.Ode5
 hoCA.Ode52.mode = misc_gr_GR_cog.Mode8
 hoCA.Ode52.melody = he.h.m8_gr_GR_cog.FotisonImas.incipit
+hoCA.Ode52.incipit = "Σκέπασον ἡμᾶς, ἐν τῇ σκέπῃ"
 hoCA.Ode52.text = "Σκέπασον ἡμᾶς, ἐν τῇ σκέπῃ τῶν πτερύγων σου, Παντοδύναμε καὶ πλήθει οἰκτιρμῶν, ἐν ὑγείᾳ τὴν ζωὴν ἡμῶν συντήρησον."
 
 hoCA.Ode53.ode = misc_gr_GR_cog.Ode5
 hoCA.Ode53.mode = misc_gr_GR_cog.Mode8
 hoCA.Ode53.melody = he.h.m8_gr_GR_cog.FotisonImas.incipit
+hoCA.Ode53.incipit = "Δίκαιος εἶ σύ, καὶ δικαία"
 hoCA.Ode53.text = "Δίκαιος εἶ σύ, καὶ δικαία εἶ ἡ κρίσις σου· Ἀλλὰ πρόφθασον Φιλάνθρωπε ἡμᾶς, τῆς φονίου ἀσθενείας ἐξαιρούμενος."
 
 hoCA.Ode5T.ode = misc_gr_GR_cog.Ode5
 hoCA.Ode5T.mode = misc_gr_GR_cog.Mode8
 hoCA.Ode5T.melody = he.h.m8_gr_GR_cog.FotisonImas.incipit
+hoCA.Ode5T.incipit = "Ἴδε συμπαθῶς, ἐφ' ἡμᾶς Παρθένε"
 hoCA.Ode5T.text = "Ἴδε συμπαθῶς, ἐφ' ἡμᾶς Παρθένε Ἄχραντε, καὶ λοιμοῦ τῆς ἐπελθούσης ἀπειλῆς, ἀνωτέραν τὴν ζωὴν ἡμῶν συντήρησον."
 
 hoCA.Ode61.ode = misc_gr_GR_cog.Ode6
 hoCA.Ode61.mode = misc_gr_GR_cog.Mode8
 hoCA.Ode61.melody = he.h.m8_gr_GR_cog.TinDeisinEkcheo.incipit
+hoCA.Ode61.incipit = "Ἀσθένειαν τὴν ἡμῶν Φιλάνθρωπε, ὁ"
 hoCA.Ode61.text = "Ἀσθένειαν τὴν ἡμῶν Φιλάνθρωπε, ὁ φορέσας δι' ἀφάτου ἀγάπης, τῆς συνεχούσης ἡμᾶς ἀνυποίστως, ἐκ τοῦ λοιμοῦ χαλεποῦς ἀπογνώσεως, ἀπάλλαξον ὡς ἀγαθός, παρορῶν τὰ ἡμῶν ἁμαρτήματα."
 
 hoCA.Ode62.ode = misc_gr_GR_cog.Ode6
 hoCA.Ode62.mode = misc_gr_GR_cog.Mode8
 hoCA.Ode62.melody = he.h.m8_gr_GR_cog.TinDeisinEkcheo.incipit
+hoCA.Ode62.incipit = "Θαυμάσια ὁ ποιῶν καὶ τέρατα,"
 hoCA.Ode62.text = "Θαυμάσια ὁ ποιῶν καὶ τέρατα, ἀριθμὸς ὧν οὐχ ὑπάρχει Οἰκτίρμων, τῆς ἐπελθούσης δεινῆς ἀσθενείας, τὴν τρικυμίαν ἐν τάχει κατάπαυσον, καὶ εἰς λιμένα γαληνόν, τῆς ὑγείας ἡμᾶς ἐγκαθόρμισον."
 
 hoCA.Ode63.ode = misc_gr_GR_cog.Ode6
 hoCA.Ode63.mode = misc_gr_GR_cog.Mode8
 hoCA.Ode63.melody = he.h.m8_gr_GR_cog.TinDeisinEkcheo.incipit
+hoCA.Ode63.incipit = "Βαλλόμενοι ἀπειλῇ Φιλάνθρωπε, τοῦ θανάτου"
 hoCA.Ode63.text = "Βαλλόμενοι ἀπειλῇ Φιλάνθρωπε, τοῦ θανάτου ἐκ λοιμοῦ πανωλέθρου, σοὶ καταφεύγομεν αἵροντες χεῖρας, ἱκετηρίους καὶ κλαίοντες κράζομεν· Ἀπολλυμένους νῦν ἡμᾶς, Ἐπιστάτα Οἰκτῖρμον βοήθησον."
 
 hoCA.Ode6T.ode = misc_gr_GR_cog.Ode6
 hoCA.Ode6T.mode = misc_gr_GR_cog.Mode8
 hoCA.Ode6T.melody = he.h.m8_gr_GR_cog.TinDeisinEkcheo.incipit
+hoCA.Ode6T.incipit = "Λαῷ σου, τῷ εὐσεβῶς δοξάζοντι,"
 hoCA.Ode6T.text = "Λαῷ σου, τῷ εὐσεβῶς δοξάζοντι, τὸν ἐκ σοῦ ἀνερμηνεύτως τεχθέντα, τῇ μητρικῇ σου στοργῇ καὶ ἀγάπῃ, Θεοκυῆτορ ἀπέργασαι ἵλεων, ἵνα λυτρώσηται αὐτός, ἐκ λοιμοῦ τοὺς δι' οὓς ἐνηνθρώπησεν."
 
 hoCA.Troparion61.mode = misc_gr_GR_cog.Mode8
 hoCA.Troparion61.melody = ""
+hoCA.Troparion61.incipit = hoCA.Troparion31.incipit
 hoCA.Troparion61.text = hoCA.Troparion31.text
 
 hoCA.Troparion62.mode = misc_gr_GR_cog.Mode8
 hoCA.Troparion62.melody = ""
+hoCA.Troparion62.incipit = ho.s23_gr_GR_cog.hoCA.Troparion62.incipit
 hoCA.Troparion62.text = ho.s23_gr_GR_cog.hoCA.Troparion62.text
 
 hoCA.Kontakion.mode = misc_gr_GR_cog.Mode2
 hoCA.Kontakion.melody = he.a.m2_gr_GR_cog.ToisTonAimatonSou.incipit
+hoCA.Kontakion.incipit = "Φιλανθρωπίας σου δεῖξον τὴν ἄβυσσον,"
 hoCA.Kontakion.text = "Φιλανθρωπίας σου δεῖξον τὴν ἄβυσσον, ἐπὶ πολὺ Παντοδύναμε Κύριε· ἐλέησον, σῶσον, οἰκτείρησον, καὶ τοῦ λοιμοῦ τὸν λαόν σου ἀπάλλαξον, ἱκέσιον ὕμνον σοι ᾄδοντα."
 
 hoCA.PostGospelGlory.mode = misc_gr_GR_cog.Mode2
 hoCA.PostGospelGlory.melody = ""
+hoCA.PostGospelGlory.incipit = ho.s03_gr_GR_cog.hoMA.PostGospelTrinity.incipit
 hoCA.PostGospelGlory.text = ho.s03_gr_GR_cog.hoMA.PostGospelTrinity.text
 
 hoCA.PostGospelBoth.mode = misc_gr_GR_cog.Mode2
 hoCA.PostGospelBoth.melody = ""
+hoCA.PostGospelBoth.incipit = ho.s03_gr_GR_cog.hoMA.PostGospelTheotokos.incipit
 hoCA.PostGospelBoth.text = ho.s03_gr_GR_cog.hoMA.PostGospelTheotokos.text
 
 hoCA.PostGospelHymn1.mode = misc_gr_GR_cog.Mode6
 hoCA.PostGospelHymn1.melody = he.a.m6_gr_GR_cog.OlinApothemenoi.incipit
+hoCA.PostGospelHymn1.incipit = "Δέσποτα Φιλάνθρωπε, ὁ πάντας θέλων"
 hoCA.PostGospelHymn1.text = "Δέσποτα Φιλάνθρωπε, ὁ πάντας θέλων σωθῆναι, ὁ μὴ θέλων θάνατον, καὶ ζωῆς τὸ πλήρωμα, χαριζόμενος, σὲ παροργίζομεν, ἀλλὰ σὲ καὶ μόνον, οἱ ταλαίπωροι λατρεύομεν· εἰς σὲ ἐλπίζομεν, πλήν σου προστασίαν οὐκ ἔχομεν· διό σοι καταφεύγομεν, καὶ ἐν μετανοίᾳ κραυγάζομεν· Τοῖς ἐν ἁμαρτίαις, ἱλάσθητι Φιλάνθρωπε ἡμῖν, καὶ ἀσθενείας τῆς λαίλαπος, τὸν λαόν σου λύτρωσαι."
 
 hoCA.Ode71.ode = misc_gr_GR_cog.Ode7
 hoCA.Ode71.mode = misc_gr_GR_cog.Mode8
 hoCA.Ode71.melody = he.h.m8_gr_GR_cog.OiEkTisIoudaias.incipit
+hoCA.Ode71.incipit = "Ἐπὶ σοὶ τῷ Κυρίῳ, τῷ"
 hoCA.Ode71.text = "Ἐπὶ σοὶ τῷ Κυρίῳ, τῷ ζωὴν χορηγοῦντι, ἡμεῖς ἐλπίζομεν· ἐκ ταύτης ἡμᾶς σῶσον, τῆς λοιμικῆς ἀνάγκης, τῷ ἐλέει σου κράζοντας· Ὁ τῶν Πατέρων ἡμῶν, Θεὸς εὐλογητός εἶ."
 
 hoCA.Ode72.ode = misc_gr_GR_cog.Ode7
 hoCA.Ode72.mode = misc_gr_GR_cog.Mode8
 hoCA.Ode72.melody = he.h.m8_gr_GR_cog.OiEkTisIoudaias.incipit
+hoCA.Ode72.incipit = "Θαυμαστὰ καὶ μεγάλα, ὑπὲρ γένους"
 hoCA.Ode72.text = "Θαυμαστὰ καὶ μεγάλα, ὑπὲρ γένους ἀνθρώπων, ὁ ἐργαζόμενος, Φιλάνθρωπε ἐκ λύμης, λοιμοῦ τοῦ ἐνεστῶτος, ἡμᾶς ῥῦσαι τοὺς ψάλλοντας· Ὁ τῶν Πατέρων ἡμῶν, Θεὸς εὐλογητὸς εἶ."
 
 hoCA.Ode73.ode = misc_gr_GR_cog.Ode7
 hoCA.Ode73.mode = misc_gr_GR_cog.Mode8
 hoCA.Ode73.melody = he.h.m8_gr_GR_cog.OiEkTisIoudaias.incipit
+hoCA.Ode73.incipit = "Ἐν ὀδύνῃ μεγίστῃ, οἱ λοιμῷ"
 hoCA.Ode73.text = "Ἐν ὀδύνῃ μεγίστῃ, οἱ λοιμῷ βαρυτάτῳ, ἐπαπειλούμενοι, ἐλέησον βοῶμεν, καὶ σῶσον Ζωοδότα, τὸν λαόν σου κραυγάζοντα· Ὁ τῶν Πατέρων ἡμῶν, Θεὸς εὐλογητὸς εἶ."
 
 hoCA.Ode7T.ode = misc_gr_GR_cog.Ode7
 hoCA.Ode7T.mode = misc_gr_GR_cog.Mode8
 hoCA.Ode7T.melody = he.h.m8_gr_GR_cog.OiEkTisIoudaias.incipit
+hoCA.Ode7T.incipit = "Λυτρωτὴν τοῖς ἀνθρώποις, ἡ ἀφράστως"
 hoCA.Ode7T.text = "Λυτρωτὴν τοῖς ἀνθρώποις, ἡ ἀφράστως τεκοῦσα, Παρθένε Ἄχραντε, λοιμοῦ ἐπιδραμόντος, σφοδρῶς τῇ οἰκουμένῃ, τὴν ὁρμὴν ἀναχαίτισον, καὶ δὸς γαλήνην ἡμῖν, χάριτι μητρικῇ σου."
 
 hoCA.Ode81.ode = misc_gr_GR_cog.Ode8
 hoCA.Ode81.mode = misc_gr_GR_cog.Mode8
 hoCA.Ode81.melody = he.h.m8_gr_GR_cog.TonVasileaTonOuranon.incipit
+hoCA.Ode81.incipit = "Οἱ πεποιθότες, ἐπὶ σὲ μόνε"
 hoCA.Ode81.text = "Οἱ πεποιθότες, ἐπὶ σὲ μόνε Οἰκτῖρμον, σοῦ δεόμεθα καὶ σὲ παρακαλοῦμεν· Ῥῦσαι ἡμᾶς Σῶτερ, ἐκ τοῦ λοιμοῦ τῆς βλάβης."
 
 hoCA.Ode82.ode = misc_gr_GR_cog.Ode8
 hoCA.Ode82.mode = misc_gr_GR_cog.Mode8
 hoCA.Ode82.melody = he.h.m8_gr_GR_cog.TonVasileaTonOuranon.incipit
+hoCA.Ode82.incipit = "Ἀνάστα, σῶσον, τῆς ἐνεστώσης ἀνάγκης,"
 hoCA.Ode82.text = "Ἀνάστα, σῶσον, τῆς ἐνεστώσης ἀνάγκης, τὸ ἀνθρώπινον· ἐλπὶς γὰρ σὺ εἶ μόνη, τῶν ἐν νόσῳ Σῶτερ, δεινῶς χειμαζομένων."
 
 hoCA.Ode83.ode = misc_gr_GR_cog.Ode8
 hoCA.Ode83.mode = misc_gr_GR_cog.Mode8
 hoCA.Ode83.melody = he.h.m8_gr_GR_cog.TonVasileaTonOuranon.incipit
+hoCA.Ode83.incipit = "Τὰς ἁμαρτίας, ἄφες ἡμῖν Ζωοδότα·"
 hoCA.Ode83.text = "Τὰς ἁμαρτίας, ἄφες ἡμῖν Ζωοδότα· ἐπικάμφθητι ἡμῶν τῇ ταπεινώσει, καὶ δὸς τῷ λαῷ σου, ἀσφάλειαν ὑγείας."
 
 hoCA.Ode8T.ode = misc_gr_GR_cog.Ode8
 hoCA.Ode8T.mode = misc_gr_GR_cog.Mode8
 hoCA.Ode8T.melody = he.h.m8_gr_GR_cog.TonVasileaTonOuranon.incipit
+hoCA.Ode8T.incipit = "Ὅρμος γαλήνης, ἐν τρικυμίᾳ τῆς"
 hoCA.Ode8T.text = "Ὅρμος γαλήνης, ἐν τρικυμίᾳ τῆς νόσου, τῆς εὑρούσης ἡμᾶς σφόδρα Θεομῆτορ, ἡ χάρις γενέσθω, τῆς θείας σου πρεσβείας."
 
 hoCA.Ode91.ode = misc_gr_GR_cog.Ode9
 hoCA.Ode91.mode = misc_gr_GR_cog.Mode8
 hoCA.Ode91.melody = he.h.m8_gr_GR_cog.KyriosTheotokon.incipit
+hoCA.Ode91.incipit = "Ἐν τῷ ἐπικαλεῖσθαι, εἰσάκουσον Σῶτερ,"
 hoCA.Ode91.text = "Ἐν τῷ ἐπικαλεῖσθαι, εἰσάκουσον Σῶτερ, τῶν οἰκετῶν σου ἐν θλίψει βοώντων σοι, καὶ ἐξελοῦ ἐκ κινδύνου, ἡμᾶς λοιμώξεως."
 
 hoCA.Ode92.ode = misc_gr_GR_cog.Ode9
 hoCA.Ode92.mode = misc_gr_GR_cog.Mode8
 hoCA.Ode92.melody = he.h.m8_gr_GR_cog.KyriosTheotokon.incipit
+hoCA.Ode92.incipit = "Τῆς σῆς φιλανθρωπίας, τὴν ἄβυσσον"
 hoCA.Ode92.text = "Τῆς σῆς φιλανθρωπίας, τὴν ἄβυσσον δεῖξον, καὶ τὰ ἐλέη σου Σῶτερ θαυμάστωσον, ἐξ ἀσθενείας λοιμώδους, ἡμᾶς ῥυόμενος."
 
 hoCA.Ode93.ode = misc_gr_GR_cog.Ode9
 hoCA.Ode93.mode = misc_gr_GR_cog.Mode8
 hoCA.Ode93.melody = he.h.m8_gr_GR_cog.KyriosTheotokon.incipit
+hoCA.Ode93.incipit = "Πρεσβείαις Χαραλάμπους, τοῦ Ἱεροάθλου, τῆς"
 hoCA.Ode93.text = "Πρεσβείαις Χαραλάμπους, τοῦ Ἱεροάθλου, τῆς λοιμικῆς ἡμᾶς νόσου ἀπάλλαξον, ἵνα δοξάζωμεν Σῶτερ, τὸ θεῖον κράτος σου."
 
 hoCA.Ode9T.ode = misc_gr_GR_cog.Ode9
 hoCA.Ode9T.mode = misc_gr_GR_cog.Mode8
 hoCA.Ode9T.melody = he.h.m8_gr_GR_cog.KyriosTheotokon.incipit
+hoCA.Ode9T.incipit = "Ὑπέραγνε Μαρία, Κεχαριτωμένη, ἡ τῶν"
 hoCA.Ode9T.text = "Ὑπέραγνε Μαρία, Κεχαριτωμένη, ἡ τῶν ἀνθρώπων ἑτοίμη βοήθεια, τοῖς ἀσθενοῦσι τελείαν, τὴν ῥῶσιν δώρησον."
 
+hoCA.Meg00.incipit = ho.s03_gr_GR_cog.hoMA.Ode9.Meg00.incipit
 hoCA.Meg00.text = ho.s03_gr_GR_cog.hoMA.Ode9.Meg00.text
 hoCA.Meg01.melody = misc_gr_GR_cog.Heirmos
+hoCA.Meg01.incipit = he.h.m6_gr_GR_cog.TinTimioteran.incipit
 hoCA.Meg01.text = he.h.m6_gr_GR_cog.TinTimioteran.text
 hoCA.Meg02.melody = he.h.m6_gr_GR_cog.TinTimioteran.incipit
+hoCA.Meg02.incipit = "Δέσποτα Οἰκτῖρμον ὁ ἰατρὸς, ψυχῶν"
 hoCA.Meg02.text = "Δέσποτα Οἰκτῖρμον ὁ ἰατρὸς, ψυχῶν καὶ σωμάτων, σοῦ δεόμεθα ἐκτενῶς· Ἄνες, ἄφες Σῶτερ, ἡμῶν τὰς ἁμαρτίας, καὶ σῶσον τῆς λοιμώδους, ὀργῆς τοὺς δούλους σου."
 hoCA.Meg03.melody = he.h.m6_gr_GR_cog.TinTimioteran.incipit
+hoCA.Meg03.incipit = "Νόσου ἐνεστώσης βροτολοιγοῦς, ὁ φόβος"
 hoCA.Meg03.text = "Νόσου ἐνεστώσης βροτολοιγοῦς, ὁ φόβος συνέχει, τὰς καρδίας πάντων ἡμῶν· πρόφθασον καὶ σῶσον, ἡμᾶς ἐκλιπαροῦντας, τὸ μέγα ἔλεος σου, Εὔσπλαγχνε Κύριε."
 hoCA.Meg04.melody = he.h.m6_gr_GR_cog.TinTimioteran.incipit
+hoCA.Meg04.incipit = "Πρόβατα νομῆς σου πάντες ἡμεῖς,"
 hoCA.Meg04.text = "Πρόβατα νομῆς σου πάντες ἡμεῖς, ὑπάρχομεν Σῶτερ, κἂν ἐν πλήθει ἁμαρτιῶν· Μὴ ἐξουδενώσῃς, ἡμῶν τὴν ἱκεσίαν, ἀλλὰ τῆς ἀσθενείας, παῦσον τὸν τάραχον."
 hoCA.Meg05.melody = he.h.m6_gr_GR_cog.TinTimioteran.incipit
+hoCA.Meg05.incipit = "Ἀπὸ τοῦ αἰῶνος ὡς ἀληθῶς,"
 hoCA.Meg05.text = "Ἀπὸ τοῦ αἰῶνος ὡς ἀληθῶς, ἕως τοῦ αἰῶνος, τὸ σὸν ἔλεος Ἀγαθέ· αὐτοῦ οὖν τῷ πλήθει, τὸ πλῆθος τῶν ἀνθρώπων, τοῦ ἐπελθόντος ῥῦσαι, λοιμοῦ Φιλάνθρωπε."
 hoCA.Meg06.melody = he.h.m6_gr_GR_cog.TinTimioteran.incipit
+hoCA.Meg06.incipit = "Νόσου ἐπωδύνου τῇ ἀπειλῇ, ἡμᾶς"
 hoCA.Meg06.text = "Νόσου ἐπωδύνου τῇ ἀπειλῇ, ἡμᾶς τοὺς ἀθλίους, ἐν τῷ θλίψεσθαι χαλεπῶς, καὶ ἀπορουμένους, Κύριε μὴ παρίδῃς, ἀλλ' ἐξελοῦ ταχέως, ἡμᾶς τῆς θλίψεως."
 hoCA.Meg0F.melody = he.h.m6_gr_GR_cog.TinTimioteran.incipit
+hoCA.Meg0F.incipit = ho.s23_gr_GR_cog.hoCA.Meg0F.incipit
 hoCA.Meg0F.text = ho.s23_gr_GR_cog.hoCA.Meg0F.text
 
 hoCA.Troparion1.mode = misc_gr_GR_cog.Mode2
 hoCA.Troparion1.melody = he.a.m2_gr_GR_cog.OteEkTouXylou.incipit
+hoCA.Troparion1.incipit = "Ἔκδεξον ὡς εὔσπλαγχνος ἡμᾶς, τοὺς"
 hoCA.Troparion1.text = "Ἔκδεξον ὡς εὔσπλαγχνος ἡμᾶς, τοὺς χειμαζομένους τῷ φόβῳ, τῆς λοιμικῆς ἀπειλῆς· πρόφθασον καὶ ποίησον, κατὰ τὸ ἔλεος, τὸ πολύ σου Φιλάνθρωπε, μετὰ τῶν σῶν δούλων, ταύτην τὴν ἱκέσιον, φωνὴν δεχόμενος· Πρόσχες οἰκτιρμῶν σου ἐν πλούτῳ, εἰς τὸ βοηθῆσαι λαῷ σου, ἐπὶ σὲ ἐκ πίστεως ἐλπίζοντι."
 
 hoCA.Troparion2.mode = misc_gr_GR_cog.Mode2
 hoCA.Troparion2.melody = ""
+hoCA.Troparion2.incipit = ho.s23_gr_GR_cog.hoCA.Troparion6.incipit
 hoCA.Troparion2.text = ho.s23_gr_GR_cog.hoCA.Troparion6.text
 
 hoCA.Troparion3.mode = misc_gr_GR_cog.Mode2
 hoCA.Troparion3.melody = ""
+hoCA.Troparion3.incipit = ho.s23_gr_GR_cog.hoCA.Troparion7.incipit
 hoCA.Troparion3.text = ho.s23_gr_GR_cog.hoCA.Troparion7.text

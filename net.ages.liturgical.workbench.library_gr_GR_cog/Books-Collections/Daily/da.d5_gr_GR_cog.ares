@@ -1,4 +1,4 @@
-A_Resource_Whose_Name = da.d5_gr_GR_cog 
+A_Resource_Whose_Name = da.d5_gr_GR_cog
 
 daDay.text = "Πέμπτη."
 daCommemoration.text = "Τῶν Ἁγίων Ἀποστόλων."
@@ -7,6 +7,7 @@ daVE.OnTheEveningBefore = template.titles_gr_GR_cog.d.onWednesdayEvening
 
 daVE.Apolytikion1.mode = misc_gr_GR_cog.Mode3
 daVE.Apolytikion1.melody = ""
+daVE.Apolytikion1.incipit = he.ga_gr_GR_cog.ApostoloiAgioi.incipit
 daVE.Apolytikion1.text = he.ga_gr_GR_cog.ApostoloiAgioi.text
 
 daVE.Apolytikion2.mode = misc_gr_GR_cog.Mode4
@@ -15,6 +16,7 @@ daVE.Apolytikion2.text = me.m12.d06_gr_GR_cog.meVE.GeneralApolytikion1.name
 
 daVE.ApolTheotokion.mode = misc_gr_GR_cog.Mode4
 daVE.ApolTheotokion.melody = ""
+daVE.ApolTheotokion.incipit = oc.m4.d3_gr_GR_cog.ocMA.Kathisma13.incipit
 daVE.ApolTheotokion.text = oc.m4.d3_gr_GR_cog.ocMA.Kathisma13.text
 
 daMA.Triadic1Ending.text = "Πρεσβείαις τῶν Ἀποστόλων σῶσον ἡμᾶς."
@@ -31,18 +33,22 @@ daMA.Photagogic3Beginning.text = prayers_gr_GR_cog.fbPresveiaisKyrieTisTheotokou
 
 daMA.Exaposteilarion1.mode = misc_gr_GR_cog.Mode3
 daMA.Exaposteilarion1.melody = he.a.m3_gr_GR_cog.OOuranonToisAstrois.incipit
+daMA.Exaposteilarion1.incipit = "Ἀπόστολοι τοῦ Κυρίου, οἱ τὴν"
 daMA.Exaposteilarion1.text = "Ἀπόστολοι τοῦ Κυρίου, οἱ τὴν ὑφήλιον πᾶσαν, ἐκ τοῦ βυθοῦ τῆς ἀπάτης, λόγῳ ἑλκύσαντες πρὸς φῶς, μὴ διαλείπητε τοῦτον, ὑπὲρ ἡμῶν τοῦ πρεσβεύειν."
 
 daMA.Exaposteilarion2.mode = misc_gr_GR_cog.Mode3
 daMA.Exaposteilarion2.melody = he.a.m3_gr_GR_cog.OOuranonToisAstrois.incipit
+daMA.Exaposteilarion2.incipit = "Ἡ δωδεκὰς ἡ ἁγία, τῶν"
 daMA.Exaposteilarion2.text = "Ἡ δωδεκὰς ἡ ἁγία, τῶν Ἀποστόλων τὸ κλέος, σὺν τῷ σεπτῷ Νικολάῳ, καὶ Ἱεράρχῃ Μυρέων, ὑπὲρ ἡμῶν τὸν Σωτῆρα, ἐκδυσωπεῖτε ἀπαύστως."
 
 daMA.ExapTheotokion1.mode = misc_gr_GR_cog.Mode3
 daMA.ExapTheotokion1.melody = he.a.m3_gr_GR_cog.OOuranonToisAstrois.incipit
+daMA.ExapTheotokion1.incipit = "Τὸν σὸν Υἱὸν μὴ ἐλλείπῃς,"
 daMA.ExapTheotokion1.text = "Τὸν σὸν Υἱὸν μὴ ἐλλείπῃς, καταφυγὴ Χριστιανῶν, σὺν τῷ κλεινῷ Ἱεράρχῃ, ἐκδυσωπεῖν ὑπὲρ ἡμῶν, τῶν ἀναξίων σου δούλων, τυχεῖν χαρᾶς αἰωνίου."
 
 daMA.ExapTheotokion2.mode = misc_gr_GR_cog.Mode3
 daMA.ExapTheotokion2.melody = he.a.m3_gr_GR_cog.OOuranonToisAstrois.incipit
+daMA.ExapTheotokion2.incipit = "Ἐλπὶς τῶν ἀπηλπισμένων, πανύμνητε Θεοτόκε,"
 daMA.ExapTheotokion2.text = "Ἐλπὶς τῶν ἀπηλπισμένων, πανύμνητε Θεοτόκε, μετὰ δακρύων βοῶ σοι, ἐκ βάθους μου τῆς καρδίας· Ἐξάρπασόν με Παρθένε, ἐκ τῶν τοῦ ᾅδου κευθμώνων."
 
 daLI.CommunionHymn.text = properties_gr_GR_cog.media.key

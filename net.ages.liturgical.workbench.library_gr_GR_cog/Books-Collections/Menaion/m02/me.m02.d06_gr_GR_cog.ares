@@ -397,7 +397,6 @@ meMA.AposGlory.melody = he.a.m2_gr_GR_cog.OikosTouEfratha.incipit
 meMA.AposGlory.incipit = me.m02.d04_gr_GR_cog.meVE.Aposticha3.incipit
 meMA.AposGlory.text = me.m02.d04_gr_GR_cog.meVE.Aposticha3.text
 
-meLI.Antiphon2.incipit = me.m02.d02_gr_GR_cog.meLI.Antiphon2.incipit
 meLI.Antiphon2.text = me.m02.d02_gr_GR_cog.meLI.Antiphon2.text
 
 meLI.Kontakion1.mode = ""
@@ -846,9 +845,13 @@ alt1.meMA.Ode8C1T.melody = he.h.m4_gr_GR_cog.PaidasEvageis.incipit
 alt1.meMA.Ode8C1T.incipit = "Ῥόδον ἐν ἀκάνθαις εὑρηκώς σε,"
 alt1.meMA.Ode8C1T.text = "Ῥόδον ἐν ἀκάνθαις εὑρηκώς σε, καὶ ἄνθος ἐν ταῖς κοιλάσι τὸ πανεύοσμον, κρίνον τε πανάσπιλον, Δέσποινα θεόνυμφε, ὁ σὸς νυμφίος ἄνωθεν ἐν σοὶ ἐσκήνωσε, καὶ κόσμον εὐωδίασε πάντα, σὲ ὑπερυψοῦντα, εἰς πάντας τοὺς αἰῶνας."
 
+alt1.meMA.Ode9C1M01.incipit = "Μεγάλυνον ψυχή μου, τὸν ἐν Ἱεράρχαις"
 alt1.meMA.Ode9C1M01.text = "Μεγάλυνον ψυχή μου, τὸν ἐν Ἱεράρχαις, ὑπέρλαμπρον φωστῆρα."
+alt1.meMA.Ode9C1M02.incipit = "Μεγάλυνον ψυχή μου, τὸν κεκοσμηκότα"
 alt1.meMA.Ode9C1M02.text = "Μεγάλυνον ψυχή μου, τὸν κεκοσμηκότα, Χριστοῦ τὴν Ἐκκλησίαν."
+alt1.meMA.Ode9C1MTr.incipit = "Μεγάλυνον ψυχή μου, τῆς τρισυπόστατου"
 alt1.meMA.Ode9C1MTr.text = "Μεγάλυνον ψυχή μου, τῆς τρισυπόστατου, καὶ ἀδιαιρέτου, Θεότητος τὸ κράτος."
+alt1.meMA.Ode9C1MTh.incipit = "Μεγάλυνον ψυχή μου, τὴν τιμιωτέραν."
 alt1.meMA.Ode9C1MTh.text = "Μεγάλυνον ψυχή μου, τὴν τιμιωτέραν, καὶ ἐνδοξοτέραν, τῶν ἄνω στρατευμάτων."
 
 alt1.meMA.Ode9C11.ode = misc_gr_GR_cog.Ode9
@@ -919,7 +922,6 @@ alt1.meMA.LaudsBoth.text = me.m02.d02_gr_GR_cog.meVE.LityGlory.text
 alt1.meMA.MM.Lauds1234as5678.text = properties_gr_GR_cog.media.key
 alt1.meMA.MM.Lauds123as123.text = properties_gr_GR_cog.media.key
 
-alt1.meLI.Antiphon2.incipit = me.m02.d02_gr_GR_cog.meLI.Antiphon2.incipit
 alt1.meLI.Antiphon2.text = me.m02.d02_gr_GR_cog.meLI.Antiphon2.text
 
 alt1.meLI.MM.EntranceHymn.text = properties_gr_GR_cog.media.key
@@ -932,7 +934,6 @@ alt1.meLI.Kontakion1.text = alt1.meMA.Kontakion1.text
 alt1.meLI.MM.CommunionHymn.text = properties_gr_GR_cog.media.key
 
 alt1.meMegalynarion.text = "Χαίροις ὁ λαμπρότατος τῆς Χριστοῦ, Ἐκκλησίας μύστης, Ὀρθοδόξων προασπιστής, κακοδόξων μάστιξ, Ἱεραρχίας κλέος, ὁ μέγας θεοφάντωρ, Φώτιε Ἅγιε."
-
 
 alt2.meDate.text = "" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
 alt2.meCommemoration.text = "Μνήνη τῶν Ὁσίων καὶ Θεοφόρων Πατέρων ἡμῶν Βαρσανουφίου τοῦ Μεγάλου Γέροντος καὶ Ἰωάννου τοῦ Προφήτου καὶ μαθητοῦ τοῦ Ἁγίου Βαρσανουφίου, τοῦ ἄλλου Γέροντος." // full title of day
@@ -1415,7 +1416,6 @@ alt2.meMA.LaudsGlory.text = "Δυὰς Ὁσίων θαυμαστῶν, δίκ
 
 alt2.meMA.MM.LaudsSunday.text = properties_gr_GR_cog.media.key
 
-alt2.meLI.Antiphon2.incipit = me.m02.d02_gr_GR_cog.meLI.Antiphon2.incipit
 alt2.meLI.Antiphon2.text = me.m02.d02_gr_GR_cog.meLI.Antiphon2.text
 
 alt2.meLI.MM.EntranceHymn.text = properties_gr_GR_cog.media.key

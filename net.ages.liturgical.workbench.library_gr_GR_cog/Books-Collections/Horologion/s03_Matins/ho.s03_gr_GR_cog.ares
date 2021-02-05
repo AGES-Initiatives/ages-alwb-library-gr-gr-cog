@@ -101,7 +101,6 @@ hoMA.ResEvlog6.mode = misc_gr_GR_cog.Mode5
 hoMA.ResEvlog6.incipit = "Ζωοδότην τεκοῦσα, ἐλυτρώσω Παρθένε, τὸν"
 hoMA.ResEvlog6.text = "Ζωοδότην τεκοῦσα, ἐλυτρώσω Παρθένε, τὸν Ἀδὰμ ἁμαρτίας, χαρμονὴν δὲ τῇ Εὔᾳ, ἀντὶ λύπης παρέσχες, ῥεύσαντα ζωῆς, ἴθυνε πρὸς ταύτην δέ, ὁ ἐκ σοῦ σαρκωθείς Θεὸς καὶ ἄνθρωπος."
 hoMA.ResEvlog7.mode = misc_gr_GR_cog.Mode5
-hoMA.ResEvlog7.incipit = prayers_gr_GR_cog.Allilouia3Doxa.incipit
 hoMA.ResEvlog7.text = prayers_gr_GR_cog.Allilouia3Doxa.text
 
 hoMA.FuneralEvlog.title1 = "Νεκρώσιμα Εὐλογητάρια."
@@ -133,7 +132,6 @@ hoMA.FuneralEvlog8.mode = misc_gr_GR_cog.Mode5
 hoMA.FuneralEvlog8.incipit = "Χαῖρε σεμνή, ἡ Θεὸν σαρκὶ"
 hoMA.FuneralEvlog8.text = "Χαῖρε σεμνή, ἡ Θεὸν σαρκὶ τεκοῦσα, εἰς πάντων σωτηρίαν, δι' ἧς γένος τῶν ἀνθρώπων εὕρατο τὴν σωτηρίαν· διὰ σοῦ εὕροιμεν Παράδεισον, Θεοτόκε, ἁγνὴ εὐλογημένη."
 hoMA.FuneralEvlog9.mode = misc_gr_GR_cog.Mode5
-hoMA.FuneralEvlog9.incipit = prayers_gr_GR_cog.Allilouia3Doxa.incipit
 hoMA.FuneralEvlog9.text = prayers_gr_GR_cog.Allilouia3Doxa.text
 
 //Psalm 50
@@ -283,7 +281,6 @@ hoMA.DoxologyVerse18.text = "Καὶ νῦν καὶ ἀεί, καὶ εἰς �
 hoMA.DoxologyVerse19.text = "Ἅγιος Ἀθάνατος, ἐλέησον ἡμᾶς."
 R22 = ""
 hoMA.MM.DoxologyGreatAsmatic.text = properties_gr_GR_cog.media.key
-hoMA.DoxologyVerse20.incipit = hoMA.DoxologyVerse16.incipit
 hoMA.DoxologyVerse20.text = hoMA.DoxologyVerse16.text
 R23 = ""
 hoMA.DoxologySmallIntro.text = "Σοὶ δόξα πρέπει, Κύριε, ὁ Θεὸς ἡμῶν, καὶ σοὶ τὴν δόξαν ἀναπέμπομεν, τῷ Πατρί, καὶ τῷ Υἱῷ, καὶ τῷ Ἁγίῳ Πνεύματι, νῦν, καὶ ἀεί, καὶ εἰς τοὺς αἰῶνας τῶν αἰώνων. Ἀμήν."
@@ -329,28 +326,49 @@ hoMA.Antiphon11.text = properties_gr_GR_cog.media.key
 
 hoMA.PreGospelHymn.text = "" // for media
 
+hoMA.SunPostGospel.incipit = "Ἀνάστασιν Χριστοῦ θεασάμενοι"
 hoMA.SunPostGospel.text = "Ἀνάστασιν Χριστοῦ θεασάμενοι, προσκυνήσωμεν Ἅγιον Κύριον Ἰησοῦν, τὸν μόνον ἀναμάρτητον. Τὸν Σταυρόν σου, Χριστέ, προσκυνοῦμεν καὶ τὴν ἁγίαν σου ἀνάστασιν ὑμνοῦμεν καὶ δοξάζομεν· σὺ γὰρ εἶ Θεὸς ἡμῶν, ἐκτός σου ἄλλον οὐκ οἴδαμεν, τὸ ὄνομά σου ὀνομάζομεν. Δεῦτε πάντες οἱ πιστοί, προσκυνήσωμεν τὴν τοῦ Χριστοῦ ἁγίαν ἀνάστασιν· ἰδοὺ γὰρ ἦλθε διὰ τοῦ Σταυροῦ χαρὰ ἐν ὅλῳ τῷ κόσμῳ. Διὰ παντὸς εὐλογοῦντες τὸν Κύριον, ὑμνοῦμεν τὴν ἀνάστασιν αὐτοῦ· Σταυρὸν γὰρ ὑπομείνας δι' ἡμᾶς, θανάτῳ θάνατον ὤλεσεν."
 
+hoMA.PostGospelTrinity.incipit = ""
 hoMA.PostGospelTrinity.text = "Πάτερ, Λόγε, Πνεῦμα, Τριὰς ἡ ἐν Μονάδι, ἐξάλειψον τὰ πλήθη, τῶν ἐμῶν ἐγκλημάτων."
+hoMA.PostGospelApostle.incipit = ""
 hoMA.PostGospelApostle.text = "Ταῖς τοῦ Ἀποστόλου πρεσβείαις, Ἐλεῆμον, ἐξάλειψον τὰ πλήθη τῶν ἐμῶν ἐγκλημάτων."
+hoMA.PostGospelApostles.incipit = ""
 hoMA.PostGospelApostles.text = "Ταῖς τῶν Ἀποστόλων πρεσβείαις, Ἐλεῆμον, ἐξάλειψον τὰ πλήθη τῶν ἐμῶν ἐγκλημάτων."
+hoMA.PostGospelMaleMartyr.incipit = ""
 hoMA.PostGospelMaleMartyr.text = "Ταῖς τοῦ Ἀθλοφόρου πρεσβείαις, Ἐλεῆμον, ἐξάλειψον τὰ πλήθη τῶν ἐμῶν ἐγκλημάτων."
+hoMA.PostGospelMartyrs.incipit = ""
 hoMA.PostGospelMartyrs.text = "Ταῖς τῶν Ἀθλοφόρων πρεσβείαις, Ἐλεῆμον, ἐξάλειψον τὰ πλήθη τῶν ἐμῶν ἐγκλημάτων."
+hoMA.PostGospelWomanMartyr.incipit = ""
 hoMA.PostGospelWomanMartyr.text = "Ταῖς τῆς Ἀθληφόρου πρεσβείαις, Ἐλεῆμον, ἐξάλειψον τὰ πλήθη τῶν ἐμῶν ἐγκλημάτων."
+hoMA.PostGospelWomenMartyrs.incipit = ""
 hoMA.PostGospelWomenMartyrs.text = "Ταῖς τῶν Ἀθληφόρων πρεσβείαις, Ἐλεῆμον, ἐξάλειψον τὰ πλήθη τῶν ἐμῶν ἐγκλημάτων."
+hoMA.PostGospelTeacher.incipit = ""
 hoMA.PostGospelTeacher.text = "Ταῖς τοῦ Διδασκάλου πρεσβείαις, Ἐλεῆμον, ἐξάλειψον τὰ πλήθη τῶν ἐμῶν ἐγκλημάτων."
+hoMA.PostGospelTeachers.incipit = ""
 hoMA.PostGospelTeachers.text = "Ταῖς τῶν Διδασκάλων πρεσβείαις, Ἐλεῆμον, ἐξάλειψον τὰ πλήθη τῶν ἐμῶν ἐγκλημάτων."
+hoMA.PostGospelMonastic.incipit = ""
 hoMA.PostGospelMonastic.text = "Ταῖς τοῦ σοῦ Ὁσίου πρεσβείαις, Ἐλεῆμον, ἐξάλειψον τὰ πλήθη τῶν ἐμῶν ἐγκλημάτων."
+hoMA.PostGospelMonastics.incipit = ""
 hoMA.PostGospelMonastics.text = "Ταῖς τῶν σῶν Ὁσίων πρεσβείαις, Ἐλεῆμον, ἐξάλειψον τὰ πλήθη τῶν ἐμῶν ἐγκλημάτων."
+hoMA.PostGospelWomanMonastic.incipit = ""
 hoMA.PostGospelWomanMonastic.text = "Ταῖς τῆς σῆς Ὁσίας πρεσβείαις, Ἐλεῆμον, ἐξάλειψον τὰ πλήθη τῶν ἐμῶν ἐγκλημάτων."
+hoMA.PostGospelForerunner.incipit = ""
 hoMA.PostGospelForerunner.text = "Ταῖς τοῦ σοῦ Προδρόμου πρεσβείαις, Ἐλεῆμον, ἐξάλειψον τὰ πλήθη τῶν ἐμῶν ἐγκλημάτων."
+hoMA.PostGospelTheotokos.incipit = ""
 hoMA.PostGospelTheotokos.text = "Ταῖς τῆς Θεοτόκου πρεσβείαις, Ἐλεῆμον, ἐξάλειψον τὰ πλήθη τῶν ἐμῶν ἐγκλημάτων."
+hoMA.PostGospelAllPureLady.incipit = ""
 hoMA.PostGospelAllPureLady.text = "Ταῖς τῆς Παναχράντου πρεσβείαις, Ἐλεῆμον, ἐξάλειψον τὰ πλήθη τῶν ἐμῶν ἐγκλημάτων."
+hoMA.PostGospelProphet.incipit = ""
 hoMA.PostGospelProphet.text = "Ταῖς τοῦ σοῦ Προφήτου πρεσβείαις, Ἐλεῆμον, ἐξάλειψον τὰ πλήθη τῶν ἐμῶν ἐγκλημάτων."
+hoMA.PostGospelAngels.incipit = ""
 hoMA.PostGospelAngels.text = "Ταῖς τῶν Ἀσωμάτων, Οἰκτίρμον, προστασίαις, ἐξάλειψον τὰ πλήθη τῶν ἐμῶν ἐγκλημάτων."
+hoMA.PostGospelHierarch.incipit = ""
 hoMA.PostGospelHierarch.text = "Ταῖς τοῦ Ἱεράρχου πρεσβείαις, Ἐλεῆμον, ἐξάλειψον τὰ πλήθη τῶν ἐμῶν ἐγκλημάτων."
+hoMA.PostGospelMaleSaint.incipit = ""
 hoMA.PostGospelMaleSaint.text = "Ταῖς τοῦ σοῦ Ἁγίου πρεσβείαις, Ἐλεῆμον, ἐξάλειψον τὰ πλήθη τῶν ἐμῶν ἐγκλημάτων."
 
+hoMA.SunPostGospelIdiomelon.incipit = "Ἀναστὰς ὁ Ἰησοῦς"
 hoMA.SunPostGospelIdiomelon.text = "Ἀναστὰς ὁ Ἰησοῦς ἀπὸ τοῦ τάφου, καθὼς προεῖπεν, ἔδωκεν ἡμῖν τὴν αἰώνιον ζωήν, καὶ μέγα ἔλεος."
 
 hoMA.SunExapVerse1.text = "" //for media

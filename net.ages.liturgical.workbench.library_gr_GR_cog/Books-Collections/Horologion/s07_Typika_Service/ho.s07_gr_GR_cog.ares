@@ -7,6 +7,7 @@ R01 = ""
 hoLI.MM.Psalm102.text = "" //media for Psalm 102
 hoLI.MM.Psalm145.text = "" //media for Psalm 145
 hoLI.OnlyBegotten.title = "Ὁ Μονογενής."
+hoLI.OnlyBegotten.incipit = "Ὁ Μονογενὴς Υἱὸς"
 hoLI.OnlyBegotten.text = "Ὁ Μονογενὴς Υἱὸς καὶ Λόγος τοῦ Θεοῦ, ἀθάνατος ὑπάρχων καὶ καταδεξάμενος διὰ τὴν ἡμετέραν σωτηρίαν σαρκωθῆναι ἐκ τῆς ἁγίας Θεοτόκου καὶ ἀειπαρθένου Μαρίας, ἀτρέπτως ἐνανθρωπήσας, σταυρωθείς τε, Χριστὲ ὁ Θεός, θανάτῳ θάνατον πατήσας, εἷς ὢν τῆς Ἁγίας Τριάδος, συνδοξαζόμενος τῷ Πατρὶ καὶ τῷ Ἁγίῳ Πνεύματι, σῶσον ἡμᾶς."
 
 hoTY.Key0200.text = "" //for media for beatitudes
@@ -24,6 +25,7 @@ hoTY.Key0408.mode = misc_gr_GR_cog.Mode2
 hoTY.Key0408.incipit = "Προστασία τῶν Χριστιανῶν ἀκαταίσχυντε, μεσιτεία,"
 hoTY.Key0408.text = "Προστασία τῶν Χριστιανῶν ἀκαταίσχυντε, μεσιτεία, πρὸς τὸν Ποιητὴν ἀμετάθετε, μὴ παρίδῃς, ἁμαρτωλῶν δεήσεων φωνάς, ἀλλὰ πρόφθασον, ὡς ἀγαθή, εἰς τὴν βοήθειαν ἡμῶν, τῶν πιστῶς κραυγαζόντων σοι· Τάχυνον εἰς πρεσβείαν, καὶ σπεῦσον εἰς ἱκεσίαν, ἡ προστατεύουσα ἀεί, Θεοτόκε, τῶν τιμώντων σε."
 
+hoTY.Key0501.incipit = "Παναγία Τριάς, τὸ Ὁμοούσιον κράτος"
 hoTY.Key0501.text = "Παναγία Τριάς, τὸ Ὁμοούσιον κράτος, ἡ ἀδιαίρετος βασιλεία, ἡ πάντων τῶν ἀγαθῶν αἰτία, εὐδόκησον δὴ καὶ ἐπʹ ἐμοὶ τῷ ἁμαρτωλῷ· στήριξον, συνέτισον τὴν καρδίαν μου, καὶ πᾶσαν περίελέ μου τὴν βεβηλότητα· φώτισόν μου τὴν διάνοιαν, ἵνα διὰ παντὸς δοξάζω, ὑμνῶ, προσκυνῶ καὶ λέγω· Εἷς Ἅγιος, εἷς Κύριος, Ἰησοῦς Χριστός, εἰς δόξαν Θεοῦ Πατρός."
 
 // Liturgy Antiphons
@@ -35,9 +37,7 @@ hoLI.Antiphon2w.text = "ὁ ἐν ἁγίοις θαυμαστός,"
 hoLI.Antiphon22.text = "ψάλλοντάς σοι, Ἀλληλούϊα."
 
 hoLI.EntranceHymn.text = "Δεῦτε προσκυνήσωμεν καὶ προσπέσωμεν Χριστῷ." //in the template add parts of Antiphon 2
-hoLI.EntranceHymn2s.incipit = hoLI.Antiphon2s.incipit
 hoLI.EntranceHymn2s.text = hoLI.Antiphon2s.text
-hoLI.EntranceHymn2w.incipit = hoLI.Antiphon2w.incipit
 hoLI.EntranceHymn2w.text = hoLI.Antiphon2w.text
 
 hoLI.TrisagiosHymn.title = "Ο ΤΡΙΣΑΓΙΟΣ ΥΜΝΟΣ"
@@ -86,5 +86,4 @@ hoLI.MM.GospelAlleluiaMode6.text = properties_gr_GR_cog.media.key
 
 hoLI.MM.GospelAlleluiaMode7.text = properties_gr_GR_cog.media.key
 
-hoLI.MM.GospelAlleluiaMode8.incipit = prayers_gr_GR_cog.Allilouia3.incipit
 hoLI.MM.GospelAlleluiaMode8.text = prayers_gr_GR_cog.Allilouia3.text

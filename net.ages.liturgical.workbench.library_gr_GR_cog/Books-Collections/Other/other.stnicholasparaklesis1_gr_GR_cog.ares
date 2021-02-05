@@ -15,7 +15,6 @@ hoCA.Apolytikion1.melody = he.a.m4_gr_GR_cog.OYpsotheisEnToStavro.incipit
 hoCA.Apolytikion1.incipit = "Τοῦ Ἱεράρχου τή πανσέπτω Εἰκόνι,"
 hoCA.Apolytikion1.text = "Τοῦ Ἱεράρχου τή πανσέπτω Εἰκόνι, πιστοί προσπέσωμεν αὐτῶ ἐκβοῶντες, οἱ ἁμαρτίαις πολλαῖς ἐγκυλινδούμενοι, σπεῦσον ὤ Νικόλαε, Ἱεράρχα Κυρίου, σαῖς πρός τόν Φιλάνθρωπον, ἱεραῖς ἰκεσίαις, παντός κινδύνου, λύπης καί φθορᾶς, καί δεινῶν νόσων, ἁπάλλαξον ἅπαντας."
 
-
 hoCA.acrostic = "οὗ ἡ Ἀκροστιχὶς ἐν τοῖς Θεοτοκίοις· \"Σεραφείμ.\""
 hoCA.verse = prayers_gr_GR_cog.verse_SaintM.text
 
@@ -74,7 +73,6 @@ hoCA.Troparion31.text = "Ἐπιβλεψον μετ’ εὐμενείας, Νι
 
 hoCA.Troparion32.mode = misc_gr_GR_cog.Mode8
 hoCA.Troparion32.melody = ""
-hoCA.Troparion32.incipit = ho.s23_gr_GR_cog.hoCA.Troparion32.incipit
 hoCA.Troparion32.incipit = ho.s23_gr_GR_cog.hoCA.Troparion32.incipit
 hoCA.Troparion32.text = ho.s23_gr_GR_cog.hoCA.Troparion32.text
 
@@ -158,30 +156,25 @@ hoCA.Ode6T.text = "Φιλάγαθε, νυσταγμῶ βαρούμενον, ρ�
 hoCA.Troparion61.mode = misc_gr_GR_cog.Mode8
 hoCA.Troparion61.melody = ""
 hoCA.Troparion61.incipit = hoCA.Troparion31.incipit
-hoCA.Troparion61.incipit = hoCA.Troparion31.incipit
 hoCA.Troparion61.text = hoCA.Troparion31.text
 
 hoCA.Troparion62.mode = misc_gr_GR_cog.Mode8
 hoCA.Troparion62.melody = ""
-hoCA.Troparion62.incipit = ho.s23_gr_GR_cog.hoCA.Troparion62.incipit
 hoCA.Troparion62.incipit = ho.s23_gr_GR_cog.hoCA.Troparion62.incipit
 hoCA.Troparion62.text = ho.s23_gr_GR_cog.hoCA.Troparion62.text
 
 hoCA.Kontakion.mode = misc_gr_GR_cog.Mode3
 hoCA.Kontakion.melody = he.a.m3_gr_GR_cog.IParthenosSimeron.incipit
 hoCA.Kontakion.incipit = me.m12.d06_gr_GR_cog.meMA.Kontakion1.incipit
-hoCA.Kontakion.incipit = me.m12.d06_gr_GR_cog.meMA.Kontakion1.incipit
 hoCA.Kontakion.text = me.m12.d06_gr_GR_cog.meMA.Kontakion1.text
 
 hoCA.PostGospelGlory.mode = misc_gr_GR_cog.Mode2
 hoCA.PostGospelGlory.melody = ""
 hoCA.PostGospelGlory.incipit = ho.s03_gr_GR_cog.hoMA.PostGospelHierarch.incipit
-hoCA.PostGospelGlory.incipit = ho.s03_gr_GR_cog.hoMA.PostGospelHierarch.incipit
 hoCA.PostGospelGlory.text = ho.s03_gr_GR_cog.hoMA.PostGospelHierarch.text
 
 hoCA.PostGospelBoth.mode = misc_gr_GR_cog.Mode2
 hoCA.PostGospelBoth.melody = ""
-hoCA.PostGospelBoth.incipit = ho.s03_gr_GR_cog.hoMA.PostGospelTheotokos.incipit
 hoCA.PostGospelBoth.incipit = ho.s03_gr_GR_cog.hoMA.PostGospelTheotokos.incipit
 hoCA.PostGospelBoth.text = ho.s03_gr_GR_cog.hoMA.PostGospelTheotokos.text
 
@@ -262,11 +255,10 @@ hoCA.Ode9T.melody = he.h.m8_gr_GR_cog.KyriosTheotokon.incipit
 hoCA.Ode9T.incipit = "Μαρία Θεοτόκε, τήν κεκακωμένην, τή"
 hoCA.Ode9T.text = "Μαρία Θεοτόκε, τήν κεκακωμένην, τή ἁμαρτία ψυχήν μου ἀγάθυνον, καί ἀγαθῶν αἰωνίων, μέτοχον ποίησον."
 
-hoCA.Meg00.incipit = ho.s03_gr_GR_cog.hoMA.Ode9.Meg00.incipit
-hoCA.Meg00.incipit = ho.s03_gr_GR_cog.hoMA.Ode9.Meg00.incipit
+hoCA.Meg00.incipit = ""
+hoCA.Meg00.incipit = ""
 hoCA.Meg00.text = ho.s03_gr_GR_cog.hoMA.Ode9.Meg00.text
 hoCA.Meg01.melody = misc_gr_GR_cog.Heirmos
-hoCA.Meg01.incipit = he.h.m6_gr_GR_cog.TinTimioteran.incipit
 hoCA.Meg01.incipit = he.h.m6_gr_GR_cog.TinTimioteran.incipit
 hoCA.Meg01.text = he.h.m6_gr_GR_cog.TinTimioteran.text
 hoCA.Meg02.melody = he.h.m6_gr_GR_cog.TinTimioteran.incipit
@@ -283,23 +275,19 @@ hoCA.Meg05.incipit = "Ὀρφανῶν προστάτην σέ καί χηρῶ�
 hoCA.Meg05.text = "Ὀρφανῶν προστάτην σέ καί χηρῶν, πεινόντων τροφέα, πενομένων τέ πλουτιστήν, αἰχμαλώτων ρύστην, πλεόντων τέ σωτήρα, κεκτήμεθα Παμμάκαρ, σοφέ Νικόλαε."
 hoCA.Meg0F.melody = he.h.m6_gr_GR_cog.TinTimioteran.incipit
 hoCA.Meg0F.incipit = ho.s23_gr_GR_cog.hoCA.Meg0F.incipit
-hoCA.Meg0F.incipit = ho.s23_gr_GR_cog.hoCA.Meg0F.incipit
 hoCA.Meg0F.text = ho.s23_gr_GR_cog.hoCA.Meg0F.text
 
 hoCA.Troparion1.mode = misc_gr_GR_cog.Mode2
 hoCA.Troparion1.melody = he.a.m2_gr_GR_cog.OteEkTouXylou.incipit
-hoCA.Troparion1.incipit = oc.m2.d5_gr_GR_cog.ocVE.Stichera6.incipit
 hoCA.Troparion1.incipit = oc.m2.d5_gr_GR_cog.ocVE.Stichera6.incipit
 hoCA.Troparion1.text = oc.m2.d5_gr_GR_cog.ocVE.Stichera6.text
 
 hoCA.Troparion2.mode = misc_gr_GR_cog.Mode2
 hoCA.Troparion2.melody = ""
 hoCA.Troparion2.incipit = ho.s23_gr_GR_cog.hoCA.Troparion6.incipit
-hoCA.Troparion2.incipit = ho.s23_gr_GR_cog.hoCA.Troparion6.incipit
 hoCA.Troparion2.text = ho.s23_gr_GR_cog.hoCA.Troparion6.text
 
 hoCA.Troparion3.mode = misc_gr_GR_cog.Mode2
 hoCA.Troparion3.melody = ""
-hoCA.Troparion3.incipit = ho.s23_gr_GR_cog.hoCA.Troparion7.incipit
 hoCA.Troparion3.incipit = ho.s23_gr_GR_cog.hoCA.Troparion7.incipit
 hoCA.Troparion3.text = ho.s23_gr_GR_cog.hoCA.Troparion7.text

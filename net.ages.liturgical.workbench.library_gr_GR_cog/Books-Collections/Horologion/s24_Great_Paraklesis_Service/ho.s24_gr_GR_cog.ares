@@ -263,17 +263,6 @@ hoCA.Kontakion.text = ho.s07_gr_GR_cog.hoTY.Key0408.text
 //First Antiphon Mode 4
 
 //R11
-hoCA.Prokeimenon.incipit = ho.s23_gr_GR_cog.hoCA.Prokeimenon.incipit
-hoCA.Prokeimenon.text = ho.s23_gr_GR_cog.hoCA.Prokeimenon.text
-
-hoCA.ProkVerse.incipit = ho.s23_gr_GR_cog.hoCA.ProkVerse.incipit
-hoCA.ProkVerse.text = ho.s23_gr_GR_cog.hoCA.ProkVerse.text
-
-//Gospel
-
-hoCA.Gospel.name = "Λουκᾶν "
-hoCA.Gospel.chapverse = "(10:38-42, 11:27-28)"
-hoCA.Gospel.text = "Τῷ καιρῷ ἐκείνῳ, εἰσῆλθεν ὁ Ἰησοῦς εἰς κώμην τινά, γυνὴ δέ τις, ὀνόματι Μάρθα, ὑπεδέξατο αὐτὸν εἰς τὸν οἶκον αὐτῆς. Καὶ τῇδε ἦν ἀδελφή, καλουμένη Μαρία, ἣ καὶ παρακαθήσασα παρά τοὺς πόδας τοῦ Ἰησοῦ, ἤκουε τῶν λόγων αὐτοῦ ἡ δὲ Μάρθα περιεσπᾶτο περὶ πολλὴν διακονίαν, ἐπιστᾶσα δὲ εἶπε· Κύριε, οὐ μέλει σοι, ὅτι ἡ ἀδελφή μου μόνην με κατέλιπε διακονεῖν; εἰπὲ οὖν αὐτῇ ἵνα μοι συναντιλάβηται. Ἀποκριθεὶς δὲ ὁ Ἰησοῦς εἶπεν αὐτῇ· Μάρθα, Μάρθα, μεριμνᾷς καὶ τυρβάζῃ περὶ πολλὰ, ἑνὸς δέ ἐστι χρεία. Μαρία δὲ τὴν ἀγαθὴν μερίδα ἐξελέξατο, ἥτις οὐκ ἀφαιρεθήσεται ἀπ' αὐτῆς. Ἐγένετο δὲ ἐν τῷ λέγειν αὐτὸν ταῦτα, ἐπάρασά τις γυνὴ φωνὴν ἐκ τοῦ ὄχλου εἶπεν αὐτῷ· Μακαρία ἡ κοιλία ἡ βαστάσασά σε καὶ μαστοί, οὓς ἐθήλασας. Αὐτὸς δὲ εἶπε· Μενοῦν γε, μακάριοι οἱ ἀκούοντες τὸν λόγον τοῦ Θεοῦ καὶ φυλάσσοντες αὐτόν."
 
 //R12 ""
 hoCA.PostGospelGlory.mode = misc_gr_GR_cog.Mode2
@@ -286,7 +275,6 @@ hoCA.PostGospelBoth.melody = ""
 hoCA.PostGospelBoth.incipit = ho.s23_gr_GR_cog.hoCA.PostGospelBoth.incipit
 hoCA.PostGospelBoth.text = ho.s23_gr_GR_cog.hoCA.PostGospelBoth.text
 
-hoCA.PostGospelVerse.incipit = ho.s23_gr_GR_cog.hoCA.PostGospelVerse.incipit
 hoCA.PostGospelVerse.text = ho.s23_gr_GR_cog.hoCA.PostGospelVerse.text
 
 hoCA.PostGospelHymn1.mode = misc_gr_GR_cog.Mode6
@@ -431,7 +419,7 @@ hoCA.Troparion92.text = ho.s23_gr_GR_cog.hoCA.Troparion32.text
 
 //R14
 
-hoCA.Meg00.incipit = ho.s03_gr_GR_cog.hoMA.Ode9.Meg00.incipit
+hoCA.Meg00.incipit = ""
 hoCA.Meg00.text = ho.s03_gr_GR_cog.hoMA.Ode9.Meg00.text
 hoCA.Meg01.melody = misc_gr_GR_cog.Heirmos
 hoCA.Meg01.incipit = he.h.m6_gr_GR_cog.TinTimioteran.incipit
@@ -455,7 +443,7 @@ hoCA.Meg06.text = ho.s23_gr_GR_cog.hoCA.Meg06.text
 //R16
 R17 = "Κατὰ τὰς ἡμέαρς τῆς Μεταμορφώσεως, τὸ Μεγαλυνάριον τῆς ἑορτῆς μπορεῖ νὰ ψάλλεται ἐδώ."
 hoCA.MegTrans1.melody = he.h.m6_gr_GR_cog.TinTimioteran.incipit
-hoCA.MegTrans1.incipit = me.m08.d06_gr_GR_cog.meMegalynarion.incipit
+hoCA.MegTrans1.incipit = ""
 hoCA.MegTrans1.text = me.m08.d06_gr_GR_cog.meMegalynarion.text
 hoCA.Meg0F.melody = he.h.m6_gr_GR_cog.TinTimioteran.incipit
 hoCA.Meg0F.incipit = ho.s23_gr_GR_cog.hoCA.Meg0F.incipit

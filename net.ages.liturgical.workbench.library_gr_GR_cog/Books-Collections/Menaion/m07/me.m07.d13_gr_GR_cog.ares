@@ -1,13 +1,14 @@
 A_Resource_Whose_Name = me.m07.d13_gr_GR_cog
 
-meDate.text = "Τῌ ΙΓʹ ΙΟΥΛΙΟΥ"
-meCommemoration.text = "Σύναξις τοῦ Ἀρχαγγέλου Γαβριήλ, καὶ τοῦ Ὁσίου Πατρὸς ἡμῶν Στεφάνου τοῦ Σαββαΐτου" // full title of day
-meShortCommemoration1.text = "Σύναξις τοῦ Ἀρχαγγέλου Γαβριήλ"
-meCom1.title = "Τοῦ Ἀρχαγγέλου."
-meCom2.title = "Τοῦ Ὁσίου."
-meInsert1 = "τοῦ ἁγίου καὶ ἐνδόξου Ἀρχαγγέλου Γαβριήλ," // for use in petitions and dismissal
-meInsert2 = "οὗ τὴν Σύναξιν ἐπιτελοῦμεν· " // for use in petitions and dismissal
-meNote.text = ""
+meDA.date = "Τῌ ΙΓʹ ΙΟΥΛΙΟΥ"
+meDA.commemoration.full = "Σύναξις τοῦ Ἀρχαγγέλου Γαβριήλ, καὶ τοῦ Ὁσίου Πατρὸς ἡμῶν Στεφάνου τοῦ Σαββαΐτου" // full title of day
+meDA.commemoration.first = "Σύναξις τοῦ Ἀρχαγγέλου Γαβριήλ"
+meDA.commemoration.first_short = "Σύναξις τοῦ Ἀρχαγγέλου Γαβριήλ"
+meDA.commemoration.first_title = "Τοῦ Ἀρχαγγέλου."
+meDA.commemoration.second_title = "Τοῦ Ὁσίου."
+meDA.insert1 = "τοῦ ἁγίου καὶ ἐνδόξου Ἀρχαγγέλου Γαβριήλ," // for use in petitions and dismissal
+meDA.insert2 = "οὗ τὴν Σύναξιν ἐπιτελοῦμεν· " // for use in petitions and dismissal
+meDA.note = ""
 meLE.commemoration1 = "Ἡ Σύναξις τοῦ Ἀρχαγγέλου Γαβριήλ."
 meLE.commemoration2 = ""
 meHO.number = ""
@@ -580,14 +581,14 @@ meLI.Kontakion1.text = meMA.Kontakion1.text
 
 meMegalynarion.text = ""
 
-alt1.meDate.text = ""
-alt1.meCommemoration.text = "Ἀκολουθία τῆς Ἁγίας Μάρτυρος Γολινδούχ" //full title of day
-alt1.meShortCommemoration1.text = ""
-alt1.meCom1.title = ""
-alt1.meCom2.title = ""
-alt1.meInsert1 = "" //for use in petitions and dismissal
-alt1.meInsert2 = "" //for use in petitions and dismissal
-alt1.meNote.text = ""
+alt1.meDA.date = ""
+alt1.meDA.commemoration.full = "Ἀκολουθία τῆς Ἁγίας Μάρτυρος Γολινδούχ" //full title of day
+alt1.meDA.commemoration.first_short = ""
+alt1.meDA.commemoration.first_title = ""
+alt1.meDA.commemoration.second_title = ""
+alt1.meDA.insert1 = "" //for use in petitions and dismissal
+alt1.meDA.insert2 = "" //for use in petitions and dismissal
+alt1.meDA.note = ""
 alt1.meLE.commemoration1 = "Ἀκολουθία τῆς Ἁγίας Μάρτυρος Γολινδούχ"
 alt1.meLE.commemoration2 = ""
 alt1.meHO.number = ""

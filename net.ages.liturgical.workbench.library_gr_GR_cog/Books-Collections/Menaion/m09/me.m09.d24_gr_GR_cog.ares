@@ -1,13 +1,14 @@
 A_Resource_Whose_Name = me.m09.d24_gr_GR_cog
 
-meDate.text = "Τῌ ΚΔʹ ΣΕΠΤΕΜΒΡΙΟΥ"
-meCommemoration.text = "Ἡ Σύναξις τῆς Ὑπεραγίας Θεοτόκου τῆς \"Μυρτιδιωτίσσης\", καὶ Μνήμη τῆς Ἁγίας Μεγαλομάρτυρος καὶ Ἰσαποστόλου Θέκλης." //full title of day
-meShortCommemoration1.text = "Μνήμη τῆς Ἁγίας Μεγαλομάρτυρος καὶ Ἰσαποστόλου Θέκλης."
-meCom1.title = ""
-meCom2.title = ""
-meInsert1 = "τῆς Ἁγίας Μεγαλομάρτυρος καὶ Ἰσαποστόλου Θέκλης, " //for use in petitions and dismissal
-meInsert2 = "ἧς καὶ τὴν μνήμην ἐπιτελοῦμεν· " //for use in petitions and dismissal
-meNote.text = ""
+meDA.date = "Τῌ ΚΔʹ ΣΕΠΤΕΜΒΡΙΟΥ"
+meDA.commemoration.full = "Ἡ Σύναξις τῆς Ὑπεραγίας Θεοτόκου τῆς \"Μυρτιδιωτίσσης\", καὶ Μνήμη τῆς Ἁγίας Μεγαλομάρτυρος καὶ Ἰσαποστόλου Θέκλης." //full title of day
+meDA.commemoration.first = "Μνήμη τῆς Ἁγίας Μεγαλομάρτυρος καὶ Ἰσαποστόλου Θέκλης."
+meDA.commemoration.first_short = "Μνήμη τῆς Ἁγίας Μεγαλομάρτυρος καὶ Ἰσαποστόλου Θέκλης."
+meDA.commemoration.first_title = ""
+meDA.commemoration.second_title = ""
+meDA.insert1 = "τῆς Ἁγίας Μεγαλομάρτυρος καὶ Ἰσαποστόλου Θέκλης, " //for use in petitions and dismissal
+meDA.insert2 = "ἧς καὶ τὴν μνήμην ἐπιτελοῦμεν· " //for use in petitions and dismissal
+meDA.note = ""
 meLE.commemoration1 = "Ἀνάμνησις τοῦ ἐν Κυθήροις Θαύματος τῆς Ὑπεραγίας Θεοτόκου \"Μυρτιδιωτίσσης\"."
 meLE.commemoration2 = "Μνήμη τῆς Ἁγίας Μεγαλομάρτυρος καὶ Ἰσαποστόλου Θέκλης."
 meHO.number = ""
@@ -431,15 +432,15 @@ meLI.Kontakion1.text = meMA.Kontakion1.text
 
 meMegalynarion.text = ""
 
-alt1.meDate.text = "Τῇ ΚΔ΄ Σεπτεμβρίου"
-alt1.meCommemoration.text = "Ἀνάμνησης ποιούμεθα τῆς θαυμαστῆς ἐν Μυρτιδίοις τῶν Κυθήρων εὑρέσεως τῆς ἱερᾶς καὶ σεβασμίας Εἰκόνος τῆς Παναγίας" //full title of day
-alt1.meShortCommemoration1.text = "Ἡ Σύναξις τῆς Ὑπεραγίας Θεοτόκου τῆς \"Μυρτιδιωτίσσης\""
+alt1.meDA.date = "Τῇ ΚΔ΄ Σεπτεμβρίου"
+alt1.meDA.commemoration.full = "Ἀνάμνησης ποιούμεθα τῆς θαυμαστῆς ἐν Μυρτιδίοις τῶν Κυθήρων εὑρέσεως τῆς ἱερᾶς καὶ σεβασμίας Εἰκόνος τῆς Παναγίας" //full title of day
+alt1.meDA.commemoration.first_short = "Ἡ Σύναξις τῆς Ὑπεραγίας Θεοτόκου τῆς \"Μυρτιδιωτίσσης\""
 
-alt1.meCom1.title = ""
-alt1.meCom2.title = ""
-alt1.meInsert1 = "" //for use in petitions and dismissal
-alt1.meInsert2 = "ἧς τῆς θαυμαστῆς ἐν Μυρτιδίοις τῶν Κυθήρων εὑρέσεως τῆς ἱερᾶς καὶ σεβασμίας Εἰκόνος τὴν ἀνάμνησιν ποιούμεθα," //for use in petitions and dismissal
-alt1.meNote.text = ""
+alt1.meDA.commemoration.first_title = ""
+alt1.meDA.commemoration.second_title = ""
+alt1.meDA.insert1 = "" //for use in petitions and dismissal
+alt1.meDA.insert2 = "ἧς τῆς θαυμαστῆς ἐν Μυρτιδίοις τῶν Κυθήρων εὑρέσεως τῆς ἱερᾶς καὶ σεβασμίας Εἰκόνος τὴν ἀνάμνησιν ποιούμεθα," //for use in petitions and dismissal
+alt1.meDA.note = ""
 alt1.meLE.commemoration1 = ""
 alt1.meLE.commemoration2 = ""
 alt1.meHO.number = ""
@@ -1012,15 +1013,15 @@ alt1.meLI.MM.CommunionHymn.text = properties_gr_GR_cog.media.key
 
 alt1.meMegalynarion.text = "Χαῖρε ἡ ἐν πόαις τῶν μυρσινῶν, τὸ Εἰκόνισμά Σου, φανερώσασα θαυμαστῶς, ἄγκυραν ἐλπίδος πηγὴν θείων θαυμάτων καὶ καύχημα Κυθήρων Ἄχραντε Δέσποινα."
 
-alt2.meDate.text = "Τῇ ΚΔ΄ Σεπτεμβρίου"
-alt2.meCommemoration.text = "Ἀνάμνησις τοῦ ἐν Κυθήροις θαύματος τῆς Θεοτόκου τῆς «Μυρτιδιωτίσσης»" //full title of day
-alt2.meShortCommemoration1.text = "Ἀνάμνησις τοῦ ἐν Κυθήροις θαύματος τῆς Θεοτόκου τῆς «Μυρτιδιωτίσσης»"
+alt2.meDA.date = "Τῇ ΚΔ΄ Σεπτεμβρίου"
+alt2.meDA.commemoration.full = "Ἀνάμνησις τοῦ ἐν Κυθήροις θαύματος τῆς Θεοτόκου τῆς «Μυρτιδιωτίσσης»" //full title of day
+alt2.meDA.commemoration.first_short = "Ἀνάμνησις τοῦ ἐν Κυθήροις θαύματος τῆς Θεοτόκου τῆς «Μυρτιδιωτίσσης»"
 
-alt2.meCom1.title = ""
-alt2.meCom2.title = ""
-alt2.meInsert1 = "" //for use in petitions and dismissal
-alt2.meInsert2 = "ἧς τῆς θαυμαστῆς ἐν Μυρτιδίοις τῶν Κυθήρων εὑρέσεως τῆς ἱερᾶς καὶ σεβασμίας Εἰκόνος τὴν ἀνάμνησιν ποιούμεθα," //for use in petitions and dismissal
-alt2.meNote.text = "Διά τήν ἀκριβῆ τέλεσιν τοῦ Ἑσπερινοῦ καί τῶν ἄλλων Ἀκολουθιῶν τῆς σήμερον παρατίθενται τά ἀπαραίτητα στοιχεῖα ἐκ τῆς ἰδιαιτέρας Φυλλάδος τῆς Θεοτόκου (τά παρόντα ἐκ τῆς ἐκδόσεως 1894). Οἱ κάτοχοι τῆς ἑτέρας Ἀκολουθίας τῆς ἐγκριθείσης ὑπό τῆς Ἐκκλησίας τῆς Ἑλλάδος καί ἐκδοθείσης ἐν ἔτει 1953 ψάλλουσι τά ἀντίστοιχα τροπάρια ἐξ αὐτῆς."
+alt2.meDA.commemoration.first_title = ""
+alt2.meDA.commemoration.second_title = ""
+alt2.meDA.insert1 = "" //for use in petitions and dismissal
+alt2.meDA.insert2 = "ἧς τῆς θαυμαστῆς ἐν Μυρτιδίοις τῶν Κυθήρων εὑρέσεως τῆς ἱερᾶς καὶ σεβασμίας Εἰκόνος τὴν ἀνάμνησιν ποιούμεθα," //for use in petitions and dismissal
+alt2.meDA.note = "Διά τήν ἀκριβῆ τέλεσιν τοῦ Ἑσπερινοῦ καί τῶν ἄλλων Ἀκολουθιῶν τῆς σήμερον παρατίθενται τά ἀπαραίτητα στοιχεῖα ἐκ τῆς ἰδιαιτέρας Φυλλάδος τῆς Θεοτόκου (τά παρόντα ἐκ τῆς ἐκδόσεως 1894). Οἱ κάτοχοι τῆς ἑτέρας Ἀκολουθίας τῆς ἐγκριθείσης ὑπό τῆς Ἐκκλησίας τῆς Ἑλλάδος καί ἐκδοθείσης ἐν ἔτει 1953 ψάλλουσι τά ἀντίστοιχα τροπάρια ἐξ αὐτῆς."
 alt2.meLE.commemoration1 = ""
 alt2.meLE.commemoration2 = ""
 alt2.meHO.number = ""
@@ -1125,15 +1126,15 @@ alt2.meMA.LaudsGlory.melody = ""
 alt2.meMA.LaudsGlory.incipit = "Ὅπου ἐπισκιάσῃ ἡ χάρις σου"
 alt2.meMA.LaudsGlory.text = "Ὅπου ἐπισκιάσῃ ἡ χάρις σου Πανάχραντε, ἐκεῖθεν τῶν ἀνιάτων ἀλγηδόνων διώκεται ἡ δύναμις· τίς γάρ μετοχή φωτός πρός σκότος, ἤ εὐεργετικῶν ἀγαθῶν πρός τιμωρίαν ἀθεράπευτον; Διό καί ἡμᾶς τῇ κραταιᾷ τῆς εὐσπλαγχνίας σου σκέπῃ προστρέχοντας, μή ὑπερίδῃς δεόμεθα· ἀλλ’ ἐν τῇ τῆς δυνάμεώς σου φρούρησον σκέπη, Μαρία, Χριστιανῶν τό καύχημα."
 
-alt3.meDate.text = "Τῇ ΚΔ΄ Σεπτεμβρίου" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-alt3.meCommemoration.text = "Μνήμη τοῦ Ὁσίου καὶ Θεοφόρου Πατρὸς ἡμῶν Σιλουανοῦ τοῦ Ἀθωνίτου" //full title of day
-alt3.meCommemoration2.text = "" //full title of day
-alt3.meShortCommemoration1.text = ""
-alt3.meCom1.title = ""
-alt3.meCom2.title = ""
-alt3.meInsert1 = "τοῦ ὁσίου καὶ θεοφόρου πατρὸς ἡμῶν Σιλουανοῦ τοῦ Ἀθωνίτου," //for use in petitions and dismissal
-alt3.meInsert2 = "οὗ καὶ τὴν μνήμην ἐπιτελοῦμεν," //for use in petitions and dismissal
-alt3.meNote.text = ""
+alt3.meDA.date = "Τῇ ΚΔ΄ Σεπτεμβρίου" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+alt3.meDA.commemoration.full = "Μνήμη τοῦ Ὁσίου καὶ Θεοφόρου Πατρὸς ἡμῶν Σιλουανοῦ τοῦ Ἀθωνίτου" //full title of day
+alt3.meDA.commemoration.second = "" //full title of day
+alt3.meDA.commemoration.first_short = ""
+alt3.meDA.commemoration.first_title = ""
+alt3.meDA.commemoration.second_title = ""
+alt3.meDA.insert1 = "τοῦ ὁσίου καὶ θεοφόρου πατρὸς ἡμῶν Σιλουανοῦ τοῦ Ἀθωνίτου," //for use in petitions and dismissal
+alt3.meDA.insert2 = "οὗ καὶ τὴν μνήμην ἐπιτελοῦμεν," //for use in petitions and dismissal
+alt3.meDA.note = ""
 alt3.meLE.commemoration1 = ""
 alt3.meLE.commemoration2 = ""
 alt3.meHO.number = ""
@@ -1141,8 +1142,8 @@ alt3.meHO.rank = ""
 alt3.meHO.commemorations = ""
 alt3.meHO.note1 = ""
 alt3.meHO.note2 = ""
-alt3.meDismissal = ""
-alt3.mePoet = ""
+alt3.meDA.dismissal = ""
+alt3.meDA.poet = ""
 
 alt3.meSV.Stichera1.mode = misc_gr_GR_cog.Mode4
 alt3.meSV.Stichera1.melody = he.a.m4_gr_GR_cog.OsGennaionEnMartysi.incipit

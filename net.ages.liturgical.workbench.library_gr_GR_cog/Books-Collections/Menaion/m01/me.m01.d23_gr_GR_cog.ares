@@ -1,17 +1,18 @@
 A_Resource_Whose_Name = me.m01.d23_gr_GR_cog
 
-meDate.text = "Τῌ ΚΓʹ ΙΑΝΟΥΑΡΙΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "Μνήμη τοῦ Ἁγίου Ἱερομάρτυρος Κλήμεντος Ἀγκύρας, καὶ τοῦ Ἁγίου Μάρτυρος Ἀγαθαγγέλου" //full title of day
-meShortCommemoration1.text = "Μνήμη τοῦ Ἁγίου Ἱερομάρτυρος Κλήμεντος Ἀγκύρας, καὶ τοῦ Ἁγίου Μάρτυρος Ἀγαθαγγέλου"
-meCom1.title = "Τοῦ Ἁγ. Κλήμεντος."
-meCom2.title = "Τοῦ Ἁγ. Ἀγαθαγγέλου."
-meInsert1 = "καὶ τοῦ Ἁγίου ἐνδόξου Ἱερομάρτυρος Κλήμεντος Ἀγκύρας," //for use in petitions and dismissal
-meInsert2 = "οὗ καὶ τὴν μνήμην ἐπιτελοῦμεν·" //for use in petitions and dismissal
-meNote.text = ""
+meDA.date = "Τῌ ΚΓʹ ΙΑΝΟΥΑΡΙΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+meDA.commemoration.full = "Μνήμη τοῦ Ἁγίου Ἱερομάρτυρος Κλήμεντος Ἀγκύρας, καὶ τοῦ Ἁγίου Μάρτυρος Ἀγαθαγγέλου" //full title of day
+meDA.commemoration.first = "Μνήμη τοῦ Ἁγίου Ἱερομάρτυρος Κλήμεντος Ἀγκύρας, καὶ τοῦ Ἁγίου Μάρτυρος Ἀγαθαγγέλου"
+meDA.commemoration.first_short = "Μνήμη τοῦ Ἁγίου Ἱερομάρτυρος Κλήμεντος Ἀγκύρας, καὶ τοῦ Ἁγίου Μάρτυρος Ἀγαθαγγέλου"
+meDA.commemoration.first_title = "Τοῦ Ἁγ. Κλήμεντος."
+meDA.commemoration.second_title = "Τοῦ Ἁγ. Ἀγαθαγγέλου."
+meDA.insert1 = "καὶ τοῦ Ἁγίου ἐνδόξου Ἱερομάρτυρος Κλήμεντος Ἀγκύρας," //for use in petitions and dismissal
+meDA.insert2 = "οὗ καὶ τὴν μνήμην ἐπιτελοῦμεν·" //for use in petitions and dismissal
+meDA.note = ""
 meLE.commemoration1 = "Μνήμη τοῦ Ἁγίου Ἱερομάρτυρος Κλήμεντος Ἀγκύρας, καὶ τοῦ Ἁγίου Μάρτυρος Ἀγαθαγγέλου."
 meLE.commemoration2 = ""
 meHO.number = "23."
-meHO.rank = "5"
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""

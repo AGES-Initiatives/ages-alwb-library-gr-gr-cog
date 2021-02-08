@@ -1,17 +1,17 @@
 A_Resource_Whose_Name = pe.d108_gr_GR_cog
 
-peCommemoration.text = "Τρίτη τῆς Ϛʹ Ἑβδομάδος" //full title of day
-peShortCommemoration1.text = "Ἀπόδοσις τοῦ Τυφλοῦ"
-peInsert1 = "" //for use in petitions and dismissal
-peInsert2 = "" //for use in petitions and dismissal
-peNote.text = ""
+peDA.commemoration.full = "Τρίτη τῆς Ϛʹ Ἑβδομάδος" //full title of day
+peDA.commemoration.short = "Ἀπόδοσις τοῦ Τυφλοῦ"
+peDA.insert1 = "" //for use in petitions and dismissal
+peDA.insert2 = "" //for use in petitions and dismissal
+peDA.note = ""
 peHO.daytitle = ""
 peHO.commemorations = ""
 peHO.description1 = ""
 peHO.description2 = ""
 peHO.note1 = ""
 peHO.note2 = ""
-peDismissal = dismissals_gr_GR_cog.dis00.resurrection
+peDA.dismissal = dismissals_gr_GR_cog.dis00.resurrection
 
 peVE.Stichera01.mode = pe.d106_gr_GR_cog.peVE.Stichera09.mode
 peVE.Stichera01.melody = pe.d106_gr_GR_cog.peVE.Stichera09.melody
@@ -128,8 +128,8 @@ peMA.AposGlory.melody = pe.d106_gr_GR_cog.peMA.Lauds8.melody
 peMA.AposGlory.incipit = pe.d106_gr_GR_cog.peMA.Lauds8.incipit
 peMA.AposGlory.text = pe.d106_gr_GR_cog.peMA.Lauds8.text
 
-alt1.peCommemoration.text = "Τρίτη τῆς Ϛʹ Ἑβδομάδος" //full title of day
-alt1.peShortCommemoration1.text = "Τρίτη τῆς Ϛʹ Ἑβδομάδος"
+alt1.peDA.commemoration.full = "Τρίτη τῆς Ϛʹ Ἑβδομάδος" //full title of day
+alt1.peDA.commemoration.short = "Τρίτη τῆς Ϛʹ Ἑβδομάδος"
 
 alt1.peVE.Stichera01.mode = misc_gr_GR_cog.Mode5
 alt1.peVE.Stichera01.melody = he.a.m5_gr_GR_cog.ChairoisAskitikon.incipit

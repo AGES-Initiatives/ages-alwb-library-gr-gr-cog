@@ -1,13 +1,14 @@
 A_Resource_Whose_Name = me.m08.d13_gr_GR_cog
 
-meDate.text = "Τῌ ΙΓʹ ΑΥΓΟΥΣΤΟΥ"
-meCommemoration.text = "Μνήμη τοῦ Ὁσίου Πατρὸς ἡμῶν Μαξίμου τοῦ Ὁμολογητοῦ" // full title of day
-meShortCommemoration1.text = "Ἀπόδοσις τῆς Ἑορτῆς τῆς Μεταμορφώσεως"
-meCom1.title = ""
-meCom2.title = ""
-meInsert1 = "" // for use in petitions and dismissal
-meInsert2 = "" // for use in petitions and dismissal
-meNote.text = ""
+meDA.date = "Τῌ ΙΓʹ ΑΥΓΟΥΣΤΟΥ"
+meDA.commemoration.full = "Μνήμη τοῦ Ὁσίου Πατρὸς ἡμῶν Μαξίμου τοῦ Ὁμολογητοῦ" // full title of day
+meDA.commemoration.first = "Ἀπόδοσις τῆς Ἑορτῆς τῆς Μεταμορφώσεως"
+meDA.commemoration.first_short = "Ἀπόδοσις τῆς Ἑορτῆς τῆς Μεταμορφώσεως"
+meDA.commemoration.first_title = ""
+meDA.commemoration.second_title = ""
+meDA.insert1 = "" // for use in petitions and dismissal
+meDA.insert2 = "" // for use in petitions and dismissal
+meDA.note = ""
 meLE.commemoration1 = "Τοῦ Ὁσίου Πατρὸς ἡμῶν Μαξίμου τοῦ Ὁμολογητοῦ."
 meLE.commemoration2 = ""
 meHO.number = ""
@@ -15,7 +16,7 @@ meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
-meDismissal = dismissals_gr_GR_cog.dis00.transfiguration
+meDA.dismissal = dismissals_gr_GR_cog.dis00.transfiguration
 
 meLI.Kontakion1.mode = ""
 meLI.Kontakion1.melody = ""

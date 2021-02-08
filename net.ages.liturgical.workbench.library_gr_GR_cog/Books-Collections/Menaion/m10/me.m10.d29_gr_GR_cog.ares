@@ -1,13 +1,14 @@
 A_Resource_Whose_Name = me.m10.d29_gr_GR_cog
 
-meDate.text = "Τῌ ΚΘʹ ΟΚΤΩΒΡΙΟΥ"
-meCommemoration.text = "Μνήμη τῆς ἁγίας Ὁσιομάρτυρος Ἀναστασίας τῆς Ῥωμαίας· καὶ τοῦ ὁσίου Πατρὸς ἡμῶν Ἀβραμίου." //full title of day
-meShortCommemoration1.text = "Μνήμη τῆς ἁγίας Ὁσιομάρτυρος Ἀναστασίας τῆς Ῥωμαίας."
-meCom1.title = "Τῆς Ἁγ. Ἀναστασίας."
-meCom2.title = "Τοῦ Ἁγ. Ἀβραμίου."
-meInsert1 = "καὶ τῆς ἁγίας Ὁσιομάρτυρος Ἀναστασίας τῆς Ῥωμαίας" //for use in petitions and dismissal
-meInsert2 = "ἧς καὶ τὴν μνήμην ἐπιτελοῦμεν· " //for use in petitions and dismissal
-meNote.text = ""
+meDA.date = "Τῌ ΚΘʹ ΟΚΤΩΒΡΙΟΥ"
+meDA.commemoration.full = "Μνήμη τῆς ἁγίας Ὁσιομάρτυρος Ἀναστασίας τῆς Ῥωμαίας· καὶ τοῦ ὁσίου Πατρὸς ἡμῶν Ἀβραμίου." //full title of day
+meDA.commemoration.first = "Μνήμη τῆς ἁγίας Ὁσιομάρτυρος Ἀναστασίας τῆς Ῥωμαίας."
+meDA.commemoration.first_short = "Μνήμη τῆς ἁγίας Ὁσιομάρτυρος Ἀναστασίας τῆς Ῥωμαίας."
+meDA.commemoration.first_title = "Τῆς Ἁγ. Ἀναστασίας."
+meDA.commemoration.second_title = "Τοῦ Ἁγ. Ἀβραμίου."
+meDA.insert1 = "καὶ τῆς ἁγίας Ὁσιομάρτυρος Ἀναστασίας τῆς Ῥωμαίας" //for use in petitions and dismissal
+meDA.insert2 = "ἧς καὶ τὴν μνήμην ἐπιτελοῦμεν· " //for use in petitions and dismissal
+meDA.note = ""
 meLE.commemoration1 = "Μνήμη τῆς ἁγίας Ὁσιομάρτυρος Ἀναστασίας τῆς Ῥωμαίας· καὶ τοῦ ὁσίου Πατρὸς ἡμῶν Ἀβραμίου."
 meLE.commemoration2 = ""
 meHO.number = ""

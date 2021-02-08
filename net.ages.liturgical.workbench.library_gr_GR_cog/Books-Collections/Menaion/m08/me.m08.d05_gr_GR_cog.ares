@@ -1,13 +1,14 @@
 A_Resource_Whose_Name = me.m08.d05_gr_GR_cog
 
-meDate.text = "Τῌ Εʹ ΑΥΓΟΥΣΤΟΥ"
-meCommemoration.text = "Τὰ Προεόρτια τῆς Ἁγίας Μεταμορφώσεως τοῦ Κυρίου καὶ Θεοῦ καὶ Σωτῆρος ἡμῶν Ἰησοῦ Χριστοῦ, καὶ μνήμη τοῦ Ἁγίου Μάρτυρος Εὐσιγνίου." //full title of day
-meShortCommemoration1.text = "Τὰ Προεόρτια τῆς Ἁγίας Μεταμορφώσεως τοῦ Κυρίου"
-meCom1.title = ""
-meCom2.title = ""
-meInsert1 = "" //for use in petitions and dismissal
-meInsert2 = "" //for use in petitions and dismissal
-meNote.text = ""
+meDA.date = "Τῌ Εʹ ΑΥΓΟΥΣΤΟΥ"
+meDA.commemoration.full = "Τὰ Προεόρτια τῆς Ἁγίας Μεταμορφώσεως τοῦ Κυρίου καὶ Θεοῦ καὶ Σωτῆρος ἡμῶν Ἰησοῦ Χριστοῦ, καὶ μνήμη τοῦ Ἁγίου Μάρτυρος Εὐσιγνίου." //full title of day
+meDA.commemoration.first = "Τὰ Προεόρτια τῆς Ἁγίας Μεταμορφώσεως τοῦ Κυρίου"
+meDA.commemoration.first_short = "Τὰ Προεόρτια τῆς Ἁγίας Μεταμορφώσεως τοῦ Κυρίου"
+meDA.commemoration.first_title = ""
+meDA.commemoration.second_title = ""
+meDA.insert1 = "" //for use in petitions and dismissal
+meDA.insert2 = "" //for use in petitions and dismissal
+meDA.note = ""
 meLE.commemoration1 = "Τοῦ Ἁγίου Μάρτυρος Εὐσιγνίου."
 meLE.commemoration2 = ""
 meHO.number = ""

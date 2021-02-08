@@ -1,24 +1,22 @@
 A_Resource_Whose_Name = me.m01.d01_gr_GR_cog
 
-meHO.Month.text = "ΜΗΝ ΙΑΝΟΥΑΡΙΟΣ"
-meHO.DaysHours.text = "(ἔχων ἡμέρας 31. Ἡ ἡμέρα ἔχει ὥρας 10, καὶ ἡ νὺξ ὥρας 14.)"
-
-meDate.text = "Τῌ Αʹ ΙΑΝΟΥΑΡΙΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "Ἡ κατὰ σάρκα Περιτομὴ τοῦ Κυρίου καὶ Θεοῦ καὶ Σωτῆρος ἡμῶν Ἰησοῦ Χριστοῦ, καὶ Μνήμη τοῦ ἐν Ἁγίοις Πατρὸς ἡμῶν Βασιλείου τοῦ Μεγάλου." //full title of day
-meShortCommemoration1.text = "Μνήμη τοῦ ἐν Ἁγίοις Πατρὸς ἡμῶν Βασιλείου τοῦ Μεγάλου"
-meCom1.title = ""
-meCom2.title = ""
-meInsert1 = "τοῦ ἐν Ἁγίοις Πατρὸς ἡμῶν Βασιλείου, Ἀρχιεπισκόπου Καισαρίας τῆς Καππαδοκίας τοῦ Μεγάλου," //for use in petitions and dismissal
-meInsert2 = "οὗ καὶ τὴν μνήμην ἐπιτελοῦμεν·" //for use in petitions and dismissal
-meNote.text = ""
+meDA.date = "Τῌ Αʹ ΙΑΝΟΥΑΡΙΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+meDA.commemoration.full = "Ἡ κατὰ σάρκα Περιτομὴ τοῦ Κυρίου καὶ Θεοῦ καὶ Σωτῆρος ἡμῶν Ἰησοῦ Χριστοῦ, καὶ Μνήμη τοῦ ἐν Ἁγίοις Πατρὸς ἡμῶν Βασιλείου τοῦ Μεγάλου." //full title of day
+meDA.commemoration.first = "Μνήμη τοῦ ἐν Ἁγίοις Πατρὸς ἡμῶν Βασιλείου τοῦ Μεγάλου"
+meDA.commemoration.first_short = "Μνήμη τοῦ ἐν Ἁγίοις Πατρὸς ἡμῶν Βασιλείου τοῦ Μεγάλου"
+meDA.commemoration.first_title = ""
+meDA.commemoration.second_title = ""
+meDA.insert1 = "τοῦ ἐν Ἁγίοις Πατρὸς ἡμῶν Βασιλείου, Ἀρχιεπισκόπου Καισαρίας τῆς Καππαδοκίας τοῦ Μεγάλου," //for use in petitions and dismissal
+meDA.insert2 = "οὗ καὶ τὴν μνήμην ἐπιτελοῦμεν·" //for use in petitions and dismissal
+meDA.note = ""
 meLE.commemoration1 = "Ἡ κατὰ Σάρκα Περιτομὴ τοῦ Κυρίου καὶ Θεοῦ καὶ Σωτῆρος ἡμῶν Ἰησοῦ Χριστοῦ"
 meLE.commemoration2 = "Μνήμη τοῦ ἐν Ἁγίοις Πατρὸς ἡμῶν Βασιλείου τοῦ Μεγάλου"
 meHO.number = "1."
-meHO.rank = "3"
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = rubrical_gr_GR_cog.HolidayAll
 meHO.note2 = ""
-meDismissal = dismissals_gr_GR_cog.dis00.circumcision
+meDA.dismissal = dismissals_gr_GR_cog.dis00.circumcision
 
 meVE.Stichera01.poet = poets_gr_GR_cog.Anatoliou
 meVE.Stichera01.mode = misc_gr_GR_cog.Mode8

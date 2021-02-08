@@ -1,13 +1,14 @@
 A_Resource_Whose_Name = me.m10.d11_gr_GR_cog
 
-meDate.text = "Τῌ ΙΑʹ ΟΚΤΩΒΡΙΟΥ"
-meCommemoration.text = "Μνήμη τοῦ Ἁγίου Ἀποστόλου Φιλίππου, Ἑνὸς τῶν Ἑπτὰ Διακόνων, καὶ τοῦ Ὁσίου Πατρὸς ἡμῶν Θεοφάνους τοῦ Ὁμολογητοῦ, Ἐπισκόπου Νικαίας, τοῦ Ποιητοῦ καὶ Γραπτοῦ." // full title of day
-meShortCommemoration1.text = "Μνήμη τοῦ Ἁγίου Ἀποστόλου Φιλίππου τοῦ Διακόνου, καὶ τοῦ Ὁσίου Θεοφάνους τοῦ Γραπτοῦ"
-meCom1.title = ""
-meCom2.title = ""
-meInsert1 = "καὶ τοῦ Ἁγίου Ἀποστόλου Φιλίππου, καὶ τοῦ Ὁσίου Πατρὸς ἡμῶν Θεοφάνους τοῦ Ὁμολογητοῦ, " // for use in petitions and dismissal
-meInsert2 = "ὧν καὶ τὴν μνήμην ἐπιτελοῦμεν· " // for use in petitions and dismissal
-meNote.text = ""
+meDA.date = "Τῌ ΙΑʹ ΟΚΤΩΒΡΙΟΥ"
+meDA.commemoration.full = "Μνήμη τοῦ Ἁγίου Ἀποστόλου Φιλίππου, Ἑνὸς τῶν Ἑπτὰ Διακόνων, καὶ τοῦ Ὁσίου Πατρὸς ἡμῶν Θεοφάνους τοῦ Ὁμολογητοῦ, Ἐπισκόπου Νικαίας, τοῦ Ποιητοῦ καὶ Γραπτοῦ." // full title of day
+meDA.commemoration.first = "Μνήμη τοῦ Ἁγίου Ἀποστόλου Φιλίππου τοῦ Διακόνου, καὶ τοῦ Ὁσίου Θεοφάνους τοῦ Γραπτοῦ"
+meDA.commemoration.first_short = "Μνήμη τοῦ Ἁγίου Ἀποστόλου Φιλίππου τοῦ Διακόνου, καὶ τοῦ Ὁσίου Θεοφάνους τοῦ Γραπτοῦ"
+meDA.commemoration.first_title = ""
+meDA.commemoration.second_title = ""
+meDA.insert1 = "καὶ τοῦ Ἁγίου Ἀποστόλου Φιλίππου, καὶ τοῦ Ὁσίου Πατρὸς ἡμῶν Θεοφάνους τοῦ Ὁμολογητοῦ, " // for use in petitions and dismissal
+meDA.insert2 = "ὧν καὶ τὴν μνήμην ἐπιτελοῦμεν· " // for use in petitions and dismissal
+meDA.note = ""
 meLE.commemoration1 = "Μνήμη τοῦ Ἁγίου Ἀποστόλου Φιλίππου, ἑνὸς τῶν ἑπτὰ Διακόνων."
 meLE.commemoration2 = ""
 meHO.number = ""

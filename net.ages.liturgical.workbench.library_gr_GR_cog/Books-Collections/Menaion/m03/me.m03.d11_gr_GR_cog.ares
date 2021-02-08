@@ -1,13 +1,14 @@
 A_Resource_Whose_Name = me.m03.d11_gr_GR_cog
 
-meDate.text = "Τῌ ΙΑʹ ΜΑΡΤΙΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "Μνήμη τοῦ ἐν Ἁγίοις Πατρὸς ἡμῶν Σωφρονίου, Πατριάρχου Ἱεροσολύμων, καὶ τῆς Ὁσίας Μητρὸς ἡμῶν Θεοδώρας, βασιλίσσης Ἄρτης." //full title of day
-meShortCommemoration1.text = "Μνήμη τοῦ Ἁγίου Σωφρονίου Ἱεροσολύμων"
-meCom1.title = "Τοῦ Ἁγίου."
-meCom2.title = ""
-meInsert1 = "" //for use in petitions and dismissal
-meInsert2 = "" //for use in petitions and dismissal
-meNote.text = ""
+meDA.date = "Τῌ ΙΑʹ ΜΑΡΤΙΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+meDA.commemoration.full = "Μνήμη τοῦ ἐν Ἁγίοις Πατρὸς ἡμῶν Σωφρονίου, Πατριάρχου Ἱεροσολύμων, καὶ τῆς Ὁσίας Μητρὸς ἡμῶν Θεοδώρας, βασιλίσσης Ἄρτης." //full title of day
+meDA.commemoration.first = "Μνήμη τοῦ Ἁγίου Σωφρονίου Ἱεροσολύμων"
+meDA.commemoration.first_short = "Μνήμη τοῦ Ἁγίου Σωφρονίου Ἱεροσολύμων"
+meDA.commemoration.first_title = "Τοῦ Ἁγίου."
+meDA.commemoration.second_title = ""
+meDA.insert1 = "" //for use in petitions and dismissal
+meDA.insert2 = "" //for use in petitions and dismissal
+meDA.note = ""
 meLE.commemoration1 = "Μνήμη τοῦ ἐν Ἁγίοις Πατρὸς ἡμῶν Σωφρονίου, Πατριάρχου Ἱεροσολύμων, καὶ τῆς Ὁσίας Μητρὸς ἡμῶν Θεοδώρας, βασιλίσσης Ἄρτης."
 meLE.commemoration2 = ""
 meHO.number = ""

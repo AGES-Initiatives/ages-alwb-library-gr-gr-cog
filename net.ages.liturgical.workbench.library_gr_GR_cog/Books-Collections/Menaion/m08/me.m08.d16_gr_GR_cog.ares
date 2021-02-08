@@ -1,13 +1,14 @@
 A_Resource_Whose_Name = me.m08.d16_gr_GR_cog
 
-meDate.text = "Τῌ ΙϚʹ ΑΥΓΟΥΣΤΟΥ"
-meCommemoration.text = "Μνήμη τῆς ἐξ Ἐδέσσης ἀνακομιδῆς τῆς ἀχειροποιήτου Εἰκόνος τοῦ Κυρίου ἡμῶν Ἰησοῦ Χριστοῦ, ἤτοι τοῦ Ἁγίου Μανδηλίου, καὶ τοῦ Ἁγίου Μάρτυρος Διομήδους" // full title of day
-meShortCommemoration1.text = "Μνήμη τῆς ἐξ Ἐδέσσης ἀνακομιδῆς τοῦ Ἁγίου Μανδηλίου"
-meCom1.title = "Τοῦ Ἁγίου Μανδηλίου."
-meCom2.title = "Τοῦ Ἁγίου Διομήδους."
-meInsert1 = "" // for use in petitions and dismissal
-meInsert2 = "" // for use in petitions and dismissal
-meNote.text = ""
+meDA.date = "Τῌ ΙϚʹ ΑΥΓΟΥΣΤΟΥ"
+meDA.commemoration.full = "Μνήμη τῆς ἐξ Ἐδέσσης ἀνακομιδῆς τῆς ἀχειροποιήτου Εἰκόνος τοῦ Κυρίου ἡμῶν Ἰησοῦ Χριστοῦ, ἤτοι τοῦ Ἁγίου Μανδηλίου, καὶ τοῦ Ἁγίου Μάρτυρος Διομήδους" // full title of day
+meDA.commemoration.first = "Μνήμη τῆς ἐξ Ἐδέσσης ἀνακομιδῆς τοῦ Ἁγίου Μανδηλίου"
+meDA.commemoration.first_short = "Μνήμη τῆς ἐξ Ἐδέσσης ἀνακομιδῆς τοῦ Ἁγίου Μανδηλίου"
+meDA.commemoration.first_title = "Τοῦ Ἁγίου Μανδηλίου."
+meDA.commemoration.second_title = "Τοῦ Ἁγίου Διομήδους."
+meDA.insert1 = "" // for use in petitions and dismissal
+meDA.insert2 = "" // for use in petitions and dismissal
+meDA.note = ""
 meLE.commemoration1 = "Ἀνάμνησις τῆς ἐξ Ἐδέσσης τῆς Μεσοποταμίας εἰς Κωνσταντινούπολιν Ἀνακομιδῆς τῆς Ἀχειροποιήτου Εἰκόνος τοῦ Κυρίου καὶ Θεοῦ καί Σωτῆρος ἡμῶν Ἰησοῦ Χριστοῦ, ἤτοι τοῦ Ἁγίου Μανδηλίου."
 meLE.commemoration2 = ""
 meHO.number = ""
@@ -537,14 +538,14 @@ meLI.Kontakion1.text = meMA.Kontakion1.text
 
 meMegalynarion.text = ""
 
-alt1.meDate.text = "Τῌ ΙϚʹ ΑΥΓΟΥΣΤΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-alt1.meCommemoration.text = "Μνήμη τοῦ Ὁσίου και Θεοφόρου Πατρὸς ἡμῶν Γερασίμου τοῦ Νέου Ἀσκητοῦ" //full title of day
-alt1.meShortCommemoration1.text = "Τοῦ Οσίου και Θεοφόρου Πατρὸς ἡμῶν Γερασίμου τοῦ Νέου Ἀσκητοῦ"
-alt1.meCom1.title = ""
-alt1.meCom2.title = ""
-alt1.meInsert1 = "τοῦ ὁσίου και θεοφόρου Πατρὸς ἡμῶν Γερασίμου τοῦ νέου Ἀσκητοῦ," //for use in petitions and dismissal
-alt1.meInsert2 = "οὗ καὶ τὴν μνήμην ἐπιτελοῦμεν," //for use in petitions and dismissal
-alt1.meNote.text = ""
+alt1.meDA.date = "Τῌ ΙϚʹ ΑΥΓΟΥΣΤΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+alt1.meDA.commemoration.full = "Μνήμη τοῦ Ὁσίου και Θεοφόρου Πατρὸς ἡμῶν Γερασίμου τοῦ Νέου Ἀσκητοῦ" //full title of day
+alt1.meDA.commemoration.first_short = "Τοῦ Οσίου και Θεοφόρου Πατρὸς ἡμῶν Γερασίμου τοῦ Νέου Ἀσκητοῦ"
+alt1.meDA.commemoration.first_title = ""
+alt1.meDA.commemoration.second_title = ""
+alt1.meDA.insert1 = "τοῦ ὁσίου και θεοφόρου Πατρὸς ἡμῶν Γερασίμου τοῦ νέου Ἀσκητοῦ," //for use in petitions and dismissal
+alt1.meDA.insert2 = "οὗ καὶ τὴν μνήμην ἐπιτελοῦμεν," //for use in petitions and dismissal
+alt1.meDA.note = ""
 alt1.meLE.commemoration1 = ""
 alt1.meLE.commemoration2 = ""
 alt1.meHO.number = ""
@@ -552,8 +553,8 @@ alt1.meHO.rank = ""
 alt1.meHO.commemorations = ""
 alt1.meHO.note1 = ""
 alt1.meHO.note2 = ""
-alt1.meDismissal = ""
-alt1.mePoet = ""
+alt1.meDA.dismissal = ""
+alt1.meDA.poet = ""
 
 alt1.meSV.Stichera1.mode = misc_gr_GR_cog.Mode2
 alt1.meSV.Stichera1.melody = he.a.m2_gr_GR_cog.OteEkTouXylou.incipit

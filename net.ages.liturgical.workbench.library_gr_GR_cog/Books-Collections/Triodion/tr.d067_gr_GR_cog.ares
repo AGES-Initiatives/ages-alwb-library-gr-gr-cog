@@ -1,10 +1,10 @@
 A_Resource_Whose_Name = tr.d067_gr_GR_cog
 
-trCommemoration.text = "" // full title of day
-trShortCommemoration1.text = "Ἁγία καὶ Μεγάλη Τετάρτη"
-trInsert1 = "" // for use in petitions and dismissal
-trInsert2 = "" // for use in petitions and dismissal
-trNote.text = ""
+trDA.commemoration.full = "" // full title of day
+trDA.commemoration.short = "Ἁγία καὶ Μεγάλη Τετάρτη"
+trDA.insert1 = "" // for use in petitions and dismissal
+trDA.insert2 = "" // for use in petitions and dismissal
+trDA.note = ""
 trHO.daytitle = ""
 trHO.commemorations = ""
 trHO.description1 = ""
@@ -13,7 +13,7 @@ trHO.note1 = ""
 trHO.note2 = ""
 trVL.header = "Προηγιασμένη Λειτουργία τῇ Μεγάλῃ Τρίτῃ" //for pdf headers of presanctified and vesperal liturgies
 trEM.header = "Ἀκολουθία τοῦ Νυμφίου τῇ Τρίτῃ τὸ Βράδυ" //for pdf evening Matins
-trDismissal = dismissals_gr_GR_cog.dis00.bridegroom
+trDA.dismissal = dismissals_gr_GR_cog.dis00.bridegroom
 
 trVE.Stichera01.mode = misc_gr_GR_cog.Mode1
 trVE.Stichera01.melody = misc_gr_GR_cog.Idiomelon
@@ -305,25 +305,18 @@ trMA.Kontakion1.text = "Ὑπὲρ τὴν πόρνην, ἀγαθέ, ἀνο�
 
 trMA.Oikos1.text = "Ἡ πρώην ἄσωτος γυνή, ἐξαίφνης σώφρων ὤφθη, μισήσασα τὰ ἔργα τῆς αἰσχρᾶς ἁμαρτίας, καὶ ἡδονὰς τοῦ σώματος, διενθυμουμένη τὴν αἰσχύνην τὴν πολλήν, καὶ κρίσιν τῆς κολάσεως, ἣν ὑποστῶσι πόρνοι καὶ ἄσωτοι· ὧνπερ πρῶτος πέλω καὶ πτοοῦμαι, ἀλλ' ἐμμένω τῇ φαύλῇ συνηθείᾳ ὁ ἄφρων· ἡ πόρνη δὲ γυνή, καὶ πτοηθεῖσα, καὶ σπουδάσασα ταχύ, ἦλθε βοῶσα πρὸς τὸν Λυτρωτήν· Φιλάνθρωπε καὶ οἰκτίρμον, ἐκ τοῦ βορβόρου τῶν ἔργων μου ῥῦσαί με."
 
-trMA.Synaxarion.commemoration.text = "Τῇ ἁγίᾳ καὶ μεγάλῃ Τετάρτῃ, τῆς ἀλειψάσης τὸν Κύριον μύρῳ Πόρνης γυναικός, μνείαν ποιεῖσθαι οἱ θειότατοι Πατέρες ἐθέσπισαν, ὅτι πρὸ τοῦ σωτηρίου Πάθους μικρὸν τοῦτο γέγονε."
-trMA.Synaxarion.couplet1.title = titles_gr_GR_cog.Stichoi
-trMA.Synaxarion.couplet1.verse1 = "Γυνή, βαλοῦσα σώματι Χριστοῦ μύρον,"
-trMA.Synaxarion.couplet1.verse2 = "Τὴν Νικοδήμου προὔλαβε σμυρναλόην."
-trMA.Synaxarion.narration1.p01.text = "[paragraph 01]"
-trMA.Synaxarion.narration1.p02.text = "[paragraph 02]"
-trMA.Synaxarion.narration1.p03.text = "[paragraph 03]"
-trMA.Synaxarion.narration1.p04.text = "[paragraph 04]"
-trMA.Synaxarion.narration1.p05.text = "[paragraph 05]"
-trMA.Synaxarion.narration1.p06.text = "[paragraph 06]"
-trMA.Synaxarion.narration1.p07.text = "[paragraph 07]"
-trMA.Synaxarion.narration2.p01.text = "[paragraph 01]"
-trMA.Synaxarion.narration2.p02.text = "[paragraph 02]"
-trMA.Synaxarion.narration2.p03.text = "[paragraph 03]"
-trMA.Synaxarion.narration2.p04.text = "[paragraph 04]"
-trMA.Synaxarion.narration2.p05.text = "[paragraph 05]"
-trMA.Synaxarion.narration2.p06.text = "[paragraph 06]"
-trMA.Synaxarion.narration2.p07.text = "[paragraph 07]"
-trMA.Synaxarion.lastline.text = "Ἀλλ' ὁ τῷ, νοητῷ μύρῳ χρισθείς, Χριστὲ ὁ Θεός, τῶν ἐπιῤῥύτων παθῶν ἐλευθέρωσον, καὶ ἐλέησον ἡμᾶς, ὡς μόνος ἅγιος, καὶ φιλάνθρωπος. Ἀμήν."
+trSY.commemoration.text = "Τῇ ἁγίᾳ καὶ μεγάλῃ Τετάρτῃ, τῆς ἀλειψάσης τὸν Κύριον μύρῳ Πόρνης γυναικός, μνείαν ποιεῖσθαι οἱ θειότατοι Πατέρες ἐθέσπισαν, ὅτι πρὸ τοῦ σωτηρίου Πάθους μικρὸν τοῦτο γέγονε."
+trSY.commemoration.couplet1.title = titles_gr_GR_cog.Stichoi
+trSY.commemoration.couplet1.verse1 = "Γυνή, βαλοῦσα σώματι Χριστοῦ μύρον,"
+trSY.commemoration.couplet1.verse2 = "Τὴν Νικοδήμου προὔλαβε σμυρναλόην."
+trSY.commemoration.narration.p01 = "[paragraph 01]"
+trSY.commemoration.narration.p02 = "[paragraph 02]"
+trSY.commemoration.narration.p03 = "[paragraph 03]"
+trSY.commemoration.narration.p04 = "[paragraph 04]"
+trSY.commemoration.narration.p05 = "[paragraph 05]"
+trSY.commemoration.narration.p06 = "[paragraph 06]"
+trSY.commemoration.narration.p07 = "[paragraph 07]"
+trSY.lastline = "Ἀλλ' ὁ τῷ, νοητῷ μύρῳ χρισθείς, Χριστὲ ὁ Θεός, τῶν ἐπιῤῥύτων παθῶν ἐλευθέρωσον, καὶ ἐλέησον ἡμᾶς, ὡς μόνος ἅγιος, καὶ φιλάνθρωπος. Ἀμήν."
 
 trMA.Ode8C1H.ode = misc_gr_GR_cog.Ode8
 trMA.Ode8C1H.mode = misc_gr_GR_cog.Mode2

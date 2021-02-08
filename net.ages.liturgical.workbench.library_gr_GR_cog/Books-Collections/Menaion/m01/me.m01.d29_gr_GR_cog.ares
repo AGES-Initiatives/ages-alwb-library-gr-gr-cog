@@ -1,17 +1,18 @@
 A_Resource_Whose_Name = me.m01.d29_gr_GR_cog
 
-meDate.text = "Τῌ ΚΘʹ ΙΑΝΟΥΑΡΙΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "Ἡ Ἀνακομιδὴ τῶν Λειψάνων τοῦ Ἁγίου Ἱερομάρτυρος Ἰγνατίου τοῦ Θεοφόρου" // full title of day
-meShortCommemoration1.text = "Ἀνακομιδὴ τῶν Λειψάνων τοῦ Ἁγίου Ἰγνατίου τοῦ Θεοφόρου"
-meCom1.title = ""
-meCom2.title = ""
-meInsert1 = "τοῦ ἁγίου καὶ ἐνδόξου ἱερομάρτυρος Ἰγνατίου τοῦ Θεοφόρου," // for use in petitions and dismissal
-meInsert2 = "οὗ καὶ τὴν μνήμην τῆς ἀνακομιδῆς τοῦ ἁγίου λειψάνου ἑορτάζομεν·" // for use in petitions and dismissal
-meNote.text = ""
+meDA.date = "Τῌ ΚΘʹ ΙΑΝΟΥΑΡΙΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+meDA.commemoration.full = "Ἡ Ἀνακομιδὴ τῶν Λειψάνων τοῦ Ἁγίου Ἱερομάρτυρος Ἰγνατίου τοῦ Θεοφόρου" // full title of day
+meDA.commemoration.first = "Ἀνακομιδὴ τῶν Λειψάνων τοῦ Ἁγίου Ἰγνατίου τοῦ Θεοφόρου"
+meDA.commemoration.first_short = "Ἀνακομιδὴ τῶν Λειψάνων τοῦ Ἁγίου Ἰγνατίου τοῦ Θεοφόρου"
+meDA.commemoration.first_title = ""
+meDA.commemoration.second_title = ""
+meDA.insert1 = "τοῦ ἁγίου καὶ ἐνδόξου ἱερομάρτυρος Ἰγνατίου τοῦ Θεοφόρου," // for use in petitions and dismissal
+meDA.insert2 = "οὗ καὶ τὴν μνήμην τῆς ἀνακομιδῆς τοῦ ἁγίου λειψάνου ἑορτάζομεν·" // for use in petitions and dismissal
+meDA.note = ""
 meLE.commemoration1 = "Ἀνακομιδὴ τῶν ἱ. Λειψάνων τοῦ Ἁγίου Ἱερομάρτυρος Ἰγνατίου τοῦ Θεοφόρου."
 meLE.commemoration2 = ""
 meHO.number = "29."
-meHO.rank = "5"
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""

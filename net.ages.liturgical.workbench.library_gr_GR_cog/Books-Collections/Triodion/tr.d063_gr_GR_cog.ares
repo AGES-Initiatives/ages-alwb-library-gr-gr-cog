@@ -1,10 +1,10 @@
 A_Resource_Whose_Name = tr.d063_gr_GR_cog
 
-trCommemoration.text = "ΣΑΒΒΑΤΟΝ ΠΡΟ ΤΩΝ ΒΑΪΩΝ ΤΟΥ ΑΓΙΟΥ ΚΑΙ ΔΙΚΑΙΟΥ ΛΑΖΑΡΟΥ" //full title of day
-trShortCommemoration1.text = "Σάββατον τοῦ Λαζάρου"
-trInsert1 = "" //for use in petitions and dismissal
-trInsert2 = "" //for use in petitions and dismissal
-trNote.text = ""
+trDA.commemoration.full = "ΣΑΒΒΑΤΟΝ ΠΡΟ ΤΩΝ ΒΑΪΩΝ ΤΟΥ ΑΓΙΟΥ ΚΑΙ ΔΙΚΑΙΟΥ ΛΑΖΑΡΟΥ" //full title of day
+trDA.commemoration.short = "Σάββατον τοῦ Λαζάρου"
+trDA.insert1 = "" //for use in petitions and dismissal
+trDA.insert2 = "" //for use in petitions and dismissal
+trDA.note = ""
 trHO.daytitle = ""
 trHO.commemorations = ""
 trHO.description1 = ""
@@ -12,7 +12,7 @@ trHO.description2 = ""
 trHO.note1 = ""
 trHO.note2 = ""
 trVL.header = "Προηγιασμένη Λειτουργία τῇ Παρασκευῇ πρὸ τῶν Βαΐων" //for pdf headers of presanctified and vesperal liturgies
-trDismissal = dismissals_gr_GR_cog.dis00.resurrection
+trDA.dismissal = dismissals_gr_GR_cog.dis00.resurrection
 
 trVE.AposIdiomelon1.mode = misc_gr_GR_cog.Mode8
 trVE.AposIdiomelon1.melody = misc_gr_GR_cog.Idiomelon
@@ -897,25 +897,18 @@ trMA.Kontakion1.text = "Ἡ πάντων χαρά, Χριστὸς ἡ ἀλ�
 
 trMA.Oikos1.text = "Τοῖς Μαθηταῖς ὁ Κτίστης τῶν ὅλων, προηγόρευσε λέγων· Ἀδελφοὶ καὶ γνωστοί, ἡμῶν ὁ φίλος κεκοίμηται, τούτοις προλέγων καὶ ἐκδιδάσκων, ὅτι πάντα γινώσκεις ὡς Κτίστης πάντων· ἄγωμεν οὖν πορευθῶμεν, καὶ ἴδωμεν ξένην ταφήν, καὶ θρῆνον τὸν τῆς Μαρίας, καὶ τὸν τάφον Λαζάρου ὀψώμεθα· ἐκεῖ γὰρ μέλλω θαυματουργεῖν, ἐκτελῶν τοῦ Σταυροῦ τὰ προοίμια, καὶ πᾶσι παρέχων θείαν ἄφεσιν."
 
-trMA.Synaxarion.commemoration.text = "Τῇ αὐτῇ ἡμέρᾳ, Σαββάτῳ πρὸ τῶν Βαΐων, ἑορτάζομεν τὴν Ἔγερσιν τοῦ ἁγίου καὶ δικαίου, φίλου τοῦ Χριστοῦ, Λαζάρου τοῦ τετραημέρου."
-trMA.Synaxarion.couplet1.title = titles_gr_GR_cog.Stichoi
-trMA.Synaxarion.couplet1.verse1 = "Θρηνεῖς Ἰησοῦ, τοῦτο θνητῆς οὐσίας."
-trMA.Synaxarion.couplet1.verse2 = "Ζωοῖς φίλον σου, τοῦτο θείας Ἰσχύος."
-trMA.Synaxarion.narration1.p01.text = "[paragraph 01]"
-trMA.Synaxarion.narration1.p02.text = "[paragraph 02]"
-trMA.Synaxarion.narration1.p03.text = "[paragraph 03]"
-trMA.Synaxarion.narration1.p04.text = "[paragraph 04]"
-trMA.Synaxarion.narration1.p05.text = "[paragraph 05]"
-trMA.Synaxarion.narration1.p06.text = "[paragraph 06]"
-trMA.Synaxarion.narration1.p07.text = "[paragraph 07]"
-trMA.Synaxarion.narration2.p01.text = "[paragraph 01]"
-trMA.Synaxarion.narration2.p02.text = "[paragraph 02]"
-trMA.Synaxarion.narration2.p03.text = "[paragraph 03]"
-trMA.Synaxarion.narration2.p04.text = "[paragraph 04]"
-trMA.Synaxarion.narration2.p05.text = "[paragraph 05]"
-trMA.Synaxarion.narration2.p06.text = "[paragraph 06]"
-trMA.Synaxarion.narration2.p07.text = "[paragraph 07]"
-trMA.Synaxarion.lastline.text = "Ταῖς τοῦ σοῦ φίλου Λαζάρου πρεσβείαις, Χριστὲ ὁ Θεός, ἐλέησον ἡμᾶς, Ἀμήν."
+trSY.commemoration.text = "Τῇ αὐτῇ ἡμέρᾳ, Σαββάτῳ πρὸ τῶν Βαΐων, ἑορτάζομεν τὴν Ἔγερσιν τοῦ ἁγίου καὶ δικαίου, φίλου τοῦ Χριστοῦ, Λαζάρου τοῦ τετραημέρου."
+trSY.commemoration.couplet1.title = titles_gr_GR_cog.Stichoi
+trSY.commemoration.couplet1.verse1 = "Θρηνεῖς Ἰησοῦ, τοῦτο θνητῆς οὐσίας."
+trSY.commemoration.couplet1.verse2 = "Ζωοῖς φίλον σου, τοῦτο θείας Ἰσχύος."
+trSY.commemoration.narration.p01 = "[paragraph 01]"
+trSY.commemoration.narration.p02 = "[paragraph 02]"
+trSY.commemoration.narration.p03 = "[paragraph 03]"
+trSY.commemoration.narration.p04 = "[paragraph 04]"
+trSY.commemoration.narration.p05 = "[paragraph 05]"
+trSY.commemoration.narration.p06 = "[paragraph 06]"
+trSY.commemoration.narration.p07 = "[paragraph 07]"
+trSY.lastline = "Ταῖς τοῦ σοῦ φίλου Λαζάρου πρεσβείαις, Χριστὲ ὁ Θεός, ἐλέησον ἡμᾶς, Ἀμήν."
 
 trMA.Ode7C1H.ode = misc_gr_GR_cog.Ode7
 trMA.Ode7C1H.mode = misc_gr_GR_cog.Mode8

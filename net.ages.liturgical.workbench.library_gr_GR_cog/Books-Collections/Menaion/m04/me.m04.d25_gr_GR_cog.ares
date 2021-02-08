@@ -1,13 +1,14 @@
 A_Resource_Whose_Name = me.m04.d25_gr_GR_cog
 
-meDate.text = "Τῌ ΚΕʹ ΑΠΡΙΛΙΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "Μνήμη τοῦ Ἁγίου Ἀποστόλου καὶ Εὐαγγελιστοῦ Μάρκου" // full title of day
-meShortCommemoration1.text = "Μνήμη τοῦ Ἁγίου Εὐαγγελιστοῦ Μάρκου."
-meCom1.title = ""
-meCom2.title = ""
-meInsert1 = "καὶ τοῦ ἁγίου ἐνδόξου καὶ πανευφήμου Ἀποστόλου καὶ Εὐαγγελιστοῦ Μάρκου," // for use in petitions and dismissal
-meInsert2 = "οὗ καὶ τὴν μνήμην ἐπιτελοῦμεν·" // for use in petitions and dismissal
-meNote.text = ""
+meDA.date = "Τῌ ΚΕʹ ΑΠΡΙΛΙΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+meDA.commemoration.full = "Μνήμη τοῦ Ἁγίου Ἀποστόλου καὶ Εὐαγγελιστοῦ Μάρκου" // full title of day
+meDA.commemoration.first = "Μνήμη τοῦ Ἁγίου Εὐαγγελιστοῦ Μάρκου."
+meDA.commemoration.first_short = "Μνήμη τοῦ Ἁγίου Εὐαγγελιστοῦ Μάρκου."
+meDA.commemoration.first_title = ""
+meDA.commemoration.second_title = ""
+meDA.insert1 = "καὶ τοῦ ἁγίου ἐνδόξου καὶ πανευφήμου Ἀποστόλου καὶ Εὐαγγελιστοῦ Μάρκου," // for use in petitions and dismissal
+meDA.insert2 = "οὗ καὶ τὴν μνήμην ἐπιτελοῦμεν·" // for use in petitions and dismissal
+meDA.note = ""
 meLE.commemoration1 = "Μνήμη τοῦ Ἁγίου Ἀποστόλου καὶ Εὐαγγελιστοῦ Μάρκου."
 meLE.commemoration2 = ""
 meHO.number = ""

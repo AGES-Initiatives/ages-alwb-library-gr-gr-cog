@@ -1,13 +1,14 @@
 A_Resource_Whose_Name = me.m05.d07_gr_GR_cog
 
-meDate.text = "Τῌ Ζʹ ΜΑΪΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "Ἀνάμνησις τοῦ ἐν Οὐρανῷ Φανέντος Σημείου τοῦ Τιμίου Σταυροῦ, Ὥρᾳ Τρίτῃ τῆς Ἡμέρας, ἐπὶ Κωνσταντίου Βασιλέως, Υἱοῦ Κωνσταντίνου τοῦ Μεγάλου." // full title of day
-meShortCommemoration1.text = "Ἀνάμνησις τοῦ ἐν Οὐρανῷ Φανέντος Σημείου τοῦ Τιμίου Σταυροῦ"
-meCom1.title = ""
-meCom2.title = ""
-meInsert1 = "" // for use in petitions and dismissal
-meInsert2 = "" // for use in petitions and dismissal
-meNote.text = ""
+meDA.date = "Τῌ Ζʹ ΜΑΪΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+meDA.commemoration.full = "Ἀνάμνησις τοῦ ἐν Οὐρανῷ Φανέντος Σημείου τοῦ Τιμίου Σταυροῦ, Ὥρᾳ Τρίτῃ τῆς Ἡμέρας, ἐπὶ Κωνσταντίου Βασιλέως, Υἱοῦ Κωνσταντίνου τοῦ Μεγάλου." // full title of day
+meDA.commemoration.first = "Ἀνάμνησις τοῦ ἐν Οὐρανῷ Φανέντος Σημείου τοῦ Τιμίου Σταυροῦ"
+meDA.commemoration.first_short = "Ἀνάμνησις τοῦ ἐν Οὐρανῷ Φανέντος Σημείου τοῦ Τιμίου Σταυροῦ"
+meDA.commemoration.first_title = ""
+meDA.commemoration.second_title = ""
+meDA.insert1 = "" // for use in petitions and dismissal
+meDA.insert2 = "" // for use in petitions and dismissal
+meDA.note = ""
 meLE.commemoration1 = "Ἡ Ἀνάμνησις τοῦ ἐν Οὐρανῷ Φανέντος Σημείου τοῦ Τιμίου Σταυροῦ, ἐπί Κωνσταντίου Βασιλέως, Υἱοῦ τοῦ Μεγάλου Κωνσταντίνου."
 meLE.commemoration2 = ""
 meHO.number = ""

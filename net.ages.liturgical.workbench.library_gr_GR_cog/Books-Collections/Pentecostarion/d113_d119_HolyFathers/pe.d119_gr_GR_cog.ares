@@ -1,10 +1,10 @@
 A_Resource_Whose_Name = pe.d119_gr_GR_cog
 
-peCommemoration.text = "Τῼ ΣΑΒΒΑΤῼ ΤΗΣ Ζ' ΕΒΔΟΜΑΔΟΣ ΗΤΟΙ Τῼ ΠΡΟ ΤΗΣ ΠΕΝΤΗΚΟΣΤΗΣ" //full title of day
-peShortCommemoration1.text = "Ψυχοσάββατον"
-peInsert1 = "" //for use in petitions and dismissal
-peInsert2 = "" //for use in petitions and dismissal
-peNote.text = ""
+peDA.commemoration.full = "Τῼ ΣΑΒΒΑΤῼ ΤΗΣ Ζ' ΕΒΔΟΜΑΔΟΣ ΗΤΟΙ Τῼ ΠΡΟ ΤΗΣ ΠΕΝΤΗΚΟΣΤΗΣ" //full title of day
+peDA.commemoration.short = "Ψυχοσάββατον"
+peDA.insert1 = "" //for use in petitions and dismissal
+peDA.insert2 = "" //for use in petitions and dismissal
+peDA.note = ""
 peHO.daytitle = ""
 peHO.commemorations = ""
 peHO.description1 = ""
@@ -304,22 +304,15 @@ peMA.Kontakion1.text = "Τοὺς μεταστάντας ἀφ' ἡμῶν ἐ�
 
 peMA.Oikos1.text = tr.d014_gr_GR_cog.trMA.Oikos1.text
 
-peMA.Synaxarion.commemoration.text = "Τῇ αὐτῇ ἡμέρᾳ, μνείαν πάντων τῶν ἀπ' αἰῶνος κοιμηθέντων εὐσεβῶς, ἐπ' ἐλπίδι ἀναστάσεως ζωῆς αἰωνίου, οἱ θειότατοι Πατέρες ἐθέσπισαν."
-peMA.Synaxarion.narration1.p01.text = "[paragraph 01]"
-peMA.Synaxarion.narration1.p02.text = "[paragraph 02]"
-peMA.Synaxarion.narration1.p03.text = "[paragraph 03]"
-peMA.Synaxarion.narration1.p04.text = "[paragraph 04]"
-peMA.Synaxarion.narration1.p05.text = "[paragraph 05]"
-peMA.Synaxarion.narration1.p06.text = "[paragraph 06]"
-peMA.Synaxarion.narration1.p07.text = "[paragraph 07]"
-peMA.Synaxarion.narration2.p01.text = "[paragraph 01]"
-peMA.Synaxarion.narration2.p02.text = "[paragraph 02]"
-peMA.Synaxarion.narration2.p03.text = "[paragraph 03]"
-peMA.Synaxarion.narration2.p04.text = "[paragraph 04]"
-peMA.Synaxarion.narration2.p05.text = "[paragraph 05]"
-peMA.Synaxarion.narration2.p06.text = "[paragraph 06]"
-peMA.Synaxarion.narration2.p07.text = "[paragraph 07]"
-peMA.Synaxarion.lastline.text = "Τὰς τῶν προαναπαυσαμένων ψυχὰς κατάταξον, Δέσποτα Χριστέ, ἐν ταῖς τῶν Δικαίων σου σκηναῖς, καὶ ἐλέησον ἡμᾶς, ὡς μόνος ἀθάνατος. Ἀμήν."
+peSY.commemoration.text = "Τῇ αὐτῇ ἡμέρᾳ, μνείαν πάντων τῶν ἀπ' αἰῶνος κοιμηθέντων εὐσεβῶς, ἐπ' ἐλπίδι ἀναστάσεως ζωῆς αἰωνίου, οἱ θειότατοι Πατέρες ἐθέσπισαν."
+peSY.commemoration.narration.p01 = "[paragraph 01]"
+peSY.commemoration.narration.p02 = "[paragraph 02]"
+peSY.commemoration.narration.p03 = "[paragraph 03]"
+peSY.commemoration.narration.p04 = "[paragraph 04]"
+peSY.commemoration.narration.p05 = "[paragraph 05]"
+peSY.commemoration.narration.p06 = "[paragraph 06]"
+peSY.commemoration.narration.p07 = "[paragraph 07]"
+peSY.lastline = "Τὰς τῶν προαναπαυσαμένων ψυχὰς κατάταξον, Δέσποτα Χριστέ, ἐν ταῖς τῶν Δικαίων σου σκηναῖς, καὶ ἐλέησον ἡμᾶς, ὡς μόνος ἀθάνατος. Ἀμήν."
 
 peMA.Ode7C1H.ode = misc_gr_GR_cog.Ode7
 peMA.Ode7C1H.mode = misc_gr_GR_cog.Mode6

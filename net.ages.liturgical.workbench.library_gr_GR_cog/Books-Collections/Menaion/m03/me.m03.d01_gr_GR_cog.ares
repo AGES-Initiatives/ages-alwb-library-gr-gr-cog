@@ -1,16 +1,14 @@
 A_Resource_Whose_Name = me.m03.d01_gr_GR_cog
 
-meHO.Month.text = "ΜΗΝ ΜΑΡΤΙΟΣ"
-meHO.DaysHours.text = ""
-
-meDate.text = "Τῌ Αʹ ΜΑΡΤΙΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "Μνήμη τῆς ἁγίας Ὁσιομάρτυρος Εὐδοκίας τῆς ἀπὸ Σαμαρειτῶν" //full title of day
-meShortCommemoration1.text = "Μνήμη τῆς ἁγίας Ὁσιομάρτυρος Εὐδοκίας"
-meCom1.title = "Τῆς Ἁγίας."
-meCom2.title = ""
-meInsert1 = "καὶ τῆς ἁγίας Ὁσιομάρτυρος Εὐδοκίας, " //for use in petitions and dismissal
-meInsert2 = "ἧς καὶ τὴν μνήμην ἐπιτελοῦμεν· " //for use in petitions and dismissal
-meNote.text = ""
+meDA.date = "Τῌ Αʹ ΜΑΡΤΙΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+meDA.commemoration.full = "Μνήμη τῆς ἁγίας Ὁσιομάρτυρος Εὐδοκίας τῆς ἀπὸ Σαμαρειτῶν" //full title of day
+meDA.commemoration.first = "Μνήμη τῆς ἁγίας Ὁσιομάρτυρος Εὐδοκίας"
+meDA.commemoration.first_short = "Μνήμη τῆς ἁγίας Ὁσιομάρτυρος Εὐδοκίας"
+meDA.commemoration.first_title = "Τῆς Ἁγίας."
+meDA.commemoration.second_title = ""
+meDA.insert1 = "καὶ τῆς ἁγίας Ὁσιομάρτυρος Εὐδοκίας, " //for use in petitions and dismissal
+meDA.insert2 = "ἧς καὶ τὴν μνήμην ἐπιτελοῦμεν· " //for use in petitions and dismissal
+meDA.note = ""
 meLE.commemoration1 = "Μνήμη τῆς ἁγίας Ὁσιομάρτυρος Εὐδοκίας τῆς ἀπὸ Σαμαρειτῶν."
 meLE.commemoration2 = ""
 meHO.number = ""

@@ -1,17 +1,18 @@
 A_Resource_Whose_Name = me.m01.d05_gr_GR_cog
 
-meDate.text = "Τῌ Εʹ ΙΑΝΟΥΑΡΙΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "Προεόρτια τῶν Φώτων· καὶ μνήμη τῶν Ἁγίων Μαρτύρων Θεοπέμπτου καὶ Θεωνᾶ, καὶ τῆς Ὁσίας Συγκλητικῆς." // full title of day
-meShortCommemoration1.text = "Προεόρτια τῶν Φώτων."
-meCom1.title = ""
-meCom2.title = ""
-meInsert1 = "" // for use in petitions and dismissal
-meInsert2 = "" // for use in petitions and dismissal
-meNote.text = ""
+meDA.date = "Τῌ Εʹ ΙΑΝΟΥΑΡΙΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+meDA.commemoration.full = "Προεόρτια τῶν Φώτων· καὶ μνήμη τῶν Ἁγίων Μαρτύρων Θεοπέμπτου καὶ Θεωνᾶ, καὶ τῆς Ὁσίας Συγκλητικῆς." // full title of day
+meDA.commemoration.first = "Προεόρτια τῶν Φώτων."
+meDA.commemoration.first_short = "Προεόρτια τῶν Φώτων."
+meDA.commemoration.first_title = ""
+meDA.commemoration.second_title = ""
+meDA.insert1 = "" // for use in petitions and dismissal
+meDA.insert2 = "" // for use in petitions and dismissal
+meDA.note = ""
 meLE.commemoration1 = "Ἡ παραμονὴ τῶν Ἁγίων Θεοφανείων."
 meLE.commemoration2 = ""
 meHO.number = "5."
-meHO.rank = "5"
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = rubrical_gr_GR_cog.FastButNotSaturday
 meHO.note2 = ""

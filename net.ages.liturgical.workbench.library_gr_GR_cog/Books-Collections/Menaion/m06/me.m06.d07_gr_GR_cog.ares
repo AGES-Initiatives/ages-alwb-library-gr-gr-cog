@@ -1,13 +1,14 @@
 A_Resource_Whose_Name = me.m06.d07_gr_GR_cog
 
-meDate.text = "Τῌ Ζʹ ΙΟΥΝΙΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "Μνήμη τοῦ Ἁγίου Ἱερομάρτυρος Θεοδότου Ἀγκύρας" //full title of day
-meShortCommemoration1.text = "Μνήμη τοῦ Ἁγίου Ἱερομάρτυρος Θεοδότου Ἀγκύρας"
-meCom1.title = ""
-meCom2.title = ""
-meInsert1 = "καὶ τοῦ Ἁγίου Ἱερομάρτυρος Θεοδότου Ἀγκύρας, " //for use in petitions and dismissal
-meInsert2 = "οὗ καὶ τὴν μνήμην ἐπιτελοῦμεν· " //for use in petitions and dismissal
-meNote.text = ""
+meDA.date = "Τῌ Ζʹ ΙΟΥΝΙΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+meDA.commemoration.full = "Μνήμη τοῦ Ἁγίου Ἱερομάρτυρος Θεοδότου Ἀγκύρας" //full title of day
+meDA.commemoration.first = "Μνήμη τοῦ Ἁγίου Ἱερομάρτυρος Θεοδότου Ἀγκύρας"
+meDA.commemoration.first_short = "Μνήμη τοῦ Ἁγίου Ἱερομάρτυρος Θεοδότου Ἀγκύρας"
+meDA.commemoration.first_title = ""
+meDA.commemoration.second_title = ""
+meDA.insert1 = "καὶ τοῦ Ἁγίου Ἱερομάρτυρος Θεοδότου Ἀγκύρας, " //for use in petitions and dismissal
+meDA.insert2 = "οὗ καὶ τὴν μνήμην ἐπιτελοῦμεν· " //for use in petitions and dismissal
+meDA.note = ""
 meLE.commemoration1 = "Μνήμη τοῦ Ἁγίου Ἱερομάρτυρος Θεοδότου Ἀγκύρας."
 meLE.commemoration2 = ""
 meHO.number = ""
@@ -15,7 +16,7 @@ meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
-meDismissal = ""
+meDA.dismissal = ""
 
 meVE.Stichera01.mode = misc_gr_GR_cog.Mode1
 meVE.Stichera01.melody = he.a.m1_gr_GR_cog.TonOuranionTagmaton.incipit

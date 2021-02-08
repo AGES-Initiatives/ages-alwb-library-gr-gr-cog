@@ -1,10 +1,10 @@
 A_Resource_Whose_Name = tr.d028_gr_GR_cog
 
-trCommemoration.text = "Μνήμη τοῦ διὰ Κολλύβων Θαύματος τοῦ Ἁγίου Μεγαλομάρτυρος Θεοδώρου τοῦ Τήρωνος." //full title of day
-trShortCommemoration1.text = "Τὸ διὰ Κολλύβων Θαῦμα τοῦ Ἁγίου Θεοδώρου τοῦ Τήρωνος."
-trInsert1 = "τοῦ Ἁγίου Μεγαλομάρτυρος Θεοδώρου τοῦ Τήρωνος," //for use in petitions and dismissal
-trInsert2 = "οὗ τὸ διὰ κολλύβων θαῦμα ἑορτάζομεν·" //for use in petitions and dismissal
-trNote.text = ""
+trDA.commemoration.full = "Μνήμη τοῦ διὰ Κολλύβων Θαύματος τοῦ Ἁγίου Μεγαλομάρτυρος Θεοδώρου τοῦ Τήρωνος." //full title of day
+trDA.commemoration.short = "Τὸ διὰ Κολλύβων Θαῦμα τοῦ Ἁγίου Θεοδώρου τοῦ Τήρωνος."
+trDA.insert1 = "τοῦ Ἁγίου Μεγαλομάρτυρος Θεοδώρου τοῦ Τήρωνος," //for use in petitions and dismissal
+trDA.insert2 = "οὗ τὸ διὰ κολλύβων θαῦμα ἑορτάζομεν·" //for use in petitions and dismissal
+trDA.note = ""
 trHO.daytitle = ""
 trHO.commemorations = ""
 trHO.description1 = ""
@@ -647,25 +647,18 @@ trMA.Kontakion1.text = "Πίστιν Χριστοῦ ὡσεὶ θώρακα, 
 
 trMA.Oikos1.text = "Τὸν ἐν θρόνῳ φωτὸς ἐποχούμενον, εὐχαρίστως ἐν πίστει ὑμνοῦμέν σε, ὅτι δώρημα θεῖον δεδώρησαι, τὸν γενναῖον τοῖς ἄθλοις Θεόδωρον, τὸν ἐν τῷ βίῳ τρισμακάριστον, ὡς ὑπέρμαχον ὄντα τῆς ἀληθείας, εὐσεβεῖ λογισμῷ κεκτημένος Χριστόν, ἀνεδείχθη κραταιὸς νικητὴς κατὰ τοῦ δολεροῦ, ὡς ἀήττητος."
 
-trMA.Synaxarion.commemoration.text = "Τῇ αὐτῇ ἡμέρᾳ, Σαββάτῳ τῆς πρώτης Ἑβδομάδος τῶν Νηστειῶν, τὸ διὰ τῶν Κολλύβων παράδοξον θαῦμα τοῦ ἁγίου καὶ ἐνδόξου Μεγαλομάρτυρος Θεοδώρου τοῦ Τήρωνος ἑορτάζομεν."
-trMA.Synaxarion.couplet1.title = titles_gr_GR_cog.Stichoi
-trMA.Synaxarion.couplet1.verse1 = "Τροφῇ κολλύβων, ἑστιᾷ Τήρων πόλιν,"
-trMA.Synaxarion.couplet1.verse2 = "Τροφὴν τιθεὶς ἄπρακτον, ἠλιγισμένην."
-trMA.Synaxarion.narration1.p01.text = "[paragraph 01]"
-trMA.Synaxarion.narration1.p02.text = "[paragraph 02]"
-trMA.Synaxarion.narration1.p03.text = "[paragraph 03]"
-trMA.Synaxarion.narration1.p04.text = "[paragraph 04]"
-trMA.Synaxarion.narration1.p05.text = "[paragraph 05]"
-trMA.Synaxarion.narration1.p06.text = "[paragraph 06]"
-trMA.Synaxarion.narration1.p07.text = "[paragraph 07]"
-trMA.Synaxarion.narration2.p01.text = "[paragraph 01]"
-trMA.Synaxarion.narration2.p02.text = "[paragraph 02]"
-trMA.Synaxarion.narration2.p03.text = "[paragraph 03]"
-trMA.Synaxarion.narration2.p04.text = "[paragraph 04]"
-trMA.Synaxarion.narration2.p05.text = "[paragraph 05]"
-trMA.Synaxarion.narration2.p06.text = "[paragraph 06]"
-trMA.Synaxarion.narration2.p07.text = "[paragraph 07]"
-trMA.Synaxarion.lastline.text = "Ταῖς αὐτοῦ πρεσβείαις, ὁ Θεός, ἐλέησον, καὶ σῶσον ἡμᾶς. Ἀμήν."
+trSY.commemoration.text = "Τῇ αὐτῇ ἡμέρᾳ, Σαββάτῳ τῆς πρώτης Ἑβδομάδος τῶν Νηστειῶν, τὸ διὰ τῶν Κολλύβων παράδοξον θαῦμα τοῦ ἁγίου καὶ ἐνδόξου Μεγαλομάρτυρος Θεοδώρου τοῦ Τήρωνος ἑορτάζομεν."
+trSY.commemoration.couplet1.title = titles_gr_GR_cog.Stichoi
+trSY.commemoration.couplet1.verse1 = "Τροφῇ κολλύβων, ἑστιᾷ Τήρων πόλιν,"
+trSY.commemoration.couplet1.verse2 = "Τροφὴν τιθεὶς ἄπρακτον, ἠλιγισμένην."
+trSY.commemoration.narration.p01 = "[paragraph 01]"
+trSY.commemoration.narration.p02 = "[paragraph 02]"
+trSY.commemoration.narration.p03 = "[paragraph 03]"
+trSY.commemoration.narration.p04 = "[paragraph 04]"
+trSY.commemoration.narration.p05 = "[paragraph 05]"
+trSY.commemoration.narration.p06 = "[paragraph 06]"
+trSY.commemoration.narration.p07 = "[paragraph 07]"
+trSY.lastline = "Ταῖς αὐτοῦ πρεσβείαις, ὁ Θεός, ἐλέησον, καὶ σῶσον ἡμᾶς. Ἀμήν."
 
 trMA.Ode7C1H.ode = misc_gr_GR_cog.Ode7
 trMA.Ode7C1H.mode = misc_gr_GR_cog.Mode4

@@ -1,13 +1,14 @@
 A_Resource_Whose_Name = me.m12.d16_gr_GR_cog
 
-meDate.text = "Τῌ ΙϚʹ ΔΕΚΕΜΒΡΙΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "Μνήμη τοῦ Ἁγίου Προφήτου Ἀγγαίου" // full title of day
-meShortCommemoration1.text = "Μνήμη τοῦ Ἁγίου Προφήτου Ἀγγαίου"
-meCom1.title = ""
-meCom2.title = ""
-meInsert1 = "καὶ τοῦ Ἁγίου Προφήτου Ἀγγαίου, " // for use in petitions and dismissal
-meInsert2 = "οὗ καὶ τὴν μνήμην ἐπιτελοῦμεν· " // for use in petitions and dismissal
-meNote.text = ""
+meDA.date = "Τῌ ΙϚʹ ΔΕΚΕΜΒΡΙΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+meDA.commemoration.full = "Μνήμη τοῦ Ἁγίου Προφήτου Ἀγγαίου" // full title of day
+meDA.commemoration.first = "Μνήμη τοῦ Ἁγίου Προφήτου Ἀγγαίου"
+meDA.commemoration.first_short = "Μνήμη τοῦ Ἁγίου Προφήτου Ἀγγαίου"
+meDA.commemoration.first_title = ""
+meDA.commemoration.second_title = ""
+meDA.insert1 = "καὶ τοῦ Ἁγίου Προφήτου Ἀγγαίου, " // for use in petitions and dismissal
+meDA.insert2 = "οὗ καὶ τὴν μνήμην ἐπιτελοῦμεν· " // for use in petitions and dismissal
+meDA.note = ""
 meLE.commemoration1 = ""
 meLE.commemoration2 = ""
 meHO.number = ""
@@ -289,14 +290,14 @@ meLI.Kontakion1.text = ""
 
 meMegalynarion.text = ""
 
-alt1.meDate.text = "Τῌ ΙϚʹ ΔΕΚΕΜΒΡΙΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-alt1.meCommemoration.text = "Μνήμη τοῦ ἐν Ἁγίοις Πατρὸς ἡμῶν Μοδέστου, Ἀρχιεπισκόπου Ἱεροσολύμων, τοῦ Θαυματουργοῦ." //full title of day
-alt1.meShortCommemoration1.text = ""
-alt1.meCom1.title = ""
-alt1.meCom2.title = ""
-alt1.meInsert1 = "καὶ τοῦ ἐν ἁγίοις Πατρὸς ἡμῶν Μοδέστου, Ἀρχιεπισκόπου Ἱεροσολύμων, " //for use in petitions and dismissal
-alt1.meInsert2 = "οὗ καὶ τὴν μνήμην ἐπιτελοῦμεν· " //for use in petitions and dismissal
-alt1.meNote.text = ""
+alt1.meDA.date = "Τῌ ΙϚʹ ΔΕΚΕΜΒΡΙΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+alt1.meDA.commemoration.full = "Μνήμη τοῦ ἐν Ἁγίοις Πατρὸς ἡμῶν Μοδέστου, Ἀρχιεπισκόπου Ἱεροσολύμων, τοῦ Θαυματουργοῦ." //full title of day
+alt1.meDA.commemoration.first_short = ""
+alt1.meDA.commemoration.first_title = ""
+alt1.meDA.commemoration.second_title = ""
+alt1.meDA.insert1 = "καὶ τοῦ ἐν ἁγίοις Πατρὸς ἡμῶν Μοδέστου, Ἀρχιεπισκόπου Ἱεροσολύμων, " //for use in petitions and dismissal
+alt1.meDA.insert2 = "οὗ καὶ τὴν μνήμην ἐπιτελοῦμεν· " //for use in petitions and dismissal
+alt1.meDA.note = ""
 alt1.meLE.commemoration1 = "Μνήμη τοῦ ἐν Ἁγίοις Πατρὸς ἡμῶν Μοδέστου, Ἀρχιεπισκόπου Ἱεροσολύμων, τοῦ Θαυματουργοῦ."
 alt1.meLE.commemoration2 = ""
 alt1.meHO.number = ""

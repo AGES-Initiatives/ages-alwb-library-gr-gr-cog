@@ -1,13 +1,14 @@
 A_Resource_Whose_Name = me.m08.d22_gr_GR_cog
 
-meDate.text = "Τῌ ΚΒʹ ΑΥΓΟΥΣΤΟΥ"
-meCommemoration.text = "Μνήμη τοῦ Ἁγίου Μάρτυρος Ἀγαθονίκου καὶ τοῦ Ἁγίου Μάρτυρος Λούππου" //full title of day
-meShortCommemoration1.text = "Μνήμη τοῦ Ἁγίου Μάρτυρος Ἀγαθονίκου"
-meCom1.title = "Τοῦ Ἁγ. Ἀγαθονίκου"
-meCom2.title = "Τοῦ Ἁγ. Λούππου"
-meInsert1 = "καὶ τοῦ Ἁγίου Μάρτυρος Ἀγαθονίκου, " //for use in petitions and dismissal
-meInsert2 = "οὗ καὶ τὴν μνήμην ἐπιτελοῦμεν· " //for use in petitions and dismissal
-meNote.text = ""
+meDA.date = "Τῌ ΚΒʹ ΑΥΓΟΥΣΤΟΥ"
+meDA.commemoration.full = "Μνήμη τοῦ Ἁγίου Μάρτυρος Ἀγαθονίκου καὶ τοῦ Ἁγίου Μάρτυρος Λούππου" //full title of day
+meDA.commemoration.first = "Μνήμη τοῦ Ἁγίου Μάρτυρος Ἀγαθονίκου"
+meDA.commemoration.first_short = "Μνήμη τοῦ Ἁγίου Μάρτυρος Ἀγαθονίκου"
+meDA.commemoration.first_title = "Τοῦ Ἁγ. Ἀγαθονίκου"
+meDA.commemoration.second_title = "Τοῦ Ἁγ. Λούππου"
+meDA.insert1 = "καὶ τοῦ Ἁγίου Μάρτυρος Ἀγαθονίκου, " //for use in petitions and dismissal
+meDA.insert2 = "οὗ καὶ τὴν μνήμην ἐπιτελοῦμεν· " //for use in petitions and dismissal
+meDA.note = ""
 meLE.commemoration1 = "Μνήμη τοῦ Ἁγίου Μάρτυρος Ἀγαθονίκου."
 meLE.commemoration2 = ""
 meHO.number = ""
@@ -587,14 +588,14 @@ meLI.Kontakion1.text = meMA.Kontakion1.text
 
 meMegalynarion.text = ""
 
-alt1.meDate.text = "Τῌ ΚΒʹ ΑΥΓΟΥΣΤΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-alt1.meCommemoration.text = "Σύναξις τῆς Ὑπεραγίας Δεσποίνης ἡμῶν Θεοτόκου, ἐν τῷ Προυσῷ" //full title of day
-alt1.meShortCommemoration1.text = "Σύναξις τῆς Ὑπεραγίας Δεσποίνης ἡμῶν Θεοτόκου, ἐν τῷ Προυσῷ"
-alt1.meCom1.title = ""
-alt1.meCom2.title = ""
-alt1.meInsert1 = "" //for use in petitions and dismissal
-alt1.meInsert2 = "" //for use in petitions and dismissal
-alt1.meNote.text = ""
+alt1.meDA.date = "Τῌ ΚΒʹ ΑΥΓΟΥΣΤΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+alt1.meDA.commemoration.full = "Σύναξις τῆς Ὑπεραγίας Δεσποίνης ἡμῶν Θεοτόκου, ἐν τῷ Προυσῷ" //full title of day
+alt1.meDA.commemoration.first_short = "Σύναξις τῆς Ὑπεραγίας Δεσποίνης ἡμῶν Θεοτόκου, ἐν τῷ Προυσῷ"
+alt1.meDA.commemoration.first_title = ""
+alt1.meDA.commemoration.second_title = ""
+alt1.meDA.insert1 = "" //for use in petitions and dismissal
+alt1.meDA.insert2 = "" //for use in petitions and dismissal
+alt1.meDA.note = ""
 alt1.meLE.commemoration1 = ""
 alt1.meLE.commemoration2 = ""
 alt1.meHO.number = ""
@@ -603,7 +604,7 @@ alt1.meHO.commemorations = ""
 alt1.meHO.note1 = ""
 alt1.meHO.note2 = ""
 
-alt1.mePoet = ""
+alt1.meDA.poet = ""
 
 alt1.meVE.Apolytikion1.mode = misc_gr_GR_cog.Mode1
 alt1.meVE.Apolytikion1.melody = he.a.m1_gr_GR_cog.TisErimouPolitis.incipit

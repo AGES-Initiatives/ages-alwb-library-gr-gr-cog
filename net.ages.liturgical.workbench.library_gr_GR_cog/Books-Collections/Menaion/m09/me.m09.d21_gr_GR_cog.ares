@@ -1,13 +1,14 @@
 A_Resource_Whose_Name = me.m09.d21_gr_GR_cog
 
-meDate.text = "Τῌ ΚΑʹ ΣΕΠΤΕΜΒΡΙΟΥ"
-meCommemoration.text = "Ἀπόδοσις τῆς Ἑορτῆς τῆς Ὑψώσεως τοῦ Τιμίου Σαυροῦ." //full title of day
-meShortCommemoration1.text = "Ἀπόδοσις τῆς Ἑορτῆς"
-meCom1.title = ""
-meCom2.title = ""
-meInsert1 = "" //for use in petitions and dismissal
-meInsert2 = "" //for use in petitions and dismissal
-meNote.text = ""
+meDA.date = "Τῌ ΚΑʹ ΣΕΠΤΕΜΒΡΙΟΥ"
+meDA.commemoration.full = "Ἀπόδοσις τῆς Ἑορτῆς τῆς Ὑψώσεως τοῦ Τιμίου Σαυροῦ." //full title of day
+meDA.commemoration.first = "Ἀπόδοσις τῆς Ἑορτῆς"
+meDA.commemoration.first_short = "Ἀπόδοσις τῆς Ἑορτῆς"
+meDA.commemoration.first_title = ""
+meDA.commemoration.second_title = ""
+meDA.insert1 = "" //for use in petitions and dismissal
+meDA.insert2 = "" //for use in petitions and dismissal
+meDA.note = ""
 meLE.commemoration1 = "Ἀπόδοσις τῆς Ἑορτῆς τῆς Ὑψώσεως τοῦ Τιμίου Σαυροῦ."
 meLE.commemoration2 = ""
 meHO.number = ""

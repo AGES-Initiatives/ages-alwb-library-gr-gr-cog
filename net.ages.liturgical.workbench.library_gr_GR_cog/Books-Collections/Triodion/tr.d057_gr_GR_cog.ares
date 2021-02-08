@@ -1,17 +1,17 @@
 A_Resource_Whose_Name = tr.d057_gr_GR_cog
 
-trCommemoration.text = "ΚΥΡΙΑΚΗ Εʹ ΤΩΝ ΝΗΣΤΕΙΩΝ ΤΗΣ ΟΣΙΑΣ ΜΗΤΡΟΣ ΗΜΩΝ ΜΑΡΙΑΣ ΤΗΣ ΑΙΓΥΠΤΙΑΣ" //full title of day
-trShortCommemoration1.text = "Κυριακὴ Εʹ τῶν Νηστειῶν τῆς Ὁσίας Μαρίας τῆς Αἰγυπτίας"
-trInsert1 = "τῆς Ὁσίας Μητρὸς ἡμῶν Μαρίας τῆς Αἰγυπτίας," //for use in petitions and dismissal
-trInsert2 = "ἧς καὶ τὴν μνήμην ἐπιτελοῦμεν," //for use in petitions and dismissal
-trNote.text = ""
+trDA.commemoration.full = "ΚΥΡΙΑΚΗ Εʹ ΤΩΝ ΝΗΣΤΕΙΩΝ ΤΗΣ ΟΣΙΑΣ ΜΗΤΡΟΣ ΗΜΩΝ ΜΑΡΙΑΣ ΤΗΣ ΑΙΓΥΠΤΙΑΣ" //full title of day
+trDA.commemoration.short = "Κυριακὴ Εʹ τῶν Νηστειῶν τῆς Ὁσίας Μαρίας τῆς Αἰγυπτίας"
+trDA.insert1 = "τῆς Ὁσίας Μητρὸς ἡμῶν Μαρίας τῆς Αἰγυπτίας," //for use in petitions and dismissal
+trDA.insert2 = "ἧς καὶ τὴν μνήμην ἐπιτελοῦμεν," //for use in petitions and dismissal
+trDA.note = ""
 trHO.daytitle = ""
 trHO.commemorations = ""
 trHO.description1 = ""
 trHO.description2 = ""
 trHO.note1 = ""
 trHO.note2 = ""
-trDismissal = dismissals_gr_GR_cog.dis00.resurrection
+trDA.dismissal = dismissals_gr_GR_cog.dis00.resurrection
 
 trVE.Stichera01.mode = misc_gr_GR_cog.Mode6
 trVE.Stichera01.melody = he.a.m6_gr_GR_cog.OlinApothemenoi.incipit
@@ -333,25 +333,18 @@ trMA.Kontakion1.text = "Ἡ πορνείαις πρότερον, μεμεστ�
 
 trMA.Oikos1.text = "Τὴν ἀμνάδα Χριστοῦ καὶ θυγατέρα, ᾄσμασιν εὐφημοῦμέν σε νῦν, Μαρία παναοίδιμε τὴν τῶν Αἰγυπτίων ἀναφανεῖσαν θρέμμα τὴν πλάνην δὲ τούτων πᾶσαν φυγοῦσαν, καὶ καλῶς προσενεχθεῖσαν τῇ Ἐκκλησίᾳ βλάστημα τίμιον διʹ ἐγκρατείας καὶ δεήσεως, ἀσκήσασαν ὑπὲρ μέτρον τῆς ἀνθρωπίνης φύσεως· διὸ καὶ ὑψώθης ἐν Χριστῷ, διὰ βίου καὶ πράξεως, Βασιλείας Οὐρανοῦ φανεῖσα νύμφη Μαρία πάνσεμνε."
 
-trMA.Synaxarion.commemoration.text = "Τῇ αὐτῇ ἡμέρᾳ, Κυριακῇ πέμπτῃ τῶν Νηστειῶν, διετάχθημεν μνήμην ποιεῖσθαι τῆς Ὁσίας Μητρὸς ἡμῶν Μαρίας τῆς Αἰγυπτίας."
-trMA.Synaxarion.couplet1.title = titles_gr_GR_cog.Stichoi
-trMA.Synaxarion.couplet1.verse1 = "Ἀπῇρε πνεῦμα, σάρξ ἀπεῤῥύη πάλαι."
-trMA.Synaxarion.couplet1.verse2 = "Τὸν ὅστινον, γῆ, κρύπτε νεκρὸν Μαρίας."
-trMA.Synaxarion.narration1.p01.text = "[paragraph 01]"
-trMA.Synaxarion.narration1.p02.text = "[paragraph 02]"
-trMA.Synaxarion.narration1.p03.text = "[paragraph 03]"
-trMA.Synaxarion.narration1.p04.text = "[paragraph 04]"
-trMA.Synaxarion.narration1.p05.text = "[paragraph 05]"
-trMA.Synaxarion.narration1.p06.text = "[paragraph 06]"
-trMA.Synaxarion.narration1.p07.text = "[paragraph 07]"
-trMA.Synaxarion.narration2.p01.text = "[paragraph 01]"
-trMA.Synaxarion.narration2.p02.text = "[paragraph 02]"
-trMA.Synaxarion.narration2.p03.text = "[paragraph 03]"
-trMA.Synaxarion.narration2.p04.text = "[paragraph 04]"
-trMA.Synaxarion.narration2.p05.text = "[paragraph 05]"
-trMA.Synaxarion.narration2.p06.text = "[paragraph 06]"
-trMA.Synaxarion.narration2.p07.text = "[paragraph 07]"
-trMA.Synaxarion.lastline.text = "Ταῖς αὐτῆς πρεσβείαις, ὁ Θεὸς ἐλέησον, καὶ σῶσον ἡμᾶς. Ἀμήν."
+trSY.commemoration.text = "Τῇ αὐτῇ ἡμέρᾳ, Κυριακῇ πέμπτῃ τῶν Νηστειῶν, διετάχθημεν μνήμην ποιεῖσθαι τῆς Ὁσίας Μητρὸς ἡμῶν Μαρίας τῆς Αἰγυπτίας."
+trSY.commemoration.couplet1.title = titles_gr_GR_cog.Stichoi
+trSY.commemoration.couplet1.verse1 = "Ἀπῇρε πνεῦμα, σάρξ ἀπεῤῥύη πάλαι."
+trSY.commemoration.couplet1.verse2 = "Τὸν ὅστινον, γῆ, κρύπτε νεκρὸν Μαρίας."
+trSY.commemoration.narration.p01 = "[paragraph 01]"
+trSY.commemoration.narration.p02 = "[paragraph 02]"
+trSY.commemoration.narration.p03 = "[paragraph 03]"
+trSY.commemoration.narration.p04 = "[paragraph 04]"
+trSY.commemoration.narration.p05 = "[paragraph 05]"
+trSY.commemoration.narration.p06 = "[paragraph 06]"
+trSY.commemoration.narration.p07 = "[paragraph 07]"
+trSY.lastline = "Ταῖς αὐτῆς πρεσβείαις, ὁ Θεὸς ἐλέησον, καὶ σῶσον ἡμᾶς. Ἀμήν."
 
 trMA.Ode7C11.ode = misc_gr_GR_cog.Ode7
 trMA.Ode7C11.mode = misc_gr_GR_cog.Mode8

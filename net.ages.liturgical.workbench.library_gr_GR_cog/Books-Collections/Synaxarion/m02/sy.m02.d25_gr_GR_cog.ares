@@ -1,97 +1,50 @@
 A_Resource_Whose_Name = sy.m02.d25_gr_GR_cog
 
-S01.commemoration.text = "Τῇ ΚΕʹ τοῦ αὐτοῦ μηνός, Μνήμη τοῦ ἐν Ἁγίοις Πατρὸς ἡμῶν Ταρασίου Ἀρχιεπισκόπου Κωνσταντινουπόλεως."
-S01.couplet1.title = 
-S01.couplet1.verse1 = "Ἄκλειστος ὅρμος Ταράσιον λαμβάνει, "
-S01.couplet1.verse2 = "Κόσμου ταραχῆς, καὶ ζάλης σεσωσμένον. "
-S01.single1.title = 
-S01.single1.text ="Εἰκάδι ἐκ ταράχοιο Ταράσιος ἔπτατο πέμπτῃ."
-S01.narration1.p01.text = "[paragraph 01]"
-S01.narration1.p02.text = "[paragraph 02]"
-S01.narration1.p03.text = "[paragraph 03]"
-S01.narration1.p04.text = "[paragraph 04]"
-S01.narration1.p05.text = "[paragraph 05]"
-S01.narration1.p06.text = "[paragraph 06]"
-S01.narration1.p07.text = "[paragraph 07]"
+syMA.commemoration01.text = "Τῇ ΚΕʹ τοῦ αὐτοῦ μηνός, Μνήμη τοῦ ἐν Ἁγίοις Πατρὸς ἡμῶν Ταρασίου Ἀρχιεπισκόπου Κωνσταντινουπόλεως."
+syMA.commemoration01.couplet1.title = titles_gr_GR_cog.Stichoi
+syMA.commemoration01.couplet1.verse1 = "Ἄκλειστος ὅρμος Ταράσιον λαμβάνει, "
+syMA.commemoration01.couplet1.verse2 = "Κόσμου ταραχῆς, καὶ ζάλης σεσωσμένον. "
+syMA.commemoration01.single1 = "Εἰκάδι ἐκ ταράχοιο Ταράσιος ἔπτατο πέμπτῃ."
+syMA.commemoration01.narration.p01 = ""
 
-S02.commemoration.text = "Τῇ αὐτῇ ἡμέρᾳ, ὁ Ἅγιος Ἀλέξανδρος ξίφει τελειοῦται."
-S02.narration1.p01.text = "[paragraph 01]"
-S02.narration1.p02.text = "[paragraph 02]"
-S02.narration1.p03.text = "[paragraph 03]"
-S02.narration1.p04.text = "[paragraph 04]"
-S02.narration1.p05.text = "[paragraph 05]"
-S02.narration1.p06.text = "[paragraph 06]"
-S02.narration1.p07.text = "[paragraph 07]"
-S02.couplet1.title = 
-S02.couplet1.verse1 = "Τὸν Ἀλέξανδρον δίσκος εἶδεν ἡλίου, "
-S02.couplet1.verse2 = "Ὑπὲρ Χριστοῦ τμηθέντα, δόξης Ἡλίου."
+syMA.commemoration02.text = "Τῇ αὐτῇ ἡμέρᾳ, ὁ Ἅγιος Ἀλέξανδρος ξίφει τελειοῦται."
+syMA.commemoration02.couplet1.title = titles_gr_GR_cog.Stichoi
+syMA.commemoration02.couplet1.verse1 = "Τὸν Ἀλέξανδρον δίσκος εἶδεν ἡλίου, "
+syMA.commemoration02.couplet1.verse2 = "Ὑπὲρ Χριστοῦ τμηθέντα, δόξης Ἡλίου."
+syMA.commemoration02.narration.p01 = ""
 
-S03.commemoration.text = "Τῇ αὐτῇ ἡμέρᾳ, Μνήμη τοῦ Ἁγίου Ἱερομάρτυρος Ρηγίνου, Ἐπισκόπου Σκοπέλου."
-S03.couplet1.title = 
-S03.couplet1.verse1 = "Ἄσειτος εἶ Ῥηγῖνε τὴν προθυμίαν, "
-S03.couplet1.verse2 = "Κἂν δεινὸν ἐνσείσωσι πυκνὰ σοι ξίφη."
+syMA.commemoration03.text = "Τῇ αὐτῇ ἡμέρᾳ, Μνήμη τοῦ Ἁγίου Ἱερομάρτυρος Ρηγίνου, Ἐπισκόπου Σκοπέλου."
+syMA.commemoration03.couplet1.title = titles_gr_GR_cog.Stichoi
+syMA.commemoration03.couplet1.verse1 = "Ἄσειτος εἶ Ῥηγῖνε τὴν προθυμίαν, "
+syMA.commemoration03.couplet1.verse2 = "Κἂν δεινὸν ἐνσείσωσι πυκνὰ σοι ξίφη."
+syMA.commemoration03.narration.p01 = ""
 
-S04.commemoration.text = "Τῇ αὐτῇ ἡμέρᾳ, ὁ Ἅγιος Ἀντώνιος πυρὶ τελειοῦται."
-S04.couplet1.title = 
-S04.couplet1.verse1 = "Ἐνθέντες Ἀντώνιον εἰς πῦρ οἱ πλάνοι, "
-S04.couplet1.verse2 = "Ἔψουσιν ὄψον νόστιμον τῷ Κυρίῳ."
+syMA.commemoration04.text = "Τῇ αὐτῇ ἡμέρᾳ, ὁ Ἅγιος Ἀντώνιος πυρὶ τελειοῦται."
+syMA.commemoration04.couplet1.title = titles_gr_GR_cog.Stichoi
+syMA.commemoration04.couplet1.verse1 = "Ἐνθέντες Ἀντώνιον εἰς πῦρ οἱ πλάνοι, "
+syMA.commemoration04.couplet1.verse2 = "Ἔψουσιν ὄψον νόστιμον τῷ Κυρίῳ."
 
-S05.commemoration.text = "Τῇ αὐτῇ ἡμέρᾳ, ὁ Ἅγιος Θεόδωρος, ὁ διὰ Χριστὸν σαλός, ἐν εἰρήνῃ τελειοῦται."
-S05.couplet1.title = 
-S05.couplet1.verse1 = "Ἑκων ἀμείψας, ὡς ὁ Δαυΐδ, τὰς φρένας, "
-S05.couplet1.verse2 = "Βίον διέδρας, οὐ τὸν Ἀγχοῦς παμμάκαρ."
+syMA.commemoration05.text = "Τῇ αὐτῇ ἡμέρᾳ, ὁ Ἅγιος Θεόδωρος, ὁ διὰ Χριστὸν σαλός, ἐν εἰρήνῃ τελειοῦται."
+syMA.commemoration05.couplet1.title = titles_gr_GR_cog.Stichoi
+syMA.commemoration05.couplet1.verse1 = "Ἑκων ἀμείψας, ὡς ὁ Δαυΐδ, τὰς φρένας, "
+syMA.commemoration05.couplet1.verse2 = "Βίον διέδρας, οὐ τὸν Ἀγχοῦς παμμάκαρ."
 
-S06.commemoration.text = "Τῇ αὐτῇ ἡμέρᾳ, ὁ Ἅγιος Μάρτυς Μάρκελλος, Ἐπίσκοπος Ἀπαμείας τῆς Κύπρου, ξίφει τελειοῦται."
-S06.couplet1.title = 
-S06.couplet1.verse1 = "Σπένδεις Θεῷ, Μάρκελλε, θερμῷ τῷ πόθῳ, "
-S06.couplet1.verse2 = "Θερμοὺς σταλαγμοὺς αἱμάτων ἐξ αὐχένος."
+syMA.commemoration06.text = "Τῇ αὐτῇ ἡμέρᾳ, ὁ Ἅγιος Μάρτυς Μάρκελλος, Ἐπίσκοπος Ἀπαμείας τῆς Κύπρου, ξίφει τελειοῦται."
+syMA.commemoration06.couplet1.title = titles_gr_GR_cog.Stichoi
+syMA.commemoration06.couplet1.verse1 = "Σπένδεις Θεῷ, Μάρκελλε, θερμῷ τῷ πόθῳ, "
+syMA.commemoration06.couplet1.verse2 = "Θερμοὺς σταλαγμοὺς αἱμάτων ἐξ αὐχένος."
 
-S99.lastline.text = "Ταῖς αὐτῶν ἁγίαις πρεσβείαις, ὁ Θεός, ἐλέησον ἡμᾶς. Ἀμήν."
+syMA.lastline = "Ταῖς αὐτῶν ἁγίαις πρεσβείαις, ὁ Θεός, ἐλέησον ἡμᾶς. Ἀμήν."
 
-cl.S01.commemoration.text = "[saint/com 1]"
-cl.S01.narration1.p01.text = "[paragraph 01]"
-cl.S01.narration1.p02.text = "[paragraph 02]"
-cl.S01.narration1.p03.text = "[paragraph 03]"
-cl.S01.narration1.p04.text = "[paragraph 04]"
-cl.S01.narration1.p05.text = "[paragraph 05]"
-cl.S01.narration1.p06.text = "[paragraph 06]"
-cl.S01.narration1.p07.text = "[paragraph 07]"
+cl.syMA.commemoration01.text = "[saint/com 1]"
 
-cl.S02.commemoration.text = "[saint/com 2]"
-cl.S02.narration1.p01.text = "[paragraph 01]"
-cl.S02.narration1.p02.text = "[paragraph 02]"
-cl.S02.narration1.p03.text = "[paragraph 03]"
-cl.S02.narration1.p04.text = "[paragraph 04]"
-cl.S02.narration1.p05.text = "[paragraph 05]"
-cl.S02.narration1.p06.text = "[paragraph 06]"
-cl.S02.narration1.p07.text = "[paragraph 07]"
+cl.syMA.commemoration02.text = "[saint/com 2]"
 
-cl.S03.commemoration.text = "[saint/com 3]"
-cl.S03.narration1.p01.text = "[paragraph 01]"
-cl.S03.narration1.p02.text = "[paragraph 02]"
-cl.S03.narration1.p03.text = "[paragraph 03]"
-cl.S03.narration1.p04.text = "[paragraph 04]"
-cl.S03.narration1.p05.text = "[paragraph 05]"
-cl.S03.narration1.p06.text = "[paragraph 06]"
-cl.S03.narration1.p07.text = "[paragraph 07]"
+cl.syMA.commemoration03.text = "[saint/com 3]"
 
-cl.S04.commemoration.text = "[saint/com 4]"
-cl.S04.narration1.p01.text = "[paragraph 01]"
-cl.S04.narration1.p02.text = "[paragraph 02]"
-cl.S04.narration1.p03.text = "[paragraph 03]"
-cl.S04.narration1.p04.text = "[paragraph 04]"
-cl.S04.narration1.p05.text = "[paragraph 05]"
-cl.S04.narration1.p06.text = "[paragraph 06]"
-cl.S04.narration1.p07.text = "[paragraph 07]"
+cl.syMA.commemoration04.text = "[saint/com 4]"
 
-cl.S05.commemoration.text = "[saint/com 5]"
-cl.S05.narration1.p01.text = "[paragraph 01]"
-cl.S05.narration1.p02.text = "[paragraph 02]"
-cl.S05.narration1.p03.text = "[paragraph 03]"
-cl.S05.narration1.p04.text = "[paragraph 04]"
-cl.S05.narration1.p05.text = "[paragraph 05]"
-cl.S05.narration1.p06.text = "[paragraph 06]"
-cl.S05.narration1.p07.text = "[paragraph 07]"
+cl.syMA.commemoration05.text = "[saint/com 5]"
 
-cl.S06.commemoration.text = "[saint/com list]"
+cl.syMA.commemoration06.text = "[saint/com list]"
 

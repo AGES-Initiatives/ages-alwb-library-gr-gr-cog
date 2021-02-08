@@ -1,14 +1,15 @@
 A_Resource_Whose_Name = me.m07.d26_gr_GR_cog
 
-meDate.text = "Τῌ ΚϚʹ ΙΟΥΛΙΟΥ"
-meCommemoration.text = "Μνήμη τοῦ Ἁγίου Ἱερομάρτυρος Ἑρμολάου, καὶ τῶν σὺν αὐτῷ Ἑρμίππου καὶ Ἑρμοκράτους, καὶ τῆς Ἁγίας Ὁσιομάρτυρος Παρασκευῆς" // full title of day
-meShortCommemoration1.text = ""
-meShortCommemoration2.text = "Μνήμη τῆς Ἁγίας Ὁσιομάρτυρος Παρασκευῆς"
-meCom1.title = ""
-meCom2.title = "Τῆς Ἁγ. Παρασκευῆς."
-meInsert1 = "καὶ τῆς Ἁγίας Ὁσιομάρτυρος Παρασκευῆς, " // for use in petitions and dismissal
-meInsert2 = "ἧς καὶ τὴν μνήμην ἐπιτελοῦμεν· " // for use in petitions and dismissal
-meNote.text = ""
+meDA.date = "Τῌ ΚϚʹ ΙΟΥΛΙΟΥ"
+meDA.commemoration.full = "Μνήμη τοῦ Ἁγίου Ἱερομάρτυρος Ἑρμολάου, καὶ τῶν σὺν αὐτῷ Ἑρμίππου καὶ Ἑρμοκράτους, καὶ τῆς Ἁγίας Ὁσιομάρτυρος Παρασκευῆς" // full title of day
+meDA.commemoration.first = ""
+meDA.commemoration.first_short = ""
+meDA.commemoration.second_short = "Μνήμη τῆς Ἁγίας Ὁσιομάρτυρος Παρασκευῆς"
+meDA.commemoration.first_title = ""
+meDA.commemoration.second_title = "Τῆς Ἁγ. Παρασκευῆς."
+meDA.insert1 = "καὶ τῆς Ἁγίας Ὁσιομάρτυρος Παρασκευῆς, " // for use in petitions and dismissal
+meDA.insert2 = "ἧς καὶ τὴν μνήμην ἐπιτελοῦμεν· " // for use in petitions and dismissal
+meDA.note = ""
 meLE.commemoration1 = "Τοῦ Ἁγίου Ἱερομάρτυρος Ἑρμολάου καὶ τῶν σὺν αὐτῷ Ἑρμίππου καὶ Ἑρμοκράτους."
 meLE.commemoration2 = "Τῆς Ἁγίας Ὁσιομάρτυρος Παρασκευῆς."
 meHO.number = ""

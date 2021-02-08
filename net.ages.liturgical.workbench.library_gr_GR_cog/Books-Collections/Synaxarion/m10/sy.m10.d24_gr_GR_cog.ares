@@ -1,88 +1,40 @@
 A_Resource_Whose_Name = sy.m10.d24_gr_GR_cog
 
-S01.commemoration.text = "Τῇ ΚΔʹ τοῦ αὐτοῦ μηνὸς μνήμη τοῦ ἁγίου Μεγαλομάρτυρος Ἀρέθα, καὶ τῆς συνοδίας αὐτοῦ."
-S01.couplet1.title = 
-S01.couplet1.verse1 = ""
-S01.couplet1.verse2 = ""
-S01.narration1.p01.text = "[paragraph 01]"
-S01.narration1.p02.text = "[paragraph 02]"
-S01.narration1.p03.text = "[paragraph 03]"
-S01.narration1.p04.text = "[paragraph 04]"
-S01.narration1.p05.text = "[paragraph 05]"
-S01.narration1.p06.text = "[paragraph 06]"
-S01.narration1.p07.text = "[paragraph 07]"
+syMA.commemoration01.text = "Τῇ ΚΔʹ τοῦ αὐτοῦ μηνὸς μνήμη τοῦ ἁγίου Μεγαλομάρτυρος Ἀρέθα, καὶ τῆς συνοδίας αὐτοῦ."
+syMA.commemoration01.couplet1.title = titles_gr_GR_cog.Stichoi
+syMA.commemoration01.couplet1.verse1 = ""
+syMA.commemoration01.couplet1.verse2 = ""
+syMA.commemoration01.single1 = ""
 
-S02.commemoration.text = "Τῇ αὐτῇ ἡμέρᾳ μνήμη μιᾶς γυναικός, καὶ τοῦ βρέφους αὐτῆς, ἥν ἰδὸν τὸ βρέφος ἐν τῷ πυρί, ἐπιῤῥίψαν ἐν τῇ φλογὶ ἑαυτό, τελειοῦται."
-S02.narration1.p01.text = "[paragraph 01]"
-S02.narration1.p02.text = "[paragraph 02]"
-S02.narration1.p03.text = "[paragraph 03]"
-S02.narration1.p04.text = "[paragraph 04]"
-S02.narration1.p05.text = "[paragraph 05]"
-S02.narration1.p06.text = "[paragraph 06]"
-S02.narration1.p07.text = "[paragraph 07]"
+syMA.commemoration02.text = "Τῇ αὐτῇ ἡμέρᾳ μνήμη μιᾶς γυναικός, καὶ τοῦ βρέφους αὐτῆς, ἥν ἰδὸν τὸ βρέφος ἐν τῷ πυρί, ἐπιῤῥίψαν ἐν τῇ φλογὶ ἑαυτό, τελειοῦται."
 
-S03.commemoration.text = "Τῇ αὐτῇ ἡμέρᾳ μνήμη τῆς ἁγίας Μάρτυρος Σεβαστιανῆς."
+syMA.commemoration03.text = "Τῇ αὐτῇ ἡμέρᾳ μνήμη τῆς ἁγίας Μάρτυρος Σεβαστιανῆς."
 
-S04.commemoration.text = "Οἱ ἅγιοι Μάρτυρες, Μᾶρκος, Σωτήριχος καὶ Οὐαλεντῖνος, κατὰ γῆς συρόμενοι, τελειοῦνται."
+syMA.commemoration04.text = "Οἱ ἅγιοι Μάρτυρες, Μᾶρκος, Σωτήριχος καὶ Οὐαλεντῖνος, κατὰ γῆς συρόμενοι, τελειοῦνται."
 
-S05.commemoration.text = ""
+syMA.commemoration05.text = ""
 
-S06.commemoration.text = ""
+syMA.commemoration06.text = ""
 
-S07.commemoration.text = ""
+syMA.commemoration07.text = ""
 
-S08.commemoration.text = ""
+syMA.commemoration08.text = ""
 
-S09.commemoration.text = ""
+syMA.commemoration09.text = ""
 
-S10.commemoration.text = ""
+syMA.commemoration10.text = ""
 
-S99.lastline.text = "Ταῖς τῶν Ἁγίων σου πρεσβείαις, ὁ Θεός, ἐλέησον ἡμᾶς. Ἀμήν."
+syMA.lastline = "Ταῖς τῶν Ἁγίων σου πρεσβείαις, ὁ Θεός, ἐλέησον ἡμᾶς. Ἀμήν."
 
-cl.S01.commemoration.text = "[saint/com 1]"
-cl.S01.narration1.p01.text = "[paragraph 01]"
-cl.S01.narration1.p02.text = "[paragraph 02]"
-cl.S01.narration1.p03.text = "[paragraph 03]"
-cl.S01.narration1.p04.text = "[paragraph 04]"
-cl.S01.narration1.p05.text = "[paragraph 05]"
-cl.S01.narration1.p06.text = "[paragraph 06]"
-cl.S01.narration1.p07.text = "[paragraph 07]"
+cl.syMA.commemoration01.text = "[saint/com 1]"
 
-cl.S02.commemoration.text = "[saint/com 2]"
-cl.S02.narration1.p01.text = "[paragraph 01]"
-cl.S02.narration1.p02.text = "[paragraph 02]"
-cl.S02.narration1.p03.text = "[paragraph 03]"
-cl.S02.narration1.p04.text = "[paragraph 04]"
-cl.S02.narration1.p05.text = "[paragraph 05]"
-cl.S02.narration1.p06.text = "[paragraph 06]"
-cl.S02.narration1.p07.text = "[paragraph 07]"
+cl.syMA.commemoration02.text = "[saint/com 2]"
 
-cl.S03.commemoration.text = "[saint/com 3]"
-cl.S03.narration1.p01.text = "[paragraph 01]"
-cl.S03.narration1.p02.text = "[paragraph 02]"
-cl.S03.narration1.p03.text = "[paragraph 03]"
-cl.S03.narration1.p04.text = "[paragraph 04]"
-cl.S03.narration1.p05.text = "[paragraph 05]"
-cl.S03.narration1.p06.text = "[paragraph 06]"
-cl.S03.narration1.p07.text = "[paragraph 07]"
+cl.syMA.commemoration03.text = "[saint/com 3]"
 
-cl.S04.commemoration.text = "[saint/com 4]"
-cl.S04.narration1.p01.text = "[paragraph 01]"
-cl.S04.narration1.p02.text = "[paragraph 02]"
-cl.S04.narration1.p03.text = "[paragraph 03]"
-cl.S04.narration1.p04.text = "[paragraph 04]"
-cl.S04.narration1.p05.text = "[paragraph 05]"
-cl.S04.narration1.p06.text = "[paragraph 06]"
-cl.S04.narration1.p07.text = "[paragraph 07]"
+cl.syMA.commemoration04.text = "[saint/com 4]"
 
-cl.S05.commemoration.text = "[saint/com 5]"
-cl.S05.narration1.p01.text = "[paragraph 01]"
-cl.S05.narration1.p02.text = "[paragraph 02]"
-cl.S05.narration1.p03.text = "[paragraph 03]"
-cl.S05.narration1.p04.text = "[paragraph 04]"
-cl.S05.narration1.p05.text = "[paragraph 05]"
-cl.S05.narration1.p06.text = "[paragraph 06]"
-cl.S05.narration1.p07.text = "[paragraph 07]"
+cl.syMA.commemoration05.text = "[saint/com 5]"
 
-cl.S06.commemoration.text = "[saint/com list]"
+cl.syMA.commemoration06.text = "[saint/com list]"
 

@@ -1,13 +1,14 @@
 A_Resource_Whose_Name = me.m08.d08_gr_GR_cog
 
-meDate.text = "Τῌ Ηʹ ΑΥΓΟΥΣΤΟΥ"
-meCommemoration.text = "Μνήμη τοῦ Ἁγίου Αἰμιλιανοῦ, Ἐπισκόπου Κυζίκου" //full title of day
-meShortCommemoration1.text = "Μνήμη τοῦ Ἁγίου Αἰμιλιανοῦ, Ἐπισκόπου Κυζίκου"
-meCom1.title = ""
-meCom2.title = ""
-meInsert1 = "καὶ τοῦ Ὁσίου Πατρὸς ἡμῶν Αἰμιλιανοῦ, Ἐπισκόπου Κυζίκου, " //for use in petitions and dismissal
-meInsert2 = "οὗ καὶ τὴν μνήμην ἐπιτελοῦμεν· " //for use in petitions and dismissal
-meNote.text = ""
+meDA.date = "Τῌ Ηʹ ΑΥΓΟΥΣΤΟΥ"
+meDA.commemoration.full = "Μνήμη τοῦ Ἁγίου Αἰμιλιανοῦ, Ἐπισκόπου Κυζίκου" //full title of day
+meDA.commemoration.first = "Μνήμη τοῦ Ἁγίου Αἰμιλιανοῦ, Ἐπισκόπου Κυζίκου"
+meDA.commemoration.first_short = "Μνήμη τοῦ Ἁγίου Αἰμιλιανοῦ, Ἐπισκόπου Κυζίκου"
+meDA.commemoration.first_title = ""
+meDA.commemoration.second_title = ""
+meDA.insert1 = "καὶ τοῦ Ὁσίου Πατρὸς ἡμῶν Αἰμιλιανοῦ, Ἐπισκόπου Κυζίκου, " //for use in petitions and dismissal
+meDA.insert2 = "οὗ καὶ τὴν μνήμην ἐπιτελοῦμεν· " //for use in petitions and dismissal
+meDA.note = ""
 meLE.commemoration1 = "Μνήμη τοῦ Ἁγίου Αἰμιλιανοῦ, Ἐπισκόπου Κυζίκου."
 meLE.commemoration2 = ""
 meHO.number = ""
@@ -15,7 +16,7 @@ meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
-meDismissal = dismissals_gr_GR_cog.dis00.transfiguration
+meDA.dismissal = dismissals_gr_GR_cog.dis00.transfiguration
 
 meVE.Stichera01.mode = misc_gr_GR_cog.Mode4
 meVE.Stichera01.melody = he.a.m4_gr_GR_cog.EdokasSimeiosin.incipit
@@ -364,5 +365,5 @@ meLI.Kontakion1.text = ""
 
 meMegalynarion.text = "Χαίροις ὁ Κυζίκου θεῖος ποιμήν, καὶ τῆς Ἐκκλησίας, Ἱεράρχης θεοειδής· χαίροις ὁ προστάτης, τῶν ἱερῶν εἰκόνων, ὦ Αἰμιλιανὲ πιστῶν ἑδραίωμα."
 
-alt1.meShortCommemoration1.text = "Μνήμη τοῦ Ἁγίου ΝεομάρτυροςΤριανταφύλλου"
+alt1.meDA.commemoration.first_short = "Μνήμη τοῦ Ἁγίου ΝεομάρτυροςΤριανταφύλλου"
 alt1.meMegalynarion.text = "Χαίροις Νεομάρτυς τοῦ Ἰησοῦ, τῶν πάλαι Μαρτύρων, Τριαντάφυλλε μιμητής. Χαίροις ὁ τὴν κλῆσιν, Χριστοῦ ὁμολογήσας, ἐνώπιον τυράννων, στεῤῥῷ φρονήματι."

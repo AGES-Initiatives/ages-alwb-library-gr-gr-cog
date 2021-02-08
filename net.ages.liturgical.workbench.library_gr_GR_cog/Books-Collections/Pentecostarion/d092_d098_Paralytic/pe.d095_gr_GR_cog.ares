@@ -1,17 +1,17 @@
 A_Resource_Whose_Name = pe.d095_gr_GR_cog
 
-peCommemoration.text = "Τῌ ΤΕΤΑΡΤῌ ΤΗΣ ΜΕΣΟΠΕΝΤΗΚΟΣΤΗΣ" //full title of day
-peShortCommemoration1.text = "Τετάρτη τῆς Μεσοπεντηκοστῆς"
-peInsert1 = "" //for use in petitions and dismissal
-peInsert2 = "" //for use in petitions and dismissal
-peNote.text = ""
+peDA.commemoration.full = "Τῌ ΤΕΤΑΡΤῌ ΤΗΣ ΜΕΣΟΠΕΝΤΗΚΟΣΤΗΣ" //full title of day
+peDA.commemoration.short = "Τετάρτη τῆς Μεσοπεντηκοστῆς"
+peDA.insert1 = "" //for use in petitions and dismissal
+peDA.insert2 = "" //for use in petitions and dismissal
+peDA.note = ""
 peHO.daytitle = ""
 peHO.commemorations = ""
 peHO.description1 = ""
 peHO.description2 = ""
 peHO.note1 = ""
 peHO.note2 = ""
-peDismissal = dismissals_gr_GR_cog.dis00.resurrection
+peDA.dismissal = dismissals_gr_GR_cog.dis00.resurrection
 
 peVE.Stichera01.mode = misc_gr_GR_cog.Mode4
 peVE.Stichera01.melody = he.a.m4_gr_GR_cog.KyrieAnelthonEnToStavro.incipit
@@ -444,25 +444,18 @@ peMA.Kontakion1.text = "Τῆς ἑορτῆς τῆς νομικῆς μεσα�
 
 peMA.Oikos1.text = "Τὴν χερσωθεῖσάν μου ψυχήν, πταισμάτων ἀνομίαις, ῥοαῖς τῶν σῶν αἱμάτων κατάρδευσον, καὶ δεῖξον καρποφόρων ἀρεταῖς· σὺ γὰρ ἔφης πᾶσι, τοῦ προσέρχεσθαι πρός σὲ Λόγε Θεοῦ πανάγιε, καὶ ὕδωρ ἀφθαρσίας ἀρύεσθαι, ζῶν τε καὶ καθαῖρον ἁμαρτίας, τῶν ὑμνούντων τὴν ἔνδοξον καὶ θείαν σου Ἔγερσιν παρέχων ἀγαθέ, τὴν ἀπὸ τοῦ ὕψους ἐνεχθεῖσαν ἀληθῶς τοῖς Μαθηταῖς σου, Πνεύματος ἰσχύν, τοῖς σὲ Θεὸν γινώσκουσι· σὺ γὰρ ὑπάρχεις πηγὴ τῆς ζωῆς ἡμῶν."
 
-peMA.Synaxarion.commemoration.text = "Τῇ Τετάρτῃ τοῦ Παραλύτου τὴν τῆς Μεσοπεντηκοστῆς ἑορτάζομεν ἑορτήν."
-peMA.Synaxarion.couplet1.title = titles_gr_GR_cog.Stichoi
-peMA.Synaxarion.couplet1.verse1 = "Ἑστὼς διδάσκει τῆς ἑορτῆς ἐν μέσῳ"
-peMA.Synaxarion.couplet1.verse2 = "Χριστὸς Μεσσίας τῶν διδασκάλων μέσον."
-peMA.Synaxarion.narration1.p01.text = "[paragraph 01]"
-peMA.Synaxarion.narration1.p02.text = "[paragraph 02]"
-peMA.Synaxarion.narration1.p03.text = "[paragraph 03]"
-peMA.Synaxarion.narration1.p04.text = "[paragraph 04]"
-peMA.Synaxarion.narration1.p05.text = "[paragraph 05]"
-peMA.Synaxarion.narration1.p06.text = "[paragraph 06]"
-peMA.Synaxarion.narration1.p07.text = "[paragraph 07]"
-peMA.Synaxarion.narration2.p01.text = "[paragraph 01]"
-peMA.Synaxarion.narration2.p02.text = "[paragraph 02]"
-peMA.Synaxarion.narration2.p03.text = "[paragraph 03]"
-peMA.Synaxarion.narration2.p04.text = "[paragraph 04]"
-peMA.Synaxarion.narration2.p05.text = "[paragraph 05]"
-peMA.Synaxarion.narration2.p06.text = "[paragraph 06]"
-peMA.Synaxarion.narration2.p07.text = "[paragraph 07]"
-peMA.Synaxarion.lastline.text = "Τῷ ἀπείρῳ ἐλέει σου, Χριστὲ ὁ Θεὸς ἡμῶν, ἐλέησον ἡμᾶς. Ἀμήν."
+peSY.commemoration.text = "Τῇ Τετάρτῃ τοῦ Παραλύτου τὴν τῆς Μεσοπεντηκοστῆς ἑορτάζομεν ἑορτήν."
+peSY.commemoration.couplet1.title = titles_gr_GR_cog.Stichoi
+peSY.commemoration.couplet1.verse1 = "Ἑστὼς διδάσκει τῆς ἑορτῆς ἐν μέσῳ"
+peSY.commemoration.couplet1.verse2 = "Χριστὸς Μεσσίας τῶν διδασκάλων μέσον."
+peSY.commemoration.narration.p01 = "[paragraph 01]"
+peSY.commemoration.narration.p02 = "[paragraph 02]"
+peSY.commemoration.narration.p03 = "[paragraph 03]"
+peSY.commemoration.narration.p04 = "[paragraph 04]"
+peSY.commemoration.narration.p05 = "[paragraph 05]"
+peSY.commemoration.narration.p06 = "[paragraph 06]"
+peSY.commemoration.narration.p07 = "[paragraph 07]"
+peSY.lastline = "Τῷ ἀπείρῳ ἐλέει σου, Χριστὲ ὁ Θεὸς ἡμῶν, ἐλέησον ἡμᾶς. Ἀμήν."
 
 peMA.Ode7C1H.ode = misc_gr_GR_cog.Ode7
 peMA.Ode7C1H.mode = misc_gr_GR_cog.Mode4

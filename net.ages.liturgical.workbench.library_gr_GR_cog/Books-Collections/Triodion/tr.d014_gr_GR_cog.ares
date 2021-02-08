@@ -1,10 +1,10 @@
 A_Resource_Whose_Name = tr.d014_gr_GR_cog
 
-trCommemoration.text = "Μνήμην ἐπιτελοῦμεν πάντων τῶν ἀπ' αἰῶνος Κεκοιμημένων, Ὀρθοδόξων Χριστιανῶν, πατέρων, καὶ ἀδελφῶν ἡμῶν." //full title of day
-trShortCommemoration1.text = "Ψυχοσάββατον"
-trInsert1 = "" //for use in petitions and dismissal
-trInsert2 = "" //for use in petitions and dismissal
-trNote.text = ""
+trDA.commemoration.full = "Μνήμην ἐπιτελοῦμεν πάντων τῶν ἀπ' αἰῶνος Κεκοιμημένων, Ὀρθοδόξων Χριστιανῶν, πατέρων, καὶ ἀδελφῶν ἡμῶν." //full title of day
+trDA.commemoration.short = "Ψυχοσάββατον"
+trDA.insert1 = "" //for use in petitions and dismissal
+trDA.insert2 = "" //for use in petitions and dismissal
+trDA.note = ""
 trHO.daytitle = ""
 trHO.commemorations = ""
 trHO.description1 = ""
@@ -392,25 +392,18 @@ trMA.Kontakion1.text = "Μετὰ τῶν Ἁγίων ἀνάπαυσον Χρ
 
 trMA.Oikos1.text = "Αὐτὸς μόνος ὑπάρχεις ἀθάνατος, ὁ ποιήσας καὶ πλάσας τὸν ἄνθρωπον· οἱ βροτοὶ οὖν ἐκ γῆς διεπλάσθημεν, καὶ εἰς γῆν τὴν αὐτὴν πορευσόμεθα, καθὼς ἐκέλευσας ὁ πλάσας με, καὶ εἰπών μοι· Ὅτι γῆ εἶ, καὶ εἰς γῆν ἀπελεύσῃ, ὅπου πάντες βροτοὶ πορευσόμεθα, ἐπιτάφιον θρῆνον ποιοῦντες ᾠδὴν τό, Ἀλληλούϊα."
 
-trMA.Synaxarion.commemoration.text = "Τῇ αὐτῇ ἡμέρᾳ, μνείαν πάντων τῶν ἀπ' αἰῶνος κοιμηθέντων εὐσεβῶς, ἐπ' ἐλπίδι ἀναστάσεως ζωῆς αἰωνίου, οἱ θειότατοι Πατέρες ἐθέσπισαν."
-trMA.Synaxarion.couplet1.title = titles_gr_GR_cog.Stichoi
-trMA.Synaxarion.couplet1.verse1 = "Ἀμνημόνησον πταισμάτων νεκροῖς, Λόγε,"
-trMA.Synaxarion.couplet1.verse2 = "Τὰ χρηστὰ νεκρὰ σπλάγχνα σου μὴ δεικνύων."
-trMA.Synaxarion.narration1.p01.text = "[paragraph 01]"
-trMA.Synaxarion.narration1.p02.text = "[paragraph 02]"
-trMA.Synaxarion.narration1.p03.text = "[paragraph 03]"
-trMA.Synaxarion.narration1.p04.text = "[paragraph 04]"
-trMA.Synaxarion.narration1.p05.text = "[paragraph 05]"
-trMA.Synaxarion.narration1.p06.text = "[paragraph 06]"
-trMA.Synaxarion.narration1.p07.text = "[paragraph 07]"
-trMA.Synaxarion.narration2.p01.text = "[paragraph 01]"
-trMA.Synaxarion.narration2.p02.text = "[paragraph 02]"
-trMA.Synaxarion.narration2.p03.text = "[paragraph 03]"
-trMA.Synaxarion.narration2.p04.text = "[paragraph 04]"
-trMA.Synaxarion.narration2.p05.text = "[paragraph 05]"
-trMA.Synaxarion.narration2.p06.text = "[paragraph 06]"
-trMA.Synaxarion.narration2.p07.text = "[paragraph 07]"
-trMA.Synaxarion.lastline.text = "Τὰς τῶν προαναπαυσαμένων ψυχὰς κατάταξον, Δέσποτα Χριστέ, ἐν ταῖς τῶν Δικαίων σου σκηναῖς, καὶ ἐλέησον ἡμᾶς, ὡς μόνος ἀθάνατος. Ἀμήν."
+trSY.commemoration.text = "Τῇ αὐτῇ ἡμέρᾳ, μνείαν πάντων τῶν ἀπ' αἰῶνος κοιμηθέντων εὐσεβῶς, ἐπ' ἐλπίδι ἀναστάσεως ζωῆς αἰωνίου, οἱ θειότατοι Πατέρες ἐθέσπισαν."
+trSY.commemoration.couplet1.title = titles_gr_GR_cog.Stichoi
+trSY.commemoration.couplet1.verse1 = "Ἀμνημόνησον πταισμάτων νεκροῖς, Λόγε,"
+trSY.commemoration.couplet1.verse2 = "Τὰ χρηστὰ νεκρὰ σπλάγχνα σου μὴ δεικνύων."
+trSY.commemoration.narration.p01 = "[paragraph 01]"
+trSY.commemoration.narration.p02 = "[paragraph 02]"
+trSY.commemoration.narration.p03 = "[paragraph 03]"
+trSY.commemoration.narration.p04 = "[paragraph 04]"
+trSY.commemoration.narration.p05 = "[paragraph 05]"
+trSY.commemoration.narration.p06 = "[paragraph 06]"
+trSY.commemoration.narration.p07 = "[paragraph 07]"
+trSY.lastline = "Τὰς τῶν προαναπαυσαμένων ψυχὰς κατάταξον, Δέσποτα Χριστέ, ἐν ταῖς τῶν Δικαίων σου σκηναῖς, καὶ ἐλέησον ἡμᾶς, ὡς μόνος ἀθάνατος. Ἀμήν."
 
 trMA.Ode7C1H.ode = misc_gr_GR_cog.Ode7
 trMA.Ode7C1H.mode = misc_gr_GR_cog.Mode8

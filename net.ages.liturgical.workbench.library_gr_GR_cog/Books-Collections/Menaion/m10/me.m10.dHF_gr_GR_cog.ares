@@ -1,13 +1,14 @@
 A_Resource_Whose_Name = me.m10.dHF_gr_GR_cog
 
-meDate.text = "Τῌ ΙΑʹ - ΙΖʹ ΟΚΤΩΒΡΙΟΥ "
-meCommemoration.text = "Ἀκολουθία τῶν Ἁγίων Πατέρων τῆς Ζʹ Οἰκουμενικῆς Συνόδου" // full title of day
-meShortCommemoration1.text = "Τῶν Ἁγίων Πατέρων τῆς Ζʹ Συνόδου"
-meCom1.title = ""
-meCom2.title = ""
-meInsert1 = "καὶ τῶν ἁγίων Πατέρων τῆς Ζʹ Οἰκουμενικῆς Συνόδου, " // for use in petitions and dismissal
-meInsert2 = "ὧν καὶ τὴν μνήμην ἐπιτελοῦμεν· " // for use in petitions and dismissal
-meNote.text = ""
+meDA.date = "Τῌ ΙΑʹ - ΙΖʹ ΟΚΤΩΒΡΙΟΥ "
+meDA.commemoration.full = "Ἀκολουθία τῶν Ἁγίων Πατέρων τῆς Ζʹ Οἰκουμενικῆς Συνόδου" // full title of day
+meDA.commemoration.first = "Τῶν Ἁγίων Πατέρων τῆς Ζʹ Συνόδου"
+meDA.commemoration.first_short = "Τῶν Ἁγίων Πατέρων τῆς Ζʹ Συνόδου"
+meDA.commemoration.first_title = ""
+meDA.commemoration.second_title = ""
+meDA.insert1 = "καὶ τῶν ἁγίων Πατέρων τῆς Ζʹ Οἰκουμενικῆς Συνόδου, " // for use in petitions and dismissal
+meDA.insert2 = "ὧν καὶ τὴν μνήμην ἐπιτελοῦμεν· " // for use in petitions and dismissal
+meDA.note = ""
 meLE.commemoration1 = "Κυριακὴ τῶν Ἁγίων Πατέρων."
 meLE.commemoration2 = ""
 meHO.number = ""

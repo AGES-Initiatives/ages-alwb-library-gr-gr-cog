@@ -1,17 +1,18 @@
 A_Resource_Whose_Name = me.m01.d16_gr_GR_cog
 
-meDate.text = "Τῌ ΙϚʹ ΙΑΝΟΥΑΡΙΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "Ἡ προσκύνησις τῆς τιμίας Ἁλύσεως τοῦ Ἁγίου καὶ Πανευφήμου Ἀποστόλου Πέτρου" // full title of day
-meShortCommemoration1.text = "Προσκύνησις τῆς τιμίας Ἁλύσεως τοῦ Ἀποστόλου Πέτρου"
-meCom1.title = ""
-meCom2.title = ""
-meInsert1 = "τοῦ ἁγίου, ἐνδόξου καὶ πανευφήμου Ἀποστόλου Πέτρου," // for use in petitions and dismissal
-meInsert2 = "οὗ τῆς τιμίας Ἀλύσεως τὴν προσκύνησιν ἑορτάζομεν," // for use in petitions and dismissal
-meNote.text = ""
+meDA.date = "Τῌ ΙϚʹ ΙΑΝΟΥΑΡΙΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+meDA.commemoration.full = "Ἡ προσκύνησις τῆς τιμίας Ἁλύσεως τοῦ Ἁγίου καὶ Πανευφήμου Ἀποστόλου Πέτρου" // full title of day
+meDA.commemoration.first = "Προσκύνησις τῆς τιμίας Ἁλύσεως τοῦ Ἀποστόλου Πέτρου"
+meDA.commemoration.first_short = "Προσκύνησις τῆς τιμίας Ἁλύσεως τοῦ Ἀποστόλου Πέτρου"
+meDA.commemoration.first_title = ""
+meDA.commemoration.second_title = ""
+meDA.insert1 = "τοῦ ἁγίου, ἐνδόξου καὶ πανευφήμου Ἀποστόλου Πέτρου," // for use in petitions and dismissal
+meDA.insert2 = "οὗ τῆς τιμίας Ἀλύσεως τὴν προσκύνησιν ἑορτάζομεν," // for use in petitions and dismissal
+meDA.note = ""
 meLE.commemoration1 = "Ἡ Προσκύνησις τῆς Τιμίας Ἁλύσεως τοῦ Ἁγίου καί Ἐνδόξου Ἀποστόλου Πέτρου."
 meLE.commemoration2 = ""
 meHO.number = "16."
-meHO.rank = "5"
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = rubrical_gr_GR_cog.WineOil
 meHO.note2 = ""

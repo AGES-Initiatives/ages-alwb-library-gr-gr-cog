@@ -1,15 +1,15 @@
 A_Resource_Whose_Name = pe.d118_gr_GR_cog
 
-peCommemoration.text = "Παρασκευὴ τῆς Ζʹ Ἑβδομάδος - Ἀπόδοσις τῆς Ἀναλήψεως" //full title of day
-peShortCommemoration1.text = "Ἀπόδοσις τῆς Ἀναλήψεως"
-peInsert1 = "" //for use in petitions and dismissal
-peInsert2 = "" //for use in petitions and dismissal
-peNote.text = ""
+peDA.commemoration.full = "Παρασκευὴ τῆς Ζʹ Ἑβδομάδος - Ἀπόδοσις τῆς Ἀναλήψεως" //full title of day
+peDA.commemoration.short = "Ἀπόδοσις τῆς Ἀναλήψεως"
+peDA.insert1 = "" //for use in petitions and dismissal
+peDA.insert2 = "" //for use in petitions and dismissal
+peDA.note = ""
 peHO.daytitle = ""
 peHO.commemorations = ""
 peHO.description1 = ""
 peHO.description2 = ""
 peHO.note1 = ""
 peHO.note2 = ""
-peDismissal = dismissals_gr_GR_cog.dis00.ascension
+peDA.dismissal = dismissals_gr_GR_cog.dis00.ascension
 

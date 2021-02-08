@@ -1,17 +1,17 @@
 A_Resource_Whose_Name = pe.d076_gr_GR_cog
 
-peCommemoration.text = "Ψάλλομεν τὴν παροῦσαν Ἀκολουθίαν, τὴν γεγονυῖαν παρὰ κυρίου Νικηφόρου Καλλίστου τοῦ Ξανθοπούλου, εἰς τὴν Ὑπεραγίαν καὶ Κυρίαν Δέσποιναν Θεοτόκον, τὴν Ζωοδόχον Πηγήν· οὐ γὰρ εὕρομεν ὑπὸ τυπικοῦ τὴν τοιαύτην Ἀκολουθίαν, ἀλλ' ἐτέθη δι' ἀγάπην τῆς Ὑπεραγίας Θεοτόκου." //full title of day
-peShortCommemoration1.text = "Ἀκολουθία εἰς τὴν Ζωοδόχον Πηγήν"
-peInsert1 = "" //for use in petitions and dismissal
-peInsert2 = "" //for use in petitions and dismissal
-peNote.text = ""
+peDA.commemoration.full = "Ψάλλομεν τὴν παροῦσαν Ἀκολουθίαν, τὴν γεγονυῖαν παρὰ κυρίου Νικηφόρου Καλλίστου τοῦ Ξανθοπούλου, εἰς τὴν Ὑπεραγίαν καὶ Κυρίαν Δέσποιναν Θεοτόκον, τὴν Ζωοδόχον Πηγήν· οὐ γὰρ εὕρομεν ὑπὸ τυπικοῦ τὴν τοιαύτην Ἀκολουθίαν, ἀλλ' ἐτέθη δι' ἀγάπην τῆς Ὑπεραγίας Θεοτόκου." //full title of day
+peDA.commemoration.short = "Ἀκολουθία εἰς τὴν Ζωοδόχον Πηγήν"
+peDA.insert1 = "" //for use in petitions and dismissal
+peDA.insert2 = "" //for use in petitions and dismissal
+peDA.note = ""
 peHO.daytitle = ""
 peHO.commemorations = ""
 peHO.description1 = ""
 peHO.description2 = ""
 peHO.note1 = ""
 peHO.note2 = ""
-peDismissal = dismissals_gr_GR_cog.dis00.resurrection
+peDA.dismissal = dismissals_gr_GR_cog.dis00.resurrection
 
 peVE.MM.Stichera1234as3456.text = "" //for media with saint
 
@@ -251,24 +251,17 @@ peMA.Oikos16.text = "Χαῖρε κρατὴρ τοῦ μάννα ζωήῤῥ
 peMA.Oikos17.text = "Χαῖρε, πορθμὸν ἀσθενείας δεικνῦσα·χαῖρε, φλογμὸν ἀῤῥωστίας σβεννῦσα."
 peMA.Oikos18.text = "Χαῖρε ὕδωρ σωτήριον."
 
-peMA.Synaxarion.commemoration.text = "Τῇ Παρασκευῇ τῆς Διακαινησίμου, ἑορτάζομεν τὰ ἐγκαίνια τοῦ ναοῦ τῆς ὑπεραγίας Δεσποίνης ἡμῶν καὶ θεομήτορος, τῆς Ζωηφόρου Πηγῆς, ἔτι δὲ καὶ μνείαν ποιούμεθα τῶν ἐν τούτῳ τελεσθέντων ὑπερφυῶν θαυμάτων παρὰ τῆς Θεομήτορος."
-peMA.Synaxarion.couplet1.verse1 = "Μάννα Σιλωάμ, καὶ Στοὰν Σολομῶντος"
-peMA.Synaxarion.couplet1.verse2 = "Πηγὴν Κόρη σὴν ἐμφανῶς πᾶς τις βλέπει."
-peMA.Synaxarion.narration1.p01.text = "[paragraph 01]"
-peMA.Synaxarion.narration1.p02.text = "[paragraph 02]"
-peMA.Synaxarion.narration1.p03.text = "[paragraph 03]"
-peMA.Synaxarion.narration1.p04.text = "[paragraph 04]"
-peMA.Synaxarion.narration1.p05.text = "[paragraph 05]"
-peMA.Synaxarion.narration1.p06.text = "[paragraph 06]"
-peMA.Synaxarion.narration1.p07.text = "[paragraph 07]"
-peMA.Synaxarion.narration2.p01.text = "[paragraph 01]"
-peMA.Synaxarion.narration2.p02.text = "[paragraph 02]"
-peMA.Synaxarion.narration2.p03.text = "[paragraph 03]"
-peMA.Synaxarion.narration2.p04.text = "[paragraph 04]"
-peMA.Synaxarion.narration2.p05.text = "[paragraph 05]"
-peMA.Synaxarion.narration2.p06.text = "[paragraph 06]"
-peMA.Synaxarion.narration2.p07.text = "[paragraph 07]"
-peMA.Synaxarion.lastline.text = "Ταῖς τῆς σῆς Μητρὸς πρεσβείαις, Χριστὲ ὁ Θεός, ἐλέησον ἡμᾶς. Ἀμήν."
+peSY.commemoration.text = "Τῇ Παρασκευῇ τῆς Διακαινησίμου, ἑορτάζομεν τὰ ἐγκαίνια τοῦ ναοῦ τῆς ὑπεραγίας Δεσποίνης ἡμῶν καὶ θεομήτορος, τῆς Ζωηφόρου Πηγῆς, ἔτι δὲ καὶ μνείαν ποιούμεθα τῶν ἐν τούτῳ τελεσθέντων ὑπερφυῶν θαυμάτων παρὰ τῆς Θεομήτορος."
+peSY.commemoration.couplet1.verse1 = "Μάννα Σιλωάμ, καὶ Στοὰν Σολομῶντος"
+peSY.commemoration.couplet1.verse2 = "Πηγὴν Κόρη σὴν ἐμφανῶς πᾶς τις βλέπει."
+peSY.commemoration.narration.p01 = "[paragraph 01]"
+peSY.commemoration.narration.p02 = "[paragraph 02]"
+peSY.commemoration.narration.p03 = "[paragraph 03]"
+peSY.commemoration.narration.p04 = "[paragraph 04]"
+peSY.commemoration.narration.p05 = "[paragraph 05]"
+peSY.commemoration.narration.p06 = "[paragraph 06]"
+peSY.commemoration.narration.p07 = "[paragraph 07]"
+peSY.lastline = "Ταῖς τῆς σῆς Μητρὸς πρεσβείαις, Χριστὲ ὁ Θεός, ἐλέησον ἡμᾶς. Ἀμήν."
 
 peMA.Ode7C11.ode = misc_gr_GR_cog.Ode7
 peMA.Ode7C11.mode = misc_gr_GR_cog.Mode1

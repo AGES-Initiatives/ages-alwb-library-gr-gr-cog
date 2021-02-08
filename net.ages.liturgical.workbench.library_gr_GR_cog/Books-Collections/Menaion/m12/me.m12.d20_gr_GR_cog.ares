@@ -1,14 +1,15 @@
 A_Resource_Whose_Name = me.m12.d20_gr_GR_cog
 
-meDate.text = "Τῌ Κʹ ΔΕΚΕΜΒΡΙΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "Μνήμη τοῦ Ἁγίου Ἱερομάρτυρος Ἰγνατίου τοῦ Θεοφόρου· καὶ Προεόρτια τῶν Γενεθλίων τοῦ Σωτῆρος ἡμῶν." // full title of day
-meShortCommemoration1.text = "Προεόρτια τῶν Γενεθλίων τοῦ Σωτῆρος ἡμῶν"
-meShortCommemoration2.text = "Μνήμη τοῦ Ἁγίου Ἱερομάρτυρος Ἰγνατίου τοῦ Θεοφόρου"
-meCom1.title = ""
-meCom2.title = "Τοῦ Ἁγ. Ἰγνατίου."
-meInsert1 = "καὶ τοῦ ἁγίου ἐνδόξου Ἱερομάρτυρος Ἰγνατίου τοῦ Θεοφόρου," // for use in petitions and dismissal
-meInsert2 = "οὗ καὶ τὴν μνήμην ἐπιτελοῦμεν· " // for use in petitions and dismissal
-meNote.text = ""
+meDA.date = "Τῌ Κʹ ΔΕΚΕΜΒΡΙΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+meDA.commemoration.full = "Μνήμη τοῦ Ἁγίου Ἱερομάρτυρος Ἰγνατίου τοῦ Θεοφόρου· καὶ Προεόρτια τῶν Γενεθλίων τοῦ Σωτῆρος ἡμῶν." // full title of day
+meDA.commemoration.first = "Προεόρτια τῶν Γενεθλίων τοῦ Σωτῆρος ἡμῶν"
+meDA.commemoration.first_short = "Προεόρτια τῶν Γενεθλίων τοῦ Σωτῆρος ἡμῶν"
+meDA.commemoration.second_short = "Μνήμη τοῦ Ἁγίου Ἱερομάρτυρος Ἰγνατίου τοῦ Θεοφόρου"
+meDA.commemoration.first_title = ""
+meDA.commemoration.second_title = "Τοῦ Ἁγ. Ἰγνατίου."
+meDA.insert1 = "καὶ τοῦ ἁγίου ἐνδόξου Ἱερομάρτυρος Ἰγνατίου τοῦ Θεοφόρου," // for use in petitions and dismissal
+meDA.insert2 = "οὗ καὶ τὴν μνήμην ἐπιτελοῦμεν· " // for use in petitions and dismissal
+meDA.note = ""
 meLE.commemoration1 = "Μνήμη τοῦ Ἁγίου Ἱερομάρτυρος Ἰγνατίου τοῦ Θεοφόρου."
 meLE.commemoration2 = ""
 meHO.number = ""

@@ -1,16 +1,14 @@
 A_Resource_Whose_Name = me.m10.d01_gr_GR_cog
 
-meHO.Month.text = ""
-meHO.DaysHours.text = ""
-
-meDate.text = "Τῌ Αʹ ΟΚΤΩΒΡΙΟΥ"
-meCommemoration.text = "Μνήμη τοῦ Ἁγίου Ἀποστόλου Ἀνανίου, ἑνὸς τῶν Ἑβδομήκοντα, καὶ τοῦ Ὁσίου Πατρὸς ἡμῶν Ῥωμανοῦ τοῦ Μελῳδοῦ." //full title of day
-meShortCommemoration1.text = ""
-meCom1.title = ""
-meCom2.title = ""
-meInsert1 = "καὶ τοῦ Ἁγίου Ἀποστόλου Ἀνανίου, καὶ τοῦ Ὁσίου Πατρὸς ἡμῶν Ῥωμανοῦ τοῦ Μελῳδοῦ, " //for use in petitions and dismissal
-meInsert2 = "ὧν καὶ τὴν μνήμην ἐπιτελοῦμεν· " //for use in petitions and dismissal
-meNote.text = ""
+meDA.date = "Τῌ Αʹ ΟΚΤΩΒΡΙΟΥ"
+meDA.commemoration.full = "Μνήμη τοῦ Ἁγίου Ἀποστόλου Ἀνανίου, ἑνὸς τῶν Ἑβδομήκοντα, καὶ τοῦ Ὁσίου Πατρὸς ἡμῶν Ῥωμανοῦ τοῦ Μελῳδοῦ." //full title of day
+meDA.commemoration.first = ""
+meDA.commemoration.first_short = ""
+meDA.commemoration.first_title = ""
+meDA.commemoration.second_title = ""
+meDA.insert1 = "καὶ τοῦ Ἁγίου Ἀποστόλου Ἀνανίου, καὶ τοῦ Ὁσίου Πατρὸς ἡμῶν Ῥωμανοῦ τοῦ Μελῳδοῦ, " //for use in petitions and dismissal
+meDA.insert2 = "ὧν καὶ τὴν μνήμην ἐπιτελοῦμεν· " //for use in petitions and dismissal
+meDA.note = ""
 meLE.commemoration1 = "Μνήμη τοῦ Ἁγίου Ἀποστόλου Ἀνανίου, καὶ τοῦ Ὁσίου Πατρὸς ἡμῶν Ῥωμανοῦ τοῦ Μελῳδοῦ."
 meLE.commemoration2 = ""
 meHO.number = ""
@@ -584,15 +582,15 @@ meLI.Kontakion1.text = meMA.Kontakion1.text
 
 meMegalynarion.text = ""
 
-alt1.meDate.text = "Τῌ Αʹ ΟΚΤΩΒΡΙΟΥ"
-alt1.meCommemoration.text = "Ἀκολουθία Παναγίας Γοργοϋπηκόου" //full title of day
-alt1.meShortCommemoration1.text = "Ἀκολουθία Παναγίας Γοργοϋπηκόου"
+alt1.meDA.date = "Τῌ Αʹ ΟΚΤΩΒΡΙΟΥ"
+alt1.meDA.commemoration.full = "Ἀκολουθία Παναγίας Γοργοϋπηκόου" //full title of day
+alt1.meDA.commemoration.first_short = "Ἀκολουθία Παναγίας Γοργοϋπηκόου"
 
-alt1.meCom1.title = ""
-alt1.meCom2.title = ""
-alt1.meInsert1 = "" //for use in petitions and dismissal
-alt1.meInsert2 = "" //for use in petitions and dismissal
-alt1.meNote.text = ""
+alt1.meDA.commemoration.first_title = ""
+alt1.meDA.commemoration.second_title = ""
+alt1.meDA.insert1 = "" //for use in petitions and dismissal
+alt1.meDA.insert2 = "" //for use in petitions and dismissal
+alt1.meDA.note = ""
 alt1.meLE.commemoration1 = ""
 alt1.meLE.commemoration2 = ""
 alt1.meHO.number = ""
@@ -600,7 +598,7 @@ alt1.meHO.rank = ""
 alt1.meHO.commemorations = ""
 alt1.meHO.note1 = ""
 alt1.meHO.note2 = ""
-alt1.mePoet = poets_gr_GR_cog.GerasimouMonachouMikragiannanitou
+alt1.meDA.poet = poets_gr_GR_cog.GerasimouMonachouMikragiannanitou
 
 alt1.meSV.Stichera1.mode = misc_gr_GR_cog.Mode1
 alt1.meSV.Stichera1.melody = he.a.m1_gr_GR_cog.PaneffimoiMartyres.incipit

@@ -1,13 +1,14 @@
 A_Resource_Whose_Name = me.m06.d29_gr_GR_cog
 
-meDate.text = "Τῌ ΚΘʹ ΙΟΥΝΙΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "Μνήμη τῶν Ἁγίων Ἐνδόξων καὶ Πανευφήμων Ἀποστόλων καὶ Πρωτοκορυφαίων, Πέτρου καὶ Παύλου" // full title of day
-meShortCommemoration1.text = "Μνήμη τῶν Πρωτοκορυφαίων Ἀποστόλων Πέτρου καὶ Παύλου"
-meCom1.title = ""
-meCom2.title = ""
-meInsert1 = "καὶ τῶν Ἁγίων ἐνδόξων καὶ πανευφήμων Ἀποστόλων καὶ Πρωτοκορυφαίων, Πέτρου καὶ Παύλου, " // for use in petitions and dismissal
-meInsert2 = "ὧν καὶ τὴν μνήμην ἐπιτελοῦμεν· " // for use in petitions and dismissal
-meNote.text = ""
+meDA.date = "Τῌ ΚΘʹ ΙΟΥΝΙΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+meDA.commemoration.full = "Μνήμη τῶν Ἁγίων Ἐνδόξων καὶ Πανευφήμων Ἀποστόλων καὶ Πρωτοκορυφαίων, Πέτρου καὶ Παύλου" // full title of day
+meDA.commemoration.first = "Μνήμη τῶν Πρωτοκορυφαίων Ἀποστόλων Πέτρου καὶ Παύλου"
+meDA.commemoration.first_short = "Μνήμη τῶν Πρωτοκορυφαίων Ἀποστόλων Πέτρου καὶ Παύλου"
+meDA.commemoration.first_title = ""
+meDA.commemoration.second_title = ""
+meDA.insert1 = "καὶ τῶν Ἁγίων ἐνδόξων καὶ πανευφήμων Ἀποστόλων καὶ Πρωτοκορυφαίων, Πέτρου καὶ Παύλου, " // for use in petitions and dismissal
+meDA.insert2 = "ὧν καὶ τὴν μνήμην ἐπιτελοῦμεν· " // for use in petitions and dismissal
+meDA.note = ""
 meLE.commemoration1 = "Τῶν Ἁγίων Ἐνδόξων καὶ Πανευφήμων Ἀποστόλων καὶ Πρωτοκορυφαίων Πέτρου καὶ Παύλου."
 meLE.commemoration2 = ""
 meHO.number = ""
@@ -15,7 +16,7 @@ meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
-meDismissal = ""
+meDA.dismissal = ""
 
 meSV.Stichera1.mode = misc_gr_GR_cog.Mode4
 meSV.Stichera1.melody = he.a.m4_gr_GR_cog.EdokasSimeiosin.incipit

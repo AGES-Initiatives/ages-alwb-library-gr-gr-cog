@@ -1,13 +1,14 @@
 A_Resource_Whose_Name = me.m11.d22_gr_GR_cog
 
-meDate.text = "Τῌ ΚΒʹ ΝΟΕΜΒΡΙΟΥ"
-meCommemoration.text = "Μνήμη τοῦ Ἁγίου Ἀποστόλου Φιλήμονος, καὶ τῶν σὺν αὐτῷ, Ἀπφίας, Ἀρχίππου καὶ Ὀνησίμου· καὶ τῆς Ἁγίας Μάρτυρος Κικιλίας, καὶ τῶν σὺν αὐτῇ." // full title of day
-meShortCommemoration1.text = ""
-meCom1.title = ""
-meCom2.title = ""
-meInsert1 = "καὶ τοῦ ἁγίου Ἀποστόλου Φιλήμονος, καὶ τῶν σὺν αὐτῷ, Ἀπφίας, Ἀρχίππου καὶ Ὀνησίμου, καὶ τῆς ἁγίας Μάρτυρος Κικιλίας, καὶ τῶν σὺν αὐτῇ, " // for use in petitions and dismissal
-meInsert2 = "ὧν καὶ τὴν μνήμην ἐπιτελοῦμεν· " // for use in petitions and dismissal
-meNote.text = ""
+meDA.date = "Τῌ ΚΒʹ ΝΟΕΜΒΡΙΟΥ"
+meDA.commemoration.full = "Μνήμη τοῦ Ἁγίου Ἀποστόλου Φιλήμονος, καὶ τῶν σὺν αὐτῷ, Ἀπφίας, Ἀρχίππου καὶ Ὀνησίμου· καὶ τῆς Ἁγίας Μάρτυρος Κικιλίας, καὶ τῶν σὺν αὐτῇ." // full title of day
+meDA.commemoration.first = ""
+meDA.commemoration.first_short = ""
+meDA.commemoration.first_title = ""
+meDA.commemoration.second_title = ""
+meDA.insert1 = "καὶ τοῦ ἁγίου Ἀποστόλου Φιλήμονος, καὶ τῶν σὺν αὐτῷ, Ἀπφίας, Ἀρχίππου καὶ Ὀνησίμου, καὶ τῆς ἁγίας Μάρτυρος Κικιλίας, καὶ τῶν σὺν αὐτῇ, " // for use in petitions and dismissal
+meDA.insert2 = "ὧν καὶ τὴν μνήμην ἐπιτελοῦμεν· " // for use in petitions and dismissal
+meDA.note = ""
 meLE.commemoration1 = "Μνήμη τοῦ Ἁγίου Ἀποστόλου Φιλήμονος, καὶ τῶν σὺν αὐτῷ."
 meLE.commemoration2 = ""
 meHO.number = ""
@@ -627,14 +628,14 @@ meMegalynarion.text = ""
 
 //__________________
 
-alt1.meDate.text = "Τῌ ΚΒʹ ΝΟΕΜΒΡΙΟΥ"
-alt1.meCommemoration.text = "Μνήμη τοῦ Ὁσίου καὶ Θεοφόρου Πατρὸς ἡμῶν Ἰακώβου, Ἡγουμένου τῆς Ἱερᾶς Μονῆς τοῦ Ὁσίου Δαυῒδ Εὐβοίας" // full title of day
-alt1.meShortCommemoration1.text = "Μνήμη τοῦ Ὁσίου Πατρὸς ἡμῶν Ἰακώβου τῆς Εὐβοίας"
-alt1.meCom1.title = "Τοῦ Ἁγ. Ἰακώβου."
-alt1.meCom2.title = ""
-alt1.meInsert1 = "τοῦ Ὁσίου καὶ Θεοφόρου Πατρὸς ἡμῶν Ἰακώβου τῆς Εὐβοίας," // for use in petitions and dismissal
-alt1.meInsert2 = "οὗ καὶ τὴν μνήμην ἐπιτελοῦμεν," // for use in petitions and dismissal
-alt1.meNote.text = ""
+alt1.meDA.date = "Τῌ ΚΒʹ ΝΟΕΜΒΡΙΟΥ"
+alt1.meDA.commemoration.full = "Μνήμη τοῦ Ὁσίου καὶ Θεοφόρου Πατρὸς ἡμῶν Ἰακώβου, Ἡγουμένου τῆς Ἱερᾶς Μονῆς τοῦ Ὁσίου Δαυῒδ Εὐβοίας" // full title of day
+alt1.meDA.commemoration.first_short = "Μνήμη τοῦ Ὁσίου Πατρὸς ἡμῶν Ἰακώβου τῆς Εὐβοίας"
+alt1.meDA.commemoration.first_title = "Τοῦ Ἁγ. Ἰακώβου."
+alt1.meDA.commemoration.second_title = ""
+alt1.meDA.insert1 = "τοῦ Ὁσίου καὶ Θεοφόρου Πατρὸς ἡμῶν Ἰακώβου τῆς Εὐβοίας," // for use in petitions and dismissal
+alt1.meDA.insert2 = "οὗ καὶ τὴν μνήμην ἐπιτελοῦμεν," // for use in petitions and dismissal
+alt1.meDA.note = ""
 alt1.meLE.commemoration1 = ""
 alt1.meLE.commemoration2 = ""
 alt1.meHO.number = ""
@@ -642,8 +643,8 @@ alt1.meHO.rank = ""
 alt1.meHO.commemorations = ""
 alt1.meHO.note1 = ""
 alt1.meHO.note2 = ""
-alt1.meDismissal = ""
-alt1.mePoet = poets_gr_GR_cog.IoilEdessis
+alt1.meDA.dismissal = ""
+alt1.meDA.poet = poets_gr_GR_cog.IoilEdessis
 
 alt1.meSV.Stichera1.mode = misc_gr_GR_cog.Mode1
 alt1.meSV.Stichera1.melody = he.a.m1_gr_GR_cog.TonOuranionTagmaton.incipit

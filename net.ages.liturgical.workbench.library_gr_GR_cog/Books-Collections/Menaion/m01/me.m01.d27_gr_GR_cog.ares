@@ -1,17 +1,18 @@
 A_Resource_Whose_Name = me.m01.d27_gr_GR_cog
 
-meDate.text = "Τῌ ΚΖʹ ΙΑΝΟΥΑΡΙΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "Ἡ Ἀνακομιδὴ τοῦ Λειψάνου τοῦ ἐν Ἁγίοις Πατρὸς ἡμῶν Ἰωάννου τοῦ Χρυσοστόμου" // full title of day
-meShortCommemoration1.text = "Ἀνακομιδὴ τοῦ Λειψάνου τοῦ Ἁγίου Ἰωάννου τοῦ Χρυσοστόμου"
-meCom1.title = ""
-meCom2.title = ""
-meInsert1 = "τοῦ ἐν ἁγίοις πατρὸς ἡμῶν Ἰωάννου τοῦ Χρυσοστόμου, Ἀρχιεπισκόπου Κωνσταντινουπόλεως," // for use in petitions and dismissal
-meInsert2 = "οὗ καὶ τὴν μνήμην τῆς ἀνακομιδῆς τοῦ ἁγίου λειψάνου ἑορτάζομεν·" // for use in petitions and dismissal
-meNote.text = ""
+meDA.date = "Τῌ ΚΖʹ ΙΑΝΟΥΑΡΙΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+meDA.commemoration.full = "Ἡ Ἀνακομιδὴ τοῦ Λειψάνου τοῦ ἐν Ἁγίοις Πατρὸς ἡμῶν Ἰωάννου τοῦ Χρυσοστόμου" // full title of day
+meDA.commemoration.first = "Ἀνακομιδὴ τοῦ Λειψάνου τοῦ Ἁγίου Ἰωάννου τοῦ Χρυσοστόμου"
+meDA.commemoration.first_short = "Ἀνακομιδὴ τοῦ Λειψάνου τοῦ Ἁγίου Ἰωάννου τοῦ Χρυσοστόμου"
+meDA.commemoration.first_title = ""
+meDA.commemoration.second_title = ""
+meDA.insert1 = "τοῦ ἐν ἁγίοις πατρὸς ἡμῶν Ἰωάννου τοῦ Χρυσοστόμου, Ἀρχιεπισκόπου Κωνσταντινουπόλεως," // for use in petitions and dismissal
+meDA.insert2 = "οὗ καὶ τὴν μνήμην τῆς ἀνακομιδῆς τοῦ ἁγίου λειψάνου ἑορτάζομεν·" // for use in petitions and dismissal
+meDA.note = ""
 meLE.commemoration1 = "Μνήμη Ἀνακομιδῆς τοῦ ἱεροῦ λειψάνου τοῦ ἐν Ἁγίοις Πατρός ἡμῶν Ἰωάννου, Ἀρχιεπισκόπου Κωνσταντινουπόλεως τοῦ Χρυσοστόμου."
 meLE.commemoration2 = ""
 meHO.number = "27."
-meHO.rank = "3"
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = rubrical_gr_GR_cog.HolidayWineOil
 meHO.note2 = ""

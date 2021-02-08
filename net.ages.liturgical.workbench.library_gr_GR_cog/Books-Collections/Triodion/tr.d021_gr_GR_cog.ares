@@ -1,10 +1,10 @@
 A_Resource_Whose_Name = tr.d021_gr_GR_cog
 
-trCommemoration.text = "Σάββατον τῆς Τυρινῆς. Μνήμην ἐπιτελοῦμεν πάντω τῶν ἐν ἀσκήσει λαμψάντων ὁσίων καὶ θεοφόρων Πατέρων ἡμῶν." //full title of day
-trShortCommemoration1.text = "Μνήμη τῶν ἐν Ἀσκήσει Λαμψάντων."
-trInsert1 = "καὶ πάντω τῶν ἐν ἀσκήσει λαμψάντων ὁσίων καὶ θεοφόρων Πατέρων ἡμῶν," //for use in petitions and dismissal
-trInsert2 = "ὧν καὶ τὴν μνήμην ἐπιτελοῦμεν·" //for use in petitions and dismissal
-trNote.text = ""
+trDA.commemoration.full = "Σάββατον τῆς Τυρινῆς. Μνήμην ἐπιτελοῦμεν πάντω τῶν ἐν ἀσκήσει λαμψάντων ὁσίων καὶ θεοφόρων Πατέρων ἡμῶν." //full title of day
+trDA.commemoration.short = "Μνήμη τῶν ἐν Ἀσκήσει Λαμψάντων."
+trDA.insert1 = "καὶ πάντω τῶν ἐν ἀσκήσει λαμψάντων ὁσίων καὶ θεοφόρων Πατέρων ἡμῶν," //for use in petitions and dismissal
+trDA.insert2 = "ὧν καὶ τὴν μνήμην ἐπιτελοῦμεν·" //for use in petitions and dismissal
+trDA.note = ""
 trHO.daytitle = ""
 trHO.commemorations = ""
 trHO.description1 = ""
@@ -525,25 +525,18 @@ trMA.Kontakion1.text = "Ὡς εὐσεβείας κήρυκας, καὶ ἀ�
 
 trMA.Oikos1.text = "Τοῖς τοῦ βίου τερπνοῖς ἐνητένισα, λογισμοῖς θεωρῶν τὰ γινόμενα, καὶ μετρήσας αὐτῶν τὰ ἐπώδυνα, τὴν ζωὴν τῶν βροτῶν ἐταλάνισα, ὑμᾶς δὲ μόνους ἐμακάρισα, τοὺς μερίδα καλὴν ἐπιλεξαμένους, τὸ παθεῖν τῷ Χριστῷ, καὶ μένειν σὺν αὐτῷ, καὶ συμψάλλειν ἀεὶ τῷ Προφήτῃ Δαυΐδ, Ἀλληλούϊα."
 
-trMA.Synaxarion.commemoration.text = "Τῷ Σαββάτῳ τῆς Τυρινῆς, μνείαν ἐπιτελοῦμεν πάντων τῶν ἐν ἀσκήσει λαμψάντων ἁγίων Ἀνδρῶν τε καὶ Γυναικῶν."
-trMA.Synaxarion.couplet1.title = titles_gr_GR_cog.Stichoi
-trMA.Synaxarion.couplet1.verse1 = "Ψυχαῖς Δικαίων, ὧν ἀεὶ μνήμη μένει,"
-trMA.Synaxarion.couplet1.verse2 = "Χοὰς μενούσας, προσκομίζω τοὺς λόγους."
-trMA.Synaxarion.narration1.p01.text = "[paragraph 01]"
-trMA.Synaxarion.narration1.p02.text = "[paragraph 02]"
-trMA.Synaxarion.narration1.p03.text = "[paragraph 03]"
-trMA.Synaxarion.narration1.p04.text = "[paragraph 04]"
-trMA.Synaxarion.narration1.p05.text = "[paragraph 05]"
-trMA.Synaxarion.narration1.p06.text = "[paragraph 06]"
-trMA.Synaxarion.narration1.p07.text = "[paragraph 07]"
-trMA.Synaxarion.narration2.p01.text = "[paragraph 01]"
-trMA.Synaxarion.narration2.p02.text = "[paragraph 02]"
-trMA.Synaxarion.narration2.p03.text = "[paragraph 03]"
-trMA.Synaxarion.narration2.p04.text = "[paragraph 04]"
-trMA.Synaxarion.narration2.p05.text = "[paragraph 05]"
-trMA.Synaxarion.narration2.p06.text = "[paragraph 06]"
-trMA.Synaxarion.narration2.p07.text = "[paragraph 07]"
-trMA.Synaxarion.lastline.text = "Ταῖς τῶν Ὁσίων σου πάντων πρεσβείαις Χριστὲ ὁ Θεὸς ἡμῶν, ἐλέησον ἡμᾶς."
+trSY.commemoration.text = "Τῷ Σαββάτῳ τῆς Τυρινῆς, μνείαν ἐπιτελοῦμεν πάντων τῶν ἐν ἀσκήσει λαμψάντων ἁγίων Ἀνδρῶν τε καὶ Γυναικῶν."
+trSY.commemoration.couplet1.title = titles_gr_GR_cog.Stichoi
+trSY.commemoration.couplet1.verse1 = "Ψυχαῖς Δικαίων, ὧν ἀεὶ μνήμη μένει,"
+trSY.commemoration.couplet1.verse2 = "Χοὰς μενούσας, προσκομίζω τοὺς λόγους."
+trSY.commemoration.narration.p01 = "[paragraph 01]"
+trSY.commemoration.narration.p02 = "[paragraph 02]"
+trSY.commemoration.narration.p03 = "[paragraph 03]"
+trSY.commemoration.narration.p04 = "[paragraph 04]"
+trSY.commemoration.narration.p05 = "[paragraph 05]"
+trSY.commemoration.narration.p06 = "[paragraph 06]"
+trSY.commemoration.narration.p07 = "[paragraph 07]"
+trSY.lastline = "Ταῖς τῶν Ὁσίων σου πάντων πρεσβείαις Χριστὲ ὁ Θεὸς ἡμῶν, ἐλέησον ἡμᾶς."
 
 trMA.Ode7C1H.ode = misc_gr_GR_cog.Ode7
 trMA.Ode7C1H.mode = misc_gr_GR_cog.Mode8

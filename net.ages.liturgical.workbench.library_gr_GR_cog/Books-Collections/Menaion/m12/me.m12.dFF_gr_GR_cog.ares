@@ -1,13 +1,14 @@
 A_Resource_Whose_Name = me.m12.dFF_gr_GR_cog
 
-meDate.text = "Τῌ ΙΑʹ - ΙΖʹ ΔΕΚΕΜΒΡΙΟΥ"
-meCommemoration.text = "Κυριακὴ τῶν Ἁγίων Προπατόρων." // full title of day
-meShortCommemoration1.text = "Τῶν ἁγίων Προπατόρων."
-meCom1.title = ""
-meCom2.title = ""
-meInsert1 = "καὶ τῶν ἁγίων Προπατόρων," // for use in petitions and dismissal
-meInsert2 = "ὧν καὶ τὴν μνήμην ἐπιτελοῦμεν;" // for use in petitions and dismissal
-meNote.text = ""
+meDA.date = "Τῌ ΙΑʹ - ΙΖʹ ΔΕΚΕΜΒΡΙΟΥ"
+meDA.commemoration.full = "Κυριακὴ τῶν Ἁγίων Προπατόρων." // full title of day
+meDA.commemoration.first = "Τῶν ἁγίων Προπατόρων."
+meDA.commemoration.first_short = "Τῶν ἁγίων Προπατόρων."
+meDA.commemoration.first_title = ""
+meDA.commemoration.second_title = ""
+meDA.insert1 = "καὶ τῶν ἁγίων Προπατόρων," // for use in petitions and dismissal
+meDA.insert2 = "ὧν καὶ τὴν μνήμην ἐπιτελοῦμεν;" // for use in petitions and dismissal
+meDA.note = ""
 meLE.commemoration1 = "ΚΥΡΙΑΚΗ ΤΩΝ ΑΓΙΩΝ ΠΡΟΠΑΤΟΡΩΝ"
 meLE.commemoration2 = ""
 meHO.number = ""

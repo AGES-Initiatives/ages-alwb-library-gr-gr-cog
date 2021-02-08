@@ -1,17 +1,18 @@
 A_Resource_Whose_Name = me.m01.d21_gr_GR_cog
 
-meDate.text = "Τῌ ΚΑʹ ΙΑΝΟΥΑΡΙΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "Μνήμη τοῦ Ὁσίου Πατρὸς ἡμῶν Μαξίμου τοῦ Ὁμολογητοῦ, καὶ τοῦ Ἁγίου Μάρτυρος Νεοφύτου." // full title of day
-meShortCommemoration1.text = "Μνήμη τοῦ Ὁσίου Μαξίμου τοῦ Ὁμολογητοῦ"
-meCom1.title = "Τοῦ Ἁγ. Μαξίμου."
-meCom2.title = "Τοῦ Ἁγ. Νεοφύτου."
-meInsert1 = "καὶ τοῦ Ὁσίου Πατρὸς ἡμῶν Μαξίμου τοῦ Ὁμολογητοῦ," // for use in petitions and dismissal
-meInsert2 = "οὗ καὶ τὴν μνήμην ἐπιτελοῦμεν· " // for use in petitions and dismissal
-meNote.text = ""
+meDA.date = "Τῌ ΚΑʹ ΙΑΝΟΥΑΡΙΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+meDA.commemoration.full = "Μνήμη τοῦ Ὁσίου Πατρὸς ἡμῶν Μαξίμου τοῦ Ὁμολογητοῦ, καὶ τοῦ Ἁγίου Μάρτυρος Νεοφύτου." // full title of day
+meDA.commemoration.first = "Μνήμη τοῦ Ὁσίου Μαξίμου τοῦ Ὁμολογητοῦ"
+meDA.commemoration.first_short = "Μνήμη τοῦ Ὁσίου Μαξίμου τοῦ Ὁμολογητοῦ"
+meDA.commemoration.first_title = "Τοῦ Ἁγ. Μαξίμου."
+meDA.commemoration.second_title = "Τοῦ Ἁγ. Νεοφύτου."
+meDA.insert1 = "καὶ τοῦ Ὁσίου Πατρὸς ἡμῶν Μαξίμου τοῦ Ὁμολογητοῦ," // for use in petitions and dismissal
+meDA.insert2 = "οὗ καὶ τὴν μνήμην ἐπιτελοῦμεν· " // for use in petitions and dismissal
+meDA.note = ""
 meLE.commemoration1 = "Μνήμη τοῦ Ὁσίου Πατρὸς ἡμῶν Μαξίμου τοῦ Ὁμολογητοῦ."
 meLE.commemoration2 = ""
 meHO.number = "21."
-meHO.rank = "5"
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""

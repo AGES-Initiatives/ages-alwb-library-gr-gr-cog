@@ -1,13 +1,14 @@
 A_Resource_Whose_Name = me.m12.d29_gr_GR_cog
 
-meDate.text = "Τῌ ΚΘʹ ΔΕΚΕΜΒΡΙΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "Μνήμη τῶν Ἁγίων Νηπίων, τῶν ὑπὸ Ἡρῴδου ἀναιρεθέντων, ὧν ὁ Ἀριθμὸς Χιλιάδες ΙΔʹ καὶ τοῦ Ὁσίου Πατρὸς ἡμῶν Μαρκέλλου, Ἡγουμένου τῆς Μονῆς τῶν Ἀκοιμήτων." // full title of day
-meShortCommemoration1.text = ""
-meCom1.title = ""
-meCom2.title = ""
-meInsert1 = "Μνήμη τῶν Ἁγίων Νηπίων, τῶν ὑπὸ Ἡρῴδου ἀναιρεθέντων, ὧν ὁ ἀριθμὸς χιλιάδες ιδ' καὶ τοῦ Ὁσίου Πατρὸς ἡμῶν Μαρκέλλου, Ἡγουμένου τῆς Μονῆς τῶν Ἀκοιμήτων, " // for use in petitions and dismissal
-meInsert2 = "ὧν καὶ τὴν μνήμην ἐπιτελοῦμεν· " // for use in petitions and dismissal
-meNote.text = ""
+meDA.date = "Τῌ ΚΘʹ ΔΕΚΕΜΒΡΙΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+meDA.commemoration.full = "Μνήμη τῶν Ἁγίων Νηπίων, τῶν ὑπὸ Ἡρῴδου ἀναιρεθέντων, ὧν ὁ Ἀριθμὸς Χιλιάδες ΙΔʹ καὶ τοῦ Ὁσίου Πατρὸς ἡμῶν Μαρκέλλου, Ἡγουμένου τῆς Μονῆς τῶν Ἀκοιμήτων." // full title of day
+meDA.commemoration.first = ""
+meDA.commemoration.first_short = ""
+meDA.commemoration.first_title = ""
+meDA.commemoration.second_title = ""
+meDA.insert1 = "Μνήμη τῶν Ἁγίων Νηπίων, τῶν ὑπὸ Ἡρῴδου ἀναιρεθέντων, ὧν ὁ ἀριθμὸς χιλιάδες ιδ' καὶ τοῦ Ὁσίου Πατρὸς ἡμῶν Μαρκέλλου, Ἡγουμένου τῆς Μονῆς τῶν Ἀκοιμήτων, " // for use in petitions and dismissal
+meDA.insert2 = "ὧν καὶ τὴν μνήμην ἐπιτελοῦμεν· " // for use in petitions and dismissal
+meDA.note = ""
 meLE.commemoration1 = "Μνήμη τῶν Ἁγίων Νηπίων, τῶν ἐν Βηθηεέμ ὑπὸ Ἡρῴδου Ἀναιρεθέντων, Χιλιάδων Δεκατεσσάρων."
 meLE.commemoration2 = ""
 meHO.number = ""
@@ -15,7 +16,7 @@ meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
-meDismissal = dismissals_gr_GR_cog.dis00.christmas
+meDA.dismissal = dismissals_gr_GR_cog.dis00.christmas
 
 meVE.Stichera01.mode = misc_gr_GR_cog.Mode4
 meVE.Stichera01.melody = he.a.m4_gr_GR_cog.OsGennaionEnMartysi.incipit

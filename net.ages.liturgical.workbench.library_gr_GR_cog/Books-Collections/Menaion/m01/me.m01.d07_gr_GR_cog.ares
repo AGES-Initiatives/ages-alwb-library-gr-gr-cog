@@ -1,21 +1,22 @@
 A_Resource_Whose_Name = me.m01.d07_gr_GR_cog
 
-meDate.text = "Τῌ Ζʹ ΙΑΝΟΥΑΡΙΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "Ἡ Σύναξις τοῦ τιμίου ἐνδόξου Προφήτου, Προδρόμου καὶ Βαπτιστοῦ Ἰωάννου" // full title of day
-meShortCommemoration1.text = "Ἡ Σύναξις τοῦ τιμίου Προδρόμου"
-meCom1.title = ""
-meCom2.title = ""
-meInsert1 = "" // for use in petitions and dismissal
-meInsert2 = "οὗ καὶ τὴν Σύναξιν ἐπιτελοῦμεν·" // for use in petitions and dismissal
-meNote.text = ""
+meDA.date = "Τῌ Ζʹ ΙΑΝΟΥΑΡΙΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+meDA.commemoration.full = "Ἡ Σύναξις τοῦ τιμίου ἐνδόξου Προφήτου, Προδρόμου καὶ Βαπτιστοῦ Ἰωάννου" // full title of day
+meDA.commemoration.first = "Ἡ Σύναξις τοῦ τιμίου Προδρόμου"
+meDA.commemoration.first_short = "Ἡ Σύναξις τοῦ τιμίου Προδρόμου"
+meDA.commemoration.first_title = ""
+meDA.commemoration.second_title = ""
+meDA.insert1 = "" // for use in petitions and dismissal
+meDA.insert2 = "οὗ καὶ τὴν Σύναξιν ἐπιτελοῦμεν·" // for use in petitions and dismissal
+meDA.note = ""
 meLE.commemoration1 = "Σύναξις τοῦ τιμίου ἐνδόξου Προφήτου, Προδρόμου καὶ Βαπτιστοῦ Ἰωάννου."
 meLE.commemoration2 = ""
 meHO.number = "7."
-meHO.rank = "4"
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = rubrical_gr_GR_cog.HolidayFish
 meHO.note2 = ""
-meDismissal = dismissals_gr_GR_cog.dis00.epiphany
+meDA.dismissal = dismissals_gr_GR_cog.dis00.epiphany
 
 meVE.Stichera01.poet = poets_gr_GR_cog.IoannouMonachou
 meVE.Stichera01.mode = misc_gr_GR_cog.Mode2

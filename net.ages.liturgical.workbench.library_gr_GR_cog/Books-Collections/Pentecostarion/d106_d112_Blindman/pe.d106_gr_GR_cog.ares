@@ -1,17 +1,17 @@
 A_Resource_Whose_Name = pe.d106_gr_GR_cog
 
-peCommemoration.text = "ΚΥΡΙΑΚΗ ΤΟΥ ΤΥΦΛΟΥ" //full title of day
-peShortCommemoration1.text = "Κυριακὴ τοῦ Τυφλοῦ"
-peInsert1 = "" //for use in petitions and dismissal
-peInsert2 = "" //for use in petitions and dismissal
-peNote.text = ""
+peDA.commemoration.full = "ΚΥΡΙΑΚΗ ΤΟΥ ΤΥΦΛΟΥ" //full title of day
+peDA.commemoration.short = "Κυριακὴ τοῦ Τυφλοῦ"
+peDA.insert1 = "" //for use in petitions and dismissal
+peDA.insert2 = "" //for use in petitions and dismissal
+peDA.note = ""
 peHO.daytitle = ""
 peHO.commemorations = ""
 peHO.description1 = ""
 peHO.description2 = ""
 peHO.note1 = ""
 peHO.note2 = ""
-peDismissal = dismissals_gr_GR_cog.dis00.resurrection
+peDA.dismissal = dismissals_gr_GR_cog.dis00.resurrection
 
 peSV.Aposticha2.mode = misc_gr_GR_cog.Mode5
 peSV.Aposticha2.melody = he.a.m5_gr_GR_cog.ChairoisAskitikon.incipit
@@ -316,25 +316,18 @@ peMA.Kontakion1.text = "Τῆς ψυχῆς τὰ ὄμματα πεπηρωμ�
 
 peMA.Oikos1.text = "Ῥεῖθρόν μοι δώρησαι Χριστέ, σοφίας τῆς ἀῤῥήτου, καὶ γνώσεως τῆς ἄνω, τὸ φῶς τῶν ἐν τῷ σκότει, καὶ πλανωμένων ὁδηγέ, ἵνα διηγήσωμαι, ἅπερ ἡ θεία βίβλος ἐδίδαξε τοῦ Εὐαγγελίου τῆς εἰρήνης, δηλονότι, τὴν τοῦ Τυφλοῦ θαυματοποιΐαν, ὅτι ἐκ γενετῆς τυφλὸς ὑπάρχων, ὀφθαλμοὺς τοὺς αἰσθητοὺς ἀπολαμβάνει, καὶ τοὺς τῆς ψυχῆς, ἐν πίστει ἀνακραυγάζων· Σὺ τῶν ἐν σκότει, τὸ φῶς τὸ ὑπέρλαμπρον."
 
-peMA.Synaxarion.commemoration.text = "Τῇ αὐτῇ ἡμέρᾳ, Κυριακῇ ἕκτῃ ἀπὸ τοῦ Πάσχα, τὸ εἰς τὸν ἐκ γενετῆς Τυφλὸν ἑορτάζομεν τοῦ Κυρίου καὶ Θεοῦ καὶ Σωτῆρος ἡμῶν Ἰησοῦ Χριστοῦ θαῦμα."
-peMA.Synaxarion.couplet1.title = titles_gr_GR_cog.Stichoi
-peMA.Synaxarion.couplet1.verse1 = "Φωτὸς χορηγός, ἐκ φάους πλέον φάος,"
-peMA.Synaxarion.couplet1.verse2 = "Τὸν ἐκ γενετῆς ὀμματοῖς Τυφλόν, Λόγε."
-peMA.Synaxarion.narration1.p01.text = "[paragraph 01]"
-peMA.Synaxarion.narration1.p02.text = "[paragraph 02]"
-peMA.Synaxarion.narration1.p03.text = "[paragraph 03]"
-peMA.Synaxarion.narration1.p04.text = "[paragraph 04]"
-peMA.Synaxarion.narration1.p05.text = "[paragraph 05]"
-peMA.Synaxarion.narration1.p06.text = "[paragraph 06]"
-peMA.Synaxarion.narration1.p07.text = "[paragraph 07]"
-peMA.Synaxarion.narration2.p01.text = "[paragraph 01]"
-peMA.Synaxarion.narration2.p02.text = "[paragraph 02]"
-peMA.Synaxarion.narration2.p03.text = "[paragraph 03]"
-peMA.Synaxarion.narration2.p04.text = "[paragraph 04]"
-peMA.Synaxarion.narration2.p05.text = "[paragraph 05]"
-peMA.Synaxarion.narration2.p06.text = "[paragraph 06]"
-peMA.Synaxarion.narration2.p07.text = "[paragraph 07]"
-peMA.Synaxarion.lastline.text = "Τῷ ἀπείῳ ἐλέει σου, Φωτοδότα Χριστὲ ὁ Θεὸς ἡμῶν, ἐλέησον καὶ σῶσον ἡμᾶς. Ἀμήν."
+peSY.commemoration.text = "Τῇ αὐτῇ ἡμέρᾳ, Κυριακῇ ἕκτῃ ἀπὸ τοῦ Πάσχα, τὸ εἰς τὸν ἐκ γενετῆς Τυφλὸν ἑορτάζομεν τοῦ Κυρίου καὶ Θεοῦ καὶ Σωτῆρος ἡμῶν Ἰησοῦ Χριστοῦ θαῦμα."
+peSY.commemoration.couplet1.title = titles_gr_GR_cog.Stichoi
+peSY.commemoration.couplet1.verse1 = "Φωτὸς χορηγός, ἐκ φάους πλέον φάος,"
+peSY.commemoration.couplet1.verse2 = "Τὸν ἐκ γενετῆς ὀμματοῖς Τυφλόν, Λόγε."
+peSY.commemoration.narration.p01 = "[paragraph 01]"
+peSY.commemoration.narration.p02 = "[paragraph 02]"
+peSY.commemoration.narration.p03 = "[paragraph 03]"
+peSY.commemoration.narration.p04 = "[paragraph 04]"
+peSY.commemoration.narration.p05 = "[paragraph 05]"
+peSY.commemoration.narration.p06 = "[paragraph 06]"
+peSY.commemoration.narration.p07 = "[paragraph 07]"
+peSY.lastline = "Τῷ ἀπείῳ ἐλέει σου, Φωτοδότα Χριστὲ ὁ Θεὸς ἡμῶν, ἐλέησον καὶ σῶσον ἡμᾶς. Ἀμήν."
 
 peMA.Ode7C1H.ode = misc_gr_GR_cog.Ode7
 peMA.Ode7C1H.mode = misc_gr_GR_cog.Mode5

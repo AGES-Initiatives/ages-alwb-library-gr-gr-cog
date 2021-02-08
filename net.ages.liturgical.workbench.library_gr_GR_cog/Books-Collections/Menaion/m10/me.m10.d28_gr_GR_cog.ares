@@ -1,13 +1,14 @@
 A_Resource_Whose_Name = me.m10.d28_gr_GR_cog
 
-meDate.text = "Τῌ ΚΗʹ ΟΚΤΩΒΡΙΟΥ"
-meCommemoration.text = "Μνήμη τῶν ἁγίων Μαρτύρων, Τερεντίου καὶ Νεονίλλης καὶ τῶν τέκνων αὐτῶν· καὶ τοῦ Ὁσίου Πατρὸς ἡμῶν Στεφάνου τοῦ Σαββαΐτου." // full title of day
-meShortCommemoration1.text = "Μνήμη τῶν ἁγίων Μαρτύρων, Τερεντίου καὶ Νεονίλλης καὶ τῶν τέκνων αὐτῶν"
-meCom1.title = ""
-meCom2.title = ""
-meInsert1 = "" // for use in petitions and dismissal
-meInsert2 = "" // for use in petitions and dismissal
-meNote.text = ""
+meDA.date = "Τῌ ΚΗʹ ΟΚΤΩΒΡΙΟΥ"
+meDA.commemoration.full = "Μνήμη τῶν ἁγίων Μαρτύρων, Τερεντίου καὶ Νεονίλλης καὶ τῶν τέκνων αὐτῶν· καὶ τοῦ Ὁσίου Πατρὸς ἡμῶν Στεφάνου τοῦ Σαββαΐτου." // full title of day
+meDA.commemoration.first = "Μνήμη τῶν ἁγίων Μαρτύρων, Τερεντίου καὶ Νεονίλλης καὶ τῶν τέκνων αὐτῶν"
+meDA.commemoration.first_short = "Μνήμη τῶν ἁγίων Μαρτύρων, Τερεντίου καὶ Νεονίλλης καὶ τῶν τέκνων αὐτῶν"
+meDA.commemoration.first_title = ""
+meDA.commemoration.second_title = ""
+meDA.insert1 = "" // for use in petitions and dismissal
+meDA.insert2 = "" // for use in petitions and dismissal
+meDA.note = ""
 meLE.commemoration1 = ""
 meLE.commemoration2 = ""
 meHO.number = ""
@@ -522,15 +523,15 @@ meLI.Kontakion1.text = meMA.Kontakion1.text
 
 meMegalynarion.text = ""
 
-alt1.meDate.text = "Τῌ ΚΗʹ ΟΚΤΩΒΡΙΟΥ"
-alt1.meCommemoration.text = "Ἀνάμνησιν ἐπιτελοῦμεν τῆς ἁγίας Σκέπης τῆς Ὑπεραγίας Δεσποίνης ἡμῶν Θεοτόκου καὶ Ἀειπαρθένου Μαρίας." //full title of day
-alt1.meShortCommemoration1.text = "Ἡ Ἁγία Σκέπη τῆς Ὑπεραγίας Δεσποίνης ἡμῶν Θεοτόκου"
+alt1.meDA.date = "Τῌ ΚΗʹ ΟΚΤΩΒΡΙΟΥ"
+alt1.meDA.commemoration.full = "Ἀνάμνησιν ἐπιτελοῦμεν τῆς ἁγίας Σκέπης τῆς Ὑπεραγίας Δεσποίνης ἡμῶν Θεοτόκου καὶ Ἀειπαρθένου Μαρίας." //full title of day
+alt1.meDA.commemoration.first_short = "Ἡ Ἁγία Σκέπη τῆς Ὑπεραγίας Δεσποίνης ἡμῶν Θεοτόκου"
 
-alt1.meCom1.title = ""
-alt1.meCom2.title = ""
-alt1.meInsert1 = "" //for use in petitions and dismissal
-alt1.meInsert2 = "ἧς τῆς ἁγίας Σκέπης τὴν ἀνάμνησιν ἐπιτελοῦμεν," //for use in petitions and dismissal
-alt1.meNote.text = "Ἡ Ἀκολουθία αὕτη, ποιηθεῖσα ὑπὸ τοῦ ἐν Ἁγίῳ Ὄρει ᾀσματογράφου Μοναχοῦ Γερασίμου Μικραγιαννανίτου, ἐνεκρίθη ὑπὸ τῆς Ἱερὰς Συνόδου τῆς Ἐκκλησίας τῆς Ἑλλάδος ἐν τῇ συνεδρίᾳ Αὐτῆς τῆς 21ης Ὀκτωβρίου 1952, καθ' ἣ καἰ ἀπεφασίσθη ὁ συνεορτασμὸς τῆς Ἑορτῆς τῆς ἁγίας Σκέπης τῆς Ὑπεραγίας Θεοτόκου μετὰ τῆς Ἐθνικῆς Ἑορτῆς τῶν Νικητηρίων τῆς 28ης Ὀκτωβρίου. (Αἱ Συνοδικαὶ Ἐγκύκλιοι, Τόμος Βʹ, Ἀθῆναι 1956, σελ. 649)."
+alt1.meDA.commemoration.first_title = ""
+alt1.meDA.commemoration.second_title = ""
+alt1.meDA.insert1 = "" //for use in petitions and dismissal
+alt1.meDA.insert2 = "ἧς τῆς ἁγίας Σκέπης τὴν ἀνάμνησιν ἐπιτελοῦμεν," //for use in petitions and dismissal
+alt1.meDA.note = "Ἡ Ἀκολουθία αὕτη, ποιηθεῖσα ὑπὸ τοῦ ἐν Ἁγίῳ Ὄρει ᾀσματογράφου Μοναχοῦ Γερασίμου Μικραγιαννανίτου, ἐνεκρίθη ὑπὸ τῆς Ἱερὰς Συνόδου τῆς Ἐκκλησίας τῆς Ἑλλάδος ἐν τῇ συνεδρίᾳ Αὐτῆς τῆς 21ης Ὀκτωβρίου 1952, καθ' ἣ καἰ ἀπεφασίσθη ὁ συνεορτασμὸς τῆς Ἑορτῆς τῆς ἁγίας Σκέπης τῆς Ὑπεραγίας Θεοτόκου μετὰ τῆς Ἐθνικῆς Ἑορτῆς τῶν Νικητηρίων τῆς 28ης Ὀκτωβρίου. (Αἱ Συνοδικαὶ Ἐγκύκλιοι, Τόμος Βʹ, Ἀθῆναι 1956, σελ. 649)."
 alt1.meLE.commemoration1 = "Μνήμη τῆς ἁγίας Σκέπης τῆς Ὑπεραγίας Δεσποίνης ἡμῶν Θεοτόκου, καὶ Ἀειπαρθένου Μαρίας."
 alt1.meLE.commemoration2 = ""
 alt1.meHO.number = ""

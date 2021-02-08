@@ -1,10 +1,10 @@
 A_Resource_Whose_Name = tr.d035_gr_GR_cog
 
-trCommemoration.text = "Τῼ ΣΑΒΒΑΤῼ ΤΗΣ Βʹ ΕΒΔΟΜΑΔΟΣ" //full title of day
-trShortCommemoration1.text = "Σάββατον τῆς Βʹ Ἑβδομάδος"
-trInsert1 = "" //for use in petitions and dismissal
-trInsert2 = "" //for use in petitions and dismissal
-trNote.text = ""
+trDA.commemoration.full = "Τῼ ΣΑΒΒΑΤῼ ΤΗΣ Βʹ ΕΒΔΟΜΑΔΟΣ" //full title of day
+trDA.commemoration.short = "Σάββατον τῆς Βʹ Ἑβδομάδος"
+trDA.insert1 = "" //for use in petitions and dismissal
+trDA.insert2 = "" //for use in petitions and dismissal
+trDA.note = ""
 trHO.daytitle = ""
 trHO.commemorations = ""
 trHO.description1 = ""
@@ -12,7 +12,7 @@ trHO.description2 = ""
 trHO.note1 = ""
 trHO.note2 = ""
 trVL.header = "Προηγιασμένη Λειτουργία τῇ Παρασκευῇ τῆς Βʹ Ἑβδομάδος" //for pdf headers of presanctified and vesperal liturgies
-trDismissal = ""
+trDA.dismissal = ""
 
 trVE.AposIdiomelon1.mode = misc_gr_GR_cog.Mode4
 trVE.AposIdiomelon1.melody = ""

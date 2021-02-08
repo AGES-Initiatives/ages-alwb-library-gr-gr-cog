@@ -1,14 +1,15 @@
 A_Resource_Whose_Name = me.m06.d14_gr_GR_cog
 
-meDate.text = "Τῌ ΙΔʹ ΙΟΥΝΙΟΥ"
-meCommemoration.text = "Μνήμη τοῦ Ἁγίου Προφήτου Ἐλισαίου, καὶ τοῦ ἐν Ἁγίοις Πατρὸς ἡμῶν Μεθοδίου, Ἀρχιεπισκόπου Κωνσταντινουπόλεως τοῦ Ὁμολογητοῦ" // full title of day
-meCommemoration2.text = "Μνήμη τοῦ ἐν Ἁγίοις Πατρὸς ἡμῶν Μεθοδίου, Ἀρχιεπισκόπου Κωνσταντινουπόλεως τοῦ Ὁμολογητοῦ" // full title of day
-meShortCommemoration1.text = "Μνήμη τοῦ Ἁγίου Προφήτου Ἐλισαίου"
-meCom1.title = ""
-meCom2.title = ""
-meInsert1 = "καὶ τοῦ ἁγίου ἐνδόξου Προφήτου Ἐλισαίου, καὶ τοῦ ἐν Ἁγίοις Πατρὸς ἡμῶν Μεθοδίου, Ἀρχιεπισκόπου Κωνσταντινουπόλεως," // for use in petitions and dismissal
-meInsert2 = "ὧν καὶ τὴν μνήμην ἐπιτελοῦμεν· " // for use in petitions and dismissal
-meNote.text = ""
+meDA.date = "Τῌ ΙΔʹ ΙΟΥΝΙΟΥ"
+meDA.commemoration.full = "Μνήμη τοῦ Ἁγίου Προφήτου Ἐλισαίου, καὶ τοῦ ἐν Ἁγίοις Πατρὸς ἡμῶν Μεθοδίου, Ἀρχιεπισκόπου Κωνσταντινουπόλεως τοῦ Ὁμολογητοῦ" // full title of day
+meDA.commemoration.second = "Μνήμη τοῦ ἐν Ἁγίοις Πατρὸς ἡμῶν Μεθοδίου, Ἀρχιεπισκόπου Κωνσταντινουπόλεως τοῦ Ὁμολογητοῦ" // full title of day
+meDA.commemoration.first = "Μνήμη τοῦ Ἁγίου Προφήτου Ἐλισαίου"
+meDA.commemoration.first_short = "Μνήμη τοῦ Ἁγίου Προφήτου Ἐλισαίου"
+meDA.commemoration.first_title = ""
+meDA.commemoration.second_title = ""
+meDA.insert1 = "καὶ τοῦ ἁγίου ἐνδόξου Προφήτου Ἐλισαίου, καὶ τοῦ ἐν Ἁγίοις Πατρὸς ἡμῶν Μεθοδίου, Ἀρχιεπισκόπου Κωνσταντινουπόλεως," // for use in petitions and dismissal
+meDA.insert2 = "ὧν καὶ τὴν μνήμην ἐπιτελοῦμεν· " // for use in petitions and dismissal
+meDA.note = ""
 meLE.commemoration1 = "Τοῦ Ἁγίου Προφήτου Ἐλισσαίου."
 meLE.commemoration2 = "Τοῦ ἐν Ἁγίοις Πατρὸς ἡμῶν Μεθοδίου, Ἀρχιεπισκόπου Κωνσταντινουπόλεως."
 meHO.number = ""
@@ -16,7 +17,7 @@ meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
-meDismissal = ""
+meDA.dismissal = ""
 
 meVE.Stichera01.mode = misc_gr_GR_cog.Mode8
 meVE.Stichera01.melody = he.a.m8_gr_GR_cog.OTouParadoxou.incipit

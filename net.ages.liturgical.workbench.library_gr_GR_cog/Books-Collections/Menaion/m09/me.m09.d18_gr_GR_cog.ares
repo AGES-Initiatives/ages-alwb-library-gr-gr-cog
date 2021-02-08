@@ -1,13 +1,14 @@
 A_Resource_Whose_Name = me.m09.d18_gr_GR_cog
 
-meDate.text = "Τῌ ΙΗʹ ΣΕΠΤΕΜΒΡΙΟΥ"
-meCommemoration.text = "Μνήμη τοῦ Ὁσίου Πατρὸς ἡμῶν Εὐμενίου, Ἐπισκόπου Γορτύνης, τοῦ θαυματουργοῦ" //full title of day
-meShortCommemoration1.text = "Μνήμη τοῦ Ὁσίου Εὐμενίου Γορτύνης"
-meCom1.title = ""
-meCom2.title = ""
-meInsert1 = "" //for use in petitions and dismissal
-meInsert2 = "" //for use in petitions and dismissal
-meNote.text = ""
+meDA.date = "Τῌ ΙΗʹ ΣΕΠΤΕΜΒΡΙΟΥ"
+meDA.commemoration.full = "Μνήμη τοῦ Ὁσίου Πατρὸς ἡμῶν Εὐμενίου, Ἐπισκόπου Γορτύνης, τοῦ θαυματουργοῦ" //full title of day
+meDA.commemoration.first = "Μνήμη τοῦ Ὁσίου Εὐμενίου Γορτύνης"
+meDA.commemoration.first_short = "Μνήμη τοῦ Ὁσίου Εὐμενίου Γορτύνης"
+meDA.commemoration.first_title = ""
+meDA.commemoration.second_title = ""
+meDA.insert1 = "" //for use in petitions and dismissal
+meDA.insert2 = "" //for use in petitions and dismissal
+meDA.note = ""
 meLE.commemoration1 = "Μνήμη τοῦ Ὁσίου Πατρὸς ἡμῶν Εὐμενίου, Ἐπισκόπου Γορτύνης, τοῦ θαυματουργοῦ."
 meLE.commemoration2 = ""
 meHO.number = ""

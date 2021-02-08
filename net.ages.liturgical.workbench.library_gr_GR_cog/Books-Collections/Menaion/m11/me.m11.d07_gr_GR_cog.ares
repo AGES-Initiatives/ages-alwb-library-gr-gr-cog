@@ -1,13 +1,14 @@
 A_Resource_Whose_Name = me.m11.d07_gr_GR_cog
 
-meDate.text = "Τῌ Ζʹ ΝΟΕΜΒΡΙΟΥ"
-meCommemoration.text = "Μνήμη τῶν Ἁγίων Τριάκοντα Τριῶν Μαρτύρων, τῶν ἐν Μελιτηνῇ, καὶ Μνήμη τοῦ Ὁσίου Πατρὸς ἡμῶν καὶ Θαυματουργοῦ Λαζάρου, τοῦ ἐν τῷ Γαλησίῳ Ὄρει Ἀσκήσαντος." // full title of day
-meShortCommemoration1.text = "Μνήμη τοῦ Ὁσίου Πατρὸς ἡμῶν καὶ Θαυματουργοῦ Λαζάρου, τοῦ ἐν τῷ Γαλησίῳ Ὄρει Ἀσκήσαντος"
-meCom1.title = ""
-meCom2.title = ""
-meInsert1 = "τοῦ Ὁσίου Πατρὸς ἡμῶν καὶ θαυματουργοῦ Λαζάρου," // for use in petitions and dismissal
-meInsert2 = "οὗ καὶ τὴν μνήμην ἐπιτελοῦμεν· " // for use in petitions and dismissal
-meNote.text = ""
+meDA.date = "Τῌ Ζʹ ΝΟΕΜΒΡΙΟΥ"
+meDA.commemoration.full = "Μνήμη τῶν Ἁγίων Τριάκοντα Τριῶν Μαρτύρων, τῶν ἐν Μελιτηνῇ, καὶ Μνήμη τοῦ Ὁσίου Πατρὸς ἡμῶν καὶ Θαυματουργοῦ Λαζάρου, τοῦ ἐν τῷ Γαλησίῳ Ὄρει Ἀσκήσαντος." // full title of day
+meDA.commemoration.first = "Μνήμη τοῦ Ὁσίου Πατρὸς ἡμῶν καὶ Θαυματουργοῦ Λαζάρου, τοῦ ἐν τῷ Γαλησίῳ Ὄρει Ἀσκήσαντος"
+meDA.commemoration.first_short = "Μνήμη τοῦ Ὁσίου Πατρὸς ἡμῶν καὶ Θαυματουργοῦ Λαζάρου, τοῦ ἐν τῷ Γαλησίῳ Ὄρει Ἀσκήσαντος"
+meDA.commemoration.first_title = ""
+meDA.commemoration.second_title = ""
+meDA.insert1 = "τοῦ Ὁσίου Πατρὸς ἡμῶν καὶ θαυματουργοῦ Λαζάρου," // for use in petitions and dismissal
+meDA.insert2 = "οὗ καὶ τὴν μνήμην ἐπιτελοῦμεν· " // for use in petitions and dismissal
+meDA.note = ""
 meLE.commemoration1 = "Μνήμη τῶν Ἁγίων Τριάκοντα Τριῶν Μαρτύρων, τῶν ἐν Μελιτηνῇ, καὶ Μνήμη τοῦ Ὁσίου Πατρὸς ἡμῶν καὶ Θαυματουργοῦ Λαζάρου, τοῦ ἐν τῷ Γαλησίῳ Ὄρει Ἀσκήσαντος."
 meLE.commemoration2 = ""
 meHO.number = ""
@@ -599,14 +600,14 @@ meLI.Kontakion1.text = meMA.Kontakion1.text
 
 meMegalynarion.text = ""
 
-alt1.meDate.text = "" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-alt1.meCommemoration.text = "" // full title of day
-alt1.meShortCommemoration1.text = ""
-alt1.meCom1.title = ""
-alt1.meCom2.title = ""
-alt1.meInsert1 = "" // for use in petitions and dismissal
-alt1.meInsert2 = "" // for use in petitions and dismissal
-alt1.meNote.text = ""
+alt1.meDA.date = "" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+alt1.meDA.commemoration.full = "" // full title of day
+alt1.meDA.commemoration.first_short = ""
+alt1.meDA.commemoration.first_title = ""
+alt1.meDA.commemoration.second_title = ""
+alt1.meDA.insert1 = "" // for use in petitions and dismissal
+alt1.meDA.insert2 = "" // for use in petitions and dismissal
+alt1.meDA.note = ""
 alt1.meLE.commemoration1 = ""
 alt1.meLE.commemoration2 = ""
 alt1.meHO.number = ""

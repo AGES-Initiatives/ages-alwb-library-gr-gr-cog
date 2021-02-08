@@ -1,13 +1,14 @@
 A_Resource_Whose_Name = me.m12.dAC_gr_GR_cog
 
-meDate.text = "Τῌ ΚϚʹ - ΛΑʹ ΔΕΚΕΜΒΡΙΟΥ"
-meCommemoration.text = "Κυριακὴ μετὰ τὴν Χριστοῦ Γέννησιν. Μνήμην Ἐπιτελοῦμεν τῶν Ἁγίων καὶ Δικαίων, Ἰωσὴφ τοῦ Μνήστορος, Δαυῒδ τοῦ Βασιλέως, καὶ Ἰακώβου τοῦ Ἀδελφοθέου." // full title of day
-meShortCommemoration1.text = "Μνήμη τῶν Δικαίων Ἰωσὴφ τοῦ Μνήστορος, Δαυῒδ τοῦ Βασιλέως, καὶ Ἰακώβου τοῦ Ἀδελφοθέου."
-meCom1.title = ""
-meCom2.title = ""
-meInsert1 = "καὶ τῶν ἁγίων καὶ δικαίων, Ἰωσὴφ τοῦ Μνήστορος, Δαυῒδ τοῦ Βασιλέως, καὶ Ἰακώβου τοῦ Ἀδελφοθέου," // for use in petitions and dismissal
-meInsert2 = "ὧν καὶ τὴν μνήμην ἐπιτελοῦμεν·" // for use in petitions and dismissal
-meNote.text = ""
+meDA.date = "Τῌ ΚϚʹ - ΛΑʹ ΔΕΚΕΜΒΡΙΟΥ"
+meDA.commemoration.full = "Κυριακὴ μετὰ τὴν Χριστοῦ Γέννησιν. Μνήμην Ἐπιτελοῦμεν τῶν Ἁγίων καὶ Δικαίων, Ἰωσὴφ τοῦ Μνήστορος, Δαυῒδ τοῦ Βασιλέως, καὶ Ἰακώβου τοῦ Ἀδελφοθέου." // full title of day
+meDA.commemoration.first = "Μνήμη τῶν Δικαίων Ἰωσὴφ τοῦ Μνήστορος, Δαυῒδ τοῦ Βασιλέως, καὶ Ἰακώβου τοῦ Ἀδελφοθέου."
+meDA.commemoration.first_short = "Μνήμη τῶν Δικαίων Ἰωσὴφ τοῦ Μνήστορος, Δαυῒδ τοῦ Βασιλέως, καὶ Ἰακώβου τοῦ Ἀδελφοθέου."
+meDA.commemoration.first_title = ""
+meDA.commemoration.second_title = ""
+meDA.insert1 = "καὶ τῶν ἁγίων καὶ δικαίων, Ἰωσὴφ τοῦ Μνήστορος, Δαυῒδ τοῦ Βασιλέως, καὶ Ἰακώβου τοῦ Ἀδελφοθέου," // for use in petitions and dismissal
+meDA.insert2 = "ὧν καὶ τὴν μνήμην ἐπιτελοῦμεν·" // for use in petitions and dismissal
+meDA.note = ""
 meLE.commemoration1 = "ΚΥΡΙΑΚΗ ΜΕΤΑ ΤΗΝ ΧΡΙΣΤΟΥ ΓΕΝΝΗΣΙΝ"
 meLE.commemoration2 = ""
 meHO.number = ""
@@ -15,7 +16,7 @@ meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
-meDismissal = dismissals_gr_GR_cog.dis00.christmas
+meDA.dismissal = dismissals_gr_GR_cog.dis00.christmas
 
 meVE.Stichera01.mode = misc_gr_GR_cog.Mode1
 meVE.Stichera01.melody = he.a.m1_gr_GR_cog.TonOuranionTagmaton.incipit

@@ -1,13 +1,14 @@
 A_Resource_Whose_Name = me.m06.d11_gr_GR_cog
 
-meDate.text = "Τῌ ΙΑʹ ΙΟΥΝΙΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "Μνήμη τῶν Ἁγίων Ἀποστόλων Βαρθολομαίου καὶ Βαρνάβα" // full title of day
-meShortCommemoration1.text = "Μνήμη τῶν Ἁγίων Ἀποστόλων Βαρθολομαίου καὶ Βαρνάβα"
-meCom1.title = "Τοῦ Ἁγ. Βαρθολομαίου."
-meCom2.title = "Τοῦ Ἁγ. Βαρνάβα."
-meInsert1 = "τῶν ἁγίων ἐνδόξων Ἀποστόλων Βαρθολομαίου καὶ Βαρνάβα," // for use in petitions and dismissal
-meInsert2 = "ὧν καὶ τὴν μνήμην ἐπιτελοῦμεν·" // for use in petitions and dismissal
-meNote.text = ""
+meDA.date = "Τῌ ΙΑʹ ΙΟΥΝΙΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+meDA.commemoration.full = "Μνήμη τῶν Ἁγίων Ἀποστόλων Βαρθολομαίου καὶ Βαρνάβα" // full title of day
+meDA.commemoration.first = "Μνήμη τῶν Ἁγίων Ἀποστόλων Βαρθολομαίου καὶ Βαρνάβα"
+meDA.commemoration.first_short = "Μνήμη τῶν Ἁγίων Ἀποστόλων Βαρθολομαίου καὶ Βαρνάβα"
+meDA.commemoration.first_title = "Τοῦ Ἁγ. Βαρθολομαίου."
+meDA.commemoration.second_title = "Τοῦ Ἁγ. Βαρνάβα."
+meDA.insert1 = "τῶν ἁγίων ἐνδόξων Ἀποστόλων Βαρθολομαίου καὶ Βαρνάβα," // for use in petitions and dismissal
+meDA.insert2 = "ὧν καὶ τὴν μνήμην ἐπιτελοῦμεν·" // for use in petitions and dismissal
+meDA.note = ""
 meLE.commemoration1 = "Τῶν Ἁγίων Ἀποστόλων Βαρθολομαίου καὶ Βαρνάβα."
 meLE.commemoration2 = ""
 meHO.number = ""
@@ -15,7 +16,7 @@ meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
-meDismissal = ""
+meDA.dismissal = ""
 
 meVE.Stichera01.mode = misc_gr_GR_cog.Mode4
 meVE.Stichera01.melody = he.a.m4_gr_GR_cog.OsGennaionEnMartysi.incipit

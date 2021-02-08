@@ -1,17 +1,17 @@
 A_Resource_Whose_Name = pe.d113_gr_GR_cog
 
-peCommemoration.text = "ΚΥΡΙΑΚΗ ΤΩΝ ΑΓΙΩΝ ΤΙΗ' ΘΕΟΦΟΡΩΝ ΠΑΤΕΡΩΝ ΤΩΝ ΕΝ ΝΙΚΑΙᾼ" //full title of day
-peShortCommemoration1.text = "Κυριακὴ τῶν Ἁγ. Πατέρων"
-peInsert1 = "τῶν τριακοσίων δέκα καὶ ὀκτὼ θεοφόρων Πατέρων, τῶν τὴν ἐν Νικαίᾳ πρώτην Οἰκουμενικὴν Σύνοδον συγκροτησάντων," //for use in petitions and dismissal
-peInsert2 = "ὧν καὶ τὴν μνήμην ἐπιτλοῦμεν·" //for use in petitions and dismissal
-peNote.text = ""
+peDA.commemoration.full = "ΚΥΡΙΑΚΗ ΤΩΝ ΑΓΙΩΝ ΤΙΗ' ΘΕΟΦΟΡΩΝ ΠΑΤΕΡΩΝ ΤΩΝ ΕΝ ΝΙΚΑΙᾼ" //full title of day
+peDA.commemoration.short = "Κυριακὴ τῶν Ἁγ. Πατέρων"
+peDA.insert1 = "τῶν τριακοσίων δέκα καὶ ὀκτὼ θεοφόρων Πατέρων, τῶν τὴν ἐν Νικαίᾳ πρώτην Οἰκουμενικὴν Σύνοδον συγκροτησάντων," //for use in petitions and dismissal
+peDA.insert2 = "ὧν καὶ τὴν μνήμην ἐπιτλοῦμεν·" //for use in petitions and dismissal
+peDA.note = ""
 peHO.daytitle = ""
 peHO.commemorations = ""
 peHO.description1 = ""
 peHO.description2 = ""
 peHO.note1 = ""
 peHO.note2 = ""
-peDismissal = dismissals_gr_GR_cog.dis00.andascension
+peDA.dismissal = dismissals_gr_GR_cog.dis00.andascension
 
 peVE.Stichera04.mode = misc_gr_GR_cog.Mode6
 peVE.Stichera04.melody = misc_gr_GR_cog.Idiomelon
@@ -265,28 +265,21 @@ peMA.Kontakion1.text = me.m07.dHF_gr_GR_cog.meMA.Kontakion1.text
 
 peMA.Oikos1.text = me.m07.dHF_gr_GR_cog.meMA.Oikos1.text
 
-peMA.Synaxarion.commemoration.text = "Τῇ αὐτῇ ἡμέρᾳ, Κυριακῇ ἑβδόμῃ ἀπὸ τοῦ Πάσχα, τὴν ἐν Νικαίᾳ πρώτην Οἰκουμενικὴν Σύνοδον ἑορτάζομεν, τῶν τριακοσίων δέκα καὶ ὀκτὼ θεοφόρων Πατέρων."
-peMA.Synaxarion.couplet1.title = titles_gr_GR_cog.Stichoi
-peMA.Synaxarion.couplet1.verse1 = "Πόλου νοητοῦ ἀστέρες σελασφόροι."
-peMA.Synaxarion.couplet1.verse2 = "Ἀκτῖσιν ὑμῶν φωτίσατέ μοι φρένας."
-peMA.Synaxarion.couplet2.title = "Κατὰ Ἀρείου"
-peMA.Synaxarion.couplet2.verse1 = "Ξένον τὸν Υἱὸν Πατρὸς οὐσίας λέγων," //d113
-peMA.Synaxarion.couplet2.verse2 = "Ἄρειος, ἤτω τῆς Θεοῦ δόξης ξένος." //d113
-peMA.Synaxarion.narration1.p01.text = "[paragraph 01]"
-peMA.Synaxarion.narration1.p02.text = "[paragraph 02]"
-peMA.Synaxarion.narration1.p03.text = "[paragraph 03]"
-peMA.Synaxarion.narration1.p04.text = "[paragraph 04]"
-peMA.Synaxarion.narration1.p05.text = "[paragraph 05]"
-peMA.Synaxarion.narration1.p06.text = "[paragraph 06]"
-peMA.Synaxarion.narration1.p07.text = "[paragraph 07]"
-peMA.Synaxarion.narration2.p01.text = "[paragraph 01]"
-peMA.Synaxarion.narration2.p02.text = "[paragraph 02]"
-peMA.Synaxarion.narration2.p03.text = "[paragraph 03]"
-peMA.Synaxarion.narration2.p04.text = "[paragraph 04]"
-peMA.Synaxarion.narration2.p05.text = "[paragraph 05]"
-peMA.Synaxarion.narration2.p06.text = "[paragraph 06]"
-peMA.Synaxarion.narration2.p07.text = "[paragraph 07]"
-peMA.Synaxarion.lastline.text = "Ταῖς τῶν ἁγίων τριακοσίων δέκα καὶ ὀκτὼ θεοφόρων Πατέρων πρεσβείαις, Χριστὲ ὁ Θεὸς ἡμῶν, ἐλέησον ἡμᾶς. Ἀμήν."
+peSY.commemoration.text = "Τῇ αὐτῇ ἡμέρᾳ, Κυριακῇ ἑβδόμῃ ἀπὸ τοῦ Πάσχα, τὴν ἐν Νικαίᾳ πρώτην Οἰκουμενικὴν Σύνοδον ἑορτάζομεν, τῶν τριακοσίων δέκα καὶ ὀκτὼ θεοφόρων Πατέρων."
+peSY.commemoration.couplet1.title = titles_gr_GR_cog.Stichoi
+peSY.commemoration.couplet1.verse1 = "Πόλου νοητοῦ ἀστέρες σελασφόροι."
+peSY.commemoration.couplet1.verse2 = "Ἀκτῖσιν ὑμῶν φωτίσατέ μοι φρένας."
+peSY.commemoration.couplet2.title = "Κατὰ Ἀρείου"
+peSY.commemoration.couplet2.verse1 = "Ξένον τὸν Υἱὸν Πατρὸς οὐσίας λέγων," //d113
+peSY.commemoration.couplet2.verse2 = "Ἄρειος, ἤτω τῆς Θεοῦ δόξης ξένος." //d113
+peSY.commemoration.narration.p01 = "[paragraph 01]"
+peSY.commemoration.narration.p02 = "[paragraph 02]"
+peSY.commemoration.narration.p03 = "[paragraph 03]"
+peSY.commemoration.narration.p04 = "[paragraph 04]"
+peSY.commemoration.narration.p05 = "[paragraph 05]"
+peSY.commemoration.narration.p06 = "[paragraph 06]"
+peSY.commemoration.narration.p07 = "[paragraph 07]"
+peSY.lastline = "Ταῖς τῶν ἁγίων τριακοσίων δέκα καὶ ὀκτὼ θεοφόρων Πατέρων πρεσβείαις, Χριστὲ ὁ Θεὸς ἡμῶν, ἐλέησον ἡμᾶς. Ἀμήν."
 
 peMA.Ode7C11.ode = misc_gr_GR_cog.Ode7
 peMA.Ode7C11.mode = misc_gr_GR_cog.Mode6

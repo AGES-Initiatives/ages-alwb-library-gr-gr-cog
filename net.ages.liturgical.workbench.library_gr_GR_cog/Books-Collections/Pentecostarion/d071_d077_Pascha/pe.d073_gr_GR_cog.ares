@@ -1,17 +1,17 @@
 A_Resource_Whose_Name = pe.d073_gr_GR_cog
 
-peCommemoration.text = "Τρίτη τῆς Διακαινησίμου" //full title of day
-peShortCommemoration1.text = "Τρίτη τῆς Διακαινησίμου"
-peInsert1 = "" //for use in petitions and dismissal
-peInsert2 = "" //for use in petitions and dismissal
-peNote.text = ""
+peDA.commemoration.full = "Τρίτη τῆς Διακαινησίμου" //full title of day
+peDA.commemoration.short = "Τρίτη τῆς Διακαινησίμου"
+peDA.insert1 = "" //for use in petitions and dismissal
+peDA.insert2 = "" //for use in petitions and dismissal
+peDA.note = ""
 peHO.daytitle = ""
 peHO.commemorations = ""
 peHO.description1 = ""
 peHO.description2 = ""
 peHO.note1 = ""
 peHO.note2 = ""
-peDismissal = dismissals_gr_GR_cog.dis00.resurrection
+peDA.dismissal = dismissals_gr_GR_cog.dis00.resurrection
 
 peVE.MM.Stichera1234as3456.text = properties_gr_GR_cog.media.key //for media with saint
 
@@ -84,19 +84,19 @@ peMA.Lauds4.text = oc.m3.d1_gr_GR_cog.ocMA.Lauds4.text
 
 peMA.MM.Lauds1234as1234.text = properties_gr_GR_cog.media.key
 
-alt1.peCommemoration.text = "Τρίτη τῆς Διακαινησίμου. Μνήμη τῶν Ἁγίων ἐνδόξων νεοφανῶν καὶ θαυματουργῶν Ὁσιομαρτυρων Ῥαφαὴλ καὶ Νικολάου, καὶ τῆς Ἁγίας Παρθενομάρτυρος Εἰρήνης, τῶν ἐν Θερμῇ τῆς Λέσβου." //full title of day
-alt1.peShortCommemoration1.text = "Μνήμη τῶν Ἁγίων Ῥαφαήλ, Νικολάου, καὶ Εἰρήνης."
+alt1.peDA.commemoration.full = "Τρίτη τῆς Διακαινησίμου. Μνήμη τῶν Ἁγίων ἐνδόξων νεοφανῶν καὶ θαυματουργῶν Ὁσιομαρτυρων Ῥαφαὴλ καὶ Νικολάου, καὶ τῆς Ἁγίας Παρθενομάρτυρος Εἰρήνης, τῶν ἐν Θερμῇ τῆς Λέσβου." //full title of day
+alt1.peDA.commemoration.short = "Μνήμη τῶν Ἁγίων Ῥαφαήλ, Νικολάου, καὶ Εἰρήνης."
 alt1.peCom1.title = "Τῶν Ἁγίων Ῥαφαήλ, Νικολάου, καὶ Εἰρήνης."
-alt1.peInsert1 = "τῶν Ἁγίων ἐνδόξων νεοφανῶν καὶ θαυματουργῶν Ὁσιομαρτυρων Ῥαφαήλ, Νικολάου, καὶ Εἰρήνης," //for use in petitions and dismissal
-alt1.peInsert2 = "ὧν καὶ τὴν μνήμην ἐπιτελοῦμεν," //for use in petitions and dismissal
-alt1.peNote.text = ""
+alt1.peDA.insert1 = "τῶν Ἁγίων ἐνδόξων νεοφανῶν καὶ θαυματουργῶν Ὁσιομαρτυρων Ῥαφαήλ, Νικολάου, καὶ Εἰρήνης," //for use in petitions and dismissal
+alt1.peDA.insert2 = "ὧν καὶ τὴν μνήμην ἐπιτελοῦμεν," //for use in petitions and dismissal
+alt1.peDA.note = ""
 alt1.peHO.daytitle = ""
 alt1.peHO.commemorations = ""
 alt1.peHO.description1 = ""
 alt1.peHO.description2 = ""
 alt1.peHO.note1 = ""
 alt1.peHO.note2 = ""
-alt1.peDismissal = dismissals_gr_GR_cog.dis00.resurrection
+alt1.peDA.dismissal = dismissals_gr_GR_cog.dis00.resurrection
 
 alt1.peVE.Stichera01.mode = misc_gr_GR_cog.Mode3
 alt1.peVE.Stichera01.melody = ""
@@ -406,17 +406,17 @@ alt1.peMA.Kontakion1.text = "Οἱ ἐμφανῶς ὑπὲρ Χριστοῦ �
 
 alt1.peMA.Oikos1.text = "Ὁμοφρόνως ὁμοῦ συνοικήσαντες, ἐν Μονῇ Καρυῶν ἱερώτατοι, καὶ ἐν ταύτῃ νομίμως ἀθλήσαντες, ὑπὸ γῆν πολλοῖς χρόνοις ἐκρύπτεσθε, ἀῤῥήτοις κρίμασι, τοῦ Ἀθλοθέτου καὶ Ζωοδότου Λόγου, Ὁσιομάρτυρες πανθαύμαστοι. Ἀλλ' ὢ τῆς θαυμαστῆς ὑμῶν ἐμφανείας, καὶ ξένης ἀποκαλύψεως, καὶ πλουσίας ὄντως χάριτος! Ἀρτίως γὰρ ἐκ γῆς τὰ λείψανα ὑμῶν ἀνεδείξατε, ὡς ἄνθη πανεύοσμα, καὶ θησαυροὺς θείους κοσμοποθήτους, μαρτυρικῆς πεπληρωμένα δωρεᾶς καὶ χάριτος, πλείστοις δὲ ἀνθρώποις, τοῖς ἐγγὺς καὶ τοῖς μακράν, ἐν ὁράσεσι καὶ ἐνυπνίοις, καὶ πρόσωπον πρὸς πρόσωπον παραδόξως ὀπτάνεσθε· οἵτινες θεωροῦντες τὴν δόξαν ὑμῶν, δόξαν ὡς Ἀθλητῶν τοῦ Χριστοῦ, χαίρουσι χαρὰν μεγάλην σφόδρα, καὶ εὐαγγελίζονται πᾶσιν, ἃ εἶδον καὶ ἤκουσαν παρ' ὑμῶν, συγκαλοῦντες πάντας πρὸς αἶνον ὑμῶν, ὑψηλῇ φωνῇ λέγοντες· Δεῦτε ἐν μιᾷ σπουδῇ καὶ φωνῇ, τοὺς ἤδη παραδόξως ἀποκαλυφθέντας ἡμῖν, ὡς ἡμῶν προστάτας, καὶ θαυματουργοὺς Ὁσιομαρτυρας πάντες τιμήσωμεν."
 
-alt1.peMA.Synaxarion.commemoration.text = "Τῇ Τρίτῃ τῆς Διακαινησίμου, μνήμην ἐπιτελοῦμεν τῶν Ἁγίων ἐνδόξων, νεοφανῶν καὶ θαυματουργῶν Ὁσιομαρτυρων Ῥαφαὴλ καὶ Νικολάου καὶ τῆς Ἁγίας Παρθενομάρτυρος Εἰρήνης καὶ τῶν σὺν αὐτοῖς μαρτυρησάντων ἐν ἔτει 1463, τῇ 9ῃ Ἀπριλίου, ἐν ᾗ συνέπεσεν ἡ παροῦσα ἡμέρα, ἐν τῇ ἀρχαίᾳ Μονῇ τῶν Καρυῶν, τῇ οὔσῃ παρὰ τῇ Θερμῇ ἐν τῇ νήσῳ Λέσβῳ, ἐν ἔτει δὲ 1959 θαυμαστῶς ἡμῖν φανερωθέντων."
-alt1.peMA.Synaxarion.couplet1.title = "Εἰς τοὺς Ἁγίους Ῥαφαὴλ καὶ Νικόλαον."
-alt1.peMA.Synaxarion.couplet1.verse1 = "Ὡς φῶς ἡμῖν ὤφθησαν Ραφαὴλ μέγα"
-alt1.peMA.Synaxarion.couplet1.verse2 = "Ὁμοῦ καὶ Νικόλαος οἱ κεκρυμμένοι."
-alt1.peMA.Synaxarion.couplet2.title = "Εἰς τὴν Ἁγίαν Εἰρήνην."
-alt1.peMA.Synaxarion.couplet2.verse1 = "Εἰρήνη ἀθλήσασα σὺν τοῖς τοκεῦσι"
-alt1.peMA.Synaxarion.couplet2.verse2 = "Ἡμῖν ἤδη ἔγνωσται θαύμασι ξένοις."
-alt1.peMA.Synaxarion.couplet3.title = "Εἰς τοὺς λοιποὺς ἀνωνύμους."
-alt1.peMA.Synaxarion.couplet3.verse1 = "Καρυῶν ἀθλήσαντες Μονῇ τῇ πάλαι"
-alt1.peMA.Synaxarion.couplet3.verse2 = "Τῆς ἄνω ἐπέβητε Μάρτυρες δόξῃς."
-alt1.peMA.Synaxarion.lastline.text = "Ταῖς τῶν σῶν Ἁγίων Μαρτύρων πρεσβείαις, Χριστὲ ὁ Θεός, καὶ πάντων σου τῶν Ἁγίων, ἐλέησον καὶ σῶσον ἡμάς. Ἀμήν."
+alt1.peSY.commemoration.text = "Τῇ Τρίτῃ τῆς Διακαινησίμου, μνήμην ἐπιτελοῦμεν τῶν Ἁγίων ἐνδόξων, νεοφανῶν καὶ θαυματουργῶν Ὁσιομαρτυρων Ῥαφαὴλ καὶ Νικολάου καὶ τῆς Ἁγίας Παρθενομάρτυρος Εἰρήνης καὶ τῶν σὺν αὐτοῖς μαρτυρησάντων ἐν ἔτει 1463, τῇ 9ῃ Ἀπριλίου, ἐν ᾗ συνέπεσεν ἡ παροῦσα ἡμέρα, ἐν τῇ ἀρχαίᾳ Μονῇ τῶν Καρυῶν, τῇ οὔσῃ παρὰ τῇ Θερμῇ ἐν τῇ νήσῳ Λέσβῳ, ἐν ἔτει δὲ 1959 θαυμαστῶς ἡμῖν φανερωθέντων."
+alt1.peSY.commemoration.couplet1.title = "Εἰς τοὺς Ἁγίους Ῥαφαὴλ καὶ Νικόλαον."
+alt1.peSY.commemoration.couplet1.verse1 = "Ὡς φῶς ἡμῖν ὤφθησαν Ραφαὴλ μέγα"
+alt1.peSY.commemoration.couplet1.verse2 = "Ὁμοῦ καὶ Νικόλαος οἱ κεκρυμμένοι."
+alt1.peSY.commemoration.couplet2.title = "Εἰς τὴν Ἁγίαν Εἰρήνην."
+alt1.peSY.commemoration.couplet2.verse1 = "Εἰρήνη ἀθλήσασα σὺν τοῖς τοκεῦσι"
+alt1.peSY.commemoration.couplet2.verse2 = "Ἡμῖν ἤδη ἔγνωσται θαύμασι ξένοις."
+alt1.peSY.commemoration.couplet3.title = "Εἰς τοὺς λοιποὺς ἀνωνύμους."
+alt1.peSY.commemoration.couplet3.verse1 = "Καρυῶν ἀθλήσαντες Μονῇ τῇ πάλαι"
+alt1.peSY.commemoration.couplet3.verse2 = "Τῆς ἄνω ἐπέβητε Μάρτυρες δόξῃς."
+alt1.peSY.lastline = "Ταῖς τῶν σῶν Ἁγίων Μαρτύρων πρεσβείαις, Χριστὲ ὁ Θεός, καὶ πάντων σου τῶν Ἁγίων, ἐλέησον καὶ σῶσον ἡμάς. Ἀμήν."
 
 alt1.peMA.Ode7C11.ode = misc_gr_GR_cog.Ode7
 alt1.peMA.Ode7C11.mode = misc_gr_GR_cog.Mode1

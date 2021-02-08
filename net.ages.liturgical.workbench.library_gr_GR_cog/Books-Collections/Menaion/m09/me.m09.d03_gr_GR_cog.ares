@@ -1,13 +1,14 @@
 A_Resource_Whose_Name = me.m09.d03_gr_GR_cog
 
-meDate.text = "Τῌ Γʹ ΣΕΠΤΕΜΒΡΙΟΥ"
-meCommemoration.text = "Μνήμη τοῦ Ἁγίου Ἱερομάρτυρος Ἀνθίμου, Ἐπισκόπου Νικομηδείας, καὶ τοῦ Ὁσίου Πατρὸς ἡμῶν Θεοκτίστου, Συνασκητοῦ τοῦ Μεγάλου Εὐθυμίου." // full title of day
-meShortCommemoration1.text = "Μνήμη τοῦ Ἁγίου Ἱερομάρτυρος Ἀνθίμου, Ἐπισκόπου Νικομηδείας."
-meCom1.title = ""
-meCom2.title = ""
-meInsert1 = "καὶ τοῦ Ἁγίου Ἱερομάρτυρος Ἀνθίμου, Ἐπισκόπου Νικομηδείας, καὶ τοῦ Ὁσίου Πατρὸς ἡμῶν Θεοκτίστου," // for use in petitions and dismissal
-meInsert2 = "ὧν καὶ τὴν μνήμην ἐπιτελοῦμεν· " // for use in petitions and dismissal
-meNote.text = ""
+meDA.date = "Τῌ Γʹ ΣΕΠΤΕΜΒΡΙΟΥ"
+meDA.commemoration.full = "Μνήμη τοῦ Ἁγίου Ἱερομάρτυρος Ἀνθίμου, Ἐπισκόπου Νικομηδείας, καὶ τοῦ Ὁσίου Πατρὸς ἡμῶν Θεοκτίστου, Συνασκητοῦ τοῦ Μεγάλου Εὐθυμίου." // full title of day
+meDA.commemoration.first = "Μνήμη τοῦ Ἁγίου Ἱερομάρτυρος Ἀνθίμου, Ἐπισκόπου Νικομηδείας."
+meDA.commemoration.first_short = "Μνήμη τοῦ Ἁγίου Ἱερομάρτυρος Ἀνθίμου, Ἐπισκόπου Νικομηδείας."
+meDA.commemoration.first_title = ""
+meDA.commemoration.second_title = ""
+meDA.insert1 = "καὶ τοῦ Ἁγίου Ἱερομάρτυρος Ἀνθίμου, Ἐπισκόπου Νικομηδείας, καὶ τοῦ Ὁσίου Πατρὸς ἡμῶν Θεοκτίστου," // for use in petitions and dismissal
+meDA.insert2 = "ὧν καὶ τὴν μνήμην ἐπιτελοῦμεν· " // for use in petitions and dismissal
+meDA.note = ""
 meLE.commemoration1 = "Μνήμη τοῦ Ἁγίου Ἱερομάρτυρος Ἀνθίμου, Ἐπισκόπου Νικομηδείας. "
 meLE.commemoration2 = "Τοῦ Ὁσίου Πατρὸς ἡμῶν Θεοκτίστου, Συνασκητοῦ τοῦ Μεγάλου Εὐθυμίου."
 meHO.number = ""
@@ -558,14 +559,14 @@ meLI.MM.CommunionHymn.text = properties_gr_GR_cog.media.key
 
 meMegalynarion.text = ""
 
-alt1.meDate.text = "Τῌ Γʹ ΣΕΠΤΕΜΒΡΙΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-alt1.meCommemoration.text = "Μνήμη τῆς Ἀνακομιδῆς τῶν τιμίων Λειψάνων τοῦ ἐν ἁγίοις πατρὸς ἡμῶν Νεκταρίου, Ἐπισκόπου Πενταπόλεως, τοῦ Θαυματουργοῦ" //full title of day
-alt1.meShortCommemoration1.text = "Ἀνακομιδὴ τῶν τιμίων Λειψάνων τοῦ Ἁγίου Νεκταρίου Πενταπόλεως"
-alt1.meCom1.title = ""
-alt1.meCom2.title = ""
-alt1.meInsert1 = "καὶ τοῦ ἐν ἁγίοις Πατρὸς ἡμῶν Νεκταρίου, Μητροπολίτου Πενταπόλεως, τοῦ Θαυματουργοῦ," //for use in petitions and dismissal
-alt1.meInsert2 = "οὗ τῶν τιμίων Λειψάνου τὴν Ἀνακομιδὴν ἑορτάζομεν," //for use in petitions and dismissal
-alt1.meNote.text = ""
+alt1.meDA.date = "Τῌ Γʹ ΣΕΠΤΕΜΒΡΙΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+alt1.meDA.commemoration.full = "Μνήμη τῆς Ἀνακομιδῆς τῶν τιμίων Λειψάνων τοῦ ἐν ἁγίοις πατρὸς ἡμῶν Νεκταρίου, Ἐπισκόπου Πενταπόλεως, τοῦ Θαυματουργοῦ" //full title of day
+alt1.meDA.commemoration.first_short = "Ἀνακομιδὴ τῶν τιμίων Λειψάνων τοῦ Ἁγίου Νεκταρίου Πενταπόλεως"
+alt1.meDA.commemoration.first_title = ""
+alt1.meDA.commemoration.second_title = ""
+alt1.meDA.insert1 = "καὶ τοῦ ἐν ἁγίοις Πατρὸς ἡμῶν Νεκταρίου, Μητροπολίτου Πενταπόλεως, τοῦ Θαυματουργοῦ," //for use in petitions and dismissal
+alt1.meDA.insert2 = "οὗ τῶν τιμίων Λειψάνου τὴν Ἀνακομιδὴν ἑορτάζομεν," //for use in petitions and dismissal
+alt1.meDA.note = ""
 alt1.meLE.commemoration1 = "Μνήμη τῆς Ἀνακομιδῆς τῶν τιμίων Λειψάνων τοῦ ἐν ἁγίοις πατρὸς ἡμῶν Νεκταρίου, Ἐπισκόπου Πενταπόλεως, τοῦ Θαυματουργοῦ"
 alt1.meLE.commemoration2 = ""
 alt1.meHO.number = ""
@@ -574,7 +575,7 @@ alt1.meHO.commemorations = ""
 alt1.meHO.note1 = ""
 alt1.meHO.note2 = ""
 
-alt1.mePoet = poets_gr_GR_cog.Gerasimou
+alt1.meDA.poet = poets_gr_GR_cog.Gerasimou
 
 alt1.meSV.Stichera1.mode = misc_gr_GR_cog.Mode6
 alt1.meSV.Stichera1.melody = he.a.m6_gr_GR_cog.AiAngelikai.incipit

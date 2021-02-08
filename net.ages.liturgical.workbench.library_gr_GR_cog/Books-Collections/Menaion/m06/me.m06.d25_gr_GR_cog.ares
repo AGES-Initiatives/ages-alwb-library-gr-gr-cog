@@ -1,14 +1,15 @@
 A_Resource_Whose_Name = me.m06.d25_gr_GR_cog
 
-meDate.text = "Τῌ ΚΕʹ ΙΟΥΝΙΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "Μνήμη τῆς Ἁγίας Ὁσιομάρτυρος Φεβρωνίας" // full title of day
-meShortCommemoration1.text = "Ἀπόδοσις τῆς Ἑορτῆς τοῦ Προδρόμου."
-meShortCommemoration2.text = "Μνήμη τῆς Ἁγίας Ὁσιομάρτυρος Φεβρωνίας"
-meCom1.title = ""
-meCom2.title = ""
-meInsert1 = "καὶ τῆς Ἁγίας Ὁσιομάρτυρος Φεβρωνίας, " // for use in petitions and dismissal
-meInsert2 = "ἧς καὶ τὴν μνήμην ἐπιτελοῦμεν· " // for use in petitions and dismissal
-meNote.text = ""
+meDA.date = "Τῌ ΚΕʹ ΙΟΥΝΙΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+meDA.commemoration.full = "Μνήμη τῆς Ἁγίας Ὁσιομάρτυρος Φεβρωνίας" // full title of day
+meDA.commemoration.first = "Ἀπόδοσις τῆς Ἑορτῆς τοῦ Προδρόμου."
+meDA.commemoration.first_short = "Ἀπόδοσις τῆς Ἑορτῆς τοῦ Προδρόμου."
+meDA.commemoration.second_short = "Μνήμη τῆς Ἁγίας Ὁσιομάρτυρος Φεβρωνίας"
+meDA.commemoration.first_title = ""
+meDA.commemoration.second_title = ""
+meDA.insert1 = "καὶ τῆς Ἁγίας Ὁσιομάρτυρος Φεβρωνίας, " // for use in petitions and dismissal
+meDA.insert2 = "ἧς καὶ τὴν μνήμην ἐπιτελοῦμεν· " // for use in petitions and dismissal
+meDA.note = ""
 meLE.commemoration1 = "Τῆς Ἁγίας Ὁσιομάρτυρος καί Πολυάθλου Φεβρωνίας."
 meLE.commemoration2 = ""
 meHO.number = ""
@@ -16,7 +17,7 @@ meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
-meDismissal = ""
+meDA.dismissal = ""
 
 meVE.Stichera01.poet = poets_gr_GR_cog.IoannouMonachou
 meVE.Stichera01.mode = misc_gr_GR_cog.Mode4

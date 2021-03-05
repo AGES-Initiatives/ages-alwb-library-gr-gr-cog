@@ -11,9 +11,9 @@ euFUN.Key0101.incipit = oc.m4.d7_gr_GR_cog.ocVE.Aposticha4.incipit
 euFUN.Key0101.text = oc.m4.d7_gr_GR_cog.ocVE.Aposticha4.text
 euFUN.Key0102.incipit = oc.m4.d7_gr_GR_cog.ocMA.Lauds4.incipit
 euFUN.Key0102.text = oc.m4.d7_gr_GR_cog.ocMA.Lauds4.text
-euFUN.Key0103.incipit = "Σὺ εἶ ὁ Θεὸς ἡμῶν,"
+euFUN.Key0103.incipit = "Σὺ εἶ ὁ Θεὸς ἡμῶν…"
 euFUN.Key0103.text = "Σὺ εἶ ὁ Θεὸς ἡμῶν, ὁ καταβὰς εἰς ᾍδην, καὶ τὰς ὀδύνας λύσας τῶν πεπεδημένων, αὐτὸς καὶ τὰς ψυχὰς τῶν δούλων σου, Σῶτερ, ἀνάπαυσον."
-euFUN.Key0104.incipit = "Ἡ μόνη ἁγνὴ καὶ ἄχραντος"
+euFUN.Key0104.incipit = "Ἡ μόνη ἁγνὴ καὶ ἄχραντος…"
 euFUN.Key0104.text = "Ἡ μόνη ἁγνὴ καὶ ἄχραντος Παρθένος, ἡ Θεὸν ἀφράστως κυήσασα, πρέσβευε ὑπὲρ τοῦ σωθῆναι τὰς ψυχὰς τῶν δούλων σου." //similar to: oc.m4.d5_gr_GR_cog.ocMA.AposTheotokion.text
 
 euFUN.Key0105.text = "Ὁ Θεὸς τῶν πνευμάτων καὶ πάσης σαρκός, ὁ τὸν θάνατον καταπατήσας, τὸν δὲ διάβολον καταργήσας, καὶ ζωὴν τῷ κόσμῳ σου δωρησάμενος, αυτός, Κύριε, ἀνάπαυσον τὴν ψυχὴν τοῦ κεκοιμημένου δούλου σου (τοῦδε) ἐν τόπῳ φωτεινῷ, ἐν τόπῳ χλοερῷ, ἐν τόπῳ ἀναψύξεως, ἔνθα ἀπέδρα ὀδύνη, λύπη καὶ στεναγμός. Πᾶν ἁμάρτημα τὸ παρ' αὐτοῦ πραχθὲν ἐν λόγῳ ἢ ἔργῳ ἢ διανοίᾳ, ὡς ἀγαθὸς καὶ φιλάνθρωπος Θεός, συγχώρησον· ὅτι οὐκ ἔστιν ἄνθρωπος, ὃς ζήσεται καὶ οὐχ ἁμαρτήσει· σὺ γὰρ μόνος ἐκτὸς ἁμαρτίας ὑπάρχεις· ἡ δικαιοσύνη σου δικαιοσύνη εἰς τὸν αἰῶνα, καὶ ὁ νόμος σου ἀλήθεια."
@@ -77,7 +77,7 @@ euFUN.Key0804.mode = misc_gr_GR_cog.Mode3
 euFUN.Key0804.incipit = oc.m3.d7_gr_GR_cog.ocVE.Aposticha4.incipit
 euFUN.Key0804.text = oc.m3.d7_gr_GR_cog.ocVE.Aposticha4.text
 euFUN.Key0805.mode = misc_gr_GR_cog.Mode4
-euFUN.Key0805.melody = he.a.m4_gr_GR_cog.EdokasSimeiosin.incipit
+euFUN.Key0805.melody = he.a.m4_gr_GR_cog.EdokasSimeiosin.name
 euFUN.Key0805.incipit = oc.m4.d7_gr_GR_cog.ocMA.Aposticha1.incipit
 euFUN.Key0805.text = oc.m4.d7_gr_GR_cog.ocMA.Aposticha1.text
 euFUN.Key0806.title = titles_gr_GR_cog.EteronEktosTypikou
@@ -91,7 +91,7 @@ euFUN.Key0808.mode = misc_gr_GR_cog.Mode6
 euFUN.Key0808.incipit = oc.m6.d7_gr_GR_cog.ocVE.Aposticha2.incipit
 euFUN.Key0808.text = oc.m6.d7_gr_GR_cog.ocVE.Aposticha2.text
 euFUN.Key0809.mode = misc_gr_GR_cog.Mode7
-euFUN.Key0809.melody = he.a.m7_gr_GR_cog.OukEtiKolyometha.incipit
+euFUN.Key0809.melody = he.a.m7_gr_GR_cog.OukEtiKolyometha.name
 euFUN.Key0809.incipit = oc.m7.d7_gr_GR_cog.ocVE.Aposticha3.incipit
 euFUN.Key0809.text = oc.m7.d7_gr_GR_cog.ocVE.Aposticha3.text
 euFUN.Key0810.title = titles_gr_GR_cog.EteronEktosTypikou
@@ -110,22 +110,22 @@ euFUN.Key0813.text = oc.m8.d7_gr_GR_cog.ocVE.AposTheotokion.text
 
 euFUN.Key0900.title = "ΟΙ ΜΑΚΑΡΙΣΜΟΙ"
 euFUN.Key0900.mode = misc_gr_GR_cog.Mode6
-euFUN.Key0900.melody = he.h.m6_gr_GR_cog.OiOsioiSouPaides.incipit
-euFUN.Key0901.incipit = ""
+euFUN.Key0900.melody = he.h.m6_gr_GR_cog.OiOsioiSouPaides.name
+euFUN.Key0901.incipit = "…"
 euFUN.Key0901.text = ""
-euFUN.Key0902.incipit = ""
+euFUN.Key0902.incipit = "…"
 euFUN.Key0902.text = ""
-euFUN.Key0903.incipit = ""
+euFUN.Key0903.incipit = "…"
 euFUN.Key0903.text = ""
-euFUN.Key0904.incipit = ""
+euFUN.Key0904.incipit = "…"
 euFUN.Key0904.text = ""
-euFUN.Key0905.incipit = ""
+euFUN.Key0905.incipit = "…"
 euFUN.Key0905.text = ""
-euFUN.Key0906.incipit = ""
+euFUN.Key0906.incipit = "…"
 euFUN.Key0906.text = ""
-euFUN.Key0907.incipit = ""
+euFUN.Key0907.incipit = "…"
 euFUN.Key0907.text = ""
-euFUN.Key0908.incipit = ""
+euFUN.Key0908.incipit = "…"
 euFUN.Key0908.text = ""
 
 euFUN.EpistleProkeimenon.text = "Μακαρία ἡ ὁδός, ᾗ πορεύει σήμερον, ὅτι ἡτοιμάσθη σοι τόπος ἀναπαύσεως."
@@ -139,27 +139,27 @@ euFUN.Key1003.title = ""
 euFUN.Key1003.text = ""
 
 euFUN.Key1101.mode = misc_gr_GR_cog.Mode2
-euFUN.Key1101.melody = he.a.m2_gr_GR_cog.OteEkTouXylou.incipit
-euFUN.Key1101.incipit = "Δεῦτε τελευταῖον ἀσπασμόν, δῶμεν ἀδελφοὶ"
+euFUN.Key1101.melody = he.a.m2_gr_GR_cog.OteEkTouXylou.name
+euFUN.Key1101.incipit = "Δεῦτε τελευταῖον ἀσπασμόν, δῶμεν ἀδελφοὶ…"
 euFUN.Key1101.text = "Δεῦτε τελευταῖον ἀσπασμόν, δῶμεν ἀδελφοὶ τῷ θανόντι (τῇ θανούσῃ), εὐχαριστοῦντες Θεῷ· οὗτος (αὗτη) γὰρ ἐξέλιπε τῆς συγγενείας αὐτοῦ (αὐτῆς), καὶ πρὸς τάφον ἐπείγεται, οὐκ ἔτι φροντίζων (φροντίζουσα), τὰ τῆς ματαιότητος καὶ πολυμόχθου σαρκός. Ποῦ νῦν συγγενεῖς τε καὶ φίλοι; Ἄρτι χωριζόμεθα ὅνπερ (ἥνπερ), ἀναπαῦσαι Κύριος εὐξώμεθα."
 
 euFUN.Key1102.mode = misc_gr_GR_cog.Mode2
-euFUN.Key1102.melody = he.a.m2_gr_GR_cog.OteEkTouXylou.incipit
-euFUN.Key1102.incipit = "Ποῖος χωρισμός, ὦ ἀδελφοί, ποῖος"
+euFUN.Key1102.melody = he.a.m2_gr_GR_cog.OteEkTouXylou.name
+euFUN.Key1102.incipit = "Ποῖος χωρισμός, ὦ ἀδελφοί, ποῖος…"
 euFUN.Key1102.text = "Ποῖος χωρισμός, ὦ ἀδελφοί, ποῖος κοπετός, ποῖος θρῆνος, ἐν τῇ παρούσῃ ῥοπῇ! Δεῦτε οὖν ἀσπάσασθε τὸν (τήν) πρὸ μικροῦ μεθ' ἡμῶν· παραδίδοται τάφῳ γάρ, καλύπτεται λίθῳ, σκότει κατοικίζεται, νεκροῖς συνθάπτεται· πάντες συγγενεῖς τε καὶ φίλοι, ἄρτι χωριζόμεθα ὅνπερ (ἥνπερ), ἀναπαῦσαι Κύριος εὐξώμεθα."
 
 euFUN.Key1103.mode = misc_gr_GR_cog.Mode2
-euFUN.Key1103.melody = he.a.m2_gr_GR_cog.OteEkTouXylou.incipit
-euFUN.Key1103.incipit = "Σῷζε τοὺς ἐλπίζοντας εἰς σέ,"
+euFUN.Key1103.melody = he.a.m2_gr_GR_cog.OteEkTouXylou.name
+euFUN.Key1103.incipit = "Σῷζε τοὺς ἐλπίζοντας εἰς σέ…"
 euFUN.Key1103.text = "Σῷζε τοὺς ἐλπίζοντας εἰς σέ, Μήτηρ τοῦ ἀδύτου Ἡλίου, Θεογεννήτρια, αἴτησαι πρεσβείαις σου τὸν Ὑπεράγαθον, ἀναπαῦσαι δεόμεθα, τὸν νῦν μεταστάντα (τὴν νῦν μεταστᾶσαν), ἔνθα ἀναπαύονται αἱ τῶν δικαίων ψυχαί, θείων ἀγαθῶν κληρονόμον, δεῖξον ἐν αὐλαῖς τῶν δικαίων εἰς μνημόσυνον, Πανάμωμε, αἰώνιον."
 
 euFUN.Key1104.mode = misc_gr_GR_cog.Mode6
 euFUN.Key1104.melody = misc_gr_GR_cog.Idiomelon
-euFUN.Key1104.incipit = ""
+euFUN.Key1104.incipit = "…"
 euFUN.Key1104.text = ""
 
 euFUN.Key1105.mode = misc_gr_GR_cog.Mode6
-euFUN.Key1105.melody = he.a.m6_gr_GR_cog.TriimerosAnestis.incipit
+euFUN.Key1105.melody = he.a.m6_gr_GR_cog.TriimerosAnestis.name
 euFUN.Key1105.incipit = oc.m6.d7_gr_GR_cog.ocVE.AposTheotokion.incipit
 euFUN.Key1105.text = oc.m6.d7_gr_GR_cog.ocVE.AposTheotokion.text
 
@@ -193,26 +193,26 @@ euFUN.Key2000.text = "Νήπιον λέγεται ὁ παῖς, ὁ ἔχων
 
 euFUN.Key2100.title = "ΕΝ Τῼ ΟΙΚῼ"
 euFUN.Key2101.text = "Ἐπὶ βρεφῶν μὲν δὲν γίνεται μνημόνευσις, μόνον·"
-euFUN.Key2102.text = "Ὁ φυλάσσων τὰ νήπια..."
-euFUN.Key2103.text = "Ὅτι σοῦ μόνου ἐστὶν ἡ βασιλεία τῶν οὐρανῶν..."
+euFUN.Key2102.text = "Ὁ φυλάσσων τὰ νήπια…"
+euFUN.Key2103.text = "Ὅτι σοῦ μόνου ἐστὶν ἡ βασιλεία τῶν οὐρανῶν…"
 euFUN.Key2104.text = "Ἐπὶ μεγαλυτέρας δὲ ἡλικίας·"
 euFUN.Key2105.text = "Καὶ ἡ Ἀπόλυσις τῆς Νεκρωσίμου Ἀκολουθίας."
-euFUN.Key2106.text = "Καθ' ὁδὸν μέχρι τοῦ Ναοῦ ψάλλεται ἀργῶς τὸ \"Ἅγιος ὁ Θεός...\" (γʹ)."
+euFUN.Key2106.text = "Καθ' ὁδὸν μέχρι τοῦ Ναοῦ ψάλλεται ἀργῶς τὸ \"Ἅγιος ὁ Θεός…\" (γʹ)."
 
 euFUN.Key2200.title = "ΕΝ Τῼ ΝΑῼ"
 euFUN.Key2201.text = "Ἐπὶ μεγαλυτέρας δὲ ἡλικίας·"
-euFUN.Key2202.text = "Εἰς τὸν ἀσπασμὸν τῶν νηπίων ψάλλονται τὰ ἀκόλουθα προσόμοια ἀντὶ τοῦ \"Δεῦτε τελευταῖον...\""
+euFUN.Key2202.text = "Εἰς τὸν ἀσπασμὸν τῶν νηπίων ψάλλονται τὰ ἀκόλουθα προσόμοια ἀντὶ τοῦ \"Δεῦτε τελευταῖον…\""
 euFUN.Key2203.mode = misc_gr_GR_cog.Mode8
-euFUN.Key2203.melody = he.a.m8_gr_GR_cog.OTouParadoxou.incipit
-euFUN.Key2203.incipit = ""
+euFUN.Key2203.melody = he.a.m8_gr_GR_cog.OTouParadoxou.name
+euFUN.Key2203.incipit = "…"
 euFUN.Key2203.text = ""
 euFUN.Key2204.mode = misc_gr_GR_cog.Mode8
-euFUN.Key2204.melody = he.a.m8_gr_GR_cog.OTouParadoxou.incipit
-euFUN.Key2204.incipit = ""
+euFUN.Key2204.melody = he.a.m8_gr_GR_cog.OTouParadoxou.name
+euFUN.Key2204.incipit = "…"
 euFUN.Key2204.text = ""
 
 euFUN.Key2300.title = "ΕΠΙ ΤΟΥ ΤΑΦΟΥ"
 euFUN.Key2301.text = "Ἀναγινώσκεται τὸ Νεκρώσιμον Τρισάγιον, ὡς ἐν τῷ οἶκῳ."
 
 euFUN.Key3000.title = "ΑΚΟΛΟΥΘΙΑ ΝΕΚΡΩΣΙΜΟΣ ΕΙΣ ΝΗΠΙΑ ΚΑΤΑ ΤΗΝ ΔΙΑΚΑΙΝΗΣΙΜΟΝ ΕΒΔΟΜΑΔΑ"
-euFUN.Key3001.text = "Αὕτη εἶναι ὁμοία..."
+euFUN.Key3001.text = "Αὕτη εἶναι ὁμοία…"

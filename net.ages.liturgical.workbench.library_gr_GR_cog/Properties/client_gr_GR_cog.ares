@@ -18,9 +18,9 @@ cl.bishop1.name_c = "(τοῦ δεῖνος)," //comma
 cl.bishop1.name_p = "(τοῦ δεῖνος)." //period
 cl.bishop1.fimi.text = "(Ἡ φήμη τοῦ Ἀρχιερέως.)"
 
-cl.bishop2.rank = "καὶ " // for double commemoration or guest
-cl.bishop2.name_c = "καὶ "
-cl.bishop2.name_p = "καὶ "
+cl.bishop2.rank = "καὶ" // for double commemoration or guest
+cl.bishop2.name_c = "καὶ"
+cl.bishop2.name_p = "καὶ"
 cl.bishop2.fimi.text = ""
 
 //Set these options here to effect client generation
@@ -112,15 +112,15 @@ cl.eu.lichrysbasil.R014 = "(Τὸ Κοινονικὸν ἀλλάσσει κα�
 cl.eu.presanctified.R001 = "(Go to the insert for today's appointed hymns and readings.)"
 cl.eu.presanctified.R002 = "(Go back to the Presanctified Liturgy booklet.)"
 cl.eu.presanctified.R003 = "(During the first three weeks of Lent, the following litany and the Prayer for those Preparing for Illumination are omitted.)"
-cl.eu.presanctified.R004 = "(Go back to the Presanctified Liturgy booklet. After \"Let my prayer...\" find the Epistle and Gospel readings here.)"
-cl.eu.presanctified.R005 = "(Go back to the Presanctified Liturgy booklet. After \"Let my prayer...\" find the Gospel reading here.)"
+cl.eu.presanctified.R004 = "(Go back to the Presanctified Liturgy booklet. After \"Let my prayer…\" find the Epistle and Gospel readings here.)"
+cl.eu.presanctified.R005 = "(Go back to the Presanctified Liturgy booklet. After \"Let my prayer…\" find the Gospel reading here.)"
 cl.eu.presanctified.R006 = "(If there is to be an Epistle and/or Gospel reading, find them in the insert, then come back to this place in the service.)"
 
-cl.ho.s06.R001 = "Ἂν θὰ γίνει ἀμέσσως ἡ Θʹ Ὥρα, παραλείπεται ἡ ἀπόλυσις τῆς Ϛʹ, καὶ ἄρχεται ἡ Θʹ εὐθὺς μὲ τὸ \"Ἅγιος ὁ Θεός...\" χωρὶς τὸ \"Εὐλογητός... Βασιλεῦ οὐράνιε...\""
+cl.ho.s06.R001 = "Ἂν θὰ γίνει ἀμέσσως ἡ Θʹ Ὥρα, παραλείπεται ἡ ἀπόλυσις τῆς Ϛʹ, καὶ ἄρχεται ἡ Θʹ εὐθὺς μὲ τὸ \"Ἅγιος ὁ Θεός…\" χωρὶς τὸ \"Εὐλογητός… Βασιλεῦ οὐράνιε…\""
 
-cl.ho.s09.R001 = "Ἂν προηγήθηκε ἡ Ϛʹ Ὥρα, ἄρχεται ἡ Θʹ Ὥρα χωρὶς τὸ \"Εὐλογητός... Βασιλεῦ οὐράνιε...\""
+cl.ho.s09.R001 = "Ἂν προηγήθηκε ἡ Ϛʹ Ὥρα, ἄρχεται ἡ Θʹ Ὥρα χωρὶς τὸ \"Εὐλογητός… Βασιλεῦ οὐράνιε…\""
 
-cl.ho.s10.R001 = "Ἂν προηγήθηκε ἡ Θʹ Ὥρα, ἄρχεται ὁ Ἑσπερινὸς χωρὶς τὸ \"Εὐλογητός...\""
+cl.ho.s10.R001 = "Ἂν προηγήθηκε ἡ Θʹ Ὥρα, ἄρχεται ὁ Ἑσπερινὸς χωρὶς τὸ \"Εὐλογητός…\""
 cl.ho.s10.R002 = "Μετὰ τὰ εἰρηνικὰ καὶ τὴν ἐκφώνησιν ἀναγινώσκεται τὸ ἐνδιάτακτον κάθισμα τοῦ Ψαλητρίου. Ἐν ταῖς ἐνορίαις σήμερον συνήθως δὲν γίνεται στιχολογία τοῦ Ψαλτηρίου εἰμὴ μόνον εἰς πανηγυρικοὺς Ἑσπερινοὺς καὶ εἰς τοὺς μετὰ Προηγιασμένης τοιούτους. Ὑπὸ πολλῶν ἐπίσης τηρεῖται ἡ τάξις τῆς στιχολογίας τοῦ αʹ καθίσματος τῷ Σαββάτῳ ἑσπέρας."
 cl.ho.s10.R003 = "Παρατίθεται εἰς ξεχωριστὰς σελίδας πρὸς χρῆσιν τῶν βουλομένων."
 
@@ -133,7 +133,7 @@ cl.hw.synaxarion.rubric = ""
 cl.LI.R001 = "Ἤ, ἀντὶ τῶν Ἀντιφώνων, κατὰ τὸ τυπικόν, ψάλλονται τὰ Τυπικὰ καὶ οἱ Μακαρισμοί."
 cl.LI.R002 = ""
 
-cl.me.m01.d06.R001 = "Ὁ βʹ Χορὸς ψάλλει τὸ Ἰδιόμελον· \"Σήμερον ὁ Χριστὸς...\", μέχρι τοῦ· \"ἡμεῖς δὲ οἱ φωτισθέντες βοῶμεν·\" Καὶ εὐθὺς ὁ αʹ Χορὸς ἄρχεται τῆς Μεγάλης Δοξολογίας ἀπὸ τοῦ τελευταίου στίχου τοῦ Ἰδιομέλου· \"Δόξα τῷ φανέντι Θεῷ...\""
+cl.me.m01.d06.R001 = "Ὁ βʹ Χορὸς ψάλλει τὸ Ἰδιόμελον· \"Σήμερον ὁ Χριστὸς…\", μέχρι τοῦ· \"ἡμεῖς δὲ οἱ φωτισθέντες βοῶμεν·\" Καὶ εὐθὺς ὁ αʹ Χορὸς ἄρχεται τῆς Μεγάλης Δοξολογίας ἀπὸ τοῦ τελευταίου στίχου τοῦ Ἰδιομέλου· \"Δόξα τῷ φανέντι Θεῷ…\""
 cl.me.m02.d02.R001 = "Ἐὰν θὰ ψαλεῖ μόνον ἡ θʹ ᾠδὴ τῆς ἑορτῆς μετὰ τῶν μεγαλυναρίων, δὲν στιχολογοῦμεν τὴν Τιμιωτέραν καὶ δὲν ψάλλεται ἡ θʹ τοῦ Ἀναστασίμου κανόνος. Ἐὰν ὅμως τηρηθῇ ἡ ὀρθὴ τάξις, θὰ ψαλοῦν μόνον ὅσα μεγαλυνάρια ἀπαιτεῖ ὁ ἀριθμὸς τῶν τροπαρίων τῆς ἑορτῆς."
 cl.me.m02.d10.R001 = "Ὅταν τῷ Σαββάτῳ τῶν Ψυχῶν τύχῃ τῇ 10ῃ Φεβρουαρίου, ἡ μνήμη τοῦ Ἁγίου Χαραλάμπους προψάλλεται τῇ Παρασκευῇ 9ῃ Φεβ. μετὰ τῆς ἀποδόσωες τῆς Ὑαπαπαντῆς."
 
@@ -159,12 +159,12 @@ cl.me.m11.d09.R001 = "The full canons in English are unavailable at this time. T
 cl.me.m11.d14.R001 = "The rubrics for this day say to sing the Kathismata of the Mode and day of the week from the Parakletike (Octoechos). Since most parishes are not familiar with these hymns, and since they change from year to year, we have not included them here."
 cl.me.m11.d14.R002 = "The rubrics for this day say to sing the Heirmoi of Odes 3, 6, 8, and 9 of the Canon of the Menaion. Most parishes would not be familiar with this, so we have inserted Katavasias instead."
 
-cl.me.m12.d25.R001 = "Ὁ βʹ Χορὸς ψάλλει τὸ Ἰδιόμελον· \"Σήμερον ὁ Χριστὸς...\", μέχρι τοῦ· \"ἡμεῖς δὲ ἀκαταπαύστως βοῶμεν.\" Καὶ εὐθὺς ὁ αʹ Χορὸς ἄρχεται τῆς Μεγάλης Δοξολογίας ἀπὸ τοῦ τελευταίου στίχου τοῦ Ἰδιομέλου· \"Δόξα ἐν ὑψίστοις Θεῷ...\""
+cl.me.m12.d25.R001 = "Ὁ βʹ Χορὸς ψάλλει τὸ Ἰδιόμελον· \"Σήμερον ὁ Χριστὸς…\", μέχρι τοῦ· \"ἡμεῖς δὲ ἀκαταπαύστως βοῶμεν.\" Καὶ εὐθὺς ὁ αʹ Χορὸς ἄρχεται τῆς Μεγάλης Δοξολογίας ἀπὸ τοῦ τελευταίου στίχου τοῦ Ἰδιομέλου· \"Δόξα ἐν ὑψίστοις Θεῷ…\""
 
 cl.pe.d072.R001 = "Τὸ Τυπκικὸν τῆς Μεγάλης Ἐκκλησίας παραλείπει τὰ ἀναγνώσματα τοῦ ἁγίου καὶ ὁρίζει μόνον τὸ Εὐαγγέλιον."
 cl.pe.d078.R001 = "Κατὰ τὸ Παρτριαρχικὸν Ἡμερολόγιον:"
 cl.pe.d078.R002 = "Σύμφωνα μέ τὴν κρατοῦσαν συνήθειαν:"
-cl.pe.d110.R001 = "Κατὰ τὸ ΤΜΕ, τὰ τροπάρια ἄνευ τοῦ στίχου, \"Δόξα σοι, ὁ Θεὸς ἡμῶν...\"."
+cl.pe.d110.R001 = "Κατὰ τὸ ΤΜΕ, τὰ τροπάρια ἄνευ τοῦ στίχου, \"Δόξα σοι, ὁ Θεὸς ἡμῶν…\"."
 cl.pe.d119.R001 = "The Patriarchal Typikon indicates, as usual, that the entire canon be sung. Typically in parishes only the Katavasias are used. This day does not present festal Katavasias, but rather the Heirmoi of the canon are used, which thematically have nothing to do with the Saturday of the Souls. I have therefore included Ode ix in its entirety, edited for the enrichment and edification of both chanters and listeners. Since Saturday of the Souls is not a great feast, Ode ix is, as usual, preceded by the Magnificat."
 
 //Service Books

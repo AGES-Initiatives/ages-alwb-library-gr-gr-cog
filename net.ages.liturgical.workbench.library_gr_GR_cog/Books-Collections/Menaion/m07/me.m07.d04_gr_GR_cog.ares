@@ -4,7 +4,7 @@ meDA.date = "Τῌ Δʹ ΙΟΥΛΙΟΥ"
 meDA.commemoration.full = "Μνήμη τοῦ ἐν Ἁγίοις Πατρὸς ἡμῶν Ἀνδρέου Κρήτης, τοῦ Ἱεροσολυμίτου." // full title of day
 meDA.commemoration.first = "Μνήμη τοῦ Ἁγίου Ἀνδρέου Κρήτης"
 meDA.commemoration.first_short = "Μνήμη τοῦ Ἁγίου Ἀνδρέου Κρήτης"
-meDA.commemoration.first_title = ""
+meDA.commemoration.first_title = "Τοῦ Ἁγίου."
 meDA.commemoration.second_title = ""
 meDA.insert1 = "καὶ τοῦ ἐν Ἁγίοις Πατρὸς ἡμῶν Ἀνδρέου Κρήτης, τοῦ Ἱεροσολυμίτο," // for use in petitions and dismissal
 meDA.insert2 = "ὧν καὶ τὴν μνήμην ἐπιτελοῦμεν·" // for use in petitions and dismissal
@@ -55,13 +55,13 @@ meVE.Apolytikion2.text = "Τοῦ Δαβὶδ τὴν κινύραν Πάτε�
 meMA.C1.poet = poets_gr_GR_cog.Theofanous
 meMA.C1.acrostic = "οὗ ἡ Ἀκροστιχίς· Ὕμνοις κροτῶμεν ἀνδρικοῖς τὸν Ἀνδρέαν."
 
-meMA.C1.title = ""
-meMA.C1.verse = ""
+meMA.C1.title = titles_gr_GR_cog.KanonTouAgiou
+meMA.C1.verse = prayers_gr_GR_cog.verse_SaintM.text
 
 meMA.Ode1C11.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C11.mode = misc_gr_GR_cog.Mode5
 meMA.Ode1C11.melody = he.h.m5_gr_GR_cog.IpponKaiAnavatin.name
-meMA.Ode1C11.incipit = "Ὕπνον ἀπὸ βλεφάρων, ἐκτιναξάμενος, σεαυτὸν…"
+meMA.Ode1C11.incipit = "Ὕπνον ἀπὸ βλεφάρων…"
 meMA.Ode1C11.text = "Ὕπνον ἀπὸ βλεφάρων, ἐκτιναξάμενος, σεαυτὸν τῷ Δεσπότῃ, δι' ἀρετῆς ἡτοίμασας, φαιδρὸν καταγώγιον, θεοφάντορ, Ὅσιε· ὅθεν ὤφθης Θεοῦ ἐνδιαίτημα."
 
 meMA.Ode1C12.ode = misc_gr_GR_cog.Ode1

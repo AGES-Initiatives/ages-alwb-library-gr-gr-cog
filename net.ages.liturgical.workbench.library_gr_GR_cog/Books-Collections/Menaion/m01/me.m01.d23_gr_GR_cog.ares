@@ -2,8 +2,8 @@ A_Resource_Whose_Name = me.m01.d23_gr_GR_cog
 
 meDA.date = "Τῌ ΚΓʹ ΙΑΝΟΥΑΡΙΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
 meDA.commemoration.full = "Μνήμη τοῦ Ἁγίου Ἱερομάρτυρος Κλήμεντος Ἀγκύρας, καὶ τοῦ Ἁγίου Μάρτυρος Ἀγαθαγγέλου" //full title of day
-meDA.commemoration.first = "Μνήμη τοῦ Ἁγίου Ἱερομάρτυρος Κλήμεντος Ἀγκύρας, καὶ τοῦ Ἁγίου Μάρτυρος Ἀγαθαγγέλου"
-meDA.commemoration.first_short = "Μνήμη τοῦ Ἁγίου Ἱερομάρτυρος Κλήμεντος Ἀγκύρας, καὶ τοῦ Ἁγίου Μάρτυρος Ἀγαθαγγέλου"
+meDA.commemoration.first = "Μνήμη τοῦ Ἁγίου Ἱερομάρτυρος Κλήμεντος Ἀγκύρας"
+meDA.commemoration.first_short = "Μνήμη τοῦ Ἁγίου Κλήμεντος"
 meDA.commemoration.first_title = "Τοῦ Ἁγ. Κλήμεντος."
 meDA.commemoration.second_title = "Τοῦ Ἁγ. Ἀγαθαγγέλου."
 meDA.insert1 = "καὶ τοῦ Ἁγίου ἐνδόξου Ἱερομάρτυρος Κλήμεντος Ἀγκύρας," //for use in petitions and dismissal
@@ -88,8 +88,8 @@ meMA.C1.acrostic = "οὗ ἡ Ἀκροστιχίς· Μέλπω τὸ κλῆ
 
 meMA.C2.acrostic = "οὗ ἡ Ἀκροστιχίς· Τὴν σὴν ἀνυμνῶ Παμμάκαρ χαίρων χάριν. Ἰωσήφ."
 
-meMA.C1.title = ""
-meMA.C1.verse = ""
+meMA.C1.title = "Κανὼν τοῦ Ἁγ. Κλήμεντος."
+meMA.C1.verse = prayers_gr_GR_cog.verse_SaintM.text
 
 meMA.Ode1C11.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C11.mode = misc_gr_GR_cog.Mode6
@@ -115,8 +115,8 @@ meMA.Ode1C1T.melody = he.h.m6_gr_GR_cog.OsEnIpeiroPezefsas.name
 meMA.Ode1C1T.incipit = "Πεποικιλμένη τῷ κάλλει τῶν ἀρετῶν…"
 meMA.Ode1C1T.text = "Πεποικιλμένη τῷ κάλλει τῶν ἀρετῶν, Θεομῆτορ ἄχραντε, τὸν Θεὸν τὸν ἀληθῆ, ὑπὲρ νοῦν συνέλαβες ἡμῖν, τὴν πηγῆν τῶν ἀγαθῶν ἀναπηγάσασα."
 
-meMA.C2.title = ""
-meMA.C2.verse = ""
+meMA.C2.title = "Κανὼν τοῦ Ἁγ. Ἀγαθαγγέλου."
+meMA.C2.verse = prayers_gr_GR_cog.verse_SaintM.text
 
 meMA.Ode1C21.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C21.mode = misc_gr_GR_cog.Mode4

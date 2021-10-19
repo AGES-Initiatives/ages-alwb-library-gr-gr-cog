@@ -40,7 +40,7 @@ AsomenPantesLaoi.incipit = "ᾌσωμεν πάντες λαοί…"
 AsomenPantesLaoi.melody = misc_gr_GR_cog.Heirmos
 AsomenPantesLaoi.mode = misc_gr_GR_cog.Mode1
 AsomenPantesLaoi.ode = misc_gr_GR_cog.Ode1
-AsomenPantesLaoi.text = "ᾌσωμεν πάντες λαοί, τῷ ἐκ πικρᾶς δουλείας, Φαραὼ τὸν Ἰσραὴλ ἀπαλλάξαντι, καὶ ἐν βυθῷ θαλάσσης, ποδὶ ἀβρὀχῳ ὁδηγήσαντι, ᾠδὴν ἐπινίκιον, ὅτι δεδόξασται."
+AsomenPantesLaoi.text = "ᾌσωμεν πάντες λαοί, τῷ ἐκ πικρᾶς δουλείας, Φαραὼ τὸν Ἰσραὴλ ἀπαλλάξαντι, καὶ ἐν βυθῷ θαλάσσης, ποδὶ ἀβρὀχως ὁδηγήσαντι, ᾠδὴν ἐπινίκιον, ὅτι δεδόξασται."
 
 AvramiaioiPaides.name = "Ἀβραμιαῖοι Παῖδες."
 AvramiaioiPaides.incipit = "Ἀβραμιαῖοι Παῖδες…"
@@ -82,7 +82,7 @@ EikoniLatrevein.incipit = "Εἰκόνι λατρεύειν…"
 EikoniLatrevein.melody = misc_gr_GR_cog.Heirmos
 EikoniLatrevein.mode = misc_gr_GR_cog.Mode1
 EikoniLatrevein.ode = misc_gr_GR_cog.Ode7
-EikoniLatrevein.text = "Εἰκόνι λατρεύειν, μουσικῆς συμφωνίας, συγκαλουμένης λαούς, ἐκ τῶν ᾠδῶν Σιὼν ᾄδοντες, πατρικῶς οἱ Παῖδες Δαυΐδ, τυράννου ἔλυσαν, τὸ παλίμφημον δόγμα, καὶ τὴν φλόγα εἰς δρόσον μετέβαλον, ὕμνον ἀναμέλποντες, ὁ ὑπερυψούμενος τῶν Πατέρων καὶ ἡμῶν, Θεὸς εὐλογητὸς εἶ."
+EikoniLatrevein.text = "Εἰκόνι λατρεύειν, μουσικῆς συμφωνίας, συγκαλουμένης λαούς, ἐκ τῶν ᾠδῶν Σιὼν ᾄδοντες, πατρικῶς οἱ Παῖδες Δαυΐδ, τυράννου ἔλυσαν, τὸ παλίμφημον δόγμα, καὶ τὴν φλόγα εἰς δρόσον μετέβαλον, ὕμνον ἀναμέλποντες· Ὁ ὑπερυψούμενος τῶν Πατέρων καὶ ἡμῶν, Θεὸς εὐλογητὸς εἶ."
 
 EisakikoaKyrieTinAkoin.name = "Εἰσακήκοα Κύριε τὴν ἀκοήν."
 EisakikoaKyrieTinAkoin.incipit = "Εἰσακήκοα Κύριε τὴν ἀκοήν…"
@@ -108,7 +108,14 @@ EkNyktosOrthrizontes.incipit = "Ἐκ νυκτὸς ὀρθρίζοντες…"
 EkNyktosOrthrizontes.melody = misc_gr_GR_cog.Heirmos
 EkNyktosOrthrizontes.mode = misc_gr_GR_cog.Mode1
 EkNyktosOrthrizontes.ode = misc_gr_GR_cog.Ode5
-EkNyktosOrthrizontes.text = "Ἐκ νυκτὸς ὀρθρίζοντες ὑμνοῦμέν σε Χριστέ, τὸν τῷ Πατρὶ συνάναρχον, καὶ Σωτῆρα τῶν ψυχῶν ἡμῶν, Τὴν εἰρήνην τῷ κόσμῳ παράσχου φιλάνθρωπε."
+EkNyktosOrthrizontes.text = "Ἐκ νυκτὸς ὀρθρίζοντες, ἀνυμνοῦμέν σε Χριστὲ ὁ Θεός, τὸν δι' ἡμᾶς πτωχεύσαντα, καὶ σταυρὸν καὶ θάνατον, ἐν τῇ σαρκί σου ὑπομείναντα."
+
+EkNyktosOrthrizontesYmnoumenSe.name = "Ἐκ νυκτὸς ὀρθρίζοντες ὑμνοῦμέν σε."
+EkNyktosOrthrizontesYmnoumenSe.incipit = "Ἐκ νυκτὸς ὀρθρίζοντες ὑμνοῦμέν σε…"
+EkNyktosOrthrizontesYmnoumenSe.melody = misc_gr_GR_cog.Heirmos
+EkNyktosOrthrizontesYmnoumenSe.mode = misc_gr_GR_cog.Mode1
+EkNyktosOrthrizontesYmnoumenSe.ode = misc_gr_GR_cog.Ode5
+EkNyktosOrthrizontesYmnoumenSe.text = "Ἐκ νυκτὸς ὀρθρίζοντες ὑμνοῦμέν σε Χριστέ, τὸν τῷ Πατρὶ συνάναρχον, καὶ Σωτῆρα τῶν ψυχῶν ἡμῶν· τὴν εἰρήνην τῷ κόσμῳ, παράσχου Φιλάνθρωπε."
 
 EkyklosenImas.name = "Ἐκύκλωσεν ἡμᾶς."
 EkyklosenImas.incipit = "Ἐκύκλωσεν ἡμᾶς…"
@@ -279,7 +286,7 @@ MegaToMystirion.incipit = "Μέγα τὸ μυστήριον…"
 MegaToMystirion.melody = misc_gr_GR_cog.Heirmos
 MegaToMystirion.mode = misc_gr_GR_cog.Mode1
 MegaToMystirion.ode = misc_gr_GR_cog.Ode4
-MegaToMystirion.text = "Μέγα τὸ μυστήριον, τῆς σῆς Χριστὲ οἰκονομίας! τοῦτο γὰρ ἄνωθεν προβλέπων, θεοπτικῶς ὁ Ἀββακούμ· Ἐξῆλθες ἐβόα σοι, εἰς σωτηρίαν λαοῦ σου φιλάνθρωπε."
+MegaToMystirion.text = "Μέγα τὸ μυστήριον, τῆς σῆς Χριστὲ οἰκονομίας! τοῦτο γὰρ ἄνωθεν προβλέπων, θεοπτικῶς ὁ Ἀββακούμ· Ἐξῆλθες ἐβόα σοι, εἰς σωτηρίαν λαοῦ σου Φιλάνθρωπε."
 
 MitranAflektos.name = "Μήτραν ἀφλέκτως."
 MitranAflektos.incipit = "Μήτραν ἀφλέκτως…"
@@ -553,7 +560,7 @@ StereosonMeChriste.incipit = "Στερέωσόν με Χριστέ…"
 StereosonMeChriste.melody = misc_gr_GR_cog.Heirmos
 StereosonMeChriste.mode = misc_gr_GR_cog.Mode1
 StereosonMeChriste.ode = misc_gr_GR_cog.Ode3
-StereosonMeChriste.text = "Στερέωσόν με Χριστέ, ἐπὶ τὴν ἄσειστον πέτραν τῶν ἐντολῶν σου, καὶ φώτισόν με φωτὶ τοῦ προσώπου σου· οὔκ ἐστι γὰρ ἅγιος, πλὴν σοῦ Φιλάνθρωπε."
+StereosonMeChriste.text = "Στερέωσόν με Χριστέ, ἐπὶ τὴν πέτραν τῶν ἐντολῶν σου, καὶ φώτισόν με φωτὶ τοῦ προσώπου σου· οὐκ ἔστι γὰρ ἅγιος, πλὴν σοῦ Φιλάνθρωπε."
 
 StereothitoIKardiaMou.name = "Στερεωθήτω ἡ καρδία μου."
 StereothitoIKardiaMou.incipit = "Στερεωθήτω ἡ καρδία μου…"
@@ -668,7 +675,7 @@ TonEnFlogiPyros.incipit = "Τὸν ἐν φλογὶ πυρός…"
 TonEnFlogiPyros.melody = misc_gr_GR_cog.Heirmos
 TonEnFlogiPyros.mode = misc_gr_GR_cog.Mode1
 TonEnFlogiPyros.ode = misc_gr_GR_cog.Ode8
-TonEnFlogiPyros.text = "Τὸν ἐν φλογὶ πυρός, καιομένης καμίνου διαφυλάξαντα Παῖδας, καὶ ἐν μορφῇ Ἀγγέλου συγκαταβάντα τούτοις, ὑμνεῖτε Κύριον, καὶ ὑπερυψοῦτε, εἰς πάντας τοὺς αἰῶνας."
+TonEnFlogiPyros.text = "Τὸν ἐν φλογὶ πυρός, καιομένης καμίνου, διαφυλάξαντα Παῖδας, καὶ ἐν μορφῇ Ἀγγέλου συγκαταβάντα τούτοις, ὑμνεῖτε Κύριον, καὶ ὑπερυψοῦτε, εἰς πάντας τοὺς αἰῶνας."
 
 TonEnSinaTinVaton.name = "Τὸν ἐν Σινᾷ τὴν βάτον."
 TonEnSinaTinVaton.incipit = "Τὸν ἐν Σινᾷ τὴν βάτον…"
@@ -689,7 +696,7 @@ TonProfitinDiesosas.incipit = "Τὸν Προφήτην διέσωσας…"
 TonProfitinDiesosas.melody = misc_gr_GR_cog.Heirmos
 TonProfitinDiesosas.mode = misc_gr_GR_cog.Mode1
 TonProfitinDiesosas.ode = misc_gr_GR_cog.Ode6
-TonProfitinDiesosas.text = "Τὸν Προφήτην διέσωσας, ἐκ τοῦ κήτους Φιλάνθρωπε, κἀμὲ ἐκ τοῦ βυθοῦ τῶν πταισμάτων, ἀνάγαγε δέομαι."
+TonProfitinDiesosas.text = "Τὸν Προφήτην διέσωσας, ἐκ τοῦ κήτους Φιλάνθρωπε· κἀμὲ τοῦ βυθοῦ τῶν πταισμάτων, ἀνάγαγε δέομαι."
 
 TonProfitinIonan.name = "Τὸν Προφήτην Ἰωνᾶν."
 TonProfitinIonan.incipit = "Τὸν Προφήτην Ἰωνᾶν…"

@@ -1,6 +1,7 @@
 A_Resource_Whose_Name = sy.m02.d06_gr_GR_cog
 
 syMA.commemoration01.text = "Τῇ Ϛʹ τοῦ αὐτοῦ μηνός, μνήμη τοῦ Ὁσίου Πατρὸς ἡμῶν Βουκόλου, Ἐπισκόπου Σμύρνης."
+syMA.commemoration01as02.text = "Τῇ αὐτῇ ἡμέρᾳ, μνήμη τοῦ Ὁσίου Πατρὸς ἡμῶν Βουκόλου, Ἐπισκόπου Σμύρνης."
 syMA.commemoration01.couplet1.title = titles_gr_GR_cog.Stichoi
 syMA.commemoration01.couplet1.verse1 = "Σμύρνης ὁ Ποιμὴν Βουκόλος θυηπόλος,"
 syMA.commemoration01.couplet1.verse2 = "Ἄγρυπνός ἐστι, καὶ θανών, ποίμνης φύλαξ."
@@ -39,6 +40,27 @@ syMA.commemoration05.couplet2.verse2 = "Ἄλλος δέδεικται προφ
 syMA.commemoration05.single1 = "Βαρσανουφίοιο ἕκτῃ γῆθεν θυμὸς θέσκελος ἤρθη."
 syMA.commemoration05.narration.p01 = "Οὗτοι οἱ μακάριοι καὶ ὅσιοι Πατέρες, οἱ ὄντως ἐν σώματι ἄγγελοι, ἤκμασαν τῷ Ϛʹ αἰῶνι. Καὶ ὁ μὲν Βαρσανούφιος, Αἰγύπτου ὢν βλαστός, παρεγένετο ἐν Παλαιστίνῃ καὶ ἠγωνίσατο ἀσκητικῶς ἐν πλείστοις τόποις ἐκεῖσε, ὑποταγεὶς πρότερον ὁσίῳ τινὶ Γέροντι Μαρκέλλῳ. Εἶτα παραγενόμενος ἐν τῷ ἐγγὺς τῆς Γάζης κοινοβίῳ τοῦ Ἀββᾶ Σερίδου, περιέγραψεν ἑαυτὸν ἔν τινι πλησίον τῆς μονῆς κελλίῳ, ἀγγελικῶς διαλάμπων συντόνῳ ἀσκήσει καὶ ὑπερφυέσι παρὰ Θεοῦ δωρεαῖς. Ὁ δὲ Ὅσιος Ἰωάννης, καὶ οὗτος πολλαῖς πράξεσιν ἐγγυμνασάμενος, παρεγένετο τῷ θεοφόρῳ καὶ μεγάλῳ Γέροντι Βαρσανουφίῳ, ᾧ συνδεθεὶς ἁγίας ἀγάπης ἅμμασι, μαθητὴς καὶ μιμητὴς αὐτοῦ γέγονεν ἐν πᾶσι, καὶ φίλος ἠγαπημένος, ἐγκλείσας καὶ οὗτος ἑαυτὸν ἑτέρῳ ἐκεῖσε κελλίῳ· καὶ χαριτωθεὶς προγνωστικῇ δωρεᾷ, ἄλλος Γέρων καὶ προφήτης παρὰ πάντων ἐγνωρίζετο καὶ ἐκαλεῖτο."
 syMA.commemoration05.narration.p02 = "Οὗτοι οἱ μακάριοι ἕξω κόσμου καὶ σαρκὸς βιώσαντες, καὶ ὑπερφυῶν ἀξιωθένες χαρίτων καὶ δωρημάτων παρὰ Θεοῦ Παντοκράτορος καὶ τύποι μονζχικοῦ βίου καὶ διδάσκαλοι ἐνθεώτατοι καὶ ἀπλανεῖς καταστάντες, μετετάξαντο πρὸς τὴν ἀγήρω ζωὴν καὶ μακαριότητα, τὰ τῶν καμάτων γέρα παρὰ Χριτοῦ ληψόμενοι. Τούτων σῴζεται ἀσκητικὴ διδασκαλία πλήρης χάριτος καὶ σοφίας καὶ ὠφελείας ἐν ἐρωταποκρίσεσιν, ἰδίαν ἀπαρτίζουσα βίβλον."
+
+alt1.syMA.commemoration01.text = "Τῇ Ϛʹ τοῦ αὐτοῦ μηνός, μνήμη τοῦ ἐν Ἁγίοις Πατρὸς ἡμῶν καὶ Ἰσαποστόλου Φωτίου, Παρτιάρχου Κωνσταντινουπόλεως, τοῦ ὁμολογητοῦ."
+alt1.syMA.commemoration01.couplet1.title = syMA.commemoration04.couplet1.title
+alt1.syMA.commemoration01.couplet1.verse1 = syMA.commemoration04.couplet1.verse1
+alt1.syMA.commemoration01.couplet1.verse2 = syMA.commemoration04.couplet1.verse2
+alt1.syMA.commemoration01.couplet2.title = syMA.commemoration04.couplet2.title
+alt1.syMA.commemoration01.couplet2.verse1 = syMA.commemoration04.couplet2.verse1
+alt1.syMA.commemoration01.couplet2.verse2 = syMA.commemoration04.couplet2.verse2
+alt1.syMA.commemoration01.single1 = syMA.commemoration04.single1
+alt1.syMA.commemoration01.narration.p01 = syMA.commemoration04.narration.p01
+
+alt2.syMA.commemoration01.text = "Τῇ αὐτῇ ἡμέρᾳ, μνήμη τῶν Ὁσίων καὶ Θεοφόρων Πατέρων ἡμῶν Βαρσανουφίου τοῦ Μεγάλου Γέροντος καὶ Ἰωάννου τοῦ ἐπικαλουμένου Προφήτου."
+alt2.syMA.commemoration01.couplet1.title = syMA.commemoration05.couplet1.title
+alt2.syMA.commemoration01.couplet1.verse1 = syMA.commemoration05.couplet1.verse1
+alt2.syMA.commemoration01.couplet1.verse2 = syMA.commemoration05.couplet1.verse2
+alt2.syMA.commemoration01.couplet2.title = syMA.commemoration05.couplet2.title
+alt2.syMA.commemoration01.couplet2.verse1 = syMA.commemoration05.couplet2.verse1
+alt2.syMA.commemoration01.couplet2.verse2 = syMA.commemoration05.couplet2.verse2
+alt2.syMA.commemoration01.single1 = syMA.commemoration05.single1
+alt2.syMA.commemoration01.narration.p01 = syMA.commemoration05.narration.p01
+alt2.syMA.commemoration01.narration.p02 = syMA.commemoration05.narration.p02
 
 syMA.lastline = "Ταῖς αὐτῶν ἁγίαις πρεσβείαις, ὁ Θεὸς ἐλέησον καὶ σῶσον ἡμᾶς. Ἀμήν."
 

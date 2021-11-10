@@ -1,6 +1,7 @@
 A_Resource_Whose_Name = sy.m09.d07_gr_GR_cog
 
-syMA.commemoration01.text = "Τῇ Ζʹ τοῦ αὐτοῦ μηνός μνήμη τοῦ ἁγίου Μάρτυρος Σῴζοντος."
+syMA.commemoration01.text = "Τῇ Ζʹ τοῦ αὐτοῦ μηνός, μνήμη τοῦ ἁγίου Μάρτυρος Σῴζοντος."
+syMA.commemoration01as02.text = "Τῇ αὐτῇ ἡμέρα μνήμη τοῦ ἁγίου Μάρτυρος Σῴζοντος."
 syMA.commemoration01.couplet1.title = titles_gr_GR_cog.Stichoi
 syMA.commemoration01.couplet1.verse1 = "Ἀντεῖχε Σῴζων σώματος πρὸς αἰκίας,"
 syMA.commemoration01.couplet1.verse2 = "Πρὸς τὸν μόνον σῴζοντα τὴν ψυχὴν βλέπων."
@@ -23,6 +24,12 @@ syMA.commemoration05.couplet1.title = titles_gr_GR_cog.Stichoi
 syMA.commemoration05.couplet1.verse1 = "Χρυσοῦν Κασιανή, ὁ Παντάναξ μῆλον,"
 syMA.commemoration05.couplet1.verse2 = "ἐπέδωκέ σοι Βασιλείας ἀγήρω."
 syMA.commemoration05.narration.p01 = ""
+
+alt1.syMA.commemoration01.text = "Τῇ Ζʹ τοῦ αὐτοῦ μηνός, μνήμη τῆς Ὁσίας Κασσιανῆς τῆς Ποιήτριας."
+alt1.syMA.commemoration01.couplet1.title = syMA.commemoration05.couplet1.title
+alt1.syMA.commemoration01.couplet1.verse1 = syMA.commemoration05.couplet1.verse1
+alt1.syMA.commemoration01.couplet1.verse2 = syMA.commemoration05.couplet1.verse2
+alt1.syMA.commemoration01.narration.p01 = syMA.commemoration05.narration.p01
 
 syMA.lastline = "Ταῖς τῶν σῶν Ἁγίων πρεσβείαις, ὁ Θεός, ἐλέησον ἡμᾶς. Ἀμήν."
 

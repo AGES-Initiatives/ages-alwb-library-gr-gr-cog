@@ -654,16 +654,17 @@ octrVE.Stichera4.melody = ""
 octrVE.Stichera4.incipit = ocMA.Aposticha2.incipit
 octrVE.Stichera4.text = ocMA.Aposticha2.text
 
+//The order of the Triadics is according to the Triodion
 octrMA.Triadic1.mode = misc_gr_GR_cog.Mode3
-octrMA.Triadic1.incipit = "Πατέρα ἄναρχον, Υἱὸν συνάναρχον, Πνεῦμα…"
-octrMA.Triadic1.text = "Πατέρα ἄναρχον, Υἱὸν συνάναρχον, Πνεῦμα συναΐδιον, Θεότητα μίαν χερουβικῶς δοξολογεῖν τολμῶντες λέγομεν· Ἅγιος, Ἅγιος, Ἅγιος εἶ ὁ Θεὸς ἡμῶν."
+octrMA.Triadic1.incipit = "Τριὰς ὁμοούσιε…"
+octrMA.Triadic1.text = "Τριὰς ὁμοούσιε καὶ ἀδιαίρετε, Μονὰς τρισυπόστατε καὶ συναΐδιε, σοὶ ὡς Θεῷ τῶν Ἀγγέλων τὸν ὕμνον κραυγάζομεν· Ἅγιος, Ἅγιος, Ἅγιος εἶ ὁ Θεὸς ἡμῶν."
 
 octrMA.Triadic2.mode = misc_gr_GR_cog.Mode3
-octrMA.Triadic2.incipit = "Τριὰς ὁμοούσιε καὶ ἀδιαίρετε, Μονὰς…"
-octrMA.Triadic2.text = "Τριὰς ὁμοούσιε καὶ ἀδιαίρετε, Μονὰς τρισυπόστατε καὶ συναΐδιε, σοὶ ὡς Θεῷ τῶν Ἀγγέλων τὸν ὕμνον κραυγάζομεν· Ἅγιος, Ἅγιος, Ἅγιος εἶ ὁ Θεὸς ἡμῶν."
+octrMA.Triadic2.incipit = "Πατέρα ἄναρχον…"
+octrMA.Triadic2.text = "Πατέρα ἄναρχον, Υἱὸν συνάναρχον, Πνεῦμα συναΐδιον, Θεότητα μίαν χερουβικῶς δοξολογεῖν τολμῶντες λέγομεν· Ἅγιος, Ἅγιος, Ἅγιος εἶ ὁ Θεὸς ἡμῶν."
 
 octrMA.Triadic3.mode = misc_gr_GR_cog.Mode3
-octrMA.Triadic3.incipit = "Ἀθρόον ὁ Κριτὴς ἐπελεύσεται, καὶ…"
+octrMA.Triadic3.incipit = "Ἀθρόον ὁ Κριτὴς…"
 octrMA.Triadic3.text = "Ἀθρόον ὁ Κριτὴς ἐπελεύσεται, καὶ ἑκάστου αἱ πράξεις γυμνωθήσονται· ἀλλὰ φόβῳ κράξωμεν ἐν τῷ μέσῳ τῆς νυκτός· Ἅγιος, Ἅγιος, Ἅγιος εἶ ὁ Θεὸς ἡμῶν."
 
 octrMA.Kathisma11.mode = misc_gr_GR_cog.Mode3

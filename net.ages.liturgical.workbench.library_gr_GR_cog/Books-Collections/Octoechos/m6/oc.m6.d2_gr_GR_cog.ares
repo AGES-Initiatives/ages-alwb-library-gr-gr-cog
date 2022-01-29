@@ -631,16 +631,21 @@ octrVE.Stichera4.melody = ""
 octrVE.Stichera4.incipit = ocMA.Aposticha2.incipit
 octrVE.Stichera4.text = ocMA.Aposticha2.text
 
+//The order of the Triadics is according to the Triodion
 octrMA.Triadic1.mode = misc_gr_GR_cog.Mode6
-octrMA.Triadic1.incipit = "Ἀσωμάτοις στόμασιν, ἀσιγήτοις τὰ Ἑξαπτέρυγα…"
-octrMA.Triadic1.text = "Ἀσωμάτοις στόμασιν, ἀσιγήτοις τὰ Ἑξαπτέρυγα ᾄδουσί σοι τὸν τρισάγιον ὕμνον, ὁ Θεὸς ἡμῶν, καὶ ἡμεῖς οἱ ἐπὶ γῆς, ἀναξίοις χείλεσιν αἶνόν σοι ἀναπέμπομεν· Ἅγιος, Ἅγιος, Ἅγιος εἶ ὁ Θεὸς ἡμῶν."
+octrMA.Triadic1.incipit = "Παριστάμενα φόβῳ…"
+octrMA.Triadic1.text = "Παριστάμενα φόβῳ τὰ Χερουβείμ, ἐξιστάμενα τρόμῳ τὰ Σεραφείμ, τὸν τρισάγιον ὕμνον προσφέρει, ἀσιγήτῳ φωνῇ, μεθ' ὧν καὶ ἡμεῖς βοῶμεν οἱ ἁμαρτωλοί· Ἅγιος, Ἅγιος, Ἅγιος εἶ ὁ Θεὸς ἡμῶν."
 
 octrMA.Triadic2.mode = misc_gr_GR_cog.Mode6
-octrMA.Triadic2.incipit = "Παριστάμενα φόβῳ τὰ Χερουβείμ, ἐξιστάμενα…"
+octrMA.Triadic2.incipit = "Ἀσωμάτοις στόμασιν…"
+octrMA.Triadic2.text = "Ἀσωμάτοις στόμασιν, ἀσιγήτοις τὰ Ἑξαπτέρυγα ᾄδουσί σοι τὸν τρισάγιον ὕμνον, ὁ Θεὸς ἡμῶν, καὶ ἡμεῖς οἱ ἐπὶ γῆς, ἀναξίοις χείλεσιν αἶνόν σοι ἀναπέμπομεν· Ἅγιος, Ἅγιος, Ἅγιος εἶ ὁ Θεὸς ἡμῶν."
+
+octrMA.Triadic2.mode = misc_gr_GR_cog.Mode6
+octrMA.Triadic2.incipit = "Παριστάμενα φόβῳ…"
 octrMA.Triadic2.text = "Παριστάμενα φόβῳ τὰ Χερουβείμ, ἐξιστάμενα τρόμῳ τὰ Σεραφείμ, τὸν τρισάγιον ὕμνον προσφέρει, ἀσιγήτῳ φωνῇ, μεθ' ὧν καὶ ἡμεῖς βοῶμεν οἱ ἁμαρτωλοί· Ἅγιος, Ἅγιος, Ἅγιος εἶ ὁ Θεὸς ἡμῶν."
 
 octrMA.Triadic3.mode = misc_gr_GR_cog.Mode6
-octrMA.Triadic3.incipit = "Τριαδικῆς μονάδος Θεότητα, ἀσυγχύτῳ ἑνώσει…"
+octrMA.Triadic3.incipit = "Τριαδικῆς μονάδος…"
 octrMA.Triadic3.text = "Τριαδικῆς μονάδος Θεότητα, ἀσυγχύτῳ ἑνώσει δοξάσωμεν, καὶ τῶν Ἀγγέλων τὸν ὕμνον βοήσωμεν· Ἅγιος, Ἅγιος, Ἅγιος εἶ ὁ Θεὸς ἡμῶν."
 
 octrMA.Kathisma11.mode = misc_gr_GR_cog.Mode6

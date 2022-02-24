@@ -44,6 +44,8 @@ euVE.SticBoth.mode = misc_gr_GR_cog.Mode2
 euVE.SticBoth.melody = misc_gr_GR_cog.Idiomelon
 euVE.SticBoth.incipit = me.m09.d13_gr_GR_cog.meVE.AposGlory.incipit
 euVE.SticBoth.text = me.m09.d13_gr_GR_cog.meVE.AposGlory.text
+euVE.SticBoth1.text = "Τὸν ἐγκαινισμὸν τελοῦντες, τοῦ πανιέρου ναοῦ" //split hymn to insert name of church
+euVE.SticBoth2.text = "σὲ δοξάζομεν Κύριε, τὸν ἁγιάσαντα τοῦτον, καὶ τελειώσαντα τῇ αὐτοτελεῖ σου χάριτι· καὶ τερπόμενον ταῖς ἐν αὐτῷ ἱερουργουμέναις, ὑπὸ πιστῶν μυστικαῖς καὶ ἱεραῖς τελεταῖς· καὶ προσδεχόμενον ἐκ χειρὸς τῶν δούλων σου, τὰς ἀναιμάκτους καὶ ἀχράντους θυσίας· ἀντιδιδόντα τε τοῖς ὀρθῶς προσφέρουσι, τὴν τῶν ἁμαρτημάτων κάθαρσιν, καὶ τὸ μέγα ἔλεος."
 
 euVE.Aposticha1.poet = poets_gr_GR_cog.IoannouMonachou
 euVE.Aposticha1.mode = misc_gr_GR_cog.Mode1
@@ -357,6 +359,8 @@ euMA.Exaposteilarion1.mode = misc_gr_GR_cog.Mode2
 euMA.Exaposteilarion1.melody = he.a.m2_gr_GR_cog.GynaikesAkoutisthite.name
 euMA.Exaposteilarion1.incipit = "Τῷ παναγίῳ Πνεύματι, ἐγκαίνισον Φιλάνθρωπε…"
 euMA.Exaposteilarion1.text = "Τῷ παναγίῳ Πνεύματι, ἐγκαίνισον Φιλάνθρωπε, ἐν ταῖς καρδίαις τῶν πίστει, τὰ ἱερὰ Ἐγκαίνια, τοῦ Οἴκου σου τοῦ πανσέπτου, ἐπιτελοῦντες Κύριε, ἐν ᾧ τὰς προσευχὰς ἡμῶν, τῶν προσκυνούντων σε Σῶτερ, ὥσπερ θυσίαν προσδέχου."
+
+euMA.R001 = "Ὁ Ἀρχιερεὺς ... λέγει τὰς εὐχὰς τοῦ Πατ. Καλλίστου."
 
 euMA.Lauds1.mode = misc_gr_GR_cog.Mode4
 euMA.Lauds1.melody = he.a.m4_gr_GR_cog.EdokasSimeiosin.name

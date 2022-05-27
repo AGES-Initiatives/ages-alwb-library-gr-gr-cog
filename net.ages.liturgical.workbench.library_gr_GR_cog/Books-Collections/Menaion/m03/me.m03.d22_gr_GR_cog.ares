@@ -20,7 +20,7 @@ meHO.note2 = ""
 meVE.Stichera01.mode = misc_gr_GR_cog.Mode4
 meVE.Stichera01.melody = he.a.m4_gr_GR_cog.OExYpsistouKlitheis.name
 meVE.Stichera01.incipit = "Ἱερωσύνης στολαῖς ἠγλαϊσμένος, Θεῷ ἐλειτούργησας…"
-meVE.Stichera01.text = "Ἱερωσύνης στολαῖς ἠγλαϊσμένος, Θεῷ ἐλειτούργησας, καθάπερ Ἄγγελος, τῷ δι' ἡμᾶς ὕλῃ σώματος, ἐπιφανέντι, θύων Βασίλειε μεγαλώνυμε, ἐντεῦθεν ὡς τέλειον πρόβατον τέθυσαι, καὶ καθαρὸν θῦμα γέγονας, καὶ προσηνέχθης, νῦν εἰς τὸ ἄνω θυσιαστήριον· ὅθεν φωναῖς σε μακαρίζομεν, χαρμονικῶς καὶ βοῶμέν σοι· ἱκετεύων μὴ παύσῃ, τοῦ σωθῆναι τὰς ψυχὰς ἡμῶν."
+meVE.Stichera01.text = "Ἱερωσύνης στολαῖς ἠγλαϊσμένος, Θεῷ ἐλειτούργησας, καθάπερ Ἄγγελος, τῷ διʼ ἡμᾶς ὕλῃ σώματος, ἐπιφανέντι, θύων Βασίλειε μεγαλώνυμε, ἐντεῦθεν ὡς τέλειον πρόβατον τέθυσαι, καὶ καθαρὸν θῦμα γέγονας, καὶ προσηνέχθης, νῦν εἰς τὸ ἄνω θυσιαστήριον· ὅθεν φωναῖς σε μακαρίζομεν, χαρμονικῶς καὶ βοῶμέν σοι· ἱκετεύων μὴ παύσῃ, τοῦ σωθῆναι τὰς ψυχὰς ἡμῶν."
 
 meVE.Stichera02.mode = misc_gr_GR_cog.Mode4
 meVE.Stichera02.melody = he.a.m4_gr_GR_cog.OExYpsistouKlitheis.name
@@ -48,6 +48,10 @@ meVE.Apolytikion1.melody = he.a.m3_gr_GR_cog.TheiasPisteos.name
 meVE.Apolytikion1.incipit = "Θείου Πνεύματος, τῇ ἐπινεύσει, χρῖσμα…"
 meVE.Apolytikion1.text = "Θείου Πνεύματος, τῇ ἐπινεύσει, χρῖσμα ἅγιον, ἱερωσύνης, ἐπαξίως ὑπεδέξω Βασίλειε· ὅθεν ὡς θῦμα βασίλειον ἔθυσας, τῷ Βασιλεῖ τῶν αἰώνων τοὺς ἄθλους σου. Πάτερ Ὅσιε, Χριστὸν τὸν Θεὸν ἱκέτευε, δωρήσασθαι ἡμῖν τὸ μέγα ἔλεος."
 
+meMA.C1.acrostic.title = ""
+meMA.C1.acrostic.notice1 = ""
+meMA.C1.acrostic.text = ""
+//meMA.C1.acrostic.notice2 = ""
 meMA.C1.acrostic = "οὗ ἡ Ἀκροστιχίς· Σοῦ τοὺς μεγίστους, Μάρτυς, εὐφημῶ πόνους. Ἰωσήφ."
 
 meMA.Ode1C1H.ode = misc_gr_GR_cog.Ode1
@@ -63,7 +67,7 @@ meMA.Ode1C11.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C11.mode = misc_gr_GR_cog.Mode6
 meMA.Ode1C11.melody = he.h.m6_gr_GR_cog.OsEnIpeiroPezefsas.name
 meMA.Ode1C11.incipit = "Σοῦ τὴν βασίλειον δόξαν Παμβασιλεῦ…"
-meMA.Ode1C11.text = "Σοῦ τὴν βασίλειον δόξαν Παμβασιλεῦ, ὁ κλεινὸς Βασίλειος, ἀγαπήσας σταθερῶς, ἐπὶ γῆς ἐνήθλησε, δι' οὗ, Βασιλείας οὐρανῶν ἡμᾶς ἀξίωσον."
+meMA.Ode1C11.text = "Σοῦ τὴν βασίλειον δόξαν Παμβασιλεῦ, ὁ κλεινὸς Βασίλειος, ἀγαπήσας σταθερῶς, ἐπὶ γῆς ἐνήθλησε, διʼ οὗ, Βασιλείας οὐρανῶν ἡμᾶς ἀξίωσον."
 
 meMA.Ode1C12.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C12.mode = misc_gr_GR_cog.Mode6
@@ -74,8 +78,8 @@ meMA.Ode1C12.text = "Ὁ ἀξιέπαινος βίος, ἡ καθαρά, π
 meMA.Ode1C13.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C13.mode = misc_gr_GR_cog.Mode6
 meMA.Ode1C13.melody = he.h.m6_gr_GR_cog.OsEnIpeiroPezefsas.name
-meMA.Ode1C13.incipit = "Ὑποταγεὶς τῷ Κυρίῳ δι' ἀγαθῆς…"
-meMA.Ode1C13.text = "Ὑποταγεὶς τῷ Κυρίῳ δι' ἀγαθῆς, πολιτείας πάνσοφε, καθυπέταξας ἐχθρὸν καὶ ποσὶ συνέτριψας λαμπρῶς, ἀριστεύσας κατ' αὐτοῦ Μάρτυς Βασίλειε."
+meMA.Ode1C13.incipit = "Ὑποταγεὶς τῷ Κυρίῳ διʼ ἀγαθῆς…"
+meMA.Ode1C13.text = "Ὑποταγεὶς τῷ Κυρίῳ διʼ ἀγαθῆς, πολιτείας πάνσοφε, καθυπέταξας ἐχθρὸν καὶ ποσὶ συνέτριψας λαμπρῶς, ἀριστεύσας κατʼ αὐτοῦ Μάρτυς Βασίλειε."
 
 meMA.Ode1C14.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C14.mode = misc_gr_GR_cog.Mode6
@@ -87,7 +91,7 @@ meMA.Ode1C1T.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C1T.mode = misc_gr_GR_cog.Mode6
 meMA.Ode1C1T.melody = he.h.m6_gr_GR_cog.OsEnIpeiroPezefsas.name
 meMA.Ode1C1T.incipit = "Ὁ τῷ Πατρὶ συνυπάρχων μονογενής…"
-meMA.Ode1C1T.text = "Ὁ τῷ Πατρὶ συνυπάρχων μονογενής, βουληθεὶς κατῴκησε, σοῦ τὴν ἄχραντον νηδύν, καὶ βροτὸς ἐγένετο Ἁγνή, σῶσαι θέλων τοὺς βροτοὺς δι' ἀγαθότητα."
+meMA.Ode1C1T.text = "Ὁ τῷ Πατρὶ συνυπάρχων μονογενής, βουληθεὶς κατῴκησε, σοῦ τὴν ἄχραντον νηδύν, καὶ βροτὸς ἐγένετο Ἁγνή, σῶσαι θέλων τοὺς βροτοὺς διʼ ἀγαθότητα."
 
 meMA.Ode3C1H.ode = misc_gr_GR_cog.Ode3
 meMA.Ode3C1H.mode = misc_gr_GR_cog.Mode6
@@ -123,7 +127,7 @@ meMA.Ode3C1T.ode = misc_gr_GR_cog.Ode3
 meMA.Ode3C1T.mode = misc_gr_GR_cog.Mode6
 meMA.Ode3C1T.melody = he.h.m6_gr_GR_cog.OukEstinAgios.name
 meMA.Ode3C1T.incipit = "Γνωρίσας πόῤῥωθεν τὴν σήν, σύλληψιν…"
-meMA.Ode3C1T.text = "Γνωρίσας πόῤῥωθεν τὴν σήν, σύλληψιν Ἡσαΐας, διὰ Πνεύματος Κόρη, διετράνωσεν αὐτήν, βοῶν· Ἰδοὺ ἐν γαστρί, ἡ Παρθένος, τὸν Θεὸν συλλήψεται."
+meMA.Ode3C1T.text = "Γνωρίσας πόῤῥωθεν τὴν σήν, σύλληψιν Ἠσαΐας, διὰ Πνεύματος Κόρη, διετράνωσεν αὐτήν, βοῶν· Ἰδοὺ ἐν γαστρί, ἡ Παρθένος, τὸν Θεὸν συλλήψεται."
 
 meMA.Ode3Kathisma1.mode = misc_gr_GR_cog.Mode4
 meMA.Ode3Kathisma1.melody = he.a.m4_gr_GR_cog.TachyProkatalave.name
@@ -174,7 +178,7 @@ meMA.Ode4C1T.ode = misc_gr_GR_cog.Ode4
 meMA.Ode4C1T.mode = misc_gr_GR_cog.Mode6
 meMA.Ode4C1T.melody = he.h.m6_gr_GR_cog.ChristosMouDynamis.name
 meMA.Ode4C1T.incipit = "Ὑμνῶ σε Δέσποινα, τὴν πολύΰμνητον…"
-meMA.Ode4C1T.text = "Ὑμνῶ σε Δέσποινα, τὴν πολύΰμνητον, εὐλογῶ σε Παρθένε, δι' ἧς βροτοί, πάντες εὐλογήθημεν, καὶ τῆς κατάρας ἀληθῶς, τῆς ἀρχαίας ἐλυτρώθημεν."
+meMA.Ode4C1T.text = "Ὑμνῶ σε Δέσποινα, τὴν πολύΰμνητον, εὐλογῶ σε Παρθένε, διʼ ἧς βροτοί, πάντες εὐλογήθημεν, καὶ τῆς κατάρας ἀληθῶς, τῆς ἀρχαίας ἐλυτρώθημεν."
 
 meMA.Ode5C1H.ode = misc_gr_GR_cog.Ode5
 meMA.Ode5C1H.mode = misc_gr_GR_cog.Mode6
@@ -191,8 +195,8 @@ meMA.Ode5C11.text = "Σιδήρου βάρει κατακαμφθείς, ὡ�
 meMA.Ode5C12.ode = misc_gr_GR_cog.Ode5
 meMA.Ode5C12.mode = misc_gr_GR_cog.Mode6
 meMA.Ode5C12.melody = he.h.m6_gr_GR_cog.ToTheioFengeiSou.name
-meMA.Ode5C12.incipit = "Μέτ' εὐφροσύνης τὰ σιδηρᾶ, Μάρτυς…"
-meMA.Ode5C12.text = "Μέτ' εὐφροσύνης τὰ σιδηρᾶ, Μάρτυς περικείμενος δεσμά, τόπους ἐκ τόπων διέδραμες, τούτοις ὡς ὁρμίσκοις ὡραϊζόμενος, Βασίλειε, καὶ τέρπων τὸν Ἀθλοθέτην σου."
+meMA.Ode5C12.incipit = "Μέτʼ εὐφροσύνης τὰ σιδηρᾶ, Μάρτυς…"
+meMA.Ode5C12.text = "Μέτʼ εὐφροσύνης τὰ σιδηρᾶ, Μάρτυς περικείμενος δεσμά, τόπους ἐκ τόπων διέδραμες, τούτοις ὡς ὁρμίσκοις ὡραϊζόμενος, Βασίλειε, καὶ τέρπων τὸν Ἀθλοθέτην σου."
 
 meMA.Ode5C13.ode = misc_gr_GR_cog.Ode5
 meMA.Ode5C13.mode = misc_gr_GR_cog.Mode6
@@ -342,7 +346,7 @@ meMA.Ode9C14.ode = misc_gr_GR_cog.Ode9
 meMA.Ode9C14.mode = misc_gr_GR_cog.Mode6
 meMA.Ode9C14.melody = he.h.m6_gr_GR_cog.TheonAnthropois.name
 meMA.Ode9C14.incipit = "Ἡ γῆ τῇ θείᾳ ταφῇ…"
-meMA.Ode9C14.text = "Ἡ γῆ τῇ θείᾳ ταφῇ ἡγίασται, τοῦ Ἱεροῦ Βασίλειε καὶ θείου σου σώματος, τῶν Δικαίων ἐσκίρτησαν πνεύματα, μέσον αὐτῶν τὸ πνεῦμά σου μάκαρ ἔχοντα, μεθ' ὧν πάντων μέμνησο, ἡμῶν τῶν μεμνημένων σου."
+meMA.Ode9C14.text = "Ἡ γῆ τῇ θείᾳ ταφῇ ἡγίασται, τοῦ Ἱεροῦ Βασίλειε καὶ θείου σου σώματος, τῶν Δικαίων ἐσκίρτησαν πνεύματα, μέσον αὐτῶν τὸ πνεῦμά σου μάκαρ ἔχοντα, μεθʼ ὧν πάντων μέμνησο, ἡμῶν τῶν μεμνημένων σου."
 
 meMA.Ode9C1T.ode = misc_gr_GR_cog.Ode9
 meMA.Ode9C1T.mode = misc_gr_GR_cog.Mode6

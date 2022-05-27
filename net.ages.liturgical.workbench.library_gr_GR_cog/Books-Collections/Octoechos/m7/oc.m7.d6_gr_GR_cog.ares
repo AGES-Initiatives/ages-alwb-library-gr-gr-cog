@@ -90,7 +90,7 @@ ocMA.Kathisma22.text = oc.m7.d4_gr_GR_cog.ocMA.Kathisma22.text
 ocMA.Kathisma23.mode = misc_gr_GR_cog.Mode7
 ocMA.Kathisma23.melody = ""
 ocMA.Kathisma23.incipit = "Ὅτε προσηλώθης βουλήσει, καὶ ὑψώθης…"
-ocMA.Kathisma23.text = "Ὅτε προσηλώθης βουλήσει, καὶ ὑψώθης τῷ Σταυρῷ σου, ἡ Θεοτόκος παρισταμένη ἔλεγε· Κύριε Κύριε, οὐδεμιᾷ γυναικὶ συνέβη τὸ ἄλγος μου, Θεόν σε ἐπίσταμαι ἐκ τῶν θαυμάτων, καὶ ἰδοὺ βλέπω σε, νεκρὸν ἐν ξύλῳ κρεμάμενον, ἀλλ' ἀνάστηθι, ὡς εἶπας, τριήμερος, ἵνα χαίρουσα, βοῶ σοι· δόξα σοι."
+ocMA.Kathisma23.text = "Ὅτε προσηλώθης βουλήσει, καὶ ὑψώθης τῷ Σταυρῷ σου, ἡ Θεοτόκος παρισταμένη ἔλεγε· Κύριε Κύριε, οὐδεμιᾷ γυναικὶ συνέβη τὸ ἄλγος μου, Θεόν σε ἐπίσταμαι ἐκ τῶν θαυμάτων, καὶ ἰδοὺ βλέπω σε, νεκρὸν ἐν ξύλῳ κρεμάμενον, ἀλλʼ ἀνάστηθι, ὡς εἶπας, τριήμερος, ἵνα χαίρουσα, βοῶ σοι· δόξα σοι."
 
 ocMA.Kathisma31.mode = misc_gr_GR_cog.Mode7
 ocMA.Kathisma31.melody = ""
@@ -107,6 +107,10 @@ ocMA.Kathisma33.melody = ""
 ocMA.Kathisma33.incipit = "Ἀσπόρως συνέλαβες, ἐν μήτρᾳ σου…"
 ocMA.Kathisma33.text = "Ἀσπόρως συνέλαβες, ἐν μήτρᾳ σου Παρθένε Θεοτόκε, ὄνπερ κατεῖδες ἐν Σταυρῷ κρεμάμενον· ἀπαύστως οὖν ἱκέτευε, ὑπὲρ τῶν ψυχῶν ἡμῶν."
 
+ocMA.C1.acrostic.title = ""
+ocMA.C1.acrostic.notice1 = ""
+ocMA.C1.acrostic.text = ""
+//ocMA.C1.acrostic.notice2 = ""
 ocMA.C1.acrostic = " οὗ ἡ ἀκροστιχίς, μετὰ τῶν Σταυροθεοτοκίων· Χριστὸς ξύλῳ πέπαυκε τὴν ξύλου βλάβην. ᾎσμα Ἰωσήφ."
 
 ocMA.CA.notice = ""
@@ -180,8 +184,8 @@ ocMA.OdeW3C1H.text = he.h.m7_gr_GR_cog.EstereothiTiPistei.text
 ocMA.OdeW3C11.mode = misc_gr_GR_cog.Mode7
 ocMA.OdeW3C11.ode = misc_gr_GR_cog.Ode3
 ocMA.OdeW3C11.melody = he.h.m7_gr_GR_cog.EstereothiTiPistei.name
-ocMA.OdeW3C11.incipit = "Ὁ ἀπαθὴς κατ' οὐσίαν, πῶς…"
-ocMA.OdeW3C11.text = "Ὁ ἀπαθὴς κατ' οὐσίαν, πῶς πάθος ὑπέστης; ὁ τὴν ζωήν μοι ἐμπνέων, πῶς θνῄσκεις ἐν ξύλῳ; Μέγα σου τὸ ἔλεος, καὶ ἡ μακροθυμία σου!"
+ocMA.OdeW3C11.incipit = "Ὁ ἀπαθὴς κατʼ οὐσίαν, πῶς…"
+ocMA.OdeW3C11.text = "Ὁ ἀπαθὴς κατʼ οὐσίαν, πῶς πάθος ὑπέστης; ὁ τὴν ζωήν μοι ἐμπνέων, πῶς θνῄσκεις ἐν ξύλῳ; Μέγα σου τὸ ἔλεος, καὶ ἡ μακροθυμία σου!"
 
 ocMA.OdeW3C12.mode = misc_gr_GR_cog.Mode7
 ocMA.OdeW3C12.ode = misc_gr_GR_cog.Ode3
@@ -276,8 +280,8 @@ ocMA.OdeW4C21.text = "Ἐπάξιόν σοι ᾠδήν, τὸ Χαῖρε Ἁ
 ocMA.OdeW4C22.mode = misc_gr_GR_cog.Mode7
 ocMA.OdeW4C22.ode = misc_gr_GR_cog.Ode4
 ocMA.OdeW4C22.melody = he.h.m3_gr_GR_cog.EkalypsenOuranous.name
-ocMA.OdeW4C22.incipit = "Ἐπήγειρον καθ' ἡμῶν, κινδύνους πολλούς…"
-ocMA.OdeW4C22.text = "Ἐπήγειρον καθ' ἡμῶν, κινδύνους πολλούς, τῶν παθῶν αἱ ἁμαρτίαι· ἀλλὰ ἡ θεία σου σκέπη, ἡμᾶς Ἁγνὴ ἐῤῥύσατο."
+ocMA.OdeW4C22.incipit = "Ἐπήγειρον καθʼ ἡμῶν, κινδύνους πολλούς…"
+ocMA.OdeW4C22.text = "Ἐπήγειρον καθʼ ἡμῶν, κινδύνους πολλούς, τῶν παθῶν αἱ ἁμαρτίαι· ἀλλὰ ἡ θεία σου σκέπη, ἡμᾶς Ἁγνὴ ἐῤῥύσατο."
 
 ocMA.OdeW4C23.mode = misc_gr_GR_cog.Mode7
 ocMA.OdeW4C23.ode = misc_gr_GR_cog.Ode4
@@ -475,7 +479,7 @@ ocMA.OdeW7C24.mode = misc_gr_GR_cog.Mode7
 ocMA.OdeW7C24.ode = misc_gr_GR_cog.Ode7
 ocMA.OdeW7C24.melody = he.h.m7_gr_GR_cog.TousEnKaminoPaidasMimoumenoi.name
 ocMA.OdeW7C24.incipit = "Τὴν χάριν τῆς πρεσβείας σου…"
-ocMA.OdeW7C24.text = "Τὴν χάριν τῆς πρεσβείας σου κηρύττομεν, στόματι καὶ πνεύματι ἀεί, ὡς δι' αὐτῆς καὶ πειρασμῶν καὶ τυραννίδος, καὶ βαρείας θλίψεως, καὶ παντοίων παθῶν, οἱ δοῦλοί σου λυτρούμενοι."
+ocMA.OdeW7C24.text = "Τὴν χάριν τῆς πρεσβείας σου κηρύττομεν, στόματι καὶ πνεύματι ἀεί, ὡς διʼ αὐτῆς καὶ πειρασμῶν καὶ τυραννίδος, καὶ βαρείας θλίψεως, καὶ παντοίων παθῶν, οἱ δοῦλοί σου λυτρούμενοι."
 
 ocMA.OdeW8C1H.mode = misc_gr_GR_cog.Mode7
 ocMA.OdeW8C1H.ode = misc_gr_GR_cog.Ode8
@@ -615,7 +619,7 @@ ocMA.Aposticha3.text = oc.m7.d2_gr_GR_cog.ocMA.Aposticha3.text
 ocMA.AposTheotokion.mode = misc_gr_GR_cog.Mode7
 ocMA.AposTheotokion.melody = he.a.m7_gr_GR_cog.SimeronGrigoreiOIoudas.name
 ocMA.AposTheotokion.incipit = "Σταύρωσιν καὶ σφαγὴν ὡς κακοῦργος…"
-ocMA.AposTheotokion.text = "Σταύρωσιν καὶ σφαγὴν ὡς κακοῦργος, κατεδέξω Μακρόθυμε, ἵνα πεπτωκότας ἡμᾶς διὰ ξύλου, πάλιν διὰ ξύλου Σταυροῦ σου ὑψώσῃς, ἀλλ' ἡ τετοκυῖά σε Παρθένος ἐξεπλήττετο, νεκρὸν καθορῶσά σε, καὶ στένουσα ἔκραζεν· Ὢ μανία ἄδικος! πῶς κτείνουσιν ἄνομοι τὸν Δίκαιον;"
+ocMA.AposTheotokion.text = "Σταύρωσιν καὶ σφαγὴν ὡς κακοῦργος, κατεδέξω Μακρόθυμε, ἵνα πεπτωκότας ἡμᾶς διὰ ξύλου, πάλιν διὰ ξύλου Σταυροῦ σου ὑψώσῃς, ἀλλʼ ἡ τετοκυῖά σε Παρθένος ἐξεπλήττετο, νεκρὸν καθορῶσά σε, καὶ στένουσα ἔκραζεν· Ὢ μανία ἄδικος! πῶς κτείνουσιν ἄνομοι τὸν Δίκαιον;"
 
 ocMA.ApolTheotokion.mode = misc_gr_GR_cog.Mode7
 ocMA.ApolTheotokion.melody = ""

@@ -25,7 +25,7 @@ meVE.Stichera01.text = "Χάριν, ἀπαντλήσας δαψιλῶς, γ�
 meVE.Stichera02.mode = misc_gr_GR_cog.Mode2
 meVE.Stichera02.melody = he.a.m2_gr_GR_cog.OteEkTouXylou.name
 meVE.Stichera02.incipit = "Βίον, διανύσας εὐκλεῆ, καὶ τῶν…"
-meVE.Stichera02.text = "Βίον, διανύσας εὐκλεῆ, καὶ τῶν ἀρετῶν συναθροίσας, τὸν πλοῦτον Ὅσιε, πλήρης δι' ἀθλήσεως, καλῶν πρὸς Κύριον, ὡς ὁ πρὶν ἐξεδήμησας, Ἀβραὰμ Ἀντίπα· ὅθεν καὶ τῆς κρείττονος δόξης ἠξίωσαι, χαίρων, τοῦ Χριστοῦ σὺν τοῖς μύσταις, καὶ ὑπὲρ ἡμῶν ἱκετεύων, τῶν πιστῶς τιμώντων σου τὴν ἄθλησιν."
+meVE.Stichera02.text = "Βίον, διανύσας εὐκλεῆ, καὶ τῶν ἀρετῶν συναθροίσας, τὸν πλοῦτον Ὅσιε, πλήρης διʼ ἀθλήσεως, καλῶν πρὸς Κύριον, ὡς ὁ πρὶν ἐξεδήμησας, Ἀβραὰμ Ἀντίπα· ὅθεν καὶ τῆς κρείττονος δόξης ἠξίωσαι, χαίρων, τοῦ Χριστοῦ σὺν τοῖς μύσταις, καὶ ὑπὲρ ἡμῶν ἱκετεύων, τῶν πιστῶς τιμώντων σου τὴν ἄθλησιν."
 
 meVE.Stichera03.mode = misc_gr_GR_cog.Mode2
 meVE.Stichera03.melody = he.a.m2_gr_GR_cog.OteEkTouXylou.name
@@ -48,6 +48,10 @@ meVE.Apolytikion1.incipit = "Μυροβλύτην τὸν θεῖον καὶ �
 meVE.Apolytikion1.text = "Μυροβλύτην τὸν θεῖον καὶ μαρτύρων τὸν σύναθλον, τὸν πανευκλεῆ ἱεράρχην καὶ Περγάμου τὸν πρόεδρον, τιμήσωμεν Ἀντίπαν οἱ πιστοί, ὡς τάχιστον καὶ μέγαν ἰατρόν, τῆς δεινῆς ὀδόντων νόσου, καὶ πρὸς αὐτὸν ἀπὸ ψυχῆς βοήσωμεν· Δόξα τῷ σὲ δοξάσαντι Χριστῷ, δόξα τῷ σὲ στεφανώσαντι, δόξα τῷ ἐνεργοῦντι διὰ σοῦ πᾶσιν ἰάματα."
 
 meMA.C1.poet = poets_gr_GR_cog.Iosif
+meMA.C1.acrostic.title = ""
+meMA.C1.acrostic.notice1 = ""
+meMA.C1.acrostic.text = ""
+//meMA.C1.acrostic.notice2 = ""
 meMA.C1.acrostic = "οὗ ἡ Ἀκροστιχίς· Τὸν φαιδρὸν ἐν Μάρτυσιν Ἀντίπαν σέβω."
 
 meMA.Ode1C1H.ode = misc_gr_GR_cog.Ode1
@@ -75,7 +79,7 @@ meMA.Ode1C13.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C13.mode = misc_gr_GR_cog.Mode4
 meMA.Ode1C13.melody = he.h.m4_gr_GR_cog.ThalassisToErythraion.name
 meMA.Ode1C13.incipit = "Νομίμως, τὸ ἱερόν σου ποίμνιον…"
-meMA.Ode1C13.text = "Νομίμως, τὸ ἱερόν σου ποίμνιον, ὄντως ἐποίμανας, καὶ ἐπὶ χλόην Πάτερ τῶν Χριστοῦ, διδαγμάτων ἐξέθρεψας, νῦν δ' ἐποπτεύεις ἄνωθεν, στέφει Μαρτύρων κλεϊζόμενος."
+meMA.Ode1C13.text = "Νομίμως, τὸ ἱερόν σου ποίμνιον, ὄντως ἐποίμανας, καὶ ἐπὶ χλόην Πάτερ τῶν Χριστοῦ, διδαγμάτων ἐξέθρεψας, νῦν δʼ ἐποπτεύεις ἄνωθεν, στέφει Μαρτύρων κλεϊζόμενος."
 
 meMA.Ode1C1T.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C1T.mode = misc_gr_GR_cog.Mode4
@@ -99,7 +103,7 @@ meMA.Ode3C12.ode = misc_gr_GR_cog.Ode3
 meMA.Ode3C12.mode = misc_gr_GR_cog.Mode4
 meMA.Ode3C12.melody = he.h.m4_gr_GR_cog.EffrainetaiEpiSoi.name
 meMA.Ode3C12.incipit = "Ἰσχύι δυναμωθείς, τοῦ τὴν ἀσθένειαν…"
-meMA.Ode3C12.text = "Ἰσχύι δυναμωθείς, τοῦ τὴν ἀσθένειαν ἡμῶν ἄραντος, δαιμονικὴν ἔθραυσας, Ἔνδοξε ἰσχὺν δι' ἀθλήσεως."
+meMA.Ode3C12.text = "Ἰσχύι δυναμωθείς, τοῦ τὴν ἀσθένειαν ἡμῶν ἄραντος, δαιμονικὴν ἔθραυσας, Ἔνδοξε ἰσχὺν διʼ ἀθλήσεως."
 
 meMA.Ode3C13.ode = misc_gr_GR_cog.Ode3
 meMA.Ode3C13.mode = misc_gr_GR_cog.Mode4

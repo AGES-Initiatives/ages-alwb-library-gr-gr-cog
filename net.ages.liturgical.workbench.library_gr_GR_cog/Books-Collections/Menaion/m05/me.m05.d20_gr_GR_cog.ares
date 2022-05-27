@@ -42,6 +42,10 @@ meVE.SticStavrotheotokion.melody = he.a.m4_gr_GR_cog.EdokasSimeiosin.name
 meVE.SticStavrotheotokion.incipit = me.m05.d18_gr_GR_cog.meVE.SticStavrotheotokion.incipit
 meVE.SticStavrotheotokion.text = me.m05.d18_gr_GR_cog.meVE.SticStavrotheotokion.text
 
+meMA.C1.acrostic.title = ""
+meMA.C1.acrostic.notice1 = ""
+meMA.C1.acrostic.text = ""
+//meMA.C1.acrostic.notice2 = ""
 meMA.C1.acrostic = "οὗ ἡ Ἀκροστιχίς. Τὸν κ(λεινὸν) Θαλλέλαιον εὐφημεῖν θέμις. Ἰωσήφ."
 
 meMA.C1.title = ""
@@ -81,7 +85,7 @@ meMA.Ode3C12.ode = misc_gr_GR_cog.Ode3
 meMA.Ode3C12.mode = misc_gr_GR_cog.Mode4
 meMA.Ode3C12.melody = he.h.m4_gr_GR_cog.OStereonVrontin.name
 meMA.Ode3C12.incipit = "Ἀποσκοπῶν πρὸς μόνον τὸν Δεσπότην…"
-meMA.Ode3C12.text = "Ἀποσκοπῶν πρὸς μόνον τὸν Δεσπότην, τὸν νίκην σοι παρέχοντα, οὐ παρετράπης τῆς ἀληθοῦς Ἀθλητὰ ὁμολογίας, ἀλλ' ἀκλινὴς διέμεινας, ἐκπλήττων καὶ τοὺς ἄφρονας."
+meMA.Ode3C12.text = "Ἀποσκοπῶν πρὸς μόνον τὸν Δεσπότην, τὸν νίκην σοι παρέχοντα, οὐ παρετράπης τῆς ἀληθοῦς Ἀθλητὰ ὁμολογίας, ἀλλʼ ἀκλινὴς διέμεινας, ἐκπλήττων καὶ τοὺς ἄφρονας."
 
 meMA.Ode3C13.ode = misc_gr_GR_cog.Ode3
 meMA.Ode3C13.mode = misc_gr_GR_cog.Mode4
@@ -138,7 +142,7 @@ meMA.Ode4C1T.ode = misc_gr_GR_cog.Ode4
 meMA.Ode4C1T.mode = misc_gr_GR_cog.Mode4
 meMA.Ode4C1T.melody = he.h.m4_gr_GR_cog.EisakikoaKyrie.name
 meMA.Ode4C1T.incipit = "Ἱεροὶ Προφῆται, τὴν σὴν λοχείαν…"
-meMA.Ode4C1T.text = "Ἱεροὶ Προφῆται, τὴν σὴν λοχείαν πάλαι προανεφώνουν, ὄρος μέγα καὶ κατάσκιον, Πύλην τε καλοῦντές σε, δι' ἧς Κύριος μόνος Ἁγνὴ διώδευσεν."
+meMA.Ode4C1T.text = "Ἱεροὶ Προφῆται, τὴν σὴν λοχείαν πάλαι προανεφώνουν, ὄρος μέγα καὶ κατάσκιον, Πύλην τε καλοῦντές σε, διʼ ἧς Κύριος μόνος Ἁγνὴ διώδευσεν."
 
 meMA.Ode5C11.ode = misc_gr_GR_cog.Ode5
 meMA.Ode5C11.mode = misc_gr_GR_cog.Mode4
@@ -168,7 +172,7 @@ meMA.Ode6C11.ode = misc_gr_GR_cog.Ode6
 meMA.Ode6C11.mode = misc_gr_GR_cog.Mode4
 meMA.Ode6C11.melody = he.h.m4_gr_GR_cog.ZaliMeLogismon.name
 meMA.Ode6C11.incipit = "Φάλαγγας δαιμόνων ἐτροπώσω, συνεργοὺς Θαλλέλαιε…"
-meMA.Ode6C11.text = "Φάλαγγας δαιμόνων ἐτροπώσω, συνεργοὺς Θαλλέλαιε, ἁγίους ἔχων Ἀγγέλους, ἐν καιρῷ τῶν ἀγώνων σου σοφέ, δι' ὧν στεφανηφόρος, ἀναδειχθεὶς δόξης ἔτυχες."
+meMA.Ode6C11.text = "Φάλαγγας δαιμόνων ἐτροπώσω, συνεργοὺς Θαλλέλαιε, ἁγίους ἔχων Ἀγγέλους, ἐν καιρῷ τῶν ἀγώνων σου σοφέ, διʼ ὧν στεφανηφόρος, ἀναδειχθεὶς δόξης ἔτυχες."
 
 meMA.Ode6C12.ode = misc_gr_GR_cog.Ode6
 meMA.Ode6C12.mode = misc_gr_GR_cog.Mode4
@@ -239,7 +243,7 @@ meMA.Ode8C13.ode = misc_gr_GR_cog.Ode8
 meMA.Ode8C13.mode = misc_gr_GR_cog.Mode4
 meMA.Ode8C13.melody = he.h.m4_gr_GR_cog.EnFlogiPyros.name
 meMA.Ode8C13.incipit = "Συγχορεύουσι τῇ μνήμη σου, τοῖς…"
-meMA.Ode8C13.text = "Συγχορεύουσι τῇ μνήμη σου, τοῖς πιστοῖς ἀθληταὶ Ὅσιοι, Ἀγγέλων δῆμοι, Ἀποστόλων Προφητῶν, μεθ' ὧν τὰς οὐρανίους, κληρούμενος σκηνώσεις, μὴ παύσῃ ὑπὲρ πάντων ἡμῶν, πρεσβεύων ἀθλοφόρε."
+meMA.Ode8C13.text = "Συγχορεύουσι τῇ μνήμη σου, τοῖς πιστοῖς ἀθληταὶ Ὅσιοι, Ἀγγέλων δῆμοι, Ἀποστόλων Προφητῶν, μεθʼ ὧν τὰς οὐρανίους, κληρούμενος σκηνώσεις, μὴ παύσῃ ὑπὲρ πάντων ἡμῶν, πρεσβεύων ἀθλοφόρε."
 
 meMA.Ode8C1T.ode = misc_gr_GR_cog.Ode8
 meMA.Ode8C1T.mode = misc_gr_GR_cog.Mode4

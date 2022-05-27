@@ -49,8 +49,8 @@ meVE.Stichera06.text = "Τῇ καθαρᾷ σου καρδίᾳ Θεὸν ἐ�
 
 meVE.SticGlory.mode = misc_gr_GR_cog.Mode2
 meVE.SticGlory.melody = ""
-meVE.SticGlory.incipit = "Παντὸς Δικαίου μνήμη μέτ' ἐγκωμίων…"
-meVE.SticGlory.text = "Παντὸς Δικαίου μνήμη μέτ' ἐγκωμίων γίνεται, μεθ' ὧν καὶ ἡ σή, θεράπον Χριστοῦ Εὐδόκιμε· ὅπλον γὰρ ἔσχες Σταυρόν, καὶ κράτος ἀήττητον, Τριάδος ὁμοουσίου πίστιν· διὰ τοῦτο μετ' Ἀγγέλων, συναναπαύῃ ἀείμνηστε."
+meVE.SticGlory.incipit = "Παντὸς Δικαίου μνήμη μέτʼ ἐγκωμίων…"
+meVE.SticGlory.text = "Παντὸς Δικαίου μνήμη μέτʼ ἐγκωμίων γίνεται, μεθʼ ὧν καὶ ἡ σή, θεράπον Χριστοῦ Εὐδόκιμε· ὅπλον γὰρ ἔσχες Σταυρόν, καὶ κράτος ἀήττητον, Τριάδος ὁμοουσίου πίστιν· διὰ τοῦτο μετʼ Ἀγγέλων, συναναπαύῃ ἀείμνηστε."
 
 meVE.SticBoth.mode = misc_gr_GR_cog.Mode2
 meVE.SticBoth.melody = ""
@@ -71,8 +71,12 @@ meVE.Apolytikion2.poet = poets_gr_GR_cog.Gerasimou
 meVE.Apolytikion2.mode = misc_gr_GR_cog.Mode1
 meVE.Apolytikion2.melody = he.a.m1_gr_GR_cog.ChorosAngelikos.name
 meVE.Apolytikion2.incipit = "Τὸν τίμιον Σταυρόν, τὸ σωτήριον…"
-meVE.Apolytikion2.text = "Τὸν τίμιον Σταυρόν, τὸ σωτήριον ὅπλον, δεξώμεθα πιστοί, καθαρᾷ διανοίᾳ· προέρχεσθαι μέλλει γάρ, θείαν χάριν δωρούμενος, καὶ ἰώμενος, ψυχῶν ὁμοῦ καὶ σωμάτων, τὰ νοσήματα, δι' ἐνεργείας ἀῤῥήτου, Χριστοῦ τοῦ Θεοῦ ἡμῶν."
+meVE.Apolytikion2.text = "Τὸν τίμιον Σταυρόν, τὸ σωτήριον ὅπλον, δεξώμεθα πιστοί, καθαρᾷ διανοίᾳ· προέρχεσθαι μέλλει γάρ, θείαν χάριν δωρούμενος, καὶ ἰώμενος, ψυχῶν ὁμοῦ καὶ σωμάτων, τὰ νοσήματα, διʼ ἐνεργείας ἀῤῥήτου, Χριστοῦ τοῦ Θεοῦ ἡμῶν."
 
+meMA.C1.acrostic.title = ""
+meMA.C1.acrostic.notice1 = ""
+meMA.C1.acrostic.text = ""
+//meMA.C1.acrostic.notice2 = ""
 meMA.C1.acrostic = "οὗ ἡ Ἀκροστιχίς· Ὑμνῶ μάκαρ σοῦ τοὺς πανευσεβεὶς τρόπους. Ὁ Ἰωσήφ."
 
 meMA.C1.title = titles_gr_GR_cog.KanonTouAgiou
@@ -152,7 +156,7 @@ meMA.Ode4C12.ode = misc_gr_GR_cog.Ode4
 meMA.Ode4C12.mode = misc_gr_GR_cog.Mode2
 meMA.Ode4C12.melody = he.h.m2_gr_GR_cog.ElilythasEkParthenou.name
 meMA.Ode4C12.incipit = "Οὐ σύγχυσις κοσμικὴ οὐκ ἀρχῆς…"
-meMA.Ode4C12.text = "Οὐ σύγχυσις κοσμικὴ οὐκ ἀρχῆς ἐπικράτεια, οὐ δόξα ἐπίκηρος, σοῦ τὸν πρὸς Κύριον ἔρωτα, ἤμβλυνεν Εὐδόκιμε, ἀλλ' εὐδοκίμησας ὄντως θείαις πράξεσιν."
+meMA.Ode4C12.text = "Οὐ σύγχυσις κοσμικὴ οὐκ ἀρχῆς ἐπικράτεια, οὐ δόξα ἐπίκηρος, σοῦ τὸν πρὸς Κύριον ἔρωτα, ἤμβλυνεν Εὐδόκιμε, ἀλλʼ εὐδοκίμησας ὄντως θείαις πράξεσιν."
 
 meMA.Ode4C13.ode = misc_gr_GR_cog.Ode4
 meMA.Ode4C13.mode = misc_gr_GR_cog.Mode2
@@ -212,7 +216,7 @@ meMA.Ode6C13.ode = misc_gr_GR_cog.Ode6
 meMA.Ode6C13.mode = misc_gr_GR_cog.Mode2
 meMA.Ode6C13.melody = he.h.m2_gr_GR_cog.EnAvyssoPtaismaton.name
 meMA.Ode6C13.incipit = "Βασιλείαν Θεοῦ ἐπεπόθησας, καὶ κατὰ…"
-meMA.Ode6C13.text = "Βασιλείαν Θεοῦ ἐπεπόθησας, καὶ κατὰ παθῶν βασιλεύσας Ἀοίδιμε, κατ' εὐδοκίαν κρείττονα, τῆς χαρᾶς τῶν Δικαίων ἐπέτυχες."
+meMA.Ode6C13.text = "Βασιλείαν Θεοῦ ἐπεπόθησας, καὶ κατὰ παθῶν βασιλεύσας Ἀοίδιμε, κατʼ εὐδοκίαν κρείττονα, τῆς χαρᾶς τῶν Δικαίων ἐπέτυχες."
 
 meMA.Ode6C1T.ode = misc_gr_GR_cog.Ode6
 meMA.Ode6C1T.mode = misc_gr_GR_cog.Mode2
@@ -308,7 +312,7 @@ meMA.Ode9C13.ode = misc_gr_GR_cog.Ode9
 meMA.Ode9C13.mode = misc_gr_GR_cog.Mode2
 meMA.Ode9C13.melody = he.h.m2_gr_GR_cog.AnarchouGennitoros.name
 meMA.Ode9C13.incipit = "Σοφίᾳ κοσμούμενος, καὶ γνώσει λαμπρυνόμενος…"
-meMA.Ode9C13.text = "Σοφίᾳ κοσμούμενος, καὶ γνώσει λαμπρυνόμενος, ταπεινώσει καρδίας ὡραϊζόμενος, ὕψει πολιτείας ἐμπρέπων, πρὸς νοητάς, ἐπέβης ἐπαύλεις, μεθ' ὧν ἡμῶν μνήσθητι, τῶν τιμώντων σε Εὐδόκιμε."
+meMA.Ode9C13.text = "Σοφίᾳ κοσμούμενος, καὶ γνώσει λαμπρυνόμενος, ταπεινώσει καρδίας ὡραϊζόμενος, ὕψει πολιτείας ἐμπρέπων, πρὸς νοητάς, ἐπέβης ἐπαύλεις, μεθʼ ὧν ἡμῶν μνήσθητι, τῶν τιμώντων σε Εὐδόκιμε."
 
 meMA.Ode9C14.ode = misc_gr_GR_cog.Ode9
 meMA.Ode9C14.mode = misc_gr_GR_cog.Mode2
@@ -336,7 +340,7 @@ meMA.Exaposteilarion1.text = "Καὶ ζῶν Εὐδόκιμος ὤφθης, 
 meMA.Exaposteilarion2.mode = misc_gr_GR_cog.Mode2
 meMA.Exaposteilarion2.melody = he.a.m2_gr_GR_cog.GynaikesAkoutisthite.name
 meMA.Exaposteilarion2.incipit = "Σταυρὸς προεορτάζεται, καὶ κόσμος ἁγιάζεται…"
-meMA.Exaposteilarion2.text = "Σταυρὸς προεορτάζεται, καὶ κόσμος ἁγιάζεται, τάξεις Ἀγγέλων ὑμνοῦσι, τὸν δι' ἡμᾶς σταυρωθέντα, καὶ συμπανηγυρίζουσιν, ἡμῖν καὶ συναγάλλονται, δαυϊτικῶς κραυγάζοντες· Εἰργάσατο σωτηρίαν, ἐν μέσῳ γῆς ὁ Δεσπότης."
+meMA.Exaposteilarion2.text = "Σταυρὸς προεορτάζεται, καὶ κόσμος ἁγιάζεται, τάξεις Ἀγγέλων ὑμνοῦσι, τὸν διʼ ἡμᾶς σταυρωθέντα, καὶ συμπανηγυρίζουσιν, ἡμῖν καὶ συναγάλλονται, δαυϊτικῶς κραυγάζοντες· Εἰργάσατο σωτηρίαν, ἐν μέσῳ γῆς ὁ Δεσπότης."
 
 meLI.Kontakion1.mode = ""
 meLI.Kontakion1.melody = ""

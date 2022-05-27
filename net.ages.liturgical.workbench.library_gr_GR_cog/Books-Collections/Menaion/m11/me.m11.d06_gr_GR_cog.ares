@@ -43,7 +43,7 @@ meVE.SticGlory.poet = poets_gr_GR_cog.Germanou
 meVE.SticGlory.mode = misc_gr_GR_cog.Mode1
 meVE.SticGlory.melody = ""
 meVE.SticGlory.incipit = "Ἀρχιερατικὴν στολὴν ἐνδυσάμενος, Ὅσιε Πάτερ…"
-meVE.SticGlory.text = "Ἀρχιερατικὴν στολὴν ἐνδυσάμενος, Ὅσιε Πάτερ, τὸν ὁμώνυμον Παῦλον ἐζήλωσας, διωγμοὺς ὑπομείνας καὶ περιστάσεις, καὶ ἐν τοῖς σοῖς οἰκείοις πόνοις, τὰ βλάσφημα δόγματα Ἀρείου κατέβαλες· παθὼν γὰρ ὑπὲρ τῆς ἀνάρχου, καὶ ὁμοουσίου Τριάδος, τὸν δυσσεβῆ καὶ πνευματομάχον καθεῖλες Μακεδόνιον, καὶ τὴν ὀρθόδοξον πᾶσι τρανώσας πίστιν, τοῖς ἀΰλοις συναυλίζῃ Ἀγγέλοις, μεθ' ὧν καὶ νῦν ἱκέτευε τοῦ σωθῆναι τὰς ψυχὰς ἡμῶν."
+meVE.SticGlory.text = "Ἀρχιερατικὴν στολὴν ἐνδυσάμενος, Ὅσιε Πάτερ, τὸν ὁμώνυμον Παῦλον ἐζήλωσας, διωγμοὺς ὑπομείνας καὶ περιστάσεις, καὶ ἐν τοῖς σοῖς οἰκείοις πόνοις, τὰ βλάσφημα δόγματα Ἀρείου κατέβαλες· παθὼν γὰρ ὑπὲρ τῆς ἀνάρχου, καὶ ὁμοουσίου Τριάδος, τὸν δυσσεβῆ καὶ πνευματομάχον καθεῖλες Μακεδόνιον, καὶ τὴν ὀρθόδοξον πᾶσι τρανώσας πίστιν, τοῖς ἀΰλοις συναυλίζῃ Ἀγγέλοις, μεθʼ ὧν καὶ νῦν ἱκέτευε τοῦ σωθῆναι τὰς ψυχὰς ἡμῶν."
 
 meVE.SticTheotokion.mode = misc_gr_GR_cog.Mode1
 meVE.SticTheotokion.melody = misc_gr_GR_cog.Automelon
@@ -69,7 +69,7 @@ meVE.AposTheotokion.text = "Ὥσπερ, ἐν λιμένι προσδραμώ
 meVE.AposStavrotheotokion.mode = misc_gr_GR_cog.Mode2
 meVE.AposStavrotheotokion.melody = he.a.m2_gr_GR_cog.OteEkTouXylou.name
 meVE.AposStavrotheotokion.incipit = "Βότρυν, ἡ τεκοῦσα τῆς ζωῆς…"
-meVE.AposStavrotheotokion.text = "Βότρυν, ἡ τεκοῦσα τῆς ζωῆς, τὸν ἀγεωργήτως ἐν μήτρᾳ σοῦ ἐκβλαστήσαντα, ξύλῳ ὡς ἑώρακας, τοῦτον κρεμάμενον, θρηνῳδοῦσα ὠλόλυζες, καὶ ἔκραζες· Τέκνον, γλεῦκος ἐναπόσταξον, δι' οὗ ἡ μέθη ἀρθῇ, πᾶσα τῶν παθῶν Εὐεργέτα, δι' ἐμοῦ τῆς σὲ τετοκυίας, σοῦ τὴν εὐσπλαγχνίαν ἐνδεικνύμενος."
+meVE.AposStavrotheotokion.text = "Βότρυν, ἡ τεκοῦσα τῆς ζωῆς, τὸν ἀγεωργήτως ἐν μήτρᾳ σοῦ ἐκβλαστήσαντα, ξύλῳ ὡς ἑώρακας, τοῦτον κρεμάμενον, θρηνῳδοῦσα ὠλόλυζες, καὶ ἔκραζες· Τέκνον, γλεῦκος ἐναπόσταξον, διʼ οὗ ἡ μέθη ἀρθῇ, πᾶσα τῶν παθῶν Εὐεργέτα, διʼ ἐμοῦ τῆς σὲ τετοκυίας, σοῦ τὴν εὐσπλαγχνίαν ἐνδεικνύμενος."
 
 meVE.Apolytikion1.mode = misc_gr_GR_cog.Mode3
 meVE.Apolytikion1.melody = misc_gr_GR_cog.Automelon
@@ -77,6 +77,10 @@ meVE.Apolytikion1.incipit = he.a.m3_gr_GR_cog.TheiasPisteos.incipit
 meVE.Apolytikion1.text = he.a.m3_gr_GR_cog.TheiasPisteos.text
 
 meMA.C1.poet = poets_gr_GR_cog.Theofanous
+meMA.C1.acrostic.title = ""
+meMA.C1.acrostic.notice1 = ""
+meMA.C1.acrostic.text = ""
+//meMA.C1.acrostic.notice2 = ""
 meMA.C1.acrostic = "οὗ ἡ Ἀκροστιχίς· Τὸν μυσταγωγὸν Παῦλον ὑμνῶ προφρόνως."
 
 meMA.C1.title = titles_gr_GR_cog.KanonTouAgiou
@@ -122,7 +126,7 @@ meMA.Ode3C13.ode = misc_gr_GR_cog.Ode3
 meMA.Ode3C13.mode = misc_gr_GR_cog.Mode4
 meMA.Ode3C13.melody = he.h.m4_gr_GR_cog.TousSousYmnologous.name
 meMA.Ode3C13.incipit = "Τῆς ὑπερουσίου ἐξουσίας, τὸ Πνεῦμα…"
-meMA.Ode3C13.text = "Τῆς ὑπερουσίου ἐξουσίας, τὸ Πνεῦμα τὸ Ἅγιον Θεοῦ, δι' οὗ θεοποιούμεθα, κρίσει δικαίᾳ Πάνσοφε, φύσει Θεὸν ἐδίδαξας,καὶ παντουργὸν καὶ παντοδύναμον."
+meMA.Ode3C13.text = "Τῆς ὑπερουσίου ἐξουσίας, τὸ Πνεῦμα τὸ Ἅγιον Θεοῦ, διʼ οὗ θεοποιούμεθα, κρίσει δικαίᾳ Πάνσοφε, φύσει Θεὸν ἐδίδαξας,καὶ παντουργὸν καὶ παντοδύναμον."
 
 meMA.Ode3C1T.ode = misc_gr_GR_cog.Ode3
 meMA.Ode3C1T.mode = misc_gr_GR_cog.Mode4

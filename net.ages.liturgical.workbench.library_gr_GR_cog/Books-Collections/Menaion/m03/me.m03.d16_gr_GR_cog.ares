@@ -25,7 +25,7 @@ meVE.Stichera01.text = "Κύριε, σὺ τὸ ἀσθενὲς τῆς ἀν�
 meVE.Stichera02.mode = misc_gr_GR_cog.Mode8
 meVE.Stichera02.melody = he.a.m8_gr_GR_cog.KyrieEiKaiKritirio.name
 meVE.Stichera02.incipit = "Κύριε, σὺ τὸν Ἀθλοφόρον ἐκ…"
-meVE.Stichera02.text = "Κύριε, σὺ τὸν Ἀθλοφόρον ἐκ σκότους, πρὸς φῶς τῆς θείας σκηνώσεως τῇ τοῦ Παρακλήτου ἐμπνεύσει, ὡς ἀγαθὸς μετεποίησας, καὶ κραταιὸν κατ' ἐχθρῶν, ἀνέδειξας ὁπλίτην σου· διὰ τοῦτο ἀριστεύων, ἐδόξασέ σε φιλάνθρωπε."
+meVE.Stichera02.text = "Κύριε, σὺ τὸν Ἀθλοφόρον ἐκ σκότους, πρὸς φῶς τῆς θείας σκηνώσεως τῇ τοῦ Παρακλήτου ἐμπνεύσει, ὡς ἀγαθὸς μετεποίησας, καὶ κραταιὸν κατʼ ἐχθρῶν, ἀνέδειξας ὁπλίτην σου· διὰ τοῦτο ἀριστεύων, ἐδόξασέ σε φιλάνθρωπε."
 
 meVE.Stichera03.mode = misc_gr_GR_cog.Mode8
 meVE.Stichera03.melody = he.a.m8_gr_GR_cog.KyrieEiKaiKritirio.name
@@ -54,6 +54,10 @@ meVE.Apolytikion2.melody = he.a.m1_gr_GR_cog.TisErimouPolitis.name
 meVE.Apolytikion2.incipit = "Τῆς Νικαίας τὸν γόνον καὶ…"
 meVE.Apolytikion2.text = "Τῆς Νικαίας τὸν γόνον καὶ τῆς Πάτμου τὸ καύχημα, καὶ τῶν Μοναζόντων τὸ κλέος, θεοφόρον Χριστόδουλον, τιμήσωμεν ἐν ὕμνοις ἀδελφοί, τὸ σκῆνος προσπτυσσόμενοι αὐτοῦ, ἵνα λάβωμεν τὴν ἴασιν τῶν ψυχῶν, καὶ τῶν σωμάτων κράζοντες· δόξα τῷ δεδωκότι σοι ἰσχύν, δόξα τῷ σὲ στεφανώσαντι, δόξα τῷ ἐνεργοῦντι διὰ σοῦ, πᾶσιν, ἰάματα."
 
+meMA.C1.acrostic.title = ""
+meMA.C1.acrostic.notice1 = ""
+meMA.C1.acrostic.text = ""
+//meMA.C1.acrostic.notice2 = ""
 meMA.C1.acrostic = "οὗ ἡ Ἀκροστιχίς, ἐν τοῖς Θεοτοκίοις. Γεωργίου."
 
 meMA.Ode1C1H.ode = misc_gr_GR_cog.Ode1
@@ -105,7 +109,7 @@ meMA.Ode3C12.ode = misc_gr_GR_cog.Ode3
 meMA.Ode3C12.mode = misc_gr_GR_cog.Mode8
 meMA.Ode3C12.melody = he.h.m8_gr_GR_cog.SyEiToStereoma.name
 meMA.Ode3C12.incipit = "Κράτος ἀπροσμάχητον, θωρακισάμενος Ἔνδοξε, τὴν…"
-meMA.Ode3C12.text = "Κράτος ἀπροσμάχητον, θωρακισάμενος Ἔνδοξε, τὴν τοῦ Χριστοῦ, πίστιν καὶ ἀγάπην, κατ' ἐχθρῶν σὺ ἠρίστευσας."
+meMA.Ode3C12.text = "Κράτος ἀπροσμάχητον, θωρακισάμενος Ἔνδοξε, τὴν τοῦ Χριστοῦ, πίστιν καὶ ἀγάπην, κατʼ ἐχθρῶν σὺ ἠρίστευσας."
 
 meMA.Ode3C13.ode = misc_gr_GR_cog.Ode3
 meMA.Ode3C13.mode = misc_gr_GR_cog.Mode8
@@ -180,7 +184,7 @@ meMA.Ode5C12.ode = misc_gr_GR_cog.Ode5
 meMA.Ode5C12.mode = misc_gr_GR_cog.Mode8
 meMA.Ode5C12.melody = he.h.m8_gr_GR_cog.FotisonImas.name
 meMA.Ode5C12.incipit = "Ἔχων ἐν ψυχῇ ὥσπερ λύχνον…"
-meMA.Ode5C12.text = "Ἔχων ἐν ψυχῇ ὥσπερ λύχνον φαεινότατον, τὴν Χριστοῦ θείαν ἀγάπησιν, πρὸς τοῦτον Μάρτυς, ὡδηγήθης δι' ἀθλήσεως."
+meMA.Ode5C12.text = "Ἔχων ἐν ψυχῇ ὥσπερ λύχνον φαεινότατον, τὴν Χριστοῦ θείαν ἀγάπησιν, πρὸς τοῦτον Μάρτυς, ὡδηγήθης διʼ ἀθλήσεως."
 
 meMA.Ode5C13.ode = misc_gr_GR_cog.Ode5
 meMA.Ode5C13.mode = misc_gr_GR_cog.Mode8
@@ -216,7 +220,7 @@ meMA.Ode6C13.ode = misc_gr_GR_cog.Ode6
 meMA.Ode6C13.mode = misc_gr_GR_cog.Mode8
 meMA.Ode6C13.melody = he.h.m8_gr_GR_cog.IlasthitiMoiSotir.name
 meMA.Ode6C13.incipit = "Τὴν ζάλην τοῦ μοχθηροῦ, Σαβίνε…"
-meMA.Ode6C13.text = "Τὴν ζάλην τοῦ μοχθηροῦ, Σαβίνε βίου κατέλιπες, εἰς ὅρμον δὲ τῆς Χριστοῦ κατήντησας πίστεως, δι' ἧς τῆς ἀθλήσεως, τὸν πλοῦτον εἰς θεῖα, ταμεῖα ἐναπέθηκας."
+meMA.Ode6C13.text = "Τὴν ζάλην τοῦ μοχθηροῦ, Σαβίνε βίου κατέλιπες, εἰς ὅρμον δὲ τῆς Χριστοῦ κατήντησας πίστεως, διʼ ἧς τῆς ἀθλήσεως, τὸν πλοῦτον εἰς θεῖα, ταμεῖα ἐναπέθηκας."
 
 meMA.Ode6C1T.ode = misc_gr_GR_cog.Ode6
 meMA.Ode6C1T.mode = misc_gr_GR_cog.Mode8

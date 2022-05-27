@@ -36,12 +36,12 @@ meVE.Stichera03.text = me.m08.d06_gr_GR_cog.meSV.Stichera3.text
 meVE.Stichera04.mode = misc_gr_GR_cog.Mode4
 meVE.Stichera04.melody = he.a.m4_gr_GR_cog.EdokasSimeiosin.name
 meVE.Stichera04.incipit = "Ἄνθρακὰ σοι ἔδωκε, Μάρτυς πυρὸς…"
-meVE.Stichera04.text = "Ἄνθρακὰ σοι ἔδωκε, Μάρτυς πυρὸς εἰς βοήθειαν, ὁ Δεσπότης καὶ Κύριος, ὑφ' οὗ πυρακτούμενος, τὸ γεῶδες σκῆνος, θᾶττον ἐξεδύσω, καὶ τὴν ἀθάνατον ζωήν, καὶ βασιλείαν ἐκληρονόμησας· διό σου τὴν χαρμόσυνον, χαρμονικῶς ἑορτάζομεν, ἑορτὴν παμμακάριστε στεφηφόρε Λαυρέντιε."
+meVE.Stichera04.text = "Ἄνθρακὰ σοι ἔδωκε, Μάρτυς πυρὸς εἰς βοήθειαν, ὁ Δεσπότης καὶ Κύριος, ὑφʼ οὗ πυρακτούμενος, τὸ γεῶδες σκῆνος, θᾶττον ἐξεδύσω, καὶ τὴν ἀθάνατον ζωήν, καὶ βασιλείαν ἐκληρονόμησας· διό σου τὴν χαρμόσυνον, χαρμονικῶς ἑορτάζομεν, ἑορτὴν παμμακάριστε στεφηφόρε Λαυρέντιε."
 
 meVE.Stichera05.mode = misc_gr_GR_cog.Mode4
 meVE.Stichera05.melody = he.a.m4_gr_GR_cog.EdokasSimeiosin.name
 meVE.Stichera05.incipit = "Ἄνθρακας ἐμάρανας, πλάνας εἰδώλων μακάριε…"
-meVE.Stichera05.text = "Ἄνθρακας ἐμάρανας, πλάνας εἰδώλων μακάριε, ἐπ' ἀνθράκων ὀπτώμενος, ὑφ' ὧν λεπτυνόμενος, τὸ παχὺ σαρκίον, ὡς βαρὺ φορτίον, ἀπετινάξω καὶ τὸν χοῦν, τῆς τῶν προγόνων ἡμῶν νεκρώσεως· ἐντεῦθεν ἀκατάσβεστος, ἄνθραξ ἡμῖν ἐχρημάτισας, καταυγάζων φαιδρότητι, τοὺς τιμῶντας τὴν μνήμην σου."
+meVE.Stichera05.text = "Ἄνθρακας ἐμάρανας, πλάνας εἰδώλων μακάριε, ἐπʼ ἀνθράκων ὀπτώμενος, ὑφʼ ὧν λεπτυνόμενος, τὸ παχὺ σαρκίον, ὡς βαρὺ φορτίον, ἀπετινάξω καὶ τὸν χοῦν, τῆς τῶν προγόνων ἡμῶν νεκρώσεως· ἐντεῦθεν ἀκατάσβεστος, ἄνθραξ ἡμῖν ἐχρημάτισας, καταυγάζων φαιδρότητι, τοὺς τιμῶντας τὴν μνήμην σου."
 
 meVE.Stichera06.mode = misc_gr_GR_cog.Mode4
 meVE.Stichera06.melody = he.a.m4_gr_GR_cog.EdokasSimeiosin.name
@@ -89,6 +89,10 @@ meMA.Kathisma21.melody = he.a.m4_gr_GR_cog.KateplagiIosif.name
 meMA.Kathisma21.incipit = me.m08.d08_gr_GR_cog.meMA.Kathisma21.incipit
 meMA.Kathisma21.text = me.m08.d08_gr_GR_cog.meMA.Kathisma21.text
 
+meMA.C1.acrostic.title = ""
+meMA.C1.acrostic.notice1 = ""
+meMA.C1.acrostic.text = ""
+//meMA.C1.acrostic.notice2 = ""
 meMA.C1.acrostic = "οὗ ἡ Ἀκροστιχίς. Λαυρέντιον κράτιστον ὑμνῶ προφρόνως."
 
 meMA.C1.title = ""
@@ -151,7 +155,7 @@ meMA.Ode3H.text = he.h.m4_gr_GR_cog.ToxonDynatonIsthenise.text
 meMA.Ode3Kathisma1.mode = misc_gr_GR_cog.Mode8
 meMA.Ode3Kathisma1.melody = he.a.m8_gr_GR_cog.TinSofianKaiLogon.name
 meMA.Ode3Kathisma1.incipit = "Τὸν οὐράνιον πλοῦτον συναγαγών, καὶ…"
-meMA.Ode3Kathisma1.text = "Τὸν οὐράνιον πλοῦτον συναγαγών, καὶ τοῖς πένησι τοῦτον προσαγαγών, ἐσκόρπισας ἔδωκας, δεομένοις τὸν ἄρτον σου, καὶ δι' αὐτοῦ κτησάμενος, ζωὴν τὴν ἀκήρατον, ἐν τῷ Χριστοῦ μαρτυρίῳ, διέπρεψας ἔνδοξε· ὅθεν ἀριστεύσας, καὶ νομίμως ἀθλήσας, τὸν στέφανον εἴληφας, ἐκ Θεοῦ τῶν καμάτων σου, Ἀθλοφόρε Λαυρέντιε, πρέσβευε Χριστῷ τῷ Θεῷ, τῶν πταισμάτων ἄφεσιν δωρήσασθαι, τοῖς ἑορτάζουσι πόθῳ, τὴν ἁγίαν μνήμην σου."
+meMA.Ode3Kathisma1.text = "Τὸν οὐράνιον πλοῦτον συναγαγών, καὶ τοῖς πένησι τοῦτον προσαγαγών, ἐσκόρπισας ἔδωκας, δεομένοις τὸν ἄρτον σου, καὶ διʼ αὐτοῦ κτησάμενος, ζωὴν τὴν ἀκήρατον, ἐν τῷ Χριστοῦ μαρτυρίῳ, διέπρεψας ἔνδοξε· ὅθεν ἀριστεύσας, καὶ νομίμως ἀθλήσας, τὸν στέφανον εἴληφας, ἐκ Θεοῦ τῶν καμάτων σου, Ἀθλοφόρε Λαυρέντιε, πρέσβευε Χριστῷ τῷ Θεῷ, τῶν πταισμάτων ἄφεσιν δωρήσασθαι, τοῖς ἑορτάζουσι πόθῳ, τὴν ἁγίαν μνήμην σου."
 
 meMA.Ode3Kathisma2.mode = misc_gr_GR_cog.Mode4
 meMA.Ode3Kathisma2.melody = he.a.m4_gr_GR_cog.EpefanisSimeron.name
@@ -192,7 +196,7 @@ meMA.Ode5C12.ode = misc_gr_GR_cog.Ode5
 meMA.Ode5C12.mode = misc_gr_GR_cog.Mode4
 meMA.Ode5C12.melody = he.h.m4_gr_GR_cog.AseveisOukOpsontai.name
 meMA.Ode5C12.incipit = "Τὸν Χριστὸν διάκονον, γενόμενον ἡμῖν…"
-meMA.Ode5C12.text = "Τὸν Χριστὸν διάκονον, γενόμενον ἡμῖν, δωρεῶν τῶν ἐκ τοῦ Πατρός, ἐπιγνοὺς διάκονος τούτου γεγένησαι, πρὸς αὐτὸν δι' αἵματος, ἐκδημήσας Παμμακάριστε."
+meMA.Ode5C12.text = "Τὸν Χριστὸν διάκονον, γενόμενον ἡμῖν, δωρεῶν τῶν ἐκ τοῦ Πατρός, ἐπιγνοὺς διάκονος τούτου γεγένησαι, πρὸς αὐτὸν διʼ αἵματος, ἐκδημήσας Παμμακάριστε."
 
 meMA.Ode5C13.ode = misc_gr_GR_cog.Ode5
 meMA.Ode5C13.mode = misc_gr_GR_cog.Mode4

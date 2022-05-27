@@ -43,6 +43,10 @@ meVE.SticStavrotheotokion.melody = he.a.m4_gr_GR_cog.EdokasSimeiosin.name
 meVE.SticStavrotheotokion.incipit = "Σταυρούμενον βλέπουσα, καὶ τὴν πλευρὰν…"
 meVE.SticStavrotheotokion.text = "Σταυρούμενον βλέπουσα, καὶ τὴν πλευρὰν ὀρυττόμενον, ὑπὸ λόγχης ἡ Πάναγνος, Χριστὸν τὸν φιλάνθρωπον, ἔκλαιε βοῶσα· Τί τοῦτο Υἱέ μου, τί σοι ἀχάριστος λαός, ἀνταποδίδωσιν ὧν πεποίηκας, καλῶν αὐτοῖς, καὶ σπεύδεις με, ἀτεκνωθῆναι παμφίλτατε; Καταπλήττομαι εὔσπλαγχνε, σὴν ἑκούσιον σταύρωσιν."
 
+meMA.C1.acrostic.title = ""
+meMA.C1.acrostic.notice1 = ""
+meMA.C1.acrostic.text = ""
+//meMA.C1.acrostic.notice2 = ""
 meMA.C1.acrostic = "οὗ ἡ Ἀκροστιχίς· Πιστῶς ἀνυμνῶ τοὺς πόνους τῶν Μαρτύρων. Ἰωσήφ."
 
 meMA.C1.title = ""
@@ -117,7 +121,7 @@ meMA.Ode3H.text = he.h.m4_gr_GR_cog.ToxonDynatonIsthenise.text
 meMA.Ode3Kathisma1.mode = misc_gr_GR_cog.Mode4
 meMA.Ode3Kathisma1.melody = he.a.m4_gr_GR_cog.TachyProkatalave.name
 meMA.Ode3Kathisma1.incipit = "Μαρτύρων ἐν αἵματι, καλλωπιζόμενοι, Κυρίῳ…"
-meMA.Ode3Kathisma1.text = "Μαρτύρων ἐν αἵματι, καλλωπιζόμενοι, Κυρίῳ παρίστασθε, τῷ τοῦ παντὸς Βασιλεῖ, καλλίνικοι Μάρτυρες· ὅθεν ἐν εὐφροσύνῃ, τὴν σεπτὴν ὑμῶν μνήμην, σήμερον ἐκτελοῦμεν ὀφλημάτων τὴν λύσιν, αἰτούμενοι εὑρεῖν δι' ὑμῶν, καὶ μέγα ἔλεος."
+meMA.Ode3Kathisma1.text = "Μαρτύρων ἐν αἵματι, καλλωπιζόμενοι, Κυρίῳ παρίστασθε, τῷ τοῦ παντὸς Βασιλεῖ, καλλίνικοι Μάρτυρες· ὅθεν ἐν εὐφροσύνῃ, τὴν σεπτὴν ὑμῶν μνήμην, σήμερον ἐκτελοῦμεν ὀφλημάτων τὴν λύσιν, αἰτούμενοι εὑρεῖν διʼ ὑμῶν, καὶ μέγα ἔλεος."
 
 //Find in back of Menaion
 meMA.Ode3KathismaT.mode = misc_gr_GR_cog.Mode4
@@ -181,8 +185,8 @@ meMA.Ode5C13.text = "Οἱ μανικῶς ἐρώμενοι, τοῦ σώμα
 meMA.Ode5C1T.ode = misc_gr_GR_cog.Ode5
 meMA.Ode5C1T.mode = misc_gr_GR_cog.Mode4
 meMA.Ode5C1T.melody = he.h.m4_gr_GR_cog.TonFotismonSouKyrie.name
-meMA.Ode5C1T.incipit = "Νύμφη Χριστοῦ ἀνύμφευτε, δι' ἧς…"
-meMA.Ode5C1T.text = "Νύμφη Χριστοῦ ἀνύμφευτε, δι' ἧς τοῦ παλαιοῦ, λυθέντες χρέους, υἱοὶ κατὰ χάριν, ὤφθημεν Πατρὸς ἐπουρανίου, τοὺς ὑμνοῦντάς σε φύλαττε."
+meMA.Ode5C1T.incipit = "Νύμφη Χριστοῦ ἀνύμφευτε, διʼ ἧς…"
+meMA.Ode5C1T.text = "Νύμφη Χριστοῦ ἀνύμφευτε, διʼ ἧς τοῦ παλαιοῦ, λυθέντες χρέους, υἱοὶ κατὰ χάριν, ὤφθημεν Πατρὸς ἐπουρανίου, τοὺς ὑμνοῦντάς σε φύλαττε."
 
 meMA.Ode6C11.ode = misc_gr_GR_cog.Ode6
 meMA.Ode6C11.mode = misc_gr_GR_cog.Mode4
@@ -302,7 +306,7 @@ meMA.Ode9C14.ode = misc_gr_GR_cog.Ode9
 meMA.Ode9C14.mode = misc_gr_GR_cog.Mode4
 meMA.Ode9C14.melody = he.h.m4_gr_GR_cog.EvaMenToTisParakois.name
 meMA.Ode9C14.incipit = "Ἡ γῆ μὲν τὰ αἵματα…"
-meMA.Ode9C14.text = "Ἡ γῆ μὲν τὰ αἵματα ὑμῶν ἐδέξατο, ἐκχυθέντα μεγαλώνυμοι, ὑπὲρ τοῦ πάντων Εὐεργέτου, σκηναὶ δὲ τῶν Δικαίων τὰ πνεύματα, μεθ' ὧν περιχορεύοντες μνήσθητε, τῶν μεμνημένων ὑμῶν πάντοτε."
+meMA.Ode9C14.text = "Ἡ γῆ μὲν τὰ αἵματα ὑμῶν ἐδέξατο, ἐκχυθέντα μεγαλώνυμοι, ὑπὲρ τοῦ πάντων Εὐεργέτου, σκηναὶ δὲ τῶν Δικαίων τὰ πνεύματα, μεθʼ ὧν περιχορεύοντες μνήσθητε, τῶν μεμνημένων ὑμῶν πάντοτε."
 
 meMA.Ode9C1T.ode = misc_gr_GR_cog.Ode9
 meMA.Ode9C1T.mode = misc_gr_GR_cog.Mode4

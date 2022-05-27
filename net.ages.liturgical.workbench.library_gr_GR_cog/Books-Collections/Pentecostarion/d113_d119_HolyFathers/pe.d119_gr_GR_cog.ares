@@ -1,6 +1,6 @@
 A_Resource_Whose_Name = pe.d119_gr_GR_cog
 
-peDA.commemoration.full = "Τῼ ΣΑΒΒΑΤῼ ΤΗΣ Ζ' ΕΒΔΟΜΑΔΟΣ ΗΤΟΙ Τῼ ΠΡΟ ΤΗΣ ΠΕΝΤΗΚΟΣΤΗΣ" //full title of day
+peDA.commemoration.full = "Τῼ ΣΑΒΒΑΤῼ ΤΗΣ Ζʼ ΕΒΔΟΜΑΔΟΣ ΗΤΟΙ Τῼ ΠΡΟ ΤΗΣ ΠΕΝΤΗΚΟΣΤΗΣ" //full title of day
 peDA.commemoration.short = "Ψυχοσάββατον"
 peDA.insert1 = "" //for use in petitions and dismissal
 peDA.insert2 = "" //for use in petitions and dismissal
@@ -132,9 +132,12 @@ peMA.Kathisma22.melody = ""
 peMA.Kathisma22.incipit = tr.d014_gr_GR_cog.trMA.Kathisma22.incipit
 peMA.Kathisma22.text = tr.d014_gr_GR_cog.trMA.Kathisma22.text
 
-peMA.C1.acrostic = "οὗ ἡ Ἀκορστιχίς, ἄνευ τῶν Θεοτοκίων τῆς γʹ, εʹ, Ϛʹ καὶ ζʹ ᾨδῆς· Ψυχαῖς ἀπάσαις αἶνον ἐξ Ἀρσενίου."
-
-peMA.C1.title = titles_gr_GR_cog.KanonTouPentikostariou
+peMA.C1.acrostic.title = "Κανὼν Νεκρώσιμος,"
+peMA.C1.acrostic.notice1 = "οὗ ἡ Ἀκορστιχίς, ἄνευ τῶν Θεοτοκίων τῆς γʹ, εʹ, Ϛʹ καὶ ζʹ ᾨδῆς·"
+peMA.C1.acrostic.text = "Ψυχαῖς ἀπάσαις αἶνον ἐξ Ἀρσενίου."
+peMA.C1.acrostic.notice2 = ""
+peMA.C1.poet = ""
+peMA.C1.title = titles_gr_GR_cog.KanonNekrosimos
 peMA.C1.verse = prayers_gr_GR_cog.verse_God.text
 
 peMA.Ode1C1H.ode = misc_gr_GR_cog.Ode1
@@ -195,7 +198,7 @@ peMA.Ode3C1T.ode = misc_gr_GR_cog.Ode3
 peMA.Ode3C1T.mode = misc_gr_GR_cog.Mode6
 peMA.Ode3C1T.melody = he.h.m6_gr_GR_cog.OukEstinAgios.name
 peMA.Ode3C1T.incipit = "Ἐλπὶς τοῦ κόσμου κραταιά, Δέσποινα…"
-peMA.Ode3C1T.text = "Ἐλπὶς τοῦ κόσμου κραταιά, Δέσποινα Θεοτόκε, μὴ ἀπώσῃ τοὺς πόθῳ, σοὶ προστρέχοντας ἀεί, ἀλλ' ἱκεσίαις ταῖς σαῖς, πάσης ῥῦσαι ζάλης τοὺς τιμῶντάς σε."
+peMA.Ode3C1T.text = "Ἐλπὶς τοῦ κόσμου κραταιά, Δέσποινα Θεοτόκε, μὴ ἀπώσῃ τοὺς πόθῳ, σοὶ προστρέχοντας ἀεί, ἀλλʼ ἱκεσίαις ταῖς σαῖς, πάσης ῥῦσαι ζάλης τοὺς τιμῶντάς σε."
 
 peMA.Ode3Kathisma1.mode = misc_gr_GR_cog.Mode8
 peMA.Ode3Kathisma1.melody = he.a.m8_gr_GR_cog.TinSofianKaiLogon.name
@@ -217,7 +220,7 @@ peMA.Ode4C11.ode = misc_gr_GR_cog.Ode4
 peMA.Ode4C11.mode = misc_gr_GR_cog.Mode6
 peMA.Ode4C11.melody = he.h.m6_gr_GR_cog.ChristosMouDynamis.name
 peMA.Ode4C11.incipit = "Ποιμαίνων Δέσποτα, ἐν τόπῳ χλόης…"
-peMA.Ode4C11.text = "Ποιμαίνων Δέσποτα, ἐν τόπῳ χλόης Σωτήρ, καὶ μετάγων ἐφ' ὕδωρ πάντας πιστούς, τὸ τῆς ἀναπαύσεως, μὴ ἀποπέμψῃς τῆς ἐκεῖ, εὐφροσύνης τοὺς οἰκέτας σου."
+peMA.Ode4C11.text = "Ποιμαίνων Δέσποτα, ἐν τόπῳ χλόης Σωτήρ, καὶ μετάγων ἐφʼ ὕδωρ πάντας πιστούς, τὸ τῆς ἀναπαύσεως, μὴ ἀποπέμψῃς τῆς ἐκεῖ, εὐφροσύνης τοὺς οἰκέτας σου."
 
 peMA.Ode4C12.ode = misc_gr_GR_cog.Ode4
 peMA.Ode4C12.mode = misc_gr_GR_cog.Mode6
@@ -299,12 +302,12 @@ peMA.Ode6C1T.text = "Ἡ πάναγνος Δέσποινα, ἡ τεκοῦσ�
 
 peMA.Kontakion1.mode = misc_gr_GR_cog.Mode8
 peMA.Kontakion1.melody = ""
-peMA.Kontakion1.incipit = "Τοὺς μεταστάντας ἀφ' ἡμῶν ἐκ…"
-peMA.Kontakion1.text = "Τοὺς μεταστάντας ἀφ' ἡμῶν ἐκ τῶν προσκαίρων, ἐν ταῖς σκηναῖς τῶν ἐκλεκτῶν κατασκήνωσον, καὶ μετὰ Δικαίων ἀνάπαυσον, Σῶτερ ἀθάνατε· εἰ γὰρ ὡς ἄνθρωποι ἥμαρτον ἐπὶ γῆς, ἀλλὰ σὺ ὡς ἀναμάρτητος Κύριος, ἄφες αὐτοῖς τὰ ἑκούσια πταίσματα, καὶ τὰ ἀκούσια, μεσιτευούσης τῆς τεκούσης σὲ Θεοτόκου, ἵνα συμφώνως βοήσωμεν ὑπέρ αὐτῶν, Ἀλληλούϊα."
+peMA.Kontakion1.incipit = "Τοὺς μεταστάντας ἀφʼ ἡμῶν ἐκ…"
+peMA.Kontakion1.text = "Τοὺς μεταστάντας ἀφʼ ἡμῶν ἐκ τῶν προσκαίρων, ἐν ταῖς σκηναῖς τῶν ἐκλεκτῶν κατασκήνωσον, καὶ μετὰ Δικαίων ἀνάπαυσον, Σῶτερ ἀθάνατε· εἰ γὰρ ὡς ἄνθρωποι ἥμαρτον ἐπὶ γῆς, ἀλλὰ σὺ ὡς ἀναμάρτητος Κύριος, ἄφες αὐτοῖς τὰ ἑκούσια πταίσματα, καὶ τὰ ἀκούσια, μεσιτευούσης τῆς τεκούσης σὲ Θεοτόκου, ἵνα συμφώνως βοήσωμεν ὑπέρ αὐτῶν, Ἀλληλούϊα."
 
 peMA.Oikos1.text = tr.d014_gr_GR_cog.trMA.Oikos1.text
 
-peSY.commemoration.text = "Τῇ αὐτῇ ἡμέρᾳ, μνείαν πάντων τῶν ἀπ' αἰῶνος κοιμηθέντων εὐσεβῶς, ἐπ' ἐλπίδι ἀναστάσεως ζωῆς αἰωνίου, οἱ θειότατοι Πατέρες ἐθέσπισαν."
+peSY.commemoration.text = "Τῇ αὐτῇ ἡμέρᾳ, μνείαν πάντων τῶν ἀπʼ αἰῶνος κοιμηθέντων εὐσεβῶς, ἐπʼ ἐλπίδι ἀναστάσεως ζωῆς αἰωνίου, οἱ θειότατοι Πατέρες ἐθέσπισαν."
 peSY.commemoration.narration.p01 = "[paragraph 01]"
 peSY.commemoration.narration.p02 = "[paragraph 02]"
 peSY.commemoration.narration.p03 = "[paragraph 03]"
@@ -427,7 +430,7 @@ peMA.Lauds2.text = "Πάντες οἱ τῷ βίῳ προστετηκότε
 peMA.Lauds3.mode = misc_gr_GR_cog.Mode6
 peMA.Lauds3.melody = he.a.m6_gr_GR_cog.IApegnosmeni.name
 peMA.Lauds3.incipit = "Νῦν ἐπὶ τὸν τάφον ὁ…"
-peMA.Lauds3.text = "Νῦν ἐπὶ τὸν τάφον ὁ ἐπὶ θρόνου, νῦν ὁ ἐν πορφύρᾳ φθορὰν ὑπέδυ· οὐκ ἔτι ἐν θρόνῳ γάρ, ἀλλ' ἐν μνήματι κεῖται, ἴδε, ἐξέλιπε, τὸ βασίλειον κράτος, ἴδε, ὡς ὄναρ, τῶν ἀνθρώπων, παροδεύει ὁ βίος· διὸ κράξωμεν πρὸς τὸν Σωτῆρα· Οὓς ἐξελέξω ἀνάπαυσον, διὰ τὸ μέγα σου ἔλεος."
+peMA.Lauds3.text = "Νῦν ἐπὶ τὸν τάφον ὁ ἐπὶ θρόνου, νῦν ὁ ἐν πορφύρᾳ φθορὰν ὑπέδυ· οὐκ ἔτι ἐν θρόνῳ γάρ, ἀλλʼ ἐν μνήματι κεῖται, ἴδε, ἐξέλιπε, τὸ βασίλειον κράτος, ἴδε, ὡς ὄναρ, τῶν ἀνθρώπων, παροδεύει ὁ βίος· διὸ κράξωμεν πρὸς τὸν Σωτῆρα· Οὓς ἐξελέξω ἀνάπαυσον, διὰ τὸ μέγα σου ἔλεος."
 
 peMA.Lauds4.mode = misc_gr_GR_cog.Mode6
 peMA.Lauds4.melody = he.a.m6_gr_GR_cog.IApegnosmeni.name

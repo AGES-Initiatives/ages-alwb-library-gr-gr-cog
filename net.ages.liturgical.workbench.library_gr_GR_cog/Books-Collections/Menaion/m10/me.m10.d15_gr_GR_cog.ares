@@ -30,7 +30,7 @@ meVE.Stichera02.text = "Εἱρκτὴν πολυχρόνιον, καὶ βια
 meVE.Stichera03.mode = misc_gr_GR_cog.Mode4
 meVE.Stichera03.melody = he.a.m4_gr_GR_cog.EdokasSimeiosin.name
 meVE.Stichera03.incipit = "Κόλπος σε θαλάττιος, Λουκιανὲ εἰσδεξάμενος…"
-meVE.Stichera03.text = "Κόλπος σε θαλάττιος, Λουκιανὲ εἰσδεξάμενος, μεθ' ἡμέρας τριάκοντα, τῇ χέρσῳ ἐκδίδωσιν, Ἰωνᾶν ὡς πάλαι, θηρὸς ὑπουργίᾳ, πρὸς θεοτίμητον ταφήν, καὶ ἰαμάτων θείαν ἀνάβλυσιν, Μαρτύρων ἀκροθίνιον, τῆς Ἐκκλησίας ἑδραίωμα· διὰ τοῦτο τιμῶμέν σε, πρεσβευτὰ τῶν ψυχῶν ἡμῶν."
+meVE.Stichera03.text = "Κόλπος σε θαλάττιος, Λουκιανὲ εἰσδεξάμενος, μεθʼ ἡμέρας τριάκοντα, τῇ χέρσῳ ἐκδίδωσιν, Ἰωνᾶν ὡς πάλαι, θηρὸς ὑπουργίᾳ, πρὸς θεοτίμητον ταφήν, καὶ ἰαμάτων θείαν ἀνάβλυσιν, Μαρτύρων ἀκροθίνιον, τῆς Ἐκκλησίας ἑδραίωμα· διὰ τοῦτο τιμῶμέν σε, πρεσβευτὰ τῶν ψυχῶν ἡμῶν."
 
 meVE.SticTheotokion.mode = misc_gr_GR_cog.Mode4
 meVE.SticTheotokion.melody = he.a.m4_gr_GR_cog.EdokasSimeiosin.name
@@ -49,6 +49,10 @@ meVE.Apolytikion1.incipit = "Θείῳ Πνεύματι, λελαμπρυσμ�
 meVE.Apolytikion1.text = "Θείῳ Πνεύματι, λελαμπρυσμένος, γνῶσιν ἔνθεον, ἐταμιεύσω, καὶ τῆς πίστεως τὸν λόγον ἐτράνωσας· ὅθεν Μαρτύρων ἀλείπτης γενόμενος, Λουκιανέ ἐν ἀθλήσει ἠρίστευσας. Μάρτυς ἔνδοξε, Χριστὸν τὸν Θεὸν ἱκέτευε, δωρήσασθαι ἡμῖν τὸ μέγα ἔλεος."
 
 meMA.C1.poet = poets_gr_GR_cog.Theofanous
+meMA.C1.acrostic.title = ""
+meMA.C1.acrostic.notice1 = ""
+meMA.C1.acrostic.text = ""
+//meMA.C1.acrostic.notice2 = ""
 meMA.C1.acrostic = "οὗ ἡ Ἀκροστιχίς. Σοῦ Λουκιανὲ παμμάκαρ μέλπω κλέος."
 
 meMA.C1.title = ""
@@ -139,7 +143,7 @@ meMA.Ode4C13.ode = misc_gr_GR_cog.Ode4
 meMA.Ode4C13.mode = misc_gr_GR_cog.Mode4
 meMA.Ode4C13.melody = he.h.m4_gr_GR_cog.OKathimenosEnDoxi.name
 meMA.Ode4C13.incipit = "Νόμον θεῖον καταγγέλλων, ἀνομοῦντας ἐπέστρεψας…"
-meMA.Ode4C13.text = "Νόμον θεῖον καταγγέλλων, ἀνομοῦντας ἐπέστρεψας, καὶ πιεῖν προθύμως, πόμα μαρτυρίου ὑπέδειξας, μεθ' ὧν εἰς θείας ἐπαύλεις κατεσκήνωσας, ἐντρυφῶν τῷ ξύλῳ, τῆς ζωῆς Παναοίδιμε."
+meMA.Ode4C13.text = "Νόμον θεῖον καταγγέλλων, ἀνομοῦντας ἐπέστρεψας, καὶ πιεῖν προθύμως, πόμα μαρτυρίου ὑπέδειξας, μεθʼ ὧν εἰς θείας ἐπαύλεις κατεσκήνωσας, ἐντρυφῶν τῷ ξύλῳ, τῆς ζωῆς Παναοίδιμε."
 
 meMA.Ode4C1T.ode = misc_gr_GR_cog.Ode4
 meMA.Ode4C1T.mode = misc_gr_GR_cog.Mode4
@@ -151,7 +155,7 @@ meMA.Ode5C11.ode = misc_gr_GR_cog.Ode5
 meMA.Ode5C11.mode = misc_gr_GR_cog.Mode4
 meMA.Ode5C11.melody = he.h.m4_gr_GR_cog.AseveisOukOpsontai.name
 meMA.Ode5C11.incipit = "Πυρπολήσας Ὅσιε, ἀκάνθας τῶν παθῶν…"
-meMA.Ode5C11.text = "Πυρπολήσας Ὅσιε, ἀκάνθας τῶν παθῶν, δι' ἱδρώτων ἀσκητικῶν, ταῖς ῥοαῖς κατέσβεσας τῶν ἀγώνων σου, ἀσεβείας κάμινον, γενναιόφρον παμμακάριστε."
+meMA.Ode5C11.text = "Πυρπολήσας Ὅσιε, ἀκάνθας τῶν παθῶν, διʼ ἱδρώτων ἀσκητικῶν, ταῖς ῥοαῖς κατέσβεσας τῶν ἀγώνων σου, ἀσεβείας κάμινον, γενναιόφρον παμμακάριστε."
 
 meMA.Ode5C12.ode = misc_gr_GR_cog.Ode5
 meMA.Ode5C12.mode = misc_gr_GR_cog.Mode4
@@ -187,7 +191,7 @@ meMA.Ode6C13.ode = misc_gr_GR_cog.Ode6
 meMA.Ode6C13.mode = misc_gr_GR_cog.Mode4
 meMA.Ode6C13.melody = he.h.m4_gr_GR_cog.ThysoSoiMetaFonis.name
 meMA.Ode6C13.incipit = "Κητῴας, ἐκ γαστρός, Ἰωνᾶν ὁ…"
-meMA.Ode6C13.text = "Κητῴας, ἐκ γαστρός, Ἰωνᾶν ὁ ῥυσάμενος, τριημερεύσαντα σῴζει, σὲ βυθοῦ θαλάσσης καθυπουργούντων, ἐναλίων, σοι θηρῶν μεθ' ἡμέρας τριάκοντα."
+meMA.Ode6C13.text = "Κητῴας, ἐκ γαστρός, Ἰωνᾶν ὁ ῥυσάμενος, τριημερεύσαντα σῴζει, σὲ βυθοῦ θαλάσσης καθυπουργούντων, ἐναλίων, σοι θηρῶν μεθʼ ἡμέρας τριάκοντα."
 
 meMA.Ode6C1T.ode = misc_gr_GR_cog.Ode6
 meMA.Ode6C1T.mode = misc_gr_GR_cog.Mode4
@@ -248,7 +252,7 @@ meMA.Ode8C13.ode = misc_gr_GR_cog.Ode8
 meMA.Ode8C13.mode = misc_gr_GR_cog.Mode4
 meMA.Ode8C13.melody = he.h.m4_gr_GR_cog.PaidasEvageis.name
 meMA.Ode8C13.incipit = "Ὢ ξένων πραγμάτων τελεσθέντων, ἐν…"
-meMA.Ode8C13.text = "Ὢ ξένων πραγμάτων τελεσθέντων, ἐν σοὶ Λουκιανὲ Μάρτυς ἀοίδιμε! κόλπος γὰρ θαλάττιος, σῶμά σου τὸ ἅγιον, ἐφ' ἱκανὸν δεξάμενος οὐκ ἐλυμήνατο, τῇ χέρσῳ διασῴζει δὲ σῶον, ῥεῖθρα ἰαμάτων, ἐκβλύζον τοῖς ποθοῦσι."
+meMA.Ode8C13.text = "Ὢ ξένων πραγμάτων τελεσθέντων, ἐν σοὶ Λουκιανὲ Μάρτυς ἀοίδιμε! κόλπος γὰρ θαλάττιος, σῶμά σου τὸ ἅγιον, ἐφʼ ἱκανὸν δεξάμενος οὐκ ἐλυμήνατο, τῇ χέρσῳ διασῴζει δὲ σῶον, ῥεῖθρα ἰαμάτων, ἐκβλύζον τοῖς ποθοῦσι."
 
 meMA.Ode8C1T.ode = misc_gr_GR_cog.Ode8
 meMA.Ode8C1T.mode = misc_gr_GR_cog.Mode4

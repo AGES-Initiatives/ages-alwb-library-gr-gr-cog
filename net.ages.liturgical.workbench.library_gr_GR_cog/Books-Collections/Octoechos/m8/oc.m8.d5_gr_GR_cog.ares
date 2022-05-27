@@ -45,7 +45,7 @@ ocVE.Aposticha1.text = "Κύριε, σὲ εἰλικρινῶς ἐπὶ τῆ
 ocVE.Aposticha2.mode = misc_gr_GR_cog.Mode8
 ocVE.Aposticha2.melody = he.a.m8_gr_GR_cog.KyrieEiKaiKritirio.name
 ocVE.Aposticha2.incipit = "Κύριε, σὺ τῶν Ἀποστόλων τὴν…"
-ocVE.Aposticha2.text = "Κύριε, σὺ τῶν Ἀποστόλων τὴν μνήμην, ἐπὶ τῆς γῆς ἐμεγάλυνας· πάντες γὰρ ὁμοῦ συνελθόντες, ἐν αὐτῇ δοξολογοῦμέν σε, ὅτι παρέχεις ἡμῖν, δι' αὐτῶν τὰ ἰάματα, καὶ τῷ κόσμῳ τὴν εἰρήνην, εὐχαῖς αὐτῶν καὶ τὸ μέγα ἔλεος."
+ocVE.Aposticha2.text = "Κύριε, σὺ τῶν Ἀποστόλων τὴν μνήμην, ἐπὶ τῆς γῆς ἐμεγάλυνας· πάντες γὰρ ὁμοῦ συνελθόντες, ἐν αὐτῇ δοξολογοῦμέν σε, ὅτι παρέχεις ἡμῖν, διʼ αὐτῶν τὰ ἰάματα, καὶ τῷ κόσμῳ τὴν εἰρήνην, εὐχαῖς αὐτῶν καὶ τὸ μέγα ἔλεος."
 
 ocVE.Aposticha3.mode = misc_gr_GR_cog.Mode8
 ocVE.Aposticha3.melody = ""
@@ -107,9 +107,17 @@ ocMA.Kathisma33.melody = ""
 ocMA.Kathisma33.incipit = "Ἡ νοητὴ πύλη τῆς ζωῆς…"
 ocMA.Kathisma33.text = "Ἡ νοητὴ πύλη τῆς ζωῆς ἡμῶν, ἄχραντε Θεοτόκε, τοὺς προστρέχοντάς σοι πιστῶς, λύτρωσαι τῶν κινδύνων, ἵνα δοξάζωμεν τὸν πανάγιον τόκον σου, εἰς σωτηρίαν τῶν ψυχῶν ἡμῶν."
 
+ocMA.C1.acrostic.title = ""
+ocMA.C1.acrostic.notice1 = ""
+ocMA.C1.acrostic.text = ""
+//ocMA.C1.acrostic.notice2 = ""
 ocMA.C1.acrostic = " οὗ ἡ ἀκροστιχὶς μετὰ Θεοτοκίων· Χορός με σώζοις τῶν σοφῶν Ἀποστόλων."
 ocMA.C1.poet = poets_gr_GR_cog.Iosif
 
+ocMA.C2.acrostic.title = ""
+ocMA.C2.acrostic.notice1 = ""
+ocMA.C2.acrostic.text = ""
+//ocMA.C2.acrostic.notice2 = ""
 ocMA.C2.acrostic = " οὗ ἡ ἀκροστιχὶς μετὰ Θεοτοκίων· Σοί, Νικόλαε, ὄγδοον πρέπει μέλος. Ἰωσήφ."
 
 ocMA.CA.notice = ""
@@ -208,7 +216,7 @@ ocMA.OdeW3C22.mode = misc_gr_GR_cog.Mode8
 ocMA.OdeW3C22.ode = misc_gr_GR_cog.Ode3
 ocMA.OdeW3C22.melody = he.h.m8_gr_GR_cog.SyEiToStereoma.name
 ocMA.OdeW3C22.incipit = "Κοίμισον Νικόλαε, σαῖς ἀκοιμήτοις ἐντεύξεσι…"
-ocMA.OdeW3C22.text = "Κοίμισον Νικόλαε, σαῖς ἀκοιμήτοις ἐντεύξεσι, τοὺς καθ' ἡμῶν ἐπεγειρομένους, πειρασμοὺς δυσωποῦμέν σε."
+ocMA.OdeW3C22.text = "Κοίμισον Νικόλαε, σαῖς ἀκοιμήτοις ἐντεύξεσι, τοὺς καθʼ ἡμῶν ἐπεγειρομένους, πειρασμοὺς δυσωποῦμέν σε."
 
 ocMA.OdeW3C23.mode = misc_gr_GR_cog.Mode8
 ocMA.OdeW3C23.ode = misc_gr_GR_cog.Ode3
@@ -376,7 +384,7 @@ ocMA.OdeW6C23.mode = misc_gr_GR_cog.Mode8
 ocMA.OdeW6C23.ode = misc_gr_GR_cog.Ode6
 ocMA.OdeW6C23.melody = he.h.m8_gr_GR_cog.TinDeisinEkcheo.name
 ocMA.OdeW6C23.incipit = "Ἐξαίφνης ἐπερχομένης μοι Μάκαρ, καταιγίδος…"
-ocMA.OdeW6C23.text = "Ἐξαίφνης ἐπερχομένης μοι Μάκαρ, καταιγίδος πειρασμῶν πολυτρόπων, διὰ πληθύν, τῶν ἐμῶν ἐγκλημάτων, μή με ἐάσῃς βοῶ ἀπροστάτευτον· ἀλλ' οἴκτειρον ὡς συμπαθής, βοηθείας νῦν χεῖρα ὀρέγων μοι."
+ocMA.OdeW6C23.text = "Ἐξαίφνης ἐπερχομένης μοι Μάκαρ, καταιγίδος πειρασμῶν πολυτρόπων, διὰ πληθύν, τῶν ἐμῶν ἐγκλημάτων, μή με ἐάσῃς βοῶ ἀπροστάτευτον· ἀλλʼ οἴκτειρον ὡς συμπαθής, βοηθείας νῦν χεῖρα ὀρέγων μοι."
 
 ocMA.OdeW6C2T.mode = misc_gr_GR_cog.Mode8
 ocMA.OdeW6C2T.ode = misc_gr_GR_cog.Ode6
@@ -593,7 +601,7 @@ ocLI.BeatitudesTr.text = "Νέκρωσον σεπτή, Τριὰς ἡ παν�
 ocLI.BeatitudesT.mode = misc_gr_GR_cog.Mode8
 ocLI.BeatitudesT.melody = ""
 ocLI.BeatitudesT.incipit = "Χαῖρε ἡ λαβίς, τοῦ ἄνθρακος…"
-ocLI.BeatitudesT.text = "Χαῖρε ἡ λαβίς, τοῦ ἄνθρακος τοῦ θείου· χαῖρε Προφητῶν, σφραγὶς καὶ Ἀποστόλων, τὸ περιήχημα ἄχραντε Θεοτόκε, δι' ἧς φθορᾶς ἠλευθερώθημεν."
+ocLI.BeatitudesT.text = "Χαῖρε ἡ λαβίς, τοῦ ἄνθρακος τοῦ θείου· χαῖρε Προφητῶν, σφραγὶς καὶ Ἀποστόλων, τὸ περιήχημα ἄχραντε Θεοτόκε, διʼ ἧς φθορᾶς ἠλευθερώθημεν."
 
 ocLI.MM.Beatitudes1234TrTas78910GB.text = properties_gr_GR_cog.media.key
 
@@ -623,8 +631,8 @@ octrMA.Kathisma12.text = ocMA.Kathisma11.text
 
 octrMA.Kathisma1T.mode = misc_gr_GR_cog.Mode8
 octrMA.Kathisma1T.melody = ""
-octrMA.Kathisma1T.incipit = "Χαῖρε ἡ δι' Ἀγγέλου τὴν…"
-octrMA.Kathisma1T.text = "Χαῖρε ἡ δι' Ἀγγέλου τὴν χαρὰν τοῦ Κόσμου δεξαμένη, χαῖρε ἡ τεκοῦσα τὸν Ποιητήν σου καὶ Κύριον, χαῖρε ἡ ἀξιωθεῖσα γενέσθαι Μήτηρ Χριστοῦ τοῦ Θεοῦ."
+octrMA.Kathisma1T.incipit = "Χαῖρε ἡ διʼ Ἀγγέλου τὴν…"
+octrMA.Kathisma1T.text = "Χαῖρε ἡ διʼ Ἀγγέλου τὴν χαρὰν τοῦ Κόσμου δεξαμένη, χαῖρε ἡ τεκοῦσα τὸν Ποιητήν σου καὶ Κύριον, χαῖρε ἡ ἀξιωθεῖσα γενέσθαι Μήτηρ Χριστοῦ τοῦ Θεοῦ."
 
 octrMA.Ode7Martyricon.mode = misc_gr_GR_cog.Mode8
 octrMA.Ode7Martyricon.melody = ""

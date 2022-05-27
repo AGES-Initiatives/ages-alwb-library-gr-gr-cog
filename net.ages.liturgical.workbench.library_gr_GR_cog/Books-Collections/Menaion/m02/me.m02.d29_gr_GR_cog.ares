@@ -30,7 +30,7 @@ meVE.Stichera02.text = "Νηστείαις ἀγρυπνίαις, τῷ Θε�
 meVE.Stichera03.mode = misc_gr_GR_cog.Mode2
 meVE.Stichera03.melody = "Ἄγγελος μὲν τὸ χαῖρε."
 meVE.Stichera03.incipit = "Ἄνωθεν φωτισθεῖσα, ἡ σοφή σου…"
-meVE.Stichera03.text = "Ἄνωθεν φωτισθεῖσα, ἡ σοφή σου Πάτερ διάνοια, διδασκαλίας φέγγος ἀπήστραψε, δι' οὗ φωταγωγεῖται Μοναζόντων τὸ σύστημα, τῶν παθῶν τῆς ἀχλύος λυτρούμενον· διὸ καὶ ἑορτάζει τὴν ἁγίαν πάντοτε μνήμην σου, τὸν Κύριον τῆς δόξης δοξάζον, τὸν ἀεὶ σε δοξάσαντα, ἀγωνισάμενον, καὶ νικήσαντα τὸν ὄφιν τὸν πολυμήχανον."
+meVE.Stichera03.text = "Ἄνωθεν φωτισθεῖσα, ἡ σοφή σου Πάτερ διάνοια, διδασκαλίας φέγγος ἀπήστραψε, διʼ οὗ φωταγωγεῖται Μοναζόντων τὸ σύστημα, τῶν παθῶν τῆς ἀχλύος λυτρούμενον· διὸ καὶ ἑορτάζει τὴν ἁγίαν πάντοτε μνήμην σου, τὸν Κύριον τῆς δόξης δοξάζον, τὸν ἀεὶ σε δοξάσαντα, ἀγωνισάμενον, καὶ νικήσαντα τὸν ὄφιν τὸν πολυμήχανον."
 
 meVE.SticTheotokion.mode = misc_gr_GR_cog.Mode2
 meVE.SticTheotokion.melody = ""
@@ -48,6 +48,10 @@ meVE.Apolytikion1.melody = he.a.m5_gr_GR_cog.TonSynanarchonLogon.name
 meVE.Apolytikion1.incipit = "Τῆς σοφίας τὸν λόγον Πάτερ…"
 meVE.Apolytikion1.text = "Τῆς σοφίας τὸν λόγον Πάτερ τοῖς ἔργοις σου, ἀσκητικῶς γεωργήσας ὡς οἰκονόμος πιστός, ἀρετῶν μυσταγωγεῖς τὰ κατορθώματα· σὺ γὰρ πράξας εὐσεβῶς, ἐκδιδάσκεις ἀκριβῶς, Κασσιανὲ θεοφόρε, καὶ τῷ Σωτῆρι πρεσβεύεις, ἐλεηθῆναι τὰς ψυχὰς ἡμῶν."
 
+meMA.C1.acrostic.title = ""
+meMA.C1.acrostic.notice1 = ""
+meMA.C1.acrostic.text = ""
+//meMA.C1.acrostic.notice2 = ""
 meMA.C1.acrostic = "οὗ ἡ Ἀκροστιχίς· Σοὶ Κασσιανὲ τὴν δε τὴν ᾠδὴν πλέκω. Ἰωσήφ."
 
 meMA.Ode1C1H.ode = misc_gr_GR_cog.Ode1
@@ -63,7 +67,7 @@ meMA.Ode1C11.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C11.mode = misc_gr_GR_cog.Mode2
 meMA.Ode1C11.melody = he.h.m2_gr_GR_cog.EnVythoKatestrose.name
 meMA.Ode1C11.incipit = "Στεφανώσας θείαις ἀρεταῖς, Ὅσιε τὸν…"
-meMA.Ode1C11.text = "Στεφανώσας θείαις ἀρεταῖς, Ὅσιε τὸν βίον σου, Κασσιανὲ πρὸς Θεὸν ἐξεδήμησας, παρ' οὗ ἡμῖν αἴτησαι, ἀπολύτρωσιν τῶν πταισμάτων δεόμεθα, τοῖς ἐπιτελοῦσι, πίστει τὴν ἁγίαν σου μετάστασιν."
+meMA.Ode1C11.text = "Στεφανώσας θείαις ἀρεταῖς, Ὅσιε τὸν βίον σου, Κασσιανὲ πρὸς Θεὸν ἐξεδήμησας, παρʼ οὗ ἡμῖν αἴτησαι, ἀπολύτρωσιν τῶν πταισμάτων δεόμεθα, τοῖς ἐπιτελοῦσι, πίστει τὴν ἁγίαν σου μετάστασιν."
 
 meMA.Ode1C12.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C12.mode = misc_gr_GR_cog.Mode2
@@ -116,7 +120,7 @@ meMA.Ode3C1T.text = "Ἰάτρευσον Πανάμωμε, τὴν ψυχήν
 meMA.Ode3Kathisma1.mode = misc_gr_GR_cog.Mode4
 meMA.Ode3Kathisma1.melody = he.a.m4_gr_GR_cog.OYpsotheisEnToStavro.name
 meMA.Ode3Kathisma1.incipit = "Ὁσιωθεὶς σὺ τῷ Θεῷ ἀνετέθης…"
-meMA.Ode3Kathisma1.text = "Ὁσιωθεὶς σὺ τῷ Θεῷ ἀνετέθης, καὶ λαμπρυνθεὶς σὺ τῶν καλῶν ταῖς ἰδέαις, Κασσιανὲ ὡς ἥλιος ἀπήστραψας, φέγγει τῶν ἐνθέων σου διδαχῶν τὰς καρδίας, πάντων τῶν τιμώντων σε, ἀενάως φωτίζων, ἀλλ' ἐκτενῶς ἱκέτευε Χριστόν, ὑπὲρ τῶν πόθῳ, θερμῶς εὐφημούντων σε."
+meMA.Ode3Kathisma1.text = "Ὁσιωθεὶς σὺ τῷ Θεῷ ἀνετέθης, καὶ λαμπρυνθεὶς σὺ τῶν καλῶν ταῖς ἰδέαις, Κασσιανὲ ὡς ἥλιος ἀπήστραψας, φέγγει τῶν ἐνθέων σου διδαχῶν τὰς καρδίας, πάντων τῶν τιμώντων σε, ἀενάως φωτίζων, ἀλλʼ ἐκτενῶς ἱκέτευε Χριστόν, ὑπὲρ τῶν πόθῳ, θερμῶς εὐφημούντων σε."
 
 meMA.Ode3KathismaT.mode = misc_gr_GR_cog.Mode4
 meMA.Ode3KathismaT.melody = he.a.m4_gr_GR_cog.OYpsotheisEnToStavro.name
@@ -126,7 +130,7 @@ meMA.Ode3KathismaT.text = oc.m4.d3_gr_GR_cog.ocVE.ApolTheotokionVM.text
 meMA.Ode3KathismaSt.mode = misc_gr_GR_cog.Mode4
 meMA.Ode3KathismaSt.melody = he.a.m4_gr_GR_cog.OYpsotheisEnToStavro.name
 meMA.Ode3KathismaSt.incipit = "Τὸν ἐξ ἀνάρχου τοῦ Πατρὸς…"
-meMA.Ode3KathismaSt.text = "Τὸν ἐξ ἀνάρχου τοῦ Πατρὸς γεννηθέντα, ἡ ἀνωδίνως σε σαρκὶ τετοκυῖα, ἐπὶ Σταυροῦ κρεμάμενον ὁρῶσά σε Χριστέ· Οἴμοι! ποθεινότατε, Ἰησοῦ ἀνεβόα· πῶς ὁ δοξαζόμενος, ὡς Θεὸς ὑπ' Ἀγγέλων, ὑπὸ ἀνόμων νῦν βροτῶν Υἱέ, θέλων σταυροῦσαι; Ὑμνῶ σε μακρόθυμε."
+meMA.Ode3KathismaSt.text = "Τὸν ἐξ ἀνάρχου τοῦ Πατρὸς γεννηθέντα, ἡ ἀνωδίνως σε σαρκὶ τετοκυῖα, ἐπὶ Σταυροῦ κρεμάμενον ὁρῶσά σε Χριστέ· Οἴμοι! ποθεινότατε, Ἰησοῦ ἀνεβόα· πῶς ὁ δοξαζόμενος, ὡς Θεὸς ὑπʼ Ἀγγέλων, ὑπὸ ἀνόμων νῦν βροτῶν Υἱέ, θέλων σταυροῦσαι; Ὑμνῶ σε μακρόθυμε."
 
 meMA.Ode4C1H.ode = misc_gr_GR_cog.Ode4
 meMA.Ode4C1H.mode = misc_gr_GR_cog.Mode2
@@ -174,7 +178,7 @@ meMA.Ode5C12.ode = misc_gr_GR_cog.Ode5
 meMA.Ode5C12.mode = misc_gr_GR_cog.Mode2
 meMA.Ode5C12.melody = he.h.m2_gr_GR_cog.MesitisTheou.name
 meMA.Ode5C12.incipit = "Νοΐ καθαρῷ, σὺ ἑνοπτριζόμενος, τὸ…"
-meMA.Ode5C12.text = "Νοΐ καθαρῷ, σὺ ἑνοπτριζόμενος, τὸ κάλλος Χριστοῦ, ἵστασο ἀκλόνητος, νύκτωρ μεθ' ἡμέραν τε Ἀοίδιμε, καὶ ἐνθέους δηλώσεις, ἐκεῖθεν εἰσδεχόμενος."
+meMA.Ode5C12.text = "Νοΐ καθαρῷ, σὺ ἑνοπτριζόμενος, τὸ κάλλος Χριστοῦ, ἵστασο ἀκλόνητος, νύκτωρ μεθʼ ἡμέραν τε Ἀοίδιμε, καὶ ἐνθέους δηλώσεις, ἐκεῖθεν εἰσδεχόμενος."
 
 meMA.Ode5C13.ode = misc_gr_GR_cog.Ode5
 meMA.Ode5C13.mode = misc_gr_GR_cog.Mode2
@@ -216,7 +220,7 @@ meMA.Ode6C1T.ode = misc_gr_GR_cog.Ode6
 meMA.Ode6C1T.mode = misc_gr_GR_cog.Mode2
 meMA.Ode6C1T.melody = he.h.m2_gr_GR_cog.EnAvyssoPtaismaton.name
 meMA.Ode6C1T.incipit = "Ὡς καλὴν ὡς ὡραίαν ποθήσας…"
-meMA.Ode6C1T.text = "Ὡς καλὴν ὡς ὡραίαν ποθήσας σε, ὁ καλλοποιὸς Ἰησοῦς Παναμώμητε, ἐκ σοῦ σαρκὶ γεγέννηται, καὶ θεοὶ με δι' οἶκτον ἀμέτρητον."
+meMA.Ode6C1T.text = "Ὡς καλὴν ὡς ὡραίαν ποθήσας σε, ὁ καλλοποιὸς Ἰησοῦς Παναμώμητε, ἐκ σοῦ σαρκὶ γεγέννηται, καὶ θεοὶ με διʼ οἶκτον ἀμέτρητον."
 
 meMA.Kontakion1.mode = misc_gr_GR_cog.Mode1
 meMA.Kontakion1.melody = he.a.m1_gr_GR_cog.ChorosAngelikos.name
@@ -299,7 +303,7 @@ meMA.Ode9C12.ode = misc_gr_GR_cog.Ode9
 meMA.Ode9C12.mode = misc_gr_GR_cog.Mode2
 meMA.Ode9C12.melody = he.h.m2_gr_GR_cog.AnarchouGennitoros.name
 meMA.Ode9C12.incipit = "Ὡς ῥόδον ἡδύπνοον, ἡμᾶς εὐωδιάζουσιν…"
-meMA.Ode9C12.text = "Ὡς ῥόδον ἡδύπνοον, ἡμᾶς εὐωδιάζουσιν, οἱ θεόπνευστοι λόγοι, τῆς θείας γλώττης σου· σὺ γὰρ εὐωδία ἐγένου, τοῦ δι' ἡμᾶς, Θεοῦ σαρκωθέντος, δι' ἄμετρον ἔλεος, θεοφόρε πανσεβάσμιε."
+meMA.Ode9C12.text = "Ὡς ῥόδον ἡδύπνοον, ἡμᾶς εὐωδιάζουσιν, οἱ θεόπνευστοι λόγοι, τῆς θείας γλώττης σου· σὺ γὰρ εὐωδία ἐγένου, τοῦ διʼ ἡμᾶς, Θεοῦ σαρκωθέντος, διʼ ἄμετρον ἔλεος, θεοφόρε πανσεβάσμιε."
 
 meMA.Ode9C13.ode = misc_gr_GR_cog.Ode9
 meMA.Ode9C13.mode = misc_gr_GR_cog.Mode2

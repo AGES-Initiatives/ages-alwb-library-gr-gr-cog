@@ -35,7 +35,7 @@ meVE.Stichera03.text = "Παύλῳ ἐφεπόμενοι κλεινῷ, δι�
 meVE.SticTheotokion.mode = misc_gr_GR_cog.Mode1
 meVE.SticTheotokion.melody = he.a.m1_gr_GR_cog.PaneffimoiMartyres.name
 meVE.SticTheotokion.incipit = "Χωρίον εὐρύχωρον Θεοῦ…"
-meVE.SticTheotokion.text = "Χωρίον εὐρύχωρον Θεοῦ, οὐρανῶν πλατύτερον, τὸν σμικρυνθέντα τοῖς πάθεσι, καὶ στενωθέντα με, πειρασμῶν ἐφόδοις, ἐν θλίψεσι πλάτυνον, καὶ ἐν στενοχωρίαις μεγάλυνον, προσηρεμοῦσά μοι, τὰ προσπίπτοντα Πανάμωμε, καθ' ἑκάστην, αὔραις τῆς πρεσβείας σου."
+meVE.SticTheotokion.text = "Χωρίον εὐρύχωρον Θεοῦ, οὐρανῶν πλατύτερον, τὸν σμικρυνθέντα τοῖς πάθεσι, καὶ στενωθέντα με, πειρασμῶν ἐφόδοις, ἐν θλίψεσι πλάτυνον, καὶ ἐν στενοχωρίαις μεγάλυνον, προσηρεμοῦσά μοι, τὰ προσπίπτοντα Πανάμωμε, καθʼ ἑκάστην, αὔραις τῆς πρεσβείας σου."
 
 meVE.SticStavrotheotokion.mode = misc_gr_GR_cog.Mode1
 meVE.SticStavrotheotokion.melody = he.a.m1_gr_GR_cog.PaneffimoiMartyres.name
@@ -48,6 +48,10 @@ meVE.Apolytikion1.melody = he.a.m4_gr_GR_cog.TachyProkatalave.name
 meVE.Apolytikion1.incipit = "Χορείαν τὴν τρίπλοκον…"
 meVE.Apolytikion1.text = "Χορείαν τὴν τρίπλοκον, τῶν Ἀποστόλων Χριστοῦ, συμφώνως τιμήσωμεν, ὡς ποταμοὺς λογικούς, τῆς θείας χρηστότητος, Πούδην σὺν Ἀριστάρχῳ, καὶ Τροφίμῳ τῷ θείῳ, λόγοις θεογνψσίας, καταρδεύσαντας κόσμον. Αὐτῶν Χριστὲ μεσιτείαις, πάντας οἰκτείρησον."
 
+meMA.C1.acrostic.title = ""
+meMA.C1.acrostic.notice1 = ""
+meMA.C1.acrostic.text = ""
+//meMA.C1.acrostic.notice2 = ""
 meMA.C1.acrostic = "οὗ ἡ Ἀκροστιχίς· Θείοις Μαθηταῖς θεῖον ἐξᾴδω μέλος. Ἰωσήφ."
 
 meMA.Ode1C1H.ode = misc_gr_GR_cog.Ode1
@@ -69,7 +73,7 @@ meMA.Ode1C12.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C12.mode = misc_gr_GR_cog.Mode6
 meMA.Ode1C12.melody = he.h.m6_gr_GR_cog.OsEnIpeiroPezefsas.name
 meMA.Ode1C12.incipit = "Ἐπὶ τῆς γῆς'…"
-meMA.Ode1C12.text = "Ἐπὶ τῆς γῆς ὁ δι' οἶκτον ἐπιφανείς, μαθητὰς ἐκλέγεται, καὶ θεράποντας ὑμᾶς, σὺν ἑτέροις πλείοσιν αὐτοῦ, καταγγέλλοντας Σοφοί, τὸ θεῖον βούλημα."
+meMA.Ode1C12.text = "Ἐπὶ τῆς γῆς ὁ διʼ οἶκτον ἐπιφανείς, μαθητὰς ἐκλέγεται, καὶ θεράποντας ὑμᾶς, σὺν ἑτέροις πλείοσιν αὐτοῦ, καταγγέλλοντας Σοφοί, τὸ θεῖον βούλημα."
 
 meMA.Ode1C13.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C13.mode = misc_gr_GR_cog.Mode6
@@ -191,8 +195,8 @@ meMA.Ode5C13.text = "Ἐπισκοπούμενοι πρὸς Θεοῦ, θεί
 meMA.Ode5C1T.ode = misc_gr_GR_cog.Ode5
 meMA.Ode5C1T.mode = misc_gr_GR_cog.Mode6
 meMA.Ode5C1T.melody = he.h.m6_gr_GR_cog.ToTheioFengeiSou.name
-meMA.Ode5C1T.incipit = "Ἱερωτάτως ὁ ἱερός, πάλαι Ἡσαΐας…"
-meMA.Ode5C1T.text = "Ἱερωτάτως ὁ ἱερός, πάλαι Ἡσαΐας φωτισθείς, Πνεύματι θείῳ ἐβόησεν· ἰδοὺ ἡ Παρθένος, ἕξει σαρκούμενον, Θεὸν δι' εὐσπλαγχνίαν τὸν ἀπερίληπτον."
+meMA.Ode5C1T.incipit = "Ἱερωτάτως ὁ ἱερός, πάλαι Ἠσαΐας…"
+meMA.Ode5C1T.text = "Ἱερωτάτως ὁ ἱερός, πάλαι Ἠσαΐας φωτισθείς, Πνεύματι θείῳ ἐβόησεν· ἰδοὺ ἡ Παρθένος, ἕξει σαρκούμενον, Θεὸν διʼ εὐσπλαγχνίαν τὸν ἀπερίληπτον."
 
 meMA.Ode6C1H.ode = misc_gr_GR_cog.Ode6
 meMA.Ode6C1H.mode = misc_gr_GR_cog.Mode6
@@ -215,8 +219,8 @@ meMA.Ode6C12.text = "Ναμάτων ἀνάπλεοι, τῶν τοῦ Πνε�
 meMA.Ode6C13.ode = misc_gr_GR_cog.Ode6
 meMA.Ode6C13.mode = misc_gr_GR_cog.Mode6
 meMA.Ode6C13.melody = he.h.m6_gr_GR_cog.TouViouTinThalassan.name
-meMA.Ode6C13.incipit = "Ἑνούμενοι πνεύματι, μερισμὸν οὐδ' ἐν…"
-meMA.Ode6C13.text = "Ἑνούμενοι πνεύματι, μερισμὸν οὐδ' ἐν αὐτῷ, τῷ μερισμῷ τοῦ σώματος, ἐσχήκατε· ὁμοῦ γὰρ τὰς κεφαλάς, σὺν Παύλῳ τῷ κήρυκι, ἀπετμήθητε τούτῳ κλεϊζόμενοι."
+meMA.Ode6C13.incipit = "Ἑνούμενοι πνεύματι, μερισμὸν οὐδʼ ἐν…"
+meMA.Ode6C13.text = "Ἑνούμενοι πνεύματι, μερισμὸν οὐδʼ ἐν αὐτῷ, τῷ μερισμῷ τοῦ σώματος, ἐσχήκατε· ὁμοῦ γὰρ τὰς κεφαλάς, σὺν Παύλῳ τῷ κήρυκι, ἀπετμήθητε τούτῳ κλεϊζόμενοι."
 
 meMA.Ode6C1T.ode = misc_gr_GR_cog.Ode6
 meMA.Ode6C1T.mode = misc_gr_GR_cog.Mode6

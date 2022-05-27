@@ -26,7 +26,7 @@ meVE.Stichera01.text = "Τῆς Τριάδος τὸν πρόμαχον, εὐ
 meVE.Stichera02.mode = misc_gr_GR_cog.Mode4
 meVE.Stichera02.melody = he.a.m4_gr_GR_cog.OsGennaionEnMartysi.name
 meVE.Stichera02.incipit = "Ὅτε σκῆπτρα βασίλεια, ἡ τῶν…"
-meVE.Stichera02.text = "Ὅτε σκῆπτρα βασίλεια, ἡ τῶν πόλεων Ἄνασσα, κατ' ἀρχὰς καὶ στέμματα ἀνεδέξατο, τότε σοῦ πρώτου ηὐμοίρησε, Παμμάκαρ Μητρόφανες, θείᾳ ψήφῳ τοῦ Χριστοῦ, Ἱεράρχου θεόφρονος προεξάρχοντος, τῆς αὐτοῦ Ἐκκλησίας καταλλήλως, τῇ ἐνθέῳ βιοτῇ σου, ἀνυψωθέντος λαμπρότατα."
+meVE.Stichera02.text = "Ὅτε σκῆπτρα βασίλεια, ἡ τῶν πόλεων Ἄνασσα, κατʼ ἀρχὰς καὶ στέμματα ἀνεδέξατο, τότε σοῦ πρώτου ηὐμοίρησε, Παμμάκαρ Μητρόφανες, θείᾳ ψήφῳ τοῦ Χριστοῦ, Ἱεράρχου θεόφρονος προεξάρχοντος, τῆς αὐτοῦ Ἐκκλησίας καταλλήλως, τῇ ἐνθέῳ βιοτῇ σου, ἀνυψωθέντος λαμπρότατα."
 
 meVE.Stichera03.mode = misc_gr_GR_cog.Mode4
 meVE.Stichera03.melody = he.a.m4_gr_GR_cog.OsGennaionEnMartysi.name
@@ -135,10 +135,18 @@ meMA.PostGospelIdiomelon.melody = ""
 meMA.PostGospelIdiomelon.incipit = meVE.SticGlory.incipit
 meMA.PostGospelIdiomelon.text = meVE.SticGlory.text
 
+meMA.C1.acrostic.title = ""
+meMA.C1.acrostic.notice1 = ""
+meMA.C1.acrostic.text = ""
+//meMA.C1.acrostic.notice2 = ""
 meMA.C1.acrostic = " οὗ ἡ Ἀκροστιχίς· Τὸν ἀρχιθύτην Μητροφάνην αἰνέσω. Ἐν δὲ τοῖς Θεοτοκίοις· Ὁ Μαλαξός."
 
 meMA.C2.poet = poets_gr_GR_cog.Theofanous
-meMA.C2.acrostic = "οὗ η' Ἀκροστιχίς· Μέγιστον ὑμνῶ τοῦ Μητροφάνους κλέος."
+meMA.C2.acrostic.title = ""
+meMA.C2.acrostic.notice1 = ""
+meMA.C2.acrostic.text = ""
+//meMA.C2.acrostic.notice2 = ""
+meMA.C2.acrostic = "οὗ ηʼ Ἀκροστιχίς· Μέγιστον ὑμνῶ τοῦ Μητροφάνους κλέος."
 
 meMA.C1.title = titles_gr_GR_cog.KanonATouAgiou
 meMA.C1.verse = prayers_gr_GR_cog.verse_SaintM.text
@@ -159,7 +167,7 @@ meMA.Ode1C13.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C13.mode = misc_gr_GR_cog.Mode4
 meMA.Ode1C13.melody = he.h.m4_gr_GR_cog.AnoixoToStomaMou.name
 meMA.Ode1C13.incipit = "Ναὸς ἐχρημάτισας, τῆς τρισηλίου Θεότητος…"
-meMA.Ode1C13.text = "Ναὸς ἐχρημάτισας, τῆς τρισηλίου Θεότητος, καὶ πόλις σὺ ἔμψυχος εὐφραινομένη Θεοῦ, ὥσπερ ὕδασι, τοῖς δόγμασι Παμμάκαρ, δι' ὧν κατεφαίδρυνας κόσμου τὰ πέρατα."
+meMA.Ode1C13.text = "Ναὸς ἐχρημάτισας, τῆς τρισηλίου Θεότητος, καὶ πόλις σὺ ἔμψυχος εὐφραινομένη Θεοῦ, ὥσπερ ὕδασι, τοῖς δόγμασι Παμμάκαρ, διʼ ὧν κατεφαίδρυνας κόσμου τὰ πέρατα."
 
 meMA.Ode1C14.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C14.mode = misc_gr_GR_cog.Mode4
@@ -171,7 +179,7 @@ meMA.Ode1C1T.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C1T.mode = misc_gr_GR_cog.Mode4
 meMA.Ode1C1T.melody = he.h.m4_gr_GR_cog.AnoixoToStomaMou.name
 meMA.Ode1C1T.incipit = "Ὁ Λόγος ὁ Ἄναρχος, ὁ…"
-meMA.Ode1C1T.text = "Ὁ Λόγος ὁ Ἄναρχος, ὁ τῷ Πατρὶ συννοούμενος, καὶ τῷ θείῳ Πνεύματι, νῦν ἐπ' ἐσχάτων ἐκ σοῦ, σάρξ γεγένηται, καὶ ἐν ἡμῖν δι' οἶκτον, ἐσκήνωσεν Ἄχραντε, ὥσπερ ηὐδόκησεν."
+meMA.Ode1C1T.text = "Ὁ Λόγος ὁ Ἄναρχος, ὁ τῷ Πατρὶ συννοούμενος, καὶ τῷ θείῳ Πνεύματι, νῦν ἐπʼ ἐσχάτων ἐκ σοῦ, σάρξ γεγένηται, καὶ ἐν ἡμῖν διʼ οἶκτον, ἐσκήνωσεν Ἄχραντε, ὥσπερ ηὐδόκησεν."
 
 meMA.C2.title = titles_gr_GR_cog.KanonBTouAgiou
 meMA.C2.verse = prayers_gr_GR_cog.verse_SaintM.text
@@ -252,7 +260,7 @@ meMA.Ode3C2T.ode = misc_gr_GR_cog.Ode3
 meMA.Ode3C2T.mode = misc_gr_GR_cog.Mode6
 meMA.Ode3C2T.melody = he.h.m6_gr_GR_cog.OukEstinAgios.name
 meMA.Ode3C2T.incipit = "Νοεῖν τοῦ τόκου σου Ἁγνή…"
-meMA.Ode3C2T.text = "Νοεῖν τοῦ τόκου σου Ἁγνή, τὸ ἀπόῤῥητον βάθος, ἀπορεῖ νοῦς ἀνθρώπων· ὁ Θεὸς γὰρ ἑαυτόν, κενώσας δι' οἰκτιρμούς, ἐν γαστρί σου, ἔσωσε τὸν ἄνθρωπον."
+meMA.Ode3C2T.text = "Νοεῖν τοῦ τόκου σου Ἁγνή, τὸ ἀπόῤῥητον βάθος, ἀπορεῖ νοῦς ἀνθρώπων· ὁ Θεὸς γὰρ ἑαυτόν, κενώσας διʼ οἰκτιρμούς, ἐν γαστρί σου, ἔσωσε τὸν ἄνθρωπον."
 
 meMA.Ode3Kathisma1.mode = misc_gr_GR_cog.Mode8
 meMA.Ode3Kathisma1.melody = he.a.m8_gr_GR_cog.TinSofianKaiLogon.name
@@ -286,7 +294,7 @@ meMA.Ode4C1T.ode = misc_gr_GR_cog.Ode4
 meMA.Ode4C1T.mode = misc_gr_GR_cog.Mode4
 meMA.Ode4C1T.melody = he.h.m4_gr_GR_cog.OKathimenosEnDoxi.name
 meMA.Ode4C1T.incipit = "Ἀποῤῥήτως τὸν Δεσπότην, τῶν ἁπάντων…"
-meMA.Ode4C1T.text = "Ἀποῤῥήτως τὸν Δεσπότην, τῶν ἁπάντων γεγέννηκας, καὶ τεκοῦσα τοῦτον, Κόρη ἀειπάρθενος ἔμεινας, καὶ Θεοτόκος ἐδείχθης κατ' ἀλήθειαν· ὅθεν Δέσποιναν, σὲ τοῦ παντὸς καταγγέλλομεν."
+meMA.Ode4C1T.text = "Ἀποῤῥήτως τὸν Δεσπότην, τῶν ἁπάντων γεγέννηκας, καὶ τεκοῦσα τοῦτον, Κόρη ἀειπάρθενος ἔμεινας, καὶ Θεοτόκος ἐδείχθης κατʼ ἀλήθειαν· ὅθεν Δέσποιναν, σὲ τοῦ παντὸς καταγγέλλομεν."
 
 meMA.Ode4C21.ode = misc_gr_GR_cog.Ode4
 meMA.Ode4C21.mode = misc_gr_GR_cog.Mode6
@@ -479,7 +487,7 @@ meMA.Ode8C12.ode = misc_gr_GR_cog.Ode8
 meMA.Ode8C12.mode = misc_gr_GR_cog.Mode4
 meMA.Ode8C12.melody = he.h.m4_gr_GR_cog.PaidasEvageis.name
 meMA.Ode8C12.incipit = "Ἀνὴρ ἐπιθυμιῶν Πνεύματος ὤφθης, καὶ…"
-meMA.Ode8C12.text = "Ἀνὴρ ἐπιθυμιῶν Πνεύματος ὤφθης, καὶ σκεῦος ἐκλελεγμένον Ἱερώτατε· ὅθεν ἐρωτήσαντι, ἱεράρχῃ εἴρηκας, Ἀλεξανδρέων Πρόεδρον, προοπτικῶς μετ' αὐτόν, τὸν μέγαν Ἀθανάσιον εἶναι, τὸν πολὺν τὰ θεῖα, καὶ λαμπρὸν ἀριστέα."
+meMA.Ode8C12.text = "Ἀνὴρ ἐπιθυμιῶν Πνεύματος ὤφθης, καὶ σκεῦος ἐκλελεγμένον Ἱερώτατε· ὅθεν ἐρωτήσαντι, ἱεράρχῃ εἴρηκας, Ἀλεξανδρέων Πρόεδρον, προοπτικῶς μετʼ αὐτόν, τὸν μέγαν Ἀθανάσιον εἶναι, τὸν πολὺν τὰ θεῖα, καὶ λαμπρὸν ἀριστέα."
 
 meMA.Ode8C13.ode = misc_gr_GR_cog.Ode8
 meMA.Ode8C13.mode = misc_gr_GR_cog.Mode4
@@ -583,7 +591,7 @@ meMA.Lauds1.text = "Ἀναλαβὼν τοῦ Χριστοῦ τὴν πανο�
 meMA.Lauds2.mode = misc_gr_GR_cog.Mode4
 meMA.Lauds2.melody = he.a.m4_gr_GR_cog.OExYpsistouKlitheis.name
 meMA.Lauds2.incipit = "Ξενοπρεπῶς σου τὸν βίον διανύσας…"
-meMA.Lauds2.text = "Ξενοπρεπῶς σου τὸν βίον διανύσας, τὸν ξένον γενόμενον, Χριστὸν μιμούμενος, δι' εὐσπλαγχνίαν ἀμέτρητον, ξένων χαρίτων, κατηξιώθης Πάτερ Μητρόφανες, ξένοις καὶ αὐτόχθοσι, σαφῶς τὰ μέλλοντα, προαγορεύων ὡς ἔνθεος, νέος Προφήτης, ἐν γηραλέῳ ψυχῆς φρονήματι· ὅθεν τῆς κρείττονος θείας ἔτυχες, κατ' ἀξίαν ξενίας ἀοίδιμε, ἱκετεύων σωθῆναι, τοὺς ἐν πίστει ἀνυμνοῦντάς σε."
+meMA.Lauds2.text = "Ξενοπρεπῶς σου τὸν βίον διανύσας, τὸν ξένον γενόμενον, Χριστὸν μιμούμενος, διʼ εὐσπλαγχνίαν ἀμέτρητον, ξένων χαρίτων, κατηξιώθης Πάτερ Μητρόφανες, ξένοις καὶ αὐτόχθοσι, σαφῶς τὰ μέλλοντα, προαγορεύων ὡς ἔνθεος, νέος Προφήτης, ἐν γηραλέῳ ψυχῆς φρονήματι· ὅθεν τῆς κρείττονος θείας ἔτυχες, κατʼ ἀξίαν ξενίας ἀοίδιμε, ἱκετεύων σωθῆναι, τοὺς ἐν πίστει ἀνυμνοῦντάς σε."
 
 meMA.Lauds3.mode = misc_gr_GR_cog.Mode4
 meMA.Lauds3.melody = he.a.m4_gr_GR_cog.OExYpsistouKlitheis.name

@@ -59,8 +59,8 @@ ocVE.AposTheotokion.text = "Χαῖρε παλάτιον ἔμψυχον, πε�
 
 ocVE.ApolTheotokionVM.mode = misc_gr_GR_cog.Mode8
 ocVE.ApolTheotokionVM.melody = ""
-ocVE.ApolTheotokionVM.incipit = "Χαῖρε ἡ δι' Ἀγγέλου, τὴν…"
-ocVE.ApolTheotokionVM.text = "Χαῖρε ἡ δι' Ἀγγέλου, τὴν χαρὰν τοῦ κόσμου δεξαμένη, χαῖρε ἡ τεκοῦσα, τὸν ποιητήν σου καὶ Κύριον, χαῖρε ἡ ἀξιωθεῖσα, γενέσθαι Μήτηρ Θεοῦ."
+ocVE.ApolTheotokionVM.incipit = "Χαῖρε ἡ διʼ Ἀγγέλου, τὴν…"
+ocVE.ApolTheotokionVM.text = "Χαῖρε ἡ διʼ Ἀγγέλου, τὴν χαρὰν τοῦ κόσμου δεξαμένη, χαῖρε ἡ τεκοῦσα, τὸν ποιητήν σου καὶ Κύριον, χαῖρε ἡ ἀξιωθεῖσα, γενέσθαι Μήτηρ Θεοῦ."
 
 ocMA.Kathisma11.mode = misc_gr_GR_cog.Mode8
 ocMA.Kathisma11.melody = ""
@@ -70,7 +70,7 @@ ocMA.Kathisma11.text = "Ὄμματι εὐσπλάγχνῳ Κύριε, ἴδ
 ocMA.Kathisma12.mode = misc_gr_GR_cog.Mode8
 ocMA.Kathisma12.melody = he.a.m8_gr_GR_cog.TinSofianKaiLogon.name
 ocMA.Kathisma12.incipit = "Τὴν ἡμέραν ἐκείνην τὴν φοβεράν…"
-ocMA.Kathisma12.text = "Τὴν ἡμέραν ἐκείνην, τὴν φοβεράν, ἐννοοῦσα ψυχή μου, γρηγόρησον, ἀνάπτουσα λαμπάδα σου, ἐν ἐλαίῳ φαιδρύνουσα· οὐ γὰρ οἶδας πότε, πρὸς σὲ ἐπελεύσεται, ἡ φωνὴ ἡ λέγουσα· Ἰδοὺ ὁ Νυμφίος σου. Βλέπε οὖν ψυχή μου, μὴ νυστάξῃς καὶ μείνῃς, ἔξωθεν κρούουσα, ὡς αἱ πέντε Παρθένοι, ἀλλ' ἀγρύπνως καρτέρησον, ἵνα ὑπαντήσῃς Χριστῷ τῷ Θεῷ, ἐν ἐλαίῳ πίονι, καὶ δῴη σοι, τὸν νυμφῶνα τὸν θεῖον τῆς δόξης αὐτοῦ."
+ocMA.Kathisma12.text = "Τὴν ἡμέραν ἐκείνην, τὴν φοβεράν, ἐννοοῦσα ψυχή μου, γρηγόρησον, ἀνάπτουσα λαμπάδα σου, ἐν ἐλαίῳ φαιδρύνουσα· οὐ γὰρ οἶδας πότε, πρὸς σὲ ἐπελεύσεται, ἡ φωνὴ ἡ λέγουσα· Ἰδοὺ ὁ Νυμφίος σου. Βλέπε οὖν ψυχή μου, μὴ νυστάξῃς καὶ μείνῃς, ἔξωθεν κρούουσα, ὡς αἱ πέντε Παρθένοι, ἀλλʼ ἀγρύπνως καρτέρησον, ἵνα ὑπαντήσῃς Χριστῷ τῷ Θεῷ, ἐν ἐλαίῳ πίονι, καὶ δῴη σοι, τὸν νυμφῶνα τὸν θεῖον τῆς δόξης αὐτοῦ."
 
 ocMA.Kathisma13.mode = misc_gr_GR_cog.Mode8
 ocMA.Kathisma13.melody = he.a.m8_gr_GR_cog.TinSofianKaiLogon.name
@@ -107,8 +107,16 @@ ocMA.Kathisma33.melody = misc_gr_GR_cog.Automelon
 ocMA.Kathisma33.incipit = he.a.m8_gr_GR_cog.ToProstachthen.incipit
 ocMA.Kathisma33.text = he.a.m8_gr_GR_cog.ToProstachthen.text
 
+ocMA.C1.acrostic.title = ""
+ocMA.C1.acrostic.notice1 = ""
+ocMA.C1.acrostic.text = ""
+//ocMA.C1.acrostic.notice2 = ""
 ocMA.C1.acrostic = " οὗ ἡ ἀκροστιχὶς μετὰ τῶν Θεοτοκίων· Ῥῦσαι πυρός με τῆς γεέννης Χριστέ μου, τὸν Ἰωσήφ."
 
+ocMA.C2.acrostic.title = ""
+ocMA.C2.acrostic.notice1 = ""
+ocMA.C2.acrostic.text = ""
+//ocMA.C2.acrostic.notice2 = ""
 ocMA.C2.acrostic = " οὗ ἡ ἀκροστιχίς· Ἀλφάβητον."
 
 ocMA.CA.notice = ""
@@ -123,7 +131,7 @@ ocMA.OdeW1C11.mode = misc_gr_GR_cog.Mode8
 ocMA.OdeW1C11.ode = misc_gr_GR_cog.Ode1
 ocMA.OdeW1C11.melody = he.h.m8_gr_GR_cog.YgranDiodefsas.name
 ocMA.OdeW1C11.incipit = "Ῥῦσαί με γεέννης ἣν ἐμαυτῷ…"
-ocMA.OdeW1C11.text = "Ῥῦσαί με γεέννης ἣν ἐμαυτῷ, δι' ἔργων ἀτόπων, προεξένησα Λυτρωτά, καὶ τῆς σῆς ἀγάπης ἄναψόν μου, ἐν τῇ καρδίᾳ τὸ πῦρ τὸ μακάριον."
+ocMA.OdeW1C11.text = "Ῥῦσαί με γεέννης ἣν ἐμαυτῷ, διʼ ἔργων ἀτόπων, προεξένησα Λυτρωτά, καὶ τῆς σῆς ἀγάπης ἄναψόν μου, ἐν τῇ καρδίᾳ τὸ πῦρ τὸ μακάριον."
 
 ocMA.OdeW1C12.mode = misc_gr_GR_cog.Mode8
 ocMA.OdeW1C12.ode = misc_gr_GR_cog.Ode1
@@ -183,7 +191,7 @@ ocMA.OdeW3C12.mode = misc_gr_GR_cog.Mode8
 ocMA.OdeW3C12.ode = misc_gr_GR_cog.Ode3
 ocMA.OdeW3C12.melody = he.h.m8_gr_GR_cog.OuraniasApsidos.name
 ocMA.OdeW3C12.incipit = "Ὑφαπλώσας ἀγκάλας, σῶν οἰκτιρμῶν δέξαι…"
-ocMA.OdeW3C12.text = "Ὑφαπλώσας ἀγκάλας, σῶν οἰκτιρμῶν δέξαι με, ἄσωτον ὡς πρὶν ἐφ' ὁμοίοις, τρόποις δουλεύσαντα, ἀτίμοις πάθεσι, καὶ ἀπὸ σοῦ μακρυνθέντα, Ἰησοῦ φιλάνθρωπε, καὶ ὑπεράγαθε."
+ocMA.OdeW3C12.text = "Ὑφαπλώσας ἀγκάλας, σῶν οἰκτιρμῶν δέξαι με, ἄσωτον ὡς πρὶν ἐφʼ ὁμοίοις, τρόποις δουλεύσαντα, ἀτίμοις πάθεσι, καὶ ἀπὸ σοῦ μακρυνθέντα, Ἰησοῦ φιλάνθρωπε, καὶ ὑπεράγαθε."
 
 ocMA.OdeW3C13.mode = misc_gr_GR_cog.Mode8
 ocMA.OdeW3C13.ode = misc_gr_GR_cog.Ode3
@@ -285,7 +293,7 @@ ocMA.OdeW5C11.mode = misc_gr_GR_cog.Mode8
 ocMA.OdeW5C11.ode = misc_gr_GR_cog.Ode5
 ocMA.OdeW5C11.melody = he.h.m8_gr_GR_cog.FotisonImas.name
 ocMA.OdeW5C11.incipit = "Γνώμῃ πονηρᾷ, παρεπίκρανά σε Κύριε…"
-ocMA.OdeW5C11.text = "Γνώμῃ πονηρᾷ, παρεπίκρανά σε Κύριε, ἐργαζόμενος τὰ ἄτοπα· ἀλλ' οἴκτειρόν με, ἐπιστρέφοντα καὶ σῶσόν με."
+ocMA.OdeW5C11.text = "Γνώμῃ πονηρᾷ, παρεπίκρανά σε Κύριε, ἐργαζόμενος τὰ ἄτοπα· ἀλλʼ οἴκτειρόν με, ἐπιστρέφοντα καὶ σῶσόν με."
 
 ocMA.OdeW5C12.mode = misc_gr_GR_cog.Mode8
 ocMA.OdeW5C12.ode = misc_gr_GR_cog.Ode5
@@ -303,7 +311,7 @@ ocMA.OdeW5C14.mode = misc_gr_GR_cog.Mode8
 ocMA.OdeW5C14.ode = misc_gr_GR_cog.Ode5
 ocMA.OdeW5C14.melody = he.h.m8_gr_GR_cog.FotisonImas.name
 ocMA.OdeW5C14.incipit = "Νόμοις πονηροῖς, νόμους θείους ἀντεθήκατε…"
-ocMA.OdeW5C14.text = "Νόμοις πονηροῖς, νόμους θείους ἀντεθήκατε, καὶ Θεὸν ἀληθῆ κηρύττοντες, θανατωθῆναι, δι' αὐτὸν προεθυμήθητε."
+ocMA.OdeW5C14.text = "Νόμοις πονηροῖς, νόμους θείους ἀντεθήκατε, καὶ Θεὸν ἀληθῆ κηρύττοντες, θανατωθῆναι, διʼ αὐτὸν προεθυμήθητε."
 
 ocMA.OdeW5C1T.mode = misc_gr_GR_cog.Mode8
 ocMA.OdeW5C1T.ode = misc_gr_GR_cog.Ode5
@@ -531,7 +539,7 @@ ocMA.OdeW9C21.mode = misc_gr_GR_cog.Mode8
 ocMA.OdeW9C21.ode = misc_gr_GR_cog.Ode9
 ocMA.OdeW9C21.melody = he.h.m8_gr_GR_cog.KyriosTheotokon.name
 ocMA.OdeW9C21.incipit = "Χορείαις Ἀσωμάτων, νῦν τὴν Ἐκκλησίαν…"
-ocMA.OdeW9C21.text = "Χορείαις Ἀσωμάτων, νῦν τὴν Ἐκκλησίαν, δι' ἀρετῆς μιμουμένην ἀνάδειξον, περιτειχίζων Ἀγγέλοις, Χριστὲ τὴν ποίμνην σου."
+ocMA.OdeW9C21.text = "Χορείαις Ἀσωμάτων, νῦν τὴν Ἐκκλησίαν, διʼ ἀρετῆς μιμουμένην ἀνάδειξον, περιτειχίζων Ἀγγέλοις, Χριστὲ τὴν ποίμνην σου."
 
 ocMA.OdeW9C22.mode = misc_gr_GR_cog.Mode8
 ocMA.OdeW9C22.ode = misc_gr_GR_cog.Ode9
@@ -597,8 +605,8 @@ ocLI.BeatitudesTr.text = "Ὦ Τριὰς ἁπλῆ, Μονὰς ἀρχικω�
 
 ocLI.BeatitudesT.mode = misc_gr_GR_cog.Mode8
 ocLI.BeatitudesT.melody = ""
-ocLI.BeatitudesT.incipit = "Τόμον σε ποτέ, προεῖδεν Ἡσαΐας…"
-ocLI.BeatitudesT.text = "Τόμον σε ποτέ, προεῖδεν Ἡσαΐας, ἐν ᾧ τοῦ Πατρός, δακτύλῳ κατεγράφη, θεοχαρίτωτε, Λόγος ἀνερμηνεύτως, βίβλῳ ζωῆς ἐγκαταγράφων ἡμᾶς."
+ocLI.BeatitudesT.incipit = "Τόμον σε ποτέ, προεῖδεν Ἠσαΐας…"
+ocLI.BeatitudesT.text = "Τόμον σε ποτέ, προεῖδεν Ἠσαΐας, ἐν ᾧ τοῦ Πατρός, δακτύλῳ κατεγράφη, θεοχαρίτωτε, Λόγος ἀνερμηνεύτως, βίβλῳ ζωῆς ἐγκαταγράφων ἡμᾶς."
 
 ocLI.MM.Beatitudes1234TrTas78910GB.text = properties_gr_GR_cog.media.key
 
@@ -631,7 +639,7 @@ octrMA.Triadic1.text = "Εἰς οὐρανὸν τὰς καρδίας ἔχο
 
 octrMA.Triadic2.mode = misc_gr_GR_cog.Mode8
 octrMA.Triadic2.incipit = "Ὁρᾷν σε μὴ τολμῶντα…"
-octrMA.Triadic2.text = "Ὁρᾷν σε μὴ τολμῶντα τὰ Χερουβείμ, ἱπτάμενα κραυγάζει ἀλαλαγμῷ, τὸ ἔνθεον μέλος τῆς Τρισαγίας φωνῆς, μεθ' ὧν καὶ ἡμεῖς βοῶμεν οἱ ἁμαρτωλοί· Ἅγιος, Ἅγιος, Ἅγιος εἶ ὁ Θεὸς ἡμῶν."
+octrMA.Triadic2.text = "Ὁρᾷν σε μὴ τολμῶντα τὰ Χερουβείμ, ἱπτάμενα κραυγάζει ἀλαλαγμῷ, τὸ ἔνθεον μέλος τῆς Τρισαγίας φωνῆς, μεθʼ ὧν καὶ ἡμεῖς βοῶμεν οἱ ἁμαρτωλοί· Ἅγιος, Ἅγιος, Ἅγιος εἶ ὁ Θεὸς ἡμῶν."
 
 octrMA.Triadic3.mode = misc_gr_GR_cog.Mode8
 octrMA.Triadic3.incipit = "Κατακαμπτόμενοι τῷ πλήθει…"

@@ -29,8 +29,8 @@ meVE.Stichera02.text = "Θεολόγου ἐκ στόματος, θεολόγ
 
 meVE.Stichera03.mode = misc_gr_GR_cog.Mode4
 meVE.Stichera03.melody = he.a.m4_gr_GR_cog.OsGennaionEnMartysi.name
-meVE.Stichera03.incipit = "Τῇ σαρκὶ καθ' ὑπόστασιν, ἑνωθέντα…"
-meVE.Stichera03.text = "Τῇ σαρκὶ καθ' ὑπόστασιν, ἑνωθέντα τὸν ἄσαρκον, καὶ Πατρὶ συνάναρχον, Λόγον Πάνσοφε, δίχα τροπῆς καὶ συγχύσεως, σοφῶς ἐδογμάτισας, ἐνεργοῦντα δὲ διττῶς, καταλλήλως ταῖς φύσεσιν, ἐξ ὧν σύγκειται, καὶ ἐν αἷς θεωρεῖται εἷς ὑπάρχων, ἀδιαίρετος τῷ ὄντι, τοῦτο κἀκεῖνο νοούμενος."
+meVE.Stichera03.incipit = "Τῇ σαρκὶ καθʼ ὑπόστασιν, ἑνωθέντα…"
+meVE.Stichera03.text = "Τῇ σαρκὶ καθʼ ὑπόστασιν, ἑνωθέντα τὸν ἄσαρκον, καὶ Πατρὶ συνάναρχον, Λόγον Πάνσοφε, δίχα τροπῆς καὶ συγχύσεως, σοφῶς ἐδογμάτισας, ἐνεργοῦντα δὲ διττῶς, καταλλήλως ταῖς φύσεσιν, ἐξ ὧν σύγκειται, καὶ ἐν αἷς θεωρεῖται εἷς ὑπάρχων, ἀδιαίρετος τῷ ὄντι, τοῦτο κἀκεῖνο νοούμενος."
 
 meVE.SticTheotokion.mode = misc_gr_GR_cog.Mode4
 meVE.SticTheotokion.melody = he.a.m4_gr_GR_cog.OsGennaionEnMartysi.name
@@ -57,6 +57,10 @@ meVE.Apolytikion2.incipit = "Χαίρει ἔχουσα ἡ πόλις Ἄρτ
 meVE.Apolytikion2.text = "Χαίρει ἔχουσα ἡ πόλις Ἄρτα τὸν σὸν πάνεσπτον ναόν, Ὁσία, ἰαμάτων ἰατρεῖον ὑπάρχοντα τοῖς προσιοῦσιν αὐτῷ μετὰ πίστεως καὶ αἰτουμένοις τὴν σεπτήν σου ἀντίληψιν· Ὦ Βασίλισσα Θεοδώρα ἀξιάγαστε, Χριστὸν τὸν Θεὸν ἱκέτευε δωρήσασθαι ἡμῖν τὸ μέγα ἔλεος."
 
 meMA.C1.poet = poets_gr_GR_cog.Theofanous
+meMA.C1.acrostic.title = ""
+meMA.C1.acrostic.notice1 = ""
+meMA.C1.acrostic.text = ""
+//meMA.C1.acrostic.notice2 = ""
 meMA.C1.acrostic = "οὗ ἡ Ἀκροστιχίς· Σωφροσύνης μέλπω τὸν ἐπώνυμον, αἴσιμα ῥέζων."
 
 meMA.Ode1C1H.ode = misc_gr_GR_cog.Ode1
@@ -120,7 +124,7 @@ meMA.Ode3C13.ode = misc_gr_GR_cog.Ode3
 meMA.Ode3C13.mode = misc_gr_GR_cog.Mode4
 meMA.Ode3C13.melody = he.h.m4_gr_GR_cog.OukEnSofia.name
 meMA.Ode3C13.incipit = "Νεκρώσας πᾶσαν, φθειρομένης σαρκὸς ἡδυπάθειαν…"
-meMA.Ode3C13.text = "Νεκρώσας πᾶσαν, φθειρομένης σαρκὸς ἡδυπάθειαν, τὴν ἀκήρατον ψυχήν, δι' εὐσεβείας ἐζώωσας, καὶ ταύτην ἀνέδειξας, ἔνθεον ὄργανον."
+meMA.Ode3C13.text = "Νεκρώσας πᾶσαν, φθειρομένης σαρκὸς ἡδυπάθειαν, τὴν ἀκήρατον ψυχήν, διʼ εὐσεβείας ἐζώωσας, καὶ ταύτην ἀνέδειξας, ἔνθεον ὄργανον."
 
 meMA.Ode3C14.ode = misc_gr_GR_cog.Ode3
 meMA.Ode3C14.mode = misc_gr_GR_cog.Mode4
@@ -137,7 +141,7 @@ meMA.Ode3C1T.text = "Σὲ τὴν τεκοῦσαν τὸν Θεόν, Θεοτ
 meMA.Ode3Kathisma1.mode = misc_gr_GR_cog.Mode4
 meMA.Ode3Kathisma1.melody = he.a.m4_gr_GR_cog.TachyProkatalave.name
 meMA.Ode3Kathisma1.incipit = "Τοῖς λόγοις ἐκόσμησας τὴν Ἐκκλησίαν…"
-meMA.Ode3Kathisma1.text = "Τοῖς λόγοις ἐκόσμησας τὴν Ἐκκλησίαν Χριστοῦ, τοῖς ἔργοις ἐτήρησας τὸ κατ' εἰκόνα Θεοῦ, Σωφρόνιε Ὅσιε· ἔλαμψε γὰρ ἐν κόσμῳ, ἡ ἐν σοὶ σωφροσύνη, χάριτας διδαγμάτων, ἀπαστράπτουσα πᾶσι, τοῖς πίστει ἑορτάζουσι Πάτερ τὴν μνήμην σου."
+meMA.Ode3Kathisma1.text = "Τοῖς λόγοις ἐκόσμησας τὴν Ἐκκλησίαν Χριστοῦ, τοῖς ἔργοις ἐτήρησας τὸ κατʼ εἰκόνα Θεοῦ, Σωφρόνιε Ὅσιε· ἔλαμψε γὰρ ἐν κόσμῳ, ἡ ἐν σοὶ σωφροσύνη, χάριτας διδαγμάτων, ἀπαστράπτουσα πᾶσι, τοῖς πίστει ἑορτάζουσι Πάτερ τὴν μνήμην σου."
 
 meMA.Ode3KathismaT.mode = misc_gr_GR_cog.Mode4
 meMA.Ode3KathismaT.melody = he.a.m4_gr_GR_cog.TachyProkatalave.name
@@ -243,7 +247,7 @@ meMA.Ode6C1T.ode = misc_gr_GR_cog.Ode6
 meMA.Ode6C1T.mode = misc_gr_GR_cog.Mode4
 meMA.Ode6C1T.melody = he.h.m4_gr_GR_cog.ThysoSoiMetaFonis.name
 meMA.Ode6C1T.incipit = "Ὑμνοῦμεν, Θεοτόκε τὸν ἄχραντον τόκον…"
-meMA.Ode6C1T.text = "Ὑμνοῦμεν, Θεοτόκε τὸν ἄχραντον τόκον σου, δι' οὗ σῳζόμεθα πάντες, καὶ θανάτου βρόχων καὶ δεινοτάτης, ἁμαρτίας, καὶ τῶν μυχῶν τοῦ ᾍδου λυτρούμεθα."
+meMA.Ode6C1T.text = "Ὑμνοῦμεν, Θεοτόκε τὸν ἄχραντον τόκον σου, διʼ οὗ σῳζόμεθα πάντες, καὶ θανάτου βρόχων καὶ δεινοτάτης, ἁμαρτίας, καὶ τῶν μυχῶν τοῦ ᾍδου λυτρούμεθα."
 
 meMA.Kontakion1.poet = poets_gr_GR_cog.Gerasimou
 meMA.Kontakion1.mode = misc_gr_GR_cog.Mode4
@@ -351,7 +355,7 @@ meMA.Ode9C1T.ode = misc_gr_GR_cog.Ode9
 meMA.Ode9C1T.mode = misc_gr_GR_cog.Mode4
 meMA.Ode9C1T.melody = he.h.m4_gr_GR_cog.LithosAcheirotmitos.name
 meMA.Ode9C1T.incipit = "Νεφέλην σε κούφην Παρθένε, ὁ…"
-meMA.Ode9C1T.text = "Νεφέλην σε κούφην Παρθένε, ὁ Ἡσαΐας ἐθεώρει· ἐπὶ σοὶ γὰρ Κύριος ἐλθών, καθεῖλε πάντα τὰ χειροποίητα, καὶ τὴν αὐτοῦ ἐπίγνωσιν, τοῖς σὲ ὑμνοῦσιν ἐφανέρωσε."
+meMA.Ode9C1T.text = "Νεφέλην σε κούφην Παρθένε, ὁ Ἠσαΐας ἐθεώρει· ἐπὶ σοὶ γὰρ Κύριος ἐλθών, καθεῖλε πάντα τὰ χειροποίητα, καὶ τὴν αὐτοῦ ἐπίγνωσιν, τοῖς σὲ ὑμνοῦσιν ἐφανέρωσε."
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody

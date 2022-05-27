@@ -35,7 +35,7 @@ meVE.Stichera03.text = "Εὐκλείας ἀκηράτου μέτοχος γ
 meVE.SticTheotokion.mode = misc_gr_GR_cog.Mode3
 meVE.SticTheotokion.melody = he.a.m3_gr_GR_cog.MegaliTouStavrouSou.name
 meVE.SticTheotokion.incipit = "Μεγάλης διὰ σοῦ εὐεργεσίας Ἄχραντε…"
-meVE.SticTheotokion.text = "Μεγάλης διὰ σοῦ εὐεργεσίας Ἄχραντε, τυχόντες σὺν Προφήταις, γεραίρομεν τὸν τόκον σου, τὸν καὶ καταξιώσαντα, ἐκ μήτρας σου τεχθῆναι, δι' ἄκραν εὐσπλαγχνίαν, καὶ ἀναπλάσαντα τῶν ἀνθρώπων τὸ γένος."
+meVE.SticTheotokion.text = "Μεγάλης διὰ σοῦ εὐεργεσίας Ἄχραντε, τυχόντες σὺν Προφήταις, γεραίρομεν τὸν τόκον σου, τὸν καὶ καταξιώσαντα, ἐκ μήτρας σου τεχθῆναι, διʼ ἄκραν εὐσπλαγχνίαν, καὶ ἀναπλάσαντα τῶν ἀνθρώπων τὸ γένος."
 
 meVE.SticStavrotheotokion.mode = misc_gr_GR_cog.Mode3
 meVE.SticStavrotheotokion.melody = he.a.m3_gr_GR_cog.MegaliTouStavrouSou.name
@@ -50,7 +50,7 @@ meVE.Apolytikion2.poet = poets_gr_GR_cog.Gerasimou
 meVE.Apolytikion2.mode = misc_gr_GR_cog.Mode3
 meVE.Apolytikion2.melody = he.a.m3_gr_GR_cog.TheiasPisteos.name
 meVE.Apolytikion2.incipit = "Νόμῳ ἔλαμψας, προαναγγέλλων, τὰς τῆς…"
-meVE.Apolytikion2.text = "Νόμῳ ἔλαμψας, προαναγγέλλων, τὰς τῆς χάριτος, Ναοὺμ Προφῆτα, ὁμωνήμως παρακλήσεις ἐν Πνεύματι· δι' ὦν ὁ Λόγος οὐσίαν τὴν βρότειον, ἐπιφανεὶς τοῖς ἀνθρώποις κατηύφρανεν· ὅθεν πρέσβευε, Τριάδι τῇ πανοικτίρμονι, δωρήσασθαι ἡμῖν τὸ μέγα ἔλεος."
+meVE.Apolytikion2.text = "Νόμῳ ἔλαμψας, προαναγγέλλων, τὰς τῆς χάριτος, Ναοὺμ Προφῆτα, ὁμωνήμως παρακλήσεις ἐν Πνεύματι· διʼ ὦν ὁ Λόγος οὐσίαν τὴν βρότειον, ἐπιφανεὶς τοῖς ἀνθρώποις κατηύφρανεν· ὅθεν πρέσβευε, Τριάδι τῇ πανοικτίρμονι, δωρήσασθαι ἡμῖν τὸ μέγα ἔλεος."
 
 meVE.Apolytikion3.poet = poets_gr_GR_cog.Gerasimou
 meVE.Apolytikion3.mode = misc_gr_GR_cog.Mode3
@@ -58,6 +58,10 @@ meVE.Apolytikion3.melody = he.a.m3_gr_GR_cog.TheiasPisteos.name
 meVE.Apolytikion3.incipit = "Θείας πίστεως περιουσίᾳ, διεσκόρπισας, τοῖς…"
 meVE.Apolytikion3.text = "Θείας πίστεως περιουσίᾳ, διεσκόρπισας, τοῖς δεομένοις, τὸν προσόντα σοι πλοῦτον Φιλάρετε· καὶ εὐσπλαγχνίᾳ κοσμήσας τὸν βίον σου, τὸν χορεγὸν τοῦ ἐλέους ἐδόξασας· Ὅν ἱκέτευε, δοθῆναι τοῖς εὐφημοῦσί σε, ῥανίδα οἰκτιρμῶν καὶ θεῖον ἔλεος."
 
+meMA.C1.acrostic.title = ""
+meMA.C1.acrostic.notice1 = ""
+meMA.C1.acrostic.text = ""
+//meMA.C1.acrostic.notice2 = ""
 meMA.C1.acrostic = "οὗ ἡ Ἀκροστιχίς· Ναοὺμ τὸ λῆμμα συντόνως ἐπαινέσω."
 
 meMA.C1.title = titles_gr_GR_cog.KanonTouProfitou
@@ -166,7 +170,7 @@ meMA.Ode5C13.ode = misc_gr_GR_cog.Ode5
 meMA.Ode5C13.mode = misc_gr_GR_cog.Mode5
 meMA.Ode5C13.melody = he.h.m5_gr_GR_cog.OAnavallomenos.name
 meMA.Ode5C13.incipit = "Ὑπὲρ τὰ ὁρώμενα, τὰ προτερήματα…"
-meMA.Ode5C13.text = "Ὑπὲρ τὰ ὁρώμενα, τὰ προτερήματα, τῶν προφητείᾳ τετιμημένων· δι' αὐτῶν γὰρ φθέγγεται, τὸ Ἅγιον Πνεῦμα, τὸ ἀγαθὸν καὶ Κύριον."
+meMA.Ode5C13.text = "Ὑπὲρ τὰ ὁρώμενα, τὰ προτερήματα, τῶν προφητείᾳ τετιμημένων· διʼ αὐτῶν γὰρ φθέγγεται, τὸ Ἅγιον Πνεῦμα, τὸ ἀγαθὸν καὶ Κύριον."
 
 meMA.Ode5C1T.ode = misc_gr_GR_cog.Ode5
 meMA.Ode5C1T.mode = misc_gr_GR_cog.Mode5

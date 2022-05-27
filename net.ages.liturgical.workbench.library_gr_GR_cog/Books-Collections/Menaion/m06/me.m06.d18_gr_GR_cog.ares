@@ -21,7 +21,7 @@ meDA.dismissal = ""
 meVE.Stichera01.mode = misc_gr_GR_cog.Mode8
 meVE.Stichera01.melody = he.a.m8_gr_GR_cog.TiYmasKalesomen.name
 meVE.Stichera01.incipit = "Τί σε ὀνομάσωμεν ἔνδοξε; τῆς…"
-meVE.Stichera01.text = "Τί σε ὀνομάσωμεν ἔνδοξε; τῆς Ἑλλάδος προσφοράν, ὡς ὡρμημένον ἀπ' αὐτῆς, τῆς Φοινίκης καθαρμόν, ὡς τεθυμένον ἐν αὐτῇ, φωστῆρα, ὡς ἐν σκότει ἐξαστράψαντα, γενναῖον, ὡς ἀήττητον τοῖς πλήττουσι. Πολύτροπός σου ἡ εὔκλεια, Λεόντιε παμμακάριστε, ἱκέτευε, τοῦ σωθῆναι τὰς ψυχὰς ἡμῶν."
+meVE.Stichera01.text = "Τί σε ὀνομάσωμεν ἔνδοξε; τῆς Ἑλλάδος προσφοράν, ὡς ὡρμημένον ἀπʼ αὐτῆς, τῆς Φοινίκης καθαρμόν, ὡς τεθυμένον ἐν αὐτῇ, φωστῆρα, ὡς ἐν σκότει ἐξαστράψαντα, γενναῖον, ὡς ἀήττητον τοῖς πλήττουσι. Πολύτροπός σου ἡ εὔκλεια, Λεόντιε παμμακάριστε, ἱκέτευε, τοῦ σωθῆναι τὰς ψυχὰς ἡμῶν."
 
 meVE.Stichera02.mode = misc_gr_GR_cog.Mode8
 meVE.Stichera02.melody = he.a.m8_gr_GR_cog.TiYmasKalesomen.name
@@ -30,8 +30,8 @@ meVE.Stichera02.text = "Τί σε ἀθλοφόρε προσείπωμεν, �
 
 meVE.Stichera03.mode = misc_gr_GR_cog.Mode8
 meVE.Stichera03.melody = he.a.m8_gr_GR_cog.TiYmasKalesomen.name
-meVE.Stichera03.incipit = "Τὶς σε οὐ θαυμάσει Λεόντιε…"
-meVE.Stichera03.text = "Τὶς σε οὐ θαυμάσει Λεόντιε; ὅτι ἔνοικον λαβών, τῆς ἀληθείας τὴν πηγήν, ποταμοὺς εὐεργεσίας, ἀναβλύζεις τοῖς πιστοῖς, καὶ πᾶσιν, ἀναργύρως ἀνεπίφθονα, προσφέρεις τοῖς διψῶσι τὰ δωρήματα, εὐφραίνεις δὲ τοὺς μετέχοντας, ὑδάτων τῶν τῆς χρηστότητος, ἱκέτευε, τοῦ σωθῆναι τὰς ψυχὰς ἡμῶν."
+meVE.Stichera03.incipit = "Τίς σε οὐ θαυμάσει Λεόντιε…"
+meVE.Stichera03.text = "Τίς σε οὐ θαυμάσει Λεόντιε; ὅτι ἔνοικον λαβών, τῆς ἀληθείας τὴν πηγήν, ποταμοὺς εὐεργεσίας, ἀναβλύζεις τοῖς πιστοῖς, καὶ πᾶσιν, ἀναργύρως ἀνεπίφθονα, προσφέρεις τοῖς διψῶσι τὰ δωρήματα, εὐφραίνεις δὲ τοὺς μετέχοντας, ὑδάτων τῶν τῆς χρηστότητος, ἱκέτευε, τοῦ σωθῆναι τὰς ψυχὰς ἡμῶν."
 
 meVE.SticTheotokion.mode = misc_gr_GR_cog.Mode8
 meVE.SticTheotokion.melody = he.a.m8_gr_GR_cog.TiYmasKalesomen.name
@@ -50,6 +50,10 @@ meVE.Apolytikion1.incipit = "Ῥώμην ἔνθεον, διεζωσμένος,
 meVE.Apolytikion1.text = "Ῥώμην ἔνθεον, διεζωσμένος, ἐθριάμβευσας, ἐν τοῖς ἀγῶσιν, Ἀθλοφόρε τοῦ Σωτῆρος Λεόντιε· σὺ γὰρ ὡς λέων πρὸς ἄθλησιν ὥρμησας, καὶ πολεμίων τὸ κράτος κατέβαλες. Μάρτυς ἔνδοξε, Χριστὸν τὸν Θεὸν ἱκέτευε, δωρήσασθαι ἡμῖν τὸ μέγα ἔλεος."
 
 meMA.C1.poet = poets_gr_GR_cog.IoannouMonachou
+meMA.C1.acrostic.title = ""
+meMA.C1.acrostic.notice1 = ""
+meMA.C1.acrostic.text = ""
+//meMA.C1.acrostic.notice2 = ""
 meMA.C1.acrostic = "οὗ ἡ Ἀκροστιχίς (ἄνευ τῶν Θεοτοκίων)· Νίκη Θεὸς σοι καὶ γέρας Λεόντιε."
 
 meMA.C1.title = titles_gr_GR_cog.KanonTouAgiou
@@ -134,7 +138,7 @@ meMA.Ode4C12.ode = misc_gr_GR_cog.Ode4
 meMA.Ode4C12.mode = misc_gr_GR_cog.Mode4
 meMA.Ode4C12.melody = he.h.m4_gr_GR_cog.TousOuranousIAretiSou.name
 meMA.Ode4C12.incipit = "Συνεκροτεῖτο παῤῥησίᾳ σοι Λεόντιε, ὑπὲρ…"
-meMA.Ode4C12.text = "Συνεκροτεῖτο παῤῥησίᾳ σοι Λεόντιε, ὑπὲρ τῆς ἀληθείας κινδυνεύοντι, μεθ' ἧς τομῆς καὶ καύσεως, πάσης κατετόλμας ἀοίδιμε."
+meMA.Ode4C12.text = "Συνεκροτεῖτο παῤῥησίᾳ σοι Λεόντιε, ὑπὲρ τῆς ἀληθείας κινδυνεύοντι, μεθʼ ἧς τομῆς καὶ καύσεως, πάσης κατετόλμας ἀοίδιμε."
 
 meMA.Ode4C13.ode = misc_gr_GR_cog.Ode4
 meMA.Ode4C13.mode = misc_gr_GR_cog.Mode4
@@ -182,7 +186,7 @@ meMA.Ode6C12.ode = misc_gr_GR_cog.Ode6
 meMA.Ode6C12.mode = misc_gr_GR_cog.Mode4
 meMA.Ode6C12.melody = he.h.m4_gr_GR_cog.EvoiseProtypon.name
 meMA.Ode6C12.incipit = "Γεγηθὼς μέν, ὁ πιστός σου…"
-meMA.Ode6C12.text = "Γεγηθὼς μέν, ὁ πιστός σου θεράπων Λεόντιος, ἀπεδίδου, τὸ μαρτύριον τῆς βασιλείας σου, ἀλλ' οὐκ ἔφερον, οἱ ἐχθροί σου Χριστὲ τὴν ἀλήθειαν."
+meMA.Ode6C12.text = "Γεγηθὼς μέν, ὁ πιστός σου θεράπων Λεόντιος, ἀπεδίδου, τὸ μαρτύριον τῆς βασιλείας σου, ἀλλʼ οὐκ ἔφερον, οἱ ἐχθροί σου Χριστὲ τὴν ἀλήθειαν."
 
 meMA.Ode6C13.ode = misc_gr_GR_cog.Ode6
 meMA.Ode6C13.mode = misc_gr_GR_cog.Mode4

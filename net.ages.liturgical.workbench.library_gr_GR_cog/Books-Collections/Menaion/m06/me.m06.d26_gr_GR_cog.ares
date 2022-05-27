@@ -20,8 +20,8 @@ meDA.dismissal = ""
 
 meVE.Stichera01.mode = misc_gr_GR_cog.Mode8
 meVE.Stichera01.melody = he.a.m8_gr_GR_cog.OTouParadoxou.name
-meVE.Stichera01.incipit = "Πάτερ Δαυῒδ παμμακάριστε, δι' ἐγκρατείας…"
-meVE.Stichera01.text = "Πάτερ Δαυῒδ παμμακάριστε, δι' ἐγκρατείας τὸν νοῦν, λαμπρυνόμενος ἄριστα, πρὸς τὸ πρῶτον αἴτιον, τῶν καλῶν ἀνεπτέρωσας, καὶ στῦλος ὤφθης φωτοειδέστατος, φωτίζων πάντας, λόγοις καὶ θαύμασι, τοὺς προσιόντας σοι, διανοίᾳ πάντοτε θεοπρεπεῖ· ὅθεν σε γεραίρομεν, καὶ μακαρίζομεν."
+meVE.Stichera01.incipit = "Πάτερ Δαυῒδ παμμακάριστε, διʼ ἐγκρατείας…"
+meVE.Stichera01.text = "Πάτερ Δαυῒδ παμμακάριστε, διʼ ἐγκρατείας τὸν νοῦν, λαμπρυνόμενος ἄριστα, πρὸς τὸ πρῶτον αἴτιον, τῶν καλῶν ἀνεπτέρωσας, καὶ στῦλος ὤφθης φωτοειδέστατος, φωτίζων πάντας, λόγοις καὶ θαύμασι, τοὺς προσιόντας σοι, διανοίᾳ πάντοτε θεοπρεπεῖ· ὅθεν σε γεραίρομεν, καὶ μακαρίζομεν."
 
 meVE.Stichera02.mode = misc_gr_GR_cog.Mode8
 meVE.Stichera02.melody = he.a.m8_gr_GR_cog.OTouParadoxou.name
@@ -49,6 +49,10 @@ meVE.Apolytikion1.melody = he.a.m4_gr_GR_cog.TachyProkatalave.name
 meVE.Apolytikion1.incipit = "Ὡς φοῖνιξ ἐξήνθησας, τῶν ἀρετῶν…"
 meVE.Apolytikion1.text = "Ὡς φοῖνιξ ἐξήνθησας, τῶν ἀρετῶν τοὺς καρπούς, ἀσκήσας ὡς ἄσαρκος, ἀμυγδαλῆς ἐν φυτῷ, Δαυΐδ Πάτερ Ὅσιε· ὅθεν Θεσσαλονίκη, τοῖς ὁσίοις σου πόνοις, χάριν παρὰ Κυρίου, δαψιλῆ καρπουμένη, γεραίρει ὡς μεσίτην σε, θερμὸν πρὸς τὸν Κύριον."
 
+meMA.C1.acrostic.title = ""
+meMA.C1.acrostic.notice1 = ""
+meMA.C1.acrostic.text = ""
+//meMA.C1.acrostic.notice2 = ""
 meMA.C1.acrostic = "οὗ ἡ Ἀκροστιχίς· Ὑμνῶ μάκαρ σου τὸν βίον θείοις λόγοις. Ἰωσήφ."
 
 meMA.C1.title = titles_gr_GR_cog.KanonTouOsiou
@@ -70,7 +74,7 @@ meMA.Ode1C13.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C13.mode = misc_gr_GR_cog.Mode5
 meMA.Ode1C13.melody = he.h.m5_gr_GR_cog.IpponKaiAnavatin.name
 meMA.Ode1C13.incipit = "Νόμοις τοῖς τοῦ Δεσπότου, ὑπείκων…"
-meMA.Ode1C13.text = "Νόμοις τοῖς τοῦ Δεσπότου, ὑπείκων Ὅσιε, τὸν σταυρόν σου ἐπ' ὤμων, ἀνέλαβες τοῖς ἴχνεσι, τοῖς τούτου ἑπόμενος, καὶ καθεῖλες ἔπαρσιν, τοῦ ἀλάστορος ταπεινούμενος."
+meMA.Ode1C13.text = "Νόμοις τοῖς τοῦ Δεσπότου, ὑπείκων Ὅσιε, τὸν σταυρόν σου ἐπʼ ὤμων, ἀνέλαβες τοῖς ἴχνεσι, τοῖς τούτου ἑπόμενος, καὶ καθεῖλες ἔπαρσιν, τοῦ ἀλάστορος ταπεινούμενος."
 
 meMA.Ode1C1T.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C1T.mode = misc_gr_GR_cog.Mode5
@@ -81,8 +85,8 @@ meMA.Ode1C1T.text = "Ὤφθης ὡραϊσμένη, τῷ κάλλει τῶ
 meMA.Ode3C11.ode = misc_gr_GR_cog.Ode3
 meMA.Ode3C11.mode = misc_gr_GR_cog.Mode5
 meMA.Ode3C11.melody = he.h.m5_gr_GR_cog.OPixasEpOudenos.name
-meMA.Ode3C11.incipit = "Μαράνας δι' ἐγκρατείας, κάλλος τοῦ…"
-meMA.Ode3C11.text = "Μαράνας δι' ἐγκρατείας, κάλλος τοῦ σώματος, τὰς αὐγὰς ἐδέξω τοῦ θείου Πνεύματος, καὶ τῆς ἀπαθείας φωταυγεῖς, ἀπήστραψας ἀκτῖνας, καὶ ἰαμάτων τὰ χαρίσματα, Πάτερ τοῦ Προφήτου ὁμώνυμε."
+meMA.Ode3C11.incipit = "Μαράνας διʼ ἐγκρατείας, κάλλος τοῦ…"
+meMA.Ode3C11.text = "Μαράνας διʼ ἐγκρατείας, κάλλος τοῦ σώματος, τὰς αὐγὰς ἐδέξω τοῦ θείου Πνεύματος, καὶ τῆς ἀπαθείας φωταυγεῖς, ἀπήστραψας ἀκτῖνας, καὶ ἰαμάτων τὰ χαρίσματα, Πάτερ τοῦ Προφήτου ὁμώνυμε."
 
 meMA.Ode3C12.ode = misc_gr_GR_cog.Ode3
 meMA.Ode3C12.mode = misc_gr_GR_cog.Mode5
@@ -282,14 +286,14 @@ meMA.Ode9C11.text = "Ἱερὰν πανήγυριν, συνελθόντες �
 meMA.Ode9C12.ode = misc_gr_GR_cog.Ode9
 meMA.Ode9C12.mode = misc_gr_GR_cog.Mode5
 meMA.Ode9C12.melody = he.h.m5_gr_GR_cog.IsaiaChoreve.name
-meMA.Ode9C12.incipit = "Ὥσπερ δένδρον τέθηλας, ἐφ' ὑδάτων…"
-meMA.Ode9C12.text = "Ὥσπερ δένδρον τέθηλας, ἐφ' ὑδάτων, Ὅσιε ῥοαῖς, πνευματικῶν ἀρετῶν, φέρων τοὺς καρπούς, φυτῷ δὲ πηξάμενος, ὡς ἀετός, Πάτερ καλιάν, πρὸς τὰ οὐράνια, τὰς σὰς φρένας ἐξεπέτασας."
+meMA.Ode9C12.incipit = "Ὥσπερ δένδρον τέθηλας, ἐφʼ ὑδάτων…"
+meMA.Ode9C12.text = "Ὥσπερ δένδρον τέθηλας, ἐφʼ ὑδάτων, Ὅσιε ῥοαῖς, πνευματικῶν ἀρετῶν, φέρων τοὺς καρπούς, φυτῷ δὲ πηξάμενος, ὡς ἀετός, Πάτερ καλιάν, πρὸς τὰ οὐράνια, τὰς σὰς φρένας ἐξεπέτασας."
 
 meMA.Ode9C13.ode = misc_gr_GR_cog.Ode9
 meMA.Ode9C13.mode = misc_gr_GR_cog.Mode5
 meMA.Ode9C13.melody = he.h.m5_gr_GR_cog.IsaiaChoreve.name
 meMA.Ode9C13.incipit = "Σοῦ προφητικώτατα, θεωρήσας Ὅσιε Δαυΐδ…"
-meMA.Ode9C13.text = "Σοῦ προφητικώτατα, θεωρήσας Ὅσιε Δαυΐδ, τὴν ἔξοδον προφωνεῖς, ταύτην τοῖς λαοῖς, ἡνίκα στελλόμενος, τὴν κατ' αὐτῶν ἔστησας σοφέ, τοῦ βασιλεύοντος, σφοδροτάτην ἀγανάκτησιν."
+meMA.Ode9C13.text = "Σοῦ προφητικώτατα, θεωρήσας Ὅσιε Δαυΐδ, τὴν ἔξοδον προφωνεῖς, ταύτην τοῖς λαοῖς, ἡνίκα στελλόμενος, τὴν κατʼ αὐτῶν ἔστησας σοφέ, τοῦ βασιλεύοντος, σφοδροτάτην ἀγανάκτησιν."
 
 meMA.Ode9C14.ode = misc_gr_GR_cog.Ode9
 meMA.Ode9C14.mode = misc_gr_GR_cog.Mode5
@@ -301,7 +305,7 @@ meMA.Ode9C1T.ode = misc_gr_GR_cog.Ode9
 meMA.Ode9C1T.mode = misc_gr_GR_cog.Mode5
 meMA.Ode9C1T.melody = he.h.m5_gr_GR_cog.IsaiaChoreve.name
 meMA.Ode9C1T.incipit = "Φωτοφόρον πύλην σε, προεώρα, Ἰεζεκιήλ…"
-meMA.Ode9C1T.text = "Φωτοφόρον πύλην σε, προεώρα, Ἰεζεκιήλ, δι' ἧς διῆλθε τὸ φῶς, τὸ ἀληθινόν, Χριστὸς ὁ Θεὸς ἡμῶν, ὃν ἐκτενῶς, αἴτησαι Ἁγνή, τῆς μετανοίας μοι, διανοῖξαι πύλας δέομαι."
+meMA.Ode9C1T.text = "Φωτοφόρον πύλην σε, προεώρα, Ἰεζεκιήλ, διʼ ἧς διῆλθε τὸ φῶς, τὸ ἀληθινόν, Χριστὸς ὁ Θεὸς ἡμῶν, ὃν ἐκτενῶς, αἴτησαι Ἁγνή, τῆς μετανοίας μοι, διανοῖξαι πύλας δέομαι."
 
 meMA.Ode9H.ode = misc_gr_GR_cog.Ode9
 meMA.Ode9H.mode = misc_gr_GR_cog.Mode5

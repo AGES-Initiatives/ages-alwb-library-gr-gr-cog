@@ -20,7 +20,7 @@ meHO.note2 = ""
 meVE.Stichera01.mode = misc_gr_GR_cog.Mode6
 meVE.Stichera01.melody = he.a.m6_gr_GR_cog.OlinApothemenoi.name
 meVE.Stichera01.incipit = "Ὅλην σου τὴν ἔφεσιν, πρὸς…"
-meVE.Stichera01.text = "Ὅλην σου τὴν ἔφεσιν, πρὸς τὸν Θεὸν ἀνατείνας, κοσμικὴν τερπνότητα, ὡς μὴ διαμένουσαν καταλέλοιπας, καὶ Χριστῷ πάνσοφε, σεαυτὸν ἀνέθου, ὁλοτρόπως δι' ἀσκήσεως, ἐκκαθαιρόμενος, καὶ καρτερικὴν ἐνδεικνύμενος, τὴν ἔνστασιν Παχώμιε, πρὸς τὰ τῶν παθῶν ὑπεκκαύματα, καὶ τῇ συνειδήσει, μαρτύριον θεόφρον ὑποστάς, ὡς νικηφόρος ἀπείληφας, στέφος τὸ ἀμάραντον."
+meVE.Stichera01.text = "Ὅλην σου τὴν ἔφεσιν, πρὸς τὸν Θεὸν ἀνατείνας, κοσμικὴν τερπνότητα, ὡς μὴ διαμένουσαν καταλέλοιπας, καὶ Χριστῷ πάνσοφε, σεαυτὸν ἀνέθου, ὁλοτρόπως διʼ ἀσκήσεως, ἐκκαθαιρόμενος, καὶ καρτερικὴν ἐνδεικνύμενος, τὴν ἔνστασιν Παχώμιε, πρὸς τὰ τῶν παθῶν ὑπεκκαύματα, καὶ τῇ συνειδήσει, μαρτύριον θεόφρον ὑποστάς, ὡς νικηφόρος ἀπείληφας, στέφος τὸ ἀμάραντον."
 
 meVE.Stichera02.mode = misc_gr_GR_cog.Mode6
 meVE.Stichera02.melody = he.a.m6_gr_GR_cog.OlinApothemenoi.name
@@ -40,7 +40,7 @@ meVE.SticGlory.text = "Κρίνον σε ἔρημος ἐξήνθησε Πά
 meVE.AposGlory.mode = misc_gr_GR_cog.Mode8
 meVE.AposGlory.melody = ""
 meVE.AposGlory.incipit = "Τῶν Μοναστῶν τὰ πλήθη, τὸν…"
-meVE.AposGlory.text = "Τῶν Μοναστῶν τὰ πλήθη, τὸν καθηγητήν σε τιμῶμεν Παχώμιε· διὰ σοῦ γὰρ τὴν τρίβον, τὴν ὄντως εὐθεῖαν, πορεύεσθαι ἔγνωμεν. Μακάριος εἶ, τῷ Χριστῷ δουλεύσας, καὶ ἐχθροῦ θριαμβεύσας τὴν δύναμιν, Ἀγγέλων συνόμιλε, Ὁσίων συμμέτοχε καὶ Δικαίων· μεθ' ὧν πρέσβευε τῷ Κυρίω, ἐλεηθῆναι τὰς ψυχὰς ἡμῶν."
+meVE.AposGlory.text = "Τῶν Μοναστῶν τὰ πλήθη, τὸν καθηγητήν σε τιμῶμεν Παχώμιε· διὰ σοῦ γὰρ τὴν τρίβον, τὴν ὄντως εὐθεῖαν, πορεύεσθαι ἔγνωμεν. Μακάριος εἶ, τῷ Χριστῷ δουλεύσας, καὶ ἐχθροῦ θριαμβεύσας τὴν δύναμιν, Ἀγγέλων συνόμιλε, Ὁσίων συμμέτοχε καὶ Δικαίων· μεθʼ ὧν πρέσβευε τῷ Κυρίω, ἐλεηθῆναι τὰς ψυχὰς ἡμῶν."
 
 meVE.Apolytikion1.mode = misc_gr_GR_cog.Mode5
 meVE.Apolytikion1.melody = he.a.m5_gr_GR_cog.TonSynanarchonLogon.name
@@ -48,6 +48,10 @@ meVE.Apolytikion1.incipit = "Ἀγελάρχης ἐδείχθης τοῦ Ἀ
 meVE.Apolytikion1.text = "Ἀγελάρχης ἐδείχθης τοῦ Ἀρχιποίμενος, μοναστῶν τὰς ἀγέλας Πάτερ Παχώμιε, πρὸς τὴν μάνδραν ὁδηγῶν τὴν ἐπουράνιον, καὶ τὸ πρέπον ἀσκηταῖς, ἐκεῖθεν σχῆμα μυηθείς, καὶ τοῦτο πάλιν μυήσας, νῦν δὲ σὺν τούτοις ἀγάλλῃ, καὶ συγχορεύεις ἐν οὐρανίαις σκηναῖς."
 
 meMA.C1.poet = poets_gr_GR_cog.Theofanous
+meMA.C1.acrostic.title = ""
+meMA.C1.acrostic.notice1 = ""
+meMA.C1.acrostic.text = ""
+//meMA.C1.acrostic.notice2 = ""
 meMA.C1.acrostic = "οὗ ἡ Ἀκροστιχίς (ἄνευ τῶν Θεοτοκίων τῶν πρώτων ἓξ ᾨδῶν)· Παχωμίῳ τὸν αἶνον εἰκότως πλέκω."
 
 meMA.C1.title = ""
@@ -63,7 +67,7 @@ meMA.Ode1C12.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C12.mode = misc_gr_GR_cog.Mode2
 meMA.Ode1C12.melody = he.h.m2_gr_GR_cog.EnVythoKatestrose.name
 meMA.Ode1C12.incipit = "Ἀπαθείας ἔρωτι θερμῷ, Πάτερ κατεχόμενος…"
-meMA.Ode1C12.text = "Ἀπαθείας ἔρωτι θερμῷ, Πάτερ κατεχόμενος, τὰς ὑλικὰς τῶν παθῶν κατεμάρανας ἀφορμὰς Παχώμιε, καὶ κατέλαβες, δι' ἀγάπης πτερούμενος, πᾶσαν τὴν πηγαίαν, ἔλλαμψιν παμμάκαρ τῆς Θεότητος."
+meMA.Ode1C12.text = "Ἀπαθείας ἔρωτι θερμῷ, Πάτερ κατεχόμενος, τὰς ὑλικὰς τῶν παθῶν κατεμάρανας ἀφορμὰς Παχώμιε, καὶ κατέλαβες, διʼ ἀγάπης πτερούμενος, πᾶσαν τὴν πηγαίαν, ἔλλαμψιν παμμάκαρ τῆς Θεότητος."
 
 meMA.Ode1C13.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C13.mode = misc_gr_GR_cog.Mode2
@@ -81,7 +85,7 @@ meMA.Ode3C11.ode = misc_gr_GR_cog.Ode3
 meMA.Ode3C11.mode = misc_gr_GR_cog.Mode2
 meMA.Ode3C11.melody = he.h.m2_gr_GR_cog.ExinthisenIErimos.name
 meMA.Ode3C11.incipit = "Ὡς ἔλαφος προσέδραμες, πρὸς τὸ…"
-meMA.Ode3C11.text = "Ὡς ἔλαφος προσέδραμες, πρὸς τὸ ὕδωρ Ὅσιε, καὶ ῥαντισθεὶς Βαπτίσματι, τῷ ἁγίῳ τὴν δρόσον εἴληφας, δι' ἧς κατεγλυκάνθη ἡ καρδία σου."
+meMA.Ode3C11.text = "Ὡς ἔλαφος προσέδραμες, πρὸς τὸ ὕδωρ Ὅσιε, καὶ ῥαντισθεὶς Βαπτίσματι, τῷ ἁγίῳ τὴν δρόσον εἴληφας, διʼ ἧς κατεγλυκάνθη ἡ καρδία σου."
 
 meMA.Ode3C12.ode = misc_gr_GR_cog.Ode3
 meMA.Ode3C12.mode = misc_gr_GR_cog.Mode2
@@ -116,7 +120,7 @@ meMA.Ode4C11.ode = misc_gr_GR_cog.Ode4
 meMA.Ode4C11.mode = misc_gr_GR_cog.Mode2
 meMA.Ode4C11.melody = he.h.m2_gr_GR_cog.ElilythasEkParthenou.name
 meMA.Ode4C11.incipit = "Ὡς ἄριστος, κυβερνήτης ἐγένου Παχώμιε…"
-meMA.Ode4C11.text = "Ὡς ἄριστος, κυβερνήτης ἐγένου Παχώμιε, μοναστῶν συστήματος· δι' ὀπτασίας γὰρ πάνσοφε, Πάτερ κεχρημάτισαι, τῇ ἀρετῇ ἀνεγείρειν φροντιστήρια."
+meMA.Ode4C11.text = "Ὡς ἄριστος, κυβερνήτης ἐγένου Παχώμιε, μοναστῶν συστήματος· διʼ ὀπτασίας γὰρ πάνσοφε, Πάτερ κεχρημάτισαι, τῇ ἀρετῇ ἀνεγείρειν φροντιστήρια."
 
 meMA.Ode4C12.ode = misc_gr_GR_cog.Ode4
 meMA.Ode4C12.mode = misc_gr_GR_cog.Mode2
@@ -134,7 +138,7 @@ meMA.Ode4C14.ode = misc_gr_GR_cog.Ode4
 meMA.Ode4C14.mode = misc_gr_GR_cog.Mode2
 meMA.Ode4C14.melody = he.h.m2_gr_GR_cog.ElilythasEkParthenou.name
 meMA.Ode4C14.incipit = "Νυττόμενος, τοῦ Δεσπότου τῷ πόθῳ…"
-meMA.Ode4C14.text = "Νυττόμενος, τοῦ Δεσπότου τῷ πόθῳ κατέσβεσας, σαρκὸς τὴν εὐπάθειαν, δι' ἐγκρατείας Παχώμιε, ὅλον δὲ τὸν βίον σου, ὡς εὐωδέστατον θῦμα καθιέρωσας."
+meMA.Ode4C14.text = "Νυττόμενος, τοῦ Δεσπότου τῷ πόθῳ κατέσβεσας, σαρκὸς τὴν εὐπάθειαν, διʼ ἐγκρατείας Παχώμιε, ὅλον δὲ τὸν βίον σου, ὡς εὐωδέστατον θῦμα καθιέρωσας."
 
 meMA.Ode4C1T.ode = misc_gr_GR_cog.Ode4
 meMA.Ode4C1T.mode = misc_gr_GR_cog.Mode2
@@ -152,7 +156,7 @@ meMA.Ode5C12.ode = misc_gr_GR_cog.Ode5
 meMA.Ode5C12.mode = misc_gr_GR_cog.Mode2
 meMA.Ode5C12.melody = he.h.m2_gr_GR_cog.MesitisTheou.name
 meMA.Ode5C12.incipit = "Ἱκέτην τὸν σόν, Ἀσκητὴν προσάγομὲν…"
-meMA.Ode5C12.text = "Ἱκέτην τὸν σόν, Ἀσκητὴν προσάγομὲν σοι Δέσποτα, δι' αὐτοῦ αἰτούμενοι φωτισμῷ τῆς χάριτος λαμπρύνεσθαι, τῇ σῇ παντευχίᾳ, διὰ παντὸς φυλάττεσθαι."
+meMA.Ode5C12.text = "Ἱκέτην τὸν σόν, Ἀσκητὴν προσάγομὲν σοι Δέσποτα, διʼ αὐτοῦ αἰτούμενοι φωτισμῷ τῆς χάριτος λαμπρύνεσθαι, τῇ σῇ παντευχίᾳ, διὰ παντὸς φυλάττεσθαι."
 
 meMA.Ode5C13.ode = misc_gr_GR_cog.Ode5
 meMA.Ode5C13.mode = misc_gr_GR_cog.Mode2
@@ -199,7 +203,7 @@ meMA.Ode6H.text = he.h.m2_gr_GR_cog.EnAvyssoPtaismaton.text
 meMA.Kontakion1.mode = misc_gr_GR_cog.Mode2
 meMA.Kontakion1.melody = he.a.m2_gr_GR_cog.TaAnoZiton.name
 meMA.Kontakion1.incipit = "Φωστὴρ φαεινός, ἐδείχθης ἐν τοῖς…"
-meMA.Kontakion1.text = "Φωστὴρ φαεινός, ἐδείχθης ἐν τοῖς πέρασι τὴν ἔρημον δέ, ἐπόλισας τοῖς πλήθεσι, σεαυτὸν ἐσταύρωσας, τὸν σταυρόν σου ἐπ' ὤμων ἀράμενος, καὶ ἀσκήσει τὸ σῶμα, κατέτηξας, πρεσβεύων ἀπαύστως ὑπὲρ πάντων ἡμῶν."
+meMA.Kontakion1.text = "Φωστὴρ φαεινός, ἐδείχθης ἐν τοῖς πέρασι τὴν ἔρημον δέ, ἐπόλισας τοῖς πλήθεσι, σεαυτὸν ἐσταύρωσας, τὸν σταυρόν σου ἐπʼ ὤμων ἀράμενος, καὶ ἀσκήσει τὸ σῶμα, κατέτηξας, πρεσβεύων ἀπαύστως ὑπὲρ πάντων ἡμῶν."
 
 meMA.Ode7C11.ode = misc_gr_GR_cog.Ode7
 meMA.Ode7C11.mode = misc_gr_GR_cog.Mode2

@@ -21,7 +21,7 @@ meDA.dismissal = ""
 meVE.Stichera01.mode = misc_gr_GR_cog.Mode8
 meVE.Stichera01.melody = he.a.m8_gr_GR_cog.TiYmasKalesomen.name
 meVE.Stichera01.incipit = "Ἔχων πολιτείαν ἰσάγγελον, ἀποχῇ τῶν…"
-meVE.Stichera01.text = "Ἔχων πολιτείαν ἰσάγγελον, ἀποχῇ τῶν ἡδονῶν, σκεῦος ἐδείχθης τοῦ Θεοῦ· διὰ τοῦτό σε σοφέ, Ἀρχιερέα τοῦ λαοῦ, τὸ θεῖον ἁρμοζόντως προχειρίζεται, καὶ στῦλον, καὶ ἑδραίωμα τῆς πίστεως, Τύχων δεικνύει θεόπνευστε, ὀρθοδοξίας ἐφ' ὕδατα, ποιμαίνοντα, σοῦ τὴν ποίμνην ἱερώτατε."
+meVE.Stichera01.text = "Ἔχων πολιτείαν ἰσάγγελον, ἀποχῇ τῶν ἡδονῶν, σκεῦος ἐδείχθης τοῦ Θεοῦ· διὰ τοῦτό σε σοφέ, Ἀρχιερέα τοῦ λαοῦ, τὸ θεῖον ἁρμοζόντως προχειρίζεται, καὶ στῦλον, καὶ ἑδραίωμα τῆς πίστεως, Τύχων δεικνύει θεόπνευστε, ὀρθοδοξίας ἐφʼ ὕδατα, ποιμαίνοντα, σοῦ τὴν ποίμνην ἱερώτατε."
 
 meVE.Stichera02.mode = misc_gr_GR_cog.Mode8
 meVE.Stichera02.melody = he.a.m8_gr_GR_cog.TiYmasKalesomen.name
@@ -49,6 +49,10 @@ meVE.Apolytikion1.melody = he.a.m3_gr_GR_cog.TheiasPisteos.name
 meVE.Apolytikion1.incipit = "Θείας ἔτυχες, ἱερατείας, νεύσει κρείττονι…"
 meVE.Apolytikion1.text = "Θείας ἔτυχες, ἱερατείας, νεύσει κρείττονι, ἐκλελεγμένος, ὡς θεράπων τῆς Τριάδος ἐπάξιος· σὺ γὰρ τῶν ἔργων ἐκλάμπων ταῖς χάρισι, τὴν Ἐκκλησίαν ἐστήριξας θαύμασι. Τύχων Ὅσιε, Χριστὸν τὸν Θεὸν ἱκέτευε, δωρήσασθαι ἡμῖν τὸ μέγα ἔλεος."
 
+meMA.C1.acrostic.title = ""
+meMA.C1.acrostic.notice1 = ""
+meMA.C1.acrostic.text = ""
+//meMA.C1.acrostic.notice2 = ""
 meMA.C1.acrostic = "οὗ ἡ Ἀκροστιχίς· Τῷ θαυματουργῷ προσλαλήσω ποιμένι. Ἰωσήφ."
 
 meMA.C1.title = ""
@@ -70,7 +74,7 @@ meMA.Ode1C13.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C13.mode = misc_gr_GR_cog.Mode4
 meMA.Ode1C13.melody = he.h.m4_gr_GR_cog.TristatasKrataious.name
 meMA.Ode1C13.incipit = "Θυσίαν σεαυτόν, καθαρὰν καὶ τελείαν…"
-meMA.Ode1C13.text = "Θυσίαν σεαυτόν, καθαρὰν καὶ τελείαν, τῷ τυθέντι δι' ἡμᾶς, προσήγαγες Χριστῷ, τὰ ψυχὴν ἀποκτείνοντα, πάθη ἐναπονεκρώσας, διὰ πόνων ἀσκήσεως, ἐπιμόνου τε Πάτερ δεήσεως."
+meMA.Ode1C13.text = "Θυσίαν σεαυτόν, καθαρὰν καὶ τελείαν, τῷ τυθέντι διʼ ἡμᾶς, προσήγαγες Χριστῷ, τὰ ψυχὴν ἀποκτείνοντα, πάθη ἐναπονεκρώσας, διὰ πόνων ἀσκήσεως, ἐπιμόνου τε Πάτερ δεήσεως."
 
 meMA.Ode1C1T.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C1T.mode = misc_gr_GR_cog.Mode4
@@ -217,7 +221,7 @@ meMA.Ode7C13.ode = misc_gr_GR_cog.Ode7
 meMA.Ode7C13.mode = misc_gr_GR_cog.Mode4
 meMA.Ode7C13.melody = he.h.m4_gr_GR_cog.NeoiTreisEnVavyloni.name
 meMA.Ode7C13.incipit = "Στέφανος χαρίτων Πάτερ, σοῦ τῇ…"
-meMA.Ode7C13.text = "Στέφανος χαρίτων Πάτερ, σοῦ τῇ θείᾳ κορυφῇ, ἐτέθη ὡς γέγραπται, νίκην κατ' εχθρῶν ἀραμένου, καὶ μελῳδοῦντος· Κύριε, ὁ Θεὸς ὁ τῶν Πατέρων ἡμῶν."
+meMA.Ode7C13.text = "Στέφανος χαρίτων Πάτερ, σοῦ τῇ θείᾳ κορυφῇ, ἐτέθη ὡς γέγραπται, νίκην κατʼ εχθρῶν ἀραμένου, καὶ μελῳδοῦντος· Κύριε, ὁ Θεὸς ὁ τῶν Πατέρων ἡμῶν."
 
 meMA.Ode7C14.ode = misc_gr_GR_cog.Ode7
 meMA.Ode7C14.mode = misc_gr_GR_cog.Mode4

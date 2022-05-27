@@ -83,7 +83,7 @@ meVE.Apolytikion2.poet = poets_gr_GR_cog.Gerasimou
 meVE.Apolytikion2.mode = misc_gr_GR_cog.Mode4
 meVE.Apolytikion2.melody = he.a.m4_gr_GR_cog.TachyProkatalave.name
 meVE.Apolytikion2.incipit = "Σοφίᾳ κοσμούμενος, παντοδαπεῖ εὐκλεῶς, τοῖς…"
-meVE.Apolytikion2.text = "Σοφίᾳ κοσμούμενος, παντοδαπεῖ εὐκλεῶς, τοῖς λόγοις ἐκόσμησας, τὴν Ἐκκλησίαν Χριστοῦ, Ἰσίδωρε Ὅσιε· σὺ γὰρ δι' ἐγκρατείας, σεαυτὸν ἐκκαθάρας, πράξει καὶ θεωρίᾳ, διαλάμπεις ἐν κόσμῳ· δι' ὧν μυσταγωγούμεθα, Πάτερ τὰ κρείττονα."
+meVE.Apolytikion2.text = "Σοφίᾳ κοσμούμενος, παντοδαπεῖ εὐκλεῶς, τοῖς λόγοις ἐκόσμησας, τὴν Ἐκκλησίαν Χριστοῦ, Ἰσίδωρε Ὅσιε· σὺ γὰρ διʼ ἐγκρατείας, σεαυτὸν ἐκκαθάρας, πράξει καὶ θεωρίᾳ, διαλάμπεις ἐν κόσμῳ· διʼ ὧν μυσταγωγούμεθα, Πάτερ τὰ κρείττονα."
 
 meMA.Kathisma11.mode = misc_gr_GR_cog.Mode1
 meMA.Kathisma11.melody = he.a.m1_gr_GR_cog.ChorosAngelikos.name
@@ -96,6 +96,10 @@ meMA.Kathisma21.incipit = me.m02.d01_gr_GR_cog.meMA.Kathisma21.incipit
 meMA.Kathisma21.text = me.m02.d01_gr_GR_cog.meMA.Kathisma21.text
 
 meMA.C1.poet = poets_gr_GR_cog.Theofanous
+meMA.C1.acrostic.title = ""
+meMA.C1.acrostic.notice1 = ""
+meMA.C1.acrostic.text = ""
+//meMA.C1.acrostic.notice2 = ""
 meMA.C1.acrostic = "οὗ ἡ Ἀκροστιχίς· Σὲ τῶν Μοναστῶν τὸ κλέος μέλπω Πάτερ."
 
 meMA.Ode1C1H.ode = misc_gr_GR_cog.Ode1
@@ -141,7 +145,7 @@ meMA.Ode3C11.ode = misc_gr_GR_cog.Ode3
 meMA.Ode3C11.mode = misc_gr_GR_cog.Mode6
 meMA.Ode3C11.melody = he.h.m6_gr_GR_cog.OukEstinAgios.name
 meMA.Ode3C11.incipit = "Νοὸς ὀξύτητι σαφῶς, τὴν τῶν…"
-meMA.Ode3C11.text = "Νοὸς ὀξύτητι σαφῶς, τὴν τῶν ὄντων ἀθροίσας, Παναοίδιμε φύσιν, δι' αὐτῆς τὴν ἀρχικήν, αἰτίαν ὡς καθαρός, θεολόγος ἀπλανῶς κατέλαβες."
+meMA.Ode3C11.text = "Νοὸς ὀξύτητι σαφῶς, τὴν τῶν ὄντων ἀθροίσας, Παναοίδιμε φύσιν, διʼ αὐτῆς τὴν ἀρχικήν, αἰτίαν ὡς καθαρός, θεολόγος ἀπλανῶς κατέλαβες."
 
 meMA.Ode3C12.ode = misc_gr_GR_cog.Ode3
 meMA.Ode3C12.mode = misc_gr_GR_cog.Mode6
@@ -253,7 +257,7 @@ meMA.Ode6C1T.ode = misc_gr_GR_cog.Ode6
 meMA.Ode6C1T.mode = misc_gr_GR_cog.Mode6
 meMA.Ode6C1T.melody = he.h.m6_gr_GR_cog.TouViouTinThalassan.name
 meMA.Ode6C1T.incipit = "Ὁ φέρων τὰ σύμπαντα, δυναστείᾳ…"
-meMA.Ode6C1T.text = "Ὁ φέρων τὰ σύμπαντα, δυναστείᾳ θεϊκῇ, καὶ συγκρατῶν ὡς εὔσπλαγχνος, σαῖς ἀγκάλαις Πανάμωμε σαρκωθείς, ὡς βρέφος βαστάζεται, ὁ Πατρὶ κατ' οὐσίαν συναΐδιος."
+meMA.Ode6C1T.text = "Ὁ φέρων τὰ σύμπαντα, δυναστείᾳ θεϊκῇ, καὶ συγκρατῶν ὡς εὔσπλαγχνος, σαῖς ἀγκάλαις Πανάμωμε σαρκωθείς, ὡς βρέφος βαστάζεται, ὁ Πατρὶ κατʼ οὐσίαν συναΐδιος."
 
 meMA.Kontakion1.mode = misc_gr_GR_cog.Mode1
 meMA.Kontakion1.melody = ""
@@ -323,8 +327,8 @@ meMA.Ode9C1H.text = he.h.m6_gr_GR_cog.TheonAnthropois.text
 meMA.Ode9C11.ode = misc_gr_GR_cog.Ode9
 meMA.Ode9C11.mode = misc_gr_GR_cog.Mode6
 meMA.Ode9C11.melody = he.h.m6_gr_GR_cog.TheonAnthropois.name
-meMA.Ode9C11.incipit = "Ἀκτὶς καθάπερ φωτὸς ἐνήστραψε, σοῦ…"
-meMA.Ode9C11.text = "Ἀκτὶς καθάπερ φωτὸς ἐνήστραψε, σοῦ τῇ ψυχῇ τῆς χάριτος ὁ λόγος πανόλβιε, διὰ σοῦ δὲ πᾶσα ἡ γῆ πεπλήρωται, τούτου τῆς λαμπηδόνος, ἧς οἱ μετέχοντες, τὸν τῆς σῆς σοφίας θησαυρόν, Πάτερ θαυμάζομεν."
+meMA.Ode9C11.incipit = "Ἀκτίς καθάπερ φωτὸς ἐνήστραψε, σοῦ…"
+meMA.Ode9C11.text = "Ἀκτίς καθάπερ φωτὸς ἐνήστραψε, σοῦ τῇ ψυχῇ τῆς χάριτος ὁ λόγος πανόλβιε, διὰ σοῦ δὲ πᾶσα ἡ γῆ πεπλήρωται, τούτου τῆς λαμπηδόνος, ἧς οἱ μετέχοντες, τὸν τῆς σῆς σοφίας θησαυρόν, Πάτερ θαυμάζομεν."
 
 meMA.Ode9C12.ode = misc_gr_GR_cog.Ode9
 meMA.Ode9C12.mode = misc_gr_GR_cog.Mode6
@@ -336,7 +340,7 @@ meMA.Ode9C13.ode = misc_gr_GR_cog.Ode9
 meMA.Ode9C13.mode = misc_gr_GR_cog.Mode6
 meMA.Ode9C13.melody = he.h.m6_gr_GR_cog.TheonAnthropois.name
 meMA.Ode9C13.incipit = "Εὑρὼν τῶν πόνων τῶν σῶν…"
-meMA.Ode9C13.text = "Εὑρὼν τῶν πόνων τῶν σῶν τὰ ἔπαθλα, ἐν οὐρανοῖς ζωῆς ἀτελευτήτου λαβόμενος, τοῖς ὑμνοῦσι πάνσοφε τὴν μνήμην σου, αἴτησαι σωτηρίαν, μάκαρ Ἰσίδωρε, θρόνῳ τοῦ Σωτῆρος μέτ' Ἀγγέλων παριστάμενος."
+meMA.Ode9C13.text = "Εὑρὼν τῶν πόνων τῶν σῶν τὰ ἔπαθλα, ἐν οὐρανοῖς ζωῆς ἀτελευτήτου λαβόμενος, τοῖς ὑμνοῦσι πάνσοφε τὴν μνήμην σου, αἴτησαι σωτηρίαν, μάκαρ Ἰσίδωρε, θρόνῳ τοῦ Σωτῆρος μέτʼ Ἀγγέλων παριστάμενος."
 
 meMA.Ode9C1T.ode = misc_gr_GR_cog.Ode9
 meMA.Ode9C1T.mode = misc_gr_GR_cog.Mode6

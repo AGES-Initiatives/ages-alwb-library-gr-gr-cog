@@ -49,6 +49,10 @@ meVE.Apolytikion1.incipit = "Ἐκβλαστήσας ὡς ῥόδον Μάρ
 meVE.Apolytikion1.text = "Ἐκβλαστήσας ὡς ῥόδον Μάρτυς ἀμάραντον, ἀθλητικῶς κατευφραίνεις τὴν Ἐκκλησίαν Χριστοῦ, τῇ εὐπνοίᾳ τῶν λαμπρῶν κατορθωμάτων σου· σὺ γὰρ παθῶν ζωοποιῶν, ἀνεδείχθης κοινωνός, νομίμως ἀνδραγαθήσας, ὦ Καλλιόπιε μάκαρ, ὑπὲρ τῆς δόξης τοῦ Σωτῆρος ἡμῶν."
 
 meMA.C1.poet = poets_gr_GR_cog.Iosif
+meMA.C1.acrostic.title = ""
+meMA.C1.acrostic.notice1 = ""
+meMA.C1.acrostic.text = ""
+//meMA.C1.acrostic.notice2 = ""
 meMA.C1.acrostic = "οὗ ἡ Ἀκροστιχίς· Καλοὺς ἐπαινῶ Καλλιωπίου πόνους."
 
 meMA.Ode1C1H.ode = misc_gr_GR_cog.Ode1
@@ -82,7 +86,7 @@ meMA.Ode1C1T.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C1T.mode = misc_gr_GR_cog.Mode8
 meMA.Ode1C1T.melody = he.h.m8_gr_GR_cog.YgranDiodefsas.name
 meMA.Ode1C1T.incipit = "Ὁ νεύματι πάντα δημιουργῶν, ἐκ…"
-meMA.Ode1C1T.text = "Ὁ νεύματι πάντα δημιουργῶν, ἐκ σοῦ σωματοῦται, ὑπὲρ λόγον Μῆτερ Θεοῦ, ὁ τὸν ἀθλοφόρον στεφανώσας, μεθ' οὗ πιστῶς σε ἀεὶ μακαρίζομεν."
+meMA.Ode1C1T.text = "Ὁ νεύματι πάντα δημιουργῶν, ἐκ σοῦ σωματοῦται, ὑπὲρ λόγον Μῆτερ Θεοῦ, ὁ τὸν ἀθλοφόρον στεφανώσας, μεθʼ οὗ πιστῶς σε ἀεὶ μακαρίζομεν."
 
 meMA.Ode3C1H.ode = misc_gr_GR_cog.Ode3
 meMA.Ode3C1H.mode = misc_gr_GR_cog.Mode8
@@ -223,7 +227,7 @@ meMA.Kontakion1.poet = poets_gr_GR_cog.Gerasimou
 meMA.Kontakion1.mode = misc_gr_GR_cog.Mode3
 meMA.Kontakion1.melody = he.a.m3_gr_GR_cog.IParthenosSimeron.name
 meMA.Kontakion1.incipit = "Μαρτυρίου στίγμασι, σὲ ἱερῶς κοσμηθέντα…"
-meMA.Kontakion1.text = "Μαρτυρίου στίγμασι, σὲ ἱερῶς κοσμηθέντα, καὶ ἁγίοις πάθεσι, συμμορφωθέντα Κυρίῳ βλέψασα, ἡ σὲ τεκοῦσα ἁγία μήτηρ, σύμψυχος, τῇ προαιρέσει Μάρτυς σοι ὤφθη, Καλλιόπιε θεόφρον, μεθ' ἧς δυσώπει ἐλεηθῆναι ἡμᾶς."
+meMA.Kontakion1.text = "Μαρτυρίου στίγμασι, σὲ ἱερῶς κοσμηθέντα, καὶ ἁγίοις πάθεσι, συμμορφωθέντα Κυρίῳ βλέψασα, ἡ σὲ τεκοῦσα ἁγία μήτηρ, σύμψυχος, τῇ προαιρέσει Μάρτυς σοι ὤφθη, Καλλιόπιε θεόφρον, μεθʼ ἧς δυσώπει ἐλεηθῆναι ἡμᾶς."
 
 meMA.Ode7C1H.ode = misc_gr_GR_cog.Ode7
 meMA.Ode7C1H.mode = misc_gr_GR_cog.Mode8
@@ -271,7 +275,7 @@ meMA.Ode8C12.ode = misc_gr_GR_cog.Ode8
 meMA.Ode8C12.mode = misc_gr_GR_cog.Mode8
 meMA.Ode8C12.melody = he.h.m8_gr_GR_cog.EptaplasiosKaminon.name
 meMA.Ode8C12.incipit = "Ὁλολαμπὴς ὡς ἥλιος, ἀνατείλας Πανεύφημε…"
-meMA.Ode8C12.text = "Ὁλολαμπὴς ὡς ἥλιος, ἀνατείλας Πανεύφημε, τὴν ὑπ' οὐρανόν, καταφωτίζεις πάντοτε, ἀκτῖσι τῶν ἄθλων σου, καὶ διεγείρεις ἅπαντας, νῦν ἐπιτελεῖν, τὴν φωτοφόρον σου μνήμην, βοῶντας· Τὸν Δεσπότην, Ἱερεῖς εὐλογεῖτε, λαὸς ὑπερυψοῦτε, εἰς πάντας τοὺς αἰῶνας."
+meMA.Ode8C12.text = "Ὁλολαμπὴς ὡς ἥλιος, ἀνατείλας Πανεύφημε, τὴν ὑπʼ οὐρανόν, καταφωτίζεις πάντοτε, ἀκτῖσι τῶν ἄθλων σου, καὶ διεγείρεις ἅπαντας, νῦν ἐπιτελεῖν, τὴν φωτοφόρον σου μνήμην, βοῶντας· Τὸν Δεσπότην, Ἱερεῖς εὐλογεῖτε, λαὸς ὑπερυψοῦτε, εἰς πάντας τοὺς αἰῶνας."
 
 meMA.Ode8C13.ode = misc_gr_GR_cog.Ode8
 meMA.Ode8C13.mode = misc_gr_GR_cog.Mode8
@@ -451,7 +455,7 @@ alt1.meMA.Ode3Kathisma1.text = "Ταπεινώσεως ὕψει περιφαν
 alt1.meMA.Ode3KathismaT.mode = misc_gr_GR_cog.Mode8
 alt1.meMA.Ode3KathismaT.melody = he.a.m8_gr_GR_cog.TinSofianKaiLogon.name
 alt1.meMA.Ode3KathismaT.incipit = "Πειρασμοῖς πολυπλόκοις περιπεσών, ἐξ ἐχθρῶν…"
-alt1.meMA.Ode3KathismaT.text = "Πειρασμοῖς πολυπλόκοις περιπεσών, ἐξ ἐχθρῶν ἀοράτων καὶ ὁρατῶν, τῷ σάλῳ συνέχομαι, τῶν ἀμέτρων πταισμάτων μου, ἀλλ' ὡς θερμὴν ἀντίληψιν, καὶ σκέπην μου ἔχων σε, τῷ λιμένι προστρέχω, τῆς σῆς ἀγαθότητος· ὅθεν Παναγία, τὸν ἐκ σοῦ σαρκωθέντα, ἀσπόρως ἱκέτευε, ὑπὲρ πάντων τῶν δούλων σου, τῶν ἀπαύστως ὑμνούντων σε, πρεσβεύουσα ἐν παῤῥησίᾳ αὐτῷ, τῶν πταισμάτων ἄφεσιν δωρήσασθαι, τοῖς προσκυνοῦσιν ἀξίως, τὸν τόκον σου ἄχραντε."
+alt1.meMA.Ode3KathismaT.text = "Πειρασμοῖς πολυπλόκοις περιπεσών, ἐξ ἐχθρῶν ἀοράτων καὶ ὁρατῶν, τῷ σάλῳ συνέχομαι, τῶν ἀμέτρων πταισμάτων μου, ἀλλʼ ὡς θερμὴν ἀντίληψιν, καὶ σκέπην μου ἔχων σε, τῷ λιμένι προστρέχω, τῆς σῆς ἀγαθότητος· ὅθεν Παναγία, τὸν ἐκ σοῦ σαρκωθέντα, ἀσπόρως ἱκέτευε, ὑπὲρ πάντων τῶν δούλων σου, τῶν ἀπαύστως ὑμνούντων σε, πρεσβεύουσα ἐν παῤῥησίᾳ αὐτῷ, τῶν πταισμάτων ἄφεσιν δωρήσασθαι, τοῖς προσκυνοῦσιν ἀξίως, τὸν τόκον σου ἄχραντε."
 
 alt1.meMA.Ode3KathismaSt.mode = misc_gr_GR_cog.Mode8
 alt1.meMA.Ode3KathismaSt.melody = he.a.m8_gr_GR_cog.TinSofianKaiLogon.name
@@ -576,7 +580,7 @@ alt1.meMA.Ode7C13.ode = misc_gr_GR_cog.Ode7
 alt1.meMA.Ode7C13.mode = misc_gr_GR_cog.Mode8
 alt1.meMA.Ode7C13.melody = he.h.m8_gr_GR_cog.OTousPaidasDrosisas.name
 alt1.meMA.Ode7C13.incipit = "Ἀμοιβὴν σοι τῶν πόνων ἑτοιμάσας…"
-alt1.meMA.Ode7C13.text = "Ἀμοιβὴν σοι τῶν πόνων ἑτοιμάσας, δεῦρο πρὸς με, προσεῖπεν ὁ τῶν ἔργων, μισθαποδότης· μεθ' οὗ ἀγάλλῃ Ὅσιε, εἰς αἰωνίους σκηνάς."
+alt1.meMA.Ode7C13.text = "Ἀμοιβὴν σοι τῶν πόνων ἑτοιμάσας, δεῦρο πρὸς με, προσεῖπεν ὁ τῶν ἔργων, μισθαποδότης· μεθʼ οὗ ἀγάλλῃ Ὅσιε, εἰς αἰωνίους σκηνάς."
 
 alt1.meMA.Ode7C1T.ode = misc_gr_GR_cog.Ode7
 alt1.meMA.Ode7C1T.mode = misc_gr_GR_cog.Mode8

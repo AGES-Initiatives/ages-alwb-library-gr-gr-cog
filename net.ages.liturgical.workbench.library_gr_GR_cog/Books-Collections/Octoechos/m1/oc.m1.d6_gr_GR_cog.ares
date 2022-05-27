@@ -30,7 +30,7 @@ ocVE.Stichera5.text = "Ἐπικαλοῦμαί σε πάλιν, Παρθέν
 ocVE.Stichera6.mode = misc_gr_GR_cog.Mode1
 ocVE.Stichera6.melody = he.a.m1_gr_GR_cog.TonOuranionTagmaton.name
 ocVE.Stichera6.incipit = "Ἱλαρωτάτῃ προθέσει, καὶ διαθέσει χρηστῇ…"
-ocVE.Stichera6.text = "Ἱλαρωτάτῃ προθέσει, καὶ διαθέσει χρηστῇ, πρὸς τοὺς πτωχοὺς καὶ ξένους, καὶ πενήτων τὰ πλήθη, ὁρᾷν με καθ' ἑκάστην, ἰσχὺν κραταιάν, Θεοτόκε χορήγησον, ἀκτημοσύνην ἀσπάσασθαι τῷ Θεῷ, οἰκειῶσαι δυναμένην με."
+ocVE.Stichera6.text = "Ἱλαρωτάτῃ προθέσει, καὶ διαθέσει χρηστῇ, πρὸς τοὺς πτωχοὺς καὶ ξένους, καὶ πενήτων τὰ πλήθη, ὁρᾷν με καθʼ ἑκάστην, ἰσχὺν κραταιάν, Θεοτόκε χορήγησον, ἀκτημοσύνην ἀσπάσασθαι τῷ Θεῷ, οἰκειῶσαι δυναμένην με."
 
 ocVE.SticTheotokion.mode = misc_gr_GR_cog.Mode1
 ocVE.SticTheotokion.melody = he.a.m1_gr_GR_cog.TonOuranionTagmaton.name
@@ -75,7 +75,7 @@ ocMA.Kathisma12.text = oc.m1.d4_gr_GR_cog.ocMA.Kathisma12.text
 ocMA.Kathisma13.mode = misc_gr_GR_cog.Mode1
 ocMA.Kathisma13.melody = he.a.m1_gr_GR_cog.TonTafonSouSotir.name
 ocMA.Kathisma13.incipit = "Σταυρῷ σου τοὺς ἐχθρούς…"
-ocMA.Kathisma13.text = "Σταυρῷ σου τοὺς ἐχθρούς, τροπωσάμενος Σῶτερ, διάλυσον αὐτῶν, τὰς αἱρέσεις ὡς κόνιν, τὸ κέρας δὲ ἀνύψωσον, τῆς σεπτῆς Ἐκκλησίας σου, στῆσον, Κύριε, τὴν καθ' ἡμῶν τούτων ζάλην, καὶ εἰρήνευσον, τῶν Ὀρθοδόξων τὰ πλήθη, εὐχαῖς τῆς Τεκούσης σε."
+ocMA.Kathisma13.text = "Σταυρῷ σου τοὺς ἐχθρούς, τροπωσάμενος Σῶτερ, διάλυσον αὐτῶν, τὰς αἱρέσεις ὡς κόνιν, τὸ κέρας δὲ ἀνύψωσον, τῆς σεπτῆς Ἐκκλησίας σου, στῆσον, Κύριε, τὴν καθʼ ἡμῶν τούτων ζάλην, καὶ εἰρήνευσον, τῶν Ὀρθοδόξων τὰ πλήθη, εὐχαῖς τῆς Τεκούσης σε."
 
 ocMA.Kathisma21.mode = misc_gr_GR_cog.Mode1
 ocMA.Kathisma21.melody = he.a.m1_gr_GR_cog.TouLithouSfragisthentos.name
@@ -108,6 +108,10 @@ ocMA.Kathisma33.incipit = oc.m1.d4_gr_GR_cog.ocMA.Kathisma33.incipit
 ocMA.Kathisma33.text = oc.m1.d4_gr_GR_cog.ocMA.Kathisma33.text
 
 ocMA.C1.poet = poets_gr_GR_cog.KyriouIosif
+ocMA.C1.acrostic.title = ""
+ocMA.C1.acrostic.notice1 = ""
+ocMA.C1.acrostic.text = ""
+//ocMA.C1.acrostic.notice2 = ""
 ocMA.C1.acrostic = " οὗ ἡ ἀκροστιχις, ἄνευ τῶν Θεοτοκίων· Πάθο(ς τὸ σ)επτὸν αἰνέσω τοῦ Δεσπότου. Ὁ Ἰωσήφ."
 
 ocMA.C2.poet = poets_gr_GR_cog.IoannouTouDamaskinou
@@ -123,8 +127,8 @@ ocMA.OdeW1C1H.text = he.h.m1_gr_GR_cog.ToVoithisantiTheo.text
 ocMA.OdeW1C11.mode = misc_gr_GR_cog.Mode1
 ocMA.OdeW1C11.ode = misc_gr_GR_cog.Ode1
 ocMA.OdeW1C11.melody = he.h.m1_gr_GR_cog.ToVoithisantiTheo.name
-ocMA.OdeW1C11.incipit = "Παθεῖν ἠνέσχου δι' ἡμᾶς, ὁ…"
-ocMA.OdeW1C11.text = "Παθεῖν ἠνέσχου δι' ἡμᾶς, ὁ τῇ φύσει ἀπαθής, καὶ σταυρωθεὶς μετὰ λῃστῶν, τὸν ἀρχέκακον ἐχθρόν, ἐθανάτωσας Λόγε καὶ ἔσωσας, τοὺς ἀνυμνοῦντάς σε."
+ocMA.OdeW1C11.incipit = "Παθεῖν ἠνέσχου διʼ ἡμᾶς, ὁ…"
+ocMA.OdeW1C11.text = "Παθεῖν ἠνέσχου διʼ ἡμᾶς, ὁ τῇ φύσει ἀπαθής, καὶ σταυρωθεὶς μετὰ λῃστῶν, τὸν ἀρχέκακον ἐχθρόν, ἐθανάτωσας Λόγε καὶ ἔσωσας, τοὺς ἀνυμνοῦντάς σε."
 
 ocMA.OdeW1C12.mode = misc_gr_GR_cog.Mode1
 ocMA.OdeW1C12.ode = misc_gr_GR_cog.Ode1
@@ -612,7 +616,7 @@ ocMA.Aposticha3.text = oc.m1.d2_gr_GR_cog.ocMA.Aposticha3.text
 ocMA.AposTheotokion.mode = misc_gr_GR_cog.Mode1
 ocMA.AposTheotokion.melody = he.a.m1_gr_GR_cog.PaneffimoiMartyres.name
 ocMA.AposTheotokion.incipit = "Ὑψώθης Οἰκτίρμον ἐν Σταυρῷ, ὡς…"
-ocMA.AposTheotokion.text = "Ὑψώθης Οἰκτίρμον ἐν Σταυρῷ, ὡς ἀρνίον ἄκακον, ἐθελουσίως σφαττόμενος, τέκνον γλυκύτατον, ἐν κλαυθμῷ ἐβόα, ἡ Ἀμνὰς ἡ ἄσπιλος, ὁρῶσα ἐπὶ ξύλου τὸν Κύριον, ἐγὼ δὲ πίμπραμαι, τὴν καρδίαν καὶ τιτρώσκομαι, ἀλλ' ὑμνῶ σου τὸ ἄμετρον ἔλεος."
+ocMA.AposTheotokion.text = "Ὑψώθης Οἰκτίρμον ἐν Σταυρῷ, ὡς ἀρνίον ἄκακον, ἐθελουσίως σφαττόμενος, τέκνον γλυκύτατον, ἐν κλαυθμῷ ἐβόα, ἡ Ἀμνὰς ἡ ἄσπιλος, ὁρῶσα ἐπὶ ξύλου τὸν Κύριον, ἐγὼ δὲ πίμπραμαι, τὴν καρδίαν καὶ τιτρώσκομαι, ἀλλʼ ὑμνῶ σου τὸ ἄμετρον ἔλεος."
 
 ocMA.ApolTheotokion.mode = misc_gr_GR_cog.Mode1
 ocMA.ApolTheotokion.melody = ""

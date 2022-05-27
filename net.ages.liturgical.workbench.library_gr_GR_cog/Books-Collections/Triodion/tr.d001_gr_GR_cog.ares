@@ -22,7 +22,7 @@ trVE.Stichera01.text = "Μὴ προσευξώμεθα φαρισαϊκῶς, �
 trVE.Stichera02.mode = misc_gr_GR_cog.Mode1
 trVE.Stichera02.melody = misc_gr_GR_cog.Idiomelon
 trVE.Stichera02.incipit = "Φαρισαῖος κενοδοξίᾳ νικώμενος, καὶ Τελώνης…"
-trVE.Stichera02.text = "Φαρισαῖος κενοδοξίᾳ νικώμενος, καὶ Τελώνης τῇ μετανοίᾳ κλινόμενος, προσῆλθόν σοι τῷ μόνῳ Δεσπότῃ, ἀλλ' ὁ μὲν καυχησάμενος, ἐστερήθη τῶν ἀγαθῶν, ὁ δὲ μὴ φθεγξάμενος, ἠξιώθη τῶν δωρεῶν. Ἐν τούτοις τοῖς στεναγμοῖς, στήριξόν με Χριστὲ ὁ Θεὸς ὡς φιλάνθρωπος."
+trVE.Stichera02.text = "Φαρισαῖος κενοδοξίᾳ νικώμενος, καὶ Τελώνης τῇ μετανοίᾳ κλινόμενος, προσῆλθόν σοι τῷ μόνῳ Δεσπότῃ, ἀλλʼ ὁ μὲν καυχησάμενος, ἐστερήθη τῶν ἀγαθῶν, ὁ δὲ μὴ φθεγξάμενος, ἠξιώθη τῶν δωρεῶν. Ἐν τούτοις τοῖς στεναγμοῖς, στήριξόν με Χριστὲ ὁ Θεὸς ὡς φιλάνθρωπος."
 
 trVE.MM.Stichera112as567.text = properties_gr_GR_cog.media.key
 trVE.MM.Stichera112as8910.text = properties_gr_GR_cog.media.key
@@ -45,7 +45,7 @@ trVE.AposTheotokion.text = oc.m5.d1_gr_GR_cog.ocVE.AposTheotokion.text
 trMA.PostGospelGlory.mode = misc_gr_GR_cog.Mode8
 trMA.PostGospelGlory.melody = ""
 trMA.PostGospelGlory.incipit = "Τῆς μετανοίας ἄνοιξόν μοι πύλας…"
-trMA.PostGospelGlory.text = "Τῆς μετανοίας ἄνοιξόν μοι πύλας Ζωοδότα· ὀρθρίζει γὰρ τὸ πνεῦμά μου, πρὸς ναὸν τὸν ἅγιόν σου, ναὸν φέρον τοῦ σώματος, ὅλον ἐσπιλωμένον· ἀλλ' ὡς οἰκτίρμων κάθαρον, εὐσπλάγχνῳ σου ἐλέει."
+trMA.PostGospelGlory.text = "Τῆς μετανοίας ἄνοιξόν μοι πύλας Ζωοδότα· ὀρθρίζει γὰρ τὸ πνεῦμά μου, πρὸς ναὸν τὸν ἅγιόν σου, ναὸν φέρον τοῦ σώματος, ὅλον ἐσπιλωμένον· ἀλλʼ ὡς οἰκτίρμων κάθαρον, εὐσπλάγχνῳ σου ἐλέει."
 
 trMA.PostGospelBoth.mode = misc_gr_GR_cog.Mode8
 trMA.PostGospelBoth.melody = ""
@@ -58,6 +58,10 @@ trMA.PostGospelIdiomelon.incipit = "Τὰ πλήθη τῶν πεπραγμέ�
 trMA.PostGospelIdiomelon.text = "Τὰ πλήθη τῶν πεπραγμένων μοι δεινῶν, ἐννοῶν ὁ τάλας, τρέμω τὴν φοβερὰν ἡμέραν τῆς κρίσεως· ἀλλὰ θαῤῥῶν εἰς τὸ ἔλεος τῆς εὐσπλαγχνίας σου, ὡς ὁ Δαυῒδ βοῶ σοι· Ἐλέησόν με ὁ Θεός, κατὰ τὸ μέγα σου ἔλεος."
 
 trMA.C1.poet = poets_gr_GR_cog.Georgiou
+trMA.C1.acrostic.title = ""
+trMA.C1.acrostic.notice1 = ""
+trMA.C1.acrostic.text = ""
+//trMA.C1.acrostic.notice2 = ""
 trMA.C1.acrostic = "οὗ ἡ Ἀκροστιχὶς ἐν τοῖς Θεοτοκίοις· Γεωργίου."
 
 trMA.C1.title = titles_gr_GR_cog.KanonTouTriodiou
@@ -160,7 +164,7 @@ trMA.Ode4C12.ode = misc_gr_GR_cog.Ode4
 trMA.Ode4C12.mode = misc_gr_GR_cog.Mode6
 trMA.Ode4C12.melody = he.h.m6_gr_GR_cog.ChristosMouDynamis.name
 trMA.Ode4C12.incipit = "Ὑψώθη δίκαιος, καὶ καταπέπτωκε, Φαρισαῖος…"
-trMA.Ode4C12.text = "Ὑψώθη δίκαιος, καὶ καταπέπτωκε, Φαρισαῖος, ἐν πλήθει δὲ τῶν κακῶν, βρίθων τεταπείνωται, ἀλλ' ἀνυψώθη Τελώνης, παρ' ἐλπίδα δικαιούμενος."
+trMA.Ode4C12.text = "Ὑψώθη δίκαιος, καὶ καταπέπτωκε, Φαρισαῖος, ἐν πλήθει δὲ τῶν κακῶν, βρίθων τεταπείνωται, ἀλλʼ ἀνυψώθη Τελώνης, παρʼ ἐλπίδα δικαιούμενος."
 
 trMA.Ode4C13.ode = misc_gr_GR_cog.Ode4
 trMA.Ode4C13.mode = misc_gr_GR_cog.Mode6
@@ -226,7 +230,7 @@ trMA.Ode6C11.ode = misc_gr_GR_cog.Ode6
 trMA.Ode6C11.mode = misc_gr_GR_cog.Mode6
 trMA.Ode6C11.melody = he.h.m6_gr_GR_cog.TouViouTinThalassan.name
 trMA.Ode6C11.incipit = "Τοῦ βίου τὸ στάδιον, ὁ…"
-trMA.Ode6C11.text = "Τοῦ βίου τὸ στάδιον, ὁ Τελώνης ἐν ταὐτῷ, καὶ Φαρισαῖος ἔδραμον· ἀλλ' ὁ μὲν ἀπονοίᾳ κατενεχθείς, αἰσχρῶς ἐναυάγησεν, ὁ δὲ τῇ ταπεινώσει διεσῴζετο."
+trMA.Ode6C11.text = "Τοῦ βίου τὸ στάδιον, ὁ Τελώνης ἐν ταὐτῷ, καὶ Φαρισαῖος ἔδραμον· ἀλλʼ ὁ μὲν ἀπονοίᾳ κατενεχθείς, αἰσχρῶς ἐναυάγησεν, ὁ δὲ τῇ ταπεινώσει διεσῴζετο."
 
 trMA.Ode6C12.ode = misc_gr_GR_cog.Ode6
 trMA.Ode6C12.mode = misc_gr_GR_cog.Mode6
@@ -250,7 +254,7 @@ trMA.Ode6C15.ode = misc_gr_GR_cog.Ode6
 trMA.Ode6C15.mode = misc_gr_GR_cog.Mode6
 trMA.Ode6C15.melody = he.h.m6_gr_GR_cog.TouViouTinThalassan.name
 trMA.Ode6C15.incipit = "Τὸν βίον διείλοντο, Φαρισαῖος ἀρεταῖς…"
-trMA.Ode6C15.text = "Τὸν βίον διείλοντο, Φαρισαῖος ἀρεταῖς, καὶ ὁ Τελώνης πταίσμασιν· ἀλλ' ὁ μὲν τὴν ἐξ ὄγκου φρενοβλαβῆ, ὑπέστη ταπείνωσιν, ὁ δὲ ἀνυψοῦται ταπεινόφρων φανείς."
+trMA.Ode6C15.text = "Τὸν βίον διείλοντο, Φαρισαῖος ἀρεταῖς, καὶ ὁ Τελώνης πταίσμασιν· ἀλλʼ ὁ μὲν τὴν ἐξ ὄγκου φρενοβλαβῆ, ὑπέστη ταπείνωσιν, ὁ δὲ ἀνυψοῦται ταπεινόφρων φανείς."
 
 trMA.Ode6C1T.ode = misc_gr_GR_cog.Ode6
 trMA.Ode6C1T.mode = misc_gr_GR_cog.Mode6
@@ -266,18 +270,18 @@ trMA.Kontakion0.text = "Φαρισαίου φύγωμεν ὑψηγορίαν
 trMA.Kontakion1.mode = misc_gr_GR_cog.Mode3
 trMA.Kontakion1.melody = he.a.m3_gr_GR_cog.IParthenosSimeron.name
 trMA.Kontakion1.incipit = "Στεναγμοὺς προσοίσωμεν, τελωνικοὺς τῷ Κυρίῳ…"
-trMA.Kontakion1.text = "Στεναγμοὺς προσοίσωμεν, τελωνικοὺς τῷ Κυρίῳ, καὶ αὐτῷ προσπέσωμεν, ἁμαρτωλοὶ ὡς Δεσπότῃ· θέλει γὰρ τὴν σωτηρίαν πάντων ἀνθρώπων, ἄφεσιν παρέχει πᾶσι μετανοοῦσι· δι' ἡμᾶς γὰρ ἐσαρκώθη Θεὸς ὑπάρχων Πατρὶ συνάναρχος."
+trMA.Kontakion1.text = "Στεναγμοὺς προσοίσωμεν, τελωνικοὺς τῷ Κυρίῳ, καὶ αὐτῷ προσπέσωμεν, ἁμαρτωλοὶ ὡς Δεσπότῃ· θέλει γὰρ τὴν σωτηρίαν πάντων ἀνθρώπων, ἄφεσιν παρέχει πᾶσι μετανοοῦσι· διʼ ἡμᾶς γὰρ ἐσαρκώθη Θεὸς ὑπάρχων Πατρὶ συνάναρχος."
 
 trMA.Oikos1.text = "Ἑαυτοὺς ἀδελφοὶ ἅπαντες ταπεινώσωμεν, στεναγμοῖς καὶ ὀδυρμοῖς τύψωμεν τὴν συνείδησιν, ἵνα ἐν τῇ κρίσει τότε τῇ αἰωνίᾳ, ἐκεῖ ὀφθῶμεν πιστοὶ ἀνεύθυνοι, τυχόντες ἀφέσεως· ἐκεῖ γάρ ἐστιν ὄντως ἡ ἄνεσις, ἣν ἰδεῖν ἡμᾶς νῦν ἱκετεύσωμεν, ἐκεῖ ὀδύνη ἀπέδρα λύπη καὶ οἱ ἐκ βάθους στεναγμοί, ἐν τῇ Ἐδὲμ τῇ θαυμαστῇ, ἧς ὁ Χριστός δημιουργός, Θεὸς ὑπάρχων Πατρὶ συνάναρχος."
 
-trSY.commemoration.text = "Τῇ αὐτῇ ἡμέρᾳ τῆς τοῦ Τελώνου καὶ τοῦ Φαρισαίου ἐκ τοῦ ἱεροῦ Εὐαγγελίου τοῦ Εὐαγγελιστοῦ Λουκᾶ (ιη' 10–14) παραβολῆς μνείαν ποιούμεθα."
+trSY.commemoration.text = "Τῇ αὐτῇ ἡμέρᾳ τῆς τοῦ Τελώνου καὶ τοῦ Φαρισαίου ἐκ τοῦ ἱεροῦ Εὐαγγελίου τοῦ Εὐαγγελιστοῦ Λουκᾶ (ιηʼ 10–14) παραβολῆς μνείαν ποιούμεθα."
 trSY.commemoration.couplet1.title = titles_gr_GR_cog.Stichoi
 trSY.commemoration.couplet1.verse1 = "Φαρισαΐζων, Ἱεροῦ μακρὰν γίνου,"
 trSY.commemoration.couplet1.verse2 = "Χριστὸς γὰρ ἔνδον, ᾧ ταπεινὸς δεκτέον."
 trSY.commemoration.couplet2.title = "Ἕτεροι εἰς τὸ Τριῴδιον."
 trSY.commemoration.couplet2.verse1 = "Ὁ δημιουργὸς τῶν ἄνω καὶ τῶν κάτω,"
 trSY.commemoration.couplet2.verse2 = "Τρισάγιον μὲν ὕμνον ἐκ τῶν Ἀγγέλων,"
-trSY.commemoration.couplet2.verse3 = "Τριῴδιον δὲ καὶ παρ' ἀνθρώπων δέχου."
+trSY.commemoration.couplet2.verse3 = "Τριῴδιον δὲ καὶ παρʼ ἀνθρώπων δέχου."
 trSY.commemoration.narration.p01 = "[paragraph 01]"
 trSY.commemoration.narration.p02 = "[paragraph 02]"
 trSY.commemoration.narration.p03 = "[paragraph 03]"
@@ -303,7 +307,7 @@ trMA.Ode7C13.ode = misc_gr_GR_cog.Ode7
 trMA.Ode7C13.mode = misc_gr_GR_cog.Mode6
 trMA.Ode7C13.melody = he.h.m6_gr_GR_cog.DrosovolonMenTinKaminon.name
 trMA.Ode7C13.incipit = "Τοὺς δικαίους ἐνεδρεύων μὲν ὁ…"
-trMA.Ode7C13.text = "Τοὺς δικαίους ἐνεδρεύων μὲν ὁ δόλιος, τρόποις κενοδοξίας συλᾷ, ἁμαρτωλοὺς δέ, βρόχοις ἀπογνώσεως δεσμεῖ. Ἀλλ' οὖν ἑκατέρων τῶν κακῶν, οἱ τοῦ Τελώνου ζηλωταί, ῥυσθῆναι σπεύσωμεν."
+trMA.Ode7C13.text = "Τοὺς δικαίους ἐνεδρεύων μὲν ὁ δόλιος, τρόποις κενοδοξίας συλᾷ, ἁμαρτωλοὺς δέ, βρόχοις ἀπογνώσεως δεσμεῖ. Ἀλλʼ οὖν ἑκατέρων τῶν κακῶν, οἱ τοῦ Τελώνου ζηλωταί, ῥυσθῆναι σπεύσωμεν."
 
 trMA.Ode7C14.ode = misc_gr_GR_cog.Ode7
 trMA.Ode7C14.mode = misc_gr_GR_cog.Mode6
@@ -404,7 +408,7 @@ trMA.Ode9C1T.text = "Ὑμνεῖν, δοξάζειν καὶ μακαρίζε
 trMA.Exaposteilarion1.mode = misc_gr_GR_cog.Mode2
 trMA.Exaposteilarion1.melody = he.a.m2_gr_GR_cog.ToisMathitaisSynelthomen.name
 trMA.Exaposteilarion1.incipit = "Ὑψηγορίαν φύγωμεν, Φαρισαίου κακίστην, ταπείνωσιν…"
-trMA.Exaposteilarion1.text = "Ὑψηγορίαν φύγωμεν, Φαρισαίου κακίστην, ταπείνωσιν δὲ μάθωμεν, τοῦ Τελώνου ἀρίστην, ἵν' ὑψωθῶμεν βοῶντες, τῷ Θεῷ σὺν ἐκείνῳ· Ἱλάσθητι τοῖς δούλοις σου, ὁ τεχθεὶς ἐκ Παρθένου, Χριστὲ Σωτήρ, ἑκουσίως, καὶ Σταυρὸν ὑπομείνας, συνήγειρας τὸν κόσμον σου θεϊκῇ δυναστείᾳ."
+trMA.Exaposteilarion1.text = "Ὑψηγορίαν φύγωμεν, Φαρισαίου κακίστην, ταπείνωσιν δὲ μάθωμεν, τοῦ Τελώνου ἀρίστην, ἵνʼ ὑψωθῶμεν βοῶντες, τῷ Θεῷ σὺν ἐκείνῳ· Ἱλάσθητι τοῖς δούλοις σου, ὁ τεχθεὶς ἐκ Παρθένου, Χριστὲ Σωτήρ, ἑκουσίως, καὶ Σταυρὸν ὑπομείνας, συνήγειρας τὸν κόσμον σου θεϊκῇ δυναστείᾳ."
 
 trMA.ExapTheotokion.mode = misc_gr_GR_cog.Mode2
 trMA.ExapTheotokion.melody = he.a.m2_gr_GR_cog.ToisMathitaisSynelthomen.name
@@ -429,7 +433,7 @@ trMA.Lauds3.text = "Τοῦ Τελώνου καὶ τοῦ Φαρισαίου 
 trMA.Lauds4.mode = misc_gr_GR_cog.Mode3
 trMA.Lauds4.melody = misc_gr_GR_cog.Idiomelon
 trMA.Lauds4.incipit = "Τοῦ Φαρισαίου τὴν μεχάλαυχον φωνήν…"
-trMA.Lauds4.text = "Τοῦ Φαρισαίου τὴν μεχάλαυχον φωνήν, πιστοὶ μισήσαντες, τοῦ δὲ Τελώνου τὴν εὐκατάνυκτον εὐχὴν ζηλώσαντες, μὴ τὰ ὑψηλὰ φρονῶμεν, ἀλλ' ἑαυτοὺς ταπεινοῦντες, ἐν κατανύξει κράξωμεν· ὁ Θεὸς ἱλάσθητι, ταῖς ἁμαρτίαις ἡμῶν."
+trMA.Lauds4.text = "Τοῦ Φαρισαίου τὴν μεχάλαυχον φωνήν, πιστοὶ μισήσαντες, τοῦ δὲ Τελώνου τὴν εὐκατάνυκτον εὐχὴν ζηλώσαντες, μὴ τὰ ὑψηλὰ φρονῶμεν, ἀλλʼ ἑαυτοὺς ταπεινοῦντες, ἐν κατανύξει κράξωμεν· ὁ Θεὸς ἱλάσθητι, ταῖς ἁμαρτίαις ἡμῶν."
 
 trMA.MM.Lauds12as45.text = properties_gr_GR_cog.media.key
 trMA.MM.Lauds123as345.text = properties_gr_GR_cog.media.key
@@ -437,7 +441,7 @@ trMA.MM.Lauds123as345.text = properties_gr_GR_cog.media.key
 trMA.LaudsGlory.mode = misc_gr_GR_cog.Mode8
 trMA.LaudsGlory.melody = misc_gr_GR_cog.Idiomelon
 trMA.LaudsGlory.incipit = "Ταῖς ἐξ ἔργων καυχήσεσι, Φαρισαῖον…"
-trMA.LaudsGlory.text = "Ταῖς ἐξ ἔργων καυχήσεσι, Φαρισαῖον δικαιοῦντα ἑαυτὸν κατέκρινας Κύριε, καὶ Τελώνην μετριοπαθήσαντα, καὶ στεναγμοῖς ἱλασμὸν αἰτούμενον, ἐδικαίωσας· οὐ γὰρ προσίεσαι, τοὺς μεγαλόφρονας λογισμούς, καὶ τὰς συντετριμμένας καρδίας, οὐκ ἐξουθενεῖς· διὸ καὶ ἡμεῖς σοὶ προσπίπτομεν, ἐν ταπεινώσει τῷ παθόντι δι' ἡμᾶς· Παράσχου τὴν ἄφεσιν καὶ τὸ μέγα ἔλεος."
+trMA.LaudsGlory.text = "Ταῖς ἐξ ἔργων καυχήσεσι, Φαρισαῖον δικαιοῦντα ἑαυτὸν κατέκρινας Κύριε, καὶ Τελώνην μετριοπαθήσαντα, καὶ στεναγμοῖς ἱλασμὸν αἰτούμενον, ἐδικαίωσας· οὐ γὰρ προσίεσαι, τοὺς μεγαλόφρονας λογισμούς, καὶ τὰς συντετριμμένας καρδίας, οὐκ ἐξουθενεῖς· διὸ καὶ ἡμεῖς σοὶ προσπίπτομεν, ἐν ταπεινώσει τῷ παθόντι διʼ ἡμᾶς· Παράσχου τὴν ἄφεσιν καὶ τὸ μέγα ἔλεος."
 
 trMA.LaudsTheotokion.mode = ""
 trMA.LaudsTheotokion.melody = ""

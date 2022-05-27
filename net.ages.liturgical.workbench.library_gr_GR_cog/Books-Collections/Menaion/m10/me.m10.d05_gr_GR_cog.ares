@@ -30,7 +30,7 @@ meVE.Stichera02.text = "Τῶν λεόντων συνέθλασας, σιαγ�
 meVE.Stichera03.mode = misc_gr_GR_cog.Mode4
 meVE.Stichera03.melody = he.a.m4_gr_GR_cog.OsGennaionEnMartysi.name
 meVE.Stichera03.incipit = "Μετὰ τέλος μακάριον, ἐν θαλάσσῃ…"
-meVE.Stichera03.text = "Μετὰ τέλος μακάριον, ἐν θαλάσσῃ ῥιφεῖσάν σε, σὸς γεννήτωρ Ἔνδοξε συνεκόμισεν, ἀναβοὼν μετ' ἐκπλήξεως· Πῶς νῦν κεχαρίτωσαι, ἱερώτατον ἐμόν, καὶ ποθούμενον γέννημα, ταῖς κολάσεσι, τοῦ σεπτοῦ μαρτυρίου, καὶ τὴν κλῆσιν, ἀληθεύουσαν εἰργάσω, προτυπωθεῖσάν σοι χάριτι!"
+meVE.Stichera03.text = "Μετὰ τέλος μακάριον, ἐν θαλάσσῃ ῥιφεῖσάν σε, σὸς γεννήτωρ Ἔνδοξε συνεκόμισεν, ἀναβοὼν μετʼ ἐκπλήξεως· Πῶς νῦν κεχαρίτωσαι, ἱερώτατον ἐμόν, καὶ ποθούμενον γέννημα, ταῖς κολάσεσι, τοῦ σεπτοῦ μαρτυρίου, καὶ τὴν κλῆσιν, ἀληθεύουσαν εἰργάσω, προτυπωθεῖσάν σοι χάριτι!"
 
 meVE.SticTheotokion.mode = misc_gr_GR_cog.Mode4
 meVE.SticTheotokion.melody = he.a.m4_gr_GR_cog.OsGennaionEnMartysi.name
@@ -48,6 +48,10 @@ meVE.Apolytikion1.melody = he.a.m3_gr_GR_cog.TheiasPisteos.name
 meVE.Apolytikion1.incipit = "Θείᾳ χάριτι, κραταιωθεῖσα, κράτος ᾔσχυνας…"
 meVE.Apolytikion1.text = "Θείᾳ χάριτι, κραταιωθεῖσα, κράτος ᾔσχυνας, τῆς δυσσεβείας, Χαριτίνη ὑπὲρ φύσιν ἀθλήσασα· ὅθεν χαρίτων πηγὴν ἀδαπάνητον, ὡς γλυκασμὸν ἀναβλήζεις τοῖς κράζουσι. Μάρτυς ἔνδοξε, Χριστὸν τὸν Θεὸν ἱκέτευε, δωρήσασθαι ἡμῖν τὸ μέγα ἔλεος."
 
+meMA.C1.acrostic.title = ""
+meMA.C1.acrostic.notice1 = ""
+meMA.C1.acrostic.text = ""
+//meMA.C1.acrostic.notice2 = ""
 meMA.C1.acrostic = "οὗ ἡ Ἀκροστιχίς· Τῆς Χαριτίνης τὴν χάριν μέλπω πόθῳ. Ἰωσήφ."
 
 meMA.C1.title = ""
@@ -120,7 +124,7 @@ meMA.Ode3KathismaT.text = me.m06.d28_gr_GR_cog.meMA.Ode3KathismaT.text
 meMA.Ode3KathismaSt.mode = misc_gr_GR_cog.Mode4
 meMA.Ode3KathismaSt.melody = he.a.m4_gr_GR_cog.OYpsotheisEnToStavro.name
 meMA.Ode3KathismaSt.incipit = "Τὸν ἐξ ἀνάρχου τοῦ Πατρὸς…"
-meMA.Ode3KathismaSt.text = "Τὸν ἐξ ἀνάρχου τοῦ Πατρὸς γεννηθέντα, ἡ ἐπ' ἐσχάτων σε σαρκὶ τετοκυῖα, ἐπὶ Σταυροῦ κρεμάμενον ὁρῶσά σε Χριστέ· Οἴμοι ποθεινότατε, Ἰησοῦ! Ἀνεβόα, πῶς ὁ δοξαζόμενος, ὡς Θεὸς ὑπ' Ἀγγέλων, ὑπὸ ἀνόμων νῦν βροτῶν Υἱέ, θέλων σταυροῦσαι; Ὑμνῶ σε Μακρόθυμε."
+meMA.Ode3KathismaSt.text = "Τὸν ἐξ ἀνάρχου τοῦ Πατρὸς γεννηθέντα, ἡ ἐπʼ ἐσχάτων σε σαρκὶ τετοκυῖα, ἐπὶ Σταυροῦ κρεμάμενον ὁρῶσά σε Χριστέ· Οἴμοι ποθεινότατε, Ἰησοῦ! Ἀνεβόα, πῶς ὁ δοξαζόμενος, ὡς Θεὸς ὑπʼ Ἀγγέλων, ὑπὸ ἀνόμων νῦν βροτῶν Υἱέ, θέλων σταυροῦσαι; Ὑμνῶ σε Μακρόθυμε."
 
 meMA.Ode4C11.ode = misc_gr_GR_cog.Ode4
 meMA.Ode4C11.mode = misc_gr_GR_cog.Mode4
@@ -234,7 +238,7 @@ meMA.Ode8C11.ode = misc_gr_GR_cog.Ode8
 meMA.Ode8C11.mode = misc_gr_GR_cog.Mode4
 meMA.Ode8C11.melody = he.h.m4_gr_GR_cog.CheirasEkpetasasDaniil.name
 meMA.Ode8C11.incipit = "Ὡραία ἐν κάλλεσι τῶν σῶν…"
-meMA.Ode8C11.text = "Ὡραία ἐν κάλλεσι τῶν σῶν, στιγμάτων γέγονας, καὶ κατηγγύησαι, Παρθένος ἄφθορος μείνασα, τῷ ὡραίῳ Λόγῳ πάνσεμνε, τῷ ἐκ Παρθένου δι' ἡμᾶς, σεσαρκωμένῳ Χριστῷ, ᾧ βοῶμεν· Πάντα τὰ ἔργα ὑμνεῖτε τὸν Κύριον."
+meMA.Ode8C11.text = "Ὡραία ἐν κάλλεσι τῶν σῶν, στιγμάτων γέγονας, καὶ κατηγγύησαι, Παρθένος ἄφθορος μείνασα, τῷ ὡραίῳ Λόγῳ πάνσεμνε, τῷ ἐκ Παρθένου διʼ ἡμᾶς, σεσαρκωμένῳ Χριστῷ, ᾧ βοῶμεν· Πάντα τὰ ἔργα ὑμνεῖτε τὸν Κύριον."
 
 meMA.Ode8C12.ode = misc_gr_GR_cog.Ode8
 meMA.Ode8C12.mode = misc_gr_GR_cog.Mode4

@@ -71,7 +71,7 @@ meVE.Aposticha3.text = me.m08.d05_gr_GR_cog.meVE.Aposticha2.text
 meVE.AposGlory.mode = misc_gr_GR_cog.Mode8
 meVE.AposGlory.melody = ""
 meVE.AposGlory.incipit = "Τῆς θεότητός σου Χριστέ, ἀμυδρὰν…"
-meVE.AposGlory.text = "Τῆς θεότητός σου Χριστέ, ἀμυδρὰν αὐγὴν παραγυμνώσας, τοῖς συναναβᾶσί σοι ἐπὶ τοῦ ὄρους, τῆς ὑπερκοσμίου σου δόξης, ἐποίησας κοινωνούς· ὅθεν θεαστικῶς ἐκραύγαζον· Καλόν ἐστιν ἡμᾶς ὧδε εἶναι. Μεθ' ὧν καὶ ἡμεῖς, σὲ τὸν μεταμορφωθέντα Σωτῆρα Χριστόν, ἀνυμνοῦμεν εἰς τοὺς αἰῶνας."
+meVE.AposGlory.text = "Τῆς θεότητός σου Χριστέ, ἀμυδρὰν αὐγὴν παραγυμνώσας, τοῖς συναναβᾶσί σοι ἐπὶ τοῦ ὄρους, τῆς ὑπερκοσμίου σου δόξης, ἐποίησας κοινωνούς· ὅθεν θεαστικῶς ἐκραύγαζον· Καλόν ἐστιν ἡμᾶς ὧδε εἶναι. Μεθʼ ὧν καὶ ἡμεῖς, σὲ τὸν μεταμορφωθέντα Σωτῆρα Χριστόν, ἀνυμνοῦμεν εἰς τοὺς αἰῶνας."
 
 meVE.Apolytikion1.mode = misc_gr_GR_cog.Mode7
 meVE.Apolytikion1.melody = ""
@@ -88,6 +88,10 @@ meMA.Kathisma21.melody = he.a.m4_gr_GR_cog.KateplagiIosif.name
 meMA.Kathisma21.incipit = "Τὴν μεθέορτον πιστοί, ἡμέραν σήμερον…"
 meMA.Kathisma21.text = "Τὴν μεθέορτον πιστοί, ἡμέραν σήμερον φαιδρῶς, τῆς ἐνδόξου καὶ φρικτῆς, Μεταμορφώσεως Χριστοῦ, ἐπιτελοῦντες βοήσωμεν ὁμοφρόνως· Τὸ φύραμα ἡμῶν, ἀνεμορφώσω Σωτήρ, τῇ θείᾳ σου σαρκί, συναπαστράψας αὐτῷ, καὶ ἀποδοὺς τὸ πρώτιστον ἀξίωμα, τῆς ἀφθαρσίας ὡς εὔσπλαγχνος. Διό σε πάντες, δοξολογοῦμεν, τὸν μόνον Θεόν ἡμῶν."
 
+meMA.C1.acrostic.title = ""
+meMA.C1.acrostic.notice1 = ""
+meMA.C1.acrostic.text = ""
+//meMA.C1.acrostic.notice2 = ""
 meMA.C1.acrostic = "οὗ ἡ Ἀκροστιχίς. Πρέσβιν σε Χριστῷ προσφέρω στεφηφόρε. Θεοφάνους."
 
 meMA.C1.title = ""
@@ -115,7 +119,7 @@ meMA.Ode1C1T.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C1T.mode = misc_gr_GR_cog.Mode6
 meMA.Ode1C1T.melody = he.h.m6_gr_GR_cog.OsEnIpeiroPezefsas.name
 meMA.Ode1C1T.incipit = "Σὲ Παναγία Παρθένε τὴν τὸν…"
-meMA.Ode1C1T.text = "Σὲ Παναγία Παρθένε τὴν τὸν Υἱὸν τοῦ Θεοῦ γεννήσασαν, γεγονότα καθ' ἡμᾶς, δι' ἡμᾶς κηρύττομεν ἁγνή, Θεομήτορα πιστοὶ καὶ μακαρίζομεν."
+meMA.Ode1C1T.text = "Σὲ Παναγία Παρθένε τὴν τὸν Υἱὸν τοῦ Θεοῦ γεννήσασαν, γεγονότα καθʼ ἡμᾶς, διʼ ἡμᾶς κηρύττομεν ἁγνή, Θεομήτορα πιστοὶ καὶ μακαρίζομεν."
 
 meMA.Ode3C11.ode = misc_gr_GR_cog.Ode3
 meMA.Ode3C11.mode = misc_gr_GR_cog.Mode6
@@ -150,7 +154,7 @@ meMA.Ode3H.text = he.h.m6_gr_GR_cog.OukEstinAgios.text
 meMA.Ode3Kathisma1.mode = misc_gr_GR_cog.Mode3
 meMA.Ode3Kathisma1.melody = he.a.m3_gr_GR_cog.TinOraiotita.name
 meMA.Ode3Kathisma1.incipit = "Τὴν ὡραιότητα Χριστοῦ ἐπόθησας, καὶ…"
-meMA.Ode3Kathisma1.text = "Τὴν ὡραιότητα Χριστοῦ ἐπόθησας, καὶ δι' ἀσκήσεως πάθη ἐνέκρωσας, καὶ ἐναθλήσας καρτερῶς, τὴν πλάνην ἀπετέφρωσας, Ἔνδοξε Δομέτιε, τῶν Ἀγγέλων συνόμιλε· ὅθεν καὶ ἰάσεων, ῥεῖθρα βρύεις τοῖς πίστει σου, τὴν μνήμην ἐπιτελοῦσι τὴν θείαν, Μάρτυς ἀξιοθαύμαστε."
+meMA.Ode3Kathisma1.text = "Τὴν ὡραιότητα Χριστοῦ ἐπόθησας, καὶ διʼ ἀσκήσεως πάθη ἐνέκρωσας, καὶ ἐναθλήσας καρτερῶς, τὴν πλάνην ἀπετέφρωσας, Ἔνδοξε Δομέτιε, τῶν Ἀγγέλων συνόμιλε· ὅθεν καὶ ἰάσεων, ῥεῖθρα βρύεις τοῖς πίστει σου, τὴν μνήμην ἐπιτελοῦσι τὴν θείαν, Μάρτυς ἀξιοθαύμαστε."
 
 meMA.Ode3Kathisma2.mode = misc_gr_GR_cog.Mode3
 meMA.Ode3Kathisma2.melody = he.a.m3_gr_GR_cog.TinOraiotita.name
@@ -332,7 +336,7 @@ meMA.Exaposteilarion1.text = "Ἐκ περσικῆς ὁρμώμενος, χ�
 meMA.Exaposteilarion2.mode = misc_gr_GR_cog.Mode2
 meMA.Exaposteilarion2.melody = he.a.m2_gr_GR_cog.ToisMathitaisSynelthomen.name
 meMA.Exaposteilarion2.incipit = "Πρὸ τοῦ Σταυροῦ σου Κύριε…"
-meMA.Exaposteilarion2.text = "Πρὸ τοῦ Σταυροῦ σου Κύριε, Μαθητῶν τοὺς προκρίτους, λαβὼν μετεμορφώθης νῦν, ἐν Θαβὼρ τῷ ἁγίῳ· ἐν ᾧ Μωσῆς καὶ Ἠλίας, παρειστήκεισαν τρόμῳ, δουλοπρεπῶς σοι Δέσποτα, συλλαλοῦντες· μεθ' ὧν σε Χριστὲ Σωτήρ, σὺν Πατρὶ καὶ Πνεύματι προσκυνοῦμεν, τὸν ἐκ Παρθένου λάμψαντα, εἰς βροτῶν σωτηρίαν."
+meMA.Exaposteilarion2.text = "Πρὸ τοῦ Σταυροῦ σου Κύριε, Μαθητῶν τοὺς προκρίτους, λαβὼν μετεμορφώθης νῦν, ἐν Θαβὼρ τῷ ἁγίῳ· ἐν ᾧ Μωσῆς καὶ Ἠλίας, παρειστήκεισαν τρόμῳ, δουλοπρεπῶς σοι Δέσποτα, συλλαλοῦντες· μεθʼ ὧν σε Χριστὲ Σωτήρ, σὺν Πατρὶ καὶ Πνεύματι προσκυνοῦμεν, τὸν ἐκ Παρθένου λάμψαντα, εἰς βροτῶν σωτηρίαν."
 
 meMA.Aposticha1.mode = misc_gr_GR_cog.Mode2
 meMA.Aposticha1.melody = he.a.m2_gr_GR_cog.OikosTouEfratha.name

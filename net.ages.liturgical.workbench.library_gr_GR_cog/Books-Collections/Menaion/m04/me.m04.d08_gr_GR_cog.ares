@@ -40,7 +40,7 @@ meVE.SticTheotokion.text = "Ὡς Θεοῦ Μήτηρ ἄφθορος, καὶ
 meVE.SticStavrotheotokion.mode = misc_gr_GR_cog.Mode4
 meVE.SticStavrotheotokion.melody = he.a.m4_gr_GR_cog.OsGennaionEnMartysi.name
 meVE.SticStavrotheotokion.incipit = "Πικροτάτως δακρύουσαν, καὶ θρηνοῦσάν σε…"
-meVE.SticStavrotheotokion.text = "Πικροτάτως δακρύουσαν, καὶ θρηνοῦσάν σε πάναγνε, ἐλεήσας ᾤκτιρεν, ὁ ἐκ σπλάγχνων σου, σάρκα λαβὼν ὑπὲρ ἔννοιαν, καὶ δρόσον ἐνστάξας σοι, ἐπεφώνει ὡς Υἱός· Παῦσαι Μῆτερ δακρύουσα· εἰ γὰρ πέπονθα, ἑκουσίως Παρθένε, καὶ νεκροῦμαι· ἀλλ' ἐγείρομαι δοξάσαι, τοὺς σὲ σεπτῶς μεγαλύνοντας."
+meVE.SticStavrotheotokion.text = "Πικροτάτως δακρύουσαν, καὶ θρηνοῦσάν σε πάναγνε, ἐλεήσας ᾤκτιρεν, ὁ ἐκ σπλάγχνων σου, σάρκα λαβὼν ὑπὲρ ἔννοιαν, καὶ δρόσον ἐνστάξας σοι, ἐπεφώνει ὡς Υἱός· Παῦσαι Μῆτερ δακρύουσα· εἰ γὰρ πέπονθα, ἑκουσίως Παρθένε, καὶ νεκροῦμαι· ἀλλʼ ἐγείρομαι δοξάσαι, τοὺς σὲ σεπτῶς μεγαλύνοντας."
 
 meVE.Apolytikion1.poet = poets_gr_GR_cog.Gerasimou
 meVE.Apolytikion1.mode = misc_gr_GR_cog.Mode1
@@ -49,6 +49,10 @@ meVE.Apolytikion1.incipit = "Ἑξάριθμος χορός, τῶν σοφῶ
 meVE.Apolytikion1.text = "Ἑξάριθμος χορός, τῶν σοφῶν Ἀποστόλων, ὑμνείσθω ἱερῶς, μελῳδίαις ᾀσμάτων, Ἑρμᾶς καὶ Ἀσύγκριτος, Ἡρωδίων καὶ Ἄγαβος, σὺν τῷ Φλέγοντι, καὶ τῷ θεόφρονι Ρούφῳ· τὴν Τριάδα γάρ, διηνεκῶς δυσωποῦσιν, ὑπὲρ τῶν ψυχῶν ἡμῶν."
 
 meMA.C1.poet = poets_gr_GR_cog.Iosif
+meMA.C1.acrostic.title = ""
+meMA.C1.acrostic.notice1 = ""
+meMA.C1.acrostic.text = ""
+//meMA.C1.acrostic.notice2 = ""
 meMA.C1.acrostic = "οὗ ἡ Ἀκροστιχίς· Ἀποστόλοις πλέξωμεν ἔνθεον μέλος."
 
 meMA.Ode1C1H.ode = misc_gr_GR_cog.Ode1
@@ -111,8 +115,8 @@ meMA.Ode3C13.text = "Λόγῳ σου θείῳ νεώσας Ῥοῦφε σ�
 meMA.Ode3C1T.ode = misc_gr_GR_cog.Ode3
 meMA.Ode3C1T.mode = misc_gr_GR_cog.Mode3
 meMA.Ode3C1T.melody = he.h.m3_gr_GR_cog.OEkMiOnton.name
-meMA.Ode3C1T.incipit = "Ὁ κατ' οὐσίαν ὑπάρχων τὴν…"
-meMA.Ode3C1T.text = "Ὁ κατ' οὐσίαν ὑπάρχων τὴν θεϊκήν, ἀπρόσιτος Ἄχραντε, προσιτὸς μοι νῦν γέγονε, καὶ σαρκὸς προσλήμματι, ὅλως ἡνώθη δι' ἄκραν εὐσπλαγχνίαν."
+meMA.Ode3C1T.incipit = "Ὁ κατʼ οὐσίαν ὑπάρχων τὴν…"
+meMA.Ode3C1T.text = "Ὁ κατʼ οὐσίαν ὑπάρχων τὴν θεϊκήν, ἀπρόσιτος Ἄχραντε, προσιτὸς μοι νῦν γέγονε, καὶ σαρκὸς προσλήμματι, ὅλως ἡνώθη διʼ ἄκραν εὐσπλαγχνίαν."
 
 meMA.Ode3Kathisma1.mode = misc_gr_GR_cog.Mode1
 meMA.Ode3Kathisma1.melody = he.a.m1_gr_GR_cog.TonTafonSouSotir.name

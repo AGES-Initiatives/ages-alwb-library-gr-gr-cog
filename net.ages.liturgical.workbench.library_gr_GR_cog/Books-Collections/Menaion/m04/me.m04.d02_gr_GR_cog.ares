@@ -40,7 +40,7 @@ meVE.SticTheotokion.text = "Ποίοις ὀφθαλμοῖς θεάσωμαι
 meVE.SticStavrotheotokion.mode = misc_gr_GR_cog.Mode8
 meVE.SticStavrotheotokion.melody = he.a.m8_gr_GR_cog.OTouParadoxou.name
 meVE.SticStavrotheotokion.incipit = "Ἥλιος ἰδών σε ἔφριξεν, ἐπὶ…"
-meVE.SticStavrotheotokion.text = "Ἥλιος ἰδών σε ἔφριξεν, ἐπὶ Σταυροῦ Ἰησοῦ, ἡπλωμένον θελήματι, καὶ ἡ γῆ ἐσείετο, καὶ πέτραι διεῤῥήγνυντο, καὶ τὰ μνημεῖα φόβῳ ἠνοίγοντο, καὶ αἱ δυνάμεις πᾶσαι ἐξίσταντο, ἡ δὲ τεκοῦσά σε, ἀπειράνδρως βλέπουσα, μετ' οἰμωγῆς· Οἴμοι! ἀνεκραύγαζε, τί τὸ ὁρώμενον;"
+meVE.SticStavrotheotokion.text = "Ἥλιος ἰδών σε ἔφριξεν, ἐπὶ Σταυροῦ Ἰησοῦ, ἡπλωμένον θελήματι, καὶ ἡ γῆ ἐσείετο, καὶ πέτραι διεῤῥήγνυντο, καὶ τὰ μνημεῖα φόβῳ ἠνοίγοντο, καὶ αἱ δυνάμεις πᾶσαι ἐξίσταντο, ἡ δὲ τεκοῦσά σε, ἀπειράνδρως βλέπουσα, μετʼ οἰμωγῆς· Οἴμοι! ἀνεκραύγαζε, τί τὸ ὁρώμενον;"
 
 meVE.Apolytikion1.poet = poets_gr_GR_cog.Gerasimou
 meVE.Apolytikion1.mode = misc_gr_GR_cog.Mode4
@@ -49,6 +49,10 @@ meVE.Apolytikion1.incipit = "Ἀνατεθεὶς ἀπὸ παιδὸς τῷ �
 meVE.Apolytikion1.text = "Ἀνατεθεὶς ἀπὸ παιδὸς τῷ Κυρίῷ, ἀγγελικῶς ἐπολιτεύσω ἐν κόσμῳ, καὶ τῶν θαυμάτων εἴληφας τὴν χάριν ἐκ Θεοῦ· ὅθεν ἐχρημάτισας, Μοναζόντων ἀλείπτης, Τῖτε παμμακάριστε, καὶ σοφὸς οἰκονόμος· ἀλλὰ μὴ παύσῃ Πάτερ ἐκτενῶς, ὑπὲρ τοῦ κόσμου, Θεὸν ἱλεούμενος."
 
 meMA.C1.poet = poets_gr_GR_cog.Theofanous
+meMA.C1.acrostic.title = ""
+meMA.C1.acrostic.notice1 = ""
+meMA.C1.acrostic.text = ""
+//meMA.C1.acrostic.notice2 = ""
 meMA.C1.acrostic = " οὗ ἡ Ἀκροστιχίς (ἄνευ τῶν Θεοτοκίων)· Ὁ τῶν μοναστῶν στῦλος ὑμνείσθω Τίτος."
 
 //Mode corrected to Plagal Fourth (PDF says Plagal First)
@@ -90,7 +94,7 @@ meMA.Ode1C1T.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C1T.mode = misc_gr_GR_cog.Mode8
 meMA.Ode1C1T.melody = he.h.m8_gr_GR_cog.YgranDiodefsas.name
 meMA.Ode1C1T.incipit = "Λόγον τὸν ἀμήτορα ἐκ Πατρός…"
-meMA.Ode1C1T.text = "Λόγον τὸν ἀμήτορα ἐκ Πατρός, ἀπάτορα τοῦτον, ἐπ' ἐσχάτων θεανδρικῶς, ἐκύησας μόνη Θεομῆτορ, ὡς ὑπερτέρα πάσης κτίσεως."
+meMA.Ode1C1T.text = "Λόγον τὸν ἀμήτορα ἐκ Πατρός, ἀπάτορα τοῦτον, ἐπʼ ἐσχάτων θεανδρικῶς, ἐκύησας μόνη Θεομῆτορ, ὡς ὑπερτέρα πάσης κτίσεως."
 
 meMA.Ode3C1H.ode = misc_gr_GR_cog.Ode3
 meMA.Ode3C1H.mode = misc_gr_GR_cog.Mode8
@@ -170,7 +174,7 @@ meMA.Ode4C13.ode = misc_gr_GR_cog.Ode4
 meMA.Ode4C13.mode = misc_gr_GR_cog.Mode8
 meMA.Ode4C13.melody = he.h.m8_gr_GR_cog.EisakikoaKyrie.name
 meMA.Ode4C13.incipit = "Ὡς λειμὼν εὐωδέστατος, καὶ τῶν…"
-meMA.Ode4C13.text = "Ὡς λειμὼν εὐωδέστατος, καὶ τῶν ἀρετῶν παράδεισος ἔμψυχος, τὴν ἐγκράτειαν ἐξήνθησας, δι' ἧς πάντας τρέφεις τοὺς τιμῶντάς σε."
+meMA.Ode4C13.text = "Ὡς λειμὼν εὐωδέστατος, καὶ τῶν ἀρετῶν παράδεισος ἔμψυχος, τὴν ἐγκράτειαν ἐξήνθησας, διʼ ἧς πάντας τρέφεις τοὺς τιμῶντάς σε."
 
 meMA.Ode4C14.ode = misc_gr_GR_cog.Ode4
 meMA.Ode4C14.mode = misc_gr_GR_cog.Mode8
@@ -206,7 +210,7 @@ meMA.Ode5C13.ode = misc_gr_GR_cog.Ode5
 meMA.Ode5C13.mode = misc_gr_GR_cog.Mode8
 meMA.Ode5C13.melody = he.h.m8_gr_GR_cog.InaTiMeAposo.name
 meMA.Ode5C13.incipit = "Ὑπομείνας γενναίως, προσβολὰς καὶ στίγματα…"
-meMA.Ode5C13.text = "Ὑπομείνας γενναίως, προσβολὰς καὶ στίγματα δαιμόνων Ὅσιε, ἀνεδείχθης στῦλος, καρτερίας στηρίζων τὴν ποίμνην σου, βακτηρίᾳ θείᾳ, ἐπὶ νομὰς τῆς ἐγκρατείας, καὶ ἐφ' ὕδωρ ἐκτρέφων μακάριε."
+meMA.Ode5C13.text = "Ὑπομείνας γενναίως, προσβολὰς καὶ στίγματα δαιμόνων Ὅσιε, ἀνεδείχθης στῦλος, καρτερίας στηρίζων τὴν ποίμνην σου, βακτηρίᾳ θείᾳ, ἐπὶ νομὰς τῆς ἐγκρατείας, καὶ ἐφʼ ὕδωρ ἐκτρέφων μακάριε."
 
 meMA.Ode5C1T.ode = misc_gr_GR_cog.Ode5
 meMA.Ode5C1T.mode = misc_gr_GR_cog.Mode8
@@ -236,7 +240,7 @@ meMA.Ode6C13.ode = misc_gr_GR_cog.Ode6
 meMA.Ode6C13.mode = misc_gr_GR_cog.Mode8
 meMA.Ode6C13.melody = he.h.m8_gr_GR_cog.IlasthitiMoiSotir.name
 meMA.Ode6C13.incipit = "Συνέλεξας ἐν ψυχῇ, τὸν θεῖον…"
-meMA.Ode6C13.text = "Συνέλεξας ἐν ψυχῇ, τὸν θεῖον πλοῦτον τῆς χάριτος, τὴν ἄμεμπτον προσευχήν, ἁγνείαν σεμνότητα, ἀγρυπνίαν σύντονον, δι' ὧν ἐγνωρίσθης, οἶκος ὄντως τοῦ Θεοῦ ἡμῶν."
+meMA.Ode6C13.text = "Συνέλεξας ἐν ψυχῇ, τὸν θεῖον πλοῦτον τῆς χάριτος, τὴν ἄμεμπτον προσευχήν, ἁγνείαν σεμνότητα, ἀγρυπνίαν σύντονον, διʼ ὧν ἐγνωρίσθης, οἶκος ὄντως τοῦ Θεοῦ ἡμῶν."
 
 meMA.Ode6C14.ode = misc_gr_GR_cog.Ode6
 meMA.Ode6C14.mode = misc_gr_GR_cog.Mode8

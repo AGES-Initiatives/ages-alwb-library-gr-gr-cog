@@ -46,8 +46,12 @@ meVE.Apolytikion1.poet = poets_gr_GR_cog.Gerasimou
 meVE.Apolytikion1.mode = misc_gr_GR_cog.Mode4
 meVE.Apolytikion1.melody = he.a.m4_gr_GR_cog.OYpsotheisEnToStavro.name
 meVE.Apolytikion1.incipit = "Ὡς ὑποφήτης τῶν ἐνθέων δογμάτων…"
-meVE.Apolytikion1.text = "Ὡς ὑποφήτης τῶν ἐνθέων δογμάτων, μαρτυρικὸν συνασπισμὸν ἐπαλείφεις, λόγοις ὁμοῦ καὶ πράξεσι πρὸς ἄθλους ἱερούς· μεθ' ὧν καὶ συνήθλησας, Συμεὼν ἱεράρχα, καὶ Χριστῷ ἀνέδραμες, σὺν αὐτοῖς ἀνακράζων· Ἰδοὺ ἡμεῖς ὡς πρόβατα σφαγῆς, τῇ σῇ ἀγάπῃ Σωτὴρ ἐλογίσθημεν."
+meVE.Apolytikion1.text = "Ὡς ὑποφήτης τῶν ἐνθέων δογμάτων, μαρτυρικὸν συνασπισμὸν ἐπαλείφεις, λόγοις ὁμοῦ καὶ πράξεσι πρὸς ἄθλους ἱερούς· μεθʼ ὧν καὶ συνήθλησας, Συμεὼν ἱεράρχα, καὶ Χριστῷ ἀνέδραμες, σὺν αὐτοῖς ἀνακράζων· Ἰδοὺ ἡμεῖς ὡς πρόβατα σφαγῆς, τῇ σῇ ἀγάπῃ Σωτὴρ ἐλογίσθημεν."
 
+meMA.C1.acrostic.title = ""
+meMA.C1.acrostic.notice1 = ""
+meMA.C1.acrostic.text = ""
+//meMA.C1.acrostic.notice2 = ""
 meMA.C1.acrostic = "οὗ ἡ Ἀκροστιχίς· Στέφω μάκαρ σε, Συμεών, μελῳδίαις. Ἰωσήφ."
 
 meMA.Ode1C1H.ode = misc_gr_GR_cog.Ode1
@@ -69,7 +73,7 @@ meMA.Ode1C12.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C12.mode = misc_gr_GR_cog.Mode5
 meMA.Ode1C12.melody = he.h.m5_gr_GR_cog.IpponKaiAnavatin.name
 meMA.Ode1C12.incipit = "Τίμιον σκεῦος ὤφθης τοῦ θείου…"
-meMA.Ode1C12.text = "Τίμιον σκεῦος ὤφθης τοῦ θείου Πνεύματος, Συμεὼν θεοφόρε, παρ' οὗ χρισθεὶς ἐποίμανας, λαὸν περιούσιον, βακτηρίᾳ θείων δογμάτων, Μάρτυς ἐφ' ὕδωρ γνώσεως."
+meMA.Ode1C12.text = "Τίμιον σκεῦος ὤφθης τοῦ θείου Πνεύματος, Συμεὼν θεοφόρε, παρʼ οὗ χρισθεὶς ἐποίμανας, λαὸν περιούσιον, βακτηρίᾳ θείων δογμάτων, Μάρτυς ἐφʼ ὕδωρ γνώσεως."
 
 meMA.Ode1C13.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C13.mode = misc_gr_GR_cog.Mode5
@@ -99,7 +103,7 @@ meMA.Ode3C12.ode = misc_gr_GR_cog.Ode3
 meMA.Ode3C12.mode = misc_gr_GR_cog.Mode5
 meMA.Ode3C12.melody = he.h.m5_gr_GR_cog.OPixasEpOudenos.name
 meMA.Ode3C12.incipit = "Μακρύνας τὸν λογισμόν, παθῶν τῶν…"
-meMA.Ode3C12.text = "Μακρύνας τὸν λογισμόν, παθῶν τῶν τοῦ σώματος, ἀναιμάκτους Πάτερ θυσίας ἤνεγκας, Λόγῳ τῷ τυθέντι δι' ἡμᾶς, καὶ τούτου καταγγέλλων, τὴν ὑπὲρ λόγον θείαν σάρκωσιν, τέθυσαι ἀρνίον ὡς ἄκακον."
+meMA.Ode3C12.text = "Μακρύνας τὸν λογισμόν, παθῶν τῶν τοῦ σώματος, ἀναιμάκτους Πάτερ θυσίας ἤνεγκας, Λόγῳ τῷ τυθέντι διʼ ἡμᾶς, καὶ τούτου καταγγέλλων, τὴν ὑπὲρ λόγον θείαν σάρκωσιν, τέθυσαι ἀρνίον ὡς ἄκακον."
 
 meMA.Ode3C13.ode = misc_gr_GR_cog.Ode3
 meMA.Ode3C13.mode = misc_gr_GR_cog.Mode5
@@ -174,7 +178,7 @@ meMA.Ode5C12.ode = misc_gr_GR_cog.Ode5
 meMA.Ode5C12.mode = misc_gr_GR_cog.Mode5
 meMA.Ode5C12.melody = he.h.m5_gr_GR_cog.OAnavallomenos.name
 meMA.Ode5C12.incipit = "Ὕμνοις μακαρίζομεν, τὴν πολιτείαν σου…"
-meMA.Ode5C12.text = "Ὕμνοις μακαρίζομεν, τὴν πολιτείαν σου, τοὺς διωγμούς τε καὶ τὰς ἐνστάσεις, Συμεὼν πανόλβιε, δι' ὧν ἠξιώθης, τῆς μακαρίας λήξεως."
+meMA.Ode5C12.text = "Ὕμνοις μακαρίζομεν, τὴν πολιτείαν σου, τοὺς διωγμούς τε καὶ τὰς ἐνστάσεις, Συμεὼν πανόλβιε, διʼ ὧν ἠξιώθης, τῆς μακαρίας λήξεως."
 
 meMA.Ode5C13.ode = misc_gr_GR_cog.Ode5
 meMA.Ode5C13.mode = misc_gr_GR_cog.Mode5
@@ -222,7 +226,7 @@ meMA.Kontakion1.poet = poets_gr_GR_cog.Gerasimou
 meMA.Kontakion1.mode = misc_gr_GR_cog.Mode4
 meMA.Kontakion1.melody = he.a.m4_gr_GR_cog.EpefanisSimeron.name
 meMA.Kontakion1.incipit = "Ἐκ Περσίδος ἔλαμψας ὡς ἑωσφόρος…"
-meMA.Kontakion1.text = "Ἐκ Περσίδος ἔλαμψας ὡς ἑωσφόρος, Συμεὼν μακάριε, δῆμον Ἁγίων Ἀθλητῶν, ἔχων ἡμῖν συνανίσχοντας, ὥσπερ ἀστέρας· μεθ' ὧν εὐφημοῦμέν σε."
+meMA.Kontakion1.text = "Ἐκ Περσίδος ἔλαμψας ὡς ἑωσφόρος, Συμεὼν μακάριε, δῆμον Ἁγίων Ἀθλητῶν, ἔχων ἡμῖν συνανίσχοντας, ὥσπερ ἀστέρας· μεθʼ ὧν εὐφημοῦμέν σε."
 
 meMA.Ode7C1H.ode = misc_gr_GR_cog.Ode7
 meMA.Ode7C1H.mode = misc_gr_GR_cog.Mode5
@@ -240,7 +244,7 @@ meMA.Ode7C12.ode = misc_gr_GR_cog.Ode7
 meMA.Ode7C12.mode = misc_gr_GR_cog.Mode5
 meMA.Ode7C12.melody = he.h.m5_gr_GR_cog.OYperypsoumenos.name
 meMA.Ode7C12.incipit = "Ὤφθης προηγούμενος, Ἀθλητῶν συστήματος, μεθ'…"
-meMA.Ode7C12.text = "Ὤφθης προηγούμενος, Ἀθλητῶν συστήματος, μεθ' ὧν τελειούμενος, ξίφει ἀνεκραύγαζες· Συμεὼν θεόφρον, ὁ Θεὸς εὐλογητὸς εἶ."
+meMA.Ode7C12.text = "Ὤφθης προηγούμενος, Ἀθλητῶν συστήματος, μεθʼ ὧν τελειούμενος, ξίφει ἀνεκραύγαζες· Συμεὼν θεόφρον, ὁ Θεὸς εὐλογητὸς εἶ."
 
 meMA.Ode7C13.ode = misc_gr_GR_cog.Ode7
 meMA.Ode7C13.mode = misc_gr_GR_cog.Mode5

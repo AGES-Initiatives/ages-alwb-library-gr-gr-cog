@@ -195,32 +195,31 @@ meMA.PostGospelIdiomelon.melody = ""
 meMA.PostGospelIdiomelon.incipit = meSV.SticGlory.incipit
 meMA.PostGospelIdiomelon.text = meSV.SticGlory.text
 
-meMA.C1.acrostic.title = ""
-meMA.C1.acrostic.notice1 = ""
-meMA.C1.acrostic.text = ""
-//meMA.C1.acrostic.notice2 = ""
-meMA.C1.acrostic = me.m07.d27_gr_GR_cog.meMA.C1.acrostic
+meMA.C1.acrostic.title = "Κανὼν τῆς Θεοτόκου,"
+meMA.C1.acrostic.notice1 = "οὗ ἡ Ἀκροστιχίς·"
+meMA.C1.acrostic.notice2 = "Ἀλφάβητος ἀντιστρόφως."
+meMA.C1.poet = poets_gr_GR_cog.Theofanous
+meMA.C1.title = titles_gr_GR_cog.KanonTisTheotokou
+meMA.C1.verse = prayers_gr_GR_cog.verse_Theotokos.text
 
-meMA.C2.acrostic.title = ""
-meMA.C2.acrostic.notice1 = ""
-meMA.C2.acrostic.text = ""
-//meMA.C2.acrostic.notice2 = ""
-meMA.C2.acrostic = "οὗ ἡ Ἀκροστιχίς· Βροντῆς τὸν υἱὸν χριστοτερπῶς. Θεοφάνους."
+meMA.C2.acrostic.title = "Κανὼν τοῦ Ἁγίου,"
+meMA.C2.acrostic.notice1 = "οὗ ἡ Ἀκροστιχίς·"
+meMA.C2.acrostic.text = "Βροντῆς τὸν υἱὸν χριστοτερπῶς αἰνέσω."
+meMA.C2.poet = poets_gr_GR_cog.Theofanous
+meMA.C2.title = titles_gr_GR_cog.KanonATouAgiou
+meMA.C2.verse = prayers_gr_GR_cog.verse_SaintM.text
 
-meMA.C3.acrostic.title = ""
-meMA.C3.acrostic.notice1 = ""
-meMA.C3.acrostic.text = ""
-//meMA.C3.acrostic.notice2 = ""
-meMA.C3.acrostic = "οὗ ἡ Ἀκροστιχίς· Ἕκτην δέησιν τῷ Θεοῦ Μύστῃ φέρω. Ὁ Ἰωσήφ."
+meMA.C3.acrostic.title = "Ἕτερος Κανὼν τοῦ Ἁγίου,"
+meMA.C3.acrostic.notice1 = "οὗ ἡ Ἀκροστιχίς·"
+meMA.C3.acrostic.text = "Ἕκτην δέησιν τῷ Θεοῦ Μύστῃ φέρω. Ὁ Ἰωσήφ."
+meMA.C3.title = titles_gr_GR_cog.KanonBTouAgiou
+meMA.C3.verse = prayers_gr_GR_cog.verse_SaintM.text
 
 meMA.Ode1C1H.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C1H.mode = misc_gr_GR_cog.Mode2
 meMA.Ode1C1H.melody = he.h.m2_gr_GR_cog.EnVythoKatestrose.melody
 meMA.Ode1C1H.incipit = he.h.m2_gr_GR_cog.EnVythoKatestrose.incipit
 meMA.Ode1C1H.text = he.h.m2_gr_GR_cog.EnVythoKatestrose.text
-
-meMA.C1.title = titles_gr_GR_cog.KanonTisTheotokou
-meMA.C1.verse = prayers_gr_GR_cog.verse_Theotokos.text
 
 meMA.Ode1C11.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C11.mode = misc_gr_GR_cog.Mode2
@@ -239,9 +238,6 @@ meMA.Ode1C13.mode = misc_gr_GR_cog.Mode2
 meMA.Ode1C13.melody = he.h.m2_gr_GR_cog.EnVythoKatestrose.name
 meMA.Ode1C13.incipit = me.m07.d27_gr_GR_cog.meMA.Ode1C13.incipit
 meMA.Ode1C13.text = me.m07.d27_gr_GR_cog.meMA.Ode1C13.text
-
-meMA.C2.title = titles_gr_GR_cog.KanonATouAgiou
-meMA.C2.verse = prayers_gr_GR_cog.verse_SaintM.text
 
 meMA.Ode1C21.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C21.mode = misc_gr_GR_cog.Mode2
@@ -266,9 +262,6 @@ meMA.Ode1C2T.mode = misc_gr_GR_cog.Mode2
 meMA.Ode1C2T.melody = he.h.m2_gr_GR_cog.EnVythoKatestrose.name
 meMA.Ode1C2T.incipit = "Νεανίδων θείων ὁ χορός, ἐνθεαστικώτατα…"
 meMA.Ode1C2T.text = "Νεανίδων θείων ὁ χορός, ἐνθεαστικώτατα, ἐν γυναιξί σε καλὴν ᾀσματίζουσι, Θεοτόκε Δέσποινα, καλλοναῖς ὡραϊζομένην Θεότητος· τὸν καλλοποιὸν γάρ, Λόγον ὑπὲρ λόγον ἀπεκύησας."
-
-meMA.C3.title = titles_gr_GR_cog.KanonBTouAgiou
-meMA.C3.verse = prayers_gr_GR_cog.verse_SaintM.text
 
 meMA.Ode1C31.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C31.mode = misc_gr_GR_cog.Mode6

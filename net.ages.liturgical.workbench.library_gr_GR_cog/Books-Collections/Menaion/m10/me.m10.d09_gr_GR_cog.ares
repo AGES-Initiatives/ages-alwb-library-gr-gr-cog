@@ -95,21 +95,18 @@ meVE.Apolytikion2.text = "Σωφροσύνης τὴν χλαῖναν τὴν 
 
 meVE.MM.GeneralApolytikion3.text = properties_gr_GR_cog.media.key
 
+meMA.C1.acrostic.title = "Ὁ Κανὼν τοῦ Ἀποστόλου,"
+meMA.C1.acrostic.notice1 = "οὗ ἡ Ἀκροστιχίς·"
+meMA.C1.acrostic.text = "Χριστοῦ μαθητὴν υἱὸν Ἀλφαίου σέβω."
 meMA.C1.poet = poets_gr_GR_cog.Theofanous
-meMA.C1.acrostic.title = ""
-meMA.C1.acrostic.notice1 = ""
-meMA.C1.acrostic.text = ""
-//meMA.C1.acrostic.notice2 = ""
-meMA.C1.acrostic = "οὗ ἡ Ἀκροστιχίς· Χριστοῦ μαθητὴν υἱὸν Ἀλφαίου σέβω."
-
-meMA.C2.acrostic.title = ""
-meMA.C2.acrostic.notice1 = ""
-meMA.C2.acrostic.text = ""
-//meMA.C2.acrostic.notice2 = ""
-meMA.C2.acrostic = "ἔχων Ἀκροστιχίδα ἐν τοῖς Θεοτόκοις· Δημητρίου."
-
 meMA.C1.title = titles_gr_GR_cog.KanonTouApostolou
 meMA.C1.verse = prayers_gr_GR_cog.verse_Apostle.text
+
+meMA.C2.acrostic.title = "Ὁ Κανὼν τῶν Ὁσίων,"
+meMA.C2.acrostic.notice1 = "ἔχων Ἀκροστιχίδα ἐν τοῖς Θεοτόκοις·"
+meMA.C2.acrostic.text = "Δημητρίου."
+meMA.C2.title = titles_gr_GR_cog.KanonTonOsion
+meMA.C2.verse = prayers_gr_GR_cog.verse_SaintsM.text
 
 meMA.Ode1C11.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C11.mode = misc_gr_GR_cog.Mode6
@@ -134,9 +131,6 @@ meMA.Ode1C1T.mode = misc_gr_GR_cog.Mode6
 meMA.Ode1C1T.melody = he.h.m6_gr_GR_cog.OsEnIpeiroPezefsas.name
 meMA.Ode1C1T.incipit = "Σὲ Παναγία Παρθένε τὸν οὐρανόν…"
 meMA.Ode1C1T.text = "Σὲ Παναγία Παρθένε τὸν οὐρανόν, ὁ τανύσας Κύριος, καὶ τὴν γῆν θεμελιῶν, οὐρανὸν ἐπίγειον ἐκ σοῦ, προελθὼν μετὰ σαρκός, ἡμῖν ἀνέδειξε."
-
-meMA.C2.title = titles_gr_GR_cog.KanonTonAgion
-meMA.C2.verse = prayers_gr_GR_cog.verse_SaintsM.text
 
 meMA.Ode1C21.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C21.mode = misc_gr_GR_cog.Mode8

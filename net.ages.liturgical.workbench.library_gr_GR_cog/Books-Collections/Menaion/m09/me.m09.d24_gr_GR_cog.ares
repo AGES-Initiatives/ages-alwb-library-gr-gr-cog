@@ -98,13 +98,11 @@ meVE.Apolytikion2.melody = he.a.m4_gr_GR_cog.TachyProkatalave.name
 meVE.Apolytikion2.incipit = "Τοῦ Παύλου συνέκδημος, ὡς καθαρὰ…"
 meVE.Apolytikion2.text = "Τοῦ Παύλου συνέκδημος, ὡς καθαρὰ τὴν ψυχήν, καὶ πρώταθλος πέφηνας, ἐν γυναιξὶν εὐκλεῶς, Χριστὸν ἀγαπήσασα· σὺ γὰρ τῆς εὐσεβείας, πτερωθεῖσα τῷ πόθῳ, ἤθλησας ὑπὲρ φύσιν, Ἰσαπόστολε Θέκλα· διό σε ὁ Πανοικτίρμων νύμφην ἠγάγετο."
 
+meMA.C1.acrostic.title = "Κανὼν τῆς Ἁγίας,"
+meMA.C1.acrostic.notice1 = "οὗ ἡ Ἀκροστιχίς·"
+meMA.C1.acrostic.text = "Ἡ Πρωτομάρτυς ἐνθέως δοξάζεται."
+meMA.C1.acrostic.notice2 = "Ἄνευ τῶν Θεοτοκίων."
 meMA.C1.poet = poets_gr_GR_cog.IoannouMonachou
-meMA.C1.acrostic.title = ""
-meMA.C1.acrostic.notice1 = ""
-meMA.C1.acrostic.text = ""
-//meMA.C1.acrostic.notice2 = ""
-meMA.C1.acrostic = "οὗ ἡ Ἀκροστιχίς. Ἡ Πρωτομάρτυς ἐνθέως δοξάζεται. Ἄνευ τῶν Θεοτοκίων"
-
 meMA.C1.title = titles_gr_GR_cog.KanonTisAgias
 meMA.C1.verse = prayers_gr_GR_cog.verse_SaintW.text
 
@@ -705,16 +703,17 @@ alt1.meMA.PostGospelIdiomelon.melody = ""
 alt1.meMA.PostGospelIdiomelon.incipit = "Σήμερον ἡ Οἰκουμένη πᾶσα, ταῖς…"
 alt1.meMA.PostGospelIdiomelon.text = "Σήμερον ἡ Οἰκουμένη πᾶσα, ταῖς τῆς Θεοτόκου αὐγάζετε ἁκτῖσι, καὶ τῶν Κυθηραίων ἡ Νῆσος, τοῖς ἄνθεσι ὡραϊζομένη, μυρσίνης ἀναμέλπει· Παρθένε Ἁγνή, Ὀρθοδόξων τὸ καύχημα, μὴ διαλείπῃς πρεσβεύειν ὑπὲρ ἡμῶν πρὸς τὸν Κύριον."
 
-alt1.meMA.C1.acrostic = "Οὖ ἡ Ἀκροστιχίς, ἄνευ τῶν Εἱρμῶν, Κυθηραίων ὑμνῶ Μυρτιδιώτισσαν κλέος."
+alt1.meMA.C1.acrostic.title = "Ὁ Κανών,"
+alt1.meMA.C1.acrostic.notice1 = "οὖ ἡ Ἀκροστιχίς, ἄνευ τῶν Εἱρμῶν·"
+alt1.meMA.C1.acrostic.text = "Κυθηραίων ὑμνῶ Μυρτιδιώτισσαν κλέος."
+alt1.meMA.C1.title = titles_gr_GR_cog.KanonTisTheotokou
+alt1.meMA.C1.verse = prayers_gr_GR_cog.verse_Theotokos.text
 
 alt1.meMA.Ode1C1H.ode = misc_gr_GR_cog.Ode1
 alt1.meMA.Ode1C1H.mode = misc_gr_GR_cog.Mode1
 alt1.meMA.Ode1C1H.melody = misc_gr_GR_cog.Heirmos
 alt1.meMA.Ode1C1H.incipit = he.h.m1_gr_GR_cog.PepoikilmeniTiTheiaDoxi.incipit
 alt1.meMA.Ode1C1H.text = he.h.m1_gr_GR_cog.PepoikilmeniTiTheiaDoxi.text
-
-alt1.meMA.C1.title = titles_gr_GR_cog.KanonTisTheotokou
-alt1.meMA.C1.verse = prayers_gr_GR_cog.verse_Theotokos.text
 
 alt1.meMA.Ode1C11.ode = misc_gr_GR_cog.Ode1
 alt1.meMA.Ode1C11.mode = misc_gr_GR_cog.Mode1
@@ -1342,11 +1341,19 @@ alt3.meMA.PostGospelIdiomelon.melody = ""
 alt3.meMA.PostGospelIdiomelon.incipit = "…"
 alt3.meMA.PostGospelIdiomelon.text = ""
 
+alt3.meMA.C1.acrostic.title = "Ὁ Πρῶτος Κανὼν τοῦ Ὁσίου,"
+alt3.meMA.C1.acrostic.notice1 = "οὖ ἡ ἀκροστιχίς·"
+alt3.meMA.C1.acrostic.text = "Σιλουανέ, χορήγει μοι Πνεῦμα τὸ θεῖον. Ἀ(θανάσιος)."
 alt3.meMA.C1.poet = poets_gr_GR_cog.AthanasiouSimonopetritou
-alt3.meMA.C1.acrostic = "οὗ ἡ ἀκροστιχίς· \"Σιλουανέ, χορήγει μοι Πνεῦμα τὸ θεῖον. Ἀ(θανάσιος)\""
-
 alt3.meMA.C1.title = titles_gr_GR_cog.KanonATouOsiou
 alt3.meMA.C1.verse = prayers_gr_GR_cog.verse_SaintM.text
+
+alt3.meMA.C2.acrostic.title = "Κανὼν ἕτερος, τὴν ὑπόθεσιν λαμβάνων ἐκ τῶν γραφῶν τοῦ Ὁσίου Πατρός,"
+alt3.meMA.C2.acrostic.notice1 = "οὖ ἡ ἀκροστιχίς·"
+alt3.meMA.C2.acrostic.text = "Δέχου καὶ μὴ ἀπόρριπτε μέλος, ὦ Ἄθωνῖτα. Ἀ(θανάσιος)."
+alt3.meMA.C2.poet = poets_gr_GR_cog.AthanasiouSimonopetritou
+alt3.meMA.C2.title = titles_gr_GR_cog.KanonBTouOsiou
+alt3.meMA.C2.verse = prayers_gr_GR_cog.verse_SaintM.text
 
 alt3.meMA.Ode1C11.ode = misc_gr_GR_cog.Ode1
 alt3.meMA.Ode1C11.mode = misc_gr_GR_cog.Mode4
@@ -1371,12 +1378,6 @@ alt3.meMA.Ode1C1T.mode = misc_gr_GR_cog.Mode4
 alt3.meMA.Ode1C1T.melody = he.h.m4_gr_GR_cog.AnoixoToStomaMou.name
 alt3.meMA.Ode1C1T.incipit = "…"
 alt3.meMA.Ode1C1T.text = ""
-
-alt3.meMA.C2.poet = poets_gr_GR_cog.AthanasiouSimonopetritou
-alt3.meMA.C2.acrostic = ""
-
-alt3.meMA.C2.title = titles_gr_GR_cog.KanonBTouOsiou
-alt3.meMA.C2.verse = prayers_gr_GR_cog.verse_SaintM.text
 
 alt3.meMA.Ode1C21.ode = misc_gr_GR_cog.Ode1
 alt3.meMA.Ode1C21.mode = misc_gr_GR_cog.Mode6

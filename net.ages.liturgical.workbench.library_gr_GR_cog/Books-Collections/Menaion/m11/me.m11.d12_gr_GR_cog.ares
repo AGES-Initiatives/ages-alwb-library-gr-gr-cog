@@ -111,21 +111,18 @@ meVE.Apolytikion2.text = "Σοφίας τῷ ἄνθρακι, ἀποκαθά�
 
 meVE.MM.GeneralApolytikion2.text = properties_gr_GR_cog.media.key
 
-meMA.C1.acrostic.title = ""
-meMA.C1.acrostic.notice1 = ""
-meMA.C1.acrostic.text = ""
-//meMA.C1.acrostic.notice2 = ""
-meMA.C1.acrostic = "οὗ ἡ Ἀκροστιχὶς ἐν τῇ θʹ ᾨδῇ. Ἰωσήφ."
-
-meMA.C2.poet = poets_gr_GR_cog.Theofanous
-meMA.C2.acrostic.title = ""
-meMA.C2.acrostic.notice1 = ""
-meMA.C2.acrostic.text = ""
-//meMA.C2.acrostic.notice2 = ""
-meMA.C2.acrostic = "οὗ ἡ Ἀκροστιχίς· Ἄρδει με Νεῖλος γνωστικῇ παγκαρπίᾳ."
-
+meMA.C1.acrostic.title = "Ὁ Κανὼν τοῦ Ἱεράρχου,"
+meMA.C1.acrostic.notice1 = "οὗ ἡ Ἀκροστιχὶς ἐν τῇ θʹ ᾨδῇ·"
+meMA.C1.acrostic.text = "Ἰωσήφ."
 meMA.C1.title = titles_gr_GR_cog.KanonTouIerarchou
 meMA.C1.verse = prayers_gr_GR_cog.verse_SaintM.text
+
+meMA.C2.acrostic.title = "Ὁ Κανὼν τοῦ Ὁσίου,"
+meMA.C2.acrostic.notice1 = "οὗ ἡ Ἀκροστιχίς·"
+meMA.C2.acrostic.text = "Ἄρδει με Νεῖλος γνωστικῇ παγκαρπίᾳ."
+meMA.C2.poet = poets_gr_GR_cog.Theofanous
+meMA.C2.title = titles_gr_GR_cog.KanonTouOsiou
+meMA.C2.verse = prayers_gr_GR_cog.verse_DevoutMan.text
 
 meMA.Ode1C11.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C11.mode = misc_gr_GR_cog.Mode8
@@ -150,9 +147,6 @@ meMA.Ode1C1T.mode = misc_gr_GR_cog.Mode8
 meMA.Ode1C1T.melody = he.h.m8_gr_GR_cog.IKekommeni.name
 meMA.Ode1C1T.incipit = "Ἴνα τοὺς κάτω τοῖς ἄνω…"
 meMA.Ode1C1T.text = "Ἴνα τοὺς κάτω τοῖς ἄνω συνάψειεν, ὁ μόνος πάντων Θεός, μήτραν ἀπειρόγαμον, ὑπέδυ καὶ σαρκός, φανεὶς ἐν ὁμοιώματι, τῆς ἔχθρας τὸ μεσότοιχον ἑλών, εἰρήνην ἐμεσίτευσε, καὶ ζωὴν ἑβράβευσε, καὶ θείαν ἀπολύτρωσιν."
-
-meMA.C2.title = titles_gr_GR_cog.KanonTouOsiou
-meMA.C2.verse = prayers_gr_GR_cog.verse_DevoutMan.text
 
 meMA.Ode1C21.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C21.mode = misc_gr_GR_cog.Mode8

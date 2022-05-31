@@ -75,12 +75,9 @@ meVE.Apolytikion2.melody = ""
 meVE.Apolytikion2.incipit = "Τῶν Ὀρθοδόξων προστάτην καὶ ἐν…"
 meVE.Apolytikion2.text = "Τῶν Ὀρθοδόξων προστάτην καὶ ἐν σώματι ἄγγελον, καὶ θαυματουργὸν θεοφόρον νεοφανέντα ἡμῖν, ἐπαινέσωμεν πιστοὶ θεῖον Γεράσιμον· ὅτι ἀξίως παρὰ Θεοῦ ἀπείληφεν, ἰαμάτων τὴν ἀέναον χάριν· ῥώννυσι τοῦς νοσοῦντας καὶ δαιμονῶντας ἰᾶται. Διὸ καὶ τοῖς τιμῶσιν αὐτόν, βρύει ἰάματα."
 
-meMA.C1.acrostic.title = ""
-meMA.C1.acrostic.notice1 = ""
-meMA.C1.acrostic.text = ""
-//meMA.C1.acrostic.notice2 = ""
-meMA.C1.acrostic = "οὗ ἡ Ἀκροστιχίς· Τὴν σὴν νέμοις μοι πλουσίαν χάριν Μάκαρ. Ἰωσήφ."
-
+meMA.C1.acrostic.title = "Κανὼν τοῦ Ἁγίου,"
+meMA.C1.acrostic.notice1 = "οὗ ἡ Ἀκροστιχίς·"
+meMA.C1.acrostic.text = "Τὴν σὴν νέμοις μοι πλουσίαν χάριν Μάκαρ. Ἰωσήφ."
 meMA.C1.title = titles_gr_GR_cog.KanonTouAgiou
 meMA.C1.verse = prayers_gr_GR_cog.verse_SaintM.text
 
@@ -635,23 +632,32 @@ alt1.meMA.PostGospelIdiomelon.melody =
 alt1.meMA.PostGospelIdiomelon.incipit = "Τῆς φθορᾶς ἀποβαλὼν τὸ ἔνδυμα…"
 alt1.meMA.PostGospelIdiomelon.text = "Τῆς φθορᾶς ἀποβαλὼν τὸ ἔνδυμα, συντονωτάτῃ ἀσκήσει, τῆς ἀφθαρσίας ἠμφιάσω τὴν εὐπρέπειαν, τῇ τοῦ Ἁγίου Πνεύματος ἐνεργείᾳ, θεοφόρε Γεράσιμε· ὃ ἐμφαῖνον τὸ θεῖόν σου σκῆνος, ἄφθαρτον δέδοται ἡμῖν, πλῆρες χάριτος καὶ εὐωδίας, φθοροποιῶν νοσημάτων, ἀπαλλάττον τοὺς πάσχοντας. Ἀλλʼ ὦ Πάτερ θαυμαρτουργέ, αἴτει ἡμῖν φωτισμὸν καὶ θεῖον ἔλεος."
 
+alt1.meMA.C1.acrostic.title = "Κανὼν τῆς Θεοτόκου,"
+alt1.meMA.C1.acrostic.notice1 = "οὗ ἠ Ἀκροστιχίς·"
+alt1.meMA.C1.acrostic.text = "Σκέπε ἡμᾶς, Θεόνυμφε Κόρη. Γερασίμου."
 alt1.meMA.C1.poet = poets_gr_GR_cog.Gerasimou
-alt1.meMA.C1.acrostic = "οὗ ἠ Ἀκροστιχίς· Σκέπε ἡμᾶς, Θεόνυμφε Κόρη. Γερασίμου."
+alt1.meMA.C1.title = titles_gr_GR_cog.KanonTisTheotokou
+alt1.meMA.C1.verse = prayers_gr_GR_cog.verse_Theotokos.text
 
+alt1.meMA.C2.acrostic.title = "Κανὼν πρῶτος τοῦ Ἁγίου,"
+alt1.meMA.C2.acrostic.notice1 = "οὗ ἠ Ἀκροστιχίς·"
+alt1.meMA.C2.acrostic.text = "Γεράσιμος μέλπει σοι τῷ Γερασίμῳ. Ἀμήν."
 alt1.meMA.C2.poet = poets_gr_GR_cog.Gerasimou
-alt1.meMA.C2.acrostic = "οὗ ἠ Ἀκροστιχίς· Γεράσιμος μέλπει σοι τῷ Γερασίμῳ. Ἀμήν."
+alt1.meMA.C2.title = titles_gr_GR_cog.KanonATouOsiou
+alt1.meMA.C2.verse = prayers_gr_GR_cog.verse_DevoutMan.text
 
+alt1.meMA.C3.acrostic.title = "Κανὼν δεύτερος,"
+alt1.meMA.C3.acrostic.notice1 = "οὗ ἠ Ἀκροστιχίς·"
+alt1.meMA.C3.acrostic.text = "Γερασίμου αἴνεσις τῷ Γερασίμῳ. Ναὶ δή."
 alt1.meMA.C3.poet = poets_gr_GR_cog.Gerasimou
-alt1.meMA.C3.acrostic = "οὗ ἠ Ἀκροστιχίς· Γερασίμου αἴνεσις τῷ Γερασίμῳ. Ναὶ δή."
+alt1.meMA.C3.title = titles_gr_GR_cog.KanonBTouOsiou
+alt1.meMA.C3.verse = prayers_gr_GR_cog.verse_DevoutMan.text
 
 alt1.meMA.Ode1C1H.ode = misc_gr_GR_cog.Ode1
 alt1.meMA.Ode1C1H.mode = misc_gr_GR_cog.Mode8
 alt1.meMA.Ode1C1H.melody = misc_gr_GR_cog.Heirmos
 alt1.meMA.Ode1C1H.incipit = he.h.m8_gr_GR_cog.YgranDiodefsas.incipit
 alt1.meMA.Ode1C1H.text = he.h.m8_gr_GR_cog.YgranDiodefsas.text
-
-alt1.meMA.C1.title = titles_gr_GR_cog.KanonTisTheotokou
-alt1.meMA.C1.verse = prayers_gr_GR_cog.verse_Theotokos.text
 
 alt1.meMA.Ode1C11.ode = misc_gr_GR_cog.Ode1
 alt1.meMA.Ode1C11.mode = misc_gr_GR_cog.Mode8
@@ -677,9 +683,6 @@ alt1.meMA.Ode1C14.melody = he.h.m8_gr_GR_cog.YgranDiodefsas.name
 alt1.meMA.Ode1C14.incipit = "…"
 alt1.meMA.Ode1C14.text = "Πηγὴ εὐσπλαγχνίας τῆς θεϊκῆς, βλῦσον Θεοτόκε, ὕδωρ ἄφθαρτον τῆς ζωῆς, τοῖς ἐν τῷ θανάτῳ τηκομένοις, ἁμαρτιῶν καὶ πολλῶν παραπτώσεων."
 
-alt1.meMA.C2.title = titles_gr_GR_cog.KanonATouOsiou
-alt1.meMA.C2.verse = prayers_gr_GR_cog.verse_DevoutMan.text
-
 alt1.meMA.Ode1C21.ode = misc_gr_GR_cog.Ode1
 alt1.meMA.Ode1C21.mode = misc_gr_GR_cog.Mode8
 alt1.meMA.Ode1C21.melody = he.h.m8_gr_GR_cog.ArmatilatinFarao.name
@@ -703,9 +706,6 @@ alt1.meMA.Ode1C2T.mode = misc_gr_GR_cog.Mode8
 alt1.meMA.Ode1C2T.melody = he.h.m8_gr_GR_cog.ArmatilatinFarao.name
 alt1.meMA.Ode1C2T.incipit = "…"
 alt1.meMA.Ode1C2T.text = "Ἀπειρογάμως τοῦ παντὸς τὸν αἴτιον, ἐν εἴδει τῷ καθʼ ἠμᾶς, ὑπὲρ νοῦν καὶ λόγον, τέτοκας Πανάχραντε, ὃ ἦν μὲν διαμείναντα, τοῖς ἀνθρώποις δε πᾶσι, τὴν σωτηρίαν βραβεύσαντα, καὶ τὴν ἐκ τοῦ ᾍδου ἀνάκλησιν."
-
-alt1.meMA.C3.title = titles_gr_GR_cog.KanonBTouOsiou
-alt1.meMA.C3.verse = prayers_gr_GR_cog.verse_DevoutMan.text
 
 alt1.meMA.Ode1C31.ode = misc_gr_GR_cog.Ode1
 alt1.meMA.Ode1C31.mode = misc_gr_GR_cog.Mode4

@@ -92,16 +92,15 @@ meVE.Apolytikion2.melody = he.a.m3_gr_GR_cog.TheiasPisteos.name
 meVE.Apolytikion2.incipit = "Γνῶσιν ἔνθεον, καρποφορήσας, ὡς ὁμότροπος…"
 meVE.Apolytikion2.text = "Γνῶσιν ἔνθεον, καρποφορήσας, ὡς ὁμότροπος, τῶν Ἀποστόλων, ἐν ἱερεῦσι πιστὸς ἐχρημάτισας· καὶ μαρτυρίου τοῖς σκάμμασι Νίκανδρε, συγκοινωνὸν τὸν Ἑρμαῖον ἐκέκτησο· μεθʼ οὗ πρέσβευε, Κυρίῳ τῷ σὲ δοξάσαντι, δωρήσασθαι ἡμῖν τὸ μέγα ἔλεος."
 
-meMA.C1.acrostic.title = ""
-meMA.C1.acrostic.notice1 = ""
-meMA.C1.acrostic.text = ""
-//meMA.C1.acrostic.notice2 = ""
-meMA.C1.acrostic = "οὗ ἡ Ἀκροστιχίς· Τοῦ Προδρόμου σε τὸν μιμητὴν αἰνέσω. Ἰωσήφ."
-
-meMA.C2.poet = poets_gr_GR_cog.Iosif
-
+meMA.C1.acrostic.title = "Ὁ Κανὼν τοῦ Ὁσίου,"
+meMA.C1.acrostic.notice1 = "οὗ ἡ Ἀκροστιχίς·"
+meMA.C1.acrostic.text = "Τοῦ Προδρόμου σε τὸν μιμητὴν αἰνέσω. Ἰωσήφ."
 meMA.C1.title = titles_gr_GR_cog.KanonTouOsiou
 meMA.C1.verse = prayers_gr_GR_cog.verse_DevoutMan.text
+
+meMA.C2.poet = poets_gr_GR_cog.Iosif
+meMA.C2.title = titles_gr_GR_cog.KanonTonIeromartyron
+meMA.C2.verse = prayers_gr_GR_cog.verse_SaintsM.text
 
 meMA.Ode1C11.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C11.mode = misc_gr_GR_cog.Mode4
@@ -126,9 +125,6 @@ meMA.Ode1C1T.mode = misc_gr_GR_cog.Mode4
 meMA.Ode1C1T.melody = he.h.m4_gr_GR_cog.AnoixoToStomaMou.name
 meMA.Ode1C1T.incipit = "Πεσόντων ἀνάκλησις, καὶ ἱσταμένων βεβαίωσις…"
 meMA.Ode1C1T.text = "Πεσόντων ἀνάκλησις, καὶ ἱσταμένων βεβαίωσις, ὑπάρχεις Πανάμωμε· ὅθεν σου δέομαι, συμπεσόντα μου, τὸν νοῦν τῇ ἁμαρτίᾳ, ἀνόρθωσον Δέσποινα, ὅπως δοξάζω σε."
-
-meMA.C2.title = titles_gr_GR_cog.KanonTonIeromartyron
-meMA.C2.verse = prayers_gr_GR_cog.verse_SaintsM.text
 
 meMA.Ode1C21.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C21.mode = misc_gr_GR_cog.Mode4

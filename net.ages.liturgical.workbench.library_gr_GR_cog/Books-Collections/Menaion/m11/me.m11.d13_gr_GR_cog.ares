@@ -223,21 +223,21 @@ meMA.PostGospelIdiomelon.melody = ""
 meMA.PostGospelIdiomelon.incipit = me.m01.d01_gr_GR_cog.meVE.LityGlory.incipit
 meMA.PostGospelIdiomelon.text = me.m01.d01_gr_GR_cog.meVE.LityGlory.text
 
+meMA.C1.title = titles_gr_GR_cog.KanonTisTheotokou
+meMA.C1.verse = prayers_gr_GR_cog.verse_Theotokos.text
+
+meMA.C2.acrostic.title = "Ὁ Κανὼν τοῦ Ἁγίου,"
+meMA.C2.acrostic.notice1 = "οὗ ἡ Ἀκροστιχίς·"
+meMA.C2.acrostic.text = "Τοῦ Πνεύματος μέλπω σε τὸ χρυσοῦν στόμα."
 meMA.C2.poet = poets_gr_GR_cog.Theofanous
-meMA.C2.acrostic.title = ""
-meMA.C2.acrostic.notice1 = ""
-meMA.C2.acrostic.text = ""
-//meMA.C2.acrostic.notice2 = ""
-meMA.C2.acrostic = "οὗ ἡ Ἀκροστιχίς· Τοῦ Πνεύματος μέλπω σε τὸ χρυσοῦν στόμα."
+meMA.C2.title = titles_gr_GR_cog.KanonTouAgiou
+meMA.C2.verse = prayers_gr_GR_cog.verse_SaintM.text
 
 meMA.Ode1C1H.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C1H.mode = misc_gr_GR_cog.Mode8
 meMA.Ode1C1H.melody = he.h.m8_gr_GR_cog.YgranDiodefsas.melody
 meMA.Ode1C1H.incipit = he.h.m8_gr_GR_cog.YgranDiodefsas.incipit
 meMA.Ode1C1H.text = he.h.m8_gr_GR_cog.YgranDiodefsas.text
-
-meMA.C1.title = titles_gr_GR_cog.KanonTisTheotokou
-meMA.C1.verse = prayers_gr_GR_cog.verse_Theotokos.text
 
 meMA.Ode1C11.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C11.mode = misc_gr_GR_cog.Mode8
@@ -268,9 +268,6 @@ meMA.Ode1C15.mode = misc_gr_GR_cog.Mode8
 meMA.Ode1C15.melody = he.h.m8_gr_GR_cog.YgranDiodefsas.name
 meMA.Ode1C15.incipit = "Ἐν θλίψει με ὄντα…"
 meMA.Ode1C15.text = "Ἐν θλίψει με ὄντα καὶ συμφορᾷ, ἐπισκοπῆς θείας, καὶ προνοίας μόνη Ἁγνή, ἀξίωσον ὅπως σε δοξάζω, τὴν θεοδόξαστον καὶ ὑπεράμωμον."
-
-meMA.C2.title = titles_gr_GR_cog.KanonTouAgiou
-meMA.C2.verse = prayers_gr_GR_cog.verse_SaintM.text
 
 meMA.Ode1C21.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C21.mode = misc_gr_GR_cog.Mode8

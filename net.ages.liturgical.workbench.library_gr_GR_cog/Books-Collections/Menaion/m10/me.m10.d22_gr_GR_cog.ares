@@ -85,20 +85,17 @@ meVE.Apolytikion1.text = "Ἀποστόλων τὸν ζῆλον ἐκμιμη
 
 meVE.MM.GeneralApolytikion1.text = properties_gr_GR_cog.media.key
 
-meMA.C1.acrostic.title = ""
-meMA.C1.acrostic.notice1 = ""
-meMA.C1.acrostic.text = ""
-//meMA.C1.acrostic.notice2 = ""
-meMA.C1.acrostic = "οὗ ἡ Ἀκροστιχίς· Ἀβερκίου μέγιστον ἐξᾴδω κλέος. Ἰωσήφ."
-
-meMA.C2.acrostic.title = ""
-meMA.C2.acrostic.notice1 = ""
-meMA.C2.acrostic.text = ""
-//meMA.C2.acrostic.notice2 = ""
-meMA.C2.acrostic = "οὗ ἡ Ἀκροστιχίς· Τὴν ἑπτάφωτον Μαρτύρων σέβω χάριν. Ἰωσήφ."
-
+meMA.C1.acrostic.title = "Κανὼν τοῦ Ἱεράρχου,"
+meMA.C1.acrostic.notice1 = "οὗ ἡ Ἀκροστιχίς·"
+meMA.C1.acrostic.text = "Ἀβερκίου μέγιστον ἐξᾴδω κλέος. Ἰωσήφ."
 meMA.C1.title = titles_gr_GR_cog.KanonTouIerarchou
 meMA.C1.verse = prayers_gr_GR_cog.verse_SaintM.text
+
+meMA.C2.acrostic.title = "Κανὼν τῶν Μαρτύρων,"
+meMA.C2.acrostic.notice1 = "οὗ ἡ Ἀκροστιχίς·"
+meMA.C2.acrostic.text = "Τὴν ἑπτάφωτον Μαρτύρων σέβω χάριν. Ἰωσήφ."
+meMA.C2.title = titles_gr_GR_cog.KanonTonMartyron
+meMA.C2.verse = prayers_gr_GR_cog.verse_SaintsM.text
 
 meMA.Ode1C11.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C11.mode = misc_gr_GR_cog.Mode2
@@ -123,9 +120,6 @@ meMA.Ode1C1T.mode = misc_gr_GR_cog.Mode2
 meMA.Ode1C1T.melody = he.h.m2_gr_GR_cog.DefteLaoi.name
 meMA.Ode1C1T.incipit = "Ῥητορικαί, γλῶσσαι σοῦ λέγειν οὐ…"
 meMA.Ode1C1T.text = "Ῥητορικαί, γλῶσσαι σοῦ λέγειν οὐ σθένουσι, τὴν ὑπὲρ λόγον σύλληψιν· Θεὸν γὰρ τέτοκας, ἐν σαρκὶ Παναγία, ἡμῖν ὁμοιωθέντα, διʼ ἀγαθότητα."
-
-meMA.C2.title = titles_gr_GR_cog.KanonTonMartyron
-meMA.C2.verse = prayers_gr_GR_cog.verse_SaintsM.text
 
 meMA.Ode1C21.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C21.mode = misc_gr_GR_cog.Mode4

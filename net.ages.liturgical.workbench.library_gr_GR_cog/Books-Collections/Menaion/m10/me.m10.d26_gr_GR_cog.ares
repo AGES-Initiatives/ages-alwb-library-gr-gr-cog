@@ -169,34 +169,32 @@ meMA.PostGospelIdiomelon.melody = ""
 meMA.PostGospelIdiomelon.incipit = "Εἰς τὰ ὑπερκόσμια σκηνώματα, τὸ…"
 meMA.PostGospelIdiomelon.text = "Εἰς τὰ ὑπερκόσμια σκηνώματα, τὸ πνεῦμά σου Δημήτριε Μάρτυς σοφέ, Χριστὸς ὁ Θεὸς προσήκατο ἀμώμητον· σὺ γὰρ τῆς Τριάδος γέγονας ὑπέρμαχος, ἐν τῷ σταδίῳ ἀνδρείως ἐναθλήσας ὡς ἀδάμας στεῤῥός· λογχευθεὶς δὲ τὴν πλευράν, τὴν ἀκήρατόν σου πανσεβάσμιε, μιμούμενος τὸν ἐπὶ ξύλου τανυσθέντα, εἰς σωτηρίαν παντὸς τοῦ κόσμου, τῶν θαυμάτων εἴληφας τὴν ἐνέργειαν, ἀνθρώποις παρέχων τὰς ἰάσεις ἀφθόνως. Διό σου σήμερον, τὴν κοίμησιν ἑορτάζοντες, ἐπαξίως δοξάζομεν, τὸν σὲ δοξάσαντα Κύριον."
 
-meMA.C1.acrostic.title = ""
-meMA.C1.acrostic.notice1 = ""
-meMA.C1.acrostic.text = ""
-//meMA.C1.acrostic.notice2 = ""
-meMA.C1.acrostic = "οὗ ἡ Ἀκροστιχίς· Ὦ Χριστέ, τῆς γῆς τὸν κλόνον παῦσον τάχος. Ἰωσήφ."
+meMA.C1.acrostic.title = "Ὁ Κανὼν τοῦ Σείσμου,"
+meMA.C1.acrostic.notice1 = "οὗ ἡ Ἀκροστιχίς·"
+meMA.C1.acrostic.text = "Ὦ Χριστέ, τῆς γῆς τὸν κλόνον παῦσον τάχος. Ἰωσήφ."
+meMA.C1.title = "Ὁ Κανὼν τοῦ Σείσμοῦ."
+meMA.C1.verse = prayers_gr_GR_cog.verse_God.text
 
+meMA.C2.acrostic.title = "Τοῦ Ἁγίου πρῶτος Κανών,"
+meMA.C2.acrostic.notice1 = "ἔχων Ἀκροστιχίδα·"
+meMA.C2.acrostic.text = "Τῷ καλλινίκῳ προσλαλῶ Δημητρίῳ."
 meMA.C2.poet = poets_gr_GR_cog.Theofanous
-meMA.C2.acrostic.title = ""
-meMA.C2.acrostic.notice1 = ""
-meMA.C2.acrostic.text = ""
-//meMA.C2.acrostic.notice2 = ""
-meMA.C2.acrostic = "ἔχων Ἀκροστιχίδα· Τῷ καλλινίκῳ προσλαλῶ Δημητρίῳ."
+meMA.C2.title = titles_gr_GR_cog.KanonATouAgiou
+meMA.C2.verse = prayers_gr_GR_cog.verse_SaintM.text
 
+meMA.C3.acrostic.title = "Δεύτερος Κανών,"
+meMA.C3.acrostic.notice1 = "οὗ ἡ Ἀκροστιχίς·"
+meMA.C3.acrostic.text = "Μύρῳ νοητῷ προσπλακείς, μύρον γίνῃ."
+meMA.C3.acrostic.notice2 = "Ἐν δὲ τοῖς Θεοτοκίοις· Φιλοθέου."
 meMA.C3.poet = "Ποίημά ἐστιν οὗτος τοῦ ἁγιωτάτου καὶ οἰκουμενικοῦ Πατριάρχου κυρίου Φιλοθέου, ὑπόθεσιν ἔχων ἐγκωμίων ὁμοῦ καὶ δεήσεως εἰς τὸ ἱερὸν αὐτοῦ μύρον."
-meMA.C3.acrostic.title = ""
-meMA.C3.acrostic.notice1 = ""
-meMA.C3.acrostic.text = ""
-//meMA.C3.acrostic.notice2 = ""
-meMA.C3.acrostic = "οὗ ἡ Ἀκροστιχίς· Μύρῳ νοητῷ προσπλακείς, μύρον γίνῃ. Ἐν δὲ τοῖς Θεοτοκίοις."
+meMA.C3.title = titles_gr_GR_cog.KanonBTouAgiou
+meMA.C3.verse = prayers_gr_GR_cog.verse_SaintM.text
 
 meMA.Ode1C1H.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C1H.mode = misc_gr_GR_cog.Mode6
 meMA.Ode1C1H.melody = he.h.m6_gr_GR_cog.OsEnIpeiroPezefsas.melody
 meMA.Ode1C1H.incipit = he.h.m6_gr_GR_cog.OsEnIpeiroPezefsas.incipit
 meMA.Ode1C1H.text = he.h.m6_gr_GR_cog.OsEnIpeiroPezefsas.text
-
-meMA.C1.title = "Ὁ Κανὼν τοῦ Σεισμοῦ."
-meMA.C1.verse = prayers_gr_GR_cog.verse_God.text
 
 meMA.Ode1C11.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C11.mode = misc_gr_GR_cog.Mode6
@@ -222,9 +220,6 @@ meMA.Ode1C1T.melody = he.h.m6_gr_GR_cog.OsEnIpeiroPezefsas.name
 meMA.Ode1C1T.incipit = "Ἱκετευτικῶς σοι βοῶμεν Μῆτερ Θεοῦ…"
 meMA.Ode1C1T.text = "Ἱκετευτικῶς σοι βοῶμεν Μῆτερ Θεοῦ, τὰ συνήθη σπλάγχνα σου, ἐπὶ πόλιν καὶ λαόν, συμπαθῶς δεικνύουσα σεισμοῦ, βαρυτάτου καὶ φθορᾶς ἡμᾶς ἀπάλλαξον."
 
-meMA.C2.title = titles_gr_GR_cog.KanonATouAgiou
-meMA.C2.verse = prayers_gr_GR_cog.verse_SaintM.text
-
 meMA.Ode1C21.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C21.mode = misc_gr_GR_cog.Mode4
 meMA.Ode1C21.melody = he.h.m4_gr_GR_cog.ThalassisToErythraion.name
@@ -248,9 +243,6 @@ meMA.Ode1C2T.mode = misc_gr_GR_cog.Mode4
 meMA.Ode1C2T.melody = he.h.m4_gr_GR_cog.ThalassisToErythraion.name
 meMA.Ode1C2T.incipit = "Ἀμήτωρ, καθʼ ὃ Θεὸς τὸ…"
 meMA.Ode1C2T.text = "Ἀμήτωρ, καθʼ ὃ Θεὸς τὸ πρότερον, ὑπάρχων γέγονε, τὸ καθʼ ἡμᾶς ἀπάτωρ ὁ ἐκ σοῦ, Θεοτόκε πανύμνητε, σάρκα λαβὼν καθʼ ἕνωσιν, τὴν ὑπὲρ λόγον καὶ διάνοιαν."
-
-meMA.C3.title = titles_gr_GR_cog.KanonBTouAgiou
-meMA.C3.verse = prayers_gr_GR_cog.verse_SaintM.text
 
 meMA.Ode1C31.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C31.mode = misc_gr_GR_cog.Mode4

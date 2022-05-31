@@ -66,21 +66,18 @@ meVE.Apolytikion2.melody = he.a.m4_gr_GR_cog.OYpsotheisEnToStavro.name
 meVE.Apolytikion2.incipit = "Ἀσκητικῶς προγυμνασθεὶς ἐν τῷ ὄρει…"
 meVE.Apolytikion2.text = "Ἀσκητικῶς προγυμνασθεὶς ἐν τῷ ὄρει, τὰς νοητὰς τῶν δυσμενῶν παρατάξεις, τῇ πανοπλίᾳ ὤλεσας παμμάκαρ τοῦ Σταυροῦ, αὖθις δὲ πρὸς ἄθλησιν, ἀνδρικῶς ἀπεδύσω, κτείνας τὸν Κοπρώνυμον, τῷ τῆς πίστεως ξίφει· καὶ διʼ ἀμφοῖν ἐστέφθης ἐκ Θεοῦ, ὁσιομάρτυς Ἀνδρέα ἀοίδιμε."
 
+meMA.C1.acrostic.title = "Ὁ Κανὼν τοῦ Προφήτου,"
+meMA.C1.acrostic.notice1 = "οὗ ἡ Ἀκροστιχίς·"
+meMA.C1.acrostic.text = "Ὡσηὲ μέλπω τοὺς θεοπνεύστους λόγους."
 meMA.C1.poet = poets_gr_GR_cog.Theofanous
-meMA.C1.acrostic.title = ""
-meMA.C1.acrostic.notice1 = ""
-meMA.C1.acrostic.text = ""
-//meMA.C1.acrostic.notice2 = ""
-meMA.C1.acrostic = "οὗ ἡ Ἀκροστιχίς· Ὡσηὲ μέλπω τοὺς θεοπνεύστους λόγους."
+meMA.C1.title = titles_gr_GR_cog.KanonTouProfitou
+meMA.C1.verse = prayers_gr_GR_cog.verse_Prophet.text
 
-meMA.C2.acrostic.title = ""
-meMA.C2.acrostic.notice1 = ""
-meMA.C2.acrostic.text = ""
-//meMA.C2.acrostic.notice2 = ""
-meMA.C2.acrostic = "ἔχων Ἀκροστιχίδα τήνδε· Ἀνδρείας ὑμνῶ τὸν φερώνυμον πόθῳ. Ἰωσήφ."
-
-meMA.C1.title = ""
-meMA.C1.verse = ""
+meMA.C2.acrostic.title = "Ὁ Κανὼν τοῦ Ὁσιομάρτυρος,"
+meMA.C2.acrostic.notice1 = "ἔχων Ἀκροστιχίδα τήνδε·"
+meMA.C2.acrostic.text = "Ἀνδρείας ὑμνῶ τὸν φερώνυμον πόθῳ. Ἰωσήφ."
+meMA.C2.title = titles_gr_GR_cog.KanonTouOsiomartyros
+meMA.C2.verse = prayers_gr_GR_cog.verse_SaintM.text
 
 meMA.Ode1C11.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C11.mode = misc_gr_GR_cog.Mode1
@@ -105,9 +102,6 @@ meMA.Ode1C1T.mode = misc_gr_GR_cog.Mode1
 meMA.Ode1C1T.melody = he.h.m1_gr_GR_cog.ToVoithisantiTheo.name
 meMA.Ode1C1T.incipit = "Ἐπιφανέντα τὸν Χριστόν, ἐκ Παρθένου…"
 meMA.Ode1C1T.text = "Ἐπιφανέντα τὸν Χριστόν, ἐκ Παρθένου διʼ ἡμᾶς, ἐκ τῆς Αἰγύπτου προφανῶς, ὁ Πατὴρ ἐκάλεσεν, Ὡσηὲ ὡς προεῖπε, πάλαι ὁ θεοπτικώτατος."
-
-meMA.C2.title = ""
-meMA.C2.verse = ""
 
 meMA.Ode1C21.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C21.mode = misc_gr_GR_cog.Mode2

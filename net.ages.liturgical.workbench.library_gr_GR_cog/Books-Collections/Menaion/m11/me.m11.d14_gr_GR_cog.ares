@@ -86,13 +86,10 @@ meVE.Apolytikion3.melody = he.a.m1_gr_GR_cog.TisErimouPolitis.name
 meVE.Apolytikion3.incipit = "Τὸν λαμπρὸν γόνον Ὕδρας καὶ…"
 meVE.Apolytikion3.text = "Τὸν λαμπρὸν γόνον Ὕδρας καὶ τῆς Ῥόδου τὸ καύχημα, καὶ Νεομαρτύρων τὸ κλέος, Κωνσταντῖνον τιμήσωμεν, ἐν ὕμνοις καὶ ᾠδαῖς πνευματικαῖς, τὴν μνήμην ἐκτελοῦντες τὴν αὐτοῦ, ἵνα λάβωμεν πλουσίαν τὴν ἀμοιβήν, παρὰ Θεοῦ κραυγάζοντες· δόξα τῷ σὲ δοξάσαντι Χριστῷ, δόξα τῷ σὲ ἐνισχύσαντι, καὶ ἐν ὑστέροις καιροῖς σε στεφανώσαντι."
 
+meMA.C1.acrostic.title = "Κανὼν τοῦ Ἀποστόλου,"
+meMA.C1.acrostic.notice1 = "οὗ ἡ Ἀκροστιχίς·"
+meMA.C1.acrostic.text = "Τὸν εὐκλεῆ Φίλιππον ὑμνῶ πῥοφρόνως."
 meMA.C1.poet = poets_gr_GR_cog.Theofanous
-meMA.C1.acrostic.title = ""
-meMA.C1.acrostic.notice1 = ""
-meMA.C1.acrostic.text = ""
-//meMA.C1.acrostic.notice2 = ""
-meMA.C1.acrostic = "οὗ ἡ Ἀκροστιχίς· Τὸν εὐκλεῆ Φίλιππον ὑμνῶ πῥοφρόνως."
-
 meMA.C1.title = titles_gr_GR_cog.KanonTouApostolou
 meMA.C1.verse = prayers_gr_GR_cog.verse_Apostle.text
 
@@ -600,14 +597,19 @@ alt1.meMA.PostGospelIdiomelon.melody = ""
 alt1.meMA.PostGospelIdiomelon.incipit = me.m01.d01_gr_GR_cog.meVE.LityGlory.incipit
 alt1.meMA.PostGospelIdiomelon.text = me.m01.d01_gr_GR_cog.meVE.LityGlory.text
 
-alt1.meMA.C1.poet = ""
-alt1.meMA.C1.acrostic = "οὗ ἡ ἀκροστιχίς· Τῶν θεολόγων συνῳδὸν ὑμνῶ τῶν μεγάλων. Ἐν δὲ τοῖς Θεοτοκίοις· Φιλόθεος."
-
-alt1.meMA.C2.poet = ""
-alt1.meMA.C2.acrostic = "οὗ ἡ ἀκροστιχίς· Στάθμην ἀνυμνῶ δογμάτων τῶν ἐνθέων. Ἐν δὲ τοῖς Θεοτοκίοις· Φιλόθεος."
-
+alt1.meMA.C1.acrostic.title = "Ὁ Αʹ Κανὼν τοῦ Ἱεράρχου,"
+alt1.meMA.C1.acrostic.notice1 = "οὗ ἡ ἀκροστιχίς·"
+alt1.meMA.C1.acrostic.text = "Τῶν θεολόγων συνῳδὸν ὑμνῶ τῶν μεγάλων."
+alt1.meMA.C1.acrostic.notice2 = "Ἐν δὲ τοῖς Θεοτοκίοις· Φιλόθεος."
 alt1.meMA.C1.title = titles_gr_GR_cog.KanonATouAgiou
 alt1.meMA.C1.verse = prayers_gr_GR_cog.verse_SaintM.text
+
+alt1.meMA.C2.acrostic.title = "Ὁ Βʹ Κανὼν τοῦ Ἱεράρχου,"
+alt1.meMA.C2.acrostic.notice1 = "οὗ ἡ ἀκροστιχίς·"
+alt1.meMA.C2.acrostic.text = "Στάθμην ἀνυμνῶ δογμάτων τῶν ἐνθέων."
+alt1.meMA.C2.acrostic.notice2 = "Ἐν δὲ τοῖς Θεοτοκίοις· Φιλόθεος."
+alt1.meMA.C2.title = titles_gr_GR_cog.KanonBTouAgiou
+alt1.meMA.C2.verse = prayers_gr_GR_cog.verse_SaintM.text
 
 alt1.meMA.Ode1C11.ode = misc_gr_GR_cog.Ode1
 alt1.meMA.Ode1C11.mode = misc_gr_GR_cog.Mode8
@@ -638,9 +640,6 @@ alt1.meMA.Ode1C1T.mode = misc_gr_GR_cog.Mode8
 alt1.meMA.Ode1C1T.melody = he.h.m8_gr_GR_cog.ArmatilatinFarao.name
 alt1.meMA.Ode1C1T.incipit = "Φίλοι σοφίας γεγονότες ἔνθεοι, ἐνυποστάτου…"
 alt1.meMA.Ode1C1T.text = "Φίλοι σοφίας γεγονότες ἔνθεοι, ἐνυποστάτου Θεοῦ, καὶ ἱερὸς οἶκος, τὸν ναὸν τὸν ἔμψυχον, ὃν ἑαυτῷ ἐδείματο, τὴν Παρθένον τοῖς λόγοις, ὡς Θεοτόκον ἐκήρυξαν, κόσμῳ τὰ τῆς χάριτος ὄργανα."
-
-alt1.meMA.C2.title = titles_gr_GR_cog.KanonBTouAgiou
-alt1.meMA.C2.verse = prayers_gr_GR_cog.verse_SaintM.text
 
 alt1.meMA.Ode1C21.ode = misc_gr_GR_cog.Ode1
 alt1.meMA.Ode1C21.mode = misc_gr_GR_cog.Mode1

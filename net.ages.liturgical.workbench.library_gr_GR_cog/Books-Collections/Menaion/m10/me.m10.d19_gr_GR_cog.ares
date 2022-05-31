@@ -69,21 +69,18 @@ meVE.Apolytikion2.melody = he.a.m5_gr_GR_cog.TonSynanarchonLogon.name
 meVE.Apolytikion2.incipit = "Τῶν Μαρτύρων ζηλώσας τὰ κατορθώματα…"
 meVE.Apolytikion2.text = "Τῶν Μαρτύρων ζηλώσας τὰ κατορθώματα, μαρτυρικῶς ἠγωνίσω ὑπὲρ τῆς δόξης Χριστοῦ, καὶ καθεῖλες τὸν ἐχθρὸν παμμάκαρ Οὔαρε· ἐν γὰρ ἰκρίῳ προσδεθείς, πρὸς τῷ ξύλῳ τῆς ζωῆς, νομίμως ἀποκατέστης, πρεσβευτικῇ χορηγίᾳ, καταφαιδρύνων τὰς ψυχὰς ἡμῶν."
 
+meMA.C1.acrostic.title = "Ὁ Κανὼν τοῦ Προφήτου,"
+meMA.C1.acrostic.notice1 = "οὗ ἡ Ἀκροστιχίς·"
+meMA.C1.acrostic.text = "Χρησμούς, Ἰωὴλ τοῦ Προφήτου θαυμάσω."
 meMA.C1.poet = poets_gr_GR_cog.Theofanous
-meMA.C1.acrostic.title = ""
-meMA.C1.acrostic.notice1 = ""
-meMA.C1.acrostic.text = ""
-//meMA.C1.acrostic.notice2 = ""
-meMA.C1.acrostic = "οὗ ἡ Ἀκροστιχίς· Χρησμούς, Ἰωὴλ τοῦ Προφήτου θαυμάσω."
+meMA.C1.title = titles_gr_GR_cog.KanonTouProfitou
+meMA.C1.verse = prayers_gr_GR_cog.verse_Prophet.text
 
-meMA.C2.acrostic.title = ""
-meMA.C2.acrostic.notice1 = ""
-meMA.C2.acrostic.text = ""
-//meMA.C2.acrostic.notice2 = ""
-meMA.C2.acrostic = "φέρων Ἀκροστιχίδα· Ἄθλους ἐπαινεῖν Οὐάρου κλέος μέγα. Ἰωσήφ."
-
-meMA.C1.title = ""
-meMA.C1.verse = ""
+meMA.C2.acrostic.title = "Ὁ Κανὼν τοῦ Μάρτυρος,"
+meMA.C2.acrostic.notice1 = "φέρων Ἀκροστιχίδα·"
+meMA.C2.acrostic.text = "Ἄθλους ἐπαινεῖν Οὐάρου κλέος μέγα. Ἰωσήφ."
+meMA.C2.title = titles_gr_GR_cog.KanonTouMartyros
+meMA.C2.verse = prayers_gr_GR_cog.verse_SaintM.text
 
 meMA.Ode1C11.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C11.mode = misc_gr_GR_cog.Mode2
@@ -108,9 +105,6 @@ meMA.Ode1C1T.mode = misc_gr_GR_cog.Mode2
 meMA.Ode1C1T.melody = he.h.m2_gr_GR_cog.DefteLaoi.name
 meMA.Ode1C1T.incipit = "Σὲ ἡ σκηνή, τοῦ μαρτυρίου…"
 meMA.Ode1C1T.text = "Σὲ ἡ σκηνή, τοῦ μαρτυρίου προέγραψε, πολυειδῶς τυπούμενον, ἀποδεικνύουσα, τὸν ἐκ σοῦ σαρκωθέντα, ἀτρέπτως Θεομῆτορ, Πάναγνε Δέσποινα."
-
-meMA.C2.title = ""
-meMA.C2.verse = ""
 
 meMA.Ode1C21.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C21.mode = misc_gr_GR_cog.Mode6

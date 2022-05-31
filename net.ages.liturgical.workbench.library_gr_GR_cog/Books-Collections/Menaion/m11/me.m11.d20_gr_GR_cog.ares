@@ -92,25 +92,27 @@ meMA.Kathisma21.melody = he.a.m4_gr_GR_cog.TachyProkatalave.name
 meMA.Kathisma21.incipit = "Δαυῒδ προοδοποίησον, ἐν τῷ Ναῷ…"
 meMA.Kathisma21.text = "Δαυῒδ προοδοποίησον, ἐν τῷ Ναῷ τοῦ Θεοῦ, καὶ χαίρων ὑπόδεξαι τὴν Βασιλίδα ἡμῶν, καὶ ταύτῃ ἐκβόησον. Εἴσελθε ἡ Κυρία, εἰς ναὸν Βασιλέως, εἴσελθε, ἧς ἡ δόξα, κεκρυμμένως νοεῖται, ἐξ ἧς μέλι καὶ γάλα μέλλει πηγάσειν, πᾶσι τὸ φῶς ὁ Χριστός."
 
+meMA.C1.acrostic.title = "Κανὼν Προεόρτιος,"
+meMA.C1.acrostic.notice1 = "οὗ ἡ Ἀκροστιχὶς κατὰ ἀλφάβητον."
 meMA.C1.poet = poets_gr_GR_cog.Iosif
-meMA.C1.acrostic.title = ""
-meMA.C1.acrostic.notice1 = ""
-meMA.C1.acrostic.text = ""
-//meMA.C1.acrostic.notice2 = ""
-meMA.C1.acrostic = "οὗ ἡ Ἀκροστιχὶς κατὰ ἀλφάβητον μέχρι τῆς ἑβδόμης ᾠδῆς."
+meMA.C1.title = titles_gr_GR_cog.KanonProeortios
+meMA.C1.verse = prayers_gr_GR_cog.verse_Theotokos.text
 
+meMA.C2.acrostic.title = "Ὁ Κανὼν τοῦ Ἁγίου Γρηγορίου."
 meMA.C2.poet = poets_gr_GR_cog.Iosif
+meMA.C2.title = "Κανὼν τοῦ Ἁγίου Γρηγορίου."
+meMA.C2.verse = prayers_gr_GR_cog.verse_DevoutMan.text
 
+meMA.C3.acrostic.title = "Ὁ Κανὼν τοῦ Ἁγίου Πρόκλου."
 meMA.C3.poet = poets_gr_GR_cog.Theofanous
+meMA.C3.title = "Κανὼν τοῦ Ἁγίου Πρόκλου."
+meMA.C3.verse = prayers_gr_GR_cog.verse_SaintM.text
 
 meMA.Ode1C1H.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C1H.mode = misc_gr_GR_cog.Mode4
 meMA.Ode1C1H.melody = he.h.m4_gr_GR_cog.AnoixoToStomaMou_Eisodia.melody
 meMA.Ode1C1H.incipit = he.h.m4_gr_GR_cog.AnoixoToStomaMou_Eisodia.incipit
 meMA.Ode1C1H.text = he.h.m4_gr_GR_cog.AnoixoToStomaMou_Eisodia.text
-
-meMA.C1.title = titles_gr_GR_cog.KanonProeortios
-meMA.C1.verse = prayers_gr_GR_cog.verse_Theotokos.text
 
 meMA.Ode1C11.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C11.mode = misc_gr_GR_cog.Mode4
@@ -136,9 +138,6 @@ meMA.Ode1C14.melody = he.h.m4_gr_GR_cog.AnoixoToStomaMou_Eisodia.name
 meMA.Ode1C14.incipit = "Δυνάμωσον Δέσποινα, τὸ ἀσθενὲς τῆς…"
 meMA.Ode1C14.text = "Δυνάμωσον Δέσποινα, τὸ ἀσθενὲς τῆς καρδίας μου, καὶ στήριξον πάθεσι, περιτρεπόμενον, ὅπως πίστει σε, καὶ πόθῳ μακαρίζω, τὴν Ἀειμακάριστον, καὶ παναμώμητον."
 
-meMA.C2.title = titles_gr_GR_cog.KanonTouOsiou
-meMA.C2.verse = prayers_gr_GR_cog.verse_DevoutMan.text
-
 meMA.Ode1C21.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C21.mode = misc_gr_GR_cog.Mode8
 meMA.Ode1C21.melody = he.h.m8_gr_GR_cog.ArmatilatinFarao.name
@@ -162,9 +161,6 @@ meMA.Ode1C2T.mode = misc_gr_GR_cog.Mode8
 meMA.Ode1C2T.melody = he.h.m8_gr_GR_cog.ArmatilatinFarao.name
 meMA.Ode1C2T.incipit = "Ἡ ἀπὸ γῆς πρὸς οὐρανὸν…"
 meMA.Ode1C2T.text = "Ἡ ἀπὸ γῆς πρὸς οὐρανὸν διήκουσα, κλῖμαξ οὐράνιος, διʼ ἧς Θεοῦ Λόγος, τοῖς βροτοῖς ὡμίλησεν, εὐλογημένη Πάναγνε, ἀνερμήνευτον θαῦμα, ἀκατανόητον ὅραμα, σῷζε τοὺς εἰς σὲ καταφεύγοντας."
-
-meMA.C3.title = ""
-meMA.C3.verse = ""
 
 meMA.Ode1C31.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C31.mode = misc_gr_GR_cog.Mode1

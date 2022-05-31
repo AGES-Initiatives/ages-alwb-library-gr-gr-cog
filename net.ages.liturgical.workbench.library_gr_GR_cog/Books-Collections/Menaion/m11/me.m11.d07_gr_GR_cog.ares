@@ -88,21 +88,18 @@ meVE.Apolytikion2.melody = ""
 meVE.Apolytikion2.incipit = "Ταῖς ἐπαγρύπνοις προσευχαῖς…"
 meVE.Apolytikion2.text = "Ταῖς ἐπαγρύπνοις προσευχαῖς, ἐν ὀχετοῖς δακρύων τὸν στῦλον κατέβρεχες, καὶ τοῖς ἐκ βάθων στεναγμοῖς, εἰς ἑκατὸν τοὺς πόνους ἐκαρποφόρησας, καὶ γέγονας ποιμήν, τοῖς προσιοῦσι νέμων συγχώρησιν, Ὅσιε Πατὴρ ἡμῶν Λάζαρε, πρέσβευε Χριστῷ τῷ Θεῷ σωθῆναι τὰς ψυχὰς ἡμῶν."
 
+meMA.C1.acrostic.title = "Ὁ Κανὼν τῶν Μαρτύρων,"
+meMA.C1.acrostic.notice1 = "οὗ ἡ Ἀκροστιχίς·"
+meMA.C1.acrostic.text = "Δόξα κροτείσθω Χριστὸς ἡ τῶν Μαρτύρων."
 meMA.C1.poet = poets_gr_GR_cog.IoannouMonachou
-meMA.C1.acrostic.title = ""
-meMA.C1.acrostic.notice1 = ""
-meMA.C1.acrostic.text = ""
-//meMA.C1.acrostic.notice2 = ""
-meMA.C1.acrostic = "οὗ ἡ Ἀκροστιχίς· Δόξα κροτείσθω Χριστὸς ἡ τῶν Μαρτύρων."
-
-meMA.C2.acrostic.title = ""
-meMA.C2.acrostic.notice1 = ""
-meMA.C2.acrostic.text = ""
-//meMA.C2.acrostic.notice2 = ""
-meMA.C2.acrostic = "ἔχων Ἀκροστιχίδα. Λάζαρε μάκαρ, τοὺς ἐμοὺς ὕμνους δέχου."
-
 meMA.C1.title = titles_gr_GR_cog.KanonTonMartyron
 meMA.C1.verse = prayers_gr_GR_cog.verse_SaintsM.text
+
+meMA.C2.acrostic.title = "Ὁ Κανὼν τοῦ Ὁσίου,"
+meMA.C2.acrostic.notice1 = "ἔχων Ἀκροστιχίδα·"
+meMA.C2.acrostic.text = "Λάζαρε μάκαρ, τοὺς ἐμοὺς ὕμνους δέχου."
+meMA.C2.title = titles_gr_GR_cog.KanonTouOsiou
+meMA.C2.verse = prayers_gr_GR_cog.verse_DevoutMan.text
 
 meMA.Ode1C11.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C11.mode = misc_gr_GR_cog.Mode2
@@ -127,9 +124,6 @@ meMA.Ode1C1T.mode = misc_gr_GR_cog.Mode2
 meMA.Ode1C1T.melody = he.h.m2_gr_GR_cog.DefteLaoi.name
 meMA.Ode1C1T.incipit = "Ἄρτον ζωῆς, τὸν ἐπουράνιον τέτοκας…"
 meMA.Ode1C1T.text = "Ἄρτον ζωῆς, τὸν ἐπουράνιον τέτοκας, σεσαρκωμένον Πάναγνε, τὸν πρὶν ἀσώματον, ἐνυπόστατον Λόγον, ὃν περ οἱ τῶν Μαρτύρων, δῆμοι δοξάζουσιν."
-
-meMA.C2.title = titles_gr_GR_cog.KanonTouOsiou
-meMA.C2.verse = prayers_gr_GR_cog.verse_DevoutMan.text
 
 meMA.Ode1C21.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C21.mode = misc_gr_GR_cog.Mode4
@@ -719,8 +713,8 @@ alt1.meMA.PostGospelIdiomelon.melody = ""
 alt1.meMA.PostGospelIdiomelon.incipit = "…"
 alt1.meMA.PostGospelIdiomelon.text = ""
 
-alt1.meMA.C1.title = ""
-alt1.meMA.C1.verse = ""
+alt1.meMA.C1.title = titles_gr_GR_cog.KanonTouAgiou
+alt1.meMA.C1.verse = prayers_gr_GR_cog.verse_SaintM.text
 
 alt1.meMA.Ode1C11.ode = misc_gr_GR_cog.Ode1
 alt1.meMA.Ode1C11.mode = misc_gr_GR_cog.Mode6

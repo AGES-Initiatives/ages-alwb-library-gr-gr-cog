@@ -89,16 +89,15 @@ meMA.Kathisma2T.melody = he.a.m4_gr_GR_cog.OYpsotheisEnToStavro.name
 meMA.Kathisma2T.incipit = oc.m4.d3_gr_GR_cog.ocVE.ApolTheotokionVM.incipit
 meMA.Kathisma2T.text = oc.m4.d3_gr_GR_cog.ocVE.ApolTheotokionVM.text
 
-meMA.C1.acrostic.title = ""
-meMA.C1.acrostic.notice1 = ""
-meMA.C1.acrostic.text = ""
-//meMA.C1.acrostic.notice2 = ""
-meMA.C1.acrostic = "οὗ ἡ Ἀκροστιχίς· Τὸν πρῶτον ὑμνῶ τῶν ἀσωμάτων Νόων. Ἰωσήφ."
-
-meMA.C2.poet = poets_gr_GR_cog.Iosif
-
+meMA.C1.acrostic.title = "Ο Κανὼν τοῦ Ἀρχιστρατήγου,"
+meMA.C1.acrostic.notice1 = "οὗ ἡ Ἀκροστιχίς·"
+meMA.C1.acrostic.text = "Τὸν πρῶτον ὑμνῶ τῶν ἀσωμάτων Νόων. Ἰωσήφ."
 meMA.C1.title = titles_gr_GR_cog.KanonTouArchangelou
 meMA.C1.verse = prayers_gr_GR_cog.verse_Archangel.text
+
+meMA.C2.poet = poets_gr_GR_cog.Iosif
+meMA.C2.title = titles_gr_GR_cog.KanonTouArchangelou
+meMA.C2.verse = prayers_gr_GR_cog.verse_Archangel.text
 
 meMA.Ode1C11.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C11.mode = misc_gr_GR_cog.Mode4
@@ -123,9 +122,6 @@ meMA.Ode1C1T.mode = misc_gr_GR_cog.Mode4
 meMA.Ode1C1T.melody = he.h.m4_gr_GR_cog.AnoixoToStomaMou.name
 meMA.Ode1C1T.incipit = "Παρθένε πανάμωμε, ἡ τῶν Ἀγγέλων…"
 meMA.Ode1C1T.text = "Παρθένε πανάμωμε, ἡ τῶν Ἀγγέλων εὐπρέπεια, ἀνθρώπων βοήθεια, σὺ μοι βοήθησον, θαλαττεύοντι, καὶ ζάλῃ ἁμαρτίας, ἀεὶ περιπίπτοντι, καὶ κινδυνεύοντι."
-
-meMA.C2.title = titles_gr_GR_cog.KanonTouArchangelou
-meMA.C2.verse = prayers_gr_GR_cog.verse_Archangel.text
 
 meMA.Ode1C21.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C21.mode = misc_gr_GR_cog.Mode4

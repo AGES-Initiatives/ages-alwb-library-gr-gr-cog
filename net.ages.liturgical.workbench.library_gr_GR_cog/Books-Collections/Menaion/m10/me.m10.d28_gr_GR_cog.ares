@@ -57,15 +57,15 @@ meVE.SticStavrotheotokion.melody = he.a.m8_gr_GR_cog.OTouParadoxou.name
 meVE.SticStavrotheotokion.incipit = me.m03.d12_gr_GR_cog.meVE.SticStavrotheotokion.incipit
 meVE.SticStavrotheotokion.text = me.m03.d12_gr_GR_cog.meVE.SticStavrotheotokion.text
 
-meMA.C2.poet = poets_gr_GR_cog.Theofanous
-meMA.C2.acrostic.title = ""
-meMA.C2.acrostic.notice1 = ""
-meMA.C2.acrostic.text = ""
-//meMA.C2.acrostic.notice2 = ""
-meMA.C2.acrostic = "οὗ ἡ Ἀκροστιχίς· Σοὶ Στέφανε στέφανόν σοι ὁμώνυμον οἴσομεν ὕμνον."
-
-meMA.C1.title = titles_gr_GR_cog.KanonTonAgion
+meMA.C1.title = titles_gr_GR_cog.KanonTonMartyron
 meMA.C1.verse = prayers_gr_GR_cog.verse_SaintsM.text
+
+meMA.C2.acrostic.title = "Ο Κανὼν τοῦ Ὁσίου,"
+meMA.C2.acrostic.notice1 = "οὗ ἡ Ἀκροστιχίς·"
+meMA.C2.acrostic.text = "Σοὶ Στέφανε στέφανόν σοι ὁμώνυμον οἴσομεν ὕμνον."
+meMA.C2.poet = poets_gr_GR_cog.Theofanous
+meMA.C2.title = titles_gr_GR_cog.KanonTouOsiou
+meMA.C2.verse = prayers_gr_GR_cog.verse_DevoutMan.text
 
 meMA.Ode1C11.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C11.mode = misc_gr_GR_cog.Mode4
@@ -90,9 +90,6 @@ meMA.Ode1C1T.mode = misc_gr_GR_cog.Mode4
 meMA.Ode1C1T.melody = he.h.m4_gr_GR_cog.AnoixoToStomaMou.name
 meMA.Ode1C1T.incipit = "Χαρᾶς ἡμῖν πρόξενος, ὡς δεξαμένη…"
 meMA.Ode1C1T.text = "Χαρᾶς ἡμῖν πρόξενος, ὡς δεξαμένη τὸ πλήρωμα, τῆς ὅλης θεότητος, ὤφθης πανάμωμε· ὅθεν πάντες σοι, τὸ Χαῖρε τοῦ Ἀγγέλου, συμφώνως κραυγάζομεν, Θεοχαρίτωτε."
-
-meMA.C2.title = titles_gr_GR_cog.KanonTouOsiou
-meMA.C2.verse = prayers_gr_GR_cog.verse_DevoutMan.text
 
 meMA.Ode1C21.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C21.mode = misc_gr_GR_cog.Mode2
@@ -715,18 +712,23 @@ alt1.meMA.PostGospelIdiomelon.melody = ""
 alt1.meMA.PostGospelIdiomelon.incipit = "Σήμερον ἡ πανύμνητος Παρθένος…"
 alt1.meMA.PostGospelIdiomelon.text = "Σήμερον ἡ πανύμνητος Παρθένος, τὴν φωταυγῆ αὐτῆς Σκέπην ἐφαπλώσασα, τοῖς πιστοῖς ἀριδήλως ἐδήλωσε, τὴν πλουσίαν αὐτῆς εὔνοιαν, ἐν εὐκαιρίαις καὶ θλίψεσι· ὅθεν τὴν χάριν αὐτῆς αἰνοῦντες, οἱ παρʼ αὐτῆς σκεπόμενοι, ἐν εὐφροσύνῃ βοήσωμεν· Χαῖρε Κεχαριτωμένῃ Θεοτόκε, ἡ σῴζουσα τὸ Γένος ἡμῶν, καὶ ἀσφαλῶς περιεποῦσα, καὶ ὁδηγοῦσα πρὸς ὁδὸν σωτήριον."
 
-alt1.meMA.C1.acrostic = "οὗ ἡ Ἀκροστιχίς· Σὺ εἶ, Παρθένε, Ἑλλάδος σκέπη. Γερασίμου."
+alt1.meMA.C1.acrostic.title = "Κανὼν πρῶτος,"
+alt1.meMA.C1.acrostic.notice1 = "οὗ ἡ Ἀκροστιχίς·"
+alt1.meMA.C1.acrostic.text = "Σὺ εἶ, Παρθένε, Ἑλλάδος σκέπη. Γερασίμου."
+alt1.meMA.C1.title = titles_gr_GR_cog.KanonATisTheotokou
+alt1.meMA.C1.verse = prayers_gr_GR_cog.verse_Theotokos.text
 
-alt1.meMA.C2.acrostic = "οὗ ἡ Ἀκροστιχίς· Σκέπην ὑμνέω τῆς Θεοτόκου. Γερασίμου."
+alt1.meMA.C2.acrostic.title = "Κανὼν δεύτερος,"
+alt1.meMA.C2.acrostic.notice1 = "οὗ ἡ Ἀκροστιχίς·"
+alt1.meMA.C2.acrostic.text = "Σκέπην ὑμνέω τῆς Θεοτόκου. Γερασίμου."
+alt1.meMA.C2.title = titles_gr_GR_cog.KanonBTisTheotokou
+alt1.meMA.C2.verse = prayers_gr_GR_cog.verse_Theotokos.text
 
 alt1.meMA.Ode1C1H.ode = misc_gr_GR_cog.Ode1
 alt1.meMA.Ode1C1H.mode = misc_gr_GR_cog.Mode4
 alt1.meMA.Ode1C1H.melody = misc_gr_GR_cog.Heirmos
 alt1.meMA.Ode1C1H.incipit = he.h.m4_gr_GR_cog.AnoixoToStomaMou.incipit
 alt1.meMA.Ode1C1H.text = he.h.m4_gr_GR_cog.AnoixoToStomaMou.text
-
-alt1.meMA.C1.title = titles_gr_GR_cog.KanonATisTheotokou
-alt1.meMA.C1.verse = prayers_gr_GR_cog.verse_Theotokos.text
 
 alt1.meMA.Ode1C11.ode = misc_gr_GR_cog.Ode1
 alt1.meMA.Ode1C11.mode = misc_gr_GR_cog.Mode4
@@ -751,9 +753,6 @@ alt1.meMA.Ode1C14.mode = misc_gr_GR_cog.Mode4
 alt1.meMA.Ode1C14.melody = he.h.m4_gr_GR_cog.AnoixoToStomaMou.name
 alt1.meMA.Ode1C14.incipit = "Ἰσχὺν ἀπροσμάχητον…"
 alt1.meMA.Ode1C14.text = "Ἰσχὺν ἀπροσμάχητον, τὸ τοῦ σοῦ Ἔθνους στρατόπεδον, λαβὸν ἐκ τῆς Σκέπης σου, κατετροπώσατο, ἐχθρῶν φάλαγγας, καὶ ἦρε λαμπρὰν νίκην· διὸ μέλπει Δέσποινα, τὰ μεγαλεῖα σου."
-
-alt1.meMA.C2.title = titles_gr_GR_cog.KanonBTisTheotokou
-alt1.meMA.C2.verse = prayers_gr_GR_cog.verse_Theotokos.text
 
 alt1.meMA.Ode1C21.ode = misc_gr_GR_cog.Ode1
 alt1.meMA.Ode1C21.mode = misc_gr_GR_cog.Mode8

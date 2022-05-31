@@ -88,20 +88,17 @@ meVE.Apolytikion3.melody = he.a.m4_gr_GR_cog.TachyProkatalave.name
 meVE.Apolytikion3.incipit = "Ἐκ βρέφους τοῦ Πνεύματος, ὀφθεὶς…"
 meVE.Apolytikion3.text = "Ἐκ βρέφους τοῦ Πνεύματος, ὀφθεὶς δοχεῖον λαμπρόν, θαυμάτων ἐπλούτησας, τὴν παρʼ αὐτοῦ δωρεάν, Φωκᾶ ἱερώτατε· ὅθεν ἱερουργήσας, τῷ Σωτῆρι ὁσίως, ἔπιες ἐν ἀθλήσει, τὸ ποτήριον τούτου· ᾧ πρέσβευε δεόμεθα, ὑπὲρ τῶν ψυχῶν ἡμῶν."
 
-meMA.C1.acrostic.title = ""
-meMA.C1.acrostic.notice1 = ""
-meMA.C1.acrostic.text = ""
-//meMA.C1.acrostic.notice2 = ""
-meMA.C1.acrostic = "ἔχων τὴν δε τὴν Ἀκροστιχίδα· Σοί, Κοδρᾶτε μέγιστε, τοὺς ὕμνους πλέκω. Ἰωσήφ."
-
-meMA.C2.acrostic.title = ""
-meMA.C2.acrostic.notice1 = ""
-meMA.C2.acrostic.text = ""
-//meMA.C2.acrostic.notice2 = ""
-meMA.C2.acrostic = "οὗ ἡ Ἀκροστιχίς· Ὑμνεῖν σε Φωκᾶ προσθέτω Θεὸς χάριν. Ἰωσήφ."
-
+meMA.C1.acrostic.title = "Κανὼν τοῦ Ἀποστόλου,"
+meMA.C1.acrostic.notice1 = "ἔχων τὴν Ἀκροστιχίδα·"
+meMA.C1.acrostic.text = "Σοί, Κοδρᾶτε μέγιστε, τοὺς ὕμνους πλέκω. Ἰωσήφ."
 meMA.C1.title = titles_gr_GR_cog.KanonTouApostolou
 meMA.C1.verse = prayers_gr_GR_cog.verse_Apostle.text
+
+meMA.C2.acrostic.title = "Κανὼν τοῦ ἁγίου Φωκᾶ,"
+meMA.C2.acrostic.notice1 = "οὗ ἡ Ἀκροστιχίς·"
+meMA.C2.acrostic.text = "Ὑμνεῖν σε Φωκᾶ προσθέτω Θεὸς χάριν. Ἰωσήφ."
+meMA.C2.title = titles_gr_GR_cog.KanonTouIeromartyros
+meMA.C2.verse = prayers_gr_GR_cog.verse_SaintM.text
 
 meMA.Ode1C11.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C11.mode = misc_gr_GR_cog.Mode2
@@ -126,9 +123,6 @@ meMA.Ode1C1T.mode = misc_gr_GR_cog.Mode2
 meMA.Ode1C1T.melody = he.h.m2_gr_GR_cog.DefteLaoi.name
 meMA.Ode1C1T.incipit = "Κόρης σαρκί, ἐξ ἀπειράνδρου τικτόμενος…"
 meMA.Ode1C1T.text = "Κόρης σαρκί, ἐξ ἀπειράνδρου τικτόμενος, ὁ Ποιητὴς τῆς κτίσεως, μετὰ τὴν κύησιν, ὡς πρὸ τόκου Παρθένον, αὐτὴν διαφυλάττει, καθὼς ηὐδόκησεν."
-
-meMA.C2.title = titles_gr_GR_cog.KanonTouIeromartyros
-meMA.C2.verse = prayers_gr_GR_cog.verse_SaintM.text
 
 meMA.Ode1C21.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C21.mode = misc_gr_GR_cog.Mode4

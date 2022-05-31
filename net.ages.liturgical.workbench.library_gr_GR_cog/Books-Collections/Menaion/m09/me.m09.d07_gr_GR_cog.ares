@@ -91,16 +91,15 @@ meMA.Kathisma21.melody = he.a.m5_gr_GR_cog.TonSynanarchonLogon.name
 meMA.Kathisma21.incipit = "Τὰ οὐράνια πάντα νῦν ἐπαγάλλονται…"
 meMA.Kathisma21.text = "Τὰ οὐράνια πάντα νῦν ἐπαγάλλονται, τῶν ἀνθρώπων τὸ γένος συνεορτάζει αὐτοῖς, καὶ οἱ Προφῆται μυστικῶς συνευφραίνονται· ἣν γὰρ προεῖδον τυπικῶς, ἐν ταῖς ἀρχαίαις γενεαῖς, βάτον καὶ στάμνον καὶ ῥάβδον, νεφέλην πύλην καὶ θρόνον, καὶ μέγα ὄρος, γεννᾶται σήμερον."
 
-meMA.C1.acrostic.title = ""
-meMA.C1.acrostic.notice1 = ""
-meMA.C1.acrostic.text = ""
-//meMA.C1.acrostic.notice2 = ""
-meMA.C1.acrostic = "οὗ ἢ Ἀκροστιχίς· Γέννησιν ὑμνῶ τῆς θεόπαιδος Κόρης. Ἰωσήφ."
-
-meMA.C2.poet = poets_gr_GR_cog.Theofanous
-
+meMA.C1.acrostic.title = "Κανὼν τῆς Θεοτόκου,"
+meMA.C1.acrostic.notice1 = "οὗ ἢ Ἀκροστιχίς·"
+meMA.C1.acrostic.text = "Γέννησιν ὑμνῶ τῆς θεόπαιδος Κόρης. Ἰωσήφ."
 meMA.C1.title = titles_gr_GR_cog.KanonProeortios
 meMA.C1.verse = prayers_gr_GR_cog.verse_Theotokos.text
+
+meMA.C2.poet = poets_gr_GR_cog.Theofanous
+meMA.C2.title = titles_gr_GR_cog.KanonTouAgiou
+meMA.C2.verse = prayers_gr_GR_cog.verse_SaintM.text
 
 meMA.Ode1C11.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C11.mode = misc_gr_GR_cog.Mode4
@@ -125,9 +124,6 @@ meMA.Ode1C14.mode = misc_gr_GR_cog.Mode4
 meMA.Ode1C14.melody = he.h.m4_gr_GR_cog.AnoixoToStomaMou.name
 meMA.Ode1C14.incipit = "Νυμφὼν ὡραιότατος, θρόνος Θεοῦ ὑψηλότατος…"
 meMA.Ode1C14.text = "Νυμφὼν ὡραιότατος, θρόνος Θεοῦ ὑψηλότατος, ἐδείχθης Θεόνυμφε, ἐν ᾧ καθίσας σαρκί, τοὺς καθημένους, ἐν σκότει ἀπωλείας, ἐγερεῖ πρὸς γνώσεως, φῶς ἀγαθότητι."
-
-meMA.C2.title = titles_gr_GR_cog.KanonTouAgiou
-meMA.C2.verse = prayers_gr_GR_cog.verse_SaintM.text
 
 meMA.Ode1C21.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C21.mode = misc_gr_GR_cog.Mode4

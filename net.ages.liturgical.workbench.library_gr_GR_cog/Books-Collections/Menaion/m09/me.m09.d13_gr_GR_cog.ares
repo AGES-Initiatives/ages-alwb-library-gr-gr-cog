@@ -106,29 +106,27 @@ meMA.Kathisma21.melody = he.a.m4_gr_GR_cog.TachyProkatalave.name
 meMA.Kathisma21.incipit = "Ἑόρτιος σήμερον τῶν Ἐγκαινίων πιστοί…"
 meMA.Kathisma21.text = "Ἑόρτιος σήμερον τῶν Ἐγκαινίων πιστοί, ἡμέρα κατέλαβε, τὴν ἐκλογὴν τοῦ Χριστοῦ, ἡμᾶς καὶ προτρέπεται, πάντας ἐγκαινισθῆναι, καὶ φαιδρῷ τῷ προσώπῳ, ᾄσματα τῷ Δεσπότῃ, ἐκ μυχοῦ τῆς καρδίας, ᾆσαι πιστῶς ὡς λυτρωτῇ, καὶ ἡμᾶς ἐγκαινίζοντι."
 
+meMA.C1.acrostic.title = "Κανὼν ὁ Προεόρτιος,"
+meMA.C1.acrostic.notice1 = "οὗ ἡ Ἀκροστιχὶς κατὰ Ἀλφάβητον, ἄνευ τῶν Θεοτοκίων."
 meMA.C1.poet = poets_gr_GR_cog.Germanou
-meMA.C1.acrostic.title = ""
-meMA.C1.acrostic.notice1 = ""
-meMA.C1.acrostic.text = ""
-//meMA.C1.acrostic.notice2 = ""
-meMA.C1.acrostic = "οὗ ἡ Ἀκροστιχὶς κατὰ Ἀλφάβητον, ἄνευ τῶν Θεοτοκίων."
+meMA.C1.title = titles_gr_GR_cog.KanonProeortios
+meMA.C1.verse = prayers_gr_GR_cog.verse_God.text
 
 meMA.C2.poet = poets_gr_GR_cog.IoannouMonachou
+meMA.C2.title = titles_gr_GR_cog.KanonTonEnkainion
+meMA.C2.verse = prayers_gr_GR_cog.verse_God.text
 
-meMA.C3.acrostic.title = ""
-meMA.C3.acrostic.notice1 = ""
-meMA.C3.acrostic.text = ""
-//meMA.C3.acrostic.notice2 = ""
-meMA.C3.acrostic = "οὗ ἡ Ἀκροστιχίς· Τῶν θαυμάτων σου τὸ κλέος μέλπω μάκαρ. Ἰωσήφ."
+meMA.C3.acrostic.title = "Κανὼν τοῦ Ἁγίου,"
+meMA.C3.acrostic.notice1 = "οὗ ἡ Ἀκροστιχίς·"
+meMA.C3.acrostic.text = "Τῶν θαυμάτων σου τὸ κλέος μέλπω μάκαρ. Ἰωσήφ."
+meMA.C3.title = titles_gr_GR_cog.KanonTouAgiou
+meMA.C3.verse = prayers_gr_GR_cog.verse_SaintM.text
 
 meMA.Ode1C1H.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C1H.mode = misc_gr_GR_cog.Mode4
 meMA.Ode1C1H.melody = he.h.m4_gr_GR_cog.TristatasKrataious.melody
 meMA.Ode1C1H.incipit = he.h.m4_gr_GR_cog.TristatasKrataious.incipit
 meMA.Ode1C1H.text = he.h.m4_gr_GR_cog.TristatasKrataious.text
-
-meMA.C1.title = titles_gr_GR_cog.KanonProeortios
-meMA.C1.verse = prayers_gr_GR_cog.verse_God.text
 
 meMA.Ode1C11.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C11.mode = misc_gr_GR_cog.Mode4
@@ -154,9 +152,6 @@ meMA.Ode1C1T.melody = he.h.m4_gr_GR_cog.TristatasKrataious.name
 meMA.Ode1C1T.incipit = "Ἡ πόλις τοῦ Θεοῦ, τὸ…"
 meMA.Ode1C1T.text = "Ἡ πόλις τοῦ Θεοῦ, τὸ τοῦ παμβασιλέως, Θεοδόχον εὐαγὲς κειμήλιον σεπτόν, Θεοτόκε πανάμωμε, φρούρησον τὴν κληρουχίαν, τὴν ἀεὶ εὐφημοῦσάν σε, καὶ γεραίρουσαν πίστει τὸν τόκον σου."
 
-meMA.C2.title = titles_gr_GR_cog.KanonTonEnkainion
-meMA.C2.verse = prayers_gr_GR_cog.verse_God.text
-
 meMA.Ode1C21.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C21.mode = misc_gr_GR_cog.Mode4
 meMA.Ode1C21.melody = he.h.m4_gr_GR_cog.ThalassisToErythraion.name
@@ -180,9 +175,6 @@ meMA.Ode1C2T.mode = misc_gr_GR_cog.Mode4
 meMA.Ode1C2T.melody = he.h.m4_gr_GR_cog.ThalassisToErythraion.name
 meMA.Ode1C2T.incipit = oc.m4.d1_gr_GR_cog.ocMA.OdeS1C1T.incipit
 meMA.Ode1C2T.text = oc.m4.d1_gr_GR_cog.ocMA.OdeS1C1T.text
-
-meMA.C3.title = titles_gr_GR_cog.KanonTouAgiou
-meMA.C3.verse = prayers_gr_GR_cog.verse_SaintM.text
 
 meMA.Ode1C31.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C31.mode = misc_gr_GR_cog.Mode5

@@ -151,21 +151,18 @@ meMA.PostGospelIdiomelon.melody = ""
 meMA.PostGospelIdiomelon.incipit = meVE.AposGlory.incipit
 meMA.PostGospelIdiomelon.text = meVE.AposGlory.text
 
+meMA.C1.acrostic.title = "Κανὼν τῶς Ἁγίας Αἰκατερίνης,"
+meMA.C1.acrostic.notice1 = "οὗ ἡ Ἀκροστιχίς·"
+meMA.C1.acrostic.text = "Αἰκατερίναν τὴν παναοίδιμον ᾄσμασι μέλπω."
 meMA.C1.poet = poets_gr_GR_cog.Theofanous
-meMA.C1.acrostic.title = ""
-meMA.C1.acrostic.notice1 = ""
-meMA.C1.acrostic.text = ""
-//meMA.C1.acrostic.notice2 = ""
-meMA.C1.acrostic = "οὗ ἡ Ἀκροστιχίς· Αἰκατερῖναν τὴν παναοίδιμον ᾄσμασι μέλπω."
-
-meMA.C2.acrostic.title = ""
-meMA.C2.acrostic.notice1 = ""
-meMA.C2.acrostic.text = ""
-//meMA.C2.acrostic.notice2 = ""
-meMA.C2.acrostic = "ἔχων Ἀκροστιχίδα· Μερκουρίου με τὸ σθένος φυλαττέτω. Ἰωσήφ."
-
 meMA.C1.title = titles_gr_GR_cog.KanonTisAgias
 meMA.C1.verse = prayers_gr_GR_cog.verse_SaintW.text
+
+meMA.C2.acrostic.title = "Κανὼν τοῦ Ἁγίου Μερκουρίου,"
+meMA.C2.acrostic.notice1 = "ἔχων Ἀκροστιχίδα·"
+meMA.C2.acrostic.text = "Μερκουρίου με τὸ σθένος φυλαττέτω. Ἰωσήφ."
+meMA.C2.title = titles_gr_GR_cog.KanonTouAgiou
+meMA.C2.verse = prayers_gr_GR_cog.verse_SaintM.text
 
 meMA.Ode1C11.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C11.mode = misc_gr_GR_cog.Mode8
@@ -196,9 +193,6 @@ meMA.Ode1C1T.mode = misc_gr_GR_cog.Mode8
 meMA.Ode1C1T.melody = he.h.m8_gr_GR_cog.ArmatilatinFarao.name
 meMA.Ode1C1T.incipit = "Τὸ Θεοτόκον σε κηρύττειν Ἄχραντε…"
 meMA.Ode1C1T.text = "Τὸ Θεοτόκον σε κηρύττειν Ἄχραντε, πάσης αἱρέσεως, ἀποτροπὴν φέρει· σάρκα γὰρ γενόμενον, ἀναλλοιώτως ἔτεκες, τὸν ἐπέκεινα πάσης, θεοκυῆτορ τῆς κτίσεως, Λόγον τοῦ Θεοῦ τὸν ἀΐδιον."
-
-meMA.C2.title = titles_gr_GR_cog.KanonTouAgiou
-meMA.C2.verse = prayers_gr_GR_cog.verse_SaintM.text
 
 meMA.Ode1C21.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C21.mode = misc_gr_GR_cog.Mode8

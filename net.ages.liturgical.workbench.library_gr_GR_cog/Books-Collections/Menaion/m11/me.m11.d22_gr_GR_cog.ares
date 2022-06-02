@@ -113,14 +113,14 @@ meMA.Kathisma21.melody = he.a.m4_gr_GR_cog.TachyProkatalave.name
 meMA.Kathisma21.incipit = "Δαυῒδ προοδοποίησον, ἐν τῷ ναῷ…"
 meMA.Kathisma21.text = "Δαυῒδ προοδοποίησον, ἐν τῷ ναῷ τοῦ Θεοῦ, καὶ χαίρων ὑπόδεξαι, τὴν Βασιλίδα ἡμῶν, καὶ ταύτῃ ἐκβόησον. Εἴσελθε ἡ Κυρία, εἰς ναὸν Βασιλέως, εἴσελθε, ἧς ἡ δόξα κεκρυμμένως νοεῖται, ἐξ ἧς μέλι καὶ γάλα μέλλει πηγάσειν, πᾶσι τὸ φῶς ὁ Χριστός."
 
-meMA.C1.acrostic.title = ""
-meMA.C1.acrostic.notice1 = ""
-meMA.C1.acrostic.text = ""
-//meMA.C1.acrostic.notice2 = ""
-meMA.C1.acrostic = "οὗ ἡ Ἀκροστιχίς· Χριστὸν φιλοῦντα δοξάσω σε, Φιλῆμον. Ἰωσήφ."
+meMA.C1.acrostic.title = "Ὁ Κανὼν τῶν Ἀποστόλων,"
+meMA.C1.acrostic.notice1 = "οὗ ἡ Ἀκροστιχίς·"
+meMA.C1.acrostic.text = "Χριστὸν φιλοῦντα δοξάσω σε, Φιλῆμον. Ἰωσήφ."
+meMA.C1.title = titles_gr_GR_cog.KanonTonApostolon
+meMA.C1.verse = prayers_gr_GR_cog.verse_Apostles.text
 
-meMA.C1.title = ""
-meMA.C1.verse = ""
+meMA.C2.title = titles_gr_GR_cog.KanonTonMartyron
+meMA.C2.verse = prayers_gr_GR_cog.verse_SaintsM.text
 
 meMA.Ode1C11.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C11.mode = misc_gr_GR_cog.Mode2
@@ -145,9 +145,6 @@ meMA.Ode1C1T.mode = misc_gr_GR_cog.Mode2
 meMA.Ode1C1T.melody = he.h.m2_gr_GR_cog.DefteLaoi.name
 meMA.Ode1C1T.incipit = "Σὲ προφητῶν, πάλαι ὁ θεῖος…"
 meMA.Ode1C1T.text = "Σὲ προφητῶν, πάλαι ὁ θεῖος κατάλογος, πολυειδέσιν Ἄχραντε, συμβόλοις πόῤῥωθεν, προεχάραξεν ὄντως, τὴν μόνην τὸν Δεσπότην, ἀποκυήσασαν."
-
-meMA.C2.title = ""
-meMA.C2.verse = ""
 
 meMA.Ode1C21.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C21.mode = misc_gr_GR_cog.Mode1
@@ -862,14 +859,19 @@ alt1.meMA.PostGospelIdiomelon.melody = ""
 alt1.meMA.PostGospelIdiomelon.incipit = "Ὅσιε πάτερ, ὡς μεγαλόφωνος κῆρυξ…"
 alt1.meMA.PostGospelIdiomelon.text = "Ὅσιε πάτερ, ὡς μεγαλόφωνος κῆρυξ, καὶ ἱερουργὸς σεμνότατος, ἐν τῇ Μονῇ τοῦ Ὁσίου Δαυὶδ ἐξέλαμψας. Ἔχων γὰρ ἐν τῇ καρδίᾳ σου ἔνδον, πρὸς τὸν Φιλάνθρωπον Κύριον, τῆς ἀγάπης τὸ φίλτρον, διδάσκαλος ὤφθης, τῆς ἀρετῆς ἀκριβέστατος, ποδηγῶν πρὸς τὰ κρείττω, ῥήμασι θείοις καὶ θαυμαστῇ βιοτῇ σου, τοὺς συνόντας σοι κοσμικοὺς καὶ μονάζοντας· οὓς καὶ τὰ νῦν, ταῖς πρὸς Χριστὸν πρεσβείαις σου, μὴ παύσῃ φυλάττων ἅγιε Ἰάκωβε, ἐκ πάσης περιστάσεως."
 
+alt1.meMA.C1.acrostic.title = "Κανὼν α΄ τοῦ Ἁγίου,"
+alt1.meMA.C1.acrostic.notice1 = "οὗ ἡ Ἀκροστιχίς·"
+alt1.meMA.C1.acrostic.text = "Ἰάκωβε λιταῖς σου ἡμᾶς φρούρησον. Ἰωήλ."
 alt1.meMA.C1.poet = poets_gr_GR_cog.IoilEdessis
-alt1.meMA.C1.acrostic = "οὗ ἡ ἀκροστιχίς· «Ἰάκωβε λιταῖς σου ἡμᾶς φρούρησον. Ἰωήλ»"
-
-alt1.meMA.C2.poet = poets_gr_GR_cog.IoilEdessis
-alt1.meMA.C2.acrostic = "οὗ ἡ ἀκροστιχίς· «Τὴν σὴν ποίμνην ὅσιε Ἰάκωβε σκέπε. Ἰωήλ»"
-
 alt1.meMA.C1.title = titles_gr_GR_cog.KanonATouAgiou
 alt1.meMA.C1.verse = prayers_gr_GR_cog.verse_SaintM.text
+
+alt1.meMA.C2.acrostic.title = "Κανὼν β΄ τοῦ Ἁγίου,"
+alt1.meMA.C2.acrostic.notice1 = "οὗ ἡ Ἀκροστιχίς·"
+alt1.meMA.C2.acrostic.text = "Τὴν σὴν ποίμνην ὅσιε Ἰάκωβε σκέπε. Ἰωήλ."
+alt1.meMA.C2.poet = poets_gr_GR_cog.IoilEdessis
+alt1.meMA.C2.title = titles_gr_GR_cog.KanonBTouAgiou
+alt1.meMA.C2.verse = prayers_gr_GR_cog.verse_SaintM.text
 
 alt1.meMA.Ode1C11.ode = misc_gr_GR_cog.Ode1
 alt1.meMA.Ode1C11.mode = misc_gr_GR_cog.Mode8
@@ -894,9 +896,6 @@ alt1.meMA.Ode1C1T.mode = misc_gr_GR_cog.Mode8
 alt1.meMA.Ode1C1T.melody = he.h.m8_gr_GR_cog.ArmatilatinFarao.name
 alt1.meMA.Ode1C1T.incipit = "Ὡς ταπεινοί σου ὑμνηταὶ Θεόνυμφε…"
 alt1.meMA.Ode1C1T.text = "Ὡς ταπεινοί σου ὑμνηταὶ Θεόνυμφε, καθικετεύομεν, ταῖς λιταῖς σου Μῆτερ, τῷ Υἱῷ σου πρέσβευε, ἵνα σωθῶμεν ἅπαντες, τῆς φλογὸς τῆς γεέννης, καὶ ἵνα τύχωμεν χάριτος, διὰ τὰ πολλὰ ἡμῶν πταίσματα."
-
-alt1.meMA.C2.title = titles_gr_GR_cog.KanonBTouAgiou
-alt1.meMA.C2.verse = prayers_gr_GR_cog.verse_SaintM.text
 
 alt1.meMA.Ode1C21.ode = misc_gr_GR_cog.Ode1
 alt1.meMA.Ode1C21.mode = misc_gr_GR_cog.Mode8

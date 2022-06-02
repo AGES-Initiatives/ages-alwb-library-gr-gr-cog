@@ -109,19 +109,17 @@ meMA.Kathisma32.melody = he.a.m3_gr_GR_cog.TinOraiotita.name
 meMA.Kathisma32.incipit = me.m12.d20_gr_GR_cog.meMA.Ode3Kathisma3.incipit
 meMA.Kathisma32.text = me.m12.d20_gr_GR_cog.meMA.Ode3Kathisma3.text
 
-meMA.C1.acrostic.title = ""
-meMA.C1.acrostic.notice1 = ""
-meMA.C1.acrostic.text = ""
-//meMA.C1.acrostic.notice2 = ""
-meMA.C1.acrostic = "Ὁ παρὼν φέρει Ἀκροστιχίδα· Παθῶν ἐλεύθερόν με δεῖξον παμμάκαρ. Ἰωσήφ."
-meMA.C2.acrostic.title = ""
-meMA.C2.acrostic.notice1 = ""
-meMA.C2.acrostic.text = ""
-//meMA.C2.acrostic.notice2 = ""
-meMA.C2.acrostic = "οὗ ἡ Ἀκροστιχίς· Θεῖον Ἐλευθέριον ἱερῆα τιμάω, Πάτερ."
-
+meMA.C1.acrostic.title = "Κανὼν τοῦ Ἁγίου."
+meMA.C1.acrostic.notice1 = "Ὁ παρὼν φέρει Ἀκροστιχίδα· "
+meMA.C1.acrostic.text = "Παθῶν ἐλεύθερόν με δεῖξον παμμάκαρ. Ἰωσήφ."
 meMA.C1.title = titles_gr_GR_cog.KanonATouAgiou
 meMA.C1.verse = prayers_gr_GR_cog.verse_SaintM.text
+
+meMA.C2.acrostic.title = "Ἕτερος Κανών,"
+meMA.C2.acrostic.notice1 = "οὗ ἡ Ἀκροστιχίς·"
+meMA.C2.acrostic.text = "Θεῖον Ἐλευθέριον ἱερῆα τιμάω, Πάτερ."
+meMA.C2.title = titles_gr_GR_cog.KanonBTouAgiou
+meMA.C2.verse = prayers_gr_GR_cog.verse_SaintM.text
 
 meMA.Ode1C11.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C11.mode = misc_gr_GR_cog.Mode1
@@ -146,9 +144,6 @@ meMA.Ode1C1T.mode = misc_gr_GR_cog.Mode1
 meMA.Ode1C1T.melody = he.h.m1_gr_GR_cog.OdinEpinikion.name
 meMA.Ode1C1T.incipit = "Ὡς θρόνος πυρίμορφος, τὸν Κτίστην…"
 meMA.Ode1C1T.text = "Ὡς θρόνος πυρίμορφος, τὸν Κτίστην φέρεις, ὡς ἔμψυχος θάλαμος, καὶ τερπνὸν Παλάτιον, τὸν Βασιλέα χωρεῖς, γενόμενον ὅπερ ἡμεῖς, Θεοχαρίτωτε."
-
-meMA.C2.title = titles_gr_GR_cog.KanonBTouAgiou
-meMA.C2.verse = prayers_gr_GR_cog.verse_SaintM.text
 
 meMA.Ode1C21.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C21.mode = misc_gr_GR_cog.Mode6

@@ -218,7 +218,6 @@ meMA.Kathisma3T.incipit = "Ταχὺ δέξαι Δέσποινα τὰς ἱκ
 meMA.Kathisma3T.text = "Ταχὺ δέξαι Δέσποινα τὰς ἱκεσίας ἡμῶν, καὶ ταύτας προσάγαγε, τῷ σῷ Υἱῷ καὶ Θεῷ, Κυρία Πανάμωμε· λῦσον τὰς περιστάσεις, τῶν εἰς σὲ προστρεχόντων, σύντριψον μηχανίας, καὶ κατάβαλε θράσος, τῶν ὁπλιζομένων ἀθέων, κατὰ τῶν δούλων σου."
 
 meMA.MM.Prokeimenon.text = properties_gr_GR_cog.media.key
-// This is from Pat. Hem. which differs from Menaion
 
 meMA.PostGospelGlory.mode = misc_gr_GR_cog.Mode2
 meMA.PostGospelGlory.melody = ""
@@ -235,32 +234,29 @@ meMA.PostGospelIdiomelon.melody = ""
 meMA.PostGospelIdiomelon.incipit = meVE.Lity7.incipit
 meMA.PostGospelIdiomelon.text = meVE.Lity7.text
 
-meMA.C1.acrostic.title = ""
-meMA.C1.acrostic.notice1 = ""
-meMA.C1.acrostic.text = ""
-//meMA.C1.acrostic.notice2 = ""
-meMA.C1.acrostic = "οὗ ἡ Ἄκροστιχίς· Σὺν Νικολάῳ τῇ Θεοτόκῳ μέλπω, καὶ πόθῳ προσᾴδω."
+meMA.C1.acrostic.title = "Ὁ Κανὼν τῆς Θεοτόκου,"
+meMA.C1.acrostic.notice1 = "οὗ ἡ Ἄκροστιχίς·"
+meMA.C1.acrostic.text = "Σὺν Νικολάῳ τῇ Θεοτόκῳ μέλπω, καὶ πόθῳ προσᾴδω."
+meMA.C1.title = titles_gr_GR_cog.KanonTisTheotokou
+meMA.C1.verse = prayers_gr_GR_cog.verse_Theotokos.text
 
-meMA.C2.acrostic.title = ""
-meMA.C2.acrostic.notice1 = ""
-meMA.C2.acrostic.text = ""
-//meMA.C2.acrostic.notice2 = ""
-meMA.C2.acrostic = "οὗ ἡ Ἄκροστιχίς· Σοὶ, Νικόλαε, θεῖον ἐξᾴδω μέλος. Θεοφάνους."
+meMA.C2.acrostic.title = "Ὁ Κανὼν τοῦ Ἁγίου,"
+meMA.C2.acrostic.notice1 = "οὗ ἡ Ἄκροστιχίς·"
+meMA.C2.acrostic.text = "Σοὶ, Νικόλαε, θεῖον ἐξᾴδω μέλος."
+meMA.C2.poet = poets_gr_GR_cog.Theofanous
+meMA.C2.title = titles_gr_GR_cog.KanonATouAgiou
+meMA.C2.verse = prayers_gr_GR_cog.verse_SaintM.text
 
-meMA.C3.acrostic.title = ""
-meMA.C3.acrostic.notice1 = ""
-meMA.C3.acrostic.text = ""
-//meMA.C3.acrostic.notice2 = ""
-meMA.C3.acrostic = "οὗ ἡ Ἀκροστιχὶς κατὰ Ἀλφάβητον, χωρὶς τῶν Τριαδικῶν καὶ τῶν Θεοτοκίων."
+meMA.C3.acrostic.title = "Ἕτερος Κανὼν τοῦ Ἁγίου,"
+meMA.C3.acrostic.notice1 = "οὗ ἡ Ἀκροστιχὶς κατὰ Ἀλφάβητον, χωρὶς τῶν Τριαδικῶν καὶ τῶν Θεοτοκίων."
+meMA.C3.title = titles_gr_GR_cog.KanonBTouAgiou
+meMA.C3.verse = prayers_gr_GR_cog.verse_SaintM.text
 
 meMA.Ode1C1H.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C1H.mode = misc_gr_GR_cog.Mode1
 meMA.Ode1C1H.melody = he.h.m1_gr_GR_cog.OdinEpinikion.melody
 meMA.Ode1C1H.incipit = he.h.m1_gr_GR_cog.OdinEpinikion.incipit
 meMA.Ode1C1H.text = he.h.m1_gr_GR_cog.OdinEpinikion.text
-
-meMA.C1.title = titles_gr_GR_cog.KanonTisTheotokou
-meMA.C1.verse = prayers_gr_GR_cog.verse_Theotokos.text
 
 meMA.Ode1C11.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C11.mode = misc_gr_GR_cog.Mode1
@@ -273,9 +269,6 @@ meMA.Ode1C12.mode = misc_gr_GR_cog.Mode1
 meMA.Ode1C12.melody = he.h.m1_gr_GR_cog.OdinEpinikion.name
 meMA.Ode1C12.incipit = "Ὑμνῶ σε Πανύμνητε, ἣν ἀνυμνοῦσιν…"
 meMA.Ode1C12.text = "Ὑμνῶ σε Πανύμνητε, ἣν ἀνυμνοῦσιν, Ἀγγέλων τὰ τάγματα, ὡς Θεὸν κυήσασαν, τὸν ὑπερύμνητον· ὃν πᾶσα κτίσις ἀνυμνεῖ ὅτι δεδόξασται."
-
-meMA.C2.title = titles_gr_GR_cog.KanonATouAgiou
-meMA.C2.verse = prayers_gr_GR_cog.verse_SaintM.text
 
 meMA.Ode1C21.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C21.mode = misc_gr_GR_cog.Mode2
@@ -294,9 +287,6 @@ meMA.Ode1C2T.mode = misc_gr_GR_cog.Mode2
 meMA.Ode1C2T.melody = he.h.m2_gr_GR_cog.EnVythoKatestrose.name
 meMA.Ode1C2T.incipit = "Ἰσωθῆναι πόθον μοι ἐνθείς, ὄφις…"
 meMA.Ode1C2T.text = "Ἰσωθῆναι πόθον μοι ἐνθείς, ὄφις ὁ παμπόνηρος, τῷ Πλαστουργῷ, ὡς αἰχμάλωτον ἥρπασε· διὰ σοῦ δὲ Πάναγνε, ἀνακέκλημαι, θεωθεὶς ἀληθέστατα· σὺ γὰρ Θεομῆτορ, τὸν ἐμὲ θεώσαντα γεγέννηκας."
-
-meMA.C3.title = titles_gr_GR_cog.KanonBTouAgiou
-meMA.C3.verse = prayers_gr_GR_cog.verse_SaintM.text
 
 meMA.Ode1C31.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C31.mode = misc_gr_GR_cog.Mode1

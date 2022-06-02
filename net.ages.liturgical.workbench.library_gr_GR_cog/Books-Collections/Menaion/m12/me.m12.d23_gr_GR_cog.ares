@@ -101,14 +101,11 @@ meVE.Apolytikion3.melody = he.a.m3_gr_GR_cog.TinOraiotita.name
 meVE.Apolytikion3.incipit = "Κρήτης τὰ εὔοσμα, ἄνθη τιμήσωμεν…"
 meVE.Apolytikion3.text = "Κρήτης τὰ εὔοσμα, ἄνθη τιμήσωμεν, τὰ διαπνέοντα, ὀσμὴν τὴν ἔνθεον, Θεόδουλον καὶ Ζωτικόν, Γελάσιον Σατορνῖνον, Εὔπορον Εὐάρεστον, Ἀγαθόποδα Πόμπιον, Εἰνικιανὸν ὁμοῦ, Βασιλείδην τε ἔνδοξον, βοῶντες πρὸς αὐτοὺς ὁμοφρόνως· Χαῖρε Δεκὰς ἡ τῶν Μαρτύρων."
 
-meCO.C1.title = "Κανὼν Τριῴδιον Προεόρτιον"
+meCO.C1.acrostic.title = "Τριῴδιον,"
+meCO.C1.acrostic.notice1 = "οὗ ἡ Ἀκροστιχίς·"
+meCO.C1.acrostic.text = "Προσάββατόν τε."
+meCO.C1.title = "Κανὼν Τριῴδιον Προεόρτιον."
 meCO.C1.verse = prayers_gr_GR_cog.verse_God.text
-
-meCO.C1.acrostic.title = ""
-meCO.C1.acrostic.notice1 = ""
-meCO.C1.acrostic.text = ""
-//meCO.C1.acrostic.notice2 = ""
-meCO.C1.acrostic = "οὗ ἡ Ἀκροστιχίς· Προσάββατόν τε."
 
 meCO.Ode5C1H.ode = misc_gr_GR_cog.Ode5
 meCO.Ode5C1H.mode = misc_gr_GR_cog.Mode6
@@ -198,21 +195,23 @@ meMA.Kathisma21.melody = he.a.m6_gr_GR_cog.ElpisTouKosmouAgathi.name
 meMA.Kathisma21.incipit = "Ἐκ τῆς Περσίδος Βασιλεῖς, χρυσὸν…"
 meMA.Kathisma21.text = "Ἐκ τῆς Περσίδος Βασιλεῖς, χρυσὸν σμύρναν καὶ λίβανον, τῷ κυηθέντι Βασιλεῖ, καὶ Θεῷ προσῆξαν πάλαι· ἡμεῖς δὲ νῦν προεορτάζοντες αὐτοῦ τὴν Γέννησιν, εὐσεβοφρόνως ἐκ ψυχῆς, πίστιν ἐλπίδα ἀγάπην, προσφέρωμεν αὐτῷ, τὴν Παρθένον ὑμνοῦντες."
 
+meMA.C1.acrostic.title = "Κανὼν Προεόρτιος,"
+meMA.C1.acrostic.notice1 = "οὗ ἡ Ἀκροστιχὶς κατὰ Ἀλφάβητον."
 meMA.C1.poet = poets_gr_GR_cog.Iosif
-meMA.C1.acrostic.title = ""
-meMA.C1.acrostic.notice1 = ""
-meMA.C1.acrostic.text = ""
-//meMA.C1.acrostic.notice2 = ""
-meMA.C1.acrostic = "οὗ ἡ Ἀκροστιχὶς κατὰ Ἀλφάβητον."
+meMA.C1.title = titles_gr_GR_cog.KanonProeortios
+meMA.C1.verse = prayers_gr_GR_cog.verse_God.text
+
+meMA.C2.title = titles_gr_GR_cog.EterosKanonProeortios
+meMA.C2.verse = prayers_gr_GR_cog.verse_God.text
+
+meMA.C3.title = titles_gr_GR_cog.KanonTonMartyron
+meMA.C3.verse = prayers_gr_GR_cog.verse_SaintsM.text
 
 meMA.Ode1C1H.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C1H.mode = misc_gr_GR_cog.Mode2
 meMA.Ode1C1H.melody = he.h.m2_gr_GR_cog.AtriptonAsynithi.melody
 meMA.Ode1C1H.incipit = he.h.m2_gr_GR_cog.AtriptonAsynithi.incipit
 meMA.Ode1C1H.text = he.h.m2_gr_GR_cog.AtriptonAsynithi.text
-
-meMA.C1.title = titles_gr_GR_cog.KanonProeortios
-meMA.C1.verse = prayers_gr_GR_cog.verse_God.text
 
 meMA.Ode1C11.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C11.mode = misc_gr_GR_cog.Mode2
@@ -231,9 +230,6 @@ meMA.Ode1C13.mode = misc_gr_GR_cog.Mode2
 meMA.Ode1C13.melody = he.h.m2_gr_GR_cog.AtriptonAsynithi.name
 meMA.Ode1C13.incipit = "Γνόντες σε Βασιλέα, ἐν γῇ…"
 meMA.Ode1C13.text = "Γνόντες σε Βασιλέα, ἐν γῇ ἀποτικτόμενον ἐκ Παρθένου, οἱ Βασιλεῖς Περσῶν Λόγε Θεοῦ, μετὰ δώρων σπεύδουσι τοῦ προσκυνῆσαί σε."
-
-meMA.C2.title = titles_gr_GR_cog.EterosKanonProeortios
-meMA.C2.verse = prayers_gr_GR_cog.verse_God.text
 
 meMA.Ode1C21.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C21.mode = misc_gr_GR_cog.Mode6
@@ -258,9 +254,6 @@ meMA.Ode1C2T.mode = misc_gr_GR_cog.Mode6
 meMA.Ode1C2T.melody = he.h.m6_gr_GR_cog.OsEnIpeiroPezefsas.name
 meMA.Ode1C2T.incipit = "Σὲ τὴν Ἁγνὴν τοῦ Δεσπότου…"
 meMA.Ode1C2T.text = "Σὲ τὴν Ἁγνὴν τοῦ Δεσπότου Περιστεράν, τὴν σεμνὴν καὶ ἄμωμον, καὶ καλὴν ἐν γυναιξίν, ὡς τῶν ὅλων τέξασαν Θεόν, μακαρίζομεν πιστῶς, Θεομακάριστε."
-
-meMA.C3.title = titles_gr_GR_cog.KanonTonMartyron
-meMA.C3.verse = prayers_gr_GR_cog.verse_SaintsM.text
 
 meMA.Ode1C31.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C31.mode = misc_gr_GR_cog.Mode3

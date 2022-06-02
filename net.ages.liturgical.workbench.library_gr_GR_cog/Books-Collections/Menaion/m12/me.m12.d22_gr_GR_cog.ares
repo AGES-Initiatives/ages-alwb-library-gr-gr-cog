@@ -95,14 +95,11 @@ meVE.Apolytikion2.melody = he.a.m5_gr_GR_cog.TonSynanarchonLogon.name
 meVE.Apolytikion2.incipit = "Τῶν Μαρτύρων ταῖς χρείαις διακονήσασα…"
 meVE.Apolytikion2.text = "Τῶν Μαρτύρων ταῖς χρείαις διακονήσασα, μαρτυρικῶς ἐμιμήσω τὰς ἀριστείας αὐτῶν, διʼ ἀθλήσεως ἐχθρὸν καταπαλαίσασα· ὅθεν βληστάνεις δαψιλῶς, χάριν ἄφθονον ἀεί, Ἀναστασία θεόφρον, τοῖς προσιοῦσιν ἐκ πόθου, τῇ ἀρωγῇ τῆς προστασίας σου."
 
-meCO.C1.title = "Κανὼν Τριῴδιον Προεόρτιον"
+meCO.C1.acrostic.title = "Τριῴδιον,"
+meCO.C1.acrostic.notice1 = "οὗ ἡ Ἀκροστιχίς·"
+meCO.C1.acrostic.text = "Τετράδι ψαλῶ."
+meCO.C1.title = "Κανὼν Τριῴδιον Προεόρτιον."
 meCO.C1.verse = prayers_gr_GR_cog.verse_God.text
-
-meCO.C1.acrostic.title = ""
-meCO.C1.acrostic.notice1 = ""
-meCO.C1.acrostic.text = ""
-//meCO.C1.acrostic.notice2 = ""
-meCO.C1.acrostic = "οὗ ἡ Ἀκροστιχίς· Τετράδι ψαλῶ."
 
 meCO.Ode3C1H.ode = misc_gr_GR_cog.Ode3
 meCO.Ode3C1H.mode = misc_gr_GR_cog.Mode2
@@ -180,29 +177,27 @@ meMA.Kathisma21.melody = he.a.m3_gr_GR_cog.IParthenosSimeron.name
 meMA.Kathisma21.incipit = "Τὴν Παρθένον κύουσαν…"
 meMA.Kathisma21.text = "Τὴν Παρθένον κύουσαν, τὸν προαιώνιον Λόγον, Ἰωσὴφ ὁ δίκαιος, ὑμνολογῶν ἀνεβόα· Βλέπω σε γεγενημένην Ναὸν Κυρίου, φέρουσαν τὸν πάντας σῶσαι βροτοὺς ἐλθόντα, καὶ τοὺς τοῦτον ἀνυμνοῦντας, διʼ οἶκτον θείου ναοὺς δεικνύοντα."
 
-meMA.C1.acrostic.title = ""
-meMA.C1.acrostic.notice1 = ""
-meMA.C1.acrostic.text = ""
-//meMA.C1.acrostic.notice2 = ""
-meMA.C1.acrostic = "οὗ ἡ Ἀκροστιχίς· Τῇ μακρᾷ πέμπτῃ μακρὸν ὕμνον ἐξᾴδω."
+meMA.C1.acrostic.title = "Κανὼν ὁ Προεόρτιος,"
+meMA.C1.acrostic.notice1 = "οὗ ἡ Ἀκροστιχίς·"
+meMA.C1.acrostic.text = "Τῇ μακρᾷ πέμπτῃ μακρὸν ὕμνον ἐξᾴδω."
+meMA.C1.title = titles_gr_GR_cog.KanonProeortios
+meMA.C1.verse = prayers_gr_GR_cog.verse_God.text
 
 meMA.C2.poet = poets_gr_GR_cog.Iosif
-//Acrostic text (although not in the COG): οὗ ἡ Ἀκροστιχίς, ἐλλιπὴς ὅμως τινῶν Τροπαρίων· Τοὺς εὐκλεεῖς σου, Μάρτυς, αἰνέσω πόνους ἐγὼ. Ὁ Ἰωσήφ.
+meMA.C2.title = titles_gr_GR_cog.KanonATisAgias
+meMA.C2.verse = prayers_gr_GR_cog.verse_SaintW.text
 
-meMA.C3.acrostic.title = ""
-meMA.C3.acrostic.notice1 = ""
-meMA.C3.acrostic.text = ""
-//meMA.C3.acrostic.notice2 = ""
-meMA.C3.acrostic = "οὗ ἡ Ἀκροστιχίς· Ὑμνῶ σε Μάρτυς Ἀναστασία πόθῳ. Ὁ Ἰωσήφ."
+meMA.C3.acrostic.title = "Ἕτερος Κανὼν τῆς Ἁγίας,"
+meMA.C3.acrostic.notice1 = "οὗ ἡ Ἀκροστιχίς·"
+meMA.C3.acrostic.text = "Ὑμνῶ σε Μάρτυς Ἀναστασία πόθῳ. Ὁ Ἰωσήφ."
+meMA.C3.title = titles_gr_GR_cog.KanonBTisAgias
+meMA.C3.verse = prayers_gr_GR_cog.verse_SaintW.text
 
 meMA.Ode1C1H.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C1H.mode = misc_gr_GR_cog.Mode6
 meMA.Ode1C1H.melody = he.h.m6_gr_GR_cog.TmitheisiTmatai.melody
 meMA.Ode1C1H.incipit = he.h.m6_gr_GR_cog.TmitheisiTmatai.incipit
 meMA.Ode1C1H.text = he.h.m6_gr_GR_cog.TmitheisiTmatai.text
-
-meMA.C1.title = titles_gr_GR_cog.KanonProeortios
-meMA.C1.verse = prayers_gr_GR_cog.verse_God.text
 
 meMA.Ode1C11.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C11.mode = misc_gr_GR_cog.Mode6
@@ -221,9 +216,6 @@ meMA.Ode1C13.mode = misc_gr_GR_cog.Mode6
 meMA.Ode1C13.melody = he.h.m6_gr_GR_cog.TmitheisiTmatai.name
 meMA.Ode1C13.incipit = "Ἀκουτισθῶμεν, νῦν Προφητικῶν, ἐκπληρουμένων διὰ…"
 meMA.Ode1C13.text = "Ἀκουτισθῶμεν, νῦν Προφητικῶν, ἐκπληρουμένων διὰ Πνεύματος φωνῶν· ἡ Παρθένος γὰρ λαβοῦσα ἐν γαστρί, ἐπείγεται τεκεῖν τὸν προόντα, ὃν Μάγοις μὲν οὐρανὸς καθυπέδειξε, Ποιμέσι δὲ Ἄγγελοι, ὡς βρέφος φαινόμενον."
-
-meMA.C2.title = titles_gr_GR_cog.KanonATisAgias
-meMA.C2.verse = prayers_gr_GR_cog.verse_SaintW.text
 
 meMA.Ode1C21.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C21.mode = misc_gr_GR_cog.Mode1
@@ -248,9 +240,6 @@ meMA.Ode1C2T.mode = misc_gr_GR_cog.Mode1
 meMA.Ode1C2T.melody = he.h.m1_gr_GR_cog.OdinEpinikion.name
 meMA.Ode1C2T.incipit = "Σαρκοῦται ὁ ἄσαρκος, διʼ εὐσπλαγχνίαν…"
 meMA.Ode1C2T.text = "Σαρκοῦται ὁ ἄσαρκος, διʼ εὐσπλαγχνίαν, ἐκ Κόρης τικτόμενος, Μάγοι εὐτρεπίζονται, ἀνατολῶν Βασιλεῖς, τοῦτον θεάσασθαι πιστῶς, καὶ προσκυνῆσαι σαρκί."
-
-meMA.C3.title = titles_gr_GR_cog.KanonBTisAgias
-meMA.C3.verse = prayers_gr_GR_cog.verse_SaintW.text
 
 meMA.Ode1C31.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C31.mode = misc_gr_GR_cog.Mode8

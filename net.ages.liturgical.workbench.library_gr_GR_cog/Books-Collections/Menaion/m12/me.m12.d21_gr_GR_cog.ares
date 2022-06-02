@@ -83,14 +83,11 @@ meVE.Apolytikion2.melody = he.a.m4_gr_GR_cog.TachyProkatalave.name
 meVE.Apolytikion2.incipit = "Ὡς νύμφη πανάμωμος…"
 meVE.Apolytikion2.text = "Ὡς νύμφη πανάμωμος, καὶ Ἀθληφόρος σεμνή, τῷ Λόγῳ νενύμφευσαι, τοῦ ἀθανάτου Πατρός, Ἰουλιανὴ ἔνδοξε· σὺ γὰρ φθαρτὸν μνηστῆρα, παριδοῦσα ἐμφρόνως, ἤθλησας ὑπὲρ φύσιν καὶ τὸν ὄφιν καθεῖλες. Καὶ νῦν ταῖς τοῦ Νυμφίου σου, τρυφᾷς φαιδρότησι."
 
-meCO.C1.title = "Κανὼν Διῴδιον Προεόρτιον"
+meCO.C1.acrostic.title = "Διῴδιον,"
+meCO.C1.acrostic.notice1 = "οὗ ἡ Ἀκροστιχίς·"
+meCO.C1.acrostic.text = "Τρίτῃ τε."
+meCO.C1.title = "Κανὼν Διῴδιον Προεόρτιον."
 meCO.C1.verse = prayers_gr_GR_cog.verse_God.text
-
-meCO.C1.acrostic.title = ""
-meCO.C1.acrostic.notice1 = ""
-meCO.C1.acrostic.text = ""
-//meCO.C1.acrostic.notice2 = ""
-meCO.C1.acrostic = "οὗ ἡ Ἀκροστιχίς· Τρίτῃ τε."
 
 meCO.Ode8C1H.ode = misc_gr_GR_cog.Ode8
 meCO.Ode8C1H.mode = misc_gr_GR_cog.Mode2
@@ -150,27 +147,23 @@ meMA.Kathisma21.melody = he.a.m3_gr_GR_cog.TinOraiotita.name
 meMA.Kathisma21.incipit = "Θαῦμα παράδοξον, ὁρᾶται σήμερον! ὁ…"
 meMA.Kathisma21.text = "Θαῦμα παράδοξον, ὁρᾶται σήμερον! ὁ γὰρ Σωτὴρ ἡμῶν, ἐν τῷ σπηλαίῳ σαρκί, ἐκ τῆς Παρθένου διʼ ἡμᾶς, τεχθῆναι νῦν ἐπείγεται, Μάγοι μετὰ δώρων δέ, ὡς βασιλεῖ προσκυνήσουσι, Ποιμένες τε καὶ Ἄγγελοι, αὐτὸν δοξολογήσουσι, μεθʼ ὧν καὶ ἡμεῖς βοῶμεν· Δόξα τῷ διʼ ἡμᾶς ἐνανθρωπήσαντι."
 
+meMA.C1.acrostic.title = "Κανὼν ὁ Προεόρτιος,"
+meMA.C1.acrostic.notice1 = "οὗ ἡ Ἀκροστιχὶς κατὰ ἀλφάβητον."
 meMA.C1.poet = poets_gr_GR_cog.Iosif
-meMA.C1.acrostic.title = ""
-meMA.C1.acrostic.notice1 = ""
-meMA.C1.acrostic.text = ""
-//meMA.C1.acrostic.notice2 = ""
-meMA.C1.acrostic = "οὗ ἡ Ἀκροστιχὶς κατὰ ἀλφάβητον. Ἰωσήφ."
+meMA.C1.title = titles_gr_GR_cog.KanonProeortios
+meMA.C1.verse = prayers_gr_GR_cog.verse_God.text
 
-meMA.C2.acrostic.title = ""
-meMA.C2.acrostic.notice1 = ""
-meMA.C2.acrostic.text = ""
-//meMA.C2.acrostic.notice2 = ""
-meMA.C2.acrostic = "οὗ ἡ Ἀκροστιχίς· Μέλπειν σε Μάρτυς προσθέτω Θεὸς χάριν. Ἰωσήφ."
+meMA.C2.acrostic.title = "Ἕτερος Κανὼν τῆς Ἁγίας,"
+meMA.C2.acrostic.notice1 = "οὗ ἡ Ἀκροστιχίς·"
+meMA.C2.acrostic.text = "Μέλπειν σε Μάρτυς προσθέτω Θεὸς χάριν. Ἰωσήφ."
+meMA.C2.title = titles_gr_GR_cog.KanonTisAgias
+meMA.C2.verse = prayers_gr_GR_cog.verse_SaintW.text
 
 meMA.Ode1C1H.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C1H.mode = misc_gr_GR_cog.Mode4
 meMA.Ode1C1H.melody = he.h.m4_gr_GR_cog.TristatasKrataious.melody
 meMA.Ode1C1H.incipit = he.h.m4_gr_GR_cog.TristatasKrataious.incipit
 meMA.Ode1C1H.text = he.h.m4_gr_GR_cog.TristatasKrataious.text
-
-meMA.C1.title = titles_gr_GR_cog.KanonProeortios
-meMA.C1.verse = prayers_gr_GR_cog.verse_God.text
 
 meMA.Ode1C11.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C11.mode = misc_gr_GR_cog.Mode4
@@ -189,9 +182,6 @@ meMA.Ode1C13.mode = misc_gr_GR_cog.Mode4
 meMA.Ode1C13.melody = he.h.m4_gr_GR_cog.TristatasKrataious.name
 meMA.Ode1C13.incipit = "Γραφαὶ προφητικαί, περαιοῦνται· Ἰδοὺ γάρ…"
 meMA.Ode1C13.text = "Γραφαὶ προφητικαί, περαιοῦνται· Ἰδοὺ γάρ, ὃν προήγγειλαν Χριστόν, ἐν πόλει Βηθλεέμ, φανεροῦται σαρκούμενος· τούτου νῦν προεορτάσαι, τα Γενέθλια σπεύσωμεν, διανοίας εὐθύτητι σήμερον."
-
-meMA.C2.title = titles_gr_GR_cog.KanonTisAgias
-meMA.C2.verse = prayers_gr_GR_cog.verse_SaintW.text
 
 meMA.Ode1C21.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C21.mode = misc_gr_GR_cog.Mode4

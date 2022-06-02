@@ -168,33 +168,30 @@ meMA.PostGospelIdiomelon.melody = ""
 meMA.PostGospelIdiomelon.incipit = "Δόξα ἐν ὑψίστοις Θεῷ καὶ…"
 meMA.PostGospelIdiomelon.text = "Δόξα ἐν ὑψίστοις Θεῷ καὶ ἐπὶ γῆς εἰρήνη. Σήμερον δέχεται ἡ Βηθλεέμ, τὸν καθήμερον διὰ παντὸς σὺν Πατρί. Σήμερον Ἄγγελοι τὸ βρέφος τὸ τεχθέν, θεοπρεπῶς δοξολογοῦσι. Δόξα ἐν ὑψίστοις Θεῷ, καὶ ἐπὶ γῆς εἰρήνη, ἐν ἀνθρώποις εὐδοκία."
 
+meMA.C1.acrostic.title = "Ὁ Κανὼν τοῦ κυρίου Κοσμᾶ,"
+meMA.C1.acrostic.notice1 = "φέρων ἀκροστιχίδα τήν δε·"
+meMA.C1.acrostic.text = "Χριστὸς βροτωθεὶς ἦν ὅπερ Θεὸς μένῃ."
 meMA.C1.poet = poets_gr_GR_cog.KyriouKosma
-meMA.C1.acrostic.title = ""
-meMA.C1.acrostic.notice1 = ""
-meMA.C1.acrostic.text = ""
-//meMA.C1.acrostic.notice2 = ""
-meMA.C1.acrostic = "φέρων ἀκροστιχίδα τήνδε. Χριστὸς βροτωθεὶς ἦν ὅπερ Θεὸς μένῃ."
+meMA.C1.title = titles_gr_GR_cog.KanonATisEortis
+meMA.C1.verse = prayers_gr_GR_cog.verse_God.text
 
-meMA.C2.poet = poets_gr_GR_cog.IoannouMonachou
-meMA.C2.acrostic.title = ""
-meMA.C2.acrostic.notice1 = ""
-meMA.C2.acrostic.text = ""
-//meMA.C2.acrostic.notice2 = ""
-meMA.C2.acrostic = "φέρων ἀκροστιχίδα τήνδε διὰ στίχων Ἡρωελεγείων· Εὐεπίης μελέεσσιν ἐφύμνια ταῦτα λιγαίνει. Υἷα Θεοῦ μερόπων ἕνεκα τικτόμενον. Ἐν χθονί, καὶ λύοντα πολύστονα πήματα κόσμου. Ἀλλʼ Ἄνα ῥητῆρας ῥύεο τῶνδε πόνων."
-meMA.C2.Acrostic1.acrostic = "φέρων ἀκροστιχίδα τήνδε διὰ στίχων Ἡρωελεγείων·"
+meMA.C2.acrostic.title = "Ἕτερος Κανὼν Ἰαμβικός, Ἰωάννου Μοναχοῦ,"
+meMA.C2.acrostic.notice1 = "φέρων ἀκροστιχίδα τήν δε διὰ στίχων Ἡρωελεγείων· "
+meMA.C2.acrostic.text = "Εὐεπίης μελέεσσιν ἐφύμνια ταῦτα λιγαίνει. Υἷα Θεοῦ μερόπων ἕνεκα τικτόμενον. Ἐν χθονί, καὶ λύοντα πολύστονα πήματα κόσμου. Ἀλλʼ Ἄνα ῥητῆρας ῥύεο τῶνδε πόνων."
+meMA.C2.Acrostic1.acrostic = "φέρων ἀκροστιχίδα τήν δε διὰ στίχων Ἡρωελεγείων·"
 meMA.C2.Acrostic2.acrostic = "Εὐεπίης μελέεσσιν ἐφύμνια ταῦτα λιγαίνει."
 meMA.C2.Acrostic3.acrostic = "Υἷα Θεοῦ μερόπων ἕνεκα τικτόμενον."
 meMA.C2.Acrostic4.acrostic = "Ἐν χθονί, καὶ λύοντα πολύστονα πήματα κόσμου."
 meMA.C2.Acrostic5.acrostic = "Ἀλλʼ Ἄνα ῥητῆρας ῥύεο τῶνδε πόνων."
+meMA.C2.poet = poets_gr_GR_cog.IoannouMonachou
+meMA.C2.title = titles_gr_GR_cog.KanonIamvikos
+meMA.C2.verse = prayers_gr_GR_cog.verse_God.text
 
 meMA.Ode1C1H.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C1H.mode = misc_gr_GR_cog.Mode1
 meMA.Ode1C1H.melody = he.h.m1_gr_GR_cog.ChristosGennatai.melody
 meMA.Ode1C1H.incipit = he.h.m1_gr_GR_cog.ChristosGennatai.incipit
 meMA.Ode1C1H.text = he.h.m1_gr_GR_cog.ChristosGennatai.text
-
-meMA.C1.title = titles_gr_GR_cog.KanonATisEortis
-meMA.C1.verse = prayers_gr_GR_cog.verse_God.text
 
 meMA.Ode1C11.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C11.mode = misc_gr_GR_cog.Mode1
@@ -224,9 +221,6 @@ meMA.Ode1C2H2.text = he.h.m1_gr_GR_cog.EsoseLaon2.text
 meMA.Ode1C2H3.text = he.h.m1_gr_GR_cog.EsoseLaon3.text
 meMA.Ode1C2H4.text = he.h.m1_gr_GR_cog.EsoseLaon4.text
 meMA.Ode1C2H5.text = he.h.m1_gr_GR_cog.EsoseLaon5.text
-
-meMA.C2.title = titles_gr_GR_cog.KanonIamvikos
-meMA.C2.verse = prayers_gr_GR_cog.verse_God.text
 
 meMA.Ode1C21.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C21.mode = misc_gr_GR_cog.Mode1

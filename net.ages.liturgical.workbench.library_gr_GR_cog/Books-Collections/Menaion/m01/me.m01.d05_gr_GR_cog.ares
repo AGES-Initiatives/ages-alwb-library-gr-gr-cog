@@ -79,12 +79,9 @@ meVE.Apolytikion1.melody = he.a.m4_gr_GR_cog.KateplagiIosif.name
 meVE.Apolytikion1.incipit = "Ἀπεστρέφετό ποτε, ὁ Ἰορδάνης ποταμός…"
 meVE.Apolytikion1.text = "Ἀπεστρέφετό ποτε, ὁ Ἰορδάνης ποταμός, τῇ μηλωτῇ Ἐλισαιέ, ἀναληφθέντος Ἠλιού, καὶ διῃρεῖτο τὰ ὕδατα ἔνθεν καὶ ἔνθεν, καὶ γέγονεν αὐτῷ, ξηρὰ ὁδὸς ἡ ὑγρά, εἰς τύπον ἀληθῶς τοῦ Βαπτίσματος, διʼ οὗ ἡμεῖς τὴν ῥέουσαν, τοῦ βίου διαπερῶμεν διάβασιν, Χριστὸς ἐφάνη, ἐν Ἰορδάνῃ, ἁγιάσαι τὰ ὕδατα."
 
-meCO.C1.poet = ""
-meCO.C1.acrostic.title = ""
-meCO.C1.acrostic.notice1 = ""
-meCO.C1.acrostic.text = ""
-//meCO.C1.acrostic.notice2 = ""
-meCO.C1.acrostic = "οὗ ἡ Ἀκροστιχίς· ἄνευ τῶν Εἱρμῶν τῶν τεσσάρων πρώτων ᾨδῶν. Καὶ σήμερον δὲ Σάββατον μέλπω μέγα."
+meCO.C1.acrostic.title = "Κανών,"
+meCO.C1.acrostic.notice1 = "οὗ ἡ Ἀκροστιχίς, ἄνευ τῶν Εἱρμῶν τῶν τεσσάρων πρώτων ᾨδῶν·"
+meCO.C1.acrostic.text = "Καὶ σήμερον δὲ Σάββατον μέλπω μέγα."
 meCO.C1.title = titles_gr_GR_cog.OKanon
 meCO.C1.verse = prayers_gr_GR_cog.verse_God.text
 
@@ -307,15 +304,20 @@ meMA.Kathisma22.incipit = "Ἀδὰμ τὴν γύμνωσιν, ἐνδύων 
 meMA.Kathisma22.text = "Ἀδὰμ τὴν γύμνωσιν, ἐνδύων εὔσπλαγχνε, καταστολὴν δόξης, μέλλεις γυμνοῦσθαι σαρκί, ἐν Ἰορδάνῃ ποταμῷ, ὢ θαύματος παραδόξου! πῶς, σε ὑποδέξεται, ὕδωρ Δέσποτα Κύριε, ὕδασι στεγάζοντα, ὑπερῷα ὡς γέγραπται; ὑμνοῦμεν Ἰησοῦ εὐεργέτα, πάντες τὴν σὴν ἐπιφάνειαν."
 
 meMA.C1.poet = poets_gr_GR_cog.Iosif
+meMA.C1.title = titles_gr_GR_cog.KanonProeortios
+meMA.C1.verse = prayers_gr_GR_cog.verse_God.text
+
+meMA.C2.title = titles_gr_GR_cog.KanonTisOsias
+meMA.C2.verse = prayers_gr_GR_cog.verse_DevoutWoman.text
+
+meMA.C3.title = titles_gr_GR_cog.KanonTonMartyron
+meMA.C3.verse = prayers_gr_GR_cog.verse_SaintsM.text
 
 meMA.Ode1C1H.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C1H.mode = misc_gr_GR_cog.Mode1
 meMA.Ode1C1H.melody = he.h.m1_gr_GR_cog.ChristosGennatai.name
 meMA.Ode1C1H.incipit = "Πικρᾶς δουλείας ῥυσθείς, Ἰσραήλ, τὴν…"
 meMA.Ode1C1H.text = "Πικρᾶς δουλείας ῥυσθείς, Ἰσραήλ, τὴν ἄβατον διῆλθεν ὡς ἤπειρον· ἐχθρὸν δὲ ὁρῶν ποντούμενον, ὕμνον ἐν εὐφροσύνῃ, ᾄδει Θεῷ, τῷ τερατουργοῦντι βραχίονι ὑψηλῷ· Ὅτι δεδόξασται."
-
-meMA.C1.title = titles_gr_GR_cog.KanonProeortios
-meMA.C1.verse = prayers_gr_GR_cog.verse_God.text
 
 meMA.Ode1C11.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C11.mode = misc_gr_GR_cog.Mode1
@@ -334,9 +336,6 @@ meMA.Ode1C13.mode = misc_gr_GR_cog.Mode1
 meMA.Ode1C13.melody = he.h.m1_gr_GR_cog.ChristosGennatai.name
 meMA.Ode1C13.incipit = "Ἰδοὺ τὸ φῶς ἐπιφαίνεται· ἰδοὺ…"
 meMA.Ode1C13.text = "Ἰδοὺ τὸ φῶς ἐπιφαίνεται· ἰδοὺ ὁ ἱλασμὸς ἀναδείκνυται· ἰδοὺ ὁ Σωτὴρ ἐφίσταται, λάμψαι τοῖς ἐν τῷ σκότει, θείας αὐγάς· τοῦτον διανοίαις, καθαραῖς χαρμονικῶς ὑποδεξώμεθα."
-
-meMA.C2.title = titles_gr_GR_cog.KanonTisOsias
-meMA.C2.verse = prayers_gr_GR_cog.verse_DevoutWoman.text
 
 meMA.Ode1C21.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C21.mode = misc_gr_GR_cog.Mode2
@@ -361,9 +360,6 @@ meMA.Ode1C2T.mode = misc_gr_GR_cog.Mode2
 meMA.Ode1C2T.melody = he.h.m2_gr_GR_cog.DefteLaoi.name
 meMA.Ode1C2T.incipit = "Μείνας ὃ ἦν, καὶ σαρκωθεὶς…"
 meMA.Ode1C2T.text = "Μείνας ὃ ἦν, καὶ σαρκωθεὶς ἐκ νηδύος σου, ὃ ἦμεν ἐδωρήσατο, ἡμῖν τὸ πρότερον, ἐκ χοὸς γεγονόσι, ῥυσάμενος πταισμάτων, Θεογεννήτρια."
-
-meMA.C3.title = titles_gr_GR_cog.KanonTonMartyron
-meMA.C3.verse = prayers_gr_GR_cog.verse_SaintsM.text
 
 meMA.Ode1C31.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C31.mode = misc_gr_GR_cog.Mode7

@@ -88,21 +88,18 @@ meVE.Apolytikion2.melody = he.a.m4_gr_GR_cog.TachyProkatalave.name
 meVE.Apolytikion2.incipit = he.ga_gr_GR_cog.OMartysSouKyrie.incipit
 meVE.Apolytikion2.text = he.ga_gr_GR_cog.OMartysSouKyrie.text
 
+meMA.C1.acrostic.title = "Ὁ Κανὼν τοῦ Ὁσίου,"
+meMA.C1.acrostic.notice1 = "οὗ ἡ Ἀκροστιχίς, ἄνευ τῶν Θεοτοκίων·"
+meMA.C1.acrostic.text = "Ὁ Παμμέγιστος Μάξιμος δοξάζεται."
 meMA.C1.poet = poets_gr_GR_cog.IoannouTouDamaskinou
-meMA.C1.acrostic.title = ""
-meMA.C1.acrostic.notice1 = ""
-meMA.C1.acrostic.text = ""
-//meMA.C1.acrostic.notice2 = ""
-meMA.C1.acrostic = "οὗ ἡ Ἀκροστιχίς, ἄνευ τῶν Θεοτοκίων· Ὁ Παμμέγιστος Μάξιμος δοξάζεται."
-
-meMA.C2.acrostic.title = ""
-meMA.C2.acrostic.notice1 = ""
-meMA.C2.acrostic.text = ""
-//meMA.C2.acrostic.notice2 = ""
-meMA.C2.acrostic = "οὗ ἡ Ἀκροστιχίς· Χριστοῦ φυτὸν σὲ Μάρτυς εὐφημῶ νέον. Ἰωσήφ."
-
 meMA.C1.title = titles_gr_GR_cog.KanonTouOsiou
 meMA.C1.verse = prayers_gr_GR_cog.verse_DevoutMan.text
+
+meMA.C2.acrostic.title = "Κανὼν τοῦ Μάρτυρος,"
+meMA.C2.acrostic.notice1 = "οὗ ἡ Ἀκροστιχίς·"
+meMA.C2.acrostic.text = "Χριστοῦ φυτὸν σὲ Μάρτυς εὐφημῶ νέον. Ἰωσήφ."
+meMA.C2.title = titles_gr_GR_cog.KanonTouMartyros
+meMA.C2.verse = prayers_gr_GR_cog.verse_SaintM.text
 
 meMA.Ode1C11.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C11.mode = misc_gr_GR_cog.Mode8
@@ -127,9 +124,6 @@ meMA.Ode1C1T.mode = misc_gr_GR_cog.Mode8
 meMA.Ode1C1T.melody = he.h.m8_gr_GR_cog.AsomenToKyrio.name
 meMA.Ode1C1T.incipit = "Ὅλος ἐπιθυμία, ὁ ἐκ τῆς…"
 meMA.Ode1C1T.text = "Ὅλος ἐπιθυμία, ὁ ἐκ τῆς γαστρός σου Θεονύμφευτε, εὐδοκήσας τεχθῆναι, γλυκασμὸς τὲ ἐστι καὶ φῶς ἄδυτον."
-
-meMA.C2.title = titles_gr_GR_cog.KanonTouMartyros
-meMA.C2.verse = prayers_gr_GR_cog.verse_SaintM.text
 
 meMA.Ode1C21.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C21.mode = misc_gr_GR_cog.Mode8

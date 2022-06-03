@@ -231,33 +231,30 @@ meMA.PostGospelIdiomelon.melody = ""
 meMA.PostGospelIdiomelon.incipit = "Θεὸς Λόγος ἐπεφάνη ἐν σαρκί…"
 meMA.PostGospelIdiomelon.text = "Θεὸς Λόγος ἐπεφάνη ἐν σαρκί, τῷ γένει τῶν ἀνθρώπων· ἵστατο βαπτισθῆναι ἐν Ἰορδάνῃ, καὶ ἔλεγεν πρὸς αὐτὸν ὁ Πρόδρομος· Πῶς ἐκτείνω χεῖρα, καὶ ἅψωμαι κορυφῆς κρατούσης τὰ σύμπαντα; Εἰ καὶ ἐκ Μαρίας ὑπάρχεις βρέφος, ἀλλʼ οἶδά σε Θεὸν προαιώνιον, ἐπὶ γῆς βαδίζεις, ὁ ὑμνούμενος ὑπὸ τῶν Σεραφίμ, καὶ δοῦλος Δεσπότην, βαπτίζειν οὐ μεμάθηκα· Ἀκατάληπτε Κύριε, δόξα σοι."
 
+meMA.C1.acrostic.title = "Κανὼν τοῦ κυρίου Κοσμᾶ,"
+meMA.C1.acrostic.notice1 = "οὗ ἡ Ἀκροστιχίς·"
+meMA.C1.acrostic.text = "Βάπτισμα ῥύψις γηγενῶν ἁμαρτάδος."
 meMA.C1.poet = poets_gr_GR_cog.Kosma
-meMA.C1.acrostic.title = ""
-meMA.C1.acrostic.notice1 = ""
-meMA.C1.acrostic.text = ""
-//meMA.C1.acrostic.notice2 = ""
-meMA.C1.acrostic = "οὗ ἡ Ἀκροστιχίς· Βάπτισμα ῥύψις γηγενῶν ἁμαρτάδος."
+meMA.C1.title = titles_gr_GR_cog.KanonATisEortis
+meMA.C1.verse = prayers_gr_GR_cog.verse_God.text
 
-meMA.C2.poet = poets_gr_GR_cog.IoannouTouDamaskinou
-meMA.C2.acrostic.title = ""
-meMA.C2.acrostic.notice1 = ""
-meMA.C2.acrostic.text = ""
-//meMA.C2.acrostic.notice2 = ""
-meMA.C2.acrostic = "οὗ ἡ Ἀκροστιχὶς διὰ Στίχων Ἡρωελεγείων. Σήμερον ἀχράντοιο βαλών, Θεοφεγγέϊ πυρσῷ, Πνεύματος, ἐνθάπτει νάμασιν, ἀμπλακίην, Φλέξας παμμεδέοντος ἐΰς Πάϊς· Ἠπιόων δέ, Ὑμνηταῖς μελέων τῶν δε δίδωσι χάριν."
-meMA.C2.Acrostic1.acrostic = "οὗ ἡ Ἀκροστιχὶς διὰ Στίχων Ἡρωελεγείων."
+meMA.C2.acrostic.title = "Ἕτερος Κανὼν Ἰαμβικός, τοῦ Ἁγίου Ἰωάννου τοῦ Δαμασκηνοῦ,"
+meMA.C2.acrostic.notice1 = "οὗ ἡ Ἀκροστιχὶς διὰ Στίχων Ἡρωελεγείων·"
+meMA.C2.acrostic.text = "Σήμερον ἀχράντοιο βαλών, Θεοφεγγέϊ πυρσῷ, Πνεύματος, ἐνθάπτει νάμασιν, ἀμπλακίην, Φλέξας παμμεδέοντος ἐΰς Πάϊς· Ἠπιόων δέ, Ὑμνηταῖς μελέων τῶν δε δίδωσι χάριν."
+meMA.C2.Acrostic1.acrostic = "οὗ ἡ Ἀκροστιχὶς διὰ Στίχων Ἡρωελεγείων·"
 meMA.C2.Acrostic2.acrostic = "Σήμερον ἀχράντοιο βαλών Θεοφεγγέϊ πυρσῷ,"
 meMA.C2.Acrostic3.acrostic = "Πνεύματος, ἐνθάπτει νάμασιν, ἀμπλακίην,"
 meMA.C2.Acrostic4.acrostic = "Φλέξας παμμεδέοντος ἐΰς Πάϊς·"
 meMA.C2.Acrostic5.acrostic = "Ἠπιόων δέ, Ὑμνηταῖς μελέων τῶν δε δίδωσι χάριν."
+meMA.C2.poet = poets_gr_GR_cog.IoannouTouDamaskinou
+meMA.C2.title = titles_gr_GR_cog.KanonIamvikos
+meMA.C2.verse = prayers_gr_GR_cog.verse_God.text
 
 meMA.Ode1C1H.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C1H.mode = misc_gr_GR_cog.Mode2
 meMA.Ode1C1H.melody = he.h.m2_gr_GR_cog.VythouAnekalypse.melody
 meMA.Ode1C1H.incipit = he.h.m2_gr_GR_cog.VythouAnekalypse.incipit
 meMA.Ode1C1H.text = he.h.m2_gr_GR_cog.VythouAnekalypse.text
-
-meMA.C1.title = titles_gr_GR_cog.KanonATisEortis
-meMA.C1.verse = prayers_gr_GR_cog.verse_God.text
 
 meMA.Ode1C11.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C11.mode = misc_gr_GR_cog.Mode2
@@ -287,9 +284,6 @@ meMA.Ode1C2H2.text = he.h.m2_gr_GR_cog.SteiveiThalassis2.text
 meMA.Ode1C2H3.text = he.h.m2_gr_GR_cog.SteiveiThalassis3.text
 meMA.Ode1C2H4.text = he.h.m2_gr_GR_cog.SteiveiThalassis4.text
 meMA.Ode1C2H5.text = he.h.m2_gr_GR_cog.SteiveiThalassis5.text
-
-meMA.C2.title = titles_gr_GR_cog.KanonIamvikos
-meMA.C2.verse = prayers_gr_GR_cog.verse_God.text
 
 meMA.Ode1C21.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C21.mode = misc_gr_GR_cog.Mode2

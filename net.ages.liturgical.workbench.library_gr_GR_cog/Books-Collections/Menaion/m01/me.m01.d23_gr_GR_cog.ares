@@ -84,20 +84,18 @@ meVE.Apolytikion1.melody = ""
 meVE.Apolytikion1.incipit = "Κλῆμα ὁσιότητος…"
 meVE.Apolytikion1.text = "Κλῆμα ὁσιότητος, καὶ στέλεχος ἀθλήσεως, ἄνθος ἱερώτατον, καὶ καρπὸς ὡς θεόσδοτος, τοῖς πιστοῖς πανίερε, ἡδύτατος ἐβλάστησας, Ἀλλʼ ὡς Μαρτύρων σύναθλος, καὶ ἱεραρχῶν σύνθρονος, πρέσβευε Χριστῷ τῷ Θεῷ, σωθῆναι τὰς ψυχὰς ἡμῶν."
 
-meMA.C1.acrostic.title = ""
-meMA.C1.acrostic.notice1 = ""
-meMA.C1.acrostic.text = ""
-//meMA.C1.acrostic.notice2 = ""
-meMA.C1.acrostic = "οὗ ἡ Ἀκροστιχίς· Μέλπω τὸ κλῆμα τῆς νοητῆς ἀμπέλου. Θεοφάνους."
-
-meMA.C2.acrostic.title = ""
-meMA.C2.acrostic.notice1 = ""
-meMA.C2.acrostic.text = ""
-//meMA.C2.acrostic.notice2 = ""
-meMA.C2.acrostic = "οὗ ἡ Ἀκροστιχίς· Τὴν σὴν ἀνυμνῶ Παμμάκαρ χαίρων χάριν. Ἰωσήφ."
-
+meMA.C1.acrostic.title = "Κανὼν τοῦ Ἁγίου Κλήμεντος,"
+meMA.C1.acrostic.notice1 = "οὗ ἡ Ἀκροστιχίς·"
+meMA.C1.acrostic.text = "Μέλπω τὸ κλῆμα τῆς νοητῆς ἀμπέλου."
+meMA.C1.poet = poets_gr_GR_cog.Theofanous
 meMA.C1.title = "Κανὼν τοῦ Ἁγ. Κλήμεντος."
 meMA.C1.verse = prayers_gr_GR_cog.verse_SaintM.text
+
+meMA.C2.acrostic.title = "Κανὼν τοῦ Ἁγίου Ἀγαθαγγέλου,"
+meMA.C2.acrostic.notice1 = "οὗ ἡ Ἀκροστιχίς·"
+meMA.C2.acrostic.text = "Τὴν σὴν ἀνυμνῶ Παμμάκαρ χαίρων χάριν. Ἰωσήφ."
+meMA.C2.title = "Κανὼν τοῦ Ἁγ. Ἀγαθαγγέλου."
+meMA.C2.verse = prayers_gr_GR_cog.verse_SaintM.text
 
 meMA.Ode1C11.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C11.mode = misc_gr_GR_cog.Mode6
@@ -122,9 +120,6 @@ meMA.Ode1C1T.mode = misc_gr_GR_cog.Mode6
 meMA.Ode1C1T.melody = he.h.m6_gr_GR_cog.OsEnIpeiroPezefsas.name
 meMA.Ode1C1T.incipit = "Πεποικιλμένη τῷ κάλλει τῶν ἀρετῶν…"
 meMA.Ode1C1T.text = "Πεποικιλμένη τῷ κάλλει τῶν ἀρετῶν, Θεομῆτορ ἄχραντε, τὸν Θεὸν τὸν ἀληθῆ, ὑπὲρ νοῦν συνέλαβες ἡμῖν, τὴν πηγῆν τῶν ἀγαθῶν ἀναπηγάσασα."
-
-meMA.C2.title = "Κανὼν τοῦ Ἁγ. Ἀγαθαγγέλου."
-meMA.C2.verse = prayers_gr_GR_cog.verse_SaintM.text
 
 meMA.Ode1C21.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C21.mode = misc_gr_GR_cog.Mode4

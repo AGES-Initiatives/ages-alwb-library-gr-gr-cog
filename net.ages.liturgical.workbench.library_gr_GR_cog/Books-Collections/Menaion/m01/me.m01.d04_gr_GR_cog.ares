@@ -84,12 +84,9 @@ meVE.Apolytikion2.melody = ""
 meVE.Apolytikion2.incipit = he.ga_gr_GR_cog.ApostoloiAgioi.incipit
 meVE.Apolytikion2.text = he.ga_gr_GR_cog.ApostoloiAgioi.text
 
-meCO.C1.poet = ""
-meCO.C1.acrostic.title = ""
-meCO.C1.acrostic.notice1 = ""
-meCO.C1.acrostic.text = ""
-//meCO.C1.acrostic.notice2 = ""
-meCO.C1.acrostic = "οὗ ἡ Ἀκροστιχίς· Τῇ μακρᾷ πέμπτῃ, μακρὸν ὕμνον ἐξᾴδω."
+meCO.C1.acrostic.title = "Ὁ Κανὼν,"
+meCO.C1.acrostic.notice1 = "οὗ ἡ Ἀκροστιχίς·"
+meCO.C1.acrostic.text = "Τῇ μακρᾷ πέμπτῃ, μακρὸν ὕμνον ἐξᾴδω."
 meCO.C1.title = titles_gr_GR_cog.OKanon
 meCO.C1.verse = prayers_gr_GR_cog.verse_God.text
 
@@ -282,29 +279,27 @@ meMA.Kathisma21.melody = he.a.m8_gr_GR_cog.AnestisEkNekron.name
 meMA.Kathisma21.incipit = "Ὁ μέγας Βαπτιστής, τοῦ Κυρίου…"
 meMA.Kathisma21.text = "Ὁ μέγας Βαπτιστής, τοῦ Κυρίου ἀγάλλου· ἐπέστη γὰρ Χριστός, ὑπὸ σοῦ βαπτισθῆναι, τρέμεις ὡς ὑπηρέτης· ὁ γὰρ Δεσπότης κεφαλὴν κλίνει σοι· ἅψαι τῆς θείας κάρας, τοῦ ἁπτομένου χειρὶ τὰ σύμπαντα, καὶ εὐδοκίᾳ σῴζοντος Θεοῦ, τὸ γένος τῶν ἀνθρώπων."
 
+meMA.C1.acrostic.title = "Κανὼν ὁ Προεόρτιος,"
+meMA.C1.acrostic.notice1 = "οὗ ἡ Ἀκροστιχὶς κατʼ Ἀλφάβητον."
 meMA.C1.poet = poets_gr_GR_cog.Iosif
-meMA.C1.acrostic.title = ""
-meMA.C1.acrostic.notice1 = ""
-meMA.C1.acrostic.text = ""
-//meMA.C1.acrostic.notice2 = ""
-meMA.C1.acrostic = "Κατʼ Ἀλφάβητον."
+meMA.C1.title = titles_gr_GR_cog.KanonProeortios
+meMA.C1.verse = prayers_gr_GR_cog.verse_God.text
 
-meMA.C2.acrostic.title = ""
-meMA.C2.acrostic.notice1 = ""
-meMA.C2.acrostic.text = ""
-//meMA.C2.acrostic.notice2 = ""
-meMA.C2.acrostic = "οὗ ἡ Ἀκροστιχίς· Χριστοῦ Μαθητὰς δευτέρους ἐπαινέσω. Ἰωσήφ."
+meMA.C2.acrostic.title = "Κανὼν τῶν Ἁγίων Ἀποστόλων,"
+meMA.C2.acrostic.notice1 = "οὗ ἡ Ἀκροστιχίς·"
+meMA.C2.acrostic.text = "Χριστοῦ Μαθητὰς δευτέρους ἐπαινέσω. Ἰωσήφ."
+meMA.C2.title = titles_gr_GR_cog.KanonTonApostolon
+meMA.C2.verse = prayers_gr_GR_cog.verse_Apostles.text
 
 meMA.C3.poet = poets_gr_GR_cog.Theofanous
+meMA.C3.title = titles_gr_GR_cog.KanonTouOsiou
+meMA.C3.verse = prayers_gr_GR_cog.verse_DevoutMan.text
 
 meMA.Ode1C1H.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C1H.mode = misc_gr_GR_cog.Mode6
 meMA.Ode1C1H.melody = he.h.m6_gr_GR_cog.OsEnIpeiroPezefsas.melody
 meMA.Ode1C1H.incipit = he.h.m6_gr_GR_cog.OsEnIpeiroPezefsas.incipit
 meMA.Ode1C1H.text = he.h.m6_gr_GR_cog.OsEnIpeiroPezefsas.text
-
-meMA.C1.title = titles_gr_GR_cog.KanonProeortios
-meMA.C1.verse = prayers_gr_GR_cog.verse_God.text
 
 meMA.Ode1C11.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C11.mode = misc_gr_GR_cog.Mode6
@@ -323,9 +318,6 @@ meMA.Ode1C13.mode = misc_gr_GR_cog.Mode6
 meMA.Ode1C13.melody = he.h.m6_gr_GR_cog.OsEnIpeiroPezefsas.name
 meMA.Ode1C13.incipit = "Γόνος Πατρὸς προανάρχου σὺ πεφυκώς…"
 meMA.Ode1C13.text = "Γόνος Πατρὸς προανάρχου σὺ πεφυκώς, πρὸς τὸν Γόνον εὔσπλαγχνε, Ζαχαρίου εὐτελῶς, παραγίνῃ βάπτισμα αἰτῶν, ὅπως χάριτι υἱοὺς Θεοῦ ποιήσῃς ἡμᾶς."
-
-meMA.C2.title = titles_gr_GR_cog.KanonTonApostolon
-meMA.C2.verse = prayers_gr_GR_cog.verse_Apostles.text
 
 meMA.Ode1C21.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C21.mode = misc_gr_GR_cog.Mode4
@@ -356,9 +348,6 @@ meMA.Ode1C2T.mode = misc_gr_GR_cog.Mode4
 meMA.Ode1C2T.melody = he.h.m4_gr_GR_cog.AnoixoToStomaMou.name
 meMA.Ode1C2T.incipit = "Τὸ θεῖον παλάτιον, τοῦ Βασιλέως…"
 meMA.Ode1C2T.text = "Τὸ θεῖον παλάτιον, τοῦ Βασιλέως τιμήσωμεν, ἐν ᾧ κατεσκήνωσε, καθὼς ἠθέλησε, τὴν ἀπείρανδρον, καὶ μόνην Θεοτόκον, διʼ ἧς ἐθεώθημεν, ὑμνολογήσωμεν."
-
-meMA.C3.title = titles_gr_GR_cog.KanonTouOsiou
-meMA.C3.verse = prayers_gr_GR_cog.verse_DevoutMan.text
 
 meMA.Ode1C31.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C31.mode = misc_gr_GR_cog.Mode2

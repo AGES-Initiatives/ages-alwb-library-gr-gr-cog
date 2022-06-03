@@ -83,20 +83,17 @@ meVE.Apolytikion1.melody = ""
 meVE.Apolytikion1.incipit = "Τὴν Ῥώμην μὴ λιπών…"
 meVE.Apolytikion1.text = "Τὴν Ῥώμην μὴ λιπών, πρὸς ἡμᾶς ἐπεδήμησας, διʼ ὧν ἐφόρεσας τιμίων Ἀλύσεων, τῶν Ἀποστόλων Πρωτόθρονε· ἃς ἐν πίστει προσκυνοῦντες δεόμεθα, ταῖς πρὸς Θεὸν πρεσβείαις σου, δώρησαι ἡμῖν τὸ μέγα ἔλεος."
 
-meMA.C1.acrostic.title = ""
-meMA.C1.acrostic.notice1 = ""
-meMA.C1.acrostic.text = ""
-//meMA.C1.acrostic.notice2 = ""
-meMA.C1.acrostic = "Ὁ παρὼν φέρει ἀκροστιχίδα, ἄνευ τῶν Θεοτοκίων· Πέτρου τὰ δεσμὰ προσκυνοῦμεν ἐκ πόθου."
-
-meMA.C2.acrostic.title = ""
-meMA.C2.acrostic.notice1 = ""
-meMA.C2.acrostic.text = ""
-//meMA.C2.acrostic.notice2 = ""
-meMA.C2.acrostic = "οὗ ἡ Ἀκροστιχίς· Πέτρον γεραίρω τὴν βάσιν τῶν δογμάτων Ἰωσήφ."
-
+meMA.C1.acrostic.title = "Κανὼν τοῦ Ἀποστόλου"
+meMA.C1.acrostic.notice1 = "φέρει ἀκροστιχίδα, ἄνευ τῶν Θεοτοκίων·"
+meMA.C1.acrostic.text = "Πέτρου τὰ δεσμὰ προσκυνοῦμεν ἐκ πόθου."
 meMA.C1.title = titles_gr_GR_cog.KanonATouApostolou
 meMA.C1.verse = prayers_gr_GR_cog.verse_Apostle.text
+
+meMA.C2.acrostic.title = "Ἕτερος Κανών,"
+meMA.C2.acrostic.notice1 = "οὗ ἡ Ἀκροστιχίς·"
+meMA.C2.acrostic.text = "Πέτρον γεραίρω τὴν βάσιν τῶν δογμάτων Ἰωσήφ."
+meMA.C2.title = titles_gr_GR_cog.KanonBTouApostolou
+meMA.C2.verse = prayers_gr_GR_cog.verse_Apostle.text
 
 meMA.Ode1C11.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C11.mode = misc_gr_GR_cog.Mode4
@@ -127,9 +124,6 @@ meMA.Ode1C1T.mode = misc_gr_GR_cog.Mode4
 meMA.Ode1C1T.melody = he.h.m4_gr_GR_cog.AnoixoToStomaMou.name
 meMA.Ode1C1T.incipit = "Ἁγνείας τὸ πάναγνον, ὁ ῥυπαρός…"
 meMA.Ode1C1T.text = "Ἁγνείας τὸ πάναγνον, ὁ ῥυπαρός τε καὶ ἄναγνος, ἐγὼ ἐνδιαίτημα, μέλπειν οὐ σθένω σε, Ἀπειρόγαμε διὸ με τῇ χωνείᾳ, τοῦ Πνεύματος κάθαρον, ἵνα δοξάσω σε."
-
-meMA.C2.title = titles_gr_GR_cog.KanonBTouApostolou
-meMA.C2.verse = prayers_gr_GR_cog.verse_Apostle.text
 
 meMA.Ode1C21.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C21.mode = misc_gr_GR_cog.Mode4

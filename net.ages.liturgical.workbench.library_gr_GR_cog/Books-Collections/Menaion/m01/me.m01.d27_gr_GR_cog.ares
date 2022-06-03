@@ -135,28 +135,27 @@ meMA.PostGospelIdiomelon.melody = ""
 meMA.PostGospelIdiomelon.incipit = "Σάλπιγξ χρυσόφωνος ἀνεδείχθης, χρυσοῤῥῆμον Χρυσόστομε…"
 meMA.PostGospelIdiomelon.text = "Σάλπιγξ χρυσόφωνος ἀνεδείχθης, χρυσοῤῥῆμον Χρυσόστομε, χρυσουργῶν τὰς καρδίας τῶν πιστῶν, τοῖς χρυσεπόνοις σου διδάγμασι· προφητικῶς γὰρ ἐξῆλθεν ὁ φθόγγος τῶν δογμάτων σου, Ὅσιε Πάτερ, καὶ κόσμου παντὸς τὰ πέρατα ἐφώτισεν."
 
-meMA.C1.acrostic.title = ""
-meMA.C1.acrostic.notice1 = ""
-meMA.C1.acrostic.text = ""
-//meMA.C1.acrostic.notice2 = ""
-meMA.C1.acrostic = "οὗ ἡ Ἀκροστιχίς· Χαίροις χαρᾶς σκήνωμα, τῆς λύπης λύσις. ᾨδὴ Ἰωάννου."
+meMA.C1.acrostic.title = "Κανὼν τῆς Θεοτόκου,"
+meMA.C1.acrostic.notice1 = "οὗ ἡ Ἀκροστιχίς·"
+meMA.C1.acrostic.text = "Χαίροις χαρᾶς σκήνωμα, τῆς λύπης λύσις. ᾨδὴ Ἰωάννου."
+meMA.C1.title = titles_gr_GR_cog.KanonTisTheotokou
+meMA.C1.verse = prayers_gr_GR_cog.verse_Theotokos.text
 
 meMA.C2.poet = poets_gr_GR_cog.Theofanous
+meMA.C2.title = titles_gr_GR_cog.KanonATouAgiou
+meMA.C2.verse = prayers_gr_GR_cog.verse_SaintM.text
 
-meMA.C3.acrostic.title = ""
-meMA.C3.acrostic.notice1 = ""
-meMA.C3.acrostic.text = ""
-//meMA.C3.acrostic.notice2 = ""
-meMA.C3.acrostic = "οὗ ἡ Ἀκροστιχίς· Τῷ χρυσογλώττῳ, τρίτον ἐξᾴδω μέλος. Ἰωσήφ."
+meMA.C3.acrostic.title = "Ἕτερος Κανὼν τοῦ Ἁγίου,"
+meMA.C3.acrostic.notice1 = "οὗ ἡ Ἀκροστιχίς·"
+meMA.C3.acrostic.text = "Τῷ χρυσογλώττῳ, τρίτον ἐξᾴδω μέλος. Ἰωσήφ."
+meMA.C3.title = titles_gr_GR_cog.KanonBTouAgiou
+meMA.C3.verse = prayers_gr_GR_cog.verse_SaintM.text
 
 meMA.Ode1C1H.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C1H.mode = misc_gr_GR_cog.Mode8
 meMA.Ode1C1H.melody = he.h.m8_gr_GR_cog.ArmatilatinFarao.melody
 meMA.Ode1C1H.incipit = he.h.m8_gr_GR_cog.ArmatilatinFarao.incipit
 meMA.Ode1C1H.text = he.h.m8_gr_GR_cog.ArmatilatinFarao.text
-
-meMA.C1.title = titles_gr_GR_cog.KanonTisTheotokou
-meMA.C1.verse = prayers_gr_GR_cog.verse_Theotokos.text
 
 meMA.Ode1C11.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C11.mode = misc_gr_GR_cog.Mode8
@@ -182,9 +181,6 @@ meMA.Ode1C14.melody = he.h.m8_gr_GR_cog.ArmatilatinFarao.name
 meMA.Ode1C14.incipit = "Ῥάβδος ἐκ ῥίζης Ἰεσσαὶ βλαστήσασα…"
 meMA.Ode1C14.text = "Ῥάβδος ἐκ ῥίζης Ἰεσσαὶ βλαστήσασα, χαῖρε ἀμόλυντε· χαῖρε βλαστῷ ῥάβδου, τῆς Ἀαρωνίτιδος, διαγραφεῖσα πρότερον, μυστικῶς καὶ βαθέως· ὡς γὰρ ἐκείνη τὰ κάρυα, οὕτω τὸν Χριστὸν σὺ ἐξήνθησας."
 
-meMA.C2.title = titles_gr_GR_cog.KanonATouAgiou
-meMA.C2.verse = prayers_gr_GR_cog.verse_SaintM.text
-
 meMA.Ode1C21.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C21.mode = misc_gr_GR_cog.Mode8
 meMA.Ode1C21.melody = he.h.m8_gr_GR_cog.AsmaAnapempsomen.name
@@ -208,9 +204,6 @@ meMA.Ode1C2T.mode = misc_gr_GR_cog.Mode8
 meMA.Ode1C2T.melody = he.h.m8_gr_GR_cog.AsmaAnapempsomen.name
 meMA.Ode1C2T.incipit = "Μόνη ἀπειρόγαμε σεμνή, Μαρία ἀειπάρθενε…"
 meMA.Ode1C2T.text = "Μόνη ἀπειρόγαμε σεμνή, Μαρία ἀειπάρθενε, Θεοτόκε Κυρία, ἁγνὴ ἐκλελεγμένη, ἐξαίρετε Δέσποινα, πάντων τῶν ποιημάτων, σὲ ἐλπίδα κεκτήμεθα πάντες."
-
-meMA.C3.title = titles_gr_GR_cog.KanonBTouAgiou
-meMA.C3.verse = prayers_gr_GR_cog.verse_SaintM.text
 
 meMA.Ode1C31.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C31.mode = misc_gr_GR_cog.Mode3

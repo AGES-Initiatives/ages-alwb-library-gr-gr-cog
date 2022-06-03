@@ -90,14 +90,14 @@ meMA.Kathisma21.melody = he.a.m8_gr_GR_cog.AvlonPoimenikon.name
 meMA.Kathisma21.incipit = "Βαπτίζεται Χριστός, ὁ τὸν κόσμον…"
 meMA.Kathisma21.text = "Βαπτίζεται Χριστός, ὁ τὸν κόσμον φωτίζων, ἐξ ὕψους ὁ Πατήρ, ἐμαρτύρησε λέγων. Οὗτός ἐστιν ὁ Υἱός μου, ἐν ᾧ ηὐδόκησα, αὐτοῦ ἀκούετε. Οὗτός ἐστιν ὁ φωτίζων τὴν οἰκουμένην, τῇ εὐσπλαγχνίᾳ αὐτοῦ, ὁ βαπτισθεὶς καὶ σώσας ὡς Θεός, τὸ γένος τῶν ἀνθρώπων."
 
-meMA.C2.acrostic.title = ""
-meMA.C2.acrostic.notice1 = ""
-meMA.C2.acrostic.text = ""
-//meMA.C2.acrostic.notice2 = ""
-meMA.C2.acrostic = "οὗ ἡ Ἀκροστιχίς· Τὴν καλλίπαιδα νῦν γεραίρω Δομνίκαν. Ἰωσήφ."
+meMA.C1.title = titles_gr_GR_cog.KanonTouOsiou
+meMA.C1.verse = prayers_gr_GR_cog.verse_DevoutMan.text
 
-meMA.C1.title = ""
-meMA.C1.verse = ""
+meMA.C2.acrostic.title = "Ἕτερος Κανὼν τῆς Ὁσίας,"
+meMA.C2.acrostic.notice1 = "οὗ ἡ Ἀκροστιχίς·"
+meMA.C2.acrostic.text = "Τὴν καλλίπαιδα νῦν γεραίρω Δομνίκαν. Ἰωσήφ."
+meMA.C2.title = titles_gr_GR_cog.KanonTisOsias
+meMA.C2.verse = prayers_gr_GR_cog.verse_DevoutWoman.text
 
 meMA.Ode1C11.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C11.mode = misc_gr_GR_cog.Mode4
@@ -122,9 +122,6 @@ meMA.Ode1C1T.mode = misc_gr_GR_cog.Mode4
 meMA.Ode1C1T.melody = he.h.m4_gr_GR_cog.AnoixoToStomaMou.name
 meMA.Ode1C1T.incipit = "Ἀνοίξας τὸ στόμα μου, Ἁγνὴ…"
 meMA.Ode1C1T.text = "Ἀνοίξας τὸ στόμα μου, Ἁγνὴ προῄρημαι μέλψαι σε, Σοφίαν τὴν τέξασαν, τὴν ἐνυπόστατον, ἀλλʼ ὡς ἄναγνος, τὴν Πάναγνον ὡς θέμις, ὑμνῆσαι μὴ σθένων σε, αἰτῷ βοήθειαν."
-
-meMA.C2.title = ""
-meMA.C2.verse = ""
 
 meMA.Ode1C21.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C21.mode = misc_gr_GR_cog.Mode2

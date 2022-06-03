@@ -225,17 +225,16 @@ meMA.PostGospelIdiomelon.melody = ""
 meMA.PostGospelIdiomelon.incipit = "Ὅσιε τρισμάκαρ, ἁγιώτατε Πάτερ, ὁ…"
 meMA.PostGospelIdiomelon.text = "Ὅσιε τρισμάκαρ, ἁγιώτατε Πάτερ, ὁ Ποιμὴν ὁ καλός, καὶ τοῦ Ἀρχιποίμενος Χριστοῦ Μαθητής, ὁ τιθεὶς τὴν ψυχὴν ὑπὲρ τῶν προβάτων· αὐτὸς καὶ νῦν Πανεύφημε, Θεολόγε Γρηγόριε, αἴτησαι πρεσβείαις σου, δωρηθῆναι ἡμῖν τὸ μέγα ἔλεος."
 
+meMA.C1.acrostic.title = "Κανὼν τοῦ Ἁγίου,"
+meMA.C1.acrostic.notice1 = "οὗ ἡ Ἀκροστιχίς·"
+meMA.C1.acrostic.text = "Τὸν θεορήμονα Γρηγόριον τὸν ἀοίδιμον ᾄδω."
 meMA.C1.poet = poets_gr_GR_cog.Theofanous
-meMA.C1.acrostic.title = ""
-meMA.C1.acrostic.notice1 = ""
-meMA.C1.acrostic.text = ""
-//meMA.C1.acrostic.notice2 = ""
-meMA.C1.acrostic = "οὗ ἡ Ἀκροστιχίς· Τὸν θεορήμονα Γρηγόριον τὸν ἀοίδιμον ᾄδω."
-
-meMA.C2.poet = ""
-
 meMA.C1.title = titles_gr_GR_cog.KanonATouAgiou
 meMA.C1.verse = prayers_gr_GR_cog.verse_SaintM.text
+
+meMA.C2.poet = poets_gr_GR_cog.AgiouKosma
+meMA.C2.title = titles_gr_GR_cog.KanonBTouAgiou
+meMA.C2.verse = prayers_gr_GR_cog.verse_SaintM.text
 
 meMA.Ode1C11.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C11.mode = misc_gr_GR_cog.Mode1
@@ -266,9 +265,6 @@ meMA.Ode1C2H.mode = misc_gr_GR_cog.Mode1
 meMA.Ode1C2H.melody = he.h.m1_gr_GR_cog.EpainonOTheoptis.melody
 meMA.Ode1C2H.incipit = he.h.m1_gr_GR_cog.EpainonOTheoptis.incipit
 meMA.Ode1C2H.text = he.h.m1_gr_GR_cog.EpainonOTheoptis.text
-
-meMA.C2.title = titles_gr_GR_cog.KanonBTouAgiou
-meMA.C2.verse = prayers_gr_GR_cog.verse_SaintM.text
 
 meMA.Ode1C21.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C21.mode = misc_gr_GR_cog.Mode1

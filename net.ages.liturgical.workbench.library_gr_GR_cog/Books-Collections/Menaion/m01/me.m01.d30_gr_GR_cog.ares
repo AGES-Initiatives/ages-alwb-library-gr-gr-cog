@@ -234,30 +234,29 @@ meMA.PostGospelIdiomelon.melody = ""
 meMA.PostGospelIdiomelon.incipit = me.m01.d18_gr_GR_cog.meMA.PostGospelIdiomelon.incipit
 meMA.PostGospelIdiomelon.text = me.m01.d18_gr_GR_cog.meMA.PostGospelIdiomelon.text
 
+meMA.C1.acrostic.title = "Κανὼν τῆς Θεοτόκου,"
+meMA.C1.acrostic.notice1 = "οὗ ἡ Ἀκροστιχίς, ἄνευ τὺν Εἱρμῶν·"
+meMA.C1.acrostic.text = "Τοὺς προστρέχοντας εἰς σὲ σῷζε, Παρθένε."
 meMA.C1.poet = poets_gr_GR_cog.IoannouEfchaiton
-meMA.C1.acrostic.title = ""
-meMA.C1.acrostic.notice1 = ""
-meMA.C1.acrostic.text = ""
-//meMA.C1.acrostic.notice2 = ""
-meMA.C1.acrostic = "οὗ ἡ Ἀκροστιχίς, ἄνευ τὺν Εἱρμῶν· Τοὺς προστρέχοντας εἰς σὲ σῷζε, Παρθένε."
+meMA.C1.title = titles_gr_GR_cog.KanonTisTheotokou
+meMA.C1.verse = prayers_gr_GR_cog.verse_Theotokos.text
 
+meMA.C2.acrostic.title = "Κανὼν τῶν Ἁγίων,"
+meMA.C2.acrostic.notice1 = "οὗ ἡ Ἀκροστιχίς·"
+meMA.C2.acrostic.text = "Τρισήλιον Φῶς τρεῖς ἀνῆψεν ἡλίους."
 meMA.C2.poet = poets_gr_GR_cog.IoannouEfchaiton
-meMA.C2.acrostic.title = ""
-meMA.C2.acrostic.notice1 = ""
-meMA.C2.acrostic.text = ""
-//meMA.C2.acrostic.notice2 = ""
-meMA.C2.acrostic = "οὗ ἡ Ἀκροστιχίς· Τρισήλιον Φῶς τρεῖς ἀνῆψεν ἡλίους."
+meMA.C2.title = titles_gr_GR_cog.KanonATonAgion
+meMA.C2.verse = prayers_gr_GR_cog.verse_SaintsM.text
 
 meMA.C3.poet = poets_gr_GR_cog.IoannouEfchaiton
+meMA.C3.title = titles_gr_GR_cog.KanonBTonAgion
+meMA.C3.verse = prayers_gr_GR_cog.verse_SaintsM.text
 
 meMA.Ode1C1H.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C1H.mode = misc_gr_GR_cog.Mode2
 meMA.Ode1C1H.melody = he.h.m2_gr_GR_cog.DefteLaoi.melody
 meMA.Ode1C1H.incipit = he.h.m2_gr_GR_cog.DefteLaoi.incipit
 meMA.Ode1C1H.text = he.h.m2_gr_GR_cog.DefteLaoi.text
-
-meMA.C1.title = titles_gr_GR_cog.KanonTisTheotokou
-meMA.C1.verse = prayers_gr_GR_cog.verse_Theotokos.text
 
 meMA.Ode1C11.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C11.mode = misc_gr_GR_cog.Mode2
@@ -283,9 +282,6 @@ meMA.Ode1C14.melody = he.h.m2_gr_GR_cog.DefteLaoi.name
 meMA.Ode1C14.incipit = "Σὲ οἱ πιστοί, καύχημα πάντες…"
 meMA.Ode1C14.text = "Σὲ οἱ πιστοί, καύχημα πάντες κεκτήμεθα, καταφυγὴν καὶ στήριγμα, καὶ ἀγαλλίαμα, καὶ ψυχῶν σωτηρίαν, ἐλπίδα τε καὶ τεῖχος, θεοχαρίτωτε."
 
-meMA.C2.title = titles_gr_GR_cog.KanonATonAgion
-meMA.C2.verse = prayers_gr_GR_cog.verse_SaintsM.text
-
 meMA.Ode1C21.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C21.mode = misc_gr_GR_cog.Mode2
 meMA.Ode1C21.melody = he.h.m2_gr_GR_cog.DefteLaoi.name
@@ -309,9 +305,6 @@ meMA.Ode1C2T.mode = misc_gr_GR_cog.Mode2
 meMA.Ode1C2T.melody = he.h.m2_gr_GR_cog.DefteLaoi.name
 meMA.Ode1C2T.incipit = "Σὲ τὴν κοινήν, φιλοτιμίαν Πανάμωμε…"
 meMA.Ode1C2T.text = "Σὲ τὴν κοινήν, φιλοτιμίαν Πανάμωμε, τῆς ἡμετέρας φύσεως, πάντες δοξάζομεν, χεῖλος ἓν γεγονότες, καὶ μίαν συμφωνίαν, ἀποτελέσαντες."
-
-meMA.C3.title = titles_gr_GR_cog.KanonBTonAgion
-meMA.C3.verse = prayers_gr_GR_cog.verse_SaintsM.text
 
 meMA.Ode1C31.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C31.mode = misc_gr_GR_cog.Mode8
@@ -984,7 +977,6 @@ alt1.meHO.note1 = ""
 alt1.meHO.note2 = ""
 
 alt1.meMA.C1.poet = poets_gr_GR_cog.IoannouMonachou
-
 alt1.meMA.C1.title = titles_gr_GR_cog.KanonTouAgiou
 alt1.meMA.C1.verse = prayers_gr_GR_cog.verse_SaintM.text
 

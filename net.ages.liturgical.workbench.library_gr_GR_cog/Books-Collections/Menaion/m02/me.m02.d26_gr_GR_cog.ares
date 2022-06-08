@@ -48,14 +48,17 @@ meVE.Apolytikion1.melody = he.a.m4_gr_GR_cog.OYpsotheisEnToStavro.name
 meVE.Apolytikion1.incipit = "Πορφυραυγέσιν ἀρετῶν λαμπηδόσι, καταλαμπρύνας σεαυτὸν…"
 meVE.Apolytikion1.text = "Πορφυραυγέσιν ἀρετῶν λαμπηδόσι, καταλαμπρύνας σεαυτὸν Ἱεράρχα, καθάπερ φῶς ἐξέλαμψας Πορφύριε σοφέ· λόγοις γὰρ καὶ θαύμασιν, ἀληθῶς διαπρέψας, πᾶσιν ἐβεβαίωσας, εὐσεβείας τὴν χάριν· καὶ νῦν Χριστῷ ἀΰλως λειτουργῶν, ὑπὲρ τοῦ κόσμου, μὴ παύσῃ δεόμενος."
 
+meMA.C1.acrostic.title = "Κανὼν τοῦ Ἁγίου,"
+meMA.C1.acrostic.notice1 = "οὗ ἡ Ἀκροστιχίς·"
+meMA.C1.acrostic.text = "Τὸ πορφυρίζον Ποιμένων ἄνθος σέβω. Ἰωσήφ."
+meMA.C1.title = titles_gr_GR_cog.KanonTouAgiou
+meMA.C1.verse = prayers_gr_GR_cog.verse_SaintM.text
+
 meMA.Ode1C1H.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C1H.mode = misc_gr_GR_cog.Mode8
 meMA.Ode1C1H.melody = he.h.m8_gr_GR_cog.AsomenToKyrio.melody
 meMA.Ode1C1H.incipit = he.h.m8_gr_GR_cog.AsomenToKyrio.incipit
 meMA.Ode1C1H.text = he.h.m8_gr_GR_cog.AsomenToKyrio.text
-
-meMA.C1.title = titles_gr_GR_cog.KanonTouAgiou
-meMA.C1.verse = prayers_gr_GR_cog.verse_SaintM.text
 
 meMA.Ode1C11.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C11.mode = misc_gr_GR_cog.Mode8
@@ -480,8 +483,9 @@ alt1.meMA.PostGospelIdiomelon.melody = ""
 alt1.meMA.PostGospelIdiomelon.incipit = "Δεῦτε φιλομάρτυρες πάντες, καὶ οἱ…"
 alt1.meMA.PostGospelIdiomelon.text = "Δεῦτε φιλομάρτυρες πάντες, καὶ οἱ ἐν Σμύρνῃ οἰκήτορες, Φωτεινἠν τὴν ἔνδοξον ὕμνοις τιμήσωμεν· αὕτη γὰρ τὴν ἀείζωον χάριν, βρύει ἀεννάως ἡμῖν."
 
-alt1.meMA.C1.acrostic = ""
-
+alt1.meMA.C1.acrostic.title = ""
+alt1.meMA.C1.acrostic.notice1 = ""
+alt1.meMA.C1.acrostic.text = ""
 alt1.meMA.C1.title = titles_gr_GR_cog.KanonTisAgias
 alt1.meMA.C1.verse = prayers_gr_GR_cog.verse_SaintW.text
 

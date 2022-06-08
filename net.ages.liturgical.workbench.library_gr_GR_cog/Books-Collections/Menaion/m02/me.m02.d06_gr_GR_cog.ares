@@ -102,19 +102,17 @@ meMA.Kathisma21.melody = he.a.m5_gr_GR_cog.TonSynanarchonLogon.name
 meMA.Kathisma21.incipit = me.m02.d03_gr_GR_cog.meMA.Kathisma21.incipit
 meMA.Kathisma21.text = me.m02.d03_gr_GR_cog.meMA.Kathisma21.text
 
-meMA.C1.acrostic.title = ""
-meMA.C1.acrostic.notice1 = ""
-meMA.C1.acrostic.text = ""
-//meMA.C1.acrostic.notice2 = ""
-meMA.C1.acrostic = "οὗ ἡ Ἀκροστιχίς· Τὸ Βουκόλου μέγιστον ὑμνήσω κλέος. Ἰωσήφ."
+meMA.C1.acrostic.title = "Κανὼν τοῦ Ἁγίου,"
+meMA.C1.acrostic.notice1 = "οὗ ἡ Ἀκροστιχίς·"
+meMA.C1.acrostic.text = "Τὸ Βουκόλου μέγιστον ὑμνήσω κλέος. Ἰωσήφ."
+meMA.C1.title = titles_gr_GR_cog.KanonTouAgiou
+meMA.C1.verse = prayers_gr_GR_cog.verse_SaintM.text
 
 meMA.Ode1C1H.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C1H.mode = misc_gr_GR_cog.Mode6
 meMA.Ode1C1H.melody = he.h.m6_gr_GR_cog.OsEnIpeiroPezefsas.melody
 meMA.Ode1C1H.incipit = he.h.m6_gr_GR_cog.OsEnIpeiroPezefsas.incipit
 meMA.Ode1C1H.text = he.h.m6_gr_GR_cog.OsEnIpeiroPezefsas.text
-
-meMA.C1.verse = prayers_gr_GR_cog.verse_SaintM.text
 
 meMA.Ode1C11.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C11.mode = misc_gr_GR_cog.Mode6
@@ -1162,8 +1160,11 @@ alt2.meMA.PostGospelIdiomelon.melody = ""
 alt2.meMA.PostGospelIdiomelon.incipit = "…"
 alt2.meMA.PostGospelIdiomelon.text = ""
 
-alt2.meMA.C1.acrostic = "οὗ ἡ Ἀκροστιχίς· Βαρσανουφίῳ καὶ Ἰωάννῃ αἶνος. Γερασίμου."
-
+alt2.meMA.C1.acrostic.title = "Κανὼν τῶν Ἁγίων,"
+alt2.meMA.C1.acrostic.notice1 = "οὗ ἡ Ἀκροστιχίς·"
+alt2.meMA.C1.acrostic.text = "Βαρσανουφίῳ καὶ Ἰωάννῃ αἶνος. Γερασίμου."
+alt2.meMA.C1.poet = poets_gr_GR_cog.GerasimouMonachouMikragiannanitou
+alt2.meMA.C1.title = titles_gr_GR_cog.KanonTonAgion
 alt2.meMA.C1.verse = prayers_gr_GR_cog.verse_DevoutMen.text
 
 alt2.meMA.Ode1C11.ode = misc_gr_GR_cog.Ode1

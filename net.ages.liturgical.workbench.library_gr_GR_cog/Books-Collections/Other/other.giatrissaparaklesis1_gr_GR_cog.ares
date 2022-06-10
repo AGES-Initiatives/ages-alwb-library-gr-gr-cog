@@ -3,10 +3,11 @@ A_Resource_Whose_Name = other.giatrissaparaklesis1_gr_GR_cog
 hoCA.title = "Παρακλητικὸς Κανὼν"
 hoCA.title2 = "εἰς τὴν Ὑπεραγίαν Θεοτόκον τὴν Γιάτρισσαν"
 hoCA.poet = poets_gr_GR_cog.AthanasiouSimonopetritou
-hoCA.translator = ""
+hoCA.translation.name = ""
+hoCA.translation.year = ""
 hoCA.Insert1 = ""
 
-hoCA.media.text = "" //for complete music
+hoCA.media.text = properties_gr_GR_cog.media.key
 
 hoCA.Apolytikion1.mode = misc_gr_GR_cog.Mode4
 hoCA.Apolytikion1.melody = he.a.m4_gr_GR_cog.OYpsotheisEnToStavro.name
@@ -16,12 +17,7 @@ hoCA.Apolytikion1.text = "Σωματικαῖς καὶ ψυχικαῖς ἀσ�
 hoCA.Apolytikion2.mode = misc_gr_GR_cog.Mode4
 hoCA.Apolytikion2.melody = he.a.m4_gr_GR_cog.OYpsotheisEnToStavro.name
 hoCA.Apolytikion2.incipit = "Τῆς παναγίας σου μορφῆς…"
-hoCA.Apolytikion2.text = "Τῆς παναγίας σου μορφῆς τὴν εἰκόνα, ἐν ἀσθενείαις κατακείμενοι πόθῳ, ὡς ζῶσαν ἀσπαζόμεθα, ὦ Γιάτρισσα σεμνή, καὶ θερμῶς αἰτούμεθα, ὅπως χεῖρας ἐκτείνῃς, πρὸς Υἱὸν Φιλάνθρωπον, ἵνα δῷ τὴν ὑγείαν, τοῖς δεομένοις καὶ ἱκετικῶς, βοώντων · Μῆτερ, ταχέως ἐπίσκεψαι."
-
-hoCA.Apolytikion3.mode = ho.s23_gr_GR_cog.hoCA.Apolytikion2.mode
-hoCA.Apolytikion3.melody = ho.s23_gr_GR_cog.hoCA.Apolytikion2.melody
-hoCA.Apolytikion3.incipit = ho.s23_gr_GR_cog.hoCA.Apolytikion2.incipit
-hoCA.Apolytikion3.text = ho.s23_gr_GR_cog.hoCA.Apolytikion2.text
+hoCA.Apolytikion2.text = "Τῆς παναγίας σου μορφῆς τὴν εἰκόνα, ἐν ἀσθενείαις κατακείμενοι πόθῳ, ὡς ζῶσαν ἀσπαζόμεθα, ὦ Γιάτρισσα σεμνή, καὶ θερμῶς αἰτούμεθα, ὅπως χεῖρας ἐκτείνῃς, πρὸς Υἱὸν Φιλάνθρωπον, ἵνα δῷ τὴν ὑγείαν, τοῖς δεομένοις καὶ ἱκετικῶς, βοώντων· Μῆτερ, ταχέως ἐπίσκεψαι."
 
 hoCA.acrostic.title = "Ὁ Κανών,"
 hoCA.acrostic.notice1 = "οὗ ἡ Ἀκροστιχίς·"
@@ -92,11 +88,6 @@ hoCA.Troparion31.mode = misc_gr_GR_cog.Mode8
 hoCA.Troparion31.melody = ""
 hoCA.Troparion31.incipit = "Διάσωσον…"
 hoCA.Troparion31.text = "Διάσωσον, ἀπὸ κινδύνων παντοίων, Γιάτρισσα θεία, τοὺς ἐν πίστει εἰλικρινεῖ πρὸς σὲ καταφεύγοντας, καὶ αἰτουμένους ἐκ ψυχῆς, ἰατρείαν τῶν νοσημάτων."
-
-hoCA.Troparion32.mode = misc_gr_GR_cog.Mode8
-hoCA.Troparion32.melody = ""
-hoCA.Troparion32.incipit = ho.s23_gr_GR_cog.hoCA.Troparion32.incipit
-hoCA.Troparion32.text = ho.s23_gr_GR_cog.hoCA.Troparion32.text
 
 hoCA.Kathisma11.mode = misc_gr_GR_cog.Mode2
 hoCA.Kathisma11.melody = he.a.m2_gr_GR_cog.TaAnoZiton.name
@@ -198,11 +189,6 @@ hoCA.Troparion61.melody = ""
 hoCA.Troparion61.incipit = hoCA.Troparion31.incipit
 hoCA.Troparion61.text = hoCA.Troparion31.text
 
-hoCA.Troparion62.mode = misc_gr_GR_cog.Mode8
-hoCA.Troparion62.melody = ""
-hoCA.Troparion62.incipit = ho.s23_gr_GR_cog.hoCA.Troparion62.incipit
-hoCA.Troparion62.text = ho.s23_gr_GR_cog.hoCA.Troparion62.text
-
 hoCA.Kontakion.mode = misc_gr_GR_cog.Mode2
 hoCA.Kontakion.melody = "Προστασία τῶν χριστιανῶν."
 hoCA.Kontakion.incipit = "Όδυνώμενοι βίου…"
@@ -210,13 +196,8 @@ hoCA.Kontakion.text = "Όδυνώμενοι βίου ταῖς θλίψεσι, �
 
 hoCA.PostGospelGlory.mode = misc_gr_GR_cog.Mode2
 hoCA.PostGospelGlory.melody = ""
-hoCA.PostGospelGlory.incipit =ho.s03_gr_GR_cog.hoMA.PostGospelTrinity.incipit
-hoCA.PostGospelGlory.text = ho.s03_gr_GR_cog.hoMA.PostGospelTrinity.text
-
-hoCA.PostGospelBoth.mode = misc_gr_GR_cog.Mode2
-hoCA.PostGospelBoth.melody = ""
-hoCA.PostGospelBoth.incipit = ho.s03_gr_GR_cog.hoMA.PostGospelTheotokos.incipit
-hoCA.PostGospelBoth.text = ho.s03_gr_GR_cog.hoMA.PostGospelTheotokos.text
+hoCA.PostGospelGlory.incipit = "Γιάτρισσας πρεσβείαις…"
+hoCA.PostGospelGlory.text = "Γιάτρισσας πρεσβείαις, Δέσποτα Ἐλεῆμον, ἐξάλειψον τὰ πλήθη, τῶν ἐμῶν ἐγκλημάτων."
 
 hoCA.PostGospelHymn1.mode = misc_gr_GR_cog.Mode6
 hoCA.PostGospelHymn1.melody = he.a.m6_gr_GR_cog.OlinApothemenoi.name
@@ -313,11 +294,6 @@ hoCA.Ode94.melody = he.h.m8_gr_GR_cog.KyriosTheotokon.name
 hoCA.Ode94.incipit = "Ἀγάπῃ μητρικῇ σου…"
 hoCA.Ode94.text = "Ἀγάπῃ μητρικῇ σου, ἴασαι τὰς νόσους, ψυχῆς καὶ σώματος, Πάναγνε Γιάτρισσα, καὶ Παραδείσου πολίτας, δεῖξον τὰ τέκνα σου."
 
-hoCA.Meg00.incipit = "…"
-hoCA.Meg00.text = ho.s03_gr_GR_cog.hoMA.Ode9.Meg00.text
-hoCA.Meg01.melody = misc_gr_GR_cog.Heirmos
-hoCA.Meg01.incipit = he.h.m6_gr_GR_cog.TinTimioteran.incipit
-hoCA.Meg01.text = he.h.m6_gr_GR_cog.TinTimioteran.text
 hoCA.Meg02.melody = he.h.m6_gr_GR_cog.TinTimioteran.name
 hoCA.Meg02.incipit = "Ὑπὸ τῶν πτερύγων…"
 hoCA.Meg02.text = "Ὑπὸ τῶν πτερύγων σου θαλπωρήν, Γιάτρισσα, σοὶ δοῦλοι, καταφεύγομεν ὡς στρουθοί, καὶ ἐπιζητοῦμεν, ἀσθενειῶν τὴν λύσιν, καὶ ἄλγους βαρυτάτου, ταχεῖαν λύτρωσιν."
@@ -333,8 +309,6 @@ hoCA.Meg05.text = "Κλίνῃ κατακείμενοι νοσερῶς, αἴρ
 hoCA.Meg06.melody = he.h.m6_gr_GR_cog.TinTimioteran.name
 hoCA.Meg06.incipit = "Θείαν σου εἰκόνα…"
 hoCA.Meg06.text = "Θείαν σου εἰκόνα πανευλαβῶς, Γιάτρισσα, τιμῶντες, ἀσπαζόμεθα νοερῶς, τὸν γλυκὺν Υἱόν σου, ὃν αἴτει ἀενάως, ἡμῖν τοῦ Παραδείσου, χάριν δωρήσασθαι."
-hoCA.Meg0F.incipit = ho.s23_gr_GR_cog.hoCA.Meg0F.incipit
-hoCA.Meg0F.text = ho.s23_gr_GR_cog.hoCA.Meg0F.text
 
 hoCA.Troparion1.mode = misc_gr_GR_cog.Mode2
 hoCA.Troparion1.melody = he.a.m2_gr_GR_cog.OteEkTouXylou.name

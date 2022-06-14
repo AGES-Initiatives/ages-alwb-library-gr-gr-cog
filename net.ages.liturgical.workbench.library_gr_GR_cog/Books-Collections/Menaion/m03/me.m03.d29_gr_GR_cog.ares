@@ -69,26 +69,23 @@ meVE.Apolytikion2.melody = he.a.m4_gr_GR_cog.TachyProkatalave.name
 meVE.Apolytikion2.incipit = "Χορὸν ἐννεάριθμον, πανευκλεῶν Ἀθλητῶν, καὶ…"
 meVE.Apolytikion2.text = "Χορὸν ἐννεάριθμον, πανευκλεῶν Ἀθλητῶν, καὶ λόγοις καὶ πράξεσι, πρὸς μαρτυρίου ὁδόν, λαμπρῶς ἐνισχύσατε· ὅθεν ἠγωνισμένοι, σὺν αὐτοῖς θεοφρόνως, ἅμα Βαραχησίῳ, Ἰωνᾶ θεοφόρε, πρεσβεύσατε τῷ Κυρίῳ, χάριν δοῦναι ἡμῖν καὶ ἔλεος."
 
-meMA.C1.acrostic.title = ""
-meMA.C1.acrostic.notice1 = ""
-meMA.C1.acrostic.text = ""
-//meMA.C1.acrostic.notice2 = ""
-meMA.C1.acrostic = "οὗ ἡ Ἀκροστιχὶς ἐν τοῖς Θεοτοκίοις· Γεωργίου."
+meMA.C1.acrostic.title = "Κανὼν τοῦ Ἱεράρχου,"
+meMA.C1.acrostic.notice1 = "οὗ ἡ Ἀκροστιχὶς ἐν τοῖς Θεοτοκίοις·"
+meMA.C1.acrostic.text = "Γεωργίου."
+meMA.C1.title = titles_gr_GR_cog.KanonTouIerarchou
+meMA.C1.verse = prayers_gr_GR_cog.verse_SaintM.text
 
-meMA.C2.acrostic.title = ""
-meMA.C2.acrostic.notice1 = ""
-meMA.C2.acrostic.text = ""
-//meMA.C2.acrostic.notice2 = ""
-meMA.C2.acrostic = "οὗ ηʼ Ἀκροστιχίς· Αἶνον προσοίσω τοῖς Θεῷ παραστάταις. Ἰωσήφ."
+meMA.C2.acrostic.title = "Κανὼν τῶν Μαρτύρων,"
+meMA.C2.acrostic.notice1 = "οὗ ἡ Ἀκροστιχίς·"
+meMA.C2.acrostic.text = "Αἶνον προσοίσω τοῖς Θεῷ παραστάταις. Ἰωσήφ."
+meMA.C2.title = titles_gr_GR_cog.KanonTonMartyron
+meMA.C2.verse = prayers_gr_GR_cog.verse_SaintsM.text
 
 meMA.Ode1C1H.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C1H.mode = misc_gr_GR_cog.Mode1
 meMA.Ode1C1H.melody = he.h.m1_gr_GR_cog.ToVoithisantiTheo.melody
 meMA.Ode1C1H.incipit = he.h.m1_gr_GR_cog.ToVoithisantiTheo.incipit
 meMA.Ode1C1H.text = he.h.m1_gr_GR_cog.ToVoithisantiTheo.text
-
-meMA.C1.title = titles_gr_GR_cog.KanonTonMartyron
-meMA.C1.verse = prayers_gr_GR_cog.verse_SaintsM.text
 
 meMA.Ode1C11.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C11.mode = misc_gr_GR_cog.Mode1
@@ -119,9 +116,6 @@ meMA.Ode1C2H.mode = misc_gr_GR_cog.Mode1
 meMA.Ode1C2H.melody = he.h.m1_gr_GR_cog.SouITropaiouchos.melody
 meMA.Ode1C2H.incipit = he.h.m1_gr_GR_cog.SouITropaiouchos.incipit
 meMA.Ode1C2H.text = he.h.m1_gr_GR_cog.SouITropaiouchos.text
-
-meMA.C2.title = ""
-meMA.C2.verse = ""
 
 meMA.Ode1C21.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C21.mode = misc_gr_GR_cog.Mode1

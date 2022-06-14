@@ -115,21 +115,18 @@ meMA.Kathisma2T.melody = me.m06.d29_gr_GR_cog.meMA.Kathisma2T.melody
 meMA.Kathisma2T.incipit = me.m06.d29_gr_GR_cog.meMA.Kathisma2T.incipit
 meMA.Kathisma2T.text = me.m06.d29_gr_GR_cog.meMA.Kathisma2T.text
 
-meMA.C1.acrostic.title = ""
-meMA.C1.acrostic.notice1 = ""
-meMA.C1.acrostic.text = ""
-//meMA.C1.acrostic.notice2 = ""
-meMA.C1.acrostic = "οὗ ἡ Ἀκροστιχίς· Πέτρον γεραίρω, Παῦλον ὑμνῶ προφρόνως."
-
-meMA.C2.poet = poets_gr_GR_cog.Theofanous
-meMA.C2.acrostic.title = ""
-meMA.C2.acrostic.notice1 = ""
-meMA.C2.acrostic.text = ""
-//meMA.C2.acrostic.notice2 = ""
-meMA.C2.acrostic = " οὗ ἡ Ἀκροστιχίς· Χριστοῦ γεραίρω τοὺς σοφοὺς Ἀποστόλους."
-
+meMA.C1.acrostic.title = "Ὁ Κανὼν τῶν Κορυφαίων,"
+meMA.C1.acrostic.notice1 = "οὗ ἡ Ἀκροστιχίς·"
+meMA.C1.acrostic.text = "Πέτρον γεραίρω, Παῦλον ὑμνῶ προφρόνως."
 meMA.C1.title = "Κανὼν τῶν Κορυφαίων."
 meMA.C1.verse = prayers_gr_GR_cog.verse_Apostles.text
+
+meMA.C2.acrostic.title = "Ὁ Κανὼν τῶν ΙΒʹ,"
+meMA.C2.acrostic.notice1 = "οὗ ἡ Ἀκροστιχίς·"
+meMA.C2.acrostic.text = "Χριστοῦ γεραίρω τοὺς σοφοὺς Ἀποστόλους."
+meMA.C2.poet = poets_gr_GR_cog.Theofanous
+meMA.C2.title = "Κανὼν τῶν ΙΒʹ."
+meMA.C2.verse = prayers_gr_GR_cog.verse_Apostles.text
 
 meMA.Ode1C1H.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C1H.mode = misc_gr_GR_cog.Mode4
@@ -160,9 +157,6 @@ meMA.Ode1C1T.mode = misc_gr_GR_cog.Mode4
 meMA.Ode1C1T.melody = he.h.m4_gr_GR_cog.AnoixoToStomaMou.name
 meMA.Ode1C1T.incipit = "Ῥητόρων πολύφθογγοι, καὶ μουσικῶν λίαν…"
 meMA.Ode1C1T.text = "Ῥητόρων πολύφθογγοι, καὶ μουσικῶν λίαν εὔηχοι, γλῶσσαί σε οὐ σθένουσι, τιμᾶν ἢ μέλπειν Ἁγνή, ὑπὲρ ἄνθρωπον· καὶ γὰρ τὸ πεπραγμένον, ἐν σοὶ μόνῃ πέφυκε, θεῖον μυστήριον."
-
-meMA.C2.title = "Κανὼν τῶν Δώδεκα."
-meMA.C2.verse = prayers_gr_GR_cog.verse_Apostles.text
 
 meMA.Ode1C21.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C21.mode = misc_gr_GR_cog.Mode4

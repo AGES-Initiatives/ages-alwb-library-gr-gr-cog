@@ -92,15 +92,14 @@ meVE.Apolytikion1.incipit = "Θεῖα ὄργανα, τοῦ Παρακλήτ�
 meVE.Apolytikion1.text = "Θεῖα ὄργανα, τοῦ Παρακλήτου, καὶ ἐκφάντορες, τοῦ Θεοῦ Λόγου, ἀνεδείχθητε θεόπται Ἀπόστολοι, Βαρθολομαῖε τῶν Δώδεκα σύσκηνε, καὶ Βαρνάβα ὡς υἱὸς παρακλήσεως. Ἀλλʼ αἰτήσασθε, Χριστὸν τὸν Θεὸν πανεύφημοι, δωρήσασθαι ἡμῖν τὸ μέγα ἔλεος."
 
 meMA.C1.poet = poets_gr_GR_cog.Theofanous
+meMA.C1.title = "Κανὼν τοῦ Ἁγίου Βαρθολομαίου."
+meMA.C1.verse = prayers_gr_GR_cog.verse_Apostle.text
 
-meMA.C2.acrostic.title = ""
-meMA.C2.acrostic.notice1 = ""
-meMA.C2.acrostic.text = ""
-//meMA.C2.acrostic.notice2 = ""
-meMA.C2.acrostic = "οὗ ηʼ Ἀκροστιχίς· ᾨδὴν πλέκω σου Βαρνάβα θεηγόρε (ἄνευ τῶν Θεοτοκίων)."
-
-meMA.C1.title = ""
-meMA.C1.verse = ""
+meMA.C2.acrostic.title = "Κανὼν τοῦ Ἁγίου Βαρνάβα,"
+meMA.C2.acrostic.notice1 = "οὗ ηʼ Ἀκροστιχὶς (ἄνευ τῶν Θεοτοκίων)·"
+meMA.C2.acrostic.text = "ᾨδὴν πλέκω σου Βαρνάβα θεηγόρε."
+meMA.C2.title = "Κανὼν τοῦ Ἁγίου Βαρνάβα."
+meMA.C2.verse = prayers_gr_GR_cog.verse_Apostle.text
 
 meMA.Ode1C11.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C11.mode = misc_gr_GR_cog.Mode2
@@ -113,9 +112,6 @@ meMA.Ode1C12.mode = misc_gr_GR_cog.Mode2
 meMA.Ode1C12.melody = he.h.m2_gr_GR_cog.EnVythoKatestrose.name
 meMA.Ode1C12.incipit = "Ἀρετῶν εἰς ὕψος ἀναβάς, γλῶσσαν…"
 meMA.Ode1C12.text = "Ἀρετῶν εἰς ὕψος ἀναβάς, γλῶσσαν τὴν πυρίπνοον, πυροειδῶς μερισθεῖσαν ἐπλούτησας, ὡς Χριστοῦ Ἀπόστολος, παρουσίᾳ τοῦ Παρακλήτου Πανάριστε, τὴν τῆς ἀσεβείας ὕλην, δαπανῶσαν καὶ κουφότητα."
-
-meMA.C2.title = ""
-meMA.C2.verse = ""
 
 meMA.Ode1C21.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C21.mode = misc_gr_GR_cog.Mode2
@@ -725,12 +721,15 @@ alt1.meMA.PostGospelIdiomelon.incipit = "Τῷ τοῦ Πνεύματος φωτ
 alt1.meMA.PostGospelIdiomelon.text = "Τῷ τοῦ Πνεύματος φωτί, διαλάμπων πανταχοῦ, τῆς ἀσεβείας τὸ σκότος διέλυσας Βαρθολομαῖε Ἀπόστολε· καὶ υἱοὺς φωτὸς ἀπειργάσω, τοὺς πρὶν τέκνα ὀργῆς χρηματίζοντας, καὶ Χριστῷ προσήγαγες, ὡς ἐκλεκτὸν ὀψώνιον. Αὐτὸν ἱκέτευε, ὑπὲρ τῶν τιμώντων σε."
 
 alt1.meMA.C1.poet = meMA.C1.poet
-
-alt1.meMA.C2.poet = poets_gr_GR_cog.GerasimouMonachouMikragiannanitou
-alt1.meMA.C2.acrostic = "οὗ ἡ ἀκροστοιχίς· Βαρθολοµαίῳ τὸν ὕµνον φέρω. Γερασίµου."
-
 alt1.meMA.C1.title = titles_gr_GR_cog.KanonATouAgiou
 alt1.meMA.C1.verse = prayers_gr_GR_cog.verse_SaintM.text
+
+alt1.meMA.C2.acrostic.title = "Ἕτερος Κανὼν τοῦ Ἁγίου Βαρθολομαίου,"
+alt1.meMA.C2.acrostic.notice = "οὗ ἡ ἀκροστοιχίς·"
+alt1.meMA.C2.acrostic.text = "Βαρθολοµαίῳ τὸν ὕµνον φέρω. Γερασίµου."
+alt1.meMA.C2.poet = poets_gr_GR_cog.GerasimouMonachouMikragiannanitou
+alt1.meMA.C2.title = titles_gr_GR_cog.KanonBTouAgiou
+alt1.meMA.C2.verse = prayers_gr_GR_cog.verse_SaintM.text
 
 alt1.meMA.Ode1C11.ode = meMA.Ode1C11.ode
 alt1.meMA.Ode1C11.mode = meMA.Ode1C11.mode
@@ -749,9 +748,6 @@ alt1.meMA.Ode1C1T.mode = meMA.Ode1C2T.mode
 alt1.meMA.Ode1C1T.melody = meMA.Ode1C2T.melody
 alt1.meMA.Ode1C1T.incipit = meMA.Ode1C2T.incipit
 alt1.meMA.Ode1C1T.text = meMA.Ode1C2T.text
-
-alt1.meMA.C2.title = titles_gr_GR_cog.KanonBTouAgiou
-alt1.meMA.C2.verse = prayers_gr_GR_cog.verse_SaintM.text
 
 alt1.meMA.Ode1C21.ode = misc_gr_GR_cog.Ode1
 alt1.meMA.Ode1C21.mode = misc_gr_GR_cog.Mode4

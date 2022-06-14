@@ -61,15 +61,12 @@ meVE.Apolytikion1.mode = misc_gr_GR_cog.Mode3
 meVE.Apolytikion1.melody = he.ga_gr_GR_cog.ApostoleAgie.name
 meVE.GeneralApolytikion1.name = "Σίμων," // name of saint for General Apolytikia
 
+meMA.C1.acrostic.title = "Κανὼν τοῦ Ἀποστόλου,"
+meMA.C1.acrostic.notice1 = "οὗ ἡ Ἀκροστιχίς·"
+meMA.C1.acrostic.text = "Ἀποστόλου Σίμωνος ἐξᾴδω κλέος."
 meMA.C1.poet = poets_gr_GR_cog.Theofanous
-meMA.C1.acrostic.title = ""
-meMA.C1.acrostic.notice1 = ""
-meMA.C1.acrostic.text = ""
-//meMA.C1.acrostic.notice2 = ""
-meMA.C1.acrostic = "οὗ ἡ Ἀκροστιχίς· Ἀποστόλου Σίμωνος ἐξᾴδω κλέος."
-
-meMA.C1.title = ""
-meMA.C1.verse = ""
+meMA.C1.title = titles_gr_GR_cog.KanonTouApostolou
+meMA.C1.verse = prayers_gr_GR_cog.verse_Apostle.text
 
 meMA.Ode1C11.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C11.mode = misc_gr_GR_cog.Mode8

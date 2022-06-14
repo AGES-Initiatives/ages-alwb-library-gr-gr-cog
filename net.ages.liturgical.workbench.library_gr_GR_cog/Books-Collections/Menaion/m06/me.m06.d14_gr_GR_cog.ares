@@ -96,21 +96,18 @@ meVE.Apolytikion2.mode = misc_gr_GR_cog.Mode8
 meVE.Apolytikion2.melody = he.ga_gr_GR_cog.OrthodoxiasOdigeH.name
 meVE.GeneralApolytikion2.name = "Μεθόδιε" // name of saint for General Apolytikia
 
+meMA.C1.acrostic.title = "Ὁ Κανὼν τοῦ Προφήτου,"
+meMA.C1.acrostic.notice1 = "οὗ ἡ Ἀκροστιχὶς (ἄνευ τῶν Θεοτοκίων)·"
+meMA.C1.acrostic.text = "Χαῖρε Προφῆτα τοῦ Θεοῦ πανόλβιε."
 meMA.C1.poet = poets_gr_GR_cog.IoannouMonachou
-meMA.C1.acrostic.title = ""
-meMA.C1.acrostic.notice1 = ""
-meMA.C1.acrostic.text = ""
-//meMA.C1.acrostic.notice2 = ""
-meMA.C1.acrostic = "οὗ ἡ Ἀκροστιχίς· Χαῖρε Προφῆτα τοῦ Θεοῦ πανόλβιε. (Ἄνευ τῶν Θεοτοκίων)."
+meMA.C1.title = titles_gr_GR_cog.KanonTouProfitou
+meMA.C1.verse = prayers_gr_GR_cog.verse_Prophet.text
 
-meMA.C2.acrostic.title = ""
-meMA.C2.acrostic.notice1 = ""
-meMA.C2.acrostic.text = ""
-//meMA.C2.acrostic.notice2 = ""
-meMA.C2.acrostic = "οὗ ἡ Ἀκροστιχίς· Ἀρχιερῆα Θεοῖο, Μεθόδιον ᾄσματι μέλπω."
-
-meMA.C1.title = ""
-meMA.C1.verse = ""
+meMA.C2.acrostic.title = "Ὁ Κανὼν τοῦ Ἱεράρχου,"
+meMA.C2.acrostic.notice1 = "οὗ ἡ Ἀκροστιχίς·"
+meMA.C2.acrostic.text = "Ἀρχιερῆα Θεοῖο, Μεθόδιον ᾄσματι μέλπω."
+meMA.C2.title = titles_gr_GR_cog.KanonTouAgiou
+meMA.C2.verse = prayers_gr_GR_cog.verse_SaintM.text
 
 meMA.Ode1C11.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C11.mode = misc_gr_GR_cog.Mode8
@@ -135,9 +132,6 @@ meMA.Ode1C1T.mode = misc_gr_GR_cog.Mode8
 meMA.Ode1C1T.melody = he.h.m8_gr_GR_cog.AsomenToKyrio.name
 meMA.Ode1C1T.incipit = "ᾌσωμεν τῷ Κυρίῳ τῷ ἐκ…"
 meMA.Ode1C1T.text = "ᾌσωμεν τῷ Κυρίῳ τῷ ἐκ τῆς Παρθένου εὐδοκήσαντι, σαρκωθῆναι ἀσπόρως, εἰς ἡμῶν σωτηρίαν καὶ λύτρωσιν."
-
-meMA.C2.title = ""
-meMA.C2.verse = ""
 
 meMA.Ode1C21.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C21.mode = misc_gr_GR_cog.Mode2

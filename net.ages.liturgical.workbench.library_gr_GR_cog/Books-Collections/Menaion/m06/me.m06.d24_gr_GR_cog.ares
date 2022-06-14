@@ -218,28 +218,25 @@ meMA.PostGospelIdiomelon.melody = misc_gr_GR_cog.Idiomelon
 meMA.PostGospelIdiomelon.incipit = "Ὁ ἐκ κοιλίας μητρὸς ἁγιασθείς…"
 meMA.PostGospelIdiomelon.text = "Ὁ ἐκ κοιλίας μητρὸς ἁγιασθείς, καὶ τῆς προφητείας δεξάμενος τὸ πλήρωμα, σήμερον ἐκ στείρας γεγέννηται, τοῦ Κυρίου τὴν ἔλευσιν κηρύττων τρανῶς· Μετανοεῖτε· ἤγγικε γὰρ ἡ βασιλεία τῶν οὐρανῶν."
 
+meMA.C1.acrostic.title = "Ὁ Κανών,"
+meMA.C1.acrostic.notice1 = "φέρων Ἀκροστιχίδα·"
+meMA.C1.acrostic.text = "Τῷ Προδρόμου γέγηθα νῦν Γενεθλίῳ."
 meMA.C1.poet = poets_gr_GR_cog.IoannouTouDamaskinou
-meMA.C1.acrostic.title = ""
-meMA.C1.acrostic.notice1 = ""
-meMA.C1.acrostic.text = ""
-//meMA.C1.acrostic.notice2 = ""
-meMA.C1.acrostic = "φέρων Ἀκροστιχίδα· Τῷ Προδρόμου γέγηθα νῦν Γενεθλίῳ."
+meMA.C1.title = titles_gr_GR_cog.KanonATouProdromou
+meMA.C1.verse = prayers_gr_GR_cog.verse_Baptist.text
 
+meMA.C2.acrostic.title = "Ἕτερος Κανών,"
+meMA.C2.acrostic.notice1 = "οὗ ἡ Ἀκροστιχίς·"
+meMA.C2.acrostic.text = "Κο(ι)νῆς χ(α)ρὰς (Π)ρόδρομον (ε)ὐφη(μ)ῶ πό(θ)ῳ."
 meMA.C2.poet = poets_gr_GR_cog.Georgiou
-meMA.C2.acrostic.title = ""
-meMA.C2.acrostic.notice1 = ""
-meMA.C2.acrostic.text = ""
-//meMA.C2.acrostic.notice2 = ""
-meMA.C2.acrostic = "οὗ ἡ Ἀκροστιχίς· Κο(ι)νῆς χ(α)ρὰς (Π)ρόδρομον (ε)ὐφη(μ)ῶ πό(θ)ῳ."
+meMA.C2.title = titles_gr_GR_cog.KanonBTouProdromou
+meMA.C2.verse = prayers_gr_GR_cog.verse_Baptist.text
 
 meMA.Ode1C1H.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C1H.mode = misc_gr_GR_cog.Mode4
 meMA.Ode1C1H.melody = he.h.m4_gr_GR_cog.TristatasKrataious.melody
 meMA.Ode1C1H.incipit = he.h.m4_gr_GR_cog.TristatasKrataious.incipit
 meMA.Ode1C1H.text = he.h.m4_gr_GR_cog.TristatasKrataious.text
-
-meMA.C1.title = titles_gr_GR_cog.KanonATouProdromou
-meMA.C1.verse = prayers_gr_GR_cog.verse_Baptist.text
 
 meMA.Ode1C11.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C11.mode = misc_gr_GR_cog.Mode4
@@ -264,9 +261,6 @@ meMA.Ode1C1T.mode = misc_gr_GR_cog.Mode4
 meMA.Ode1C1T.melody = he.h.m4_gr_GR_cog.TristatasKrataious.name
 meMA.Ode1C1T.incipit = "Ἡ πόλις τοῦ Θεοῦ, τὸ…"
 meMA.Ode1C1T.text = "Ἡ πόλις τοῦ Θεοῦ, τὸ τοῦ παμβασιλέως, θεοδόχον εὐαγές, κειμήλιον σεπτόν, Θεοτόκε πανάμωμε, φρούρησον σὴν κληρουχίαν, τὴν ἀεὶ εὐφημοῦσάν σε, καὶ γεραίρουσαν πίστει τὸν τόκον σου."
-
-meMA.C2.title = titles_gr_GR_cog.KanonBTouProdromou
-meMA.C2.verse = prayers_gr_GR_cog.verse_Baptist.text
 
 meMA.Ode1C21.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C21.mode = misc_gr_GR_cog.Mode4

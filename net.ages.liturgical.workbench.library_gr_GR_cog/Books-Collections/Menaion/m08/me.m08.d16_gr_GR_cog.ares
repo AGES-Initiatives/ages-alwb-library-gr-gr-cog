@@ -87,15 +87,15 @@ meMA.Kathisma21.melody = he.a.m4_gr_GR_cog.KateplagiIosif.name
 meMA.Kathisma21.incipit = "Ἐν χερσὶ τοῦ διʼ ἡμᾶς…"
 meMA.Kathisma21.text = "Ἐν χερσὶ τοῦ διʼ ἡμᾶς, ἐνανθρωπήσαντος ἐκ σοῦ, παραθεμένην τὴν ψυχήν, ὡς πλαστουργός σου καὶ Θεός, πρὸς τὴν ἀκήρατον μετέστησεν εὐφροσύνην· ὅθεν σε σεπτῶς μακαρίζομεν, τὴν μόνην καθαρὰν καὶ ἀμόλυντον, καὶ Θεοτόκον ἅπαντες κυρίως, ὁμολογοῦντες κραυγάζομεν· Χριστὸν δυσώπει, πρὸς ὃν μετέστης, σῶσαι τὰς ψυχάς ἡμῶν."
 
+meMA.C1.acrostic.title = "Ὁ Κανὼν τῆς Ἁγίας Εἰκόνος,"
+meMA.C1.acrostic.notice1 = "οὗ ἡ Ἀκροστιχίς·"
+meMA.C1.acrostic.text = "Σῆς ἐκσφράγισμα, Σῶτερ, ὄψεως σέβω."
 meMA.C1.poet = poets_gr_GR_cog.GermanouPatriarchou
-meMA.C1.acrostic.title = ""
-meMA.C1.acrostic.notice1 = ""
-meMA.C1.acrostic.text = ""
-//meMA.C1.acrostic.notice2 = ""
-meMA.C1.acrostic = "οὗ ἡ Ἀκροστιχίς· Σῆς ἐκσφράγισμα, Σῶτερ, ὄψεως σέβω."
-
-meMA.C1.title = "Κανὼν τοῦ Μανδυλίου."
+meMA.C1.title = "Κανὼν τοῦ Εἰκόνος."
 meMA.C1.verse = prayers_gr_GR_cog.verse_God.text
+
+meMA.C2.title = titles_gr_GR_cog.KanonTouAgiou
+meMA.C2.verse = prayers_gr_GR_cog.verse_SaintM.text
 
 meMA.Ode1C11.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C11.mode = misc_gr_GR_cog.Mode6
@@ -120,9 +120,6 @@ meMA.Ode1C1T.mode = misc_gr_GR_cog.Mode6
 meMA.Ode1C1T.melody = he.h.m6_gr_GR_cog.OsEnIpeiroPezefsas.name
 meMA.Ode1C1T.incipit = "Ἐκ τῶν ἀγνῶν σου λαγόνων…"
 meMA.Ode1C1T.text = "Ἐκ τῶν ἀγνῶν σου λαγόνων ὑπερφυῶς, σάρκα δανεισάμενος, ὁ τὸ εἶναι παρασχών, πᾶσι Παναμώμητε βροτοῖς, καθωράθη, οὐκ ἐκστὰς οὗ ἦν τὸ πρότερον."
-
-meMA.C2.title = titles_gr_GR_cog.KanonTouAgiou
-meMA.C2.verse = prayers_gr_GR_cog.verse_SaintM.text
 
 meMA.Ode1C21.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C21.mode = misc_gr_GR_cog.Mode4
@@ -804,11 +801,14 @@ alt1.meMA.PostGospelIdiomelon.melody = ""
 alt1.meMA.PostGospelIdiomelon.incipit = "Δέδοται πιστοῖς παρὰ Θεοῦ θησαυρὸς…"
 alt1.meMA.PostGospelIdiomelon.text = "Δέδοται πιστοῖς παρὰ Θεοῦ θησαυρὸς ἀσύλητος, Γεράσιμε Ὅσιε, τὸ πάνσεπτον Σκῆνός σου. Διὸ πνευματικὴν εὐφροσύνην, καὶ ἰαμάτων τὴν χάριν, βρύεις ἀεννάως Μακάριε, τοῖς προστρέχουσιν ἐν πίστει τῇ Σορῷ σου τῇ θείᾳ. Πρέσβευε Χριστῷ τῷ Θεῷ, ἁγιώτατε Πάτερ, ἀτρώτους ἡμᾶς κινδύνων διασῴζεσθαι."
 
-alt1.meMA.C1.poet = ""
-alt1.meMA.C1.acrostic = ""
-
 alt1.meMA.C1.title = titles_gr_GR_cog.KanonATouAgiou
 alt1.meMA.C1.verse = prayers_gr_GR_cog.verse_SaintM.text
+
+alt1.meMA.C2.acrostic.title = "Κανὼν δεύτερος,"
+alt1.meMA.C2.acrostic.notice1 = "οὗ ἡ ἀκροστιχίς, ἄνευ τῶν Θεοτοκίων·"
+alt1.meMA.C2.acrostic.text = "Ἅδω σοι τὸν ὕμνον ὁ δοῦλός σου."
+alt1.meMA.C2.title = titles_gr_GR_cog.KanonBTouAgiou
+alt1.meMA.C2.verse = prayers_gr_GR_cog.verse_SaintM.text
 
 alt1.meMA.Ode1C11.ode = misc_gr_GR_cog.Ode1
 alt1.meMA.Ode1C11.mode = misc_gr_GR_cog.Mode4
@@ -833,12 +833,6 @@ alt1.meMA.Ode1C14.mode = misc_gr_GR_cog.Mode4
 alt1.meMA.Ode1C14.melody = he.h.m4_gr_GR_cog.AnoixoToStomaMou.name
 alt1.meMA.Ode1C14.incipit = "Τοὺς σὲ καταστέφοντας, νῦν ἐγκωμίων…"
 alt1.meMA.Ode1C14.text = "Τοὺς σὲ καταστέφοντας, νῦν ἐγκωμίων τοῖς ᾄσμασι, ἐν θρόνῳ τῆς χάριτος, παρεστηκὼς ἐφ’ ἡμᾶς, ταῖς πρεσβείαις σου, ἐπίβλεψον, καὶ ῥῦσαι, παντοίων ἐκ θλίψεων, Μάκαρ Γεράσιμε."
-
-alt1.meMA.C2.poet = ""
-alt1.meMA.C2.acrostic = "Οὗ ἡ ἀκροστιχίς, ἄνευ τῶν Θεοτοκίων. Ἅδω σοι τὸν ὕμνον ὁ δοῦλός σου."
-
-alt1.meMA.C2.title = titles_gr_GR_cog.KanonBTouAgiou
-alt1.meMA.C2.verse = prayers_gr_GR_cog.verse_SaintM.text
 
 alt1.meMA.Ode1C21.ode = misc_gr_GR_cog.Ode1
 alt1.meMA.Ode1C21.mode = misc_gr_GR_cog.Mode8

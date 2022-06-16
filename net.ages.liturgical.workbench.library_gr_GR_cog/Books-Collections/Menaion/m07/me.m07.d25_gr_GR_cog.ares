@@ -113,12 +113,6 @@ meMA.Kathisma21.melody = he.a.m1_gr_GR_cog.TonTafonSouSotir.name
 meMA.Kathisma21.incipit = "Τὰς νόμου ἐντολάς…"
 meMA.Kathisma21.text = "Τὰς νόμου ἐντολάς, θεαρέστως τηροῦσα, μητέρας Ἰσραήλ, ὑπερῆρας ἁπάσας, τὴν μόνην ἀειπάρθενον, Θεοτόκον κυήσασα, ἁγιόλεκτε, Ἄννα Προμῆτορ Κυρίου· μεταστᾶσα δέ, ἐκ γῆς πρὸς θεῖον νυμφῶνα, δικαίων ὑπέρκεισαι."
 
-meMA.C1.acrostic.title = ""
-meMA.C1.acrostic.notice1 = ""
-meMA.C1.acrostic.text = ""
-//meMA.C1.acrostic.notice2 = ""
-meMA.C1.acrostic = ""
-
 meMA.C1.title = titles_gr_GR_cog.KanonTisAgias
 meMA.C1.verse = prayers_gr_GR_cog.verse_SaintW.text
 
@@ -395,14 +389,11 @@ alt1.meMA.PostGospelIdiomelon.melody = ""
 alt1.meMA.PostGospelIdiomelon.incipit = "Τῇ τοῦ Θεοῦ βουλῇ, ὡς…"
 alt1.meMA.PostGospelIdiomelon.text = "Τῇ τοῦ Θεοῦ βουλῇ, ὡς καθαρὰ τὴν ψυχὴν διηκόνησας, τὴν τούτου Παναγίαν Μητέρα, ἐν γήρατι τέξασα, Ἄννα πολυύμνητε· καὶ καλῶς τελέσασα τὸν τῆς ἐν γῇ παροικίας δρόμον, πρὸς αἰωνίους μονὰς ἀνέδραμες, καὶ τῶν ὑπὲρ λόγον ἀγαθῶν ἠξιώθης, ὡς τῆς Πανάγνου Θεοτόκου, Μήτηρ πανευκλεής. Καὶ νῦν δυσωποῦμέν σε· Σὺν αὐτῇ πρέσβευε, τῷ ἐλεήμονι Κυρίῳ, σώζεσθαι ἡμᾶς τοὺς εὐλαβῶς σε μακαρίζοντας."
 
-alt1.meMA.C1.poet = ""
-alt1.meMA.C1.acrostic = ""
-
-alt1.meMA.C2.poet = ""
-alt1.meMA.C2.acrostic = ""
-
 alt1.meMA.C1.title = titles_gr_GR_cog.KanonATisAgias
 alt1.meMA.C1.verse = prayers_gr_GR_cog.verse_SaintW.text
+
+alt1.meMA.C2.title = titles_gr_GR_cog.KanonBTisAgias
+alt1.meMA.C2.verse = prayers_gr_GR_cog.verse_SaintW.text
 
 alt1.meMA.Ode1C1H.ode = misc_gr_GR_cog.Ode1
 alt1.meMA.Ode1C1H.mode = misc_gr_GR_cog.Mode4
@@ -439,9 +430,6 @@ alt1.meMA.Ode1C1T.mode = misc_gr_GR_cog.Mode4
 alt1.meMA.Ode1C1T.melody = he.h.m4_gr_GR_cog.AnoixoToStomaMou.name
 alt1.meMA.Ode1C1T.incipit = meMA.Ode1C1T.incipit
 alt1.meMA.Ode1C1T.text = meMA.Ode1C1T.text
-
-alt1.meMA.C2.title = titles_gr_GR_cog.KanonBTisAgias
-alt1.meMA.C2.verse = prayers_gr_GR_cog.verse_SaintW.text
 
 alt1.meMA.Ode1C21.ode = misc_gr_GR_cog.Ode1
 alt1.meMA.Ode1C21.mode = misc_gr_GR_cog.Mode8

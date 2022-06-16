@@ -153,21 +153,18 @@ meMA.PostGospelIdiomelon.melody = ""
 meMA.PostGospelIdiomelon.incipit = me.m07.d17_gr_GR_cog.meVE.Lity3.incipit
 meMA.PostGospelIdiomelon.text = me.m07.d17_gr_GR_cog.meVE.Lity3.text
 
-meMA.C1.acrostic.title = ""
-meMA.C1.acrostic.notice1 = ""
-meMA.C1.acrostic.text = ""
-//meMA.C1.acrostic.notice2 = ""
-meMA.C1.acrostic = " οὗ ἡ Ἀκροστιχίς· Χριστοῦ Παρθενομάρτυρα νύμφην ᾄσμασι μέλπω."
+meMA.C1.acrostic.title = "Κανὼν πρῶτος τῆς Ἁγίας,"
+meMA.C1.acrostic.notice1 = "οὗ ἡ Ἀκροστιχίς·"
+meMA.C1.acrostic.text = "Χριστοῦ Παρθενομάρτυρα νύμφην ᾄσμασι μέλπω."
 meMA.C1.poet = poets_gr_GR_cog.Theofanous
-
-meMA.C2.acrostic.title = ""
-meMA.C2.acrostic.notice1 = ""
-meMA.C2.acrostic.text = ""
-//meMA.C2.acrostic.notice2 = ""
-meMA.C2.acrostic = " οὗ ἡ Ἀκροστιχὶς ἐν τῇ θʹ ᾨδῇ. Ἰωσήφ."
-
 meMA.C1.title = titles_gr_GR_cog.KanonATisAgias
 meMA.C1.verse = prayers_gr_GR_cog.verse_SaintW.text
+
+meMA.C2.acrostic.title = "Κανὼν δεύτερος,"
+meMA.C2.acrostic.notice1 = "οὗ ἡ Ἀκροστιχὶς ἐν τῇ θʹ ᾨδῇ"
+meMA.C2.acrostic.text = "Ἰωσήφ."
+meMA.C2.title = titles_gr_GR_cog.KanonBTisAgias
+meMA.C2.verse = prayers_gr_GR_cog.verse_SaintW.text
 
 meMA.Ode1C11.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C11.mode = misc_gr_GR_cog.Mode8
@@ -198,9 +195,6 @@ meMA.Ode1C1T.mode = misc_gr_GR_cog.Mode8
 meMA.Ode1C1T.melody = he.h.m8_gr_GR_cog.YgranDiodefsas.name
 meMA.Ode1C1T.incipit = "Τὴν τρίβον ὑπέδειξας τῆς ζωῆς…"
 meMA.Ode1C1T.text = "Τὴν τρίβον ὑπέδειξας τῆς ζωῆς, ζωὴν οὐσιώδη, συλλαβοῦσα καὶ σαρκικῶς, κυήσασα ταύτην Θεομῆτορ· καὶ τὰ δεσμὰ τοῦ θανάτου διέῤῥηξας."
-
-meMA.C2.title = titles_gr_GR_cog.KanonBTisAgias
-meMA.C2.verse = prayers_gr_GR_cog.verse_SaintW.text
 
 meMA.Ode1C21.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C21.mode = misc_gr_GR_cog.Mode4

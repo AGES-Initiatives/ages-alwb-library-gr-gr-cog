@@ -106,21 +106,18 @@ meMA.Kathisma21.melody = he.a.m4_gr_GR_cog.KateplagiIosif.name
 meMA.Kathisma21.incipit = me.m08.d08_gr_GR_cog.meMA.Kathisma21.incipit
 meMA.Kathisma21.text = me.m08.d08_gr_GR_cog.meMA.Kathisma21.text
 
-meMA.C1.acrostic.title = ""
-meMA.C1.acrostic.notice1 = ""
-meMA.C1.acrostic.text = ""
-//meMA.C1.acrostic.notice2 = ""
-meMA.C1.acrostic = "οὗ ἡ Ἀκροστιχίς· Τερπνὴν ἐπαινῶ Μαρτύρων ξυνωρίδα. Ἰωσήφ."
+meMA.C1.acrostic.title = "Κανὼν τῶν Μαρτύρων,"
+meMA.C1.acrostic.notice1 = "οὗ ἡ Ἀκροστιχίς·"
+meMA.C1.acrostic.text = "Τερπνὴν ἐπαινῶ Μαρτύρων ξυνωρίδα. Ἰωσήφ."
+meMA.C1.title = titles_gr_GR_cog.KanonTonMartyron
+meMA.C1.verse = prayers_gr_GR_cog.verse_SaintsM.text
 
+meMA.C2.acrostic.title = "Κανὼν τοῦ Ὁσίου,"
+meMA.C2.acrostic.notice1 = "οὗ ἡ Ἀκροστιχίς (ἄνευ τῶν Θεοτοκίων)·"
+meMA.C2.acrostic.text = "Ὁ παμμέγιστος Μάξιμος δοξάζεται."
 meMA.C2.poet = poets_gr_GR_cog.IoannouMonachou
-meMA.C2.acrostic.title = ""
-meMA.C2.acrostic.notice1 = ""
-meMA.C2.acrostic.text = ""
-//meMA.C2.acrostic.notice2 = ""
-meMA.C2.acrostic = "οὗ ἡ Ἀκροστιχίς (ἄνευ τῶν Θεοτοκίων)· Ὁ παμμέγιστος Μάξιμος δοξάζεται."
-
-meMA.C1.title = ""
-meMA.C1.verse = ""
+meMA.C2.title = titles_gr_GR_cog.KanonTouOsiou
+meMA.C2.verse = prayers_gr_GR_cog.verse_DevoutMan.text
 
 meMA.Ode1C11.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C11.mode = misc_gr_GR_cog.Mode4
@@ -145,9 +142,6 @@ meMA.Ode1C1T.mode = misc_gr_GR_cog.Mode4
 meMA.Ode1C1T.melody = he.h.m4_gr_GR_cog.ThalassisToErythraion.name
 meMA.Ode1C1T.incipit = "Παρθένος καὶ πρὸ τόκου Ἄχραντε…"
 meMA.Ode1C1T.text = "Παρθένος καὶ πρὸ τόκου Ἄχραντε, καὶ μετὰ γέννησιν, ὡς ἀληθῶς ἐδείχθης, τὸν Θεόν· ὑπὲρ λόγον γὰρ ἔτεκες, τὸν τοὺς Ἁγίους μάρτυρας, ἐνηθληκότας στεφανώσαντα."
-
-meMA.C2.title = ""
-meMA.C2.verse = ""
 
 meMA.Ode1C21.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C21.mode = misc_gr_GR_cog.Mode8

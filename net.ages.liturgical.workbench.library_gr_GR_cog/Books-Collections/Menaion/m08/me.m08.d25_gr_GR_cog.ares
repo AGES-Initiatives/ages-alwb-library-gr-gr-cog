@@ -79,20 +79,19 @@ meVE.Apolytikion2.melody = he.a.m5_gr_GR_cog.TonSynanarchonLogon.name
 meVE.Apolytikion2.incipit = "Προσκληθεὶς οὐρανόθεν πρὸς γνῶσιν ἔνθεον…"
 meVE.Apolytikion2.text = "Προσκληθεὶς οὐρανόθεν πρὸς γνῶσιν ἔνθεον, τὴν ἐν σαρκὶ τοῦ Δεσπότου ἐπιδημίαν ἐν γῇ, αὐτοψεὶ ἑωρακὼς φωτὼς πεπλήρωσαι· ὅθεν τοῦ Παύλου κοινωνός, θεηγόρος γεγονώς, τὴν Κρήτην πᾶσαν πυρσεύεις, τῆς εὐσεβείας τῇ αἴγλῃ, Τίτε Ἀπόστολε μακάριε."
 
-meMA.C1.acrostic.title = ""
-meMA.C1.acrostic.notice1 = ""
-meMA.C1.acrostic.text = ""
-//meMA.C1.acrostic.notice2 = ""
-meMA.C1.acrostic = "οὗ ἡ Ἀκροστιχίς· Ὕμνοις γεραίρω τὸν καλόν μου προστάτην."
-
-meMA.C2.acrostic.title = ""
-meMA.C2.acrostic.notice1 = ""
-meMA.C2.acrostic.text = ""
-//meMA.C2.acrostic.notice2 = ""
-meMA.C2.acrostic = "ἔχων Ἀκροστίχδα ταύτην· Παύλου μαθητὴν Τίτον ὑμνῶ προφρόνως."
-
-meMA.C1.title = "Κανὠν τοῦ Ἀπ. Βαρθολομαίου."
+meMA.C1.acrostic.title = "Ὁ Κανὼν τοῦ Ἁγίου Βαρθολομαίου,"
+meMA.C1.acrostic.notice1 = "οὗ ἡ Ἀκροστιχίς·"
+meMA.C1.acrostic.text = "Ὕμνοις γεραίρω τὸν καλόν μου προστάτην."
+meMA.C1.poet = poets_gr_GR_cog.Theofanous
+meMA.C1.title = "Κανὠν τοῦ Ἀγ. Βαρθολομαίου."
 meMA.C1.verse = prayers_gr_GR_cog.verse_Apostles.text
+
+meMA.C2.acrostic.title = "Ὁ Κανὼν τοῦ Ἁγίου Τίτου,"
+meMA.C2.acrostic.notice1 = "ἔχων Ἀκροστίχδα ταύτην·"
+meMA.C2.acrostic.text = "Παύλου μαθητὴν Τίτον ὑμνῶ προφρόνως."
+meMA.C2.poet = poets_gr_GR_cog.Theofanous
+meMA.C2.title = "Κανὠν τοῦ Ἀγ. Τίτου."
+meMA.C2.verse = prayers_gr_GR_cog.verse_Apostles.text
 
 meMA.Ode1C11.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C11.mode = misc_gr_GR_cog.Mode4
@@ -117,9 +116,6 @@ meMA.Ode1C1T.mode = misc_gr_GR_cog.Mode4
 meMA.Ode1C1T.melody = he.h.m4_gr_GR_cog.AnoixoToStomaMou.name
 meMA.Ode1C1T.incipit = "Ὁ πλήρης κεκένωται, ὁ προαιώνιος…"
 meMA.Ode1C1T.text = "Ὁ πλήρης κεκένωται, ὁ προαιώνιος ἄρχεται, ἐκ Κόρης θεόπαιδος ἀποτικτόμενος, ὃν ἐκήρυξας, ἐν δύο ταῖς οὐσίαις, μιᾷ ὑποστάσει δέ, Θεομακάριστε."
-
-meMA.C2.title = "Κανὠν τοῦ Ἀπ. Τίτου."
-meMA.C2.verse = prayers_gr_GR_cog.verse_Apostles.text
 
 meMA.Ode1C21.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C21.mode = misc_gr_GR_cog.Mode4

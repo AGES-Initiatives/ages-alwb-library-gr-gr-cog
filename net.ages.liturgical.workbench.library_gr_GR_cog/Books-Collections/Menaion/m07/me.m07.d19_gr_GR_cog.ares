@@ -69,20 +69,17 @@ meVE.Apolytikion2.melody = he.a.m4_gr_GR_cog.TachyProkatalave.name
 meVE.Apolytikion2.incipit = "Ὁ βίον ἐφάμιλλον, τῇ κλήσει…"
 meVE.Apolytikion2.text = "Ὁ βίον ἐφάμιλλον, τῇ κλήσει πολιτευθείς, τῆς δόξης τοῦ Πνεύματος, πυξίον ὤφθης σεπτόν, Πατὴρ ἡμῶν Ὅσιε· σὺ γὰρ θαυματουργίαις, ἱεραῖς διαπρέπων, ἔνδοξος ἐν Ὁσίοις, φερωνύμως ἐδείχθης. Διό σε ἀνευφημοῦμεν, Δίε μακάριε."
 
-meMA.C1.acrostic.title = ""
-meMA.C1.acrostic.notice1 = ""
-meMA.C1.acrostic.text = ""
-//meMA.C1.acrostic.notice2 = ""
-meMA.C1.acrostic = "οὗ ἡ Ἀκροστιχίς· Νύμφην ἁγνὴν Χριστοῦ σὲ Μακρῖνα στέφω."
-
-meMA.C2.acrostic.title = ""
-meMA.C2.acrostic.notice1 = ""
-meMA.C2.acrostic.text = ""
-//meMA.C2.acrostic.notice2 = ""
-meMA.C2.acrostic = "φέρων Ἀκροστιχίδα· Δόξης κροτῷ σε τὸν φερώνυμον μάκαρ. Ὁ Ἰωσήφ."
-
+meMA.C1.acrostic.title = "Ὁ Κανὼν τῆς Ἁγίας,"
+meMA.C1.acrostic.notice1 = "οὗ ἡ Ἀκροστιχίς·"
+meMA.C1.acrostic.text = "Νύμφην ἁγνὴν Χριστοῦ σε, Μακρῖνα, στέφω."
 meMA.C1.title = titles_gr_GR_cog.KanonTisAgias
 meMA.C1.verse = prayers_gr_GR_cog.verse_SaintW.text
+
+meMA.C2.acrostic.title = "Ὁ Κανὼν τοῦ Ὁσίου,"
+meMA.C2.acrostic.notice1 = "φέρων Ἀκροστιχίδα·"
+meMA.C2.acrostic.text = "Δόξης κροτῷ σε τὸν φερώνυμον, μάκαρ· ὁ Ἰωσήφ."
+meMA.C2.title = titles_gr_GR_cog.KanonTouOsiou
+meMA.C2.verse = prayers_gr_GR_cog.verse_DevoutMan.text
 
 meMA.Ode1C11.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C11.mode = misc_gr_GR_cog.Mode4
@@ -107,9 +104,6 @@ meMA.Ode1C1T.mode = misc_gr_GR_cog.Mode4
 meMA.Ode1C1T.melody = he.h.m4_gr_GR_cog.AnoixoToStomaMou.name
 meMA.Ode1C1T.incipit = "Φωσφόρος ἀνέτειλεν, ἐν ταῖς καρδίαις…"
 meMA.Ode1C1T.text = "Φωσφόρος ἀνέτειλεν, ἐν ταῖς καρδίαις Πανάμωμε, τῶν πίστει τιμώντων σε, τὴν Θεομήτορα, καὶ διηύγασεν, ἡμέρα σελασφόρος, Χριστὸς ὁ ἐκ μήτρας σου, λάμψας Θεόνυμφε."
-
-meMA.C2.title = titles_gr_GR_cog.KanonTouOsiou
-meMA.C2.verse = prayers_gr_GR_cog.verse_DevoutMan.text
 
 meMA.Ode1C21.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C21.mode = misc_gr_GR_cog.Mode4

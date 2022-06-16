@@ -107,23 +107,22 @@ meMA.Kathisma21.melody = he.a.m4_gr_GR_cog.EpefanisSimeron.name
 meMA.Kathisma21.incipit = "Εὐφροσύνης πρόξενος…"
 meMA.Kathisma21.text = "Εὐφροσύνης πρόξενος, τῇ νῦν ἡμέρᾳ, τοῦ Σταυροῦ ἡ πρόοδος· καθαγιάζει γὰρ ἡμῶν, ψυχὰς ὁμοῦ καὶ τὰ σώματα, τῶν προσκυνούντων αὐτὸν μετὰ πίστεως."
 
+meMA.C1.acrostic.title = "Ὁ Κανὼν τοῦ Σταυροῦ,"
+meMA.C1.acrostic.notice1 = "οὗ ηʼ Ἀκροστιχίς·"
+meMA.C1.acrostic.text = "Τὸ προσκυνητὸν πάντες ὑμνοῦμεν Ξύλον."
 meMA.C1.poet = poets_gr_GR_cog.Iosif
-meMA.C1.acrostic.title = ""
-meMA.C1.acrostic.notice1 = ""
-meMA.C1.acrostic.text = ""
-//meMA.C1.acrostic.notice2 = ""
-meMA.C1.acrostic = "οὗ ηʼ Ἀκροστιχίς. Τὸ προσκυνητὸν πάντες ὑμνοῦμεν Ξύλον."
+meMA.C1.title = titles_gr_GR_cog.KanonTouStavrou
+meMA.C1.verse = prayers_gr_GR_cog.verse_God.text
 
 meMA.C2.poet = poets_gr_GR_cog.AndreouKritis
+meMA.C2.title = titles_gr_GR_cog.KanonTonAgion
+meMA.C2.verse = prayers_gr_GR_cog.verse_SaintsM.text
 
 meMA.Ode1C1H.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C1H.mode = misc_gr_GR_cog.Mode8
 meMA.Ode1C1H.melody = he.h.m8_gr_GR_cog.ArmatilatinFarao.melody
 meMA.Ode1C1H.incipit = he.h.m8_gr_GR_cog.ArmatilatinFarao.incipit
 meMA.Ode1C1H.text = he.h.m8_gr_GR_cog.ArmatilatinFarao.text
-
-meMA.C1.title = titles_gr_GR_cog.KanonTouStavrou
-meMA.C1.verse = prayers_gr_GR_cog.verse_God.text
 
 meMA.Ode1C11.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C11.mode = misc_gr_GR_cog.Mode8
@@ -154,9 +153,6 @@ meMA.Ode1C1T.mode = misc_gr_GR_cog.Mode8
 meMA.Ode1C1T.melody = he.h.m8_gr_GR_cog.ArmatilatinFarao.name
 meMA.Ode1C1T.incipit = "Ὅτε σε τέκνον ἀποῤῥήτως ἔτεκον…"
 meMA.Ode1C1T.text = "Ὅτε σε τέκνον ἀποῤῥήτως ἔτεκον, ὠδῖνας ἔφυγον, καὶ πῶς νυνὶ ὅλη, ὀδυνῶν πεπλήρωμαι; Ὁρῶ γὰρ σε κρεμάμενον, ὡς κακοῦργον ἐν ξύλῳ, τὴν γῆν ἀσχέτως κρεμάσαντα, ἔλεγεν ἡ Πάναγνος κλαίουσα."
-
-meMA.C2.title = titles_gr_GR_cog.KanonTonAgion
-meMA.C2.verse = prayers_gr_GR_cog.verse_SaintsM.text
 
 meMA.Ode1C21.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C21.mode = misc_gr_GR_cog.Mode1

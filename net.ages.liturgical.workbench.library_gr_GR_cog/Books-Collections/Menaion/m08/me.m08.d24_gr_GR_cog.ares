@@ -60,12 +60,9 @@ meVE.Apolytikion3.melody = he.a.m3_gr_GR_cog.TheiasPisteos.name
 meVE.Apolytikion3.incipit = "Θείας πίστεως, διδασκαλίᾳ, κατεκόσμησας, τὴν…"
 meVE.Apolytikion3.text = "Θείας πίστεως, διδασκαλίᾳ, κατεκόσμησας, τὴν Ἐκκλησίαν, ζηλωτὴς τῶν Ἀποστόλων γενόμενος˙ καὶ κατασπείρας τὰ θεῖα διδάγματα, μαρτυρικῶς τὸν ἀγῶνα ἐτέλεσας. Κοσμᾶ ἔνδοξε, Χριστὸν τὸν Θεὸν ἱκέτευε, δωρήσασθαι ἡμῖν τὸ μέγα ἔλεος."
 
-meMA.C1.acrostic.title = ""
-meMA.C1.acrostic.notice1 = ""
-meMA.C1.acrostic.text = ""
-//meMA.C1.acrostic.notice2 = ""
-meMA.C1.acrostic = "οὗ ἡ Ἀκροστιχίς· Τὴν Εὐτυχοῦς μέλψωμεν ἔνθεον χάριν. Ἰωσήφ."
-
+meMA.C1.acrostic.title = "Κανὼν τοῦ Ἁγίου,"
+meMA.C1.acrostic.notice1 = "οὗ ἡ Ἀκροστιχίς·"
+meMA.C1.acrostic.text = "Τὴν Εὐτυχοῦς μέλψωμεν ἔνθεον χάριν. Ἰωσήφ."
 meMA.C1.title = titles_gr_GR_cog.KanonTouAgiou
 meMA.C1.verse = prayers_gr_GR_cog.verse_SaintM.text
 
@@ -490,9 +487,10 @@ alt1.meMA.PostGospelIdiomelon.melody = ""
 alt1.meMA.PostGospelIdiomelon.incipit = "Διδασκαλίας τῷ φωτί, ὡς ἥλιος…"
 alt1.meMA.PostGospelIdiomelon.text = "Διδασκαλίας τῷ φωτί, ὡς ἥλιος ἀνατείλας, ἐν χρόνοις δουλείας ζοφερᾶς, εὐσεβείας αἴγλην παρέσχες, ταῖς καρδίαις τῶν πιστῶν, ἀμαυρωθείσαις ἀπάτῃ τῆς πλάνης· στόμα γὰρ θεῖον ὤφθης, καὶ ἔργον Εὐαγγελιστοῦ ἀνεδέξω, ἐν περιουσίᾳ σοφίας κρείττονος, καὶ γνώσει θειοτέρᾳ. Ἀλλʼ ὦ Ἰσαπόστολε Κοσμᾶ, τῷ Ζωοδότῃ Λόγῳ πρέσβευε, ὑπὲρ τῶν τιμώντων σε."
 
-alt1.meMA.C1.acrostic = "οὗ ἡ Ἀκροστιχίς· Κοσμᾶ, σοὶ ἔνθεον ᾄδω μέλος. Γερασίμου."
-
-alt1.meMA.C1.title = titles_gr_GR_cog.KanonTouIeromartyros
+alt1.meMA.C1.acrostic.title = "Κανὼν τοῦ Ἁγίου,"
+alt1.meMA.C1.acrostic.notice1 = "οὗ ἡ Ἀκροστιχίς·"
+alt1.meMA.C1.acrostic.text = "Κοσμᾶ, σοὶ ἔνθεον ᾄδω μέλος. Γερασίμου."
+alt1.meMA.C1.title = titles_gr_GR_cog.KanonTouAgiou
 alt1.meMA.C1.verse = prayers_gr_GR_cog.verse_SaintM.text
 
 alt1.meMA.Ode1C11.ode = misc_gr_GR_cog.Ode1

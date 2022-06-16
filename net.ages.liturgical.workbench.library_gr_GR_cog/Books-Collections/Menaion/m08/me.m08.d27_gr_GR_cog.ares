@@ -49,8 +49,7 @@ meVE.Apolytikion1.incipit = "Θείων ἔργων σου, τῇ δᾳδουχ
 meVE.Apolytikion1.text = "Θείων ἔργων σου, τῇ δᾳδουχίᾳ, λαμπρυνόμενος, τῇ διανοίᾳ, διακρίσεως φωστὴρ ὤφθης ἄδυτος, διασκεδάζων παθῶν τὴν σκοτόμαιναν, καὶ καταυγάζων ἡμῶν τὰ νοήματα. Ποιμὴν Ὅσιε, Χριστὸν τὸν Θεὸν ἱκέτευε, δωρήσασθαι ἡμῖν τὸ μέγα ἔλεος."
 
 meMA.C1.poet = poets_gr_GR_cog.Theofanous
-
-meMA.C1.title = titles_gr_GR_cog.KanonTouOsiou
+meMA.C1.title = titles_gr_GR_cog.KanonTouAgiou
 meMA.C1.verse = prayers_gr_GR_cog.verse_DevoutMan.text
 
 meMA.Ode1C11.ode = misc_gr_GR_cog.Ode1
@@ -529,9 +528,10 @@ alt1.meMA.PostGospelIdiomelon.melody = ""
 alt1.meMA.PostGospelIdiomelon.incipit = "Ἐμφανῶς συντρίψας τὸν ἐχθρόν…"
 alt1.meMA.PostGospelIdiomelon.text = "Ἐμφανῶς συντρίψας τὸν ἐχθρόν, ἀθλητικῇ ἐνστάσει, περιφανῶς ἐν οὐρανῷ δεδόξασαι, ἀθλητὰ Φανούριε· διὸ καὶ ἡ γῆ πᾶσα, τὴν σὴν δόξαν γνοῦσα ἣν πάλαι ἠγνόει, τῇ φανερώσει τῆς σεπτῆς εἰκόνος σου, λαμπροφανῶς σε γεραίρει, ἐπιτελοῦσα τὴν ἁγίαν μνήμην σου· ἐν ᾗ δίδου τοῖς πιστοῖς, τὰς σωτηρίους δόσεις, ταῖς πρὸς Χριστὸν πρεσβείαις σου."
 
-alt1.meMA.C1.acrostic = "οὗ ἡ Ἀκροστιχίς· Φῶς Φανούριος κόσμῳ ἐκλάμπει. Γερασίμου."
-
-alt1.meMA.C1.title = titles_gr_GR_cog.KanonTouMartyros
+alt1.meMA.C1.acrostic.title = "Ὁ Κανὼν τοῦ Ἁγίου,"
+alt1.meMA.C1.acrostic.notice1 = "οὗ ἡ Ἀκροστιχίς·"
+alt1.meMA.C1.acrostic.text = "Φῶς Φανούριος κόσμῳ ἐκλάμπει. Γερασίμου."
+alt1.meMA.C1.title = titles_gr_GR_cog.KanonTouAgiou
 alt1.meMA.C1.verse = prayers_gr_GR_cog.verse_SaintM.text
 
 alt1.meMA.Ode1C11.ode = misc_gr_GR_cog.Ode1

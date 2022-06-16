@@ -84,12 +84,10 @@ meVE.Apolytikion1.melody = he.a.m1_gr_GR_cog.TonTafonSouSotir.name
 meVE.Apolytikion1.incipit = "Χριστῷ τῷ διʼ ἡμᾶς, ἐκ…"
 meVE.Apolytikion1.text = "Χριστῷ τῷ διʼ ἡμᾶς, ἐκ Παρθένου τεχθέντι, Σεμνὴ Μαγδαληνή, ἠκολούθεις Μαρία, αὐτοῦ τὰ δικαιώματα, καὶ τοὺς νόμους φυλάττουσα· ὅθεν σήμερον, τὴν παναγίαν σου μνήμην, ἑορτάζοντες, ἀνευφημοῦμέν σε πίστει, καὶ πόθῳ γεραίρομεν."
 
-meMA.C1.acrostic.title = ""
-meMA.C1.acrostic.notice1 = ""
-meMA.C1.acrostic.text = ""
-//meMA.C1.acrostic.notice2 = ""
-meMA.C1.acrostic = "οὗ ἡ Ἀκροστιχίς· Τὴν Μαγδαληνὴν Μαρίαν μέλπω πόθῳ. Θεοφάνους."
-
+meMA.C1.acrostic.title = "Κανὼν τῆς Ἁγίας,"
+meMA.C1.acrostic.notice1 = "οὗ ἡ Ἀκροστιχίς·"
+meMA.C1.acrostic.text = "Τὴν Μαγδαληνὴν Μαρίαν μέλπω πόθῳ."
+meMA.C1.poet = poets_gr_GR_cog.Theofanous
 meMA.C1.title = titles_gr_GR_cog.KanonTisMyroforou
 meMA.C1.verse = prayers_gr_GR_cog.verse_SaintW.text
 
@@ -454,7 +452,6 @@ alt1.meMA.PostGospelIdiomelon.incipit = alt1.meVE.AposGlory.incipit
 alt1.meMA.PostGospelIdiomelon.text = alt1.meVE.AposGlory.text
 
 alt1.meMA.C1.poet = poets_gr_GR_cog.NikiforouChiou
-
 alt1.meMA.C1.title = titles_gr_GR_cog.KanonTisMartyros
 alt1.meMA.C1.verse = prayers_gr_GR_cog.verse_SaintW.text
 

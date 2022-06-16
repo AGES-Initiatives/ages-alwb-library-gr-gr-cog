@@ -168,28 +168,25 @@ meMA.PostGospelIdiomelon.melody = ""
 meMA.PostGospelIdiomelon.incipit = meVE.Lity1.incipit
 meMA.PostGospelIdiomelon.text = meVE.Lity1.text
 
+meMA.C1.acrostic.title = "Πρῶτος Κανών,"
+meMA.C1.acrostic.notice1 = "οὗ ἡ Ἀκροστιχίς·"
+meMA.C1.acrostic.text = "Χριστὸς ἐνὶ σκοπιῇ σέλας ἄπλετον εἴδεος ἧκε."
 meMA.C1.poet = poets_gr_GR_cog.KosmaMonachou
-meMA.C1.acrostic.title = ""
-meMA.C1.acrostic.notice1 = ""
-meMA.C1.acrostic.text = ""
-//meMA.C1.acrostic.notice2 = ""
-meMA.C1.acrostic = "οὗ ἡ Ἀκροστιχίς· Χριστὸς ἐνὶ σκοπιῇ σέλας ἄπλετον εἴδεος ἧκε."
+meMA.C1.title = titles_gr_GR_cog.KanonATisEortis
+meMA.C1.verse = prayers_gr_GR_cog.verse_God.text
 
+meMA.C2.acrostic.title = "Δεύτερος Κανών,"
+meMA.C2.acrostic.notice1 = "φέρων Ἀκροστιχίδα·"
+meMA.C2.acrostic.text = "Μωσῆς Θεοῦ πρόσωπον ἐν Θαβὼρ εἶδε."
 meMA.C2.poet = poets_gr_GR_cog.IoannouTouDamaskinou
-meMA.C2.acrostic.title = ""
-meMA.C2.acrostic.notice1 = ""
-meMA.C2.acrostic.text = ""
-//meMA.C2.acrostic.notice2 = ""
-meMA.C2.acrostic = "φέρων Ἀκροστιχίδα· Μωσῆς Θεοῦ πρόσωπον ἐν Θαβὼρ εἶδε."
+meMA.C2.title = titles_gr_GR_cog.KanonBTisEortis
+meMA.C2.verse = prayers_gr_GR_cog.verse_God.text
 
 meMA.Ode1C1H.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C1H.mode = misc_gr_GR_cog.Mode4
 meMA.Ode1C1H.melody = he.h.m4_gr_GR_cog.ChoroiIsrail.melody
 meMA.Ode1C1H.incipit = he.h.m4_gr_GR_cog.ChoroiIsrail.incipit
 meMA.Ode1C1H.text = he.h.m4_gr_GR_cog.ChoroiIsrail.text
-
-meMA.C1.title = titles_gr_GR_cog.KanonATisEortis
-meMA.C1.verse = prayers_gr_GR_cog.verse_God.text
 
 meMA.Ode1C11.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C11.mode = misc_gr_GR_cog.Mode4
@@ -208,9 +205,6 @@ meMA.Ode1C13.mode = misc_gr_GR_cog.Mode4
 meMA.Ode1C13.melody = he.h.m4_gr_GR_cog.ChoroiIsrail.name
 meMA.Ode1C13.incipit = "Σήμερον Χριστὸς ἐν ὄρει Θαβώρ…"
 meMA.Ode1C13.text = "Σήμερον Χριστὸς ἐν ὄρει Θαβώρ, λάμψας ἀμυδρῶς, θεϊκῆς αὐγῆς ὡς ὑπέσχετο, Μαθηταῖς παρεγύμνου χαρακτῆρα· σελασφόρου δὲ πλησθέντες θείας αἴγλης, ἐν ἀγαλλιάσει ἔμελπον· ᾌσωμεν τῷ Θεῷ ἡμῶν, ὅτι δεδόξασται."
-
-meMA.C2.title = titles_gr_GR_cog.KanonBTisEortis
-meMA.C2.verse = prayers_gr_GR_cog.verse_God.text
 
 meMA.Ode1C21.ode = misc_gr_GR_cog.Ode1
 meMA.Ode1C21.mode = misc_gr_GR_cog.Mode8

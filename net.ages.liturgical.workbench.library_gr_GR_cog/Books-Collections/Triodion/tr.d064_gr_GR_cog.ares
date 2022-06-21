@@ -201,21 +201,18 @@ trMA.PostGospelIdiomelon.melody = misc_gr_GR_cog.Idiomelon
 trMA.PostGospelIdiomelon.incipit = trVE.Stichera01.incipit
 trMA.PostGospelIdiomelon.text = trVE.Stichera01.text
 
+trMA.C1.acrostic.title = "Ὁ Κανών,"
+trMA.C1.acrostic.notice1 = "οὗ ἡ Ἀκροστιχίς·"
+trMA.C1.acrostic.text = "Ὡσαννὰ Χριστός, εὐλογημένος Θεός."
 trMA.C1.poet = poets_gr_GR_cog.KosmaMonachou
-trMA.C1.acrostic.title = ""
-trMA.C1.acrostic.notice1 = ""
-trMA.C1.acrostic.text = ""
-//trMA.C1.acrostic.notice2 = ""
-trMA.C1.acrostic = "οὗ ἡ Ἀκροστιχίς· Ὡσαννὰ Χριστός, εὐλογημένος Θεός."
+trMA.C1.title = titles_gr_GR_cog.KanonTisEortis
+trMA.C1.verse = prayers_gr_GR_cog.verse_God.text
 
 trMA.Ode1C1H.ode = misc_gr_GR_cog.Ode1
 trMA.Ode1C1H.mode = misc_gr_GR_cog.Mode4
 trMA.Ode1C1H.melody = he.h.m4_gr_GR_cog.OfthisanAiPigai.melody
 trMA.Ode1C1H.incipit = he.h.m4_gr_GR_cog.OfthisanAiPigai.incipit
 trMA.Ode1C1H.text = he.h.m4_gr_GR_cog.OfthisanAiPigai.text
-
-trMA.C1.title = titles_gr_GR_cog.KanonTisEortis
-trMA.C1.verse = prayers_gr_GR_cog.verse_God.text
 
 trMA.Ode1C11.ode = misc_gr_GR_cog.Ode1
 trMA.Ode1C11.mode = misc_gr_GR_cog.Mode4

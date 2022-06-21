@@ -42,7 +42,7 @@ trVE.Stichera03.incipit = "Ἀπόστολοι πανεύφημοι, οἱ τ�
 trVE.Stichera03.text = "Ἀπόστολοι πανεύφημοι, οἱ τοῦ Κόσμου πρεσβευταί, ἀσθενούντων ἰατροί, τῆς ὑγείας φύλακες, ἀμφοτέρωθεν ἡμᾶς συντηρήσατε, τῆς Νηστείας τὸν χρόνον διϊππεύοντας, ἐν ἀλλήλοις ἐνθέως εἰρηνεύοντας, τὸν νοῦν ἀνενόχλητον τῶν παθῶν φυλάττοντες, ἵνα ᾄσωμεν Χριστῷ, ὡς νικητῇ ἐξαναστάντι, ὕμνον ἅπαντες."
 
 trGC.Stichera.poet = poets_gr_GR_cog.SymeonTouMetafrastou
-trGC.Stichera.acrostic = "Ἔτερα Προσόμοια κατʼ Ἀλφάβητον."
+trGC.Stichera.acrostic.title = "Ἔτερα Προσόμοια κατʼ Ἀλφάβητον."
 
 trGC.Stichera01.mode = misc_gr_GR_cog.Mode4
 trGC.Stichera01.melody = he.a.m4_gr_GR_cog.IthelonDakrysinExaleipsai.name
@@ -867,6 +867,10 @@ trMA.Ode3Kathisma3.text = "Τὸν ἀπερίληπτον Θεοῦ Υἱὸν
 // Ode 4 Triodion
 
 trMA.C1.poet = poets_gr_GR_cog.Iosif
+trMA.C1.title = "Τριῴδιον."
+
+trMA.C2.poet = poets_gr_GR_cog.Theodorou
+trMA.C2.title = "Ἕτερον Τριῴδιον."
 
 trMA.Ode4C1H.ode = misc_gr_GR_cog.Ode4
 trMA.Ode4C1H.mode = misc_gr_GR_cog.Mode8
@@ -897,8 +901,6 @@ trMA.Ode4C1T.mode = misc_gr_GR_cog.Mode8
 trMA.Ode4C1T.melody = he.h.m8_gr_GR_cog.EisakikoaKyrie.name
 trMA.Ode4C1T.incipit = "Ταπεινώσασα σῶσόν με, τὸν ὑψηλοφρόνως…"
 trMA.Ode4C1T.text = "Ταπεινώσασα σῶσόν με, τὸν ὑψηλοφρόνως πολιτευσάμενον, ἡ τεκοῦσα τὸν ὑψώσαντα, τὴν ταπεινωθεῖσαν φύσιν Πάναγνε."
-
-trMA.C2.poet = poets_gr_GR_cog.Theodorou
 
 trMA.Ode4C2H.ode = misc_gr_GR_cog.Ode4
 trMA.Ode4C2H.mode = misc_gr_GR_cog.Mode8

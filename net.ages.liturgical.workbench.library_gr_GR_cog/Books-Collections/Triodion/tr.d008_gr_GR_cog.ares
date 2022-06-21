@@ -57,8 +57,10 @@ trMA.PostGospelIdiomelon.melody = ""
 trMA.PostGospelIdiomelon.incipit = tr.d001_gr_GR_cog.trMA.PostGospelIdiomelon.incipit
 trMA.PostGospelIdiomelon.text = tr.d001_gr_GR_cog.trMA.PostGospelIdiomelon.text
 
+trMA.C1.acrostic.title = "Κανὼν τοῦ Τριῳδίου,"
+trMA.C1.acrostic.notice1 = "οὗ ἡ Ἀκροστιχὶς ἐν τῇ θʹ Ὠδῇ·"
+trMA.C1.acrostic.text = "Ἰωσήφ."
 trMA.C1.poet = poets_gr_GR_cog.KyriouIosif
-
 trMA.C1.title = titles_gr_GR_cog.KanonTouTriodiou
 trMA.C1.verse = prayers_gr_GR_cog.verse_God.text
 
@@ -260,11 +262,6 @@ trMA.Ode8C1T.melody = he.h.m2_gr_GR_cog.TonEnTiVatoMosi.name
 trMA.Ode8C1T.incipit = "Θεογεννῆτορ Ἁγνὴ ἡ τῶν κατεῤῥαγμένων…"
 trMA.Ode8C1T.text = "Θεογεννῆτορ Ἁγνὴ ἡ τῶν κατεῤῥαγμένων, ἐπανόρθωσις μόνη, ἐπανόρθωσον κᾀμέ, παντοίαις ἁμαρτίαις, συντετριμμένον ὅλον, καὶ τεταπεινωμένον."
 
-trMA.C1.acrostic.title = ""
-trMA.C1.acrostic.notice1 = ""
-trMA.C1.acrostic.text = ""
-//trMA.C1.acrostic.notice2 = ""
-trMA.C1.acrostic = "ἧς ἡ Ἀκροστιχίς, Ἰωσήφ." //Acrostic for Ode 9
 trMA.Ode9C11.ode = misc_gr_GR_cog.Ode9
 trMA.Ode9C11.mode = misc_gr_GR_cog.Mode2
 trMA.Ode9C11.melody = he.h.m2_gr_GR_cog.TonGigenonTisIkouse.name

@@ -58,8 +58,8 @@ trVE.ApolTheotokion.text = oc.m2.d1_gr_GR_cog.ocVE.ApolTheotokionVM.text
 trCA.acrostic.title = "Καὶ μετὰ τὸν Νʹ, τὸν Κανόνα,"
 trCA.acrostic.notice1 = "οὗ ἡ Ἀκροστιχίς, ἄνευ τῶν Θεοτοκίων·"
 trCA.acrostic.text = "Θεοῦ σε μέλπω δωρεῶν ἐπώνυμε."
-//trCA.acrostic.notice2 = ""
 trCA.poet = poets_gr_GR_cog.IoannouTouDamaskinou
+trCA.verse = prayers_gr_GR_cog.verse_SaintM.text
 
 trCA.Ode11.ode = misc_gr_GR_cog.Ode1
 trCA.Ode11.mode = misc_gr_GR_cog.Mode8
@@ -294,23 +294,23 @@ trMA.Kathisma23.melody = he.a.m3_gr_GR_cog.TinOraiotita.name
 trMA.Kathisma23.incipit = "Ἡ τὸν ἀχώρητον, Θεὸν ἐν…"
 trMA.Kathisma23.text = "Ἡ τὸν ἀχώρητον, Θεὸν ἐν μήτρᾳ σου, Παρθένε ἄχραντε, κυοφορήσασα, τὸν πρὸ αἰώνων ἐκ Πατρὸς ἀῤῥεύστως ἀνατείλαντα, Λόγον ἐνυπόστατον, καὶ Υἱὸν ὁμοούσιον, τοῦτον ἐκδυσώπησον, σὺν Προφήταις καὶ Μάρτυσιν. Ὁσίοις, Ἀσκηταῖς, καὶ Δικαίοις, δοῦναι ἡμῖν λύσιν πλημμελημάτων."
 
+trMA.C1.acrostic.title = "Ὁ Κανών,"
+trMA.C1.acrostic.notice1 = "ἔχων Ἀκροστιχίδα, ἐν μὲν τοῖς πρώτοις Τροπαρίοις·"
+trMA.C1.acrostic.text = "Ὁ Ἰωάννης·"
+trMA.C1.acrostic.notice2 = "ἐν δὲ τοῖς λοιποῖς· Τήρων ὁ κλεινός, δόξα πρώτῳ Σαββάτῳ."
 trMA.C1.poet = poets_gr_GR_cog.IoannouEfchaiton
-trMA.C1.acrostic.title = ""
-trMA.C1.acrostic.notice1 = ""
-trMA.C1.acrostic.text = ""
-//trMA.C1.acrostic.notice2 = ""
-trMA.C1.acrostic = "ἔχων Ἀκροστιχίδα, ἐν μὲν τοῖς πρώτοις Τροπαρίοις, Ὁ Ἰωάννης· ἐν δὲ τοῖς λοιποῖς· Τήρων ὁ κλεινός, δόξα πρώτῳ Σαββάτῳ."
+trMA.C1.title = titles_gr_GR_cog.KanonATouAgiou
+trMA.C1.verse = prayers_gr_GR_cog.verse_SaintM.text
 
 trMA.C2.poet = poets_gr_GR_cog.IoannouEfchaiton
+trMA.C2.title = titles_gr_GR_cog.KanonBTouAgiou
+trMA.C2.verse = prayers_gr_GR_cog.verse_SaintM.text
 
 trMA.Ode1C1H.ode = misc_gr_GR_cog.Ode1
 trMA.Ode1C1H.mode = misc_gr_GR_cog.Mode4
 trMA.Ode1C1H.melody = he.h.m4_gr_GR_cog.AnoixoToStomaMou.melody
 trMA.Ode1C1H.incipit = he.h.m4_gr_GR_cog.AnoixoToStomaMou.incipit
 trMA.Ode1C1H.text = he.h.m4_gr_GR_cog.AnoixoToStomaMou.text
-
-trMA.C1.title = titles_gr_GR_cog.KanonATouAgiou
-trMA.C1.verse = prayers_gr_GR_cog.verse_SaintM.text
 
 trMA.Ode1C11.ode = misc_gr_GR_cog.Ode1
 trMA.Ode1C11.mode = misc_gr_GR_cog.Mode4
@@ -341,9 +341,6 @@ trMA.Ode1C1T.mode = misc_gr_GR_cog.Mode4
 trMA.Ode1C1T.melody = he.h.m4_gr_GR_cog.AnoixoToStomaMou.name
 trMA.Ode1C1T.incipit = "Ὡραῖον κἄν ἄωρον, τὸ ἑορτάζειν…"
 trMA.Ode1C1T.text = "Ὡραῖον κἄν ἄωρον, τὸ ἑορτάζειν νενόμισται· ἡ γὰρ ὡραΐσασα, τὰ πάντα Δέσποινα, καὶ νῦν ἔδειξε, τῆς μνήμης κοινωνοῦσα, τῷ προκινδυνεύοντι ταύτης διʼ αἵματος."
-
-trMA.C2.title = titles_gr_GR_cog.KanonBTouAgiou
-trMA.C2.verse = prayers_gr_GR_cog.verse_SaintM.text
 
 trMA.Ode1C21.ode = misc_gr_GR_cog.Ode1
 trMA.Ode1C21.mode = misc_gr_GR_cog.Mode6

@@ -3,11 +3,12 @@ A_Resource_Whose_Name = me.m01.d15_gr_GR_cog
 meDA.date = "Τῌ ΙΕʹ ΙΑΝΟΥΑΡΙΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
 meDA.commemoration.full = "Μνήμη τοῦ Ὁσίου Πατρὸς ἡμῶν Παύλου τοῦ Θηβαίου· καὶ τοῦ Ἁγίου Ἰωάννου τοῦ Καλυβίτου." // full title of day
 meDA.commemoration.first = ""
+meDA.commemoration.second = "Μνήμη τοῦ Ἁγίου Ἰωάννου τοῦ Καλυβίτου."
 meDA.commemoration.first_short = ""
 meDA.commemoration.first_title = "Τοῦ Ὁσίου Παύλου."
 meDA.commemoration.second_title = "Τοῦ Ἁγ. Ἰωάννου."
-meDA.insert1 = "καὶ τοῦ Ὁσίου Πατρὸς ἡμῶν Παύλου τοῦ Θηβαίου· καὶ τοῦ Ἁγίου Ἰωάννου τοῦ Καλυβίτου," // for use in petitions and dismissal
-meDA.insert2 = "ὧν καὶ τὴν μνήμην ἐπιτελοῦμεν·" // for use in petitions and dismissal
+meDA.insert1 = "καὶ τοῦ Ἁγίου Ἰωάννου τοῦ Καλυβίτου," // for use in petitions and dismissal
+meDA.insert2 = "οὗ καὶ τὴν μνήμην ἐπιτελοῦμεν·" // for use in petitions and dismissal
 meDA.note = ""
 meLE.commemoration1 = "Μνήμη τῶν Ὁσίων Πατέρων ἡμῶν Παύλου τοῦ Θηβαίου καί Ἰωάννου τοῦ Καλυβίτου."
 meLE.commemoration2 = ""
@@ -46,6 +47,8 @@ meVE.Stichera06.mode = misc_gr_GR_cog.Mode2
 meVE.Stichera06.melody = he.a.m2_gr_GR_cog.OteEkTouXylou.name
 meVE.Stichera06.incipit = "Φέρων, ἐν χερσὶ τὸ Ἱερόν…"
 meVE.Stichera06.text = "Φέρων, ἐν χερσὶ τὸ Ἱερόν, Πάτερ Εὐαγγέλιον τούτου, πληρωτὴς γέγονας, ὕπαρξιν γεννήτορος ἀπαρνησάμενος, Ἰωάννη καὶ δάκρυσι, καὶ στενοχωρίᾳ, ὅλον διανύσας σου, τὸν βίον Ὅσιε· ὅθεν παρακλήσεως θείας, καὶ διηνεκοῦς εὐφροσύνης, νῦν ἐπαπολαύεις θεοδόξαστε."
+
+meVE.MM.Stichera4456as78910.text = properties_gr_GR_cog.media.key
 
 meVE.SticGlory.poet = poets_gr_GR_cog.TheodorouTouStouditou
 meVE.SticGlory.mode = misc_gr_GR_cog.Mode2

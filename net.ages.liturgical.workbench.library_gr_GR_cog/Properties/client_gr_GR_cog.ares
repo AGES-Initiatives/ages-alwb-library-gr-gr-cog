@@ -31,6 +31,18 @@ cl.bishop2.fimi.text = ""
 //cl.double_commemoration.bishop1and2 = "" //blank or yes
 cl.fimi.bishop1 = "yes" //blank or yes
 
+//Ordination parts in eu.ordination
+cl.euORD.EP.p402a = "," //name of candidate nominative
+cl.euORD.EP.p402b = "," //name of diocese genitive 
+cl.euORD.EP.p405a = "" //name of patriarch dative 
+cl.euORD.EP.p405b = "," //name of archbishop dative
+cl.euORD.EP.p409a = "," //name of candidate nominative
+cl.euORD.EP.p409b = "," //name of diocese genitive 
+cl.euORD.EP.p410a = "." //rank accusative of diocese
+cl.euORD.EP.p412a = "," //name of patriarch genitive 
+cl.euORD.EP.p414a = "" //name of candidate accusative
+cl.euORD.EP.p414b = "." //rank accusative of diocese
+
 cl.monastery1_c = "," //abbot
 cl.monastery2_c = "," //elder
 cl.monastery1_p = "."

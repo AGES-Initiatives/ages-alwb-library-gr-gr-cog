@@ -61,7 +61,7 @@ meVE.SticTheotokion.text = oc.m6.d1_gr_GR_cog.ocVE.SticTheotokion.text
 
 meVE.LityGlory.mode = misc_gr_GR_cog.Mode2
 meVE.LityGlory.melody = ""
-meVE.LityGlory.incipit = "Τὴν πανήγυριν σήμερον, τῆς ἀθληφόρου…"
+meVE.LityGlory.incipit = "Τὴν πανήγυριν σήμερον…"
 meVE.LityGlory.text = "Τὴν πανήγυριν σήμερον, τῆς ἀθληφόρου Βαρβάρας, δεῦτε λαοὶ ὑμνήσωμεν· ταύτην γὰρ οὔτε ξίφος, οὔτε πῦρ, οὔτε ἄλλη βάσανος, οὔτε τοῦ πολυπλόκου βελίαρ τὰ ἔνεδρα ἔτροπώσαντο. Χριστὸν ἱκέτευε, καλλιμάρτυς πανένδοξε, δωρηθῆναι ἡμῖν τὸ μέγα ἔλεος."
 
 meVE.LityBoth.mode = misc_gr_GR_cog.Mode2
@@ -551,8 +551,8 @@ meMA.Lauds3.text = "Ἡ θεόκλητος Μάρτυς Βαρβάρα, ἐν
 meMA.Lauds4.poet = poets_gr_GR_cog.Vyzantiou
 meMA.Lauds4.mode = misc_gr_GR_cog.Mode2
 meMA.Lauds4.melody = misc_gr_GR_cog.Idiomelon
-meMA.Lauds4.incipit = "Τὴν πανήγυριν σήμερον τῆς ἀθληφόρου…"
-meMA.Lauds4.text = "Τὴν πανήγυριν σήμερον τῆς ἀθληφόρου Βαρβάρας, δεῦτε λαοὶ ὑμνήσωμεν· ταύτην γὰρ οὔτε ξίφος, οὔτε πῦρ, οὔτε ἄλλη βάσανος, οὔτε τοῦ πολυπλόκου βελίαρ τὰ ἔνεδρα ἐτροπώσατο. Χριστὸν ἱκέτευε Καλλιμάρτυς πανένδοξε, δωρηθῆναι ἡμῖν τὸ μέγα ἔλεος."
+meMA.Lauds4.incipit = meVE.LityGlory.incipit
+meMA.Lauds4.text = meVE.LityGlory.text
 
 meMA.LaudsGlory.poet = poets_gr_GR_cog.IoannouMonachou
 meMA.LaudsGlory.mode = misc_gr_GR_cog.Mode6

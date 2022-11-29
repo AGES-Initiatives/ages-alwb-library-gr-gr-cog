@@ -5,9 +5,9 @@ meDA.commemoration.full = "Μνήμη τῶν Ἐγκαινίων τῆς Ἁ�
 meDA.commemoration.first = "Μνήμη τῶν Ἐγκαινίων τοῦ Ναοῦ τῆς Ἁγίας τοῦ Χριστοῦ Ἀναστάσεως"
 meDA.commemoration.first_short = "Μνήμη τῶν Ἐγκαινίων τοῦ Ναοῦ τῆς Ἁγίας τοῦ Χριστοῦ Ἀναστάσεως"
 meDA.commemoration.second_short = "Προεόρτια τῆς Ὑψώσεως τοῦ Τιμίου καὶ Ζωοποιοῦ Σταυροῦ"
-meDA.commemoration.first_title = titles_gr_GR_cog.TonEnkainion
+meDA.commemoration.first_title = titles_gr_GR_cog.ti.Consecration
 meDA.commemoration.first_name = ""
-meDA.commemoration.second_title = titles_gr_GR_cog.TouAgiou
+meDA.commemoration.second_title = titles_gr_GR_cog.ti.SaintM
 meDA.commemoration.second_name = ""
 meDA.insert1 = "" // for use in petitions and dismissal
 meDA.insert2 = "" // for use in petitions and dismissal
@@ -111,17 +111,17 @@ meMA.Kathisma21.text = "Ἑόρτιος σήμερον τῶν Ἐγκαιν�
 meMA.C1.acrostic.title = "Κανὼν ὁ Προεόρτιος,"
 meMA.C1.acrostic.notice1 = "οὗ ἡ Ἀκροστιχὶς κατὰ Ἀλφάβητον, ἄνευ τῶν Θεοτοκίων."
 meMA.C1.poet = poets_gr_GR_cog.Germanou
-meMA.C1.title = titles_gr_GR_cog.KanonProeortios
+meMA.C1.title = titles_gr_GR_cog.ti.CanonForefeast
 meMA.C1.verse = prayers_gr_GR_cog.verse_God.text
 
 meMA.C2.poet = poets_gr_GR_cog.IoannouMonachou
-meMA.C2.title = titles_gr_GR_cog.KanonTonEnkainion
+meMA.C2.title = titles_gr_GR_cog.ti.CanonConsecration
 meMA.C2.verse = prayers_gr_GR_cog.verse_God.text
 
 meMA.C3.acrostic.title = "Κανὼν τοῦ Ἁγίου,"
 meMA.C3.acrostic.notice1 = "οὗ ἡ Ἀκροστιχίς·"
 meMA.C3.acrostic.text = "Τῶν θαυμάτων σου τὸ κλέος μέλπω μάκαρ. Ἰωσήφ."
-meMA.C3.title = titles_gr_GR_cog.KanonTouAgiou
+meMA.C3.title = titles_gr_GR_cog.ti.CanonSaintM
 meMA.C3.verse = prayers_gr_GR_cog.verse_SaintM.text
 
 meMA.Ode1C1H.ode = misc_gr_GR_cog.Ode1

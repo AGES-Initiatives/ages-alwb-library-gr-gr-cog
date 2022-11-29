@@ -4,9 +4,9 @@ meDA.date = "Τῌ Εʹ ΙΑΝΟΥΑΡΙΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ 
 meDA.commemoration.full = "Προεόρτια τῶν Φώτων· καὶ μνήμη τῶν Ἁγίων Μαρτύρων Θεοπέμπτου καὶ Θεωνᾶ, καὶ τῆς Ὁσίας Συγκλητικῆς." // full title of day
 meDA.commemoration.first = "Προεόρτια τῶν Φώτων."
 meDA.commemoration.first_short = "Προεόρτια τῶν Φώτων."
-meDA.commemoration.first_title = titles_gr_GR_cog.TonMartyron
+meDA.commemoration.first_title = titles_gr_GR_cog.ti.Martyrs
 meDA.commemoration.first_name = ""
-meDA.commemoration.second_title = titles_gr_GR_cog.TisOsias
+meDA.commemoration.second_title = titles_gr_GR_cog.ti.DevoutW
 meDA.commemoration.second_name = ""
 meDA.insert1 = "" // for use in petitions and dismissal
 meDA.insert2 = "" // for use in petitions and dismissal
@@ -84,7 +84,7 @@ meVE.Apolytikion1.text = "Ἀπεστρέφετό ποτε, ὁ Ἰορδάν
 meCO.C1.acrostic.title = "Κανών,"
 meCO.C1.acrostic.notice1 = "οὗ ἡ Ἀκροστιχίς, ἄνευ τῶν Εἱρμῶν τῶν τεσσάρων πρώτων ᾨδῶν·"
 meCO.C1.acrostic.text = "Καὶ σήμερον δὲ Σάββατον μέλπω μέγα."
-meCO.C1.title = titles_gr_GR_cog.OKanon
+meCO.C1.title = titles_gr_GR_cog.ti.TheCanon
 meCO.C1.verse = prayers_gr_GR_cog.verse_God.text
 
 meCO.Ode1C1H.ode = misc_gr_GR_cog.Ode1
@@ -306,13 +306,13 @@ meMA.Kathisma22.incipit = "Ἀδὰμ τὴν γύμνωσιν, ἐνδύων 
 meMA.Kathisma22.text = "Ἀδὰμ τὴν γύμνωσιν, ἐνδύων εὔσπλαγχνε, καταστολὴν δόξης, μέλλεις γυμνοῦσθαι σαρκί, ἐν Ἰορδάνῃ ποταμῷ, ὢ θαύματος παραδόξου! πῶς, σε ὑποδέξεται, ὕδωρ Δέσποτα Κύριε, ὕδασι στεγάζοντα, ὑπερῷα ὡς γέγραπται; ὑμνοῦμεν Ἰησοῦ εὐεργέτα, πάντες τὴν σὴν ἐπιφάνειαν."
 
 meMA.C1.poet = poets_gr_GR_cog.Iosif
-meMA.C1.title = titles_gr_GR_cog.KanonProeortios
+meMA.C1.title = titles_gr_GR_cog.ti.CanonForefeast
 meMA.C1.verse = prayers_gr_GR_cog.verse_God.text
 
-meMA.C2.title = titles_gr_GR_cog.KanonTisOsias
+meMA.C2.title = titles_gr_GR_cog.ti.CanonDevoutW
 meMA.C2.verse = prayers_gr_GR_cog.verse_DevoutWoman.text
 
-meMA.C3.title = titles_gr_GR_cog.KanonTonMartyron
+meMA.C3.title = titles_gr_GR_cog.ti.CanonMartyrs
 meMA.C3.verse = prayers_gr_GR_cog.verse_SaintsM.text
 
 meMA.Ode1C1H.ode = misc_gr_GR_cog.Ode1

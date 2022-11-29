@@ -4,7 +4,7 @@ meDA.date = "Τῌ ΚΕʹ ΜΑΡΤΙΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥ
 meDA.commemoration.full = "Ὁ Εὐαγγελισμὸς τῆς Ὑπεραγίας Θεοτόκου καὶ Ἀειπαρθένου Μαρίας." // full title of day
 meDA.commemoration.first = "Ὁ Εὐαγγελισμὸς τῆς Ὑπεραγίας Θεοτόκου"
 meDA.commemoration.first_short = "Ὁ Εὐαγγελισμὸς τῆς Ὑπεραγίας Θεοτόκου"
-meDA.commemoration.first_title = titles_gr_GR_cog.TisEortis
+meDA.commemoration.first_title = titles_gr_GR_cog.ti.Feast
 meDA.commemoration.first_name = "Εὐαγγελισμός"
 meDA.commemoration.second_title = ""
 meDA.commemoration.second_name = ""
@@ -176,7 +176,7 @@ meMA.PostGospelIdiomelon.text = me.m03.d24_gr_GR_cog.meVE.SticGlory.text
 meMA.C1.acrostic.title = "Ὁ Κανών,"
 meMA.C1.acrostic.notice1 = "οὗ ἡ Ἀκροστιχίς, κατὰ Ἀλφάβητον."
 meMA.C1.poet = poets_gr_GR_cog.IoannouMonachou
-meMA.C1.title = titles_gr_GR_cog.KanonTisEortis
+meMA.C1.title = titles_gr_GR_cog.ti.CanonFeast
 meMA.C1.verse = prayers_gr_GR_cog.verse_Theotokos.text
 
 //Titles needed for the canon troparia
@@ -528,7 +528,7 @@ meMA.AdditionalIdiomelon1.melody = ""
 meMA.AdditionalIdiomelon1.incipit = "Εὐφραινέσθωσαν οἱ οὐρανοί…"
 meMA.AdditionalIdiomelon1.text = "Εὐφραινέσθωσαν οἱ οὐρανοί, καὶ ἀγαλλιάσθω ἡ γῆ· ὁ γὰρ τοῦ Πατρὸς συναΐδιος καὶ συνάναρχος καὶ σύνθρονος Υἱός, οἶκτον λαβὼν καὶ φιλάνθρωπον ἔλεον, ἑαυτόν καθῆκεν εἰς κένωσιν κατʼ εὐδοκίαν καὶ βούλησιν Πατρικήν, καὶ μήτραν ᾤκησε Παρθενικήν, προαγνισθεῖσαν τῷ Πνεύματι. Ὢ τοῦ θαύματος! ὁ Θεὸς ἐν ἀνθρώποις, ὁ ἀχώρητος ἐν μήτρᾳ, ὁ ἄχρονος ἐν χρόνῳ, καὶ τὸ παράδοξον, ὅτι καὶ ἡ σύλληψις ἄσπορος, καὶ ἡ κένωσις ἄφραστος, καὶ τὸ μυστήριον ὅσον! Ὁ Θεὸς γὰρ κενοῦται, καὶ σαρκοῦται καὶ πλάττεται, Ἀγγέλου πρὸς τὴν Ἁγνήν, τὴν σύλληψιν λέξαντος· Χαῖρε Κεχαριτωμένη, ὁ Κύριος μετὰ σοῦ, ὁ ἔχων τὸ μέγα ἔλεος."
 
-meMA.C2.title = titles_gr_GR_cog.KanonIamvikos
+meMA.C2.title = titles_gr_GR_cog.ti.IambicCanon
 meMA.C2.verse = prayers_gr_GR_cog.verse_Theotokos.text
 
 meMA.Ode1C21.ode = misc_gr_GR_cog.Ode1

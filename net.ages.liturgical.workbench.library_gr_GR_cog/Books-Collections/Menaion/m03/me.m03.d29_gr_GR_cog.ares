@@ -4,9 +4,9 @@ meDA.date = "Τῌ ΚΘʹ ΜΑΡΤΙΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥ
 meDA.commemoration.full = "Μνήμη τῶν Ἁγίων Μαρτύρων, Μάρκου Ἐπισκόπου Ἀρεθουσίων, Κυρίλλου Διακόνου, καὶ τῶν σὺν αὐτοῖς· καὶ τῶν Ἁγίων Μαρτύρων, Ἰωνᾶ, Βαραχησίου, καὶ τῶν σὺν αὐτοῖς." //full title of day
 meDA.commemoration.first = "Μνήμη τῶν Ἁγίων Μαρτύρων, Μάρκου Ἐπισκόπου Ἀρεθουσίων, Κυρίλλου Διακόνου"
 meDA.commemoration.first_short = "Μνήμη τῶν Ἁγίων Μαρτύρων, Μάρκου Ἐπισκόπου Ἀρεθουσίων, Κυρίλλου Διακόνου"
-meDA.commemoration.first_title = titles_gr_GR_cog.TouIerarchou
+meDA.commemoration.first_title = titles_gr_GR_cog.ti.Hierarch
 meDA.commemoration.first_name = ""
-meDA.commemoration.second_title = titles_gr_GR_cog.TonMartyron
+meDA.commemoration.second_title = titles_gr_GR_cog.ti.Martyrs
 meDA.commemoration.second_name = ""
 meDA.insert1 = "" //for use in petitions and dismissal
 meDA.insert2 = "" //for use in petitions and dismissal
@@ -74,13 +74,13 @@ meVE.Apolytikion2.text = "Χορὸν ἐννεάριθμον, πανευκλε
 meMA.C1.acrostic.title = "Κανὼν τοῦ Ἱεράρχου,"
 meMA.C1.acrostic.notice1 = "οὗ ἡ Ἀκροστιχὶς ἐν τοῖς Θεοτοκίοις·"
 meMA.C1.acrostic.text = "Γεωργίου."
-meMA.C1.title = titles_gr_GR_cog.KanonTouIerarchou
+meMA.C1.title = titles_gr_GR_cog.ti.CanonHierarch
 meMA.C1.verse = prayers_gr_GR_cog.verse_SaintM.text
 
 meMA.C2.acrostic.title = "Κανὼν τῶν Μαρτύρων,"
 meMA.C2.acrostic.notice1 = "οὗ ἡ Ἀκροστιχίς·"
 meMA.C2.acrostic.text = "Αἶνον προσοίσω τοῖς Θεῷ παραστάταις. Ἰωσήφ."
-meMA.C2.title = titles_gr_GR_cog.KanonTonMartyron
+meMA.C2.title = titles_gr_GR_cog.ti.CanonMartyrs
 meMA.C2.verse = prayers_gr_GR_cog.verse_SaintsM.text
 
 meMA.Ode1C1H.ode = misc_gr_GR_cog.Ode1

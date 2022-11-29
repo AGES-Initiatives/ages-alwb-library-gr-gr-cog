@@ -4,9 +4,9 @@ meDA.date = "Τῌ Βʹ ΙΑΝΟΥΑΡΙΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ 
 meDA.commemoration.full = "Προεόρτια τῶν Φώτων, καὶ μνήμη τοῦ ἐν Ἁγίοις Πατρὸς ἡμῶν Σιλβέστρου, Πάπα Ῥώμης." // full title of day
 meDA.commemoration.first = "Προεόρτια τῶν Φώτων"
 meDA.commemoration.first_short = "Προεόρτια τῶν Φώτων"
-meDA.commemoration.first_title = titles_gr_GR_cog.Proeortia
+meDA.commemoration.first_title = titles_gr_GR_cog.ti.Forefestal_hymns
 meDA.commemoration.first_name = ""
-meDA.commemoration.second_title = titles_gr_GR_cog.TouAgiou
+meDA.commemoration.second_title = titles_gr_GR_cog.ti.SaintM
 meDA.commemoration.second_name = ""
 meDA.insert1 = "" // for use in petitions and dismissal
 meDA.insert2 = "" // for use in petitions and dismissal
@@ -222,13 +222,13 @@ meMA.Kathisma22.text = "Πεπλήρωται σήμερον, τοῦ Ἠσαΐ
 meMA.C1.acrostic.title = "Ὁ Προεόρτιος Κανών,"
 meMA.C1.acrostic.notice1 = "οὗ ἡ Ἀκροστιχὶς κατʼ Ἀλφάβητον, ἄνευ τῶν Εἱρμῶν."
 meMA.C1.poet = poets_gr_GR_cog.Iosif
-meMA.C1.title = titles_gr_GR_cog.KanonProeortios
+meMA.C1.title = titles_gr_GR_cog.ti.CanonForefeast
 meMA.C1.verse = prayers_gr_GR_cog.verse_God.text
 
 meMA.C2.acrostic.title = "Ἕτερος Κανὼν τοῦ Ἁγίου,"
 meMA.C2.acrostic.notice1 = "οὗ ἡ Ἀκροστιχίς·"
 meMA.C2.acrostic.text = "Ὑμνεῖν σε πίστει τὴν χάριν δίδου μάκαρ. Ἰωσήφ."
-meMA.C2.title = titles_gr_GR_cog.KanonTouAgiou
+meMA.C2.title = titles_gr_GR_cog.ti.CanonSaintM
 meMA.C2.verse = prayers_gr_GR_cog.verse_SaintM.text
 
 meMA.Ode1C1H.ode = misc_gr_GR_cog.Ode1

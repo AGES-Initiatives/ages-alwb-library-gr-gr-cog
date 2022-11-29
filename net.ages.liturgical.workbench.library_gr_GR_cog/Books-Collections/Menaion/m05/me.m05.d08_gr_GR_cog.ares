@@ -4,7 +4,7 @@ meDA.date = "Τῌ Ηʹ ΜΑΪΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ
 meDA.commemoration.full = "Μνήμη τοῦ Ἁγίου Ἐνδόξου Ἀποστόλου καὶ Εὐαγγελιστοῦ Ἰωάννου τοῦ Θεολόγου· καὶ τοῦ Ὁσίου Πατρὸς ἡμῶν Ἀρσενίου τοῦ Μεγάλου." // full title of day
 meDA.commemoration.first = "Μνήμη τοῦ Ἁγίου Ἐνδόξου Ἀποστόλου καὶ Εὐαγγελιστοῦ Ἰωάννου τοῦ Θεολόγου"
 meDA.commemoration.first_short = "Μνήμη τοῦ Ἁγίου  Ἰωάννου τοῦ Θεολόγου"
-meDA.commemoration.first_title = titles_gr_GR_cog.TouEvangelistou
+meDA.commemoration.first_title = titles_gr_GR_cog.ti.Evangelist
 meDA.commemoration.first_name = ""
 meDA.commemoration.second_title = "Τοῦ Ὁσ. Ἀρσενίου."
 meDA.commemoration.second_name = ""
@@ -151,10 +151,10 @@ meMA.PostGospelIdiomelon.text = meVE.Lity4.text
 meMA.MM.PostGospelIdiomelon.text = properties_gr_GR_cog.media.key
 
 meMA.C1.poet = poets_gr_GR_cog.Theofanous
-meMA.C1.title = titles_gr_GR_cog.KanonTouApostolou
+meMA.C1.title = titles_gr_GR_cog.ti.CanonApostle
 meMA.C1.verse = prayers_gr_GR_cog.verse_Apostle.text
 
-meMA.C2.title = titles_gr_GR_cog.KanonTouOsiou
+meMA.C2.title = titles_gr_GR_cog.ti.CanonDevoutM
 meMA.C2.verse = prayers_gr_GR_cog.verse_SaintM.text
 
 meMA.Ode1C11.ode = misc_gr_GR_cog.Ode1

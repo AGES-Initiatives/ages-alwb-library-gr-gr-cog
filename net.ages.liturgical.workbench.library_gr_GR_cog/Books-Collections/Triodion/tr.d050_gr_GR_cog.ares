@@ -2,7 +2,7 @@ A_Resource_Whose_Name = tr.d050_gr_GR_cog
 
 trDA.commemoration.full = "ΚΥΡΙΑΚΗ Δʹ ΤΩΝ ΝΗΣΤΕΙΩΝ ΤΟΥ ΟΣΙΟΥ ΠΑΤΡΟΣ ΗΜΩΝ ΙΩΑΝΝΟΥ ΤΟΥ ΣΥΓΓΡΑΦΕΩΣ ΤΗΣ «ΚΛΙΜΑΚΟΣ»" //full title of day
 trDA.commemoration.short = "Κυριακὴ Δʹ τῶν Νηστειῶν τοῦ Ὁσίου Ἰωάννου τῆς Κλίμακος"
-trDA.title = titles_gr_GR_cog.TouAgiou
+trDA.title = titles_gr_GR_cog.ti.SaintM
 trDA.insert1 = "τοῦ Ὁσίου Πατρὸς ἡμῶν Ἰωάννου, τοῦ Συγγραφέως τῆς Κλίμακος," //for use in petitions and dismissal
 trDA.insert2 = "οὗ καὶ τὴν μνήμην ἐπιτελοῦμεν·" //for use in petitions and dismissal
 trDA.note = ""
@@ -67,7 +67,7 @@ trMA.PostGospelIdiomelon.melody = ""
 trMA.PostGospelIdiomelon.incipit = tr.d001_gr_GR_cog.trMA.PostGospelIdiomelon.incipit
 trMA.PostGospelIdiomelon.text = tr.d001_gr_GR_cog.trMA.PostGospelIdiomelon.text
 
-trMA.C1.title = titles_gr_GR_cog.KanonTouTriodiou
+trMA.C1.title = titles_gr_GR_cog.ti.CanonTriodion
 trMA.C1.verse = prayers_gr_GR_cog.verse_God.text
 
 trMA.Ode1C11.ode = misc_gr_GR_cog.Ode1
@@ -94,7 +94,7 @@ trMA.Ode1C1T.melody = he.h.m5_gr_GR_cog.ToSotiriTheo.name
 trMA.Ode1C1T.incipit = "Ἄχραντε Μήτηρ Χριστοῦ, τὸν σαρκωθέντα…"
 trMA.Ode1C1T.text = "Ἄχραντε Μήτηρ Χριστοῦ, τὸν σαρκωθέντα ἐκ σοῦ καὶ ἐκ τῶν κόλπων τοῦ Γεννήτορος, μὴ ἐκφοιτήσαντα Θεόν, ἀπαύστως πρέσβευε, ἐκ πάσης περιστάσεως σῶσαι οὕς ἔπλασεν."
 
-trMA.C2.title = titles_gr_GR_cog.KanonTouOsiou
+trMA.C2.title = titles_gr_GR_cog.ti.CanonDevoutM
 trMA.C2.verse = prayers_gr_GR_cog.verse_SaintM.text
 trMA.C2.notice1 = "Ἡ ἀκολουθία τοῦ Ἁγίου Ἰωάννου τῆς Κλίμακος ψάλλεται (ἢ ἀναγινώσκεται) ἐδὼ ἐφέτος, ἐπειδὴ συνέπεσε μὲ τὴν ἀπόδοσιν τῆς ἑορτῆς τοῦ Εὐαγγελισμοῦ."
 
@@ -338,7 +338,7 @@ trMA.Oikos1.text = "Οἶκον Θεοῦ ὡς ἀληθῶς, σαυτὸν ε
 
 trSY.commemoration.text = "Τῇ αὐτῇ ἡμέρᾳ, Κυριακῇ τετάρτῃ τῶν Νηστειῶν, μνήμην ποιοῦμεν τοῦ Ὁσίου Πατρὸς ἡμῶν Ἰωάννου, τοῦ Συγγραφέως τῆς Κλίμακος."
 trSY.commemoration.onotherday.text = "Τῇ αὐτῇ ἡμέρᾳ, μνήμην ποιοῦμεν τοῦ Ὁσίου Πατρὸς ἡμῶν Ἰωάννου, τοῦ Συγγραφέως τῆς Κλίμακος."
-trSY.commemoration.couplet1.title = titles_gr_GR_cog.Stichoi
+trSY.commemoration.couplet1.title = titles_gr_GR_cog.ti.Verses
 trSY.commemoration.couplet1.verse1 = "Ὁ σάρκα καὶ ζῶν νεκρὸς ὢν Ἰωάννης,"
 trSY.commemoration.couplet1.verse2 = "Αἰωνίως ζῇ, καὶ νεκρὸς φανεὶς ἄπνους."
 trSY.commemoration.couplet2.verse1 = "Σύγγραμμα λιπὼν Κλίμακα τῇ ἀνόδῳ,"

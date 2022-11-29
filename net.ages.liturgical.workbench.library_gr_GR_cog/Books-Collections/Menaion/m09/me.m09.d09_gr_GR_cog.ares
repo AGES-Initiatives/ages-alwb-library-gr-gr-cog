@@ -4,9 +4,9 @@ meDA.date = "Τῌ Θʹ ΣΕΠΤΕΜΒΡΙΟΥ"
 meDA.commemoration.full = "Μνήμη τῶν Ἁγίων καὶ Δικαίων Θεοπατόρων Ἰωακεὶμ καὶ Ἄννης, καὶ τοῦ Ἁγίου Μάρτυρος Σεβηριανοῦ" // full title of day
 meDA.commemoration.first = "Μνήμη τῶν Ἁγίων καὶ Δικαίων Θεοπατόρων Ἰωακεὶμ καὶ Ἄννης"
 meDA.commemoration.first_short = "Μνήμη τῶν Ἁγίων καὶ Δικαίων Θεοπατόρων Ἰωακεὶμ καὶ Ἄννης"
-meDA.commemoration.first_title = titles_gr_GR_cog.TonTheopatoron
+meDA.commemoration.first_title = titles_gr_GR_cog.ti.AncestorsOfGod
 meDA.commemoration.first_name = ""
-meDA.commemoration.second_title = titles_gr_GR_cog.TouAgiou
+meDA.commemoration.second_title = titles_gr_GR_cog.ti.SaintM
 meDA.commemoration.second_name = ""
 meDA.insert1 = "" // for use in petitions and dismissal
 meDA.insert2 = "ὧν καὶ τὴν μνήμην ἐπιτελοῦμεν·" // for use in petitions and dismissal
@@ -99,10 +99,10 @@ meMA.Kathisma21.text = me.m09.d07_gr_GR_cog.meMA.Kathisma21.text
 meMA.C1.acrostic.title = "Ὁ Κανὼν τῶν Ἁγίων,"
 meMA.C1.acrostic.notice1 = "οὗ ἡ Ἀκροστιχίς·"
 meMA.C1.acrostic.text = "Τοὺς σοὺς γονεῖς Πάναγνε μέλπω προφρόνως."
-meMA.C1.title = titles_gr_GR_cog.KanonTonTheopatoron
+meMA.C1.title = titles_gr_GR_cog.ti.CanonAncestorsOfGod
 meMA.C1.verse = prayers_gr_GR_cog.verse_SaintsM.text
 
-meMA.C2.title = titles_gr_GR_cog.KanonTouMartyros
+meMA.C2.title = titles_gr_GR_cog.ti.CanonMartyrM
 meMA.C2.verse = prayers_gr_GR_cog.verse_SaintM.text
 
 meMA.Ode1C11.ode = misc_gr_GR_cog.Ode1

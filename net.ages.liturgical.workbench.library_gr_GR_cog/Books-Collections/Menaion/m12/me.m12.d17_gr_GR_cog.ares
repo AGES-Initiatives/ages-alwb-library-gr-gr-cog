@@ -4,7 +4,7 @@ meDA.date = "Τῌ ΙΖʹ ΔΕΚΕΜΒΡΙΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟ�
 meDA.commemoration.full = "Μνήμη τοῦ Ἁγίου Προφήτου Δανιὴλ καὶ τῶν ἁγίων τριῶν Παίδων, Ἀνανίου, Ἀζαρίου καὶ Μισαήλ, καὶ τοῦ ἐν ἁγίοις Πατρὸς ἡμῶν Διονυσίου τοῦ νέου, Ἀρχιεπισκόπου Αἰγίνης, τοῦ Θαυματουργοῦ, τοῦ ἐκ τῆς νήσου Ζακύνθου." // full title of day
 meDA.commemoration.first = "Μνήμη τοῦ Ἁγίου Προφήτου Δανιὴλ καὶ τῶν ἁγίων τριῶν Παίδων"
 meDA.commemoration.first_short = "Μνήμη τοῦ Ἁγίου Προφήτου Δανιὴλ καὶ τῶν ἁγίων τριῶν Παίδων"
-meDA.commemoration.first_title = titles_gr_GR_cog.TouProfitou
+meDA.commemoration.first_title = titles_gr_GR_cog.ti.Prophet
 meDA.commemoration.first_name = ""
 meDA.commemoration.second_title = "Τῶν Ἁγ. Τριῶν Παίδων."
 meDA.commemoration.second_name = ""
@@ -99,7 +99,7 @@ meMA.C1.acrostic.title = "Κανὼν τοῦ Προφήτου Δανιήλ,"
 meMA.C1.acrostic.notice1 = "οὗ ἡ Ἀκροστιχίς·"
 meMA.C1.acrostic.text = "Σοφὸν Δανιὴλ ᾄσμασι περιστέφω."
 meMA.C1.poet = poets_gr_GR_cog.Theofanous
-meMA.C1.title = titles_gr_GR_cog.KanonTouProfitou
+meMA.C1.title = titles_gr_GR_cog.ti.CanonProphet
 meMA.C1.verse = prayers_gr_GR_cog.verse_Prophet.text
 
 meMA.C2.acrostic.title = "Ἔτερος Κανὼν τῶν ἁγίων τριῶν Παίδων,"
@@ -711,7 +711,7 @@ alt1.meMA.PostGospelIdiomelon.melody = ""
 alt1.meMA.PostGospelIdiomelon.incipit = "Ἀγάλλεται σήμερον ἡ Ἐκκλησία Χριστοῦ…"
 alt1.meMA.PostGospelIdiomelon.text = "Ἀγάλλεται σήμερον ἡ Ἐκκλησία Χριστοῦ, καὶ πανηγυρίζει φαιδρῶς, καινὸν Ἱεράρχην ὁρῶσα, ἐν αὐτῇ μεγαλοπρεπῶς εἰσαχθέντα, τὸν σεπτὸν Διονύσιον, ὃς ἀδιαλείπως πρεσβεύει ὑπὲρ τῶν πίστει τιμώντων, τὴν ἱερὰν αὐτοῦ κοίμησιν."
 
-alt1.meMA.C1.title = titles_gr_GR_cog.KanonTouAgiou
+alt1.meMA.C1.title = titles_gr_GR_cog.ti.CanonSaintM
 alt1.meMA.C1.verse = prayers_gr_GR_cog.verse_SaintM.text
 
 alt1.meMA.Ode1C11.ode = misc_gr_GR_cog.Ode1

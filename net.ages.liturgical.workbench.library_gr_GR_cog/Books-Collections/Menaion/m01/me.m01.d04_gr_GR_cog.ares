@@ -4,9 +4,9 @@ meDA.date = "Τῌ Δʹ ΙΑΝΟΥΑΡΙΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ 
 meDA.commemoration.full = "Προεόρτια τῶν Φώτων, καὶ ἡ Σύναξις τῶν Ἁγίων Ἑβδομήκοντα Ἀποστόλων, καὶ μνήμη τοῦ Ὁσίου Πατρὸς ἡμῶν Θεοκτίστου." // full title of day
 meDA.commemoration.first = "Προεόρτια τῶν Φώτων"
 meDA.commemoration.first_short = "Προεόρτια τῶν Φώτων"
-meDA.commemoration.first_title = titles_gr_GR_cog.TonApostolon
+meDA.commemoration.first_title = titles_gr_GR_cog.ti.Apostles
 meDA.commemoration.first_name = ""
-meDA.commemoration.second_title = titles_gr_GR_cog.TouOsiou
+meDA.commemoration.second_title = titles_gr_GR_cog.ti.DevoutSaintM
 meDA.commemoration.second_name = ""
 meDA.insert1 = "" // for use in petitions and dismissal
 meDA.insert2 = "" // for use in petitions and dismissal
@@ -89,7 +89,7 @@ meVE.Apolytikion2.text = he.ga_gr_GR_cog.ApostoloiAgioi.text
 meCO.C1.acrostic.title = "Ὁ Κανὼν,"
 meCO.C1.acrostic.notice1 = "οὗ ἡ Ἀκροστιχίς·"
 meCO.C1.acrostic.text = "Τῇ μακρᾷ πέμπτῃ, μακρὸν ὕμνον ἐξᾴδω."
-meCO.C1.title = titles_gr_GR_cog.OKanon
+meCO.C1.title = titles_gr_GR_cog.ti.TheCanon
 meCO.C1.verse = prayers_gr_GR_cog.verse_God.text
 
 meCO.Ode1C1H.ode = misc_gr_GR_cog.Ode1
@@ -284,17 +284,17 @@ meMA.Kathisma21.text = "Ὁ μέγας Βαπτιστής, τοῦ Κυρίο
 meMA.C1.acrostic.title = "Κανὼν ὁ Προεόρτιος,"
 meMA.C1.acrostic.notice1 = "οὗ ἡ Ἀκροστιχὶς κατʼ Ἀλφάβητον."
 meMA.C1.poet = poets_gr_GR_cog.Iosif
-meMA.C1.title = titles_gr_GR_cog.KanonProeortios
+meMA.C1.title = titles_gr_GR_cog.ti.CanonForefeast
 meMA.C1.verse = prayers_gr_GR_cog.verse_God.text
 
 meMA.C2.acrostic.title = "Κανὼν τῶν Ἁγίων Ἀποστόλων,"
 meMA.C2.acrostic.notice1 = "οὗ ἡ Ἀκροστιχίς·"
 meMA.C2.acrostic.text = "Χριστοῦ Μαθητὰς δευτέρους ἐπαινέσω. Ἰωσήφ."
-meMA.C2.title = titles_gr_GR_cog.KanonTonApostolon
+meMA.C2.title = titles_gr_GR_cog.ti.CanonApostles
 meMA.C2.verse = prayers_gr_GR_cog.verse_Apostles.text
 
 meMA.C3.poet = poets_gr_GR_cog.Theofanous
-meMA.C3.title = titles_gr_GR_cog.KanonTouOsiou
+meMA.C3.title = titles_gr_GR_cog.ti.CanonDevoutM
 meMA.C3.verse = prayers_gr_GR_cog.verse_DevoutMan.text
 
 meMA.Ode1C1H.ode = misc_gr_GR_cog.Ode1

@@ -4,7 +4,7 @@ meDA.date = "Τῌ Λʹ ΙΑΝΟΥΑΡΙΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ 
 meDA.commemoration.full = "Μνήμη τῶν ἐν Ἁγίοις Πατέρων ἡμῶν καὶ Οἰκουμενικῶν Διδασκάλων Βασιλείου τοῦ Μεγάλου, Γρηγορίου τοῦ Θεολόγου καὶ Ἰωάννου τοῦ Χρυσοστόμου" // full title of day
 meDA.commemoration.first = "Μνήμη τῶν Ἁγίων Τριῶν Ἱεραρχῶν"
 meDA.commemoration.first_short = "Μνήμη τῶν Ἁγίων Τριῶν Ἱεραρχῶν"
-meDA.commemoration.first_title = titles_gr_GR_cog.TonAgion
+meDA.commemoration.first_title = titles_gr_GR_cog.ti.Saints
 meDA.commemoration.first_name = "Τρεῖς Ἱεράρχαι"
 meDA.commemoration.second_title = ""
 meDA.commemoration.second_name = ""
@@ -240,18 +240,18 @@ meMA.C1.acrostic.title = "Κανὼν τῆς Θεοτόκου,"
 meMA.C1.acrostic.notice1 = "οὗ ἡ Ἀκροστιχίς, ἄνευ τὺν Εἱρμῶν·"
 meMA.C1.acrostic.text = "Τοὺς προστρέχοντας εἰς σὲ σῷζε, Παρθένε."
 meMA.C1.poet = poets_gr_GR_cog.IoannouEfchaiton
-meMA.C1.title = titles_gr_GR_cog.KanonTisTheotokou
+meMA.C1.title = titles_gr_GR_cog.ti.CanonTheotokos
 meMA.C1.verse = prayers_gr_GR_cog.verse_Theotokos.text
 
 meMA.C2.acrostic.title = "Κανὼν τῶν Ἁγίων,"
 meMA.C2.acrostic.notice1 = "οὗ ἡ Ἀκροστιχίς·"
 meMA.C2.acrostic.text = "Τρισήλιον Φῶς τρεῖς ἀνῆψεν ἡλίους."
 meMA.C2.poet = poets_gr_GR_cog.IoannouEfchaiton
-meMA.C2.title = titles_gr_GR_cog.KanonATonAgion
+meMA.C2.title = titles_gr_GR_cog.ti.Canon1Saints
 meMA.C2.verse = prayers_gr_GR_cog.verse_SaintsM.text
 
 meMA.C3.poet = poets_gr_GR_cog.IoannouEfchaiton
-meMA.C3.title = titles_gr_GR_cog.KanonBTonAgion
+meMA.C3.title = titles_gr_GR_cog.ti.Canon2Saints
 meMA.C3.verse = prayers_gr_GR_cog.verse_SaintsM.text
 
 meMA.Ode1C1H.ode = misc_gr_GR_cog.Ode1
@@ -965,7 +965,7 @@ meMegalynarion.text = "Ρήτορες σοφίας θεοειδεῖς, στῦ�
 alt1.meDA.date = "Τῌ Λʹ ΙΑΝΟΥΑΡΙΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
 alt1.meDA.commemoration.full = "Μνήμη τοῦ Ἁγίου Ἱερομάρτυρος Ἱππολύτου, Πάπα Ῥώμης." //full title of day
 alt1.meDA.commemoration.first_short = ""
-alt1.meDA.commemoration.first_title = titles_gr_GR_cog.TouAgiou
+alt1.meDA.commemoration.first_title = titles_gr_GR_cog.ti.SaintM
 alt1.meDA.commemoration.first_name = ""
 alt1.meDA.commemoration.second_title = ""
 alt1.meDA.commemoration.second_name = ""
@@ -981,7 +981,7 @@ alt1.meHO.note1 = ""
 alt1.meHO.note2 = ""
 
 alt1.meMA.C1.poet = poets_gr_GR_cog.IoannouMonachou
-alt1.meMA.C1.title = titles_gr_GR_cog.KanonTouAgiou
+alt1.meMA.C1.title = titles_gr_GR_cog.ti.CanonSaintM
 alt1.meMA.C1.verse = prayers_gr_GR_cog.verse_SaintM.text
 
 alt1.meMA.Ode1C11.ode = misc_gr_GR_cog.Ode1

@@ -4,7 +4,7 @@ meDA.date = "Τῌ ΙΒʹ ΔΕΚΕΜΒΡΙΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟ�
 meDA.commemoration.full = "Μνήμη τοῦ ἐν ἁγίοις Πατρὸς ἡμῶν Σπυρίδωνος, Ἐπισκόπου Τριμυθοῦντος, τοῦ Θαυματουργοῦ" // full title of day
 meDA.commemoration.first = "Μνήμη τοῦ Ἁγίου Σπυρίδωνος τοῦ Θαυματουργοῦ"
 meDA.commemoration.first_short = "Μνήμη τοῦ Ἁγίου Σπυρίδωνος τοῦ Θαυματουργοῦ"
-meDA.commemoration.first_title = titles_gr_GR_cog.TouAgiou
+meDA.commemoration.first_title = titles_gr_GR_cog.ti.SaintM
 meDA.commemoration.first_name = "Ἅγιος Σπυρίδων"
 meDA.commemoration.second_title = ""
 meDA.commemoration.second_name = ""
@@ -126,7 +126,7 @@ meMA.PostGospelIdiomelon.incipit = "Πατέρων ἀγλάϊσμα, Σπυρ
 meMA.PostGospelIdiomelon.text = "Πατέρων ἀγλάϊσμα, Σπυρίδων σοφέ, καὶ ἀκροθίνιον, τῇ τῶν θαυμάτων σου αἴγλῃ, τῆς οἰκουμένης φωτίζων τὰ πέρατα, καὶ τῆς Ἀρείου λύσσης καθαιρέτης φανείς, τὸν Σωτῆρα ἱκέτευε, σωθῆναι τὰς ψυχὰς ἡμῶν."
 
 meMA.C1.poet = poets_gr_GR_cog.Theofanous
-meMA.C1.title = titles_gr_GR_cog.KanonTouAgiou
+meMA.C1.title = titles_gr_GR_cog.ti.CanonSaintM
 meMA.C1.verse = prayers_gr_GR_cog.verse_SaintM.text
 
 meMA.Ode1C11.ode = misc_gr_GR_cog.Ode1
@@ -605,7 +605,7 @@ alt1.meMA.PostGospelIdiomelon.melody = ""
 alt1.meMA.PostGospelIdiomelon.incipit = me.m12.d12_gr_GR_cog.meMA.PostGospelIdiomelon.incipit
 alt1.meMA.PostGospelIdiomelon.text = me.m12.d12_gr_GR_cog.meMA.PostGospelIdiomelon.text
 
-alt1.meMA.C1.title = titles_gr_GR_cog.KanonBTouAgiou
+alt1.meMA.C1.title = titles_gr_GR_cog.ti.Canon2SaintM
 alt1.meMA.C1.verse = prayers_gr_GR_cog.verse_SaintM.text
 
 alt1.meMA.Ode1C11.ode = misc_gr_GR_cog.Ode1

@@ -4,7 +4,7 @@ meDA.date = "Τῌ ΙΒʹ ΙΟΥΛΙΟΥ"
 meDA.commemoration.full = "Μνήμη τῶν Ἁγίων Μαρτύρων Πρόκλου καὶ Ἱλαρίου" //full title of day
 meDA.commemoration.first = "Μνήμη τῶν Ἁγίων Μαρτύρων Πρόκλου καὶ Ἱλαρίου"
 meDA.commemoration.first_short = "Μνήμη τῶν Ἁγίων Μαρτύρων Πρόκλου καὶ Ἱλαρίου"
-meDA.commemoration.first_title = titles_gr_GR_cog.TonAgion
+meDA.commemoration.first_title = titles_gr_GR_cog.ti.Saints
 meDA.commemoration.first_name = ""
 meDA.commemoration.second_title = ""
 meDA.commemoration.second_name = ""
@@ -53,7 +53,7 @@ meVE.Apolytikion1.text = "Σταυροῦ τὴν πανοπλίαν ἱερῶ
 meMA.C1.acrostic.title = "Κανὼν τῶν Ἁγίων,"
 meMA.C1.acrostic.notice1 = "οὗ ἡ Ἀκροστιχίς·"
 meMA.C1.acrostic.text = "Σεπτοῖς Ἀθληταῖς σεπτὸν εἰσφέρω μέλος. Ἰωσήφ."
-meMA.C1.title = titles_gr_GR_cog.KanonTonAgion
+meMA.C1.title = titles_gr_GR_cog.ti.CanonSaints
 meMA.C1.verse = prayers_gr_GR_cog.verse_SaintsM.text
 
 meMA.Ode1C11.ode = misc_gr_GR_cog.Ode1
@@ -580,14 +580,14 @@ alt1.meMA.C1.acrostic.title = "Κανὼν πρῶτος τοῦ Ἁγίου,"
 alt1.meMA.C1.acrostic.notice1 = "οὗ ἡ Ἀκροστιχίς·"
 alt1.meMA.C1.acrostic.text = "Παϊσίου ᾄσωμεν τοὺς ὑπὲρ φύσιν ἄθλους."
 alt1.meMA.C1.poet = ""
-alt1.meMA.C1.title = titles_gr_GR_cog.KanonATouAgiou
+alt1.meMA.C1.title = titles_gr_GR_cog.ti.Canon1SaintM
 alt1.meMA.C1.verse = prayers_gr_GR_cog.verse_SaintM.text
 
 alt1.meMA.C2.acrostic.title = "Κανὼν δεύτερος τοῦ Ἁγίου,"
 alt1.meMA.C2.acrostic.notice1 = "οὗ ἡ ἀκροστιχίς·"
 alt1.meMA.C2.acrostic.text = "Χαίροις, πάτερ Παΐσιε, παραμυθία πάντων."
 alt1.meMA.C2.poet = ""
-alt1.meMA.C2.title = titles_gr_GR_cog.KanonBTouAgiou
+alt1.meMA.C2.title = titles_gr_GR_cog.ti.Canon2SaintM
 alt1.meMA.C2.verse = prayers_gr_GR_cog.verse_SaintM.text
 
 alt1.meMA.Ode1C11.ode = misc_gr_GR_cog.Ode1
@@ -860,7 +860,7 @@ alt1.meMA.Oikos17.text = "Χαῖρε, τοῦ Ὄρους Ἄθω ἡ αἴγλ
 alt1.meMA.Oikos18.text = "Χαίροις, Πάτερ παγκόσμιε."
 
 alt1.meMA.Synaxarion.text = "Τῇ αὐτῇ ἡμέρᾳ, μνήμη τοῦ ὁσίου Πατρὸς ἡμῶν Παϊσίου τοῦ νέου τοῦ Ἁγιορείτου, τελειωθέντος ἐν εἰρήνῃ, ἐν ἔτει χιλιοστῷ ἐννεακοσιοστῷ ἐνενηκοστῷ τετάρτῳ (1994)."
-alt1.meMA.couplet1.title = titles_gr_GR_cog.Stichoi
+alt1.meMA.couplet1.title = titles_gr_GR_cog.ti.Verses
 alt1.meMA.couplet1.verse1 = "Ζήσας Παΐσιος μόνος Θεῷ μόνῳ,"
 alt1.meMA.couplet1.verse2 = "Πολλοὺς τεθλιμμένους ἐκούφισεν πόνων."
 alt1.meMA.couplet2.verse1 = "Ἡνωμένος γὰρ τῷ Θεῷ διʼ ἀγάπης,"
@@ -1337,21 +1337,21 @@ alt2.meMA.C1.acrostic.title = "Κανὼν τῆς Θεοτόκου,"
 alt2.meMA.C1.acrostic.notice1 = "οὗ ἡ ἀκροστιχίς·"
 alt2.meMA.C1.acrostic.text = "Θεοτόκε Παρθένε πάντας σκέπασον. Ἰωήλ."
 alt2.meMA.C1.poet = poets_gr_GR_cog.IoilEdessis
-alt2.meMA.C1.title = titles_gr_GR_cog.KanonTisTheotokou
+alt2.meMA.C1.title = titles_gr_GR_cog.ti.CanonTheotokos
 alt2.meMA.C1.verse = prayers_gr_GR_cog.verse_Theotokos.text
 
 alt2.meMA.C2.acrostic.title = "Κανὼν πρῶτος τοῦ Ἁγίου,"
 alt2.meMA.C2.acrostic.notice1 = "οὗ ἡ ἀκροστιχίς·"
 alt2.meMA.C2.acrostic.text = "Ὅσιε Παΐσιε, ἀεὶ πρέσβευε ὑπὲρ ἡμῶν. Ἰωήλ."
 alt2.meMA.C2.poet = poets_gr_GR_cog.IoilEdessis
-alt2.meMA.C2.title = titles_gr_GR_cog.KanonATouAgiou
+alt2.meMA.C2.title = titles_gr_GR_cog.ti.Canon1SaintM
 alt2.meMA.C2.verse = prayers_gr_GR_cog.verse_SaintM.text
 
 alt2.meMA.C3.acrostic.title = "Κανὼν δεύτερος τοῦ Ἁγίου,"
 alt2.meMA.C3.acrostic.notice1 = "οὗ ἡ ἀκροστιχίς·"
 alt2.meMA.C3.acrostic.text = "Γέρον Παΐσιε, φύλαττε σοὺς φίλους. Ἰωήλ."
 alt2.meMA.C3.poet = poets_gr_GR_cog.IoilEdessis
-alt2.meMA.C3.title = titles_gr_GR_cog.KanonBTouAgiou
+alt2.meMA.C3.title = titles_gr_GR_cog.ti.Canon2SaintM
 alt2.meMA.C3.verse = prayers_gr_GR_cog.verse_SaintM.text
 
 alt2.meMA.Ode1C1H.ode = misc_gr_GR_cog.Ode1
@@ -1769,7 +1769,7 @@ alt2.meMA.Oikos17.text = "Χαῖρε δεινῶς ἀλγουμένων ὁ �
 alt2.meMA.Oikos18.text = "Χαίροις πάτερ Παΐσιε."
 
 alt2.meMA.Synaxarion.text = "Τῇ δωδεκάτῃ τοῦ αὐτοῦ μηνός, μνήμη τοῦ ὁσίου Πατρὸς ἡμῶν, Παϊσίου τοῦ νέου τοῦ Ἁγιορείτου, τελειωθέντος ἐν εἰρήνῃ, ἐν ἔτει χιλιοστῷ ἐννεακοσιοστῷ ἐνενηκοστῷ τετάρτῳ (1994)."
-alt2.meMA.couplet1.title = titles_gr_GR_cog.Stichoi
+alt2.meMA.couplet1.title = titles_gr_GR_cog.ti.Verses
 alt2.meMA.couplet1.verse1 = "Παΐσιε τοῦ ὄρους Ἄθωνος δένδρον,"
 alt2.meMA.couplet1.verse2 = "πολύκαρπον ὁσιώτατε ἐδείχθης."
 alt2.meMA.single1.text = "Δεκάτῃ τε καὶ δευτέρᾳ Παΐσιος θάνε."

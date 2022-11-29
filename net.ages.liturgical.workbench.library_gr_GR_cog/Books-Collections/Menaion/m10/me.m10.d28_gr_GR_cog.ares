@@ -4,7 +4,7 @@ meDA.date = "Τῌ ΚΗʹ ΟΚΤΩΒΡΙΟΥ"
 meDA.commemoration.full = "Μνήμη τῶν ἁγίων Μαρτύρων, Τερεντίου καὶ Νεονίλλης καὶ τῶν τέκνων αὐτῶν· καὶ τοῦ Ὁσίου Πατρὸς ἡμῶν Στεφάνου τοῦ Σαββαΐτου." // full title of day
 meDA.commemoration.first = "Μνήμη τῶν ἁγίων Μαρτύρων, Τερεντίου καὶ Νεονίλλης καὶ τῶν τέκνων αὐτῶν"
 meDA.commemoration.first_short = "Μνήμη τῶν ἁγίων Μαρτύρων, Τερεντίου καὶ Νεονίλλης καὶ τῶν τέκνων αὐτῶν"
-meDA.commemoration.first_title = titles_gr_GR_cog.TonMartyron
+meDA.commemoration.first_title = titles_gr_GR_cog.ti.Martyrs
 meDA.commemoration.first_name = ""
 meDA.commemoration.second_title = "Τοῦ Ἁγ. Στεφάνου."
 meDA.commemoration.second_name = ""
@@ -59,14 +59,14 @@ meVE.SticStavrotheotokion.melody = he.a.m8_gr_GR_cog.OTouParadoxou.name
 meVE.SticStavrotheotokion.incipit = me.m03.d12_gr_GR_cog.meVE.SticStavrotheotokion.incipit
 meVE.SticStavrotheotokion.text = me.m03.d12_gr_GR_cog.meVE.SticStavrotheotokion.text
 
-meMA.C1.title = titles_gr_GR_cog.KanonTonMartyron
+meMA.C1.title = titles_gr_GR_cog.ti.CanonMartyrs
 meMA.C1.verse = prayers_gr_GR_cog.verse_SaintsM.text
 
 meMA.C2.acrostic.title = "Ο Κανὼν τοῦ Ὁσίου,"
 meMA.C2.acrostic.notice1 = "οὗ ἡ Ἀκροστιχίς·"
 meMA.C2.acrostic.text = "Σοὶ Στέφανε στέφανόν σοι ὁμώνυμον οἴσομεν ὕμνον."
 meMA.C2.poet = poets_gr_GR_cog.Theofanous
-meMA.C2.title = titles_gr_GR_cog.KanonTouOsiou
+meMA.C2.title = titles_gr_GR_cog.ti.CanonDevoutM
 meMA.C2.verse = prayers_gr_GR_cog.verse_DevoutMan.text
 
 meMA.Ode1C11.ode = misc_gr_GR_cog.Ode1
@@ -529,7 +529,7 @@ meMegalynarion.text = ""
 alt1.meDA.date = "Τῌ ΚΗʹ ΟΚΤΩΒΡΙΟΥ"
 alt1.meDA.commemoration.full = "Ἀνάμνησιν ἐπιτελοῦμεν τῆς ἁγίας Σκέπης τῆς Ὑπεραγίας Δεσποίνης ἡμῶν Θεοτόκου καὶ Ἀειπαρθένου Μαρίας." //full title of day
 alt1.meDA.commemoration.first_short = "Ἡ Ἁγία Σκέπη τῆς Θεοτόκου"
-alt1.meDA.commemoration.first_title = titles_gr_GR_cog.TisTheotokou
+alt1.meDA.commemoration.first_title = titles_gr_GR_cog.ti.Theotokos
 alt1.meDA.commemoration.first_name = "Ἁγία Σκέπη"
 alt1.meDA.commemoration.second_title = ""
 alt1.meDA.commemoration.second_name = ""
@@ -719,13 +719,13 @@ alt1.meMA.PostGospelIdiomelon.text = "Σήμερον ἡ πανύμνητος 
 alt1.meMA.C1.acrostic.title = "Κανὼν πρῶτος,"
 alt1.meMA.C1.acrostic.notice1 = "οὗ ἡ Ἀκροστιχίς·"
 alt1.meMA.C1.acrostic.text = "Σὺ εἶ, Παρθένε, Ἑλλάδος σκέπη. Γερασίμου."
-alt1.meMA.C1.title = titles_gr_GR_cog.KanonATisTheotokou
+alt1.meMA.C1.title = titles_gr_GR_cog.ti.Canon1Theotokos
 alt1.meMA.C1.verse = prayers_gr_GR_cog.verse_Theotokos.text
 
 alt1.meMA.C2.acrostic.title = "Κανὼν δεύτερος,"
 alt1.meMA.C2.acrostic.notice1 = "οὗ ἡ Ἀκροστιχίς·"
 alt1.meMA.C2.acrostic.text = "Σκέπην ὑμνέω τῆς Θεοτόκου. Γερασίμου."
-alt1.meMA.C2.title = titles_gr_GR_cog.KanonBTisTheotokou
+alt1.meMA.C2.title = titles_gr_GR_cog.ti.Canon2Theotokos
 alt1.meMA.C2.verse = prayers_gr_GR_cog.verse_Theotokos.text
 
 alt1.meMA.Ode1C1H.ode = misc_gr_GR_cog.Ode1

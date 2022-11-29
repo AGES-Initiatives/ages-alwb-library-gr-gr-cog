@@ -4,7 +4,7 @@ meDA.date = "Τῌ Ζʹ ΝΟΕΜΒΡΙΟΥ"
 meDA.commemoration.full = "Μνήμη τῶν Ἁγίων Τριάκοντα Τριῶν Μαρτύρων, τῶν ἐν Μελιτηνῇ, καὶ Μνήμη τοῦ Ὁσίου Πατρὸς ἡμῶν καὶ Θαυματουργοῦ Λαζάρου, τοῦ ἐν τῷ Γαλησίῳ Ὄρει Ἀσκήσαντος." // full title of day
 meDA.commemoration.first = "Μνήμη τοῦ Ὁσίου Πατρὸς ἡμῶν καὶ Θαυματουργοῦ Λαζάρου, τοῦ ἐν τῷ Γαλησίῳ Ὄρει Ἀσκήσαντος"
 meDA.commemoration.first_short = "Μνήμη τοῦ Ὁσίου Πατρὸς ἡμῶν καὶ Θαυματουργοῦ Λαζάρου, τοῦ ἐν τῷ Γαλησίῳ Ὄρει Ἀσκήσαντος"
-meDA.commemoration.first_title = titles_gr_GR_cog.TonMartyron
+meDA.commemoration.first_title = titles_gr_GR_cog.ti.Martyrs
 meDA.commemoration.first_name = ""
 meDA.commemoration.second_title = "Τοῦ Ἁγ. Λαζάρου."
 meDA.commemoration.second_name = ""
@@ -94,13 +94,13 @@ meMA.C1.acrostic.title = "Ὁ Κανὼν τῶν Μαρτύρων,"
 meMA.C1.acrostic.notice1 = "οὗ ἡ Ἀκροστιχίς·"
 meMA.C1.acrostic.text = "Δόξα κροτείσθω Χριστὸς ἡ τῶν Μαρτύρων."
 meMA.C1.poet = poets_gr_GR_cog.IoannouMonachou
-meMA.C1.title = titles_gr_GR_cog.KanonTonMartyron
+meMA.C1.title = titles_gr_GR_cog.ti.CanonMartyrs
 meMA.C1.verse = prayers_gr_GR_cog.verse_SaintsM.text
 
 meMA.C2.acrostic.title = "Ὁ Κανὼν τοῦ Ὁσίου,"
 meMA.C2.acrostic.notice1 = "ἔχων Ἀκροστιχίδα·"
 meMA.C2.acrostic.text = "Λάζαρε μάκαρ, τοὺς ἐμοὺς ὕμνους δέχου."
-meMA.C2.title = titles_gr_GR_cog.KanonTouOsiou
+meMA.C2.title = titles_gr_GR_cog.ti.CanonDevoutM
 meMA.C2.verse = prayers_gr_GR_cog.verse_DevoutMan.text
 
 meMA.Ode1C11.ode = misc_gr_GR_cog.Ode1
@@ -717,7 +717,7 @@ alt1.meMA.PostGospelIdiomelon.melody = ""
 alt1.meMA.PostGospelIdiomelon.incipit = "…"
 alt1.meMA.PostGospelIdiomelon.text = ""
 
-alt1.meMA.C1.title = titles_gr_GR_cog.KanonTouAgiou
+alt1.meMA.C1.title = titles_gr_GR_cog.ti.CanonSaintM
 alt1.meMA.C1.verse = prayers_gr_GR_cog.verse_SaintM.text
 
 alt1.meMA.Ode1C11.ode = misc_gr_GR_cog.Ode1

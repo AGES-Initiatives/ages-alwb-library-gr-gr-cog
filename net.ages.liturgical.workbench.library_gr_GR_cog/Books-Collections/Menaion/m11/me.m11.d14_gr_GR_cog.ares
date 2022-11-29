@@ -4,7 +4,7 @@ meDA.date = "Τῌ ΙΔʹ ΝΟΕΜΒΡΙΟΥ"
 meDA.commemoration.full = "Μνήμη τοῦ Ἁγίου Ἐνδόξου καὶ Πανευφήμου Ἀποστόλου Φιλίππου, τοῦ Ἁγίου Πατρὸς ἡμῶν Γρηγορίου τοῦ Παλαμᾶ, καὶ τοῦ Ἁγίου Νεομάρτυρος Κωνσταντίνου τοῦ Ὑδραίου" // full title of day
 meDA.commemoration.first = "Μνήμη τοῦ Ἁγίου Ἀποστόλου Φιλίππου"
 meDA.commemoration.first_short = "Μνήμη τοῦ Ἁγίου Ἀποστόλου Φιλίππου"
-meDA.commemoration.first_title = titles_gr_GR_cog.TouApostolou
+meDA.commemoration.first_title = titles_gr_GR_cog.ti.Apostle
 meDA.commemoration.first_name = "Ἅγιος Φίλιππος"
 meDA.commemoration.second_title = ""
 meDA.commemoration.second_name = ""
@@ -92,7 +92,7 @@ meMA.C1.acrostic.title = "Κανὼν τοῦ Ἀποστόλου,"
 meMA.C1.acrostic.notice1 = "οὗ ἡ Ἀκροστιχίς·"
 meMA.C1.acrostic.text = "Τὸν εὐκλεῆ Φίλιππον ὑμνῶ πῥοφρόνως."
 meMA.C1.poet = poets_gr_GR_cog.Theofanous
-meMA.C1.title = titles_gr_GR_cog.KanonTouApostolou
+meMA.C1.title = titles_gr_GR_cog.ti.CanonApostle
 meMA.C1.verse = prayers_gr_GR_cog.verse_Apostle.text
 
 meMA.Ode1C11.ode = misc_gr_GR_cog.Ode1
@@ -606,14 +606,14 @@ alt1.meMA.C1.acrostic.title = "Ὁ Αʹ Κανὼν τοῦ Ἱεράρχου,"
 alt1.meMA.C1.acrostic.notice1 = "οὗ ἡ ἀκροστιχίς·"
 alt1.meMA.C1.acrostic.text = "Τῶν θεολόγων συνῳδὸν ὑμνῶ τῶν μεγάλων."
 alt1.meMA.C1.acrostic.notice2 = "Ἐν δὲ τοῖς Θεοτοκίοις· Φιλόθεος."
-alt1.meMA.C1.title = titles_gr_GR_cog.KanonATouAgiou
+alt1.meMA.C1.title = titles_gr_GR_cog.ti.Canon1SaintM
 alt1.meMA.C1.verse = prayers_gr_GR_cog.verse_SaintM.text
 
 alt1.meMA.C2.acrostic.title = "Ὁ Βʹ Κανὼν τοῦ Ἱεράρχου,"
 alt1.meMA.C2.acrostic.notice1 = "οὗ ἡ ἀκροστιχίς·"
 alt1.meMA.C2.acrostic.text = "Στάθμην ἀνυμνῶ δογμάτων τῶν ἐνθέων."
 alt1.meMA.C2.acrostic.notice2 = "Ἐν δὲ τοῖς Θεοτοκίοις· Φιλόθεος."
-alt1.meMA.C2.title = titles_gr_GR_cog.KanonBTouAgiou
+alt1.meMA.C2.title = titles_gr_GR_cog.ti.Canon2SaintM
 alt1.meMA.C2.verse = prayers_gr_GR_cog.verse_SaintM.text
 
 alt1.meMA.Ode1C11.ode = misc_gr_GR_cog.Ode1
@@ -921,7 +921,7 @@ alt1.meMA.Oikos17.text = tr.d036_gr_GR_cog.trMA.Oikos17.text
 alt1.meMA.Oikos18.text = tr.d036_gr_GR_cog.trMA.Oikos18.text
 
 alt1.meMA.Synaxarion.text = "Τῇ αὐτῇ ἡμέρᾳ, ἡ κοίμησις τοῦ ἐν Ἁγίοις Πατρὸς ἡμῶν Γρηγορίου, Ἀρχιεπισκόπου Θεσσαλονίκης τοῦ Παλαμᾶ, τοῦ θαυματουργοῦ, ὃς καὶ νέος Χρυσόστομος ἀπεκλήθη."
-alt1.meMA.couplet1.title = titles_gr_GR_cog.Stichoi
+alt1.meMA.couplet1.title = titles_gr_GR_cog.ti.Verses
 alt1.meMA.couplet1.verse1 = "Φωτὸς λαμπρὸν κήρυκα νῦν ὄντως μέγαν."
 alt1.meMA.couplet1.verse2 = "Πηγὴ φάους ἄδυτον ἄγει πρὸς φέγγος."
 alt1.meMA.couplet2.verse1 = "Χριστῷ συνήφθης γρηγορῶν φερωνύμως."

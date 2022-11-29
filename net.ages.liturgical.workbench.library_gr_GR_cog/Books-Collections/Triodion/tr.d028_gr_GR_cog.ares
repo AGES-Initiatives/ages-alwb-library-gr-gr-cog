@@ -2,7 +2,7 @@ A_Resource_Whose_Name = tr.d028_gr_GR_cog
 
 trDA.commemoration.full = "Μνήμη τοῦ διὰ Κολλύβων Θαύματος τοῦ Ἁγίου Μεγαλομάρτυρος Θεοδώρου τοῦ Τήρωνος." //full title of day
 trDA.commemoration.short = "Τὸ διὰ Κολλύβων Θαῦμα τοῦ Ἁγίου Θεοδώρου τοῦ Τήρωνος."
-trDA.title = titles_gr_GR_cog.TouAgiou
+trDA.title = titles_gr_GR_cog.ti.SaintM
 trDA.insert1 = "τοῦ Ἁγίου Μεγαλομάρτυρος Θεοδώρου τοῦ Τήρωνος," //for use in petitions and dismissal
 trDA.insert2 = "οὗ τὸ διὰ κολλύβων θαῦμα ἑορτάζομεν·" //for use in petitions and dismissal
 trDA.note = ""
@@ -300,11 +300,11 @@ trMA.C1.acrostic.notice1 = "ἔχων Ἀκροστιχίδα, ἐν μὲν τ
 trMA.C1.acrostic.text = "Ὁ Ἰωάννης·"
 trMA.C1.acrostic.notice2 = "ἐν δὲ τοῖς λοιποῖς· Τήρων ὁ κλεινός, δόξα πρώτῳ Σαββάτῳ."
 trMA.C1.poet = poets_gr_GR_cog.IoannouEfchaiton
-trMA.C1.title = titles_gr_GR_cog.KanonATouAgiou
+trMA.C1.title = titles_gr_GR_cog.ti.Canon1SaintM
 trMA.C1.verse = prayers_gr_GR_cog.verse_SaintM.text
 
 trMA.C2.poet = poets_gr_GR_cog.IoannouEfchaiton
-trMA.C2.title = titles_gr_GR_cog.KanonBTouAgiou
+trMA.C2.title = titles_gr_GR_cog.ti.Canon2SaintM
 trMA.C2.verse = prayers_gr_GR_cog.verse_SaintM.text
 
 trMA.Ode1C1H.ode = misc_gr_GR_cog.Ode1
@@ -655,7 +655,7 @@ trMA.Oikos1.text = "Τὸν ἐν θρόνῳ φωτὸς ἐποχούμεν�
 
 trSY.commemoration.text = "Τῇ αὐτῇ ἡμέρᾳ, Σαββάτῳ τῆς πρώτης Ἑβδομάδος τῶν Νηστειῶν, τὸ διὰ τῶν Κολλύβων παράδοξον θαῦμα τοῦ ἁγίου καὶ ἐνδόξου Μεγαλομάρτυρος Θεοδώρου τοῦ Τήρωνος ἑορτάζομεν."
 trSY.commemoration.onotherday.text = "Τῇ αὐτῇ ἡμέρᾳ, τὸ διὰ τῶν Κολλύβων παράδοξον θαῦμα τοῦ ἁγίου καὶ ἐνδόξου Μεγαλομάρτυρος Θεοδώρου τοῦ Τήρωνος ἑορτάζομεν."
-trSY.commemoration.couplet1.title = titles_gr_GR_cog.Stichoi
+trSY.commemoration.couplet1.title = titles_gr_GR_cog.ti.Verses
 trSY.commemoration.couplet1.verse1 = "Τροφῇ κολλύβων, ἑστιᾷ Τήρων πόλιν,"
 trSY.commemoration.couplet1.verse2 = "Τροφὴν τιθεὶς ἄπρακτον, ἠλιγισμένην."
 trSY.commemoration.narration.p01 = "[paragraph 01]"

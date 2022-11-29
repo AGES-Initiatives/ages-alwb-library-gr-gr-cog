@@ -4,7 +4,7 @@ meDA.date = "Τῌ Ζʹ ΑΠΡΙΛΙΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥ
 meDA.commemoration.full = "Μνήμη τοῦ Ἁγίου Μάρτυρος Καλλιοπίου" //full title of day
 meDA.commemoration.first = "Μνήμη τοῦ Ἁγίου Μάρτυρος Καλλιοπίου"
 meDA.commemoration.first_short = "Μνήμη τοῦ Ἁγίου Μάρτυρος Καλλιοπίου"
-meDA.commemoration.first_title = titles_gr_GR_cog.TouAgiou
+meDA.commemoration.first_title = titles_gr_GR_cog.ti.SaintM
 meDA.commemoration.first_name = ""
 meDA.commemoration.second_title = ""
 meDA.commemoration.second_name = ""
@@ -53,7 +53,7 @@ meVE.Apolytikion1.text = "Ἐκβλαστήσας ὡς ῥόδον Μάρτ�
 meMA.C1.acrostic.title = "Ὁ Κανὼν τοῦ Ἁγίου,"
 meMA.C1.acrostic.notice1 = "οὗ ἡ Ἀκροστιχίς·"
 meMA.C1.acrostic.text = "Καλοὺς ἐπαινῶ Καλλιωπίου πόνους. Ἰωσήφ."
-meMA.C1.title = titles_gr_GR_cog.KanonTouAgiou
+meMA.C1.title = titles_gr_GR_cog.ti.CanonSaintM
 meMA.C1.verse = prayers_gr_GR_cog.verse_SaintM.text
 
 meMA.Ode1C1H.ode = misc_gr_GR_cog.Ode1
@@ -335,7 +335,7 @@ meMegalynarion.text = ""
 alt1.meDA.date = "Τῌ Ζʹ ΑΠΡΙΛΙΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
 alt1.meDA.commemoration.full = "Μνήμη τοῦ Ὁσίου Πατρὸς ἡμῶν Γεωργίου, Μητροπολίτου Μυτιλήνης." //full title of day
 alt1.meDA.commemoration.first_short = ""
-alt1.meDA.commemoration.first_title = titles_gr_GR_cog.TouAgiou
+alt1.meDA.commemoration.first_title = titles_gr_GR_cog.ti.SaintM
 alt1.meDA.commemoration.first_name = ""
 alt1.meDA.commemoration.second_title = ""
 alt1.meDA.commemoration.second_name = ""
@@ -386,7 +386,7 @@ alt1.meVE.Apolytikion2.melody = he.ga_gr_GR_cog.KanonaPisteos.name
 alt1.meVE.GeneralApolytikion2.name = "Πάτερ Ἱεράρχα Γεώργιε,"
 
 alt1.meMA.C1.poet = poets_gr_GR_cog.Ignatiou
-alt1.meMA.C1.title = titles_gr_GR_cog.KanonTouIerarchou
+alt1.meMA.C1.title = titles_gr_GR_cog.ti.CanonHierarch
 alt1.meMA.C1.verse = prayers_gr_GR_cog.verse_SaintM.text
 
 alt1.meMA.Ode1C1H.ode = misc_gr_GR_cog.Ode1

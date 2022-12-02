@@ -6,17 +6,17 @@ daCommemoration.text = "Νεκρώσιμον."
 daVE.OnTheAfternoonBefore = template.titles_gr_GR_cog.d.onFridayAfternoon
 daVE.OnTheEveningBefore = template.titles_gr_GR_cog.d.onFridayEvening
 
-daVE.Apolytikion1.mode = misc_gr_GR_cog.Mode2
+daVE.Apolytikion1.mode = miscellanea_gr_GR_cog.misc.Mode2
 daVE.Apolytikion1.melody = ""
 daVE.Apolytikion1.incipit = oc.m2.d5_gr_GR_cog.ocMA.Kathisma32.incipit
 daVE.Apolytikion1.text = oc.m2.d5_gr_GR_cog.ocMA.Kathisma32.text
 
-daVE.Apolytikion2.mode = misc_gr_GR_cog.Mode8
+daVE.Apolytikion2.mode = miscellanea_gr_GR_cog.misc.Mode8
 daVE.Apolytikion2.melody = ""
 daVE.Apolytikion2.incipit = oc.m2.d7_gr_GR_cog.ocMA.Kathisma23.incipit
 daVE.Apolytikion2.text = oc.m2.d7_gr_GR_cog.ocMA.Kathisma23.text
 
-daVE.ApolTheotokion.mode = misc_gr_GR_cog.Mode2
+daVE.ApolTheotokion.mode = miscellanea_gr_GR_cog.misc.Mode2
 daVE.ApolTheotokion.melody = ""
 daVE.ApolTheotokion.incipit = oc.m2.d2_gr_GR_cog.ocMA.ApolTheotokion.incipit
 daVE.ApolTheotokion.text = oc.m2.d2_gr_GR_cog.ocMA.ApolTheotokion.text
@@ -27,22 +27,22 @@ daMA.Photagogic2Ending.text = prayers_gr_GR_cog.pr.photagogic_end_Theotokos.text
 daMA.Photagogic1Beginning.text = prayers_gr_GR_cog.pr.photagogic_begin_Saints.text
 daMA.Photagogic2Beginning.text = prayers_gr_GR_cog.pr.photagogic_begin_Theotokos.text
 
-daMA.Exaposteilarion1.mode = misc_gr_GR_cog.Mode3
+daMA.Exaposteilarion1.mode = miscellanea_gr_GR_cog.misc.Mode3
 daMA.Exaposteilarion1.melody = he.a.m3_gr_GR_cog.OOuranonToisAstrois.name
 daMA.Exaposteilarion1.incipit = "Ὁ ἐν Ἁγίοις μόνος, ἀναπαυόμενος…"
 daMA.Exaposteilarion1.text = "Ὁ ἐν Ἁγίοις μόνος, ἀναπαυόμενος Θεός, τῶν Προφητῶν, Ἀποστόλων, Ἱεραρχῶν, καὶ Μαρτύρων, καὶ τῶν Ὁσίων πρεσβείαις, τοὺς ἀνυμνοῦντάς σε σῶζε."
 
-daMA.Exaposteilarion2.mode = misc_gr_GR_cog.Mode3
+daMA.Exaposteilarion2.mode = miscellanea_gr_GR_cog.misc.Mode3
 daMA.Exaposteilarion2.melody = he.a.m3_gr_GR_cog.OOuranonToisAstrois.name
 daMA.Exaposteilarion2.incipit = "Ὁ καὶ νεκρῶν καὶ ζώντων…"
 daMA.Exaposteilarion2.text = "Ὁ καὶ νεκρῶν καὶ ζώντων, ἐξουσιάζων ὡς Θεός, ἀνάπαυσον τοὺς σοὺς δούλους, ἐν ταῖς σκηναῖς τῶν ἐκλεκτῶν· εἰ γὰρ καὶ ἥμαρτον Σῶτερ, ἀλλʼ οὐκ ἀπέστησαν ἐκ σοῦ."
 
-daMA.ExapTheotokion1.mode = misc_gr_GR_cog.Mode3
+daMA.ExapTheotokion1.mode = miscellanea_gr_GR_cog.misc.Mode3
 daMA.ExapTheotokion1.melody = he.a.m3_gr_GR_cog.OOuranonToisAstrois.name
 daMA.ExapTheotokion1.incipit = "Ὁ γλυκασμὸς τῶν Ἀγγέλων, τῶν…"
 daMA.ExapTheotokion1.text = "Ὁ γλυκασμὸς τῶν Ἀγγέλων, τῶν θλιβομένων ἡ χαρά, Χριστιανῶν ἡ προστάτις, Παρθένε Μήτηρ Κυρίου, ἀντιλαβοῦ μου καὶ ῥῦσαι, τῶν αἰωνίων βασάνων."
 
-daMA.ExapTheotokion2.mode = misc_gr_GR_cog.Mode2
+daMA.ExapTheotokion2.mode = miscellanea_gr_GR_cog.misc.Mode2
 daMA.ExapTheotokion2.melody = he.a.m2_gr_GR_cog.TonMathitonOrontonSe.name
 daMA.ExapTheotokion2.incipit = "Ἡμεῖς ἐν σοὶ καυχώμεθα Θεοτόκε…"
 daMA.ExapTheotokion2.text = "Ἡμεῖς ἐν σοὶ καυχώμεθα Θεοτόκε, καὶ εἰς Θεόν σε ἔχομεν προστασίαν, ἔκτεινον τὴν χεῖρά σου τὴν ἄμαχον, καὶ θραῦσον τοὺς ἐχθροὺς ἡμῶν, σοῖς ἐξαπόστειλον δούλοις, βοήθειαν ἐξ ἁγίου."

@@ -85,11 +85,11 @@ meVE.Apolytikion1.melody = he.a.m1_gr_GR_cog.heAU.TouLithouSfragisthentos.name
 meVE.Apolytikion1.incipit = "Τῆς ποίμνης σου θεόφρον, στεῤῥὸς…"
 meVE.Apolytikion1.text = "Τῆς ποίμνης σου θεόφρον, στεῤῥὸς προστάτης γενόμενος, ὑπὲρ αὐτῆς ἑτοίμως τὸ σὸν αἷμα ἐξέχεας, καὶ ἀπειλὰς τῶν δυσμενῶν μὴ πτοηθείς, ἐν οὐρανοῖς νῦν ἀγάλλῃ, τῷ θρόνῳ τῆς τρισηλίου Θεότητος παριστάμενος. Δόξα τῷ ἐνισχύσαντί σε Χριστῷ· δόξα τῇ εὐψυχίᾳ σου, δόξα τῇ μαρτυρικῇ σου Ἄνθιμε καρτερότητι."
 
-meVE.Apolytikion2.poet = poets_gr_GR_cog.po.Gerasimou
-meVE.Apolytikion2.mode = miscellanea_gr_GR_cog.misc.Mode4
-meVE.Apolytikion2.melody = he.a.m4_gr_GR_cog.heAU.TachyProkatalave.name
-meVE.Apolytikion2.incipit = "Θεῷ ἐκ νεότητος, ἀνατεθεὶς ἱερῶς…"
-meVE.Apolytikion2.text = "Θεῷ ἐκ νεότητος, ἀνατεθεὶς ἱερῶς, κτιστῶν τὴν προσπάθειαν, ἀπεβδελύξω στεῤῥῶς, Θεόκτιστε Ὅσιε· ὅθεν τῆς ἡσυχίας, διαλάμψας τοῖς τρόποις, ὤφθης τῶν μοναζόντων, ἀκριβὴς παιδοτρίβης. Καὶ νῦν τοὺς προσιόντας σοι, Πάτερ κυβέρνησον."
+meVE.Apolytikion2ger.poet = poets_gr_GR_cog.po.Gerasimou
+meVE.Apolytikion2ger.mode = miscellanea_gr_GR_cog.misc.Mode4
+meVE.Apolytikion2ger.melody = he.a.m4_gr_GR_cog.heAU.TachyProkatalave.name
+meVE.Apolytikion2ger.incipit = "Θεῷ ἐκ νεότητος, ἀνατεθεὶς ἱερῶς…"
+meVE.Apolytikion2ger.text = "Θεῷ ἐκ νεότητος, ἀνατεθεὶς ἱερῶς, κτιστῶν τὴν προσπάθειαν, ἀπεβδελύξω στεῤῥῶς, Θεόκτιστε Ὅσιε· ὅθεν τῆς ἡσυχίας, διαλάμψας τοῖς τρόποις, ὤφθης τῶν μοναζόντων, ἀκριβὴς παιδοτρίβης. Καὶ νῦν τοὺς προσιόντας σοι, Πάτερ κυβέρνησον."
 
 meVE.MM.GeneralApolytikion1.text = properties_gr_GR_cog.media.key
 meVE.MM.GeneralApolytikion3.text = properties_gr_GR_cog.media.key
@@ -739,10 +739,10 @@ alt1.meVE.Apolytikion1.melody = he.a.m1_gr_GR_cog.heAU.TisErimouPolitis.name
 alt1.meVE.Apolytikion1.incipit = "Τῶν σεπτῶν σου Λειψάνων Ἱεράρχα…"
 alt1.meVE.Apolytikion1.text = "Τῶν σεπτῶν σου Λειψάνων Ἱεράρχα Νεκτάριε, τὴν ἁγίαν ἐκ τάφου κομιδὴν ἐορτάζοντες, σωμάτων καὶ ψυχῶν ἁγιασμόν, καἴ ἴασιν παθῶν παντοδαπῶν, κομιζόμεθα προσπίπτοντες εὐλαβῶς, τῇ χάριτί σου κράζοντες· δόξα τῷ σὲ δοξάσαντι λαμπρῶς, δόξα τῷ σὲ ἁγιάσαντι, δόξα τῷ ἐνεργοῦντι διὰ σοῦ, πᾶσιν ἰάματα."
 
-alt1.meVE.Apolytikion2.mode = me.m11.d09_gr_GR_cog.meVE.Apolytikion1.mode
-alt1.meVE.Apolytikion2.melody = me.m11.d09_gr_GR_cog.meVE.Apolytikion1.melody
-alt1.meVE.Apolytikion2.incipit = me.m11.d09_gr_GR_cog.meVE.Apolytikion1.incipit
-alt1.meVE.Apolytikion2.text = me.m11.d09_gr_GR_cog.meVE.Apolytikion1.text
+alt1.meVE.Apolytikion2.mode = me.m11.d09_gr_GR_cog.alt1.meVE.Apolytikion1.mode
+alt1.meVE.Apolytikion2.melody = me.m11.d09_gr_GR_cog.alt1.meVE.Apolytikion1.melody
+alt1.meVE.Apolytikion2.incipit = me.m11.d09_gr_GR_cog.alt1.meVE.Apolytikion1.incipit
+alt1.meVE.Apolytikion2.text = me.m11.d09_gr_GR_cog.alt1.meVE.Apolytikion1.text
 
 alt1.meMA.Kathisma11.mode = miscellanea_gr_GR_cog.misc.Mode1
 alt1.meMA.Kathisma11.melody = he.a.m1_gr_GR_cog.heAU.TonTafonSouSotir.name

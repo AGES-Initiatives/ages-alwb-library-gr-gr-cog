@@ -46,11 +46,11 @@ meVE.SticStavrotheotokion.text = "Ἐν Σταυρῷ ὡς κατεῖδέ σ�
 
 meVE.GeneralApolytikion1.name = "πάτερ Ἱεράρχα Σωφρόνιε," // name of saint for General Apolytikia when not in Menaion
 
-meVE.Apolytikion1.poet = poets_gr_GR_cog.po.Gerasimou
-meVE.Apolytikion1.mode = miscellanea_gr_GR_cog.misc.Mode5
-meVE.Apolytikion1.melody = he.a.m5_gr_GR_cog.heAU.TonSynanarchonLogon.name
-meVE.Apolytikion1.incipit = "Σωφροσύνης τὴν αἴγλην πλουτήσας Ὅσιε…"
-meVE.Apolytikion1.text = "Σωφροσύνης τὴν αἴγλην πλουτήσας Ὅσιε, τῆς εὐσεβείας ἐκφαίνεις τὸν ὑπὲρ νοῦν φωτισμόν, ταῖς τῶν Λόγων ἀστραπαῖς Πάτερ Σωφρόνιε· σὺ γὰρ σοφίας κοινωνός, διὰ βίου γεγονώς, στηρίζεις τὴν Ἐκκλησίαν, ὡς εὐκλεὴς Ἱεράρχης, καὶ πρεσβευτὴς ἡμῶν πρὸς Κύριον."
+meVE.Apolytikion1ger.poet = poets_gr_GR_cog.po.Gerasimou
+meVE.Apolytikion1ger.mode = miscellanea_gr_GR_cog.misc.Mode5
+meVE.Apolytikion1ger.melody = he.a.m5_gr_GR_cog.heAU.TonSynanarchonLogon.name
+meVE.Apolytikion1ger.incipit = "Σωφροσύνης τὴν αἴγλην πλουτήσας Ὅσιε…"
+meVE.Apolytikion1ger.text = "Σωφροσύνης τὴν αἴγλην πλουτήσας Ὅσιε, τῆς εὐσεβείας ἐκφαίνεις τὸν ὑπὲρ νοῦν φωτισμόν, ταῖς τῶν Λόγων ἀστραπαῖς Πάτερ Σωφρόνιε· σὺ γὰρ σοφίας κοινωνός, διὰ βίου γεγονώς, στηρίζεις τὴν Ἐκκλησίαν, ὡς εὐκλεὴς Ἱεράρχης, καὶ πρεσβευτὴς ἡμῶν πρὸς Κύριον."
 
 meVE.Apolytikion2.poet = poets_gr_GR_cog.po.MitropolitouArtisSerafim
 meVE.Apolytikion2.mode = miscellanea_gr_GR_cog.misc.Mode3
@@ -248,11 +248,11 @@ meMA.Ode6C1T.melody = he.h.m4_gr_GR_cog.heHE.ThysoSoiMetaFonis.name
 meMA.Ode6C1T.incipit = "Ὑμνοῦμεν, Θεοτόκε τὸν ἄχραντον τόκον…"
 meMA.Ode6C1T.text = "Ὑμνοῦμεν, Θεοτόκε τὸν ἄχραντον τόκον σου, διʼ οὗ σῳζόμεθα πάντες, καὶ θανάτου βρόχων καὶ δεινοτάτης, ἁμαρτίας, καὶ τῶν μυχῶν τοῦ ᾍδου λυτρούμεθα."
 
-meMA.Kontakion1.poet = poets_gr_GR_cog.po.Gerasimou
-meMA.Kontakion1.mode = miscellanea_gr_GR_cog.misc.Mode4
-meMA.Kontakion1.melody = he.a.m4_gr_GR_cog.heAU.EpefanisSimeron.name
-meMA.Kontakion1.incipit = "Λαμπρυνθεὶς τοῦ Πνεύματος τ«ἐπιπνοίᾳ, Ἱεράρχης…"
-meMA.Kontakion1.text = "Λαμπρυνθεὶς τοῦ Πνεύματος τ«ἐπιπνοίᾳ, Ἱεράρχης ὅσιος, ὡς Ἀποστόλων μιμητής, ἐν τῇ Σιὼν ἐχρημάτισας, Πάτερ παμμάκαρ, Σωφρόνιε πάνσοφε."
+meMA.Kontakion1ger.poet = poets_gr_GR_cog.po.Gerasimou
+meMA.Kontakion1ger.mode = miscellanea_gr_GR_cog.misc.Mode4
+meMA.Kontakion1ger.melody = he.a.m4_gr_GR_cog.heAU.EpefanisSimeron.name
+meMA.Kontakion1ger.incipit = "Λαμπρυνθεὶς τοῦ Πνεύματος τ«ἐπιπνοίᾳ, Ἱεράρχης…"
+meMA.Kontakion1ger.text = "Λαμπρυνθεὶς τοῦ Πνεύματος τ«ἐπιπνοίᾳ, Ἱεράρχης ὅσιος, ὡς Ἀποστόλων μιμητής, ἐν τῇ Σιὼν ἐχρημάτισας, Πάτερ παμμάκαρ, Σωφρόνιε πάνσοφε."
 
 meMA.Ode7C1H.ode = miscellanea_gr_GR_cog.misc.Ode7
 meMA.Ode7C1H.mode = miscellanea_gr_GR_cog.misc.Mode4
@@ -356,10 +356,10 @@ meMA.Ode9C1T.melody = he.h.m4_gr_GR_cog.heHE.LithosAcheirotmitos.name
 meMA.Ode9C1T.incipit = "Νεφέλην σε κούφην Παρθένε, ὁ…"
 meMA.Ode9C1T.text = "Νεφέλην σε κούφην Παρθένε, ὁ Ἠσαΐας ἐθεώρει· ἐπὶ σοὶ γὰρ Κύριος ἐλθών, καθεῖλε πάντα τὰ χειροποίητα, καὶ τὴν αὐτοῦ ἐπίγνωσιν, τοῖς σὲ ὑμνοῦσιν ἐφανέρωσε."
 
-meLI.Kontakion1.mode = meMA.Kontakion1.mode
-meLI.Kontakion1.melody = meMA.Kontakion1.melody
-meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
-meLI.Kontakion1.text = meMA.Kontakion1.text
+meLI.Kontakion1.mode = meMA.Kontakion1ger.mode
+meLI.Kontakion1.melody = meMA.Kontakion1ger.melody
+meLI.Kontakion1.incipit = meMA.Kontakion1ger.incipit
+meLI.Kontakion1.text = meMA.Kontakion1ger.text
 
 meMegalynarion.text = ""
 

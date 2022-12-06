@@ -179,11 +179,11 @@ meMA.Ode6H.melody = he.h.m8_gr_GR_cog.heHE.AvyssosAmartion.melody
 meMA.Ode6H.incipit = he.h.m8_gr_GR_cog.heHE.AvyssosAmartion.incipit
 meMA.Ode6H.text = he.h.m8_gr_GR_cog.heHE.AvyssosAmartion.text
 
-meMA.Kontakion1.poet = poets_gr_GR_cog.po.Gerasimou
-meMA.Kontakion1.mode = miscellanea_gr_GR_cog.misc.Mode8
-meMA.Kontakion1.melody = he.a.m8_gr_GR_cog.heAU.OsAparchas.name
-meMA.Kontakion1.incipit = "Ὡς ἐκ γαστρὸς θεόληπτος, καὶ…"
-meMA.Kontakion1.text = "Ὡς ἐκ γαστρὸς θεόληπτος, καὶ συμπαθείας ἔμπλεως, τὴν τοῦ λαοῦ σου ἐθρήνησας ἔκπτωσιν, Ἱερεμία ἔνδοξε· διὰ τοῦτό σε λίθοις, ἐν Αίγύπτῳ Προφῆτα φόνῳ παρέδωκαν, οἱ μὴ εἰδότες ψάλλειν, σὺν σοὶ Θεῷ· Ἀλληούϊα."
+meMA.Kontakion1ger.poet = poets_gr_GR_cog.po.Gerasimou
+meMA.Kontakion1ger.mode = miscellanea_gr_GR_cog.misc.Mode8
+meMA.Kontakion1ger.melody = he.a.m8_gr_GR_cog.heAU.OsAparchas.name
+meMA.Kontakion1ger.incipit = "Ὡς ἐκ γαστρὸς θεόληπτος, καὶ…"
+meMA.Kontakion1ger.text = "Ὡς ἐκ γαστρὸς θεόληπτος, καὶ συμπαθείας ἔμπλεως, τὴν τοῦ λαοῦ σου ἐθρήνησας ἔκπτωσιν, Ἱερεμία ἔνδοξε· διὰ τοῦτό σε λίθοις, ἐν Αίγύπτῳ Προφῆτα φόνῳ παρέδωκαν, οἱ μὴ εἰδότες ψάλλειν, σὺν σοὶ Θεῷ· Ἀλληούϊα."
 
 meMA.Ode7C11.ode = miscellanea_gr_GR_cog.misc.Ode7
 meMA.Ode7C11.mode = miscellanea_gr_GR_cog.misc.Mode8
@@ -269,10 +269,10 @@ meMA.Ode9H.melody = he.h.m8_gr_GR_cog.heHE.KyriosTheotokon.melody
 meMA.Ode9H.incipit = he.h.m8_gr_GR_cog.heHE.KyriosTheotokon.incipit
 meMA.Ode9H.text = he.h.m8_gr_GR_cog.heHE.KyriosTheotokon.text
 
-meLI.Kontakion1.mode = meMA.Kontakion1.mode
-meLI.Kontakion1.melody = meMA.Kontakion1.melody
-meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
-meLI.Kontakion1.text = meMA.Kontakion1.text
+meLI.Kontakion1.mode = meMA.Kontakion1ger.mode
+meLI.Kontakion1.melody = meMA.Kontakion1ger.melody
+meLI.Kontakion1.incipit = meMA.Kontakion1ger.incipit
+meLI.Kontakion1.text = meMA.Kontakion1ger.text
 
 meLI.MM.CommunionHymn.text = properties_gr_GR_cog.media.key
 

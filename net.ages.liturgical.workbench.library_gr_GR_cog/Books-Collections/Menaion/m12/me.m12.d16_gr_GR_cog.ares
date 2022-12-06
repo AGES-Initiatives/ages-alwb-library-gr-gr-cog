@@ -44,17 +44,17 @@ meVE.SticStavrotheotokion.melody = he.a.m8_gr_GR_cog.heAU.OiMartyresSouKyrie.nam
 meVE.SticStavrotheotokion.incipit = me.m01.d23_gr_GR_cog.meVE.SticStavrotheotokion.incipit
 meVE.SticStavrotheotokion.text = me.m01.d23_gr_GR_cog.meVE.SticStavrotheotokion.text
 
-meVE.Apolytikion1.poet = poets_gr_GR_cog.po.Gerasimou
-meVE.Apolytikion1.mode = miscellanea_gr_GR_cog.misc.Mode4
-meVE.Apolytikion1.melody = he.a.m4_gr_GR_cog.heAU.TachyProkatalave.name
-meVE.Apolytikion1.incipit = "Προφήτης θεόληπτος, οἷα θεράπων Θεοῦ…"
-meVE.Apolytikion1.text = "Προφήτης θεόληπτος, οἷα θεράπων Θεοῦ, τῷ κόσμῳ ἐνδέδειξαι, ἀνακαθάρας τὸν νοῦν, Ἀγγαῖε πανεύφημε· ὅθεν ἑορταζόντων, ἔνθα πέφυκεν ἧχος, ἤρθης ὡς ἑορτάζων, ἐν Θεῷ φερωνύμῳς· ᾧ πρέσβευε θεηγόρε, σῴζεσθαι ἅπαντας."
+meVE.Apolytikion1ger.poet = poets_gr_GR_cog.po.Gerasimou
+meVE.Apolytikion1ger.mode = miscellanea_gr_GR_cog.misc.Mode4
+meVE.Apolytikion1ger.melody = he.a.m4_gr_GR_cog.heAU.TachyProkatalave.name
+meVE.Apolytikion1ger.incipit = "Προφήτης θεόληπτος, οἷα θεράπων Θεοῦ…"
+meVE.Apolytikion1ger.text = "Προφήτης θεόληπτος, οἷα θεράπων Θεοῦ, τῷ κόσμῳ ἐνδέδειξαι, ἀνακαθάρας τὸν νοῦν, Ἀγγαῖε πανεύφημε· ὅθεν ἑορταζόντων, ἔνθα πέφυκεν ἧχος, ἤρθης ὡς ἑορτάζων, ἐν Θεῷ φερωνύμῳς· ᾧ πρέσβευε θεηγόρε, σῴζεσθαι ἅπαντας."
 
-meVE.Apolytikion2.poet = poets_gr_GR_cog.po.Gerasimou
-meVE.Apolytikion2.mode = miscellanea_gr_GR_cog.misc.Mode3
-meVE.Apolytikion2.melody = he.a.m3_gr_GR_cog.heAU.TheiasPisteos.name
-meVE.Apolytikion2.incipit = "Θείων ἔργων σου, τῇ ἐπιδείξει…"
-meVE.Apolytikion2.text = "Θείων ἔργων σου, τῇ ἐπιδείξει, πᾶσαν εὔφρανας, Σιὼν τὴν θείαν, τῶν Ἄποστόλων πλουτήσας τὴν ἔλλαμψιν, καὶ τῷ Σωτῆρι ὁσίως ἱέρευσας, ἱεραρχίᾳ καὶ βίου λαμπρότητι. Πάτερ Μόδεστε, Χριστὸν τὸν Θεὸν ἱκέτευε, δωρήσασθαι ἡμῖν τὸ μέγα ἔλεος."
+meVE.Apolytikion2ger.poet = poets_gr_GR_cog.po.Gerasimou
+meVE.Apolytikion2ger.mode = miscellanea_gr_GR_cog.misc.Mode3
+meVE.Apolytikion2ger.melody = he.a.m3_gr_GR_cog.heAU.TheiasPisteos.name
+meVE.Apolytikion2ger.incipit = "Θείων ἔργων σου, τῇ ἐπιδείξει…"
+meVE.Apolytikion2ger.text = "Θείων ἔργων σου, τῇ ἐπιδείξει, πᾶσαν εὔφρανας, Σιὼν τὴν θείαν, τῶν Ἄποστόλων πλουτήσας τὴν ἔλλαμψιν, καὶ τῷ Σωτῆρι ὁσίως ἱέρευσας, ἱεραρχίᾳ καὶ βίου λαμπρότητι. Πάτερ Μόδεστε, Χριστὸν τὸν Θεὸν ἱκέτευε, δωρήσασθαι ἡμῖν τὸ μέγα ἔλεος."
 
 meMA.C1.acrostic.title = "Κανὼν τοῦ Προφήτου,"
 meMA.C1.acrostic.notice1 = "οὗ ἡ Ἀκροστιχίς·"
@@ -465,8 +465,8 @@ alt1.meVE.AposBoth.text = me.m11.d30_gr_GR_cog.meMA.LaudsBoth.text
 
 alt1.meVE.Apolytikion1.mode = miscellanea_gr_GR_cog.misc.Mode3
 alt1.meVE.Apolytikion1.melody = he.a.m3_gr_GR_cog.heAU.TheiasPisteos.name
-alt1.meVE.Apolytikion1.incipit = me.m12.d16_gr_GR_cog.meVE.Apolytikion2.incipit
-alt1.meVE.Apolytikion1.text = me.m12.d16_gr_GR_cog.meVE.Apolytikion2.text
+alt1.meVE.Apolytikion1.incipit = me.m12.d16_gr_GR_cog.meVE.Apolytikion2ger.incipit
+alt1.meVE.Apolytikion1.text = me.m12.d16_gr_GR_cog.meVE.Apolytikion2ger.text
 
 alt1.meMA.Kathisma11.mode = miscellanea_gr_GR_cog.misc.Mode1
 alt1.meMA.Kathisma11.melody = he.a.m1_gr_GR_cog.heAU.TonTafonSouSotir.name

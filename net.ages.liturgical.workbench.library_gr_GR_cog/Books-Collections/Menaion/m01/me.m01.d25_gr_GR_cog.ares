@@ -153,6 +153,7 @@ meVE.LityBoth.incipit = oc.m1.d3_gr_GR_cog.ocVE.AposTheotokion.incipit
 meVE.LityBoth.text = oc.m1.d3_gr_GR_cog.ocVE.AposTheotokion.text
 
 meVE.Aposticha1.mode = miscellanea_gr_GR_cog.misc.Mode5
+meVE.Aposticha1.greekmelody = he.a.m5_gr_GR_cog.heAU.ChairoisAskitikon.greekname
 meVE.Aposticha1.melody = he.a.m5_gr_GR_cog.heAU.ChairoisAskitikon.name
 meVE.Aposticha1.incipit = "Χαίροις θεολογίας πηγή, καὶ θεωρίας…"
 meVE.Aposticha1.text = "Χαίροις θεολογίας πηγή, καὶ θεωρίας ὑψηλῆς ἐνδιαίτημα· τὸν ἄνω βυθὸν γὰρ Πάτερ, μετʼ εὐσεβοῦς λογισμοῦ, ἐρευνήσας πᾶσι διετράνωσας, τρισὶν ἐν Ἡλίοις, μίαν φωτὸς εἶναι σύγκρασιν, ἑνιζομένην, τῷ ταυτῷ τῆς Θεότητος, τρισσουμένην δέ, ταῖς σεπταῖς ὑποστάσεσι· βίου μὲν καθαρότητι, λαμπρότητι λόγων δέ, σέβειν διδάσκων Τριάδα, τὴν παναγίαν Θεόπνευστε· παρʼ ἧς ἐκπεμφθῆναι ταῖς ψυχαῖς ἡμῶν δυσώπει, τὸ μέγα ἔλεος."
@@ -173,6 +174,7 @@ meVE.AposGlory.incipit = "Τὰς καρδίας τῶν πιστῶν, γεη�
 meVE.AposGlory.text = "Τὰς καρδίας τῶν πιστῶν, γεηπονῶν τῇ γλώσσῃ σου Γρηγόριε, εὐσεβείας ἐν αὐταῖς, ἀειθαλεῖς ἐβλάστησας καρποὺς τῷ Θεῷ, τὰς ἀκανθώδεις αἱρέσεις πρόῤῥιζον ἐκτεμών, καὶ κοσμῶν τοὺς λογισμοὺς καθαρότητι. Διὸ δεχόμενος ἡμῶν τὰ ἐγκώμια, ἡ θεία λύρα, ὁ γρήγορος ὀφθαλμός, τῶν ποιμένων ὁ Ποιμήν, ὁ τῶν λύκων ἀγρευτής, πρέσβευε ἐκτενῶς, Θεολόγε τῷ Λόγῳ, ὑπὲρ τῶν ψυχῶν ἡμῶν."
 
 meVE.AposTheotokion.mode = miscellanea_gr_GR_cog.misc.Mode8
+meVE.AposTheotokion.greekmelody = he.a.m8_gr_GR_cog.heAU.TiYmasKalesomen.greekname
 meVE.AposTheotokion.melody = he.a.m8_gr_GR_cog.heAU.TiYmasKalesomen.name
 meVE.AposTheotokion.incipit = "Πάντων ἡ ἀντίληψις Δέσποινα, κλονουμένῳ…"
 meVE.AposTheotokion.text = "Πάντων ἡ ἀντίληψις Δέσποινα, κλονουμένῳ μοι Παρθένε, ἐκ τοῦ σκότους τῶν δεινῶν, ταῖς τοῦ βίου τρικυμίαις, ποντουμένῳ τε ἀεί, ῥανίδα, τοῦ ἐλέους σου κατάπεμψον, καὶ χεῖρα, βοηθείας σου παράσχου μοι· καὶ τῆς μερίδος ἀξίωσον, τῶν ἐκλεκτῶν, καὶ δικαίων με, ὡς ἄβυσσον, τετοκυῖα τοῦ ἐλέους Ἁγνή."
@@ -666,11 +668,13 @@ meMA.Ode9C2T.incipit = "Σὺ χωρίον Ἁγνή, τῆς θείας…"
 meMA.Ode9C2T.text = "Σὺ χωρίον Ἁγνή, τῆς θείας ἀπεριληψίας, ὑπὲρ φύσιν ἐχρημάτισας, ὡς Θεῷ τὴν σάρκα δανεισαμένη, τῷ σοῦ τὴν παρθενικήν, μὴ διαῤῥήξαντι μήτραν, ἐν τῷ τίκτειν ἀσπόρως, σὲ μεγαλύνομεν."
 
 meMA.Exaposteilarion1.mode = miscellanea_gr_GR_cog.misc.Mode2
+meMA.Exaposteilarion1.greekmelody = he.a.m2_gr_GR_cog.heAU.ToisMathitaisSynelthomen.greekname
 meMA.Exaposteilarion1.melody = he.a.m2_gr_GR_cog.heAU.ToisMathitaisSynelthomen.name
 meMA.Exaposteilarion1.incipit = "Μονάδα τρισυπόστατον, καὶ Τριάδα τελείαν…"
 meMA.Exaposteilarion1.text = "Μονάδα τρισυπόστατον, καὶ Τριάδα τελείαν, ἐν μιᾷ τῇ θεότητι, πάνσοφε Θεολόγε, ἐδίδαξας προσκυνεῖσθαι, φῶς εἰπὼν τὸν Πατέρα, καὶ τὸν Υἱὸν φῶς αὖθις τε, φῶς τὸ Ἅγιον Πνεῦμα· ἀλλὰ ἓν φῶς, ἀμερὲς ἀσύγχυτον· εἷς Θεὸς γάρ, τρανῶν τὸ ὁμοούσιον, ὦ Γρηγόριε μάκαρ."
 
 meMA.Exaposteilarion2.mode = miscellanea_gr_GR_cog.misc.Mode2
+meMA.Exaposteilarion2.greekmelody = he.a.m2_gr_GR_cog.heAU.ToisMathitaisSynelthomen.greekname
 meMA.Exaposteilarion2.melody = he.a.m2_gr_GR_cog.heAU.ToisMathitaisSynelthomen.name
 meMA.Exaposteilarion2.incipit = "Ὑψηγορίᾳ χρώμενος, σῶν δογμάτων πανσόφως…"
 meMA.Exaposteilarion2.text = "Ὑψηγορίᾳ χρώμενος, σῶν δογμάτων πανσόφως, τρανῶς ἐθεολόγησας, τὸ ἀπόῤῥητον βάθος, τῶν τοῦ Χριστοῦ μυστηρίων, ἄθλους τε τῶν Ἁγίων, καὶ βίους ἐῤῥητόρευσας, ὦ Γρηγόριε μάκαρ· καὶ νῦν Θεός, ἐν μεθέξει πέλων τῇ πρὸς τὸ θεῖον, σώζοις κἀμέ καὶ δέχοιο, σαῖς σκηναῖς Θεολόγε."
@@ -681,6 +685,7 @@ meMA.ExapTheotokion.incipit = "Μετὰ τῆς Θεομήτορος, καὶ 
 meMA.ExapTheotokion.text = "Μετὰ τῆς Θεομήτορος, καὶ Παρθένου Μαρίας, καὶ Βασιλείου πάνσοφε, παρεστὼς τοῦ Μεγάλου, τῇ ἀπροσίτῳ Τριάδι, τὴν εἰρήνην τῷ κόσμῳ, τῷ Βασιλεῖ τὰ τρόπαια, καὶ ἡμῖν σωτηρίαν, πρέσβευε, νῦν τοῖς ἀνευφημοῦσί σε Θεολόγε, Ἀρχιερεῦ Γρηγόριε, Ῥῆτορ τῆς Ἐκκλησίας."
 
 meMA.Lauds1.mode = miscellanea_gr_GR_cog.misc.Mode4
+meMA.Lauds1.greekmelody = he.a.m4_gr_GR_cog.heAU.OExYpsistouKlitheis.greekname
 meMA.Lauds1.melody = he.a.m4_gr_GR_cog.heAU.OExYpsistouKlitheis.name
 meMA.Lauds1.incipit = "Διατεμὼν τὸν τοῦ γράμματος σὺ…"
 meMA.Lauds1.text = "Διατεμὼν τὸν τοῦ γράμματος σὺ γνόφον, εἰσέδυς τῷ πνεύματι πρὸς φῶς ὑπέρτερον· καὶ τὴν ἐκεῖθεν δεξάμενος, φωτοχυσίαν, θεολογίας πάντας ἐπλούτισας, Γρηγόριε πάνσοφε, τῆς Ἐκκλησίας φωστήρ· ταῖς ἀστραπαῖς δὲ τῶν λόγων σου, σκοτώδη νέφη, τὰ τῶν αἱρέσεων ἀπεμείωσας· ὅθεν αὐλίζῃ ἔνθα ἦχος, ἑορταζόντων Ἀγγέλοις συνόμιλος, ἱκετεύων ἀπαύστως τοῦ σωθῆναι τὰς ψυχὰς ἡμῶν."
@@ -696,6 +701,7 @@ meMA.Lauds3.incipit = "Γεωπονήσας τῇ γλώσσῃ Θεηγόρ�
 meMA.Lauds3.text = "Γεωπονήσας τῇ γλώσσῃ Θεηγόρε, καρδίας ταῖς αὔλαξι σπόρον τὸν ἔνθεον, θεολογίας ἐπλούτισας, τῆς ἀνωτάτω, τῆς Ἐκκλησίας ἄπαν τὸ πλήρωμα· ἐντεῦθεν ζιζάνια πυρὶ τοῦ Πνεύματος, τὰ τῶν αἱρέσεων ἔφλεξας, φιλοσοφίας, τῆς θεϊκῆς τρεφόμενος ἔρωτι, Πάτερ Πατέρων, καὶ Ποιμὴν Ποιμένων καὶ δόξα Πιστῶν, Ἱερέων φωστήρ, οἰκουμένης τὸ κλέος, παμμακάριστε Γρηγόριε."
 
 meMA.Lauds4.mode = miscellanea_gr_GR_cog.misc.Mode4
+meMA.Lauds4.greekmelody = he.a.m4_gr_GR_cog.heAU.OExYpsistouKlitheis.greekname
 meMA.Lauds4.melody = he.a.m4_gr_GR_cog.heAU.OExYpsistouKlitheis.name
 meMA.Lauds4.incipit = "Τῷ τῆς σοφίας κρατῆρι προσπελάσας…"
 meMA.Lauds4.text = "Τῷ τῆς σοφίας κρατῆρι προσπελάσας, τὸ τίμιον στόμα σου, Πάτερ Γρηγόριε, θεολογίας ἐξήντλησας, τὸ θεῖον νᾶμα, καὶ τοῖς πιστοῖς ἀφθόνως μετέδωκας· αἱρέσεων ἔφραξας, ῥοῦν τὸν ψυχόλεθρον, τὸν βλασφημίας ἀνάμεστον, ὡς κυβερνήτην· εὗρε καὶ γὰρ σε Πνεῦμα τὸ Ἅγιον, ἀποσοβοῦντα καὶ ἐλαύνοντα, ὡς ἀνέμων πνοάς, δυσσεβῶν τὰς ὁρμάς, ἐν Μονάδι οὐσίας, τὴν Τριάδα καταγγέλλοντα."

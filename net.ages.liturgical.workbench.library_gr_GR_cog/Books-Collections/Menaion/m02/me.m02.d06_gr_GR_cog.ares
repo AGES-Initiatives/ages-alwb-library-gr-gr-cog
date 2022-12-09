@@ -59,6 +59,7 @@ meVE.SticGlory.incipit = me.m02.d02_gr_GR_cog.meVE.LityGlory.incipit
 meVE.SticGlory.text = me.m02.d02_gr_GR_cog.meVE.LityGlory.text
 
 meVE.Aposticha1.mode = miscellanea_gr_GR_cog.misc.Mode2
+meVE.Aposticha1.greekmelody = he.a.m2_gr_GR_cog.heAU.OikosTouEfratha.greekname
 meVE.Aposticha1.melody = he.a.m2_gr_GR_cog.heAU.OikosTouEfratha.name
 meVE.Aposticha1.incipit = me.m02.d04_gr_GR_cog.meVE.Aposticha2.incipit
 meVE.Aposticha1.text = me.m02.d04_gr_GR_cog.meVE.Aposticha2.text
@@ -375,16 +376,19 @@ meMA.Ode9C1T.incipit = "Φωνῇ Ἀγγέλου μεγάλης Ἄγγελο
 meMA.Ode9C1T.text = "Φωνῇ Ἀγγέλου μεγάλης Ἄγγελον, βουλῆς Ἁγνὴ Χριστοῦ Ἐμμανουὴλ ἀποτέτοκας, τοῖς Ἀγγέλοις τοὺς κάτω συνάπτοντα, μόνη πανύμνητε, μόνη αἰτία, τῆς ἡμῶν Κόρη θεώσεως."
 
 meMA.Exaposteilarion1.mode = miscellanea_gr_GR_cog.misc.Mode2
+meMA.Exaposteilarion1.greekmelody = he.a.m2_gr_GR_cog.heAU.ToisMathitaisSynelthomen.greekname
 meMA.Exaposteilarion1.melody = he.a.m2_gr_GR_cog.heAU.ToisMathitaisSynelthomen.name
 meMA.Exaposteilarion1.incipit = "Ποιμαντικῶς ὡδήγησας, πρὸς νομὰς εὐσεβείας…"
 meMA.Exaposteilarion1.text = "Ποιμαντικῶς ὡδήγησας, πρὸς νομὰς εὐσεβείας, τὸ τοῦ Κυρίου ποίμνιον, πάνσοφε, Ἱεράρχα, ἀποδιώξας ὡς θῆρας, πᾶσαν αἵρεσιν· ὅθεν, νῦν ἐποπτεύοις ἵλεως, καὶ ἡμᾶς οὐρανόθεν, ὡς παρεστώς, μετὰ τῆς Πανάγνου καὶ Θεοτόκου, τῷ θρόνῳ τῆς Θεότητος, παμμακάριστε Πάτερ."
 
 meMA.Exaposteilarion2.mode = miscellanea_gr_GR_cog.misc.Mode2
+meMA.Exaposteilarion2.greekmelody = he.a.m2_gr_GR_cog.heAU.ToisMathitaisSynelthomen.greekname
 meMA.Exaposteilarion2.melody = he.a.m2_gr_GR_cog.heAU.ToisMathitaisSynelthomen.name
 meMA.Exaposteilarion2.incipit = "Τῶν κόλπων τοῦ Γεννήτορος, οὐκ…"
 meMA.Exaposteilarion2.text = "Τῶν κόλπων τοῦ Γεννήτορος, οὐκ ἐκστὰς ἀποῤῥήτως, διʼ ἄκραν ἀγαθότητα, ἐκ Παρθένου γεννᾶται καὶ νηπιάζει ὁ Λόγος, τοῦτον δὲ ἐν ἀγκάλαις, Συμεὼν ὑποδέχεται, ἅμα τε ὁ Πρεσβύτης, καὶ Γηραιά, ἀνθωμολογήσαντο ὡς Δεσπότῃ, ἐν ᾧ καὶ προεμήνυον, τὴν βροτῶν σωτηρίαν."
 
 meMA.Aposticha1.mode = miscellanea_gr_GR_cog.misc.Mode2
+meMA.Aposticha1.greekmelody = he.a.m2_gr_GR_cog.heAU.OikosTouEfratha.greekname
 meMA.Aposticha1.melody = he.a.m2_gr_GR_cog.heAU.OikosTouEfratha.name
 meMA.Aposticha1.incipit = me.m02.d02_gr_GR_cog.meSV.Aposticha1.incipit
 meMA.Aposticha1.text = me.m02.d02_gr_GR_cog.meSV.Aposticha1.text
@@ -415,11 +419,13 @@ meMegalynarion.text = ""
 //These extra hymns are found in the back of the Feb. Menaion
 
 meVE.SticTheotokion.mode = miscellanea_gr_GR_cog.misc.Mode6
+meVE.SticTheotokion.greekmelody = he.a.m6_gr_GR_cog.heAU.TriimerosAnestis.greekname
 meVE.SticTheotokion.melody = he.a.m6_gr_GR_cog.heAU.TriimerosAnestis.name
 meVE.SticTheotokion.incipit = oc.m6.d5_gr_GR_cog.ocVE.SticTheotokion.incipit
 meVE.SticTheotokion.text = oc.m6.d5_gr_GR_cog.ocVE.SticTheotokion.text
 
 meVE.SticStavrotheotokion.mode = miscellanea_gr_GR_cog.misc.Mode6
+meVE.SticStavrotheotokion.greekmelody = he.a.m6_gr_GR_cog.heAU.TriimerosAnestis.greekname
 meVE.SticStavrotheotokion.melody = he.a.m6_gr_GR_cog.heAU.TriimerosAnestis.name
 meVE.SticStavrotheotokion.incipit = oc.m6.d4_gr_GR_cog.ocMA.AposTheotokion.incipit
 meVE.SticStavrotheotokion.text = oc.m6.d4_gr_GR_cog.ocMA.AposTheotokion.text

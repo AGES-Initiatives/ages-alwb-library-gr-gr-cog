@@ -72,6 +72,7 @@ meVE.LityBoth.incipit = me.m11.d08_gr_GR_cog.meVE.LityBoth.incipit
 meVE.LityBoth.text = me.m11.d08_gr_GR_cog.meVE.LityBoth.text
 
 meVE.Aposticha1.mode = miscellanea_gr_GR_cog.misc.Mode4
+meVE.Aposticha1.greekmelody = he.a.m4_gr_GR_cog.heAU.OsGennaionEnMartysi.greekname
 meVE.Aposticha1.melody = he.a.m4_gr_GR_cog.heAU.OsGennaionEnMartysi.name
 meVE.Aposticha1.incipit = "Συμμαχίᾳ τοῦ Πνεύματος, Ἀθλοφόρε Μερκούριε…"
 meVE.Aposticha1.text = "Συμμαχίᾳ τοῦ Πνεύματος, Ἀθλοφόρε Μερκούριε, καταγωνισάμενος τὸν ἀντίπαλον, ὡς στρατιώτης ἀήττητος, τῷ ὅπλῳ τῆς πίστεως, μυριάδας νοητῶν, Αἰθιόπων διέκοψας, καὶ τελέσας σου, τὸν ἀγῶνα νομίμως μετὰ πάντων, Ἀθλητῶν ἐστεφανώθης, Μεγαλομάρτυς πανόλβιε."
@@ -623,21 +624,25 @@ meMA.Ode9C2T.incipit = "Φώτισον πύλη τοῦ φωτός, τὴν�
 meMA.Ode9C2T.text = "Φώτισον πύλη τοῦ φωτός, τὴν τυφλώττουσαν ψυχήν μου τοῖς πάθεσι, καὶ πονηροῖς λογισμοῖς, ἀμαυρωθεῖσαν καὶ κινδυνεύουσαν, καὶ ἐξελοῦ με πειρασμῶν, κινδύνων καὶ θλίψεων, ἵνα δοξάζω σε, τὴν ἐλπίδα τῶν πιστῶν καὶ κραταίωμα."
 
 meMA.Exaposteilarion1.mode = miscellanea_gr_GR_cog.misc.Mode3
+meMA.Exaposteilarion1.greekmelody = he.a.m3_gr_GR_cog.heAU.EnPnevmatiToIero.greekname
 meMA.Exaposteilarion1.melody = he.a.m3_gr_GR_cog.heAU.EnPnevmatiToIero.name
 meMA.Exaposteilarion1.incipit = "Ἐνεύρωσας τὸ φρόνημα, γυναικῶν ὦ…"
 meMA.Exaposteilarion1.text = "Ἐνεύρωσας τὸ φρόνημα, γυναικῶν ὦ παρθένε, Αἰκατερῖνα πάντιμε, ἀθλοφόρων ἡ δόξα, καὶ Φιλοσόφων ἄνοιαν, ἐν Θεῷ διήλεγξας, ὡς λῆρον οὖσαν καὶ μῦθον, τὴν Πανάμωμον ὄντως, καὶ Μητέρα τοῦ Θεοῦ, συλλήπτορα κεκτημένη."
 
 meMA.Exaposteilarion2.mode = miscellanea_gr_GR_cog.misc.Mode3
+meMA.Exaposteilarion2.greekmelody = he.a.m3_gr_GR_cog.heAU.EnPnevmatiToIero.greekname
 meMA.Exaposteilarion2.melody = he.a.m3_gr_GR_cog.heAU.EnPnevmatiToIero.name
 meMA.Exaposteilarion2.incipit = "Τὰς παρατάξεις τῶν ἐχθρῶν, καὶ…"
 meMA.Exaposteilarion2.text = "Τὰς παρατάξεις τῶν ἐχθρῶν, καὶ δαιμόνων τὰ θράση, εἰς τέλος κατηδάφισας, καὶ στέφος ἐδέξω, Μερκούριε μακάριε, ἐκ χειρὸς τοῦ Κτίστου σου, ὡς Μάρτυς τῆς ἀληθείας· διασῴζεις δὲ πάντας, ἐκ παντοίων θλιβερῶν, σκανδάλων τοῦ ἀλλοτρίου."
 
 meMA.Exaposteilarion3.mode = miscellanea_gr_GR_cog.misc.Mode3
+meMA.Exaposteilarion3.greekmelody = he.a.m3_gr_GR_cog.heAU.EnPnevmatiToIero.greekname
 meMA.Exaposteilarion3.melody = he.a.m3_gr_GR_cog.heAU.EnPnevmatiToIero.name
 meMA.Exaposteilarion3.incipit = me.m11.d23_gr_GR_cog.meMA.Exaposteilarion2.incipit
 meMA.Exaposteilarion3.text = me.m11.d23_gr_GR_cog.meMA.Exaposteilarion2.text
 
 meMA.Lauds1.mode = miscellanea_gr_GR_cog.misc.Mode1
+meMA.Lauds1.greekmelody = he.a.m1_gr_GR_cog.heAU.TonOuranionTagmaton.greekname
 meMA.Lauds1.melody = he.a.m1_gr_GR_cog.heAU.TonOuranionTagmaton.name
 meMA.Lauds1.incipit = me.m11.d21_gr_GR_cog.meMA.Lauds1.incipit
 meMA.Lauds1.text = me.m11.d21_gr_GR_cog.meMA.Lauds1.text
@@ -653,6 +658,7 @@ meMA.Lauds3.incipit = me.m11.d21_gr_GR_cog.meMA.Lauds3.incipit
 meMA.Lauds3.text = me.m11.d21_gr_GR_cog.meMA.Lauds3.text
 
 meMA.Lauds4.mode = miscellanea_gr_GR_cog.misc.Mode4
+meMA.Lauds4.greekmelody = he.a.m4_gr_GR_cog.heAU.EdokasSimeiosin.greekname
 meMA.Lauds4.melody = he.a.m4_gr_GR_cog.heAU.EdokasSimeiosin.name
 meMA.Lauds4.incipit = "Μνήμην τὴν πανίερον, Αἰκατερῖνα πανεύφημε…"
 meMA.Lauds4.text = "Μνήμην τὴν πανίερον, Αἰκατερῖνα πανεύφημε, τῆς σεπτῆς σου ἀθλήσεως, τελοῦντες δοξάζομεν, ἐν φωναῖς ἀπαύστοις, τὸν δεδωρημένον, ὑπομονὴν σοι καρτεράν, καὶ νικηφόρον σε ἀναδείξαντα, καὶ λόγον χορηγήσαντα, καταπτοοῦντα τοὺς ῥήτορας, Ἰησοῦν τὸν φιλάνθρωπον, καὶ Σωτῆρα καὶ Κύριον"

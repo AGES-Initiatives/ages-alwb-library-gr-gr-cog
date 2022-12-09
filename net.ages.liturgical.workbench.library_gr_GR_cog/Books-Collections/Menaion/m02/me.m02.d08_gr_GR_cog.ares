@@ -64,6 +64,7 @@ meVE.SticBoth.incipit = me.m02.d02_gr_GR_cog.meVE.LityBoth.incipit
 meVE.SticBoth.text = me.m02.d02_gr_GR_cog.meVE.LityBoth.text
 
 meVE.Aposticha1.mode = miscellanea_gr_GR_cog.misc.Mode5
+meVE.Aposticha1.greekmelody = he.a.m6_gr_GR_cog.heAU.TriimerosAnestis.greekname
 meVE.Aposticha1.melody = he.a.m6_gr_GR_cog.heAU.TriimerosAnestis.name
 meVE.Aposticha1.incipit = me.m02.d03_gr_GR_cog.meMA.Aposticha1.incipit
 meVE.Aposticha1.text = me.m02.d03_gr_GR_cog.meMA.Aposticha1.text
@@ -644,16 +645,19 @@ meMA.Ode9C2T.incipit = "Ἄβυσσον θαυμάτων σε, καὶ χαρι
 meMA.Ode9C2T.text = "Ἄβυσσον θαυμάτων σε, καὶ χαρισμάτων Θεοτόκε, πέλαγος Ἁγνὴ γινώσκοντες, καὶ σαφῶς ἐπιστάμενοι, τῇ σῇ προστασίᾳ πεπειθότες προστρέχομεν, καὶ συντόνως πρός τὴν σὴν σκέπην καταφεύγομεν."
 
 meMA.Exaposteilarion1.mode = miscellanea_gr_GR_cog.misc.Mode2
+meMA.Exaposteilarion1.greekmelody = he.a.m2_gr_GR_cog.heAU.ToisMathitaisSynelthomen.greekname
 meMA.Exaposteilarion1.melody = he.a.m2_gr_GR_cog.heAU.ToisMathitaisSynelthomen.name
 meMA.Exaposteilarion1.incipit = "Μεγαλομάρτυς ἔνδοξε, τοῦ Χριστοῦ Στρατηλάτα…"
 meMA.Exaposteilarion1.text = "Μεγαλομάρτυς ἔνδοξε, τοῦ Χριστοῦ Στρατηλάτα, καὶ θεῖον ἐγκαλλώπισμα, τῶν σεπτῶν ἀθλοφόρων, Θεόδωρε γενναιόφρον, μὴ ἐλλίπῃς αἰτεῖσθαι, τῷ Βασιλεῖ τὰ τρόπαια, καὶ εἰρήνην τῷ κόσμω, καὶ ἱλασμόν, τῶν ἁμαρτημάτων καὶ σωτηρίαν, τοῖς ἐκτελοῦσι πάνσοφε, τὴν φωσφόρον σου μνήμην."
 
 meMA.Exaposteilarion2.mode = miscellanea_gr_GR_cog.misc.Mode3
+meMA.Exaposteilarion2.greekmelody = me.m02.d02_gr_GR_cog.meMA.Exaposteilarion1.greekmelody
 meMA.Exaposteilarion2.melody = miscellanea_gr_GR_cog.misc.Automelon
 meMA.Exaposteilarion2.incipit = me.m02.d02_gr_GR_cog.meMA.Exaposteilarion1.incipit
 meMA.Exaposteilarion2.text = me.m02.d02_gr_GR_cog.meMA.Exaposteilarion1.text
 
 meMA.Lauds1.mode = miscellanea_gr_GR_cog.misc.Mode4
+meMA.Lauds1.greekmelody = he.a.m4_gr_GR_cog.heAU.OsGennaionEnMartysi.greekname
 meMA.Lauds1.melody = he.a.m4_gr_GR_cog.heAU.OsGennaionEnMartysi.name
 meMA.Lauds1.incipit = "Ἀθλητὴς γενναιότατος, στρατιώτης ἀήττητος, ἐν…"
 meMA.Lauds1.text = "Ἀθλητὴς γενναιότατος, στρατιώτης ἀήττητος, ἐν Ἁγίῳ Πνεύματι ἀναδέδειξαι, καταβαλὼν τὸν πολέμιον, σοφίᾳ τῶν λόγων σου, καὶ τῶν ἔργων σου σοφέ, καρτεραῖς ἐπιδείξεσιν· ὅθεν εἴληφας, τοὺς στεφάνους τῆς νίκης, καὶ ταῖς ἄνω, ὁμηγύρεσι συνήφθης, κλέος Μαρτύρων Θεόδωρε."
@@ -680,6 +684,7 @@ meMA.LaudsBoth.incipit = me.m02.d02_gr_GR_cog.meVE.Lity6.incipit
 meMA.LaudsBoth.text = me.m02.d02_gr_GR_cog.meVE.Lity6.text
 
 meMA.Aposticha1.mode = miscellanea_gr_GR_cog.misc.Mode2
+meMA.Aposticha1.greekmelody = he.a.m2_gr_GR_cog.heAU.OikosTouEfratha.greekname
 meMA.Aposticha1.melody = he.a.m2_gr_GR_cog.heAU.OikosTouEfratha.name
 meMA.Aposticha1.incipit = "Ὁ πάντα τῇ χειρί, περιέχων…"
 meMA.Aposticha1.text = "Ὁ πάντα τῇ χειρί, περιέχων ὡς Κτίστης, καὶ δεσπόζων ἁπάντων, ὑπὸ χειρῶν Πρεσβύτου, ἐν τῷ ναῷ προσάγεται."
@@ -725,11 +730,13 @@ meVE.SticStavrotheotokion.incipit = "Ὡς ἀμνὸν σε Λόγε, ἡ…"
 meVE.SticStavrotheotokion.text = "Ὡς ἀμνὸν σε Λόγε, ἡ ἀμνὰς καὶ Παρθένος, πρὸς σφαγὴν χωροῦντα, καθορῶσα ἐβόα· Ὢ ξένου τολμήματος! πῶς ἄνομοι σφάττουσι, τὸν τοὺς ἀνθρώπους ζωοῦντα; Μέγα σου Υἱέ μου τὸ ἔλεος!"
 
 meVE.SticTheotokion2.mode = miscellanea_gr_GR_cog.misc.Mode8
+meVE.SticTheotokion2.greekmelody = he.a.m8_gr_GR_cog.heAU.TiYmasKalesomen.greekname
 meVE.SticTheotokion2.melody = he.a.m8_gr_GR_cog.heAU.TiYmasKalesomen.name
 meVE.SticTheotokion2.incipit = "Νύμφην σε Παρθένον ἐκήρυξαν, τῆς…"
 meVE.SticTheotokion2.text = "Νύμφην σε Παρθένον ἐκήρυξαν, τῆς ἀξίας τοῦ Πατρός, καὶ τῆς Θεότητος αὐτοῦ, οἱ Θεὸν ἀξιωθέντες, κατιδεῖν σωματικῶς, καὶ Λόγου καὶ Θεοῦ Κόρη Γεννήτριαν, καὶ Πνεύματος Ἁγίου οἰκητήριον· ἐν σοὶ γὰρ πᾶν τῆς Θεότητος, σωματικῶς κατεσκήνωσε, τὸ πλήρωμα, πληρεστάτης οὔσης χάριτος."
 
 meVE.SticStavrotheotokion2.mode = miscellanea_gr_GR_cog.misc.Mode8
+meVE.SticStavrotheotokion2.greekmelody = he.a.m8_gr_GR_cog.heAU.TiYmasKalesomen.greekname
 meVE.SticStavrotheotokion2.melody = he.a.m8_gr_GR_cog.heAU.TiYmasKalesomen.name
 meVE.SticStavrotheotokion2.incipit = "Ξύλῳ προσπηγνύμενον Κύριε, ὡς ἑώρακεν…"
 meVE.SticStavrotheotokion2.text = "Ξύλῳ προσπηγνύμενον Κύριε, ὡς ἑώρακεν ἀσπόρως, ἡ τεκοῦσά σε Ἀμνάς, κατεξαίνετο τὰς ὄψεις, καὶ ἐβόα ἐν κλαυθμῷ· Υἱέ μου πῶς σφαγὴν φέρεις τὴν ἄδικον, πῶς θνῄσκεις, ὁ ἀθάνατος ὡς ἄνθρωπος; Λόγον μοι δὸς φῶς γλυκύτατον, βλέψον Μητέρα θρηνοῦσάν σε, καὶ δόξασον, ταύτην Λόγε τῇ ἐγέρσει σου."

@@ -64,6 +64,7 @@ meVE.SticBoth.incipit = me.m12.d20_gr_GR_cog.meVE.Aposticha1.incipit
 meVE.SticBoth.text = me.m12.d20_gr_GR_cog.meVE.Aposticha1.text
 
 meVE.Aposticha1.mode = miscellanea_gr_GR_cog.misc.Mode6
+meVE.Aposticha1.greekmelody = he.a.m6_gr_GR_cog.heAU.TriimerosAnestis.greekname
 meVE.Aposticha1.melody = he.a.m6_gr_GR_cog.heAU.TriimerosAnestis.name
 meVE.Aposticha1.incipit = "Ἡ ἄπειρος σοφία Θεοῦ, τὸν…"
 meVE.Aposticha1.text = "Ἡ ἄπειρος σοφία Θεοῦ, τὸν οἶκον ἑαυτῆς ὑπὲρ νοῦν, ἐκ Παρθένου, ᾠκοδόμησε Χριστός, καὶ ἔρχεται ἐν φάτνῃ ἀλόγων καὶ Σπηλαίῳ, σαρκὶ τεχθῆναι ὑπὲρ ἔννοιαν."
@@ -895,16 +896,19 @@ meMA.Ode9H.incipit = he.h.m3_gr_GR_cog.heHE.SeTinAthanaton.incipit
 meMA.Ode9H.text = he.h.m3_gr_GR_cog.heHE.SeTinAthanaton.text
 
 meMA.Exaposteilarion1.mode = miscellanea_gr_GR_cog.misc.Mode2
+meMA.Exaposteilarion1.greekmelody = he.a.m2_gr_GR_cog.heAU.ToisMathitaisSynelthomen.greekname
 meMA.Exaposteilarion1.melody = he.a.m2_gr_GR_cog.heAU.ToisMathitaisSynelthomen.name
 meMA.Exaposteilarion1.incipit = "Σὺν Θεοδούλῳ στέψωμεν, Ζωτικὸν Ἀγαθόπουν…"
 meMA.Exaposteilarion1.text = "Σὺν Θεοδούλῳ στέψωμεν, Ζωτικὸν Ἀγαθόπουν, καὶ Σατορνῖνον Πόμπιον, ἅμα Εὐνικιανῷ, τὸν ἔνδοξον Βασιλείδην, Εὔπορόν τε τὸν θεῖον, καὶ τὸν κλεινὸν Γελάσιον, καὶ Εὐάρεστον ὕμνοις, χαρμονικῶς, ταῖς πρεσβείαις τούτων, ὅπως ῥυσθῶμεν, πταισμάτων καὶ στεφθείημεν, πρὸς Χριστοῦ τοῦ Σωτῆρος."
 
 meMA.Exaposteilarion2.mode = miscellanea_gr_GR_cog.misc.Mode2
+meMA.Exaposteilarion2.greekmelody = he.a.m2_gr_GR_cog.heAU.ToisMathitaisSynelthomen.greekname
 meMA.Exaposteilarion2.melody = he.a.m2_gr_GR_cog.heAU.ToisMathitaisSynelthomen.name
 meMA.Exaposteilarion2.incipit = "Οἱ ἀρετὴν ἀσκήσαντες, καὶ νεκρῶσαι…"
 meMA.Exaposteilarion2.text = "Οἱ ἀρετὴν ἀσκήσαντες, καὶ νεκρῶσαι τὰ πάθη, ἐν ἐγκρατείᾳ σπεύσαντες, ὥσπερ τρίϋλον δῶρον, μετὰ ποιμένων καὶ Μάγων, πρᾶξιν ἐπαινουμένην, καὶ θεωρίαν εὔστοχον, νῦν προσάξωμεν πίστει, τῷ ἐν σαρκί, γεννηθῆναι ἥκοντι ἐκ Παρθένου, Θεῷ τῷ εὐδοκήσαντι, τὴν ἡμῶν σωτηρίαν."
 
 meMA.Lauds1.mode = miscellanea_gr_GR_cog.misc.Mode6
+meMA.Lauds1.greekmelody = he.a.m6_gr_GR_cog.heAU.AiAngelikai.greekname
 meMA.Lauds1.melody = he.a.m6_gr_GR_cog.heAU.AiAngelikai.name
 meMA.Lauds1.incipit = "Τὸ προορισθέν, τῷ Πατρὶ πρὸ…"
 meMA.Lauds1.text = "Τὸ προορισθέν, τῷ Πατρὶ πρὸ τῶν αἰώνων, καὶ προκηρυχθέν, τοῖς Προφήταις ἐπʼ ἐσχάτων. Μυστήριον ἐφάνη, καὶ Θεὸς ἐνηνθρώπησε, σάρκα προσλαβὼν ἐκ τῆς Παρθένου, κτίζεται ὁ Ἄκτιστος βουλήσει· ὁ Ὢν γίνεται, ὁ Βασιλεὺς τοῦ Ἰσραήλ, Χριστὸς παραγίνεται."
@@ -920,6 +924,7 @@ meMA.Lauds3.incipit = "Φῶς τὸ ἐκ φωτός, προϊὸν…"
 meMA.Lauds3.text = "Φῶς τὸ ἐκ φωτός, προϊὸν καὶ ἐκ Παρθένου, λάμψαν τοῖς ἐν γῇ, διʼ Ἀστέρος κατιδόντες, οἱ Ἀστρολόγοι Μάγοι, Περσικὸν ἀπετίθεντο, σκότος καὶ ἀστρῷαν πᾶσαν πλάνην, καὶ ἐν χαρᾷ τῷ γεννηθέντι, Θεῷ ἔψαλλον· Εὐλογημένος ὁ τεχθείς, Θεὸς ἡμῶν δόξα σοι."
 
 meMA.Lauds4.mode = miscellanea_gr_GR_cog.misc.Mode6
+meMA.Lauds4.greekmelody = he.a.m6_gr_GR_cog.heAU.AiAngelikai.greekname
 meMA.Lauds4.melody = he.a.m6_gr_GR_cog.heAU.AiAngelikai.name
 meMA.Lauds4.incipit = "Χλόην ἐμμανῶς, τῶν Νηπίων ἐκθερίζει…"
 meMA.Lauds4.text = "Χλόην ἐμμανῶς, τῶν Νηπίων ἐκθερίζει, ὑπὸ τῶν σοφῶν, ἐμπαιχθεὶς Ἡρῴδης Μάγων· καὶ χεῖρα μιαιφόνον, κατὰ σοῦ αἴρειν ᾤετο· ἀλλʼ ἐπιδημεῖς τοῖς Αἰγυπτίοις, σκότος τὸ βαθύτατον διώκων, μεθʼ ὧν ψάλλομεν· Εὐλογημένος ὁ τεχθείς, Θεὸς ἡμῶν δόξα σοι."
@@ -935,6 +940,7 @@ meMA.LaudsBoth.incipit = "Ὤφθης ἐπὶ γῆς, καὶ βροτοῖς�
 meMA.LaudsBoth.text = "Ὤφθης ἐπὶ γῆς, καὶ βροτοῖς συνανεστράφης, Καίσαρος θεσμοῖς, σὺν τοῖς δούλοις ἐπεγράφης· ἐπλάσθης, οὐκ ἐτράπης, ἀναλλοίωτος ἔμεινας, ὅλος ὢν Θεός, κἂν ἐσαρκώθης· Δόξα τῇ σοὶ οἰκονομίᾳ, τιμὴ αἴνεσις, μεγαλοπρέπεια καὶ νῦν, καὶ εἰς τοὺς αἰῶνας. Ἀμήν."
 
 meMA.Aposticha1.mode = miscellanea_gr_GR_cog.misc.Mode1
+meMA.Aposticha1.greekmelody = he.a.m1_gr_GR_cog.heAU.PaneffimoiMartyres.greekname
 meMA.Aposticha1.melody = he.a.m1_gr_GR_cog.heAU.PaneffimoiMartyres.name
 meMA.Aposticha1.incipit = "Ἡ γῆ πᾶσα βλέπουσα Θεοῦ…"
 meMA.Aposticha1.text = "Ἡ γῆ πᾶσα βλέπουσα Θεοῦ, κάθοδον εὐφραίνεται, Μάγοι τὰ δῶρά μοι φέρουσιν. Οὐρανὸς φθέγγεται, διὰ τοῦ Ἀστέρος, Ἄγγελοι δοξάζουσι, Ποιμένες ἀγραυλοῦντες θαυμάζουσι, Φάτνη εἰσδέχεται, ὥσπερ θρόνος με πυρίμορφος. Ἐπαγάλλου, ταῦτα Μῆτερ βλέπουσα."

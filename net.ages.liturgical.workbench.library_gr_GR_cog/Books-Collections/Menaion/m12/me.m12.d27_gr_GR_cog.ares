@@ -66,6 +66,7 @@ meVE.SticBoth.incipit = me.m12.d25_gr_GR_cog.meVE.Aposticha1.incipit
 meVE.SticBoth.text = me.m12.d25_gr_GR_cog.meVE.Aposticha1.text
 
 meVE.Aposticha1.mode = miscellanea_gr_GR_cog.misc.Mode1
+meVE.Aposticha1.greekmelody = he.a.m1_gr_GR_cog.heAU.TonOuranionTagmaton.greekname
 meVE.Aposticha1.melody = he.a.m1_gr_GR_cog.heAU.TonOuranionTagmaton.name
 meVE.Aposticha1.incipit = "Τὸν ἐκ Πατρὸς πρὸ αἰώνων…"
 meVE.Aposticha1.text = "Τὸν ἐκ Πατρὸς πρὸ αἰώνων ἐξανατείλαντα, καὶ ὡς Υἱὸν ἐν κόλπῳ Πατρικῷ ἀεὶ ὄντα· αὖθις δὲ ἐπʼ ἐσχάτων, ἀγκάλαις Μητρός, ὡς ἐν θρόνῳ καθήμενον, καὶ ὑπ Ἀγγέλων Ποιμένων, Μάγων τε νῦν, προσκυνούμενον ὑμνήσωμεν."
@@ -562,16 +563,19 @@ meMA.Ode9C2T.incipit = "Σὲ τὴν ὑπὲρ νοῦν τε…"
 meMA.Ode9C2T.text = "Σὲ τὴν ὑπὲρ νοῦν τε καὶ λόγον, ἐν Βηθλεὲμ τὸν Θεὸν Λόγον, σήμερον τεκοῦσαν Παρθένε, καὶ ἐν σπαργάνοις τοῦτον εἱλήσασαν, ὡς ἀληθῶς Θεόπαιδα, καὶ Θεοτόκον μεγαλύνομεν."
 
 meMA.Exaposteilarion1.mode = miscellanea_gr_GR_cog.misc.Mode3
+meMA.Exaposteilarion1.greekmelody = he.a.m3_gr_GR_cog.heAU.EpeskepsatoImas.greekname
 meMA.Exaposteilarion1.melody = he.a.m3_gr_GR_cog.heAU.EpeskepsatoImas.name
 meMA.Exaposteilarion1.incipit = "Στέφανος σοι ὡς Βασιλεῖ, ἔμψυχος…"
 meMA.Exaposteilarion1.text = "Στέφανος σοι ὡς Βασιλεῖ, ἔμψυχος προσενήνεκται, νῦν τῆς σαρκὸς ἐκδημήσας, τῷ ἐνδημήσαντι σαρκί, Θεῷ τῷ παντοκράτορι, διʼ ὃν καὶ τὸν ἀγῶνα, ἐνδόξως ἐτέλεσεν."
 
 meMA.Exaposteilarion2.mode = miscellanea_gr_GR_cog.misc.Mode2
+meMA.Exaposteilarion2.greekmelody = he.a.m2_gr_GR_cog.heAU.ToisMathitaisSynelthomen.greekname
 meMA.Exaposteilarion2.melody = he.a.m2_gr_GR_cog.heAU.ToisMathitaisSynelthomen.name
 meMA.Exaposteilarion2.incipit = "Ὁ πλήρης θείας χάριτος, καὶ…"
 meMA.Exaposteilarion2.text = "Ὁ πλήρης θείας χάριτος, καὶ δυνάμεως ὄντως, τερατουργῶν διήλεγχε, θεοκτόνων τὰ στίφη, διακενῆς μελετῶντα, ὑψηγόρῳ δὲ γλώττῃ, θεολογῶν ὁ Στέφανος, τοῦ Πατρός δεξιόθεν, τὸν Ἰησοῦν, καθορῶ νῦν ἔφησεν ἑστηκότα, πρὸς ὃν λιθολευστούμενος στεφηφόρος ἀνῆλθεν."
 
 meMA.Exaposteilarion3.mode = miscellanea_gr_GR_cog.misc.Mode2
+meMA.Exaposteilarion3.greekmelody = he.a.m2_gr_GR_cog.heAU.ToisMathitaisSynelthomen.greekname
 meMA.Exaposteilarion3.melody = he.a.m2_gr_GR_cog.heAU.ToisMathitaisSynelthomen.name
 meMA.Exaposteilarion3.incipit = "Ὁ τῷ Πατρὶ καὶ Πνεύματι…"
 meMA.Exaposteilarion3.text = "Ὁ τῷ Πατρὶ καὶ Πνεύματι, συναΐδιος Λόγος, καὶ συμφυὴς καὶ σύνθρονος, ἐκ Παρθένου γεννᾶται, ἐν Βηθλεὲμ νῦν ὡς βρέφος· ὃν Θεὸν καὶ Σωτῆρα, ὁ Πρωτομάρτυς Στέφανος, ἀριδήλως κηρύξας, ὑπὸ χειρῶν, μιαιφόνων χαίρων λιθολευστεῖται, καὶ στεφηφόρος ἄνεισι, πρὸς αὐτὸν μετὰ δόξης."
@@ -624,6 +628,7 @@ meMA.LaudsBoth.text = "Ἀκατάληπτον τὸ τελούμενον, ἐ
 meMA.MM.Lauds1234as5678.text = properties_gr_GR_cog.media.key
 
 meMA.Aposticha1.mode = miscellanea_gr_GR_cog.misc.Mode1
+meMA.Aposticha1.greekmelody = he.a.m1_gr_GR_cog.heAU.PaneffimoiMartyres.greekname
 meMA.Aposticha1.melody = he.a.m1_gr_GR_cog.heAU.PaneffimoiMartyres.name
 meMA.Aposticha1.incipit = "Ἰδοῦσα κρατούμενον χερσίν, ἑαυτῆς ἡ…"
 meMA.Aposticha1.text = "Ἰδοῦσα κρατούμενον χερσίν, ἑαυτῆς ἡ Πάναγνος, τὸν Ποιητὴν ἀπεφθέγγετο. Τέκνον γλυκύτατον, πῶς σὲ βρέφος βλέπω, καὶ νοεῖν οὐ δύναμαι, τὴν ἄπειρόν σου νῦν συγκατάβασιν, ὑμνῶ τὸ κράτος σου, προσκυνῶ τὴν εὐσπλαγχνίαν σου, διʼ ἧς σῶσαι, κόσμον παραγέγονας."

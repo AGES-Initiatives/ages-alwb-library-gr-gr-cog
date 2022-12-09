@@ -59,6 +59,7 @@ meVE.SticGlory.incipit = me.m02.d02_gr_GR_cog.meMA.LaudsGlory.incipit
 meVE.SticGlory.text = me.m02.d02_gr_GR_cog.meMA.LaudsGlory.text
 
 meVE.Aposticha1.mode = miscellanea_gr_GR_cog.misc.Mode2
+meVE.Aposticha1.greekmelody = he.a.m2_gr_GR_cog.heAU.OikosTouEfratha.greekname
 meVE.Aposticha1.melody = he.a.m2_gr_GR_cog.heAU.OikosTouEfratha.name
 meVE.Aposticha1.incipit = me.m02.d01_gr_GR_cog.meMA.Aposticha2.incipit
 meVE.Aposticha1.text = me.m02.d01_gr_GR_cog.meMA.Aposticha2.text
@@ -646,21 +647,25 @@ meMA.Ode9C2T.incipit = "Νοεῖν οὐ σθένει σου τὸ…"
 meMA.Ode9C2T.text = "Νοεῖν οὐ σθένει σου τὸ μυστήριον, βρότειος νοῦς Παρθένε Θεοτόκε πανύμνητε· πρὸ γὰρ τόκου ἀνάνδρως συνέλαβες, ἔμεινάς τε Παρθένος, καὶ μετὰ κύησιν, τέτοκας δὲ Λόγον τῷ Πατρὶ τὸν συναΐδιον."
 
 meMA.Exaposteilarion1.mode = miscellanea_gr_GR_cog.misc.Mode2
+meMA.Exaposteilarion1.greekmelody = he.a.m2_gr_GR_cog.heAU.GynaikesAkoutisthite.greekname
 meMA.Exaposteilarion1.melody = he.a.m2_gr_GR_cog.heAU.GynaikesAkoutisthite.name
 meMA.Exaposteilarion1.incipit = "Λαμψάκου ὁ παμμέγιστος, Ποιμὴν καὶ…"
 meMA.Exaposteilarion1.text = "Λαμψάκου ὁ παμμέγιστος, Ποιμὴν καὶ περιβόητος, θαυματουργὸς Ἱεράρχης, τῆς τοῦ Χριστοῦ Ἐκκλησίας, τὸ Ἑλλησπόντου καύχημα, καὶ τῶν πιστῶν ἑδραίωμα, τιμάσθω νῦν Παρθένιος· ὑπὲρ τοῦ κόσμου γὰρ οὗτος, ἐξιλεοῦται τὸ Θεῖον."
 
 meMA.Exaposteilarion2.mode = miscellanea_gr_GR_cog.misc.Mode2
+meMA.Exaposteilarion2.greekmelody = he.a.m2_gr_GR_cog.heAU.GynaikesAkoutisthite.greekname
 meMA.Exaposteilarion2.melody = he.a.m2_gr_GR_cog.heAU.GynaikesAkoutisthite.name
 meMA.Exaposteilarion2.incipit = "Μονάσας ἐκ νεότητος, καὶ τὸν…"
 meMA.Exaposteilarion2.text = "Μονάσας ἐκ νεότητος, καὶ τὸν σταυρὸν ἀράμενος, ἐμάκρυνας ἐν ἐρήμῳ, Λουκᾶ φωστὴρ Μοναζόντων· ἐγκρατείᾳ δὲ πάσῃ, τὸ χεῖρον δουλωσάμενος, τῷ κρείττονι θεόληπτε, ὡς ἐφικτὸν συνεκράθης, τῇ ἀπροσίτῳ Τριάδι."
 
 meMA.Exaposteilarion3.mode = miscellanea_gr_GR_cog.misc.Mode2
+meMA.Exaposteilarion3.greekmelody = he.a.m2_gr_GR_cog.heAU.GynaikesAkoutisthite.greekname
 meMA.Exaposteilarion3.melody = he.a.m2_gr_GR_cog.heAU.GynaikesAkoutisthite.name
 meMA.Exaposteilarion3.incipit = me.m02.d05_gr_GR_cog.meMA.Exaposteilarion2.incipit
 meMA.Exaposteilarion3.text = me.m02.d05_gr_GR_cog.meMA.Exaposteilarion2.text
 
 meMA.Aposticha1.mode = miscellanea_gr_GR_cog.misc.Mode2
+meMA.Aposticha1.greekmelody = he.a.m2_gr_GR_cog.heAU.OikosTouEfratha.greekname
 meMA.Aposticha1.melody = he.a.m2_gr_GR_cog.heAU.OikosTouEfratha.name
 meMA.Aposticha1.incipit = me.m02.d04_gr_GR_cog.meVE.Aposticha2.incipit
 meMA.Aposticha1.text = me.m02.d04_gr_GR_cog.meVE.Aposticha2.text
@@ -691,11 +696,13 @@ meMegalynarion.text = "Χαίροις ἡσυχίας λύχνος λαμπρό�
 //These extra hymns are found in the back of the Feb. Menaion
 
 meVE.SticTheotokion.mode = miscellanea_gr_GR_cog.misc.Mode6
+meVE.SticTheotokion.greekmelody = he.a.m6_gr_GR_cog.heAU.OlinApothemenoi.greekname
 meVE.SticTheotokion.melody = he.a.m6_gr_GR_cog.heAU.OlinApothemenoi.name
 meVE.SticTheotokion.incipit = "Τετραυματισμένον με, ταῖς ληστρικαῖς τῶν…"
 meVE.SticTheotokion.text = "Τετραυματισμένον με, ταῖς ληστρικαῖς τῶν δαιμόνων, ἐφόδοις καὶ κείμενον, ὅλον ἀνενέργητον παναμώμητε, ἐν ὁδῷ πάντοτε, τοῦ ἀστάτου βίου, καὶ ἐλέους προσδεόμενον, τάχος ἐπίσκεψαι, οἶνον ἐπιθεῖσα καὶ ἔλαιον, τοῖς ἀνιάτοις μώλωψι, καὶ πρὸς εὐρωστίαν ἀνάγαγε· ὅπως σε δοξάζω, καὶ πόθῳ κατὰ χρέος ἀνυμνῶ, τὰ μεγαλεῖά σου ἄχραντε, Μήτηρ ἀειπάρθενε."
 
 meVE.SticStavrotheotokion.mode = miscellanea_gr_GR_cog.misc.Mode6
+meVE.SticStavrotheotokion.greekmelody = he.a.m6_gr_GR_cog.heAU.OlinApothemenoi.greekname
 meVE.SticStavrotheotokion.melody = he.a.m6_gr_GR_cog.heAU.OlinApothemenoi.name
 meVE.SticStavrotheotokion.incipit = me.m01.d15_gr_GR_cog.meVE.AposStavrotheotokion.incipit
 meVE.SticStavrotheotokion.text = me.m01.d15_gr_GR_cog.meVE.AposStavrotheotokion.text

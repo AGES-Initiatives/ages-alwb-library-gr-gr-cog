@@ -58,6 +58,7 @@ meVE.SticGlory.incipit = "Ὢ τοῦ παραδόξου θαύματος…"
 meVE.SticGlory.text = "Ὢ τοῦ παραδόξου θαύματος! ὁ ἐν Πνεύματι Ἁγίῳ βαπτίζων καὶ πυρί, ἐν Ἰορδάνῃ ἔρχεται βαπτισθῆναι ὑπὸ Ἰωάννου, Θεὸς οὐ γυμνός, οὐδὲ ἄνθρωπος ψιλός, ἀλλʼ ἐν δυσὶ ταῖς φύσεσιν, εἷς ὁ αὐτὸς Υἱὸς μονογενής, ζητῶν μὲν τὸ βάπτισμα, ὡς ἄνθρωπος ἐκ θνητοῦ, αἴρων δὲ ὡς Θεός, τὴν ἁμαρτίαν τοῦ κόσμου, καὶ παρέχων πᾶσι τὸ μέγα ἔλεος."
 
 meVE.Aposticha1.mode = miscellanea_gr_GR_cog.misc.Mode6
+meVE.Aposticha1.greekmelody = he.a.m6_gr_GR_cog.heAU.TriimerosAnestis.greekname
 meVE.Aposticha1.melody = he.a.m6_gr_GR_cog.heAU.TriimerosAnestis.name
 meVE.Aposticha1.incipit = "Ἰδοὺ ὁ φωτισμὸς…"
 meVE.Aposticha1.text = "Ἰδοὺ ὁ φωτισμὸς τῶν πιστῶν, ἰδοὺ ὁ ἱλασμὸς ἡμῶν, ἐπιβαίνειν, μέλλει ῥείθροις ποταμοῦ, τὸν ῥύπον ὅπως πλύνῃ, κακίας τῶν ἀνθρώπων, καὶ ἀναπλάσῃ συντριβέντας ἡμᾶς."
@@ -918,16 +919,19 @@ meMA.Ode9H.incipit = he.h.m8_gr_GR_cog.heHE.TonProdilothenta.incipit
 meMA.Ode9H.text = he.h.m8_gr_GR_cog.heHE.TonProdilothenta.text
 
 meMA.Exaposteilarion1.mode = miscellanea_gr_GR_cog.misc.Mode2
+meMA.Exaposteilarion1.greekmelody = he.a.m2_gr_GR_cog.heAU.GynaikesAkoutisthite.greekname
 meMA.Exaposteilarion1.melody = he.a.m2_gr_GR_cog.heAU.GynaikesAkoutisthite.name
 meMA.Exaposteilarion1.incipit = "Γορδίου τοῦ θεόφρονος, καὶ πανενδόξου…"
 meMA.Exaposteilarion1.text = "Γορδίου τοῦ θεόφρονος, καὶ πανενδόξου Μάρτυρος, αὔτη ἐπεῖδεν ἡμέρα, τὴν ἄθλησιν, ἧς τὴν μνήμην, λαμπρῶς νῦν ἐκτελέσωμεν, Χριστοῦ γὰρ ὑπερήθλησε. Διαναστῶμεν προθύμως, ὦ φιλομάρτυρες πάντες, πρὸς ἀρετῶν εὐκαρπίαν."
 
 meMA.Exaposteilarion2.mode = miscellanea_gr_GR_cog.misc.Mode3
+meMA.Exaposteilarion2.greekmelody = he.a.m3_gr_GR_cog.heAU.EnPnevmatiToIero.greekname
 meMA.Exaposteilarion2.melody = he.a.m3_gr_GR_cog.heAU.EnPnevmatiToIero.name
 meMA.Exaposteilarion2.incipit = "Τὴν Βηθλεὲμ ἀφέμενοι, τὸ καινότατον…"
 meMA.Exaposteilarion2.text = "Τὴν Βηθλεὲμ ἀφέμενοι, τὸ καινότατον θαῦμα, πρός, Ἰορδάνην δράμωμεν, ἐκ ψυχῆς θερμοτάτης, κἀκεῖσε κατοπτεύσωμεν τὸ φρικτὸν Μυστήριον· θεοπρεπῶς γὰρ ἐπέστη, γυμνωθεὶς ὁ Χριστός μου, ἐπενδύων με στολήν, τῆς οὐρανῶν Βασιλείας."
 
 meMA.Lauds1.mode = miscellanea_gr_GR_cog.misc.Mode6
+meMA.Lauds1.greekmelody = he.a.m6_gr_GR_cog.heAU.AiAngelikai.greekname
 meMA.Lauds1.melody = he.a.m6_gr_GR_cog.heAU.AiAngelikai.name
 meMA.Lauds1.incipit = "Θρόνον οὐρανόν, κεκτημένος ὁ Δεσπότης…"
 meMA.Lauds1.text = "Θρόνον οὐρανόν, κεκτημένος ὁ Δεσπότης, ἦλθεν ἐπὶ γῆς, σαρκωθεὶς ἐκ τῆς Παρθένου, καὶ πρὸς τὸν Ἰορδάνην, ἐπιστὰς τὸ καθάρσιον, πάντων ἑξαιρεῖ τὸν Ἰωάννην. Αἱ πατριαὶ τῆς γῆς ἁπάσης, αὐτῷ ψάλλωμεν· Εὐλογημένος ὁ φανείς, Θεὸς ἡμῶν δόξα σοι."
@@ -943,6 +947,7 @@ meMA.Lauds3.incipit = "Ὄρη γλυκασμόν, εὐφροσύνης στ�
 meMA.Lauds3.text = "Ὄρη γλυκασμόν, εὐφροσύνης σταλαξάτω, χεῖρας μυστικῶς, νῦν κροτήσατε τὰ Ἔθνη, ἡ ἔρημος ἀνθείτω Ἰορδάνη ὑπόδεξαι, δεῦρο Βαπτιστὰ τῷ μυστηρίῳ, τοῦ Λυτρωτοῦ ὑπούργει χαίρων, λαοὶ μέλψωμεν· Εὐλογημένος ὁ φανείς, Θεὸς ἡμῶν δόξα σοι."
 
 meMA.Lauds4.mode = miscellanea_gr_GR_cog.misc.Mode6
+meMA.Lauds4.greekmelody = he.a.m6_gr_GR_cog.heAU.AiAngelikai.greekname
 meMA.Lauds4.melody = he.a.m6_gr_GR_cog.heAU.AiAngelikai.name
 meMA.Lauds4.incipit = "Φῶς τὸ ἐκ φωτός, ὑπὲρ…"
 meMA.Lauds4.text = "Φῶς τὸ ἐκ φωτός, ὑπὲρ χρόνον προεκλάμψαν, τοῖς ἐν τῇ νυκτί, καθημένοις ἐπεφάνη, καὶ σκότος ἁμαρτίας, ἐκκαθᾶραν ἐφώτισε. Χόρευσον Ἀδάμ· εὐφραίνου Εὕα, ἡ λύτρωσις Χριστὸς ἐπέστη, Δαυῒδ βόησον· Εὐλογημένος ὁ φανείς, Θεὸς ἡμῶν δόξα σοι."
@@ -958,6 +963,7 @@ meMA.LaudsBoth.incipit = "Νόμου πληρωτής, κατὰ σάρκα �
 meMA.LaudsBoth.text = "Νόμου πληρωτής, κατὰ σάρκα χρηματίσας, ἦλθεν ὁ Χριστός, ἀπαρχὴν τῆς σωτηρίας, ἐπὶ τὸν Ἰορδάνην, ἐκτελέσαι ὡς εὔσπλαγχνος, καὶ τῷ Βαπτιστῇ καθυποκλίνει, τὴν κορυφὴν πιστῶς βοῶντι, λαοὶ κράξωμεν· Εὐλογημένος ὁ φανείς, Θεὸς ἡμῶν δόξα σοι."
 
 meMA.Aposticha1.mode = miscellanea_gr_GR_cog.misc.Mode2
+meMA.Aposticha1.greekmelody = he.a.m2_gr_GR_cog.heAU.OikosTouEfratha.greekname
 meMA.Aposticha1.melody = he.a.m2_gr_GR_cog.heAU.OikosTouEfratha.name
 meMA.Aposticha1.incipit = "Ἀπὸ τῆς Βηθλεέμ, ἐπὶ τὸν…"
 meMA.Aposticha1.text = "Ἀπὸ τῆς Βηθλεέμ, ἐπὶ τὸν Ἰορδάνην, μεταβῶμεν· ἐκεῖ γάρ, τὸ φῶς τοῖς ἐν τῷ σκότει, αὐγάζειν ἤδη ἄρχεται."

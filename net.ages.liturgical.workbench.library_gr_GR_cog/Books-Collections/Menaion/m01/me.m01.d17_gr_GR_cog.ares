@@ -133,6 +133,7 @@ meVE.LityBoth.incipit = oc.m5.d3_gr_GR_cog.ocVE.AposTheotokion.incipit
 meVE.LityBoth.text = oc.m5.d3_gr_GR_cog.ocVE.AposTheotokion.text
 
 meVE.Aposticha1.mode = miscellanea_gr_GR_cog.misc.Mode5
+meVE.Aposticha1.greekmelody = he.a.m5_gr_GR_cog.heAU.ChairoisAskitikon.greekname
 meVE.Aposticha1.melody = he.a.m5_gr_GR_cog.heAU.ChairoisAskitikon.name
 meVE.Aposticha1.incipit = "Χαίροις τῶν ἀσκητῶν ἀρχηγός, γεγενημένος…"
 meVE.Aposticha1.text = "Χαίροις τῶν ἀσκητῶν ἀρχηγός, γεγενημένος καὶ ἀήττητος πρόμαχος· παθῶν γὰρ ἐκτέμνων ῥίζας, καὶ τῶν δαιμόνων ὁρμάς, ὑποστὰς ἀνδρείως ἐθριάμβευσας, αὐτῶν τὴν ἀσθένειαν, καὶ ψυχόλεθρον πλάνησιν, τὴν τοῦ Σταυροῦ δέ, τοῦ Σωτῆρος ἐνέργειαν, καὶ ἀνίκητον, ἐφανέρωσας δύναμιν· ἣν καὶ περιζωσάμενος, ἐνίκησας ἅπαντας, τοὺς ἀθετοῦντας τὴν θείαν, διὰ σαρκὸς ἐπιφάνειαν, Χριστοῦ· ὃν δυσώπει, ταῖς ψυχαῖς ἡμῶν δοθῆναι, τὸ μέγα ἔλεος."
@@ -413,16 +414,19 @@ meMA.Ode9C1T.incipit = "Συνέλαβες Παρθένε δίχα σπορ�
 meMA.Ode9C1T.text = "Συνέλαβες Παρθένε δίχα σπορᾶς, τὸν τὰ σύμπαντα δημιουργήσαντα, Λόγον Θεοῦ, ἄνευ θελημάτων τῶν τῆς σαρκός, ἄνευ φθορᾶς δὲ τέτοκας, ἄνευθεν ὠδίνων τῶν μητρικῶν· διὸ σὲ Θεοτόκον, καὶ γλώσσῃ καὶ καρδίᾳ, ὁμολογοῦντες μεγαλύνομεν."
 
 meMA.Exaposteilarion1.mode = miscellanea_gr_GR_cog.misc.Mode2
+meMA.Exaposteilarion1.greekmelody = he.a.m2_gr_GR_cog.heAU.GynaikesAkoutisthite.greekname
 meMA.Exaposteilarion1.melody = he.a.m2_gr_GR_cog.heAU.GynaikesAkoutisthite.name
 meMA.Exaposteilarion1.incipit = "Καινὴν ὁδὸν καὶ ἄτριπτον, ἀνθρώποις…"
 meMA.Exaposteilarion1.text = "Καινὴν ὁδὸν καὶ ἄτριπτον, ἀνθρώποις ἐκ νεότητος, ἀναλαβὼν θεοφόρε, ταύτην θερμῶς ἕως τέλους, ἀνεπιστρόφως ὥδευσας, νόμῳ καινῷ πειθόμενος, Χριστοῦ, καὶ πρῶτος πέφηνας, καθηγητὴς τῆς ἐρήμου, καὶ Μοναζόντων ἀκρότης."
 
 meMA.Exaposteilarion2.mode = miscellanea_gr_GR_cog.misc.Mode3
+meMA.Exaposteilarion2.greekmelody = he.a.m3_gr_GR_cog.heAU.EnPnevmatiToIero.greekname
 meMA.Exaposteilarion2.melody = he.a.m3_gr_GR_cog.heAU.EnPnevmatiToIero.name
 meMA.Exaposteilarion2.incipit = "Φωστὴρ φωστήρων γέγονας, Μοναστῶν δὲ…"
 meMA.Exaposteilarion2.text = "Φωστὴρ φωστήρων γέγονας, Μοναστῶν δὲ ἀλείπτης, καὶ ἀρχηγὸς Ἀντώνιε, οἰκουμένης τὸ κλέος, διδάσκων οἷα γενναῖος, στρατηγέτης ἄριστα, τὰς τῶν δαιμόνων ἐφόδους, μὴ πτοεῖσθαι ἀῤῥωγόν, κεκτημένους τὸν Χριστόν, τῆς πλάνης τὸν καθαιρέτην."
 
 meMA.Exaposteilarion3.mode = miscellanea_gr_GR_cog.misc.Mode3
+meMA.Exaposteilarion3.greekmelody = he.a.m3_gr_GR_cog.heAU.EnPnevmatiToIero.greekname
 meMA.Exaposteilarion3.melody = he.a.m3_gr_GR_cog.heAU.EnPnevmatiToIero.name
 meMA.Exaposteilarion3.incipit = "Ἐν σώματι διατελῶν, τῶν Ἀγγέλων…"
 meMA.Exaposteilarion3.text = "Ἐν σώματι διατελῶν, τῶν Ἀγγέλων τὸν βίον, ὑπῆλθες ὥσπερ ἄσαρκος, καὶ τῷ κόσμῳ ἐδείχθης, φωστὴρ ἀειλαμπέστατος, καὶ τοῖς πᾶσιν ἔδειξας, Ἀντώνιε θεοφόρε, Μοναζόντων τὸ κλέος, Ἀσκητῶν ἡ καλλονή, καὶ τῶν Πατέρων ἡ δόξα."
@@ -433,6 +437,7 @@ meMA.ExapTheotokion.incipit = "Ἐλπὶς τοῦ κόσμου ἀγαθή, 
 meMA.ExapTheotokion.text = "Ἐλπὶς τοῦ κόσμου ἀγαθή, Θεοτόκε Παρθένε, τὴν σὴν ἄμαχον Δέσποινα, προστασίαν αἰτοῦμεν, οἱ θλίψεσι συσχεθέντες, καὶ κλυδωνιζόμενοι, τοῦ βίου ταῖς τρικυμίαις· στῆσον αὔρας τῶν παθῶν, καὶ λιμένα εἰς Θεοῦ, ἐμβίβασον θελημάτων."
 
 meMA.Lauds1.mode = miscellanea_gr_GR_cog.misc.Mode8
+meMA.Lauds1.greekmelody = he.a.m8_gr_GR_cog.heAU.OTouParadoxou.greekname
 meMA.Lauds1.melody = he.a.m8_gr_GR_cog.heAU.OTouParadoxou.name
 meMA.Lauds1.incipit = "Ὅσιε Πάτερ Ἀντώνιε, σὺ τὸν…"
 meMA.Lauds1.text = "Ὅσιε Πάτερ Ἀντώνιε, σὺ τὸν ζυγὸν τοῦ Χριστοῦ, ἐπὶ ὤμων ἀράμενος, τῷ Σταυρῷ τὴν ἔπαρσιν, τοῦ Σατᾶν καταβέβληκας, καὶ τὰς ἐρήμους, πόλεις ἀνέδειξας, διὰ τοῦ τρόπου τῆς πολιτείας σου. Ὦ παμμακάριστε, Ἀσκητῶν τὸ καύχημα, διὸ Χριστόν, ἀπαύστως ἱκέτευε, ἐλεηθῆναι ἡμᾶς."
@@ -448,6 +453,7 @@ meMA.Lauds3.incipit = "Πίστει συνελθόντες πάντες σε,
 meMA.Lauds3.text = "Πίστει συνελθόντες πάντες σε, ὡς Ἀσκητὴν τοῦ Χριστοῦ, σὲ τιμῶμεν Ἀντώνιε· γεγηθὼς γὰρ ὥδευσας, ἐν ἐρήμοις σαφέστατα, καθηγητής τε ταύτης ἐγένου πιστός· ὅθεν σοι πάντες, ἡμεῖς κραυγάζομεν. Ὦ παμμακάριστε, Μοναστῶν τὸ καύχημα, τῷ Λυτρωτῇ, ἀπαύστως ἱκέτευε, εἰς τὸ σωθῆναι ἡμᾶς."
 
 meMA.Lauds4.mode = miscellanea_gr_GR_cog.misc.Mode8
+meMA.Lauds4.greekmelody = he.a.m8_gr_GR_cog.heAU.OTouParadoxou.greekname
 meMA.Lauds4.melody = he.a.m8_gr_GR_cog.heAU.OTouParadoxou.name
 meMA.Lauds4.incipit = "Πάτερ Πατέρων Ἀντώνιε, τῇ ἀκορέστῳ…"
 meMA.Lauds4.text = "Πάτερ Πατέρων Ἀντώνιε, τῇ ἀκορέστῳ στοργῇ, τοῦ Χριστοῦ καὶ τῷ ἔρωτι, τὴν ψυχὴν κινούμενος, ἐν ἐρήμοις ἐζήτησας, αὐτὸν θορύβους, ἐκκλίνας ἅπαντας, καὶ μόνος τούτῳ, μόνῳ ὡμίλησας, νοῒ ἑνούμενος, καὶ φωτὸς πληρούμενος, ᾧ καὶ ἡμῶν, τὰς ψυχὰς καταύγασον, τῶν ἀνυμνούντων σε."

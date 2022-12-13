@@ -22,7 +22,7 @@ meDA.dismissal = dismissals_gr_GR_cog.dis00.epiphany
 
 //Θεοφάνους Ὁμολογητοῦ
 meVE.Stichera01.mode = miscellanea_gr_GR_cog.misc.Mode5
-meVE.Stichera01.melody = miscellanea_gr_GR_cog.misc.Automelon
+meVE.Stichera01.melody = he.a.m5_gr_GR_cog.heAU.OsiePater.melody
 meVE.Stichera01.incipit = he.a.m5_gr_GR_cog.heAU.OsiePater.incipit
 meVE.Stichera01.text = he.a.m5_gr_GR_cog.heAU.OsiePater.text
 
@@ -84,21 +84,25 @@ meVE.MM.GeneralApolytikion1.text = properties_gr_GR_cog.media.key
 meVE.GeneralApolytikion1.name = "Ὅσιε Πατὴρ ἡμῶν Θεοδόσιε," // name of saint for General Apolytikia
 
 meMA.Kathisma11.mode = miscellanea_gr_GR_cog.misc.Mode4
+meMA.Kathisma11.greekmelody = he.a.m4_gr_GR_cog.heAU.KateplagiIosif.greekname
 meMA.Kathisma11.melody = he.a.m4_gr_GR_cog.heAU.KateplagiIosif.name
 meMA.Kathisma11.incipit = me.m01.d08_gr_GR_cog.meMA.Kathisma11.incipit
 meMA.Kathisma11.text = me.m01.d08_gr_GR_cog.meMA.Kathisma11.text
 
 meMA.Kathisma21.mode = miscellanea_gr_GR_cog.misc.Mode4
+meMA.Kathisma21.greekmelody = he.a.m4_gr_GR_cog.heAU.KateplagiIosif.greekname
 meMA.Kathisma21.melody = he.a.m4_gr_GR_cog.heAU.KateplagiIosif.name
 meMA.Kathisma21.incipit = me.m01.d10_gr_GR_cog.meMA.Kathisma21.incipit
 meMA.Kathisma21.text = me.m01.d10_gr_GR_cog.meMA.Kathisma21.text
 
 meMA.Kathisma31.mode = miscellanea_gr_GR_cog.misc.Mode3
+meMA.Kathisma31.greekmelody = he.a.m3_gr_GR_cog.heAU.TheiasPisteos.greekname
 meMA.Kathisma31.melody = he.a.m3_gr_GR_cog.heAU.TheiasPisteos.name
 meMA.Kathisma31.incipit = "Θείας αἴρων σου χεῖρας πρὸς…"
 meMA.Kathisma31.text = "Θείας αἴρων σου χεῖρας πρὸς ὕψος, στῦλος Ὅσιε φωσφόρος ὤφθης, τῶν προσευχῶν ἐν ταῖς ἀκτῖσι λαμπόμενος· πρὸς οὐρανὸν γὰρ πτερώσας διάνοιαν, καὶ τῶν ἀῤῥήτων γενόμενος μέτοχος, ὅλος ἤστραψας, Χριστὸν τὸν Θεὸν αἰτούμενος, δωρήσασθαι ἡμῖν τὸ μέγα ἔλεος."
 
 meMA.Kathisma32.mode = miscellanea_gr_GR_cog.misc.Mode3
+meMA.Kathisma32.greekmelody = he.a.m3_gr_GR_cog.heAU.IParthenosSimeron.greekname
 meMA.Kathisma32.melody = he.a.m3_gr_GR_cog.heAU.IParthenosSimeron.name
 meMA.Kathisma32.incipit = me.m01.d10_gr_GR_cog.meMA.Kathisma11.incipit
 meMA.Kathisma32.text = me.m01.d10_gr_GR_cog.meMA.Kathisma11.text
@@ -186,11 +190,13 @@ meMA.Ode3C1T.incipit = "Τὰ τάγματα ἐξέστησαν, τῶν Ἀ�
 meMA.Ode3C1T.text = "Τὰ τάγματα ἐξέστησαν, τῶν Ἀγγέλων Πάναγνε, καὶ τῶν ἀνθρώπων ἔφριξαν, αἱ καρδίαι ἐπὶ τῷ τόκῳ σου· διὸ σε Θεοτόκον πίστει σέβομεν."
 
 meMA.Ode3Kathisma1.mode = miscellanea_gr_GR_cog.misc.Mode8
+meMA.Ode3Kathisma1.greekmelody = he.a.m8_gr_GR_cog.heAU.TinSofianKaiLogon.greekname
 meMA.Ode3Kathisma1.melody = he.a.m8_gr_GR_cog.heAU.TinSofianKaiLogon.name
 meMA.Ode3Kathisma1.incipit = "Ἐγκρατείᾳ καὶ πόνοις καὶ προσευχαῖς…"
 meMA.Ode3Kathisma1.text = "Ἐγκρατείᾳ καὶ πόνοις καὶ προσευχαῖς, τὴν ψυχήν σου κοσμήσας θεοπρεπῶς, γέγονας συμμέτοχος, τῶν Ὁσίων Ἀοίδιμε· καὶ τῶν θαυμάτων ὄντως, χαρίσματα ἔλαβες, τοῦ ἰᾶσθαι τὰς νόσους, τῶν πίστει τιμώντων σε· ὅθεν καὶ Δαιμόνων, ἀπελαύνων τὰ πλήθη, παρέχεις ἰάματα, τοῖς ἀνθρώποις τῇ χάριτι, θεοφόρε Θεοδόσιε. Πρέσβευε Χριστῷ τῷ Θεῷ, τῶν πταισμάτων ἄφεσιν δωρήσασθαι, τοῖς ἑορτάζουσι πόθῳ, τὴν ἁγίαν μνήμην σου."
 
 meMA.Ode3Kathisma2.mode = miscellanea_gr_GR_cog.misc.Mode8
+meMA.Ode3Kathisma2.greekmelody = he.a.m8_gr_GR_cog.heAU.TinSofianKaiLogon.greekname
 meMA.Ode3Kathisma2.melody = he.a.m8_gr_GR_cog.heAU.TinSofianKaiLogon.name
 meMA.Ode3Kathisma2.incipit = "Ἰορδάνης τῷ ῥείθρῳ καθυπουργεῖ, Ἰωάννης…"
 meMA.Ode3Kathisma2.text = "Ἰορδάνης τῷ ῥείθρῳ καθυπουργεῖ, Ἰωάννης ἐκτείνει χεῖρα φθαρτήν, φανέντος σοῦ Ἀόρατε, ἐν σαρκὶ πρὸς τὸ βάπτισμα, ἀλλʼ ὁ μὲν ἐστρέφετο, εἰς τὰ ὀπίσω φόβῳ, ὁ δὲ αὖθις ἐκράτει, ἐν τρόμῳ τὸν ἄφθαρτον, ὄντως ὁ Ἀμνὸς τοῦ Θεοῦ, ἡ πηγὴ ἡ ἀείζωος, πηγάς τε καὶ θαλάσσας, καὶ ἀνθρώπους ἡγίασας. Ἡ Τριὰς γὰρ ἐπέλαμψεν· ἄνωθεν Υἱὸν σε ὀνομάζει ὁ Γεννήτωρ, καὶ τὸ Ἅγιον Πνεῦμα συγκατέρχεται."

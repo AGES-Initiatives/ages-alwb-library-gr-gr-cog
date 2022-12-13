@@ -69,7 +69,7 @@ meSV.AposGlory.text = "Παρθένε Θεοτόκε ἁγνή, δυσώπη
 meVE.Stichera01.poet = poets_gr_GR_cog.po.AndreouPyrou
 meVE.Stichera01.mode = miscellanea_gr_GR_cog.misc.Mode2
 meVE.Stichera01.greekmelody = ""
-meVE.Stichera01.melody = miscellanea_gr_GR_cog.misc.Automelon
+meVE.Stichera01.melody = he.a.m2_gr_GR_cog.heAU.PoioisEffimionStemmasin.melody
 meVE.Stichera01.incipit = he.a.m2_gr_GR_cog.heAU.PoioisEffimionStemmasin.incipit
 meVE.Stichera01.text = he.a.m2_gr_GR_cog.heAU.PoioisEffimionStemmasin.text
 
@@ -167,6 +167,7 @@ meVE.Apolytikion1.incipit = oc.m4.d5_gr_GR_cog.ocMA.Kathisma11.incipit
 meVE.Apolytikion1.text = oc.m4.d5_gr_GR_cog.ocMA.Kathisma11.text
 
 meMA.Kathisma11.mode = miscellanea_gr_GR_cog.misc.Mode8
+meMA.Kathisma11.greekmelody = he.a.m8_gr_GR_cog.heAU.TinSofianKaiLogon.greekname
 meMA.Kathisma11.melody = he.a.m8_gr_GR_cog.heAU.TinSofianKaiLogon.name
 meMA.Kathisma11.incipit = "Τὸν βυθὸν τῆς ἁλιείας καταλιπών…"
 meMA.Kathisma11.text = "Τὸν βυθὸν τῆς ἁλιείας καταλιπών, οὐρανόθεν ἐδέξω παρὰ Πατρός, τὴν θείαν ἀποκάλυψιν, τῆς τοῦ Λόγου σαρκώσεως, καὶ παῤῥησίᾳ πᾶσιν, ἐβόας τῷ Κτίστῃ σου, τοῦ Θεοῦ σε γινώσκω, Υἱὸν ὁμοούσιον, Ὅθεν ἐπαξίως, ἀληθῶς ἀνεδείχθης, ἡ πέτρα τῆς πίστεως, καὶ κλειδοῦχος τῆς χάριτος, Πέτρε Ἀπόστολε, πρέσβευε Χριστῷ τῷ Θεῷ τῶν πταισμάτων ἄφεσιν δωρήσασθαι, τοῖς ἑορτάζουσι πόθῳ, τὴν ἁγίαν μνήμην σου."
@@ -177,6 +178,7 @@ meMA.Kathisma1T.incipit = "Ἐνθυμοῦμαι τὴν κρίσιν καὶ 
 meMA.Kathisma1T.text = "Ἐνθυμοῦμαι τὴν κρίσιν καὶ δειλιῶ, τὴν ἐξέτασιν φρίττω τὴν φοβεράν, τρέμω τὴν ἀπόφασιν, καὶ πτοοῦμαι τὴν κόλασιν, τὴν τοῦ πυρὸς ὀδύνην, τὸ σκότος, τὸν τάρταρον, Οἴμοι! τί ποιήσω ἐν ἐκείνῃ τῇ ὥρᾳ, ὅταν τίθωνται θρόνοι, καὶ βίβλοι ἀνοίγωνται, καὶ αἱ πράξεις ἐλέγχωνται; Τότε Δέσποινα, βοήθειά μοι γενοῦ, καὶ προστάτις θερμότατος· σὲ γὰρ ἔχω ἐλπίδα ὁ δοῦλός σου."
 
 meMA.Kathisma21.mode = miscellanea_gr_GR_cog.misc.Mode8
+meMA.Kathisma21.greekmelody = he.a.m8_gr_GR_cog.heAU.TinSofianKaiLogon.greekname
 meMA.Kathisma21.melody = he.a.m8_gr_GR_cog.heAU.TinSofianKaiLogon.name
 meMA.Kathisma21.incipit = "Οὐρανόθεν τὴν κλῆσιν παρὰ Χριστοῦ…"
 meMA.Kathisma21.text = "Οὐρανόθεν τὴν κλῆσιν παρὰ Χριστοῦ, κομισάμενος ὤφθης κήρυξ φωτός, πᾶσι τοῖς τῆς χάριτος, καταλάμψας διδάγμασι· τὴν γὰρ τοῦ νόμου ξέσας, λατρείαν τοῦ γράμματος, τοῖς πιστοῖς κατήστραψας, τὴν γνῶσιν τοῦ Πνεύματος· ὅθεν καὶ εἰς τρίτον, οὐρανὸν ἐπαξίως, ἐπήρθης μετάρσιος, καὶ Παράδεισον ἔφθασας, Παῦλε Ἀπόστολε, πρέσβευε Χριστῷ τῷ Θεῷ, τῶν πταισμάτων ἄφεσιν δωρήσασθαι, τοῖς ἑορτάζουσι πόθῳ, τὴν ἁγίαν μνήμην σου."
@@ -187,12 +189,13 @@ meMA.Kathisma2T.incipit = "Χαριστήριον αἶνον…"
 meMA.Kathisma2T.text = "Χαριστήριον αἶνον χρεωστικῶς, ὡς ἡ χήρα ἐκείνη δύο λεπτά, προσφέρω σοι Δέσποινα, ὑπὲρ πασῶν τῶν χαρίτων σου· σὺ γὰρ ὤφθης σκέπη, ὁμοῦ καὶ βοήθεια, πειρασμῶν καὶ θλίψεων, ἀεὶ με ἐξαίρουσα· ὅθεν ὡς ἐκ μέσης φλογιζούσης δώρησαι, καμίνου, ῥυσθεὶς τῶν θλιβόντων με, ἐκ καρδίας κραυγάζω σοι, Θεοτόκε βοήθει μοι, πρεσβεύουσα τῷ σῷ Υἱῷ καὶ Θεῷ, τῶν πταισμάτων ἄφεσιν δωρήσασθαι, τοῖς προσκυνοῦσιν ἐν πίστει, τὸν τόκον σου Ἄχραντε, Μετὰ τὸν Πολυέλεον."
 
 meMA.Kathisma31.mode = miscellanea_gr_GR_cog.misc.Mode8
+meMA.Kathisma31.greekmelody = he.a.m8_gr_GR_cog.heAU.TinSofianKaiLogon.greekname
 meMA.Kathisma31.melody = he.a.m8_gr_GR_cog.heAU.TinSofianKaiLogon.name
 meMA.Kathisma31.incipit = "Κορυφαίους ὀφθέντας τῶν μαθητῶν, τοὺς…"
 meMA.Kathisma31.text = "Κορυφαίους ὀφθέντας τῶν μαθητῶν, τοὺς μεγάλους φωστῆρας καὶ φαεινούς, Πέτρον εὐφημήσωμεν, καὶ τὸν πάνσοφον Παῦλον· τῷ γὰρ πυρὶ τοῦ θείου ἐκλάμψαντες Πνεύματος, τὴν ἀχλὺν τῆς πλάνης, κατέφλεξαν ἅπασαν· ὅθεν καὶ τῆς ἄνω, βασιλείας πολῖται, ἀξίως ἐδείχθησαν, καὶ τῆς χάριτος σύνθρονοι· Διὰ τοῦτο βοήσωμεν· Ἀπόστολοι Χριστοῦ τοῦ Θεοῦ, τῶν πταισμάτων ἄφεσιν αἰτήσασθε, τοῖς ἑορτάζουσι πόθῳ, τὴν ἁγίαν μνήμην ἡμῶν."
 
 meMA.Kathisma3T.mode = miscellanea_gr_GR_cog.misc.Mode8
-meMA.Kathisma3T.melody = miscellanea_gr_GR_cog.misc.Automelon
+meMA.Kathisma3T.melody = he.a.m8_gr_GR_cog.heAU.TinSofianKaiLogon.melody
 meMA.Kathisma3T.incipit = he.a.m8_gr_GR_cog.heAU.TinSofianKaiLogon.incipit
 meMA.Kathisma3T.text = he.a.m8_gr_GR_cog.heAU.TinSofianKaiLogon.text
 
@@ -512,7 +515,7 @@ meMA.Ode6C2T.incipit = "Ἐπέβλεψεν ἐπὶ σοὶ ὁ Κύριος�
 meMA.Ode6C2T.text = "Ἐπέβλεψεν ἐπὶ σοὶ ὁ Κύριος, τὴν ἐμὴν ἀνακαινίζων οὐσίαν, ὡς δυνατός, μεγαλεῖα ποιήσας, Θεογεννῆτορ ὡς ἔφης πανάμωμε, καὶ ἔσωσέ με διὰ σοῦ, ἐκ φθορᾶς ὁ Θεός μου ὡς εὔσπλαγχνος."
 
 meMA.Kontakion1.mode = miscellanea_gr_GR_cog.misc.Mode2
-meMA.Kontakion1.melody = miscellanea_gr_GR_cog.misc.Automelon
+meMA.Kontakion1.melody = he.a.m2_gr_GR_cog.heAU.TousAsfaleis.melody
 meMA.Kontakion1.incipit = he.a.m2_gr_GR_cog.heAU.TousAsfaleis.incipit
 meMA.Kontakion1.text = he.a.m2_gr_GR_cog.heAU.TousAsfaleis.text
 
@@ -714,7 +717,7 @@ meMA.ExapTheotokion.text = "Τὸ μέγα καὶ παράδοξον, τοῦ
 
 meMA.Lauds1.mode = miscellanea_gr_GR_cog.misc.Mode4
 meMA.Lauds1.greekmelody = he.a.m4_gr_GR_cog.heAU.OExYpsistouKlitheis.greekname
-meMA.Lauds1.melody = miscellanea_gr_GR_cog.misc.Automelon
+meMA.Lauds1.melody = he.a.m4_gr_GR_cog.heAU.OExYpsistouKlitheis.melody
 meMA.Lauds1.incipit = he.a.m4_gr_GR_cog.heAU.OExYpsistouKlitheis.incipit
 meMA.Lauds1.text = he.a.m4_gr_GR_cog.heAU.OExYpsistouKlitheis.text
 

@@ -61,7 +61,7 @@ meSV.AposGlory.text = me.m08.d14_gr_GR_cog.meMA.AposGlory.text
 
 meVE.Stichera01.mode = miscellanea_gr_GR_cog.misc.Mode1
 meVE.Stichera01.greekmelody = he.a.m1_gr_GR_cog.heAU.OTouParadoxouThavmatos.greekname
-meVE.Stichera01.melody = miscellanea_gr_GR_cog.misc.Automelon
+meVE.Stichera01.melody = he.a.m1_gr_GR_cog.heAU.OTouParadoxouThavmatos.melody
 meVE.Stichera01.incipit = he.a.m1_gr_GR_cog.heAU.OTouParadoxouThavmatos.incipit
 meVE.Stichera01.text = he.a.m1_gr_GR_cog.heAU.OTouParadoxouThavmatos.text
 
@@ -183,16 +183,19 @@ meVE.Apolytikion1.incipit = "Ἐν τῇ Γεννήσει…"
 meVE.Apolytikion1.text = "Ἐν τῇ Γεννήσει, τὴν παρθενίαν ἐφύλαξας. Ἐν τῇ Κοιμήσει, τὸν κόσμον οὐ κατέλιπες Θεοτόκε. Μετέστης πρὸς τὴν ζωήν, Μήτηρ ὑπάρχουσα τῆς ζωῆς, καὶ ταῖς πρεσβείαις ταῖς σαῖς λυτρουμένη, ἐκ θανάτου τὰς ψυχὰς ἡμῶν."
 
 meMA.Kathisma11.mode = miscellanea_gr_GR_cog.misc.Mode4
+meMA.Kathisma11.greekmelody = he.a.m4_gr_GR_cog.heAU.KateplagiIosif.greekname
 meMA.Kathisma11.melody = he.a.m4_gr_GR_cog.heAU.KateplagiIosif.name
 meMA.Kathisma11.incipit = "Ἀναβόησον Δαυΐδ…"
 meMA.Kathisma11.text = "Ἀναβόησον Δαυΐδ, τίς ἡ παροῦσα Ἑορτή; Ἣν ἀνύμνησα φησίν, ἐν τῷ βιβλίῳ τῶν Ψαλμῶν, ὡς θυγατέρα θεόπαιδα καὶ Παρθένον, μετέστησεν αὐτήν, πρὸς τὰς ἐκεῖθεν μονάς, Χριστὸς ὁ ἐξ αὐτῆς, ἄνευ σπορᾶς γεννηθείς· καὶ διὰ τοῦτο χαίρουσι, μητέρες καὶ θυγατέρες, καὶ νύμφαι Χριστοῦ, βοῶσαι· Χαῖρε, ἡ μεταστᾶσα, πρὸς τὰ ἄνω βασίλεια."
 
 meMA.Kathisma21.mode = miscellanea_gr_GR_cog.misc.Mode1
+meMA.Kathisma21.greekmelody = he.a.m1_gr_GR_cog.heAU.TonTafonSouSotir.greekname
 meMA.Kathisma21.melody = he.a.m1_gr_GR_cog.heAU.TonTafonSouSotir.name
 meMA.Kathisma21.incipit = "Ὁ πάντιμος χορός…"
 meMA.Kathisma21.text = "Ὁ πάντιμος χορός, τῶν σοφῶν Ἀποστόλων, ἠθροίσθη θαυμαστῶς, τοῦ κηδεῦσαι ἐνδόξως, τὸ σῶμά σου τὸ ἄχραντον, Θεοτόκε Πανύμνητε· οἷς συνύμνησαν, καὶ τῶν Ἀγγέλων τὰ πλήθη, τὴν Μετάστασιν, τὴν σὴν σεπτῶς εὐφημοῦντες· ἣν πίστει ἑορτάζομεν."
 
 meMA.Kathisma31.mode = miscellanea_gr_GR_cog.misc.Mode3
+meMA.Kathisma31.greekmelody = he.a.m3_gr_GR_cog.heAU.TinOraiotita.greekname
 meMA.Kathisma31.melody = he.a.m3_gr_GR_cog.heAU.TinOraiotita.name
 meMA.Kathisma31.incipit = "Ἐν τῇ Γεννήσει σου, σύλληψις ἄσπορος…"
 meMA.Kathisma31.text = "Ἐν τῇ Γεννήσει σου, σύλληψις ἄσπορος· ἐν τῇ Κοιμήσει σου, νέκρωσις ἄφθορος· θαῦμα ἐν θαύματι διπλοῦν, συνέδραμε Θεοτόκε· πῶς γὰρ ἡ ἀπείρανδρος, βρεφοτρόφος ἁγνεύουσα; πῶς δὲ ἡ Μητρόθεος, νεκροφόρος μυρίζουσα; Διὸ σὺν τῷ Ἀγγέλῳ βοῶμέν σοι· Χαῖρε ἡ κεχαριτωμένη."
@@ -442,7 +445,7 @@ meMA.Ode6C22.incipit = "Ζωῆς ὑπάρξασα τέμενος, ζωῆς 
 meMA.Ode6C22.text = "Ζωῆς ὑπάρξασα τέμενος, ζωῆς τῆς ἀϊδίου τετύχηκας· διὰ θανάτου γάρ, πρὸς τὴν ζωὴν μεταβέβηκας, ἡ τὴν ζωὴν τεκοῦσα τὴν ἐνυπόστατον."
 
 meMA.Kontakion1.mode = miscellanea_gr_GR_cog.misc.Mode6
-meMA.Kontakion1.melody = miscellanea_gr_GR_cog.misc.Automelon
+meMA.Kontakion1.melody = he.a.m6_gr_GR_cog.heAU.TinEnPresveiais.melody
 meMA.Kontakion1.incipit = he.a.m6_gr_GR_cog.heAU.TinEnPresveiais.incipit
 meMA.Kontakion1.text = he.a.m6_gr_GR_cog.heAU.TinEnPresveiais.text
 
@@ -600,7 +603,7 @@ meMA.Ode9C23.text = "Δέχου παρʼ ἡμῶν, ᾠδὴν τὴν ἐξ�
 
 meMA.Exaposteilarion1.mode = miscellanea_gr_GR_cog.misc.Mode3
 meMA.Exaposteilarion1.greekmelody = he.a.m3_gr_GR_cog.heAU.ApostoloiEkPeraton.greekname
-meMA.Exaposteilarion1.melody = miscellanea_gr_GR_cog.misc.Automelon
+meMA.Exaposteilarion1.melody = he.a.m3_gr_GR_cog.heAU.ApostoloiEkPeraton.melody
 meMA.Exaposteilarion1.incipit = he.a.m3_gr_GR_cog.heAU.ApostoloiEkPeraton.incipit
 meMA.Exaposteilarion1.text = he.a.m3_gr_GR_cog.heAU.ApostoloiEkPeraton.text
 

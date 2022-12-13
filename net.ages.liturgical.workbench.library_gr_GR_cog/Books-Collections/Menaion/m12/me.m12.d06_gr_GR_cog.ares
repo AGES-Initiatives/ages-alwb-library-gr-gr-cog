@@ -193,6 +193,7 @@ meVE.GeneralApolytikion1.name = "Πάτερ ἱεράρχα Νικόλαε·"
 meVE.MM.GeneralApolytikion1.text = "" // for media
 
 meMA.Kathisma11.mode = miscellanea_gr_GR_cog.misc.Mode1
+meMA.Kathisma11.greekmelody = he.a.m1_gr_GR_cog.heAU.TonTafonSouSotir.greekname
 meMA.Kathisma11.melody = he.a.m1_gr_GR_cog.heAU.TonTafonSouSotir.name
 meMA.Kathisma11.incipit = "Ἀστράπτεις ἐν τῇ γῇ, τῶν…"
 meMA.Kathisma11.text = "Ἀστράπτεις ἐν τῇ γῇ, τῶν θαυμάτων ἀκτῖσι, Νικόλαε σοφέ, καὶ κινεῖς πᾶσαν γλῶσσαν, εἰς δόξαν τε καὶ αἴνεσιν, τοῦ ἐν γῇ σε δοξάσαντος· ὃν ἱκέτευε, πάσης ἀνάγκης ῥυσθῆναι, τοὺς τὴν μνήμην σου, πίστει καὶ πόθῳ τιμῶντας, Πατέρων ἐκλόγιον."
@@ -203,6 +204,7 @@ meMA.Kathisma1T.incipit = oc.m1.d1_gr_GR_cog.ocMA.Kathisma23.incipit
 meMA.Kathisma1T.text = oc.m1.d1_gr_GR_cog.ocMA.Kathisma23.text
 
 meMA.Kathisma21.mode = miscellanea_gr_GR_cog.misc.Mode4
+meMA.Kathisma21.greekmelody = he.a.m4_gr_GR_cog.heAU.EpefanisSimeron.greekname
 meMA.Kathisma21.melody = he.a.m4_gr_GR_cog.heAU.EpefanisSimeron.name
 meMA.Kathisma21.incipit = "Τῶν πιστῶν προΐστασαι, σκέπων φρουρῶν…"
 meMA.Kathisma21.text = "Τῶν πιστῶν προΐστασαι, σκέπων φρουρῶν τούτους μάκαρ, καὶ ἐκ πάσης θλίψεως, ἀπολυτρούμενος σαφῶς, Ἱεραρχῶν ὡραιότατον, κλέος καὶ δόξα, Νικόλαε Ὅσιε."
@@ -213,6 +215,7 @@ meMA.Kathisma2T.incipit = me.m07.d05_gr_GR_cog.meMA.Kathisma2T.incipit
 meMA.Kathisma2T.text = me.m07.d05_gr_GR_cog.meMA.Kathisma2T.text
 
 meMA.Kathisma31.mode = miscellanea_gr_GR_cog.misc.Mode4
+meMA.Kathisma31.greekmelody = he.a.m4_gr_GR_cog.heAU.TachyProkatalave.greekname
 meMA.Kathisma31.melody = he.a.m4_gr_GR_cog.heAU.TachyProkatalave.name
 meMA.Kathisma31.incipit = "Προστάτης θερμότατος, τῆς Ἐκκλησίας Χριστοῦ…"
 meMA.Kathisma31.text = "Προστάτης θερμότατος, τῆς Ἐκκλησίας Χριστοῦ, ἐδείχθης Νικόλαε, τὰ τῶν αἱρέσεων, διδάγματα ἄθεα, λύων σὺν παῤῥησίᾳ, καὶ κανὼν ἀνεδείχθης, πᾶσιν ὀρθοδοξίας, ὑπὲρ πάντων πρεσβεύων, τῶν ἐφεπομένων σου θείαις, διδασκαλίαις καὶ εἰσηγήσεσι."
@@ -398,12 +401,13 @@ meMA.Ode3C3T.incipit = "Νέμοις Θεοτόκε, σωτηρίας ἐλπ
 meMA.Ode3C3T.text = "Νέμοις Θεοτόκε, σωτηρίας ἐλπίδα τοῖς δούλοις σου, καὶ ἐν ἀνάγκαις καὶ κινδύνοις, ταχυδρόμοις πρεσβείαις, φρουρεῖν, βοηθεῖν παράστηθι· σὺ γὰρ τὸ κλέος ἡμῶν τῶν πιστῶν, πέλεις θεονύμφευτε."
 
 meMA.Ode3Kathisma1.mode = miscellanea_gr_GR_cog.misc.Mode8
+meMA.Ode3Kathisma1.greekmelody = he.a.m8_gr_GR_cog.heAU.TinSofianKaiLogon.greekname
 meMA.Ode3Kathisma1.melody = he.a.m8_gr_GR_cog.heAU.TinSofianKaiLogon.name
 meMA.Ode3Kathisma1.incipit = "Ποταμὸν ἰαμάτων ὑπερχειλῆ, καὶ πηγήν…"
 meMA.Ode3Kathisma1.text = "Ποταμὸν ἰαμάτων ὑπερχειλῆ, καὶ πηγήν σε θαυμάτων ἀνελλιπῆ, ἔδειξε Νικόλαε, τοῦ ἐλέους ἡ ἄβυσσος· οἱ γὰρ βαρείαις νόσοις, πικρῶς πιεζόμενοι, καὶ συμφοραῖς τοῦ βίου, δεινῶς ἐταζόμενοι, πάσης ἀθυμίας, ἀκεσώδυνον ὄντως, εὑρίσκουσι φάρμακον, τὴν θερμήν σου ἀντίληψιν· διὰ τοῦτο βοῶμέν σοι· Πρέσβευε Χριστῷ τῷ Θεῷ, τῶν πταισμάτων ἄφεσιν δωρήσασθαι, τοῖς ἑορτάζουσι πόθῳ, τὴν ἁγίαν μνήμην σου."
 
 meMA.Ode3KathismaT.mode = miscellanea_gr_GR_cog.misc.Mode8
-meMA.Ode3KathismaT.melody = miscellanea_gr_GR_cog.misc.Automelon
+meMA.Ode3KathismaT.melody = he.a.m8_gr_GR_cog.heAU.TinSofianKaiLogon.melody
 meMA.Ode3KathismaT.incipit = he.a.m8_gr_GR_cog.heAU.TinSofianKaiLogon.incipit
 meMA.Ode3KathismaT.text = he.a.m8_gr_GR_cog.heAU.TinSofianKaiLogon.text
 

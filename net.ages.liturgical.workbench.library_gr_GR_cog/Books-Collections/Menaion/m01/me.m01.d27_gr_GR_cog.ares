@@ -94,6 +94,7 @@ meVE.Apolytikion1.incipit = me.m11.d13_gr_GR_cog.meVE.Apolytikion1.incipit
 meVE.Apolytikion1.text = me.m11.d13_gr_GR_cog.meVE.Apolytikion1.text
 
 meMA.Kathisma11.mode = miscellanea_gr_GR_cog.misc.Mode1
+meMA.Kathisma11.greekmelody = he.a.m1_gr_GR_cog.heAU.TonTafonSouSotir.greekname
 meMA.Kathisma11.melody = he.a.m1_gr_GR_cog.heAU.TonTafonSouSotir.name
 meMA.Kathisma11.incipit = "Δογμάτων ἀστραπαῖς, ὥσπερ ἥλιος μέγας…"
 meMA.Kathisma11.text = "Δογμάτων ἀστραπαῖς, ὥσπερ ἥλιος μέγας, ἐφώτισας τὴν γῆν, καὶ ἀγνοίας τὸ σκότος, μακρὰν ἀπεδίωξας, Ἰωάννη Χρυσόστομε· ὅθεν δέομαι, τοῦ αἰωνίου με σκότους, ἐλευθέρωσον, καὶ φωτισμοῦ σωτηρίας, εὐχαῖς σου ἀξίωσον."
@@ -104,6 +105,7 @@ meMA.Kathisma1T.incipit = "Ἀσπόρως τὸν Χριστόν, ἀπεκ�
 meMA.Kathisma1T.text = "Ἀσπόρως τὸν Χριστόν, ἀπεκύησας μόνη, τὸ θαῦμα ὑπὲρ νοῦν, πῶς Παρθένος καὶ Μήτηρ· διὸ Θεοτόκον σε, προσκυνοῦντες δοξάζομεν· σὺ γὰρ ἔτεκες, τὸν Βασιλέα τῆς δόξης· ὃν δυσώπησον, τοῦ εἰρηνεῦσαι τὸν κόσμον, καὶ σῶσαι τὰς ψυχὰς ἡμῶν."
 
 meMA.Kathisma21.mode = miscellanea_gr_GR_cog.misc.Mode4
+meMA.Kathisma21.greekmelody = he.a.m4_gr_GR_cog.heAU.OYpsotheisEnToStavro.greekname
 meMA.Kathisma21.melody = he.a.m4_gr_GR_cog.heAU.OYpsotheisEnToStavro.name
 meMA.Kathisma21.incipit = "Ὡς χρυσαυγές τε καὶ τερπνὸν…"
 meMA.Kathisma21.text = "Ὡς χρυσαυγές τε καὶ τερπνὸν θεοῤῥῆμον, ὄργανον θεῖον κελαδοῦν Ἐκκλησία, ὑπὸ Χριστοῦ Χρυσόστομε δεδώρησαι· χελιδὼν ἡ εὔλαλος, χρυσαυγίζουσα Μάκαρ, νοῦς ὁ χρυσοστόλιστος, λύρα τῆς μετανοίας, τοὺς σὲ τιμῶντας ῥῦσαι πειρασμῶν, σαῖς ἱκεσίαις Ποιμὴν ἀξιάγαστε."
@@ -114,12 +116,13 @@ meMA.Kathisma2T.incipit = me.m01.d21_gr_GR_cog.meMA.Ode3KathismaT.incipit
 meMA.Kathisma2T.text = me.m01.d21_gr_GR_cog.meMA.Ode3KathismaT.text
 
 meMA.Kathisma31.mode = miscellanea_gr_GR_cog.misc.Mode4
+meMA.Kathisma31.greekmelody = he.a.m4_gr_GR_cog.heAU.KateplagiIosif.greekname
 meMA.Kathisma31.melody = he.a.m4_gr_GR_cog.heAU.KateplagiIosif.name
 meMA.Kathisma31.incipit = "Θείᾳ ψήφῳ τῆς Χριστοῦ, ποίμνης…"
 meMA.Kathisma31.text = "Θείᾳ ψήφῳ τῆς Χριστοῦ, ποίμνης ἀξίως γεγονώς, Ἀξιάγαστε ποιμήν, οἵά περ λύκους ἐξ αὐτῆς, ἐν τῇ σφενδόνῃ τῶν λόγων σου ἀπεδίωξας, ἐλέγχων ἀφειδῶς, παρανομοῦντας σοφέ· ὑφʼ ὦν καὶ ἐλαθείς, φθόνῳ Χρυσόστομε, μακρὰν ὁδὸν διήνυσας στεῤῥόφρον, ὑπὲρ αὐτῆς ἐν ᾗ τέθνηκας, ἀλλʼ ἐπανῆλθες πρὸς Βασιλίδα, νέμων θεῖα χαρίσματα."
 
 meMA.Kathisma3T.mode = miscellanea_gr_GR_cog.misc.Mode4
-meMA.Kathisma3T.melody = miscellanea_gr_GR_cog.misc.Automelon
+meMA.Kathisma3T.melody = he.a.m4_gr_GR_cog.heAU.KateplagiIosif.melody
 meMA.Kathisma3T.incipit = he.a.m4_gr_GR_cog.heAU.KateplagiIosif.incipit
 meMA.Kathisma3T.text = he.a.m4_gr_GR_cog.heAU.KateplagiIosif.text
 
@@ -321,6 +324,7 @@ meMA.Ode3C3T.incipit = "Γεώδης φύσις οὐ σθένει σε…"
 meMA.Ode3C3T.text = "Γεώδης φύσις οὐ σθένει σε ἀνυμνεῖν, ἣν Ἄγγελοι μέλπουσιν, ὡς Θεὸν σωματώσασαν· πλὴν πιστῶς οἱ δοῦλοί σου, ἀποτολμῶμεν ὑμνεῖν σε καὶ δοξάζειν."
 
 meMA.Ode3Kathisma1.mode = miscellanea_gr_GR_cog.misc.Mode8
+meMA.Ode3Kathisma1.greekmelody = he.a.m8_gr_GR_cog.heAU.TinSofianKaiLogon.greekname
 meMA.Ode3Kathisma1.melody = he.a.m8_gr_GR_cog.heAU.TinSofianKaiLogon.name
 meMA.Ode3Kathisma1.incipit = "Τὴν σοφίαν ἐξ ὕψους καταμαθών…"
 meMA.Ode3Kathisma1.text = "Τὴν σοφίαν ἐξ ὕψους καταμαθών, καὶ τὴν χάριν τῶν λόγων παρὰ Θεοῦ, τοῖς πᾶσιν ἐξέλαμψας, ὡς χρυσὸς ἐν καμίνῳ, καὶ τὴν Ἁγίαν Τριάδα, Μονάδα ἐκήρυξας, τὴν φιλάργυρον πλάνην, τοξεύσας τοῖς λόγοις σου· ὅθεν καὶ πρὸς ζῆλον, βασιλίδα ἐλέγξας, ἀδίκως τῆς ποίμνης σου, ἀπελάθης Μακάριε, Ἰωάννη Χρυσόστομε, πρέσβευε Χριστῷ τῷ Θεῷ, τῶν πταισμάτων ἄφεσιν δωρήσασθαι, τοῖς ἑορτάζουσι πόθω, τὴν ἁγίαν μνήμην σου."

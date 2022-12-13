@@ -95,21 +95,25 @@ meVE.Apolytikion1.incipit = "Τῷ θείῳ ἔρωτι, λαμπρῶς ἀθ
 meVE.Apolytikion1.text = "Τῷ θείῳ ἔρωτι, λαμπρῶς ἀθλήσασα, εἰς ὀσμὴν ἔδραμες, Χριστοῦ πανεύφημε, οἷα νεᾶνις παγκαλής, καὶ Μάρτυς πεποικιλμένη· ὅθεν είσελήλυθας, είς παστάδα ούράνιον, κόσμῳ διανέμουσα, ἰαμάτων χαρίσματα, καὶ σῴζουσα τοὺς σοὶ ἐκβοῶντας· χαίροις θεόφρον Εὐφημία."
 
 meMA.Kathisma11.mode = miscellanea_gr_GR_cog.misc.Mode4
+meMA.Kathisma11.greekmelody = he.a.m4_gr_GR_cog.heAU.OYpsotheisEnToStavro.greekname
 meMA.Kathisma11.melody = he.a.m4_gr_GR_cog.heAU.OYpsotheisEnToStavro.name
 meMA.Kathisma11.incipit = me.m07.d11_gr_GR_cog.meMA.Ode3Kathisma1.incipit
 meMA.Kathisma11.text = me.m07.d11_gr_GR_cog.meMA.Ode3Kathisma1.text
 
 meMA.Kathisma12.mode = miscellanea_gr_GR_cog.misc.Mode4
-meMA.Kathisma12.melody = miscellanea_gr_GR_cog.misc.Automelon
+meMA.Kathisma12.greekmelody = he.a.m4_gr_GR_cog.heAU.OYpsotheisEnToStavro.greekname
+meMA.Kathisma12.melody = he.a.m4_gr_GR_cog.heAU.OYpsotheisEnToStavro.melody
 meMA.Kathisma12.incipit = he.a.m4_gr_GR_cog.heAU.OYpsotheisEnToStavro.incipit
 meMA.Kathisma12.text = he.a.m4_gr_GR_cog.heAU.OYpsotheisEnToStavro.text
 
 meMA.Kathisma21.mode = miscellanea_gr_GR_cog.misc.Mode4
+meMA.Kathisma21.greekmelody = he.a.m4_gr_GR_cog.heAU.OYpsotheisEnToStavro.greekname
 meMA.Kathisma21.melody = he.a.m4_gr_GR_cog.heAU.OYpsotheisEnToStavro.name
 meMA.Kathisma21.incipit = "Οἱ ἀγῶνές σου Σεμνὴ καὶ…"
 meMA.Kathisma21.text = "Οἱ ἀγῶνές σου Σεμνὴ καὶ ὁ στέφανος, οἱ ἱδρῶτές σου ἁγνὴ καὶ τὰ θαύματα, τοῦ διαβόλου ᾔσχυναν τὰ τρόπαια· Χριστὸν γὰρ τὸν νυμφίον σου, ἐκ καρδίας ποθοῦσα, οὐ μάστιγας οὐ θανατον, διʼ αὐτὸν ἐπτοήθης· ἀλλʼ ἀνετέθης ὅλῃ τῷ Θεῷ, τῆς εὐσεβείας φοροῦσα τὸν στέφανον."
 
 meMA.Kathisma22.mode = miscellanea_gr_GR_cog.misc.Mode4
+meMA.Kathisma22.greekmelody = he.a.m4_gr_GR_cog.heAU.OYpsotheisEnToStavro.greekname
 meMA.Kathisma22.melody = he.a.m4_gr_GR_cog.heAU.OYpsotheisEnToStavro.name
 meMA.Kathisma22.incipit = oc.m4.d4_gr_GR_cog.ocMA.Kathisma31.incipit
 meMA.Kathisma22.text = oc.m4.d4_gr_GR_cog.ocMA.Kathisma31.text
@@ -185,11 +189,13 @@ meMA.Ode3H.incipit = he.h.m8_gr_GR_cog.heHE.SyEiToStereoma.incipit
 meMA.Ode3H.text = he.h.m8_gr_GR_cog.heHE.SyEiToStereoma.text
 
 meMA.Ode3Kathisma1.mode = miscellanea_gr_GR_cog.misc.Mode8
+meMA.Ode3Kathisma1.greekmelody = he.a.m8_gr_GR_cog.heAU.TinSofianKaiLogon.greekname
 meMA.Ode3Kathisma1.melody = he.a.m8_gr_GR_cog.heAU.TinSofianKaiLogon.name
 meMA.Ode3Kathisma1.incipit = "Τῶν αἱμάτων σου ῥείθροις Μάρτυς…"
 meMA.Ode3Kathisma1.text = "Τῶν αἱμάτων σου ῥείθροις Μάρτυς Χριστοῦ, ποντισμὸν ἀσεβείας διηνεκῶς, ἐργάζῃ πανεύφημε· ἐπομβρίαις δὲ χάριτος, λογικὰς ἀρούρας, ἀρδεύουσα πάνσεμνε, ἐν αὐταῖς αὐξάνεις, τὸν στάχυν τῆς πίστεως· ὅθεν παραδόξως μετὰ θάνατον ὤφθης, νεφέλη πηγάζουσα, τῆς ζωῆς τὸ μαρτύριον, Ἀθλοφόρε πανεύφημε. Πρέσβευε Χριστῷ τῷ Θεῷ, τῶν πταισμάτων ἄφεσιν δωρήσασθαι, τοῖς ἑορτάζουσι πόθῳ τὴν ἁγίαν μνήμην σου."
 
 meMA.Ode3Kathisma2.mode = miscellanea_gr_GR_cog.misc.Mode8
+meMA.Ode3Kathisma2.greekmelody = he.a.m8_gr_GR_cog.heAU.TinSofianKaiLogon.greekname
 meMA.Ode3Kathisma2.melody = he.a.m8_gr_GR_cog.heAU.TinSofianKaiLogon.name
 meMA.Ode3Kathisma2.incipit = "Τὸν Σταυρὸν τοῦ Σωτῆρος ἀπὸ…"
 meMA.Ode3Kathisma2.text = "Τὸν Σταυρὸν τοῦ Σωτῆρος ἀπὸ τῆς γῆς, κεκρυμμένον ἀνείλετο ἐν σπουδῇ, χαρᾶς τε ἐμπίπλησιν, οἰκουμένης τὰ πέρατα, καὶ τεμένη θεσπίζει, ὑψοῦσθαι ἐν Πνεύματι, καὶ τὸ σκῆπτρον κομίζει, ἐπὶ τὰ βασίλεια, ἡ σεπτὴ Ἑλένη, τῷ υἱῷ ἐκβοῶσα· Ὑφάπλωσον Δέσποτα, τὰς σὰς χεῖρας καὶ πρόσδεξαι, τὸν δεικνύμενον ἅπασι, κράτος σου καὶ νίκας σοφέ, καὶ τὰ ἔθνη δίδαξον ἐν χάριτι, προσκυνεῖν τὸν Σταυρὸν καὶ τὰ πάθη Χριστοῦ."

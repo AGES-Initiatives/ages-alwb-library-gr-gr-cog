@@ -14,6 +14,7 @@ peHO.note2 = ""
 peDA.dismissal = dismissals_gr_GR_cog.dis00.resurrection
 
 peVE.Stichera01.mode = miscellanea_gr_GR_cog.misc.Mode5
+peVE.Stichera01.greekmelody = he.a.m5_gr_GR_cog.heAU.ChairoisAskitikon.greekname
 peVE.Stichera01.melody = he.a.m5_gr_GR_cog.heAU.ChairoisAskitikon.name
 peVE.Stichera01.incipit = "Ὤφθη φωτοφανὴς καὶ τερπνή, τῆς…"
 peVE.Stichera01.text = "Ὤφθη φωτοφανὴς καὶ τερπνή, τῆς τοῦ Σωτῆρος Ἀναστάσεως σήμερον, μεσότης ἡ παναγία, ὡς μεσημβρία φαιδρά, φρυκτωροῦσα κόσμον θείαις χάρισι· Χριστοῦ τῆς Ἐγέρσεως, λαμπαδοχοῦσα τεράστια, τῆς ἀφθαρσίας, ἀπαστράπτει τὰ σύμβολα, καὶ προδείκνυσι, τὴν εἰς ὕψος Ἀνάληψιν· φαίνει τὴν πολυέραστον, τοῦ Πνεύματος ἔλευσιν, Πεντηκοστῆς τῆς πανσέπτου, τὴν λαμπροτάτην πανήγυριν· διὸ καὶ παρέχει, ταῖς ψυχαῖς ἡμῶν εἰρήνην, καὶ μέγα ἔλεος."
@@ -54,11 +55,13 @@ peVE.AposGlory.incipit = pe.d096_gr_GR_cog.peMA.AposGlory.incipit
 peVE.AposGlory.text = pe.d096_gr_GR_cog.peMA.AposGlory.text
 
 peMA.Kathisma11.mode = miscellanea_gr_GR_cog.misc.Mode3
+peMA.Kathisma11.greekmelody = oc.m3.d6_gr_GR_cog.ocMA.Kathisma22.greekmelody
 peMA.Kathisma11.melody = oc.m3.d6_gr_GR_cog.ocMA.Kathisma22.melody
 peMA.Kathisma11.incipit = oc.m3.d6_gr_GR_cog.ocMA.Kathisma22.incipit
 peMA.Kathisma11.text = oc.m3.d6_gr_GR_cog.ocMA.Kathisma22.text
 
 peMA.Kathisma12.mode = miscellanea_gr_GR_cog.misc.Mode3
+peMA.Kathisma12.greekmelody = oc.m3.d1_gr_GR_cog.ocMA.Kathisma22.greekmelody
 peMA.Kathisma12.melody = oc.m3.d1_gr_GR_cog.ocMA.Kathisma22.melody
 peMA.Kathisma12.incipit = oc.m3.d1_gr_GR_cog.ocMA.Kathisma22.incipit
 peMA.Kathisma12.text = oc.m3.d1_gr_GR_cog.ocMA.Kathisma22.text
@@ -74,6 +77,7 @@ peMA.Kathisma1T.incipit = oc.m3.d6_gr_GR_cog.ocVE.ApolTheotokionVM.incipit
 peMA.Kathisma1T.text = oc.m3.d6_gr_GR_cog.ocVE.ApolTheotokionVM.text
 
 peMA.Kathisma21.mode = miscellanea_gr_GR_cog.misc.Mode8
+peMA.Kathisma21.greekmelody = pe.d095_gr_GR_cog.peMA.Ode3Kathisma2.greekmelody
 peMA.Kathisma21.melody = pe.d095_gr_GR_cog.peMA.Ode3Kathisma2.melody
 peMA.Kathisma21.incipit = pe.d095_gr_GR_cog.peMA.Ode3Kathisma2.incipit
 peMA.Kathisma21.text = pe.d095_gr_GR_cog.peMA.Ode3Kathisma2.text
@@ -99,6 +103,7 @@ peMA.LaudsGlory.incipit = "Μεσούσης τῆς ἑορτῆς τοῦ Π�
 peMA.LaudsGlory.text = "Μεσούσης τῆς ἑορτῆς τοῦ Πάσχα, ἐν τῷ ναῷ ἀνῆλθες, τοῦ ἱεροῦ ὁ Σωτὴρ ἡμῶν, καὶ στὰς ἐν μέσῳ τοῦ ὄχλου, ἐδίδασκες αὐτοὺς παῤῥησίᾳ, καὶ ἔλεγες· Ἐγώ εἰμι τὸ φῶς τοῦ κόσμου, ὁ ἐμοὶ ἀκολουθῶν, οὐ μὴ περιπατήσει ἐν τῇ σκοτίᾳ, ἀλλʼ ἕξει τὸ φῶς τῆς ἀθανάτου ζωῆς."
 
 peMA.Aposticha1.mode = miscellanea_gr_GR_cog.misc.Mode2
+peMA.Aposticha1.greekmelody = he.a.m2_gr_GR_cog.heAU.OikosTouEfratha.greekname
 peMA.Aposticha1.melody = he.a.m2_gr_GR_cog.heAU.OikosTouEfratha.name
 peMA.Aposticha1.incipit = "Ὅλος σὺν τῷ Θεῷ, ὁ…"
 peMA.Aposticha1.text = "Ὅλος σὺν τῷ Θεῷ, ὁ Λόγος σὺ ὑπάρχων, ὀλλύμενόν με θέλων, ἐξᾶραι τῶν πταισμάτων, ἑνοῦσαί μοι Φιλάνθρωπε."

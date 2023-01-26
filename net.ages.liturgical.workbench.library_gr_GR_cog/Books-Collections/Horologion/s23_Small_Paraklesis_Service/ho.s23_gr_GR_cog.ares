@@ -14,6 +14,7 @@ R03 = ""
 
 hoCA.Apolytikion1.mode = miscellanea_gr_GR_cog.misc.Mode4
 hoCA.Apolytikion1.melody = he.a.m4_gr_GR_cog.heAU.OYpsotheisEnToStavro.name
+hoCA.Apolytikion1.greekmelody = he.a.m4_gr_GR_cog.heAU.OYpsotheisEnToStavro.greekname
 hoCA.Apolytikion1.incipit = oc.m4.d3_gr_GR_cog.ocVE.ApolTheotokionVM.incipit
 hoCA.Apolytikion1.text = oc.m4.d3_gr_GR_cog.ocVE.ApolTheotokionVM.text
 
@@ -104,6 +105,7 @@ hoCA.Troparion32.text = "Ἐπίβλεψον, ἐν εὐμενείᾳ, παν
 //R07
 
 hoCA.Kathisma11.mode = miscellanea_gr_GR_cog.misc.Mode2
+hoCA.Kathisma11.greekmelody = he.a.m2_gr_GR_cog.heAU.TaAnoZiton.greekname
 hoCA.Kathisma11.melody = he.a.m2_gr_GR_cog.heAU.TaAnoZiton.name
 hoCA.Kathisma11.incipit = "Πρεσβεία θερμή…"
 hoCA.Kathisma11.text = "Πρεσβεία θερμή, καὶ τεῖχος ἀπροσμάχητον, ἐλέους πηγή, τοῦ κόσμου καταφύγιον, ἐκτενῶς βοῶμέν σοι· Θεοτόκε Δέσποινα, πρόφθασον, καὶ ἐκ κινδύνων λύτρωσαι ἡμᾶς, ἡ μόνη ταχέως προστατεύουσα."
@@ -241,6 +243,7 @@ hoCA.PostGospelBoth.text = ho.s03_gr_GR_cog.hoMA.PostGospelTheotokos.text
 hoCA.PostGospelVerse.text = ""
 
 hoCA.PostGospelHymn1.mode = miscellanea_gr_GR_cog.misc.Mode6
+hoCA.PostGospelHymn1.greekmelody = he.a.m6_gr_GR_cog.heAU.OlinApothemenoi.greekname
 hoCA.PostGospelHymn1.melody = he.a.m6_gr_GR_cog.heAU.OlinApothemenoi.name
 hoCA.PostGospelHymn1.incipit = "Μὴ καταπιστεύσῃς με, ἀνθρωπίνη προστασία…"
 hoCA.PostGospelHymn1.text = "Μὴ καταπιστεύσῃς με, ἀνθρωπίνη προστασία, Παναγία δέσποινα, ἀλλὰ δέξαι δέησιν, τοῦ ἱκέτου σου· θλῖψις γὰρ ἔχει με, φέρειν οὐ δύναμαι, τῶν δαιμόνων τὰ τοξεύματα, σκέπην οὐ κέκτημαι, οὐδὲ ποῦ προσφύγω ὁ ἄθλιος, πάντοθεν πολεμούμενος, καὶ παραμυθίαν οὐκ ἔχω πλήν σου· Δέσποινα τοῦ κόσμου, ἐλπὶς καὶ προστασία τῶν πιστῶν, μή μου παρίδῃς τὴν δέησιν, τὸ συμφέρον ποίησον."
@@ -415,6 +418,7 @@ hoCA.Troparion3.incipit = oc.m6.d5_gr_GR_cog.ocMA.Kathisma13.incipit
 hoCA.Troparion3.text = oc.m6.d5_gr_GR_cog.ocMA.Kathisma13.text
 
 hoCA.Troparion4.mode = miscellanea_gr_GR_cog.misc.Mode2
+hoCA.Troparion4.greekmelody = he.a.m2_gr_GR_cog.heAU.OteEkTouXylou.greekname
 hoCA.Troparion4.melody = he.a.m2_gr_GR_cog.heAU.OteEkTouXylou.name
 hoCA.Troparion4.incipit = oc.m2.d5_gr_GR_cog.ocVE.AposTheotokion.incipit
 hoCA.Troparion4.text = oc.m2.d5_gr_GR_cog.ocVE.AposTheotokion.text

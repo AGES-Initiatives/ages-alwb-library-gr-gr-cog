@@ -3,8 +3,8 @@ A_Resource_Whose_Name = da.d6_gr_GR_cog
 daDay.text = "Παρασκευή."
 daCommemoration.text = "Σταυρώσιμον."
 
-daVE.OnTheMorningBefore = template.titles_gr_GR_cog.d.onThursdayMorning
-daVE.OnTheEveningBefore = template.titles_gr_GR_cog.d.onThursdayEvening
+daVE.OnTheMorningBefore.text = template.titles_gr_GR_cog.d.onThursdayMorning
+daVE.OnTheEveningBefore.text = template.titles_gr_GR_cog.d.onThursdayEvening
 
 daVE.Apolytikion1.mode = miscellanea_gr_GR_cog.misc.Mode1
 daVE.Apolytikion1.melody = ""
@@ -46,7 +46,7 @@ daMA.ExapTheotokion2.melody = he.a.m3_gr_GR_cog.heAU.OOuranonToisAstrois.name
 daMA.ExapTheotokion2.incipit = "Ἐν τῷ Σταυρῷ παρεστῶσα…"
 daMA.ExapTheotokion2.text = "Ἐν τῷ Σταυρῷ παρεστῶσα, ἡ σὲ ἀσπόρως τεκοῦσα, καὶ θρηνῳδοῦσα ἐβόα· Οἴμοι! γλυκύτατον τέκνον, πῶς ἔδυς ἐξ ὀφθαλμῶν μου, πῶς ἐν νεκροῖς ἐλογίσθης;"
 
-daLI.CommunionHymn.text = properties_gr_GR_cog.media.key
+daLI.MM.CommunionHymn.text = properties_gr_GR_cog.media.key
 
-daLI.CommunionHymnAlt.text = ""
+daLI.MM.CommunionHymnAlt.text = ""
 

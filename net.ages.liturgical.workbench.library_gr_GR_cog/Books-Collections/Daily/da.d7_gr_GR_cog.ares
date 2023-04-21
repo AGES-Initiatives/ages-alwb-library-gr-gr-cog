@@ -3,8 +3,8 @@ A_Resource_Whose_Name = da.d7_gr_GR_cog
 daDay.text = "Σάββατον."
 daCommemoration.text = "Νεκρώσιμον."
 
-daVE.OnTheAfternoonBefore = template.titles_gr_GR_cog.d.onFridayAfternoon
-daVE.OnTheEveningBefore = template.titles_gr_GR_cog.d.onFridayEvening
+daVE.OnTheAfternoonBefore.text = template.titles_gr_GR_cog.d.onFridayAfternoon
+daVE.OnTheEveningBefore.text = template.titles_gr_GR_cog.d.onFridayEvening
 
 daVE.Apolytikion1.mode = miscellanea_gr_GR_cog.misc.Mode2
 daVE.Apolytikion1.melody = ""
@@ -51,6 +51,6 @@ daMA.ExapTheotokion2.melody = he.a.m2_gr_GR_cog.heAU.TonMathitonOrontonSe.name
 daMA.ExapTheotokion2.incipit = "Ἡμεῖς ἐν σοὶ καυχώμεθα Θεοτόκε…"
 daMA.ExapTheotokion2.text = "Ἡμεῖς ἐν σοὶ καυχώμεθα Θεοτόκε, καὶ εἰς Θεόν σε ἔχομεν προστασίαν, ἔκτεινον τὴν χεῖρά σου τὴν ἄμαχον, καὶ θραῦσον τοὺς ἐχθροὺς ἡμῶν, σοῖς ἐξαπόστειλον δούλοις, βοήθειαν ἐξ ἁγίου."
 
-daLI.CommunionHymn.text = properties_gr_GR_cog.media.key
+daLI.MM.CommunionHymn.text = properties_gr_GR_cog.media.key
 
-daLI.CommunionHymnAlt.text = ""
+daLI.MM.CommunionHymnAlt.text = ""

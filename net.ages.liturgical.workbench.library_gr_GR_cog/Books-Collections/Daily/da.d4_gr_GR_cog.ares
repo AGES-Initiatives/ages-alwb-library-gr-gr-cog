@@ -3,7 +3,7 @@ A_Resource_Whose_Name = da.d4_gr_GR_cog
 daDay.text = "Τετάρτη."
 daCommemoration.text = "Τῆς Θεοτόκου."
 
-daVE.OnTheEveningBefore = template.titles_gr_GR_cog.d.onTuesdayEvening
+daVE.OnTheEveningBefore.text = template.titles_gr_GR_cog.d.onTuesdayEvening
 
 daVE.Apolytikion1.mode = miscellanea_gr_GR_cog.misc.Mode1
 daVE.Apolytikion1.melody = ""
@@ -51,4 +51,4 @@ daMA.ExapTheotokion2.melody = he.a.m3_gr_GR_cog.heAU.OOuranonToisAstrois.name
 daMA.ExapTheotokion2.incipit = "Τοὺς τὸν Σταυρὸν καὶ τὰ…"
 daMA.ExapTheotokion2.text = "Τοὺς τὸν Σταυρὸν καὶ τὰ πάθη, τοῦ σοῦ Υἱοῦ Θεοτόκε, ἐν ἀδιστάκτῳ καρδίᾳ, πανευλαβῶς προσκυνοῦντας, τοῦ Παραδείσου πολίτας, καὶ δόξης μετόχους δεῖξον."
 
-daLI.CommunionHymn.text = properties_gr_GR_cog.media.key
+daLI.MM.CommunionHymn.text = properties_gr_GR_cog.media.key

@@ -698,11 +698,13 @@ meMA.Ode6H.incipit = he.h.m8_gr_GR_cog.heHE.OsTonProfitinErryso.incipit
 meMA.Ode6H.text = he.h.m8_gr_GR_cog.heHE.OsTonProfitinErryso.text
 
 meMA.Kontakion1.mode = miscellanea_gr_GR_cog.misc.Mode3
+meMA.Kontakion1.greekmelody = he.a.m3_gr_GR_cog.heAU.IParthenosSimeron.greekname
 meMA.Kontakion1.melody = he.a.m3_gr_GR_cog.heAU.IParthenosSimeron.name
 meMA.Kontakion1.incipit = "Τῆς σοφίας ἔμπλεως, τῆς ὑπερσόφου…"
 meMA.Kontakion1.text = "Τῆς σοφίας ἔμπλεως, τῆς ὑπερσόφου καὶ θείας, Μαλαχία μέγιστε, σὺ πεφυκὼς ὡς Προφήτης, ἄνωθεν αὐτὸν τὸν ὄντα Θεοῦ σοφίαν, ἔδειξας τοῖς πᾶσι κάτω ἀναστραφέντα· διὰ τοῦτό σε τιμῶμεν, τελοῦντες πίστει τὴν θείαν μνήμην σου."
 
 meMA.Kontakion2.mode = miscellanea_gr_GR_cog.misc.Mode6
+meMA.Kontakion2.greekmelody = he.a.m6_gr_GR_cog.heAU.TinEnPresveiais.greekname
 meMA.Kontakion2.melody = he.a.m6_gr_GR_cog.heAU.TinEnPresveiais.name
 meMA.Kontakion2.incipit = "Τὸν ἐν ἀθλήσει ἀήττητον στρατιώτην…"
 meMA.Kontakion2.text = "Τὸν ἐν ἀθλήσει ἀήττητον στρατιώτην, καὶ ἐν βασάνοις ἀνίκητον στεφανίτην, Γόρδιον πάντες ἀνευφημήσωμεν, τὸν ἐξ Ἑῴας μέγαν, ὄντως ἀστέρα λάμψαντα, τὸ θεῖον ἀγλάϊσμα τῶν Μαρτύρων Χριστοῦ."
@@ -1028,6 +1030,7 @@ meMA.AposGlory.incipit = "Ὤφθη τὸ πατρικόν, ἀπαύγασμ�
 meMA.AposGlory.text = "Ὤφθη τὸ πατρικόν, ἀπαύγασμα τῆς δόξης, ἐν ῥείθροις Ἰορδάνου, Βαπτίσματι καθαῖρον, τὸν ῥύπον τῶν ψυχῶν ἡμῶν."
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

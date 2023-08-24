@@ -389,11 +389,13 @@ meMA.Ode6H.incipit = he.h.m8_gr_GR_cog.heHE.TinDeisinEkcheo.incipit
 meMA.Ode6H.text = he.h.m8_gr_GR_cog.heHE.TinDeisinEkcheo.text
 
 meMA.Kontakion1.mode = miscellanea_gr_GR_cog.misc.Mode2
+meMA.Kontakion1.greekmelody = he.a.m2_gr_GR_cog.heAU.TaAnoZiton.greekname
 meMA.Kontakion1.melody = he.a.m2_gr_GR_cog.heAU.TaAnoZiton.name
 meMA.Kontakion1.incipit = "Μαρτύρων δυάς, ἀθλήσαντες στεῤῥότατα, ἐχθροῦ…"
 meMA.Kontakion1.text = "Μαρτύρων δυάς, ἀθλήσαντες στεῤῥότατα, ἐχθροῦ τὴν ὀφρύν, εἰς γῆν κατηδάφισαν, ἐλλαμφθέντες χάριτι, τῆς ἀκτίστου Τριάδος οἱ ἔνδοξοι· καὶ νῦν μέτʼ Ἀγγέλων αὐτῇ, πρεσβεύουσιν ἀπαύστως ὑπὲρ πάντων ἡμῶν."
 
 meMA.Kontakion2.mode = miscellanea_gr_GR_cog.misc.Mode2
+meMA.Kontakion2.greekmelody = he.a.m2_gr_GR_cog.heAU.TaAnoZiton.greekname
 meMA.Kontakion2.melody = he.a.m2_gr_GR_cog.heAU.TaAnoZiton.name
 meMA.Kontakion2.incipit = "Τὸ σῶμα τὸ σόν, νηστείαις…"
 meMA.Kontakion2.text = "Τὸ σῶμα τὸ σόν, νηστείαις κατατήξασα, ἐν μέσῳ ἀνδρῶν, Ματρῶνα κατοικήσασα, προσευχαῖς σχολάζουσα, τὸν Δεσπότην ἐνθέως ἐθεράπευσας, διʼ ὃν πάντα κατέλιπες, ὁσίως τὸν βίον διανύσασα."
@@ -594,6 +596,7 @@ meMA.ExapTheotokion.incipit = "Ἱερωτάταις φωναῖς σε, σεπ
 meMA.ExapTheotokion.text = "Ἱερωτάταις φωναῖς σε, σεπτοὶ Προφῆται Παρθένε, κατήγγειλαν ἐσομένην, Θεοῦ Μητέρα· διὸ σε, εἰδότες πίστει καὶ πόθῳ, γεραίρομεν Θεοτόκον."
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

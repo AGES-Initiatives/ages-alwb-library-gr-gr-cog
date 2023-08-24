@@ -257,6 +257,7 @@ meMA.Ode6H.incipit = he.h.m6_gr_GR_cog.heHE.TouViouTinThalassan.incipit
 meMA.Ode6H.text = he.h.m6_gr_GR_cog.heHE.TouViouTinThalassan.text
 
 meMA.Kontakion1.mode = miscellanea_gr_GR_cog.misc.Mode4
+meMA.Kontakion1.greekmelody = he.a.m4_gr_GR_cog.heAU.EpefanisSimeron.greekname
 meMA.Kontakion1.melody = he.a.m4_gr_GR_cog.heAU.EpefanisSimeron.name
 meMA.Kontakion1.incipit = "Γυναικὸς θεόφρονος τοὺς θείους λόγους…"
 meMA.Kontakion1.text = "Γυναικὸς θεόφρονος τοὺς θείους λόγους, ἐν καρδίᾳ θέμενος, Ἀδριανὲ μάρτυς Χριστοῦ, ἐν τοῖς βασάνοις προσέδραμες, σὺν τῇ συζύγῳ τὸ στέφος δεξάμενος."
@@ -404,6 +405,7 @@ meMA.LaudsTheotokion.incipit = ho.ho23_gr_GR_cog.hoCA.Troparion7.incipit
 meMA.LaudsTheotokion.text = ho.ho23_gr_GR_cog.hoCA.Troparion7.text
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

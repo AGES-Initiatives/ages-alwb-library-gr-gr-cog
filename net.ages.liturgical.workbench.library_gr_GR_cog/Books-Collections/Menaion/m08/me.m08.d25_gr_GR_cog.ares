@@ -376,11 +376,13 @@ meMA.Ode6H.incipit = he.h.m4_gr_GR_cog.heHE.ThysoSoiMetaFonis.incipit
 meMA.Ode6H.text = he.h.m4_gr_GR_cog.heHE.ThysoSoiMetaFonis.text
 
 meMA.Kontakion1.mode = miscellanea_gr_GR_cog.misc.Mode4
+meMA.Kontakion1.greekmelody = he.a.m4_gr_GR_cog.heAU.EpefanisSimeron.greekname
 meMA.Kontakion1.melody = he.a.m4_gr_GR_cog.heAU.EpefanisSimeron.name
 meMA.Kontakion1.incipit = "Ὤφθης μέγας ἥλιος, τῇ οἰκουμένῃ…"
 meMA.Kontakion1.text = "Ὤφθης μέγας ἥλιος, τῇ οἰκουμένῃ, διδαγμάτων λάμψεσι, καὶ θαυμασίων φοβερῶν, φωταγωγῶν τοὺς τιμῶντάς σε, Βαρθολομαῖε, Κυρίου Ἀπόστολε."
 
 meMA.Kontakion2.mode = miscellanea_gr_GR_cog.misc.Mode2
+meMA.Kontakion2.greekmelody = he.a.m2_gr_GR_cog.heAU.TaAnoZiton.greekname
 meMA.Kontakion2.melody = he.a.m2_gr_GR_cog.heAU.TaAnoZiton.name
 meMA.Kontakion2.incipit = "Τοῦ Παύλου δειχθείς, συνόμιλος Ἀπόστολε…"
 meMA.Kontakion2.text = "Τοῦ Παύλου δειχθείς, συνόμιλος Ἀπόστολε, σὺν τούτῳ ἡμῖν, τὸν λόγον προκατήγγειλας, τῆς ἐνθέου χάριτος, μυστολέκτα Τίτε μακάριε· διὰ τοῦτο βοῶμέν σοι· Μὴ παύσῃ πρεσβεύων ὑπὲρ πάντων ἡμῶν."
@@ -603,6 +605,7 @@ meMA.LaudsTheotokion.text = oc.m5.d3_gr_GR_cog.ocVE.AposTheotokion.text
 meMA.MM.Lauds1234as5678.text = properties_gr_GR_cog.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

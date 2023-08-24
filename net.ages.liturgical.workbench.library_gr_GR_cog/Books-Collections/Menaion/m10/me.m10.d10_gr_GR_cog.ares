@@ -245,6 +245,7 @@ meMA.Ode6H.incipit = he.h.m6_gr_GR_cog.heHE.TouViouTinThalassan.incipit
 meMA.Ode6H.text = he.h.m6_gr_GR_cog.heHE.TouViouTinThalassan.text
 
 meMA.Kontakion1.mode = miscellanea_gr_GR_cog.misc.Mode3
+meMA.Kontakion1.greekmelody = he.a.m3_gr_GR_cog.heAU.IParthenosSimeron.greekname
 meMA.Kontakion1.melody = he.a.m3_gr_GR_cog.heAU.IParthenosSimeron.name
 meMA.Kontakion1.incipit = "Τοὺς γενναίους Μάρτυρας, καὶ ἀδελφοὺς…"
 meMA.Kontakion1.text = "Τοὺς γενναίους Μάρτυρας, καὶ ἀδελφοὺς κατὰ σάρκα, τὸν σοφὸν Εὐλάμπιον, καὶ Εὐλαμπίαν τιμῶμεν· οὗτοι γὰρ τῶν τυραννούντων μηχανουργίας, ᾔσχυναν τῇ δυναστείᾳ τοῦ σταυρωθέντος. ἀνεδείχθησαν διόπερ, Μαρτύρων δόξα, ὁμοῦ καὶ καύχημα."
@@ -364,6 +365,7 @@ meMA.ExapTheotokion.incipit = "Ῥανίσι τοῦ ἐλέους σου, κ�
 meMA.ExapTheotokion.text = "Ῥανίσι τοῦ ἐλέους σου, κατάρδευσον Πανάμωμε, τὴν ἐκτακεῖσαν ψυχήν μου, τῆς ἁμαρτίας τῇ καύσει, καὶ σκοτισθέντα πάθεσι, τὸν νοῦν μου φωταγώγησον, τοῦτον σαφῶς ἰθύνουσα, πρὸς ἄϋλον θεωρίαν, τοῦ σοῦ Υἱοῦ Θεοτόκε."
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

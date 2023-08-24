@@ -382,11 +382,13 @@ meMA.Ode6H.incipit = he.h.m8_gr_GR_cog.heHE.TinDeisinEkcheo.incipit
 meMA.Ode6H.text = he.h.m8_gr_GR_cog.heHE.TinDeisinEkcheo.text
 
 meMA.Kontakion1.mode = miscellanea_gr_GR_cog.misc.Mode3
+meMA.Kontakion1.greekmelody = he.a.m3_gr_GR_cog.heAU.IParthenosSimeron.greekname
 meMA.Kontakion1.melody = he.a.m3_gr_GR_cog.heAU.IParthenosSimeron.name
 meMA.Kontakion1.incipit = "Παρθενίας νάμασι, καθηγνισμένη Ὁσία, μαρτυρίου…"
 meMA.Kontakion1.text = "Παρθενίας νάμασι, καθηγνισμένη Ὁσία, μαρτυρίου αἵμασιν, Ἀναστασία πλυθεῖσα, παρέχεις τοῖς ἐν ἀνάγκαις τῶν νοσημάτων, ἴασιν καὶ σωτηρίαν τοῖς προσιοῦσιν, ἐκ καρδίας· ἰσχὺν γὰρ νέμει, Χριστὸς ὁ βρύων, χάριν ἀέναον."
 
 meMA.Kontakion2.mode = miscellanea_gr_GR_cog.misc.Mode3
+meMA.Kontakion2.greekmelody = he.a.m3_gr_GR_cog.heAU.IParthenosSimeron.greekname
 meMA.Kontakion2.melody = he.a.m3_gr_GR_cog.heAU.IParthenosSimeron.name
 meMA.Kontakion2.incipit = "Ἐν σαρκὶ ὡς ἄγγελος, ἐπὶ…"
 meMA.Kontakion2.text = "Ἐν σαρκὶ ὡς ἄγγελος, ἐπὶ τῆς γῆς ἀνεφάνης, καὶ ἀσκήσας γέγονας, πεφυτευμένον ὡς ξύλον, ὕδατι τῆς ἐγκρατείας καλῶς αὐξήσας, ῥεύμασι τῶν σῶν δακρύων ῥύπον ἐκπλύνας· διὰ τοῦτο ἀνεδείχθης, δοχεῖον θεῖον, Ἀβράμιε Πνεύματος."
@@ -593,6 +595,7 @@ meMA.ExapTheotokion.incipit = "Θεοφανὴς Παράδεισος, ὤφθ�
 meMA.ExapTheotokion.text = "Θεοφανὴς Παράδεισος, ὤφθης ἔχουσα μέσον, ξύλον ζωῆς τὸν Κύριον, ἄχραντε Θεοτόκε, ἐξ οὗ φαγόντες οὐκ ἔτι, ἀποθνῄσκομεν ὅλως, ἀλλὰ ζωὴν ἀμείνονα, διὰ σοῦ ζῶμεν πάντες, τὸ τοῦ Σταυροῦ, ὅπλον περιφέροντες καὶ νικῶντες, τὸν ἀποστάτην τύραννον, σὲ ὑμνοῦντες Παρθένε."
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

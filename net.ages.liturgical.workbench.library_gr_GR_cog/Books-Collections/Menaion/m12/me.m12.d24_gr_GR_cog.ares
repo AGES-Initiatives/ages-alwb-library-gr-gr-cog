@@ -718,12 +718,14 @@ meMA.Ode6H.melody = he.h.m2_gr_GR_cog.heHE.EnAvyssoPtaismaton.melody
 meMA.Ode6H.incipit = he.h.m2_gr_GR_cog.heHE.EnAvyssoPtaismaton.incipit
 meMA.Ode6H.text = he.h.m2_gr_GR_cog.heHE.EnAvyssoPtaismaton.text
 
-meMA.Kontakion1.mode = miscellanea_gr_GR_cog.misc.Mode3
-meMA.Kontakion1.melody = miscellanea_gr_GR_cog.misc.Automelon
+meMA.Kontakion1.mode = me.m12.d20_gr_GR_cog.meMA.Kontakion1.mode
+meMA.Kontakion1.greekmelody = me.m12.d20_gr_GR_cog.meMA.Kontakion1.greekmelody
+meMA.Kontakion1.melody = me.m12.d20_gr_GR_cog.meMA.Kontakion1.melody
 meMA.Kontakion1.incipit = me.m12.d20_gr_GR_cog.meMA.Kontakion1.incipit
 meMA.Kontakion1.text = me.m12.d20_gr_GR_cog.meMA.Kontakion1.text
 
 meMA.Kontakion2.mode = miscellanea_gr_GR_cog.misc.Mode4
+meMA.Kontakion2.greekmelody = he.a.m4_gr_GR_cog.heAU.EpefanisSimeron.greekname
 meMA.Kontakion2.melody = he.a.m4_gr_GR_cog.heAU.EpefanisSimeron.name
 meMA.Kontakion2.incipit = "Τὴν τοῦ κόσμου πρόσκαιρον, φυγοῦσα…"
 meMA.Kontakion2.text = "Τὴν τοῦ κόσμου πρόσκαιρον, φυγοῦσα δόξαν, τὸν Χριστὸν ἐπόθησας, τὸ εὐγενές σου τῆς ψυχῆς, ἀδιαλώβητον σῴζουσα, Μάρτυς θεόφρον, Εὐγενία πανεύφημε."
@@ -1050,6 +1052,7 @@ meMA.AposGlory.incipit = me.m11.d30_gr_GR_cog.meMA.LaudsBoth.incipit
 meMA.AposGlory.text = me.m11.d30_gr_GR_cog.meMA.LaudsBoth.text
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

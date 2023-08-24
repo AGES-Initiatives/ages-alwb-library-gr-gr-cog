@@ -229,6 +229,7 @@ meMA.Ode3H.incipit = he.h.m8_gr_GR_cog.heHE.OukEstinAgios.incipit
 meMA.Ode3H.text = he.h.m8_gr_GR_cog.heHE.OukEstinAgios.text
 
 meMA.Kontakion1.mode = miscellanea_gr_GR_cog.misc.Mode3
+meMA.Kontakion1.greekmelody = he.a.m3_gr_GR_cog.heAU.IParthenosSimeron.greekname
 meMA.Kontakion1.melody = he.a.m3_gr_GR_cog.heAU.IParthenosSimeron.name
 meMA.Kontakion1.incipit = "Ὀρθοδόξοις δόγμασι, τὴν Ἐκκλησίαν φαιδρύνας…"
 meMA.Kontakion1.text = "Ὀρθοδόξοις δόγμασι, τὴν Ἐκκλησίαν φαιδρύνας, ὑπὲρ ταύτης ἤθλησας, Θεομακάριστε Πέτρε, Ἄρειον τὸν ἀποστάτην καταδιώξας· ὅθεν σου τὴν παναγίαν μνήμην τελοῦντες, ὀρθοδόξως ἐκβοῶμεν· Χαίροις ὦ Πέτρε, ἡ πέτρα τῆς πίστεως."
@@ -411,6 +412,7 @@ meMA.Ode6H.incipit = he.h.m8_gr_GR_cog.heHE.ChitonaMoiParaschou.incipit
 meMA.Ode6H.text = he.h.m8_gr_GR_cog.heHE.ChitonaMoiParaschou.text
 
 meMA.Kontakion2.mode = miscellanea_gr_GR_cog.misc.Mode4
+meMA.Kontakion2.greekmelody = he.a.m4_gr_GR_cog.heAU.EpefanisSimeron.greekname
 meMA.Kontakion2.melody = he.a.m4_gr_GR_cog.heAU.EpefanisSimeron.name
 meMA.Kontakion2.incipit = "Ἐκκλησίας ἄσειστοι, καὶ θεῖοι πύργοι…"
 meMA.Kontakion2.text = "Ἐκκλησίας ἄσειστοι, καὶ θεῖοι πύργοι, εὐσεβείας ἔνθεοι, στῦλοι ὡς ὄντες κραταιοί, Κλήμη σὺν Πέτρῳ πανεύφημοι, ὑμῶν πρεσβείαις, φρουρεῖτε τοὺς ἅπαντας."
@@ -660,6 +662,7 @@ meMA.AposGlory.incipit = "Πύλαι τῶν οὐρανῶν, εἰσδέξα
 meMA.AposGlory.text = "Πύλαι τῶν οὐρανῶν, εἰσδέξασθε Παρθένον, Μαρίαν ἀπειράνδρως, Ἁγνὴν τὴν Θεοτόκον, ἐξ ἧς βροτῶν ἡ λύτρωσις."
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

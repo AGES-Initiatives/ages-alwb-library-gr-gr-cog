@@ -441,11 +441,13 @@ meMA.Ode6H.incipit = he.h.m8_gr_GR_cog.heHE.TinDeisinEkcheo.incipit
 meMA.Ode6H.text = he.h.m8_gr_GR_cog.heHE.TinDeisinEkcheo.text
 
 meMA.Kontakion1.mode = miscellanea_gr_GR_cog.misc.Mode4
+meMA.Kontakion1.greekmelody = he.a.m4_gr_GR_cog.heAU.EpefanisSimeron.greekname
 meMA.Kontakion1.melody = he.a.m4_gr_GR_cog.heAU.EpefanisSimeron.name
 meMA.Kontakion1.incipit = "Ἐν τῇ θείᾳ σήμερον Μεταμορφώσει…"
 meMA.Kontakion1.text = "Ἐν τῇ θείᾳ σήμερον Μεταμορφώσει, ἡ βροτεία ἅπασα, φύσις προλάμπει θεϊκῶς, ἐν εὐφροσύνῃ κραυγάζουσα· Μεταμορφοῦται Χριστός, σῴζων ἅπαντας."
 
 meMA.Kontakion2.mode = miscellanea_gr_GR_cog.misc.Mode8
+meMA.Kontakion2.greekmelody = he.a.m8_gr_GR_cog.heAU.OsAparchas.greekname
 meMA.Kontakion2.melody = he.a.m8_gr_GR_cog.heAU.OsAparchas.name
 meMA.Kontakion2.incipit = "Ὡς εὐσεβείας Μάρτυρα, καὶ ἀληθῆ…"
 meMA.Kontakion2.text = "Ὡς εὐσεβείας Μάρτυρα, καὶ ἀληθῆ θεόφρονα, ἡ Ἐκκλησία γεραίρει δοξάζουσα, τοὺς θείους ἄθλους σήμερον, τοῦ σοφοῦ Εὐσιγνίου, ἀκαταπαύστως βοῶσα· Ταῖς αὐτοῦ ἱκεσίαις, τοὺς δούλους σου συντήρησον πολυέλεε."
@@ -735,6 +737,7 @@ meMA.AposGlory.incipit = "Νόμου καὶ Προφητῶν σε Χριστ�
 meMA.AposGlory.text = "Νόμου καὶ Προφητῶν σε Χριστέ, ποιητὴν καὶ πληρωτὴν ἐμαρτύρησαν, ὁρῶντες ἐν τῇ νεφέλῃ, Μωϋσῆς ὁ θεόπτης, καὶ Ἠλίας ὁ ἔμπυρος ἁρματηλάτης, καὶ ἄφλεκτος οὐρανοδρόμος, ἐπὶ τῆς Μεταμορφώσεώς σου. Μεθʼ ὧν καὶ ἡμᾶς, τοῦ σοῦ φωτισμοῦ ἀξίωσον Δέσποτα, ὑμνεῖν σε εἰς τοὺς αἰῶνας."
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

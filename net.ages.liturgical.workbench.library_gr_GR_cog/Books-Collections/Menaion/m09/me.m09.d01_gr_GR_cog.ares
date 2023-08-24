@@ -645,11 +645,13 @@ meMA.Ode6C3T.text = "Ναὸν σε τοῦ Θεοῦ καὶ κιβωτόν, �
 
 meMA.Kontakion1.poet = poets_gr_GR_cog.po.PatriarchouKyrillou
 meMA.Kontakion1.mode = miscellanea_gr_GR_cog.misc.Mode3
+meMA.Kontakion1.greekmelody = he.a.m3_gr_GR_cog.heAU.IParthenosSimeron.greekname
 meMA.Kontakion1.melody = he.a.m3_gr_GR_cog.heAU.IParthenosSimeron.name
 meMA.Kontakion1.incipit = "Ὁ ἀῤῥήτῳ σύμπαντα…"
 meMA.Kontakion1.text = "Ὁ ἀῤῥήτῳ σύμπαντα, δημιουργήσας σοφίᾳ, καὶ καιροὺς ὁ θέμενος, ἐν τῇ αὐτοῦ ἐξουσίᾳ, δώρησαι, τῷ φιλοχρίστῳ λαῷ σου νίκας· ἔτους δέ, τὰς τε εἰσόδους καὶ τὰς ἐξόδους, εὐλογήσαις κατευθύνων, ἡμῶν τὰ ἔργα πρὸς θεῖόν σου θέλημα."
 
 meMA.Kontakion2.mode = miscellanea_gr_GR_cog.misc.Mode2
+meMA.Kontakion2.greekmelody = he.a.m2_gr_GR_cog.heAU.TaAnoZiton.greekname
 meMA.Kontakion2.melody = he.a.m2_gr_GR_cog.heAU.TaAnoZiton.melody
 meMA.Kontakion2.incipit = he.a.m2_gr_GR_cog.heAU.TaAnoZiton.incipit
 meMA.Kontakion2.text = he.a.m2_gr_GR_cog.heAU.TaAnoZiton.text
@@ -658,6 +660,7 @@ meMA.Oikos2.text = "Τοῦ Συμεὼν τὸν ἄμεμπτον βίον, �
 
 meMA.Kontakion3.poet = poets_gr_GR_cog.po.IakovouProtopsaltou
 meMA.Kontakion3.mode = miscellanea_gr_GR_cog.misc.Mode4
+meMA.Kontakion3.greekmelody = he.a.m4_gr_GR_cog.heAU.OYpsotheisEnToStavro.greekname
 meMA.Kontakion3.melody = he.a.m4_gr_GR_cog.heAU.OYpsotheisEnToStavro.name
 meMA.Kontakion3.incipit = "Ὁ τῶν αἰώνων Ποιητὴς…"
 meMA.Kontakion3.text = "Ὁ τῶν αἰώνων Ποιητὴς καὶ Δεσπότης, Θεὲ τῶν ὅλων ὑπερούσιε ὄντως, τὴν ἐνιαύσιον εὐλόγησον περίοδον, σῴζων τῷ ἐλέει σου, τῷ ἀπείρῳ οἰκτίρμων, πάντας τοὺς λατρεύοντας, σοὶ τῷ μόνῳ Δεσπότῃ, καὶ ἐκβοῶντας φόβῳ· Λυτρωτά, εὔφορον πᾶσι τὸ ἔτος χορήγησον."
@@ -974,16 +977,19 @@ meMA.MM.Ve1123as5678.text = properties_gr_GR_cog.media.key
 meLI.MM.EntranceHymn.text = properties_gr_GR_cog.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text
 
 meLI.Kontakion2.mode = meMA.Kontakion2.mode
+meLI.Kontakion2.greekmelody= meMA.Kontakion2.greekmelody
 meLI.Kontakion2.melody = meMA.Kontakion2.melody
 meLI.Kontakion2.incipit = meMA.Kontakion2.incipit
 meLI.Kontakion2.text = meMA.Kontakion2.text
 
 meLI.Kontakion3.mode = meMA.Kontakion3.mode
+meLI.Kontakion3.greekmelody= meMA.Kontakion3.greekmelody
 meLI.Kontakion3.melody = meMA.Kontakion3.melody
 meLI.Kontakion3.incipit = meMA.Kontakion3.incipit
 meLI.Kontakion3.text = meMA.Kontakion3.text

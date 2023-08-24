@@ -336,8 +336,9 @@ meMA.Ode3C2T.melody = he.h.m1_gr_GR_cog.heHE.LithonOnApedokimasan.name
 meMA.Ode3C2T.incipit = "Δεῦρο Ἠσαΐα βόησον· Ἰδοὺ ἡ…"
 meMA.Ode3C2T.text = "Δεῦρο Ἠσαΐα βόησον· Ἰδοὺ ἡ Παρθένος, ἔχει ἐν κοιλίᾳ, τὸν Λυτρωτὴν τοῦ Κόσμου, καὶ τίκτει ἐν Σπηλαίῳ, καὶ ἔσται τὸ ὄνομα, τοῦ τικτομένου Ἰησοῦ, Θεὸς μεθ ἡμῶν, Ἐμμανουὴλ Σαβαώθ."
 
-meMA.Kontakion1.mode = miscellanea_gr_GR_cog.misc.Mode3
-meMA.Kontakion1.melody = miscellanea_gr_GR_cog.misc.Automelon
+meMA.Kontakion1.mode = he.a.m3_gr_GR_cog.heAU.IParthenosSimeron.mode
+meMA.Kontakion1.greekmelody = he.a.m3_gr_GR_cog.heAU.IParthenosSimeron.greekname
+meMA.Kontakion1.melody = he.a.m3_gr_GR_cog.heAU.IParthenosSimeron.melody
 meMA.Kontakion1.incipit = "Ἡ Παρθένος σήμερον…"
 meMA.Kontakion1.text = "Ἡ Παρθένος σήμερον, τὸν προαιώνιον Λόγον, ἐν Σπηλαίῳ ἔρχεται, ἀποτεκεῖν ἀποῤῥήτως. Χόρευε ἡ οἰκουμένη ἀκουτισθεῖσα, δόξασον μετὰ Ἀγγέλων καὶ τῶν Ποιμένων, βουληθέντα ἐποφθῆναι, Παιδίον νέον, τὸν πρὸ αἰώνων Θεόν."
 
@@ -569,6 +570,7 @@ meMA.Ode6C2T.incipit = "Εὐτρεπίζου Βηθλεέμ, ἑτοιμάζ
 meMA.Ode6C2T.text = "Εὐτρεπίζου Βηθλεέμ, ἑτοιμάζου Ἐφραθᾶ, ὁ Ἀμήτωρ ἐκ Πατρός, καὶ Ἀπάτωρ ἐκ Μητρός, βαστάζεται, κυοφορεῖται, τίκτεται σῴζων ἡμᾶς."
 
 meMA.Kontakion2.mode = miscellanea_gr_GR_cog.misc.Mode3
+meMA.Kontakion2.greekmelody = he.a.m3_gr_GR_cog.heAU.IParthenosSimeron.greekname
 meMA.Kontakion2.melody = he.a.m3_gr_GR_cog.heAU.IParthenosSimeron.name
 meMA.Kontakion2.incipit = "Τῶν λαμπρῶν ἀγώνων σου, ἡ…"
 meMA.Kontakion2.text = "Τῶν λαμπρῶν ἀγώνων σου, ἡ φωτοφόρος ἡμέρα, προκηρύττει ἅπασι, τὸν ἐκ Παρθένου τεχθέντα· τούτου γὰρ διψῶν ἐκ πόθου κατατρυφῆσαι, ἔσπευσας ὑπὸ θηρίων ἀναλωθῆναι· διὰ τοῦτο Θεοφόρος, προσηγορεύθης Ἰγνάτιε ἔνδοξε."
@@ -872,6 +874,7 @@ meMA.AposBoth.incipit = me.m12.d06_gr_GR_cog.meVE.SticBoth.incipit
 meMA.AposBoth.text = me.m12.d06_gr_GR_cog.meVE.SticBoth.text
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

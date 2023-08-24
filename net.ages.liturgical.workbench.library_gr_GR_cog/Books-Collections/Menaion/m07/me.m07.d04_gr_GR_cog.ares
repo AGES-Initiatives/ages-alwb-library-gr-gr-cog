@@ -227,6 +227,7 @@ meMA.Ode6H.incipit = he.h.m5_gr_GR_cog.heHE.MainomeninKlydoni.incipit
 meMA.Ode6H.text = he.h.m5_gr_GR_cog.heHE.MainomeninKlydoni.text
 
 meMA.Kontakion1.mode = miscellanea_gr_GR_cog.misc.Mode2
+meMA.Kontakion1.greekmelody = he.a.m2_gr_GR_cog.heAU.TaAnoZiton.greekname
 meMA.Kontakion1.melody = he.a.m2_gr_GR_cog.heAU.TaAnoZiton.name
 meMA.Kontakion1.incipit = "Σαλπίσας τρανῶς, τὰ θεῖα μελῳδήματα…"
 meMA.Kontakion1.text = "Σαλπίσας τρανῶς, τὰ θεῖα μελῳδήματα, ἐδείχθης φωστήρ, τῷ κόσμῳ τηλαυγέστατος, τῷ φωτὶ λαμπόμενος, τῆς Τριάδος Ἀνδρέα Ὅσιε· ὅθεν πάντες βοῶμέν σοι· Μὴ παύσῃ πρεσβεύων, τοῦ σωθῆναι ἡμᾶς."
@@ -321,6 +322,7 @@ meMA.Ode9H.incipit = he.h.m5_gr_GR_cog.heHE.IsaiaChoreve.incipit
 meMA.Ode9H.text = he.h.m5_gr_GR_cog.heHE.IsaiaChoreve.text
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

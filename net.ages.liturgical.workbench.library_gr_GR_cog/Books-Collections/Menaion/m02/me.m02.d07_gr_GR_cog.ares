@@ -20,7 +20,7 @@ meHO.note1 = ""
 meHO.note2 = ""
 meDA.dismissal = dismissals_gr_GR_cog.dis00.meeting
 
-url = "https://akolouthiesorthodox.blogspot.com/2019/09/7_13.html"
+meDA.source = "https://akolouthiesorthodox.blogspot.com/2019/09/7_13.html"
 
 meVE.Stichera01.mode = miscellanea_gr_GR_cog.misc.Mode1
 meVE.Stichera01.greekmelody = he.a.m1_gr_GR_cog.heAU.TonOuranionTagmaton.greekname
@@ -761,6 +761,8 @@ meMA.Ode3KathismaSt.melody = he.a.m8_gr_GR_cog.heAU.TinSofianKaiLogon.name
 meMA.Ode3KathismaSt.incipit = me.m01.d24_gr_GR_cog.meMA.Ode3KathismaSt.incipit
 meMA.Ode3KathismaSt.text = me.m01.d24_gr_GR_cog.meMA.Ode3KathismaSt.text
 
+alt1.meDA.insert1 = "καὶ τοῦ ὁσίου πατρὸς ἡμῶν Παρθενίου, ἐπισκόπου Λαμψάκων," //for use in petitions and dismissal
+alt1.meDA.insert2 = "οὗ καὶ τὴν μνήμην ἐπιτελοῦμεν·" //for use in petitions and dismissal
 alt1.meDA.poet = "Γερασίμου μοναχοῦ Μικραγιαννανίτου"
 alt1.meDA.source = "https://akolouthiesorthodox.blogspot.com/2019/09/7_13.html"
 
@@ -975,6 +977,486 @@ alt1.meMA.PostGospelIdiomelon.melody = ""
 alt1.meMA.PostGospelIdiomelon.incipit = "Ἀγγελικὴν ἐπαγόμενος ζωήν…"
 alt1.meMA.PostGospelIdiomelon.text = "Ἀγγελικὴν ἐπαγόμενος ζωήν, ποιμαντικῶς τῷ κόσμῳ διέπρεψας, ὡς τοῦ Χριστοῦ θεράπων, Ἱεράρχα Παρθένιε. Καὶ καλῶς διαγαγών, τὴν σοὶ δοθεῖσαν ἐξουσίαν, τῆς ἄνω Βασιλείας τὸ δηνάριον εἴληφας, καὶ τῷ ξύλῳ τῆς ζωῆς ἀποκατέστης. Αὐτῆς καὶ ἡμᾶς ἀξίωσον, ταῖς πρὸς Θεὸν πρεσβείαις σου."
 
+alt1.meMA.C1.acrostic.title = "Κανὼν πρῶτος τοῦ Ἁγίου,"
+alt1.meMA.C1.acrostic.notice1 = "οὗ ἡ ἀκροστιχίς·"
+alt1.meMA.C1.acrostic.text = "Παρθενίῳ μέλισμα τῷ θεοφόρῳ. Γερασίμου."
+alt1.meMA.C1.poet = poets_gr_GR_cog.po.GerasimouMonachouMikragiannanitou
+alt1.meMA.C1.title = titles_gr_GR_cog.ti.Canon1SaintM
+alt1.meMA.C1.verse = prayers_gr_GR_cog.pr.verse_SaintM.text
+
+alt1.meMA.C2.acrostic.title = "Κανὼν δεύτερος,"
+alt1.meMA.C2.acrostic.notice1 = "οὗ ἡ ἀκροστιχίς·"
+alt1.meMA.C2.acrostic.text = "Τῷ τῆς Λαμψάκου ποιμένι αἶνος. Γερασίμου."
+alt1.meMA.C2.poet = poets_gr_GR_cog.po.GerasimouMonachouMikragiannanitou
+alt1.meMA.C2.title = titles_gr_GR_cog.ti.Canon2SaintM
+alt1.meMA.C2.verse = prayers_gr_GR_cog.pr.verse_SaintM.text
+
+alt1.meMA.Ode1C11.ode = miscellanea_gr_GR_cog.misc.Ode1
+alt1.meMA.Ode1C11.mode = miscellanea_gr_GR_cog.misc.Mode3
+alt1.meMA.Ode1C11.greekmelody = he.h.m3_gr_GR_cog.heHE.ChersonAvyssotokon.greekname
+alt1.meMA.Ode1C11.melody = he.h.m3_gr_GR_cog.heHE.ChersonAvyssotokon.name
+alt1.meMA.Ode1C11.incipit = "Πάσης ἀποκαθάρας τὸν νοῦν…"
+alt1.meMA.Ode1C11.text = "Πάσης ἀποκαθάρας τὸν νοῦν σχέσεως, τῶν γηΐνων καὶ φθαρτῶν, φωταυγὲς δοχεῖον ὤφθης, τρισηλίου ἀκτῖνος, δι' ἧς κἀμοῦ τὸν ζόφον λῦσον, ὑμνῆσαί σε Παρθένιε· σὺ γὰρ τῷ πάντων Κτίστῃ, ἀμέμπτως ἱεράτευσας."
+
+alt1.meMA.Ode1C12.ode = miscellanea_gr_GR_cog.misc.Ode1
+alt1.meMA.Ode1C12.mode = miscellanea_gr_GR_cog.misc.Mode3
+alt1.meMA.Ode1C12.melody = he.h.m3_gr_GR_cog.heHE.ChersonAvyssotokon.name
+alt1.meMA.Ode1C12.incipit = "…"
+alt1.meMA.Ode1C12.text = "Ἄνωθεν δεδεγμένος χάριν ἔνθεον, ὡς θεράπων τοῦ Θεοῦ, ποταμὸς θαυμάτων ὤφθης, καταρδεύων ἀΰλως, πιστῶν τὰς διανοίας Πάτερ, τοῖς ῥείθροις τῶν χαρίτων σου· ὅθεν σε ἀνυμνοῦμεν, Παρθένιε μακάριε."
+
+alt1.meMA.Ode1C13.ode = miscellanea_gr_GR_cog.misc.Ode1
+alt1.meMA.Ode1C13.mode = miscellanea_gr_GR_cog.misc.Mode3
+alt1.meMA.Ode1C13.melody = he.h.m3_gr_GR_cog.heHE.ChersonAvyssotokon.name
+alt1.meMA.Ode1C13.incipit = "…"
+alt1.meMA.Ode1C13.text = "Ῥήσεσι τῶν χειλέων σου Παρθένιε, τῶν δαιμόνων ὁ ἐσμός, ὡς ξηρὰ καλάμη Πάτερ, κατεκαύθη εἰς τέλος ἰσχὺν γὰρ κατ' αὐτῶν καὶ κράτος, παρὰ Κυρίου εἴληφας· ὅθεν τῆς τούτων λύμης, πλείστους ἀνθρώπους ἔσωσας."
+
+alt1.meMA.Ode1C1T.ode = miscellanea_gr_GR_cog.misc.Ode1
+alt1.meMA.Ode1C1T.mode = miscellanea_gr_GR_cog.misc.Mode3
+alt1.meMA.Ode1C1T.melody = he.h.m3_gr_GR_cog.heHE.ChersonAvyssotokon.name
+alt1.meMA.Ode1C1T.incipit = "…"
+alt1.meMA.Ode1C1T.text = "Θρόνος Θεοῦ Ἁγνὴ του Παντοκράτορος, καὶ καθέδρα παμφαής, ἀνεδείχθης Θεοτόκε, ἐν ἀγκάλαις κρατοῦσα, ὡς φρέφος τὸν ἐκ μὴ ὄντων πάντα, τῷ λόγῳ ὑποστήσαντα· ὅθεν ἐκ τῶν χειρῶν με, τοῦ δυσμενοῦς ἀπάλλαξον."
+
+alt1.meMA.Ode1C21.ode = miscellanea_gr_GR_cog.misc.Ode1
+alt1.meMA.Ode1C21.mode = miscellanea_gr_GR_cog.misc.Mode4
+alt1.meMA.Ode1C21.greekmelody = he.h.m4_gr_GR_cog.heHE.AnoixoToStomaMou.greekname
+alt1.meMA.Ode1C21.melody = he.h.m4_gr_GR_cog.heHE.AnoixoToStomaMou.name
+alt1.meMA.Ode1C21.incipit = "Τὴν χάριν τοῦ Πνεύματος…"
+alt1.meMA.Ode1C21.text = "Τὴν χάριν τοῦ Πνεύματος, κἀμοὶ δοθῆναι ἱκέτευε, πλουσίως ἣν εἴληφας, Πάτερ Παρθένιε, ἵνα μέλψω σου, τὰς ἀρετὰς τοῦ βίου, καὶ θαυμάτων Ὅσιε, τὰ ἐνεργήματα."
+
+alt1.meMA.Ode1C22.ode = miscellanea_gr_GR_cog.misc.Ode1
+alt1.meMA.Ode1C22.mode = miscellanea_gr_GR_cog.misc.Mode4
+alt1.meMA.Ode1C22.melody = he.h.m4_gr_GR_cog.heHE.AnoixoToStomaMou.name
+alt1.meMA.Ode1C22.incipit = "…"
+alt1.meMA.Ode1C22.text = "Ὠράθης θεόληπτος, ἀπὸ νεότητος Ὅσιε· διὸ ἡ τοῦ Πνεύματος, ἐπανεπαύσατο, χάρις ἄνωθεν, τῇ καθαρᾷ ψυχῇ σου, καὶ θείων δυνάμεων, Πάτερ σε ἔπλασε."
+
+alt1.meMA.Ode1C23.ode = miscellanea_gr_GR_cog.misc.Ode1
+alt1.meMA.Ode1C23.mode = miscellanea_gr_GR_cog.misc.Mode4
+alt1.meMA.Ode1C23.melody = he.h.m4_gr_GR_cog.heHE.AnoixoToStomaMou.name
+alt1.meMA.Ode1C23.incipit = "…"
+alt1.meMA.Ode1C23.text = "Τὴν θείαν ἐνέργειαν, θαυμάτων Πάτερ δεξάμενος, ὡς σκεῦος ἐπάξιον, τῆς θείας χάριτος, νόσους ἤλασας, καὶ δαίμονας διώκεις, παμμάκαρ Παρθένιε, θείαις ἐντεύξεσι."
+
+alt1.meMA.Ode1C2T.ode = miscellanea_gr_GR_cog.misc.Ode1
+alt1.meMA.Ode1C2T.mode = miscellanea_gr_GR_cog.misc.Mode4
+alt1.meMA.Ode1C2T.melody = he.h.m4_gr_GR_cog.heHE.AnoixoToStomaMou.name
+alt1.meMA.Ode1C2T.incipit = "…"
+alt1.meMA.Ode1C2T.text = "Ἡ πύλη ἡ πάμφωτος, καὶ κεκλεισμένη ἐν Πνεύματι, ἣν μόνος διώδευσε, Χριστὸς ὁ Κύριος, καὶ κατέλιπεν, ὡς πρὶν ἐσφραγισμένην, Παρθένος ἡ Πάναγνος, ὑμνολογείσθω μοι."
+
+alt1.meMA.Ode3C11.ode = miscellanea_gr_GR_cog.misc.Ode3
+alt1.meMA.Ode3C11.mode = miscellanea_gr_GR_cog.misc.Mode3
+alt1.meMA.Ode3C11.greekmelody = he.h.m3_gr_GR_cog.heHE.OEkMiOnton.greekname
+alt1.meMA.Ode3C11.melody = he.h.m3_gr_GR_cog.heHE.OEkMiOnton.name
+alt1.meMA.Ode3C11.incipit = "Ἐν Ἱεράρχαις ἐδείχθης…"
+alt1.meMA.Ode3C11.text = "Ἐν Ἱεράρχαις ἐδείχθης περιφανής, καὶ ποιμὴν θεόληπτος, τῆς Λαμψάκου Παρθένιε, καὶ θαυμάτων πέλαγος, τοῦ Παρακλήτου τῇ θείᾳ δυναστείᾳ."
+
+alt1.meMA.Ode3C12.ode = miscellanea_gr_GR_cog.misc.Ode3
+alt1.meMA.Ode3C12.mode = miscellanea_gr_GR_cog.misc.Mode3
+alt1.meMA.Ode3C12.melody = he.h.m3_gr_GR_cog.heHE.OEkMiOnton.name
+alt1.meMA.Ode3C12.incipit = "…"
+alt1.meMA.Ode3C12.text = "Νόσων λυτροῦσα τῷ λόγῳ ὀδυνηρῶν, καὶ πάθος ἰάτρευσας, τοῦ καρκίνου τὸ κάκιστον· μέγας γὰρ ἐν θαύμασιν, ἀνεδείχθης τῷ κόσμῳ Ἱεράρχα."
+
+alt1.meMA.Ode3C13.ode = miscellanea_gr_GR_cog.misc.Ode3
+alt1.meMA.Ode3C13.mode = miscellanea_gr_GR_cog.misc.Mode3
+alt1.meMA.Ode3C13.melody = he.h.m3_gr_GR_cog.heHE.OEkMiOnton.name
+alt1.meMA.Ode3C13.incipit = "…"
+alt1.meMA.Ode3C13.text = "Ἱερατεύων ἀμέμπτως τῷ Ποιητῇ, πιστῶν καταφύγιον, καὶ πασχόντων παράκλησις, Ὅσιε Παρθένιε, ὡς ἀληθὴς ποιμενάρχης ἀνεδείχθης."
+
+alt1.meMA.Ode3C1T.ode = miscellanea_gr_GR_cog.misc.Ode3
+alt1.meMA.Ode3C1T.mode = miscellanea_gr_GR_cog.misc.Mode3
+alt1.meMA.Ode3C1T.melody = he.h.m3_gr_GR_cog.heHE.OEkMiOnton.name
+alt1.meMA.Ode3C1T.incipit = "…"
+alt1.meMA.Ode3C1T.text = "Ὡς πλατυτέρα Παρθένε τῶν οὐρανῶν, Θεὸν τὸν ἀχώρητον, ἐν κοιλίᾳ ἐχώρησας· ὅθεν κἀμὲ λύτρωσαι, στενοχωρίας παθῶν τῶν συνθλιβόντων."
+
+alt1.meMA.Ode3C21.ode = miscellanea_gr_GR_cog.misc.Ode3
+alt1.meMA.Ode3C21.mode = miscellanea_gr_GR_cog.misc.Mode4
+alt1.meMA.Ode3C21.greekmelody = he.h.m4_gr_GR_cog.heHE.TousSousYmnologous.greekname
+alt1.meMA.Ode3C21.melody = he.h.m4_gr_GR_cog.heHE.TousSousYmnologous.name
+alt1.meMA.Ode3C21.incipit = "Σαφῶς ἐγνωκὼς τὴν βιοτήν…"
+alt1.meMA.Ode3C21.text = "Σαφῶς ἐγνωκὼς τὴν βιοτήν σου, ὁ θεῖος Παμμάκαρ Φιλητός, πρεσβύτερόν σε ἔχρισε, τῇ χάριτι τοῦ Πνεύματος, Παρθένιε καὶ πέφηνας, ἐν ἱερεῦσιν ἐπάξιος."
+
+alt1.meMA.Ode3C22.ode = miscellanea_gr_GR_cog.misc.Ode3
+alt1.meMA.Ode3C22.mode = miscellanea_gr_GR_cog.misc.Mode4
+alt1.meMA.Ode3C22.melody = he.h.m4_gr_GR_cog.heHE.TousSousYmnologous.name
+alt1.meMA.Ode3C22.incipit = "…"
+alt1.meMA.Ode3C22.text = "Λαμπόμενος θείᾳ φωταυγείᾳ, ἰάσω σοφὲ τὸν ὀφθαλμόν, ὃν ταῦρος ἐξωρύξατο, καὶ ὑγιῆ κατέστησας, τὸν ἄνθρωπον κηρύττοντα, πᾶσι τὴν χάριν σου Ἅγιε."
+
+alt1.meMA.Ode3C23.ode = miscellanea_gr_GR_cog.misc.Ode3
+alt1.meMA.Ode3C23.mode = miscellanea_gr_GR_cog.misc.Mode4
+alt1.meMA.Ode3C23.melody = he.h.m4_gr_GR_cog.heHE.TousSousYmnologous.name
+alt1.meMA.Ode3C23.incipit = "…"
+alt1.meMA.Ode3C23.text = "Ἁγίων τὸν ζῆλον Ἀποστόλων, μιμούμενος Πάτερ ἀληθῶς, Εὐαγγελίου γέγονας, ἐργάτης πρακτικώτατος, καὶ ἅπασι Παρθένιε, τύπος ζωῆς καὶ ὑπόδειγμα."
+
+alt1.meMA.Ode3C2T.ode = miscellanea_gr_GR_cog.misc.Ode3
+alt1.meMA.Ode3C2T.mode = miscellanea_gr_GR_cog.misc.Mode4
+alt1.meMA.Ode3C2T.melody = he.h.m4_gr_GR_cog.heHE.TousSousYmnologous.name
+alt1.meMA.Ode3C2T.incipit = "…"
+alt1.meMA.Ode3C2T.text = "Μαρίαν τὴν μόνην Θεοτόκον, ὑμνήσωμεν ἅπαντες πιστῶς· ὅτι ἡμᾶς ἐῤῥύσατο, τῆς πάλαι κατακρίσεως, ὡς τὸν Χριστὸν κυήσασα, τὸν τὴν ἀρὰν ἀφανίσαντα."
+
+alt1.meMA.Ode4C11.ode = miscellanea_gr_GR_cog.misc.Ode4
+alt1.meMA.Ode4C11.mode = miscellanea_gr_GR_cog.misc.Mode3
+alt1.meMA.Ode4C11.greekmelody = he.h.m3_gr_GR_cog.heHE.EkalypsenOuranous.greekname
+alt1.meMA.Ode4C11.melody = he.h.m3_gr_GR_cog.heHE.EkalypsenOuranous.name
+alt1.meMA.Ode4C11.incipit = "…"
+alt1.meMA.Ode4C11.text = ""
+
+alt1.meMA.Ode4C12.ode = miscellanea_gr_GR_cog.misc.Ode4
+alt1.meMA.Ode4C12.mode = miscellanea_gr_GR_cog.misc.Mode3
+alt1.meMA.Ode4C12.melody = he.h.m3_gr_GR_cog.heHE.EkalypsenOuranous.name
+alt1.meMA.Ode4C12.incipit = "…"
+alt1.meMA.Ode4C12.text = ""
+
+alt1.meMA.Ode4C13.ode = miscellanea_gr_GR_cog.misc.Ode4
+alt1.meMA.Ode4C13.mode = miscellanea_gr_GR_cog.misc.Mode3
+alt1.meMA.Ode4C13.melody = he.h.m3_gr_GR_cog.heHE.EkalypsenOuranous.name
+alt1.meMA.Ode4C13.incipit = "…"
+alt1.meMA.Ode4C13.text = ""
+
+alt1.meMA.Ode4C1T.ode = miscellanea_gr_GR_cog.misc.Ode4
+alt1.meMA.Ode4C1T.mode = miscellanea_gr_GR_cog.misc.Mode3
+alt1.meMA.Ode4C1T.melody = he.h.m3_gr_GR_cog.heHE.EkalypsenOuranous.name
+alt1.meMA.Ode4C1T.incipit = "…"
+alt1.meMA.Ode4C1T.text = ""
+
+alt1.meMA.Ode4C21.ode = miscellanea_gr_GR_cog.misc.Ode4
+alt1.meMA.Ode4C21.mode = miscellanea_gr_GR_cog.misc.Mode4
+alt1.meMA.Ode4C21.greekmelody = he.h.m4_gr_GR_cog.heHE.TinAnexichniaston.greekname
+alt1.meMA.Ode4C21.melody = he.h.m4_gr_GR_cog.heHE.TinAnexichniaston.name
+alt1.meMA.Ode4C21.incipit = "…"
+alt1.meMA.Ode4C21.text = ""
+
+alt1.meMA.Ode4C22.ode = miscellanea_gr_GR_cog.misc.Ode4
+alt1.meMA.Ode4C22.mode = miscellanea_gr_GR_cog.misc.Mode4
+alt1.meMA.Ode4C22.melody = he.h.m4_gr_GR_cog.heHE.TinAnexichniaston.name
+alt1.meMA.Ode4C22.incipit = "…"
+alt1.meMA.Ode4C22.text = ""
+
+alt1.meMA.Ode4C23.ode = miscellanea_gr_GR_cog.misc.Ode4
+alt1.meMA.Ode4C23.mode = miscellanea_gr_GR_cog.misc.Mode4
+alt1.meMA.Ode4C23.melody = he.h.m4_gr_GR_cog.heHE.TinAnexichniaston.name
+alt1.meMA.Ode4C23.incipit = "…"
+alt1.meMA.Ode4C23.text = ""
+
+alt1.meMA.Ode4C2T.ode = miscellanea_gr_GR_cog.misc.Ode4
+alt1.meMA.Ode4C2T.mode = miscellanea_gr_GR_cog.misc.Mode4
+alt1.meMA.Ode4C2T.melody = he.h.m4_gr_GR_cog.heHE.TinAnexichniaston.name
+alt1.meMA.Ode4C2T.incipit = "…"
+alt1.meMA.Ode4C2T.text = ""
+
+alt1.meMA.Ode5C11.ode = miscellanea_gr_GR_cog.misc.Ode5
+alt1.meMA.Ode5C11.mode = miscellanea_gr_GR_cog.misc.Mode3
+alt1.meMA.Ode5C11.greekmelody = he.h.m3_gr_GR_cog.heHE.OsEidenIsaias.greekname
+alt1.meMA.Ode5C11.melody = he.h.m3_gr_GR_cog.heHE.OsEidenIsaias.name
+alt1.meMA.Ode5C11.incipit = "…"
+alt1.meMA.Ode5C11.text = ""
+
+alt1.meMA.Ode5C12.ode = miscellanea_gr_GR_cog.misc.Ode5
+alt1.meMA.Ode5C12.mode = miscellanea_gr_GR_cog.misc.Mode3
+alt1.meMA.Ode5C12.melody = he.h.m3_gr_GR_cog.heHE.OsEidenIsaias.name
+alt1.meMA.Ode5C12.incipit = "…"
+alt1.meMA.Ode5C12.text = ""
+
+alt1.meMA.Ode5C13.ode = miscellanea_gr_GR_cog.misc.Ode5
+alt1.meMA.Ode5C13.mode = miscellanea_gr_GR_cog.misc.Mode3
+alt1.meMA.Ode5C13.melody = he.h.m3_gr_GR_cog.heHE.OsEidenIsaias.name
+alt1.meMA.Ode5C13.incipit = "…"
+alt1.meMA.Ode5C13.text = ""
+
+alt1.meMA.Ode5C1T.ode = miscellanea_gr_GR_cog.misc.Ode5
+alt1.meMA.Ode5C1T.mode = miscellanea_gr_GR_cog.misc.Mode3
+alt1.meMA.Ode5C1T.melody = he.h.m3_gr_GR_cog.heHE.OsEidenIsaias.name
+alt1.meMA.Ode5C1T.incipit = "…"
+alt1.meMA.Ode5C1T.text = ""
+
+alt1.meMA.Ode5C21.ode = miscellanea_gr_GR_cog.misc.Ode5
+alt1.meMA.Ode5C21.mode = miscellanea_gr_GR_cog.misc.Mode4
+alt1.meMA.Ode5C21.greekmelody = he.h.m4_gr_GR_cog.heHE.ExestiTaSympanta.greekname
+alt1.meMA.Ode5C21.melody = he.h.m4_gr_GR_cog.heHE.ExestiTaSympanta.name
+alt1.meMA.Ode5C21.incipit = "…"
+alt1.meMA.Ode5C21.text = ""
+
+alt1.meMA.Ode5C22.ode = miscellanea_gr_GR_cog.misc.Ode5
+alt1.meMA.Ode5C22.mode = miscellanea_gr_GR_cog.misc.Mode4
+alt1.meMA.Ode5C22.melody = he.h.m4_gr_GR_cog.heHE.ExestiTaSympanta.name
+alt1.meMA.Ode5C22.incipit = "…"
+alt1.meMA.Ode5C22.text = ""
+
+alt1.meMA.Ode5C23.ode = miscellanea_gr_GR_cog.misc.Ode5
+alt1.meMA.Ode5C23.mode = miscellanea_gr_GR_cog.misc.Mode4
+alt1.meMA.Ode5C23.melody = he.h.m4_gr_GR_cog.heHE.ExestiTaSympanta.name
+alt1.meMA.Ode5C23.incipit = "…"
+alt1.meMA.Ode5C23.text = ""
+
+alt1.meMA.Ode5C2T.ode = miscellanea_gr_GR_cog.misc.Ode5
+alt1.meMA.Ode5C2T.mode = miscellanea_gr_GR_cog.misc.Mode4
+alt1.meMA.Ode5C2T.melody = he.h.m4_gr_GR_cog.heHE.ExestiTaSympanta.name
+alt1.meMA.Ode5C2T.incipit = "…"
+alt1.meMA.Ode5C2T.text = ""
+
+alt1.meMA.Ode6C11.ode = miscellanea_gr_GR_cog.misc.Ode6
+alt1.meMA.Ode6C11.mode = miscellanea_gr_GR_cog.misc.Mode3
+alt1.meMA.Ode6C11.greekmelody = he.h.m3_gr_GR_cog.heHE.EvoiseSoi.greekname
+alt1.meMA.Ode6C11.melody = he.h.m3_gr_GR_cog.heHE.EvoiseSoi.name
+alt1.meMA.Ode6C11.incipit = "…"
+alt1.meMA.Ode6C11.text = ""
+
+alt1.meMA.Ode6C12.ode = miscellanea_gr_GR_cog.misc.Ode6
+alt1.meMA.Ode6C12.mode = miscellanea_gr_GR_cog.misc.Mode3
+alt1.meMA.Ode6C12.melody = he.h.m3_gr_GR_cog.heHE.EvoiseSoi.name
+alt1.meMA.Ode6C12.incipit = "…"
+alt1.meMA.Ode6C12.text = ""
+
+alt1.meMA.Ode6C13.ode = miscellanea_gr_GR_cog.misc.Ode6
+alt1.meMA.Ode6C13.mode = miscellanea_gr_GR_cog.misc.Mode3
+alt1.meMA.Ode6C13.melody = he.h.m3_gr_GR_cog.heHE.EvoiseSoi.name
+alt1.meMA.Ode6C13.incipit = "…"
+alt1.meMA.Ode6C13.text = ""
+
+alt1.meMA.Ode6C14.ode = miscellanea_gr_GR_cog.misc.Ode6
+alt1.meMA.Ode6C14.mode = miscellanea_gr_GR_cog.misc.Mode3
+alt1.meMA.Ode6C14.melody = he.h.m3_gr_GR_cog.heHE.EvoiseSoi.name
+alt1.meMA.Ode6C14.incipit = "…"
+alt1.meMA.Ode6C14.text = ""
+
+alt1.meMA.Ode6C1T.ode = miscellanea_gr_GR_cog.misc.Ode6
+alt1.meMA.Ode6C1T.mode = miscellanea_gr_GR_cog.misc.Mode3
+alt1.meMA.Ode6C1T.melody = he.h.m3_gr_GR_cog.heHE.EvoiseSoi.name
+alt1.meMA.Ode6C1T.incipit = "…"
+alt1.meMA.Ode6C1T.text = ""
+
+alt1.meMA.Ode6C21.ode = miscellanea_gr_GR_cog.misc.Ode6
+alt1.meMA.Ode6C21.mode = miscellanea_gr_GR_cog.misc.Mode4
+alt1.meMA.Ode6C21.greekmelody = he.h.m4_gr_GR_cog.heHE.TinTheianTaftin.greekname
+alt1.meMA.Ode6C21.melody = he.h.m4_gr_GR_cog.heHE.TinTheianTaftin.name
+alt1.meMA.Ode6C21.incipit = "…"
+alt1.meMA.Ode6C21.text = ""
+
+alt1.meMA.Ode6C22.ode = miscellanea_gr_GR_cog.misc.Ode6
+alt1.meMA.Ode6C22.mode = miscellanea_gr_GR_cog.misc.Mode4
+alt1.meMA.Ode6C22.melody = he.h.m4_gr_GR_cog.heHE.TinTheianTaftin.name
+alt1.meMA.Ode6C22.incipit = "…"
+alt1.meMA.Ode6C22.text = ""
+
+alt1.meMA.Ode6C23.ode = miscellanea_gr_GR_cog.misc.Ode6
+alt1.meMA.Ode6C23.mode = miscellanea_gr_GR_cog.misc.Mode4
+alt1.meMA.Ode6C23.melody = he.h.m4_gr_GR_cog.heHE.TinTheianTaftin.name
+alt1.meMA.Ode6C23.incipit = "…"
+alt1.meMA.Ode6C23.text = ""
+
+alt1.meMA.Ode6C2T.ode = miscellanea_gr_GR_cog.misc.Ode6
+alt1.meMA.Ode6C2T.mode = miscellanea_gr_GR_cog.misc.Mode4
+alt1.meMA.Ode6C2T.melody = he.h.m4_gr_GR_cog.heHE.TinTheianTaftin.name
+alt1.meMA.Ode6C2T.incipit = "…"
+alt1.meMA.Ode6C2T.text = ""
+
+alt1.meMA.Ode7C11.ode = miscellanea_gr_GR_cog.misc.Ode7
+alt1.meMA.Ode7C11.mode = miscellanea_gr_GR_cog.misc.Mode3
+alt1.meMA.Ode7C11.greekmelody = he.h.m3_gr_GR_cog.heHE.SeTonEnPyri.greekname
+alt1.meMA.Ode7C11.melody = he.h.m3_gr_GR_cog.heHE.SeTonEnPyri.name
+alt1.meMA.Ode7C11.incipit = "…"
+alt1.meMA.Ode7C11.text = ""
+
+alt1.meMA.Ode7C12.ode = miscellanea_gr_GR_cog.misc.Ode7
+alt1.meMA.Ode7C12.mode = miscellanea_gr_GR_cog.misc.Mode3
+alt1.meMA.Ode7C12.melody = he.h.m3_gr_GR_cog.heHE.SeTonEnPyri.name
+alt1.meMA.Ode7C12.incipit = "…"
+alt1.meMA.Ode7C12.text = ""
+
+alt1.meMA.Ode7C13.ode = miscellanea_gr_GR_cog.misc.Ode7
+alt1.meMA.Ode7C13.mode = miscellanea_gr_GR_cog.misc.Mode3
+alt1.meMA.Ode7C13.melody = he.h.m3_gr_GR_cog.heHE.SeTonEnPyri.name
+alt1.meMA.Ode7C13.incipit = "…"
+alt1.meMA.Ode7C13.text = ""
+
+alt1.meMA.Ode7C1T.ode = miscellanea_gr_GR_cog.misc.Ode7
+alt1.meMA.Ode7C1T.mode = miscellanea_gr_GR_cog.misc.Mode3
+alt1.meMA.Ode7C1T.melody = he.h.m3_gr_GR_cog.heHE.SeTonEnPyri.name
+alt1.meMA.Ode7C1T.incipit = "…"
+alt1.meMA.Ode7C1T.text = ""
+
+alt1.meMA.Ode7C21.ode = miscellanea_gr_GR_cog.misc.Ode7
+alt1.meMA.Ode7C21.mode = miscellanea_gr_GR_cog.misc.Mode4
+alt1.meMA.Ode7C21.greekmelody = he.h.m4_gr_GR_cog.heHE.ODiasosasEnPyri.greekname
+alt1.meMA.Ode7C21.melody = he.h.m4_gr_GR_cog.heHE.ODiasosasEnPyri.name
+alt1.meMA.Ode7C21.incipit = "…"
+alt1.meMA.Ode7C21.text = ""
+
+alt1.meMA.Ode7C22.ode = miscellanea_gr_GR_cog.misc.Ode7
+alt1.meMA.Ode7C22.mode = miscellanea_gr_GR_cog.misc.Mode4
+alt1.meMA.Ode7C22.melody = he.h.m4_gr_GR_cog.heHE.ODiasosasEnPyri.name
+alt1.meMA.Ode7C22.incipit = "…"
+alt1.meMA.Ode7C22.text = ""
+
+alt1.meMA.Ode7C23.ode = miscellanea_gr_GR_cog.misc.Ode7
+alt1.meMA.Ode7C23.mode = miscellanea_gr_GR_cog.misc.Mode4
+alt1.meMA.Ode7C23.melody = he.h.m4_gr_GR_cog.heHE.ODiasosasEnPyri.name
+alt1.meMA.Ode7C23.incipit = "…"
+alt1.meMA.Ode7C23.text = ""
+
+alt1.meMA.Ode7C24.ode = miscellanea_gr_GR_cog.misc.Ode7
+alt1.meMA.Ode7C24.mode = miscellanea_gr_GR_cog.misc.Mode4
+alt1.meMA.Ode7C24.melody = he.h.m4_gr_GR_cog.heHE.ODiasosasEnPyri.name
+alt1.meMA.Ode7C24.incipit = "…"
+alt1.meMA.Ode7C24.text = ""
+
+alt1.meMA.Ode7C2T.ode = miscellanea_gr_GR_cog.misc.Ode7
+alt1.meMA.Ode7C2T.mode = miscellanea_gr_GR_cog.misc.Mode4
+alt1.meMA.Ode7C2T.melody = he.h.m4_gr_GR_cog.heHE.ODiasosasEnPyri.name
+alt1.meMA.Ode7C2T.incipit = "…"
+alt1.meMA.Ode7C2T.text = ""
+
+alt1.meMA.Ode8C11.ode = miscellanea_gr_GR_cog.misc.Ode8
+alt1.meMA.Ode8C11.mode = miscellanea_gr_GR_cog.misc.Mode3
+alt1.meMA.Ode8C11.greekmelody = he.h.m3_gr_GR_cog.heHE.AstektoPyri.greekname
+alt1.meMA.Ode8C11.melody = he.h.m3_gr_GR_cog.heHE.AstektoPyri.name
+alt1.meMA.Ode8C11.incipit = "…"
+alt1.meMA.Ode8C11.text = ""
+
+alt1.meMA.Ode8C12.ode = miscellanea_gr_GR_cog.misc.Ode8
+alt1.meMA.Ode8C12.mode = miscellanea_gr_GR_cog.misc.Mode3
+alt1.meMA.Ode8C12.melody = he.h.m3_gr_GR_cog.heHE.AstektoPyri.name
+alt1.meMA.Ode8C12.incipit = "…"
+alt1.meMA.Ode8C12.text = ""
+
+alt1.meMA.Ode8C13.ode = miscellanea_gr_GR_cog.misc.Ode8
+alt1.meMA.Ode8C13.mode = miscellanea_gr_GR_cog.misc.Mode3
+alt1.meMA.Ode8C13.melody = he.h.m3_gr_GR_cog.heHE.AstektoPyri.name
+alt1.meMA.Ode8C13.incipit = "…"
+alt1.meMA.Ode8C13.text = ""
+
+alt1.meMA.Ode8C1T.ode = miscellanea_gr_GR_cog.misc.Ode8
+alt1.meMA.Ode8C1T.mode = miscellanea_gr_GR_cog.misc.Mode3
+alt1.meMA.Ode8C1T.melody = he.h.m3_gr_GR_cog.heHE.AstektoPyri.name
+alt1.meMA.Ode8C1T.incipit = "…"
+alt1.meMA.Ode8C1T.text = ""
+
+alt1.meMA.Ode8C21.ode = miscellanea_gr_GR_cog.misc.Ode8
+alt1.meMA.Ode8C21.mode = miscellanea_gr_GR_cog.misc.Mode4
+alt1.meMA.Ode8C21.greekmelody = he.h.m4_gr_GR_cog.heHE.CheirasEkpetasasDaniil.greekname
+alt1.meMA.Ode8C21.melody = he.h.m4_gr_GR_cog.heHE.CheirasEkpetasasDaniil.name
+alt1.meMA.Ode8C21.incipit = "…"
+alt1.meMA.Ode8C21.text = ""
+
+alt1.meMA.Ode8C22.ode = miscellanea_gr_GR_cog.misc.Ode8
+alt1.meMA.Ode8C22.mode = miscellanea_gr_GR_cog.misc.Mode4
+alt1.meMA.Ode8C22.melody = he.h.m4_gr_GR_cog.heHE.CheirasEkpetasasDaniil.name
+alt1.meMA.Ode8C22.incipit = "…"
+alt1.meMA.Ode8C22.text = ""
+
+alt1.meMA.Ode8C23.ode = miscellanea_gr_GR_cog.misc.Ode8
+alt1.meMA.Ode8C23.mode = miscellanea_gr_GR_cog.misc.Mode4
+alt1.meMA.Ode8C23.melody = he.h.m4_gr_GR_cog.heHE.CheirasEkpetasasDaniil.name
+alt1.meMA.Ode8C23.incipit = "…"
+alt1.meMA.Ode8C23.text = ""
+
+alt1.meMA.Ode8C24.ode = miscellanea_gr_GR_cog.misc.Ode8
+alt1.meMA.Ode8C24.mode = miscellanea_gr_GR_cog.misc.Mode4
+alt1.meMA.Ode8C24.melody = he.h.m4_gr_GR_cog.heHE.CheirasEkpetasasDaniil.name
+alt1.meMA.Ode8C24.incipit = "…"
+alt1.meMA.Ode8C24.text = ""
+
+alt1.meMA.Ode8C2T.ode = miscellanea_gr_GR_cog.misc.Ode8
+alt1.meMA.Ode8C2T.mode = miscellanea_gr_GR_cog.misc.Mode4
+alt1.meMA.Ode8C2T.melody = he.h.m4_gr_GR_cog.heHE.CheirasEkpetasasDaniil.name
+alt1.meMA.Ode8C2T.incipit = "…"
+alt1.meMA.Ode8C2T.text = ""
+
+alt1.meMA.Ode9C1M01.incipit = "…"
+alt1.meMA.Ode9C1M01.text = ""
+alt1.meMA.Ode9C1M02.incipit = "…"
+alt1.meMA.Ode9C1M02.text = ""
+alt1.meMA.Ode9C1M03.incipit = "…"
+alt1.meMA.Ode9C1M03.text = ""
+alt1.meMA.Ode9C1M04.incipit = "…"
+alt1.meMA.Ode9C1M04.text = ""
+alt1.meMA.Ode9C1M05.incipit = "…"
+alt1.meMA.Ode9C1M05.text = ""
+alt1.meMA.Ode9C1M06.incipit = "…"
+alt1.meMA.Ode9C1M06.text = ""
+
+alt1.meMA.Ode9C1M07.incipit = "…"
+alt1.meMA.Ode9C1M07.text = ""
+
+alt1.meMA.Ode9C11.ode = miscellanea_gr_GR_cog.misc.Ode9
+alt1.meMA.Ode9C11.mode = miscellanea_gr_GR_cog.misc.Mode3
+alt1.meMA.Ode9C11.greekmelody = he.h.m3_gr_GR_cog.heHE.EnNomoSkia.greekname
+alt1.meMA.Ode9C11.melody = he.h.m3_gr_GR_cog.heHE.EnNomoSkia.name
+alt1.meMA.Ode9C11.incipit = "…"
+alt1.meMA.Ode9C11.text = ""
+
+alt1.meMA.Ode9C1M08.incipit = "…"
+alt1.meMA.Ode9C1M08.text = ""
+
+alt1.meMA.Ode9C12.ode = miscellanea_gr_GR_cog.misc.Ode9
+alt1.meMA.Ode9C12.mode = miscellanea_gr_GR_cog.misc.Mode3
+alt1.meMA.Ode9C12.melody = he.h.m3_gr_GR_cog.heHE.EnNomoSkia.name
+alt1.meMA.Ode9C12.incipit = "…"
+alt1.meMA.Ode9C12.text = ""
+
+alt1.meMA.Ode9C1M09.incipit = "…"
+alt1.meMA.Ode9C1M09.text = ""
+
+alt1.meMA.Ode9C13.ode = miscellanea_gr_GR_cog.misc.Ode9
+alt1.meMA.Ode9C13.mode = miscellanea_gr_GR_cog.misc.Mode3
+alt1.meMA.Ode9C13.melody = he.h.m3_gr_GR_cog.heHE.EnNomoSkia.name
+alt1.meMA.Ode9C13.incipit = "…"
+alt1.meMA.Ode9C13.text = ""
+
+alt1.meMA.Ode9C1MTh.incipit = "…"
+alt1.meMA.Ode9C1MTh.text = ""
+
+alt1.meMA.Ode9C1T.ode = miscellanea_gr_GR_cog.misc.Ode9
+alt1.meMA.Ode9C1T.mode = miscellanea_gr_GR_cog.misc.Mode3
+alt1.meMA.Ode9C1T.melody = he.h.m3_gr_GR_cog.heHE.EnNomoSkia.name
+alt1.meMA.Ode9C1T.incipit = "…"
+alt1.meMA.Ode9C1T.text = ""
+
+alt1.meMA.Ode9C2M01.incipit = "…"
+alt1.meMA.Ode9C2M01.text = ""
+
+alt1.meMA.Ode9C21.ode = miscellanea_gr_GR_cog.misc.Ode9
+alt1.meMA.Ode9C21.mode = miscellanea_gr_GR_cog.misc.Mode4
+alt1.meMA.Ode9C21.greekmelody = he.h.m4_gr_GR_cog.heHE.LithosAcheirotmitos.greekname
+alt1.meMA.Ode9C21.melody = he.h.m4_gr_GR_cog.heHE.LithosAcheirotmitos.name
+alt1.meMA.Ode9C21.incipit = "…"
+alt1.meMA.Ode9C21.text = ""
+
+alt1.meMA.Ode9C2M02.incipit = "…"
+alt1.meMA.Ode9C2M02.text = ""
+
+alt1.meMA.Ode9C22.ode = miscellanea_gr_GR_cog.misc.Ode9
+alt1.meMA.Ode9C22.mode = miscellanea_gr_GR_cog.misc.Mode4
+alt1.meMA.Ode9C22.melody = he.h.m4_gr_GR_cog.heHE.LithosAcheirotmitos.name
+alt1.meMA.Ode9C22.incipit = "…"
+alt1.meMA.Ode9C22.text = ""
+
+alt1.meMA.Ode9C2MTr.incipit = "…"
+alt1.meMA.Ode9C2MTr.text = ""
+
+alt1.meMA.Ode9C2Tr.ode = miscellanea_gr_GR_cog.misc.Ode9
+alt1.meMA.Ode9C2Tr.mode = miscellanea_gr_GR_cog.misc.Mode4
+alt1.meMA.Ode9C2Tr.melody = he.h.m4_gr_GR_cog.heHE.LithosAcheirotmitos.name
+alt1.meMA.Ode9C2Tr.incipit = "…"
+alt1.meMA.Ode9C2Tr.text = ""
+
+alt1.meMA.Ode9C2MTh.incipit = "…"
+alt1.meMA.Ode9C2MTh.text = ""
+
+alt1.meMA.Ode9C2T.ode = miscellanea_gr_GR_cog.misc.Ode9
+alt1.meMA.Ode9C2T.mode = miscellanea_gr_GR_cog.misc.Mode4
+alt1.meMA.Ode9C2T.melody = he.h.m4_gr_GR_cog.heHE.LithosAcheirotmitos.name
+alt1.meMA.Ode9C2T.incipit = "…"
+alt1.meMA.Ode9C2T.text = ""
+
+alt1.meMA.Exaposteilarion2.mode = miscellanea_gr_GR_cog.misc.Mode3
+alt1.meMA.Exaposteilarion2.greekmelody = he.a.m3_gr_GR_cog.heAU.OOuranonToisAstrois.greekname
+alt1.meMA.Exaposteilarion2.melody = he.a.m3_gr_GR_cog.heAU.OOuranonToisAstrois.name
+alt1.meMA.Exaposteilarion2.incipit = "Τὸ τῆς Λαμψάκου κλέος…"
+alt1.meMA.Exaposteilarion2.text = "Τὸ τῆς Λαμψάκου κλέος, καὶ ποιμενάρχης θαυμαστός, θαυματουργίαις ἐκλάμπων, πάσης λυτροῦσαι συμφορᾶς, Παρθένιος ὁ θεόφρων· ὃν εὐφημήσωμεν πάντες."
+
+alt1.meMA.Exaposteilarion3.mode = miscellanea_gr_GR_cog.misc.Mode3
+alt1.meMA.Exaposteilarion3.melody = he.a.m3_gr_GR_cog.heAU.OOuranonToisAstrois.name
+alt1.meMA.Exaposteilarion3.incipit = "…"
+alt1.meMA.Exaposteilarion3.text = "Ἐν ταῖς ἀγκάλαις ὡς βρέφος, ἐδέξατο ὁ Συμεών, τὸν Ποιητὴν τῶν ἁπάντων, καὶ ἀνεκραύγαζεν αὐτῷ· Ἀπόλυσόν με Οἰκτίρμον· ὅτι κατεῖδόν σε Σῶτερ."
+
 alt1.meMA.Lauds1.mode = miscellanea_gr_GR_cog.misc.Mode4
 alt1.meMA.Lauds1.greekmelody = he.a.m4_gr_GR_cog.heAU.EdokasSimeiosin.greekname
 alt1.meMA.Lauds1.melody = he.a.m4_gr_GR_cog.heAU.EdokasSimeiosin.name
@@ -1007,3 +1489,6 @@ alt1.meMA.LaudsBoth.incipit = me.m02.d02_gr_GR_cog.meMA.LaudsGlory.incipit
 alt1.meMA.LaudsBoth.text = me.m02.d02_gr_GR_cog.meMA.LaudsGlory.text
 
 alt1.meLI.Megalynarion.text = "Χαίροις ὁ Λαμψάκου θεῖος ποιμήν, καὶ θαυμάτων βρύσις, καὶ ἀκένωτος θησαυρός· χαίροις ἀκαθάρτων, πνευμάτων ὁ διώκτης, καὶ τῶν νοσούντων ῥῶσις, Πάτερ Παρθένιε."
+
+
+

@@ -30,21 +30,24 @@ hoTY.Key0501.text = "Παναγία Τριάς, τὸ Ὁμοούσιον κ�
 
 // Liturgy Antiphons
 hoLI.Antiphon1.text = "Ταῖς πρεσβείαις τῆς Θεοτόκου, Σῶτερ, σῶσον ἡμᾶς."
-
 hoLI.Antiphon21.text = "Σῶσον ἡμᾶς Υἱὲ Θεοῦ,"
-hoLI.Antiphon2s.incipit = "ὁ ἀναστὰς ἐκ νεκρῶν…"
-hoLI.Antiphon2s.text = "ὁ ἀναστὰς ἐκ νεκρῶν,"
-hoLI.Antiphon2w.incipit = "ὁ ἐν ἁγίοις θαυμαστός…"
-hoLI.Antiphon2w.text = "ὁ ἐν ἁγίοις θαυμαστός,"
 hoLI.Antiphon22.text = "ψάλλοντάς σοι, Ἀλληλούϊα."
+
+//deprecated keys
+hoLI.Antiphon2s.incipit = properties_gr_GR_cog.deprecated.key
+hoLI.Antiphon2s.text = properties_gr_GR_cog.deprecated.key
+hoLI.Antiphon2w.incipit = properties_gr_GR_cog.deprecated.key
+hoLI.Antiphon2w.text = properties_gr_GR_cog.deprecated.key
+
+hoLI.EntranceHymn2s.incipit = properties_gr_GR_cog.deprecated.key
+hoLI.EntranceHymn2s.text = properties_gr_GR_cog.deprecated.key
+hoLI.EntranceHymn2w.incipit = properties_gr_GR_cog.deprecated.key
+hoLI.EntranceHymn2w.text = properties_gr_GR_cog.deprecated.key
 
 hoLI.EntranceHymn.incipit = "Δεῦτε προσκυνήσωμεν…"
 hoLI.EntranceHymn.text = "Δεῦτε προσκυνήσωμεν καὶ προσπέσωμεν Χριστῷ." //in the template add parts of Antiphon 2
-hoLI.EntranceHymn2s.incipit = hoLI.Antiphon2s.incipit
-hoLI.EntranceHymn2s.text = hoLI.Antiphon2s.text
-hoLI.EntranceHymn2w.incipit = hoLI.Antiphon2w.incipit
-hoLI.EntranceHymn2w.text = hoLI.Antiphon2w.text
-
+hoLI.MM.EntranceHymn2s.text = properties_gr_GR_cog.media.key
+hoLI.MM.EntranceHymn2w.text = properties_gr_GR_cog.media.key
 hoLI.TrisagiosHymn.title = "Ο ΤΡΙΣΑΓΙΟΣ ΥΜΝΟΣ"
 hoLI.TrisagiosHymn.incipit = "Ἅγιος ὁ Θεός…"
 hoLI.TrisagiosHymn.text = "Ἅγιος ὁ Θεός, ἅγιος Ἰσχυρός, ἅγιος Ἀθάνατος, ἐλέησον ἡμᾶς."

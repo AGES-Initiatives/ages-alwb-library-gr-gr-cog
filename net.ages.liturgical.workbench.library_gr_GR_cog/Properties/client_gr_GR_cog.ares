@@ -9,17 +9,17 @@ cl.email = ""
 cl.website = ""
 
 cl.bishop0.rank = "τοῦ Ἀρχιεπισκόπου ἡμῶν" //the superior of the local hierarch
-cl.bishop0.name_c = "(τοῦ δεῖνος)," //comma
-cl.bishop0.name_co = "(τοῦ δεῖνος):"
-cl.bishop0.name_sc = "(τοῦ δεῖνος)·"
-cl.bishop0.name_p = "(τοῦ δεῖνος)." //period
+cl.bishop0.name_c = "(δεῖνος)," //comma
+cl.bishop0.name_co = "(δεῖνος):"
+cl.bishop0.name_sc = "(δεῖνος)·"
+cl.bishop0.name_p = "(δεῖνος)." //period
 cl.bishop0.fimi.text = "(Ἡ φήμη τοῦ Ἀρχιερέως.)"
 
 cl.bishop1.rank = "τοῦ Ἀρχιεπισκόπου ἡμῶν"
-cl.bishop1.name_c = "(τοῦ δεῖνος)," //comma
-cl.bishop1.name_co = "(τοῦ δεῖνος):"
-cl.bishop1.name_sc = "(τοῦ δεῖνος)·"
-cl.bishop1.name_p = "(τοῦ δεῖνος)." //period
+cl.bishop1.name_c = "(δεῖνος)," //comma
+cl.bishop1.name_co = "(δεῖνος):"
+cl.bishop1.name_sc = "(δεῖνος)·"
+cl.bishop1.name_p = "(δεῖνος)." //period
 cl.bishop1.fimi.text = "(Ἡ φήμη τοῦ Ἀρχιερέως.)"
 
 cl.bishop2.rank = "καὶ" // for double commemoration or guest
@@ -129,7 +129,7 @@ cl.eu.lichrysbasil.R007 = "(Ὁ Ἱερεὺς εἰσέρχεται εἰς τ
 cl.eu.lichrysbasil.R008 = "(Ὁ Ἀναγνώστης ἐκφωνεῖ τοὺς στίχους τῶν Ψαλμῶν.)"
 cl.eu.lichrysbasil.R009 = "Πράξεων τῶν Ἀποστόλων (ἢ Πρός. . . Ἐπιστολῆς Παύλου ἢ Καθολικῆς Ἐπιστολῆς. . .) τὸ ἀνάγνωσμα."
 cl.eu.lichrysbasil.R010 = "(Ὁ Ἀναγνώστης ἀναγινώσκει τὴν τετραγμένην ἀποστολικὴν περικοπήν.)"
-cl.eu.lichrysbasil.R011 = "Ἐκ τοῦ κατὰ (Ὄνομα) Ἁγίου Εὐαγγελίου τὸ ἀνάγνωσμα."
+cl.eu.lichrysbasil.R011 = "Ἐκ τοῦ κατὰ (δεῖνα) Ἁγίου Εὐαγγελίου τὸ ἀνάγνωσμα."
 cl.eu.lichrysbasil.R012 = "(Καὶ ἀναγινώσκει τὴν τεταγμένην περικοπὴν τοῦ ἁγίου Εὐαγγελίου)"
 cl.eu.lichrysbasil.R013 = "(Μετὰ τὰ ἀναγνώσματα εἴθισται ἡ ἐκφώνησις τοῦ θείου λόγου.)"
 cl.eu.lichrysbasil.R014 = "(Τὸ Κοινονικὸν ἀλλάσσει κατὰ τὰς διαφόρους ἑορτάς.)"

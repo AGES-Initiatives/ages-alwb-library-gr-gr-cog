@@ -87,13 +87,13 @@ trVE.Stichera05.text = "Πρὸ ἓξ ἡμερῶν τοῦ Πάσχα, ἦλ�
 
 trVE.SticGlory.mode = miscellanea_gr_GR_cog.misc.Mode6
 trVE.SticGlory.melody = miscellanea_gr_GR_cog.misc.Idiomelon
-trVE.SticGlory.incipit = trVE.Stichera01.incipit
-trVE.SticGlory.text = trVE.Stichera01.text
+trVE.SticGlory.incipit = tr.d064_gr_GR_cog.trVE.Stichera01.incipit
+trVE.SticGlory.text = tr.d064_gr_GR_cog.trVE.Stichera01.text
 
 trVE.SticBoth.mode = miscellanea_gr_GR_cog.misc.Mode6
 trVE.SticBoth.melody = miscellanea_gr_GR_cog.misc.Idiomelon
-trVE.SticBoth.incipit = trVE.Stichera01.incipit
-trVE.SticBoth.text = trVE.Stichera01.text
+trVE.SticBoth.incipit = tr.d064_gr_GR_cog.trVE.Stichera01.incipit
+trVE.SticBoth.text = tr.d064_gr_GR_cog.trVE.Stichera01.text
 
 trVE.Lity1.mode = miscellanea_gr_GR_cog.misc.Mode1
 trVE.Lity1.melody = miscellanea_gr_GR_cog.misc.Idiomelon
@@ -142,13 +142,13 @@ trVE.Aposticha3.text = "Ὁ τοῖς Χερουβὶμ ἐποχούμενος
 
 trVE.AposGlory.mode = miscellanea_gr_GR_cog.misc.Mode6
 trVE.AposGlory.melody = miscellanea_gr_GR_cog.misc.Idiomelon
-trVE.AposGlory.incipit = trVE.Stichera01.incipit
-trVE.AposGlory.text = trVE.Stichera01.text
+trVE.AposGlory.incipit = tr.d064_gr_GR_cog.trVE.Stichera01.incipit
+trVE.AposGlory.text = tr.d064_gr_GR_cog.trVE.Stichera01.text
 
 trVE.AposBoth.mode = miscellanea_gr_GR_cog.misc.Mode6
 trVE.AposBoth.melody = miscellanea_gr_GR_cog.misc.Idiomelon
-trVE.AposBoth.incipit = trVE.Stichera01.incipit
-trVE.AposBoth.text = trVE.Stichera01.text
+trVE.AposBoth.incipit = tr.d064_gr_GR_cog.trVE.Stichera01.incipit
+trVE.AposBoth.text = tr.d064_gr_GR_cog.trVE.Stichera01.text
 
 trVE.Apolytikion1.mode = miscellanea_gr_GR_cog.misc.Mode1
 trVE.Apolytikion1.melody = ""
@@ -197,13 +197,13 @@ trMA.PostGospelGlory.text = "Σήμερον ὁ Χριστός, εἰσέρχ
 
 trMA.PostGospelBoth.mode = miscellanea_gr_GR_cog.misc.Mode2
 trMA.PostGospelBoth.melody = ""
-trMA.PostGospelBoth.incipit = trMA.PostGospelGlory.incipit
-trMA.PostGospelBoth.text = trMA.PostGospelGlory.text
+trMA.PostGospelBoth.incipit = tr.d064_gr_GR_cog.trMA.PostGospelGlory.incipit
+trMA.PostGospelBoth.text = tr.d064_gr_GR_cog.trMA.PostGospelGlory.text
 
 trMA.PostGospelIdiomelon.mode = miscellanea_gr_GR_cog.misc.Mode6
 trMA.PostGospelIdiomelon.melody = miscellanea_gr_GR_cog.misc.Idiomelon
-trMA.PostGospelIdiomelon.incipit = trVE.Stichera01.incipit
-trMA.PostGospelIdiomelon.text = trVE.Stichera01.text
+trMA.PostGospelIdiomelon.incipit = tr.d064_gr_GR_cog.trVE.Stichera01.incipit
+trMA.PostGospelIdiomelon.text = tr.d064_gr_GR_cog.trVE.Stichera01.text
 
 trMA.C1.acrostic.title = "Ὁ Κανών,"
 trMA.C1.acrostic.notice1 = "οὗ ἡ Ἀκροστιχίς·"
@@ -447,26 +447,26 @@ trMA.Lauds4.text = "Τὴν κοινὴν Ἀνάστασιν, πρὸ τοῦ 
 
 trMA.LaudsGlory.mode = miscellanea_gr_GR_cog.misc.Mode6
 trMA.LaudsGlory.melody = miscellanea_gr_GR_cog.misc.Idiomelon
-trMA.LaudsGlory.incipit = trVE.Stichera05.incipit
-trMA.LaudsGlory.text = trVE.Stichera05.text
+trMA.LaudsGlory.incipit = tr.d064_gr_GR_cog.trVE.Stichera05.incipit
+trMA.LaudsGlory.text = tr.d064_gr_GR_cog.trVE.Stichera05.text
 
 trLI.MM.Antiphon2.text = properties_gr_GR_cog.media.key
 
 trLI.MM.EntranceHymn.text = properties_gr_GR_cog.media.key
 
-trLI.Kontakion1.mode = trMA.Kontakion1.mode
-trLI.Kontakion1.melody = trMA.Kontakion1.melody
-trLI.Kontakion1.incipit = trMA.Kontakion1.incipit
-trLI.Kontakion1.text = trMA.Kontakion1.text
+trLI.Kontakion1.mode = tr.d064_gr_GR_cog.trMA.Kontakion1.mode
+trLI.Kontakion1.melody = tr.d064_gr_GR_cog.trMA.Kontakion1.melody
+trLI.Kontakion1.incipit = tr.d064_gr_GR_cog.trMA.Kontakion1.incipit
+trLI.Kontakion1.text = tr.d064_gr_GR_cog.trMA.Kontakion1.text
 
 trLI.TheotokosHymn.mode = miscellanea_gr_GR_cog.misc.Mode4
-trLI.TheotokosHymn.incipit = trMA.Ode9C1H.incipit
-trLI.TheotokosHymn.text = trMA.Ode9C1H.text
+trLI.TheotokosHymn.incipit = tr.d064_gr_GR_cog.trMA.Ode9C1H.incipit
+trLI.TheotokosHymn.text = tr.d064_gr_GR_cog.trMA.Ode9C1H.text
 
 trLI.MM.CommunionHymn.text = properties_gr_GR_cog.media.key
 
 trLI.AfterCommunion.mode = miscellanea_gr_GR_cog.misc.Mode1
-trLI.AfterCommunion.incipit = trVE.Apolytikion1.incipit
-trLI.AfterCommunion.text = trVE.Apolytikion1.text
+trLI.AfterCommunion.incipit = tr.d064_gr_GR_cog.trVE.Apolytikion1.incipit
+trLI.AfterCommunion.text = tr.d064_gr_GR_cog.trVE.Apolytikion1.text
 
 trLI.Megalynarion.text = "Ἐπὶ πώλου ὄνου εἰς τὴν Σιών, εἰσῆλθες Σωτήρ μου, ὑπὸ παίδων καὶ τῶν βρεφῶν, αἰνούμενος Λόγε, τὸ ὡσαννὰ βοώντων, εὐλογητὸς ὁ ἥκων σῶσαι τὸν ἄνθρωπον."

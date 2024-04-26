@@ -65,18 +65,18 @@ peVE.SticGlory.text = "Δεῦτε λαοί, τὴν τρισυπόστατο�
 
 peVE.Lity1.mode = miscellanea_gr_GR_cog.misc.Mode2
 peVE.Lity1.melody = miscellanea_gr_GR_cog.misc.Idiomelon
-peVE.Lity1.incipit = peVE.Stichera05.incipit
-peVE.Lity1.text = peVE.Stichera05.text
+peVE.Lity1.incipit = pe.d120_gr_GR_cog.peVE.Stichera05.incipit
+peVE.Lity1.text = pe.d120_gr_GR_cog.peVE.Stichera05.text
 
 peVE.Lity2.mode = miscellanea_gr_GR_cog.misc.Mode2
 peVE.Lity2.melody = miscellanea_gr_GR_cog.misc.Idiomelon
-peVE.Lity2.incipit = peVE.Stichera06.incipit
-peVE.Lity2.text = peVE.Stichera06.text
+peVE.Lity2.incipit = pe.d120_gr_GR_cog.peVE.Stichera06.incipit
+peVE.Lity2.text = pe.d120_gr_GR_cog.peVE.Stichera06.text
 
 peVE.Lity3.mode = miscellanea_gr_GR_cog.misc.Mode2
 peVE.Lity3.melody = miscellanea_gr_GR_cog.misc.Idiomelon
-peVE.Lity3.incipit = peVE.Stichera07.incipit
-peVE.Lity3.text = peVE.Stichera07.text
+peVE.Lity3.incipit = pe.d120_gr_GR_cog.peVE.Stichera07.incipit
+peVE.Lity3.text = pe.d120_gr_GR_cog.peVE.Stichera07.text
 
 peVE.LityGlory.mode = miscellanea_gr_GR_cog.misc.Mode8
 peVE.LityGlory.melody = miscellanea_gr_GR_cog.misc.Idiomelon
@@ -140,8 +140,8 @@ peMA.PostGospelBoth.text = ho.ho03_gr_GR_cog.hoMA.PostGospelTheotokos.text
 
 peMA.PostGospelIdiomelon.mode = miscellanea_gr_GR_cog.misc.Mode6
 peMA.PostGospelIdiomelon.melody = miscellanea_gr_GR_cog.misc.Idiomelon
-peMA.PostGospelIdiomelon.incipit = peVE.Aposticha3.incipit
-peMA.PostGospelIdiomelon.text = peVE.Aposticha3.text
+peMA.PostGospelIdiomelon.incipit = pe.d120_gr_GR_cog.peVE.Aposticha3.incipit
+peMA.PostGospelIdiomelon.text = pe.d120_gr_GR_cog.peVE.Aposticha3.text
 
 peMA.C1.acrostic.title = "Ὁ Κανὼν τοῦ βαρέως ἤχου,"
 peMA.C1.acrostic.notice1 = "οὗ ἡ Ἀκροστιχίς·"
@@ -678,27 +678,27 @@ peMA.MM.Lauds123as123.text = properties_gr_GR_cog.media.key
 
 peMA.LaudsGlory.mode = miscellanea_gr_GR_cog.misc.Mode6
 peMA.LaudsGlory.melody = ""
-peMA.LaudsGlory.incipit = peVE.Aposticha3.incipit
-peMA.LaudsGlory.text = peVE.Aposticha3.text
+peMA.LaudsGlory.incipit = pe.d120_gr_GR_cog.peVE.Aposticha3.incipit
+peMA.LaudsGlory.text = pe.d120_gr_GR_cog.peVE.Aposticha3.text
 
 peLI.MM.Antiphon2.text = properties_gr_GR_cog.media.key
 
 peLI.MM.EntranceHymn.text = properties_gr_GR_cog.media.key
 peLI.MM.EntranceHymnAF.text = properties_gr_GR_cog.media.key
 
-peLI.Kontakion1.mode = peMA.Kontakion1.mode
-peLI.Kontakion1.melody = peMA.Kontakion1.melody
-peLI.Kontakion1.incipit = peMA.Kontakion1.incipit
-peLI.Kontakion1.text = peMA.Kontakion1.text
+peLI.Kontakion1.mode = pe.d120_gr_GR_cog.peMA.Kontakion1.mode
+peLI.Kontakion1.melody = pe.d120_gr_GR_cog.peMA.Kontakion1.melody
+peLI.Kontakion1.incipit = pe.d120_gr_GR_cog.peMA.Kontakion1.incipit
+peLI.Kontakion1.text = pe.d120_gr_GR_cog.peMA.Kontakion1.text
 
-peLI.TheotokosHymn.mode = peMA.Ode9C1H.mode
-peLI.TheotokosHymn.incipit = peMA.Ode9C1H.incipit
-peLI.TheotokosHymn.text = peMA.Ode9C1H.text
+peLI.TheotokosHymn.mode = pe.d120_gr_GR_cog.peMA.Ode9C1H.mode
+peLI.TheotokosHymn.incipit = pe.d120_gr_GR_cog.peMA.Ode9C1H.incipit
+peLI.TheotokosHymn.text = pe.d120_gr_GR_cog.peMA.Ode9C1H.text
 
 peLI.MM.CommunionHymn.text = properties_gr_GR_cog.media.key
 
-peLI.AfterCommunion.mode = peVE.Apolytikion1.mode
-peLI.AfterCommunion.incipit = peVE.Apolytikion1.incipit
-peLI.AfterCommunion.text = peVE.Apolytikion1.text
+peLI.AfterCommunion.mode = pe.d120_gr_GR_cog.peVE.Apolytikion1.mode
+peLI.AfterCommunion.incipit = pe.d120_gr_GR_cog.peVE.Apolytikion1.incipit
+peLI.AfterCommunion.text = pe.d120_gr_GR_cog.peVE.Apolytikion1.text
 
 peLI.Megalynarion.text = "Εἰς τὸ ὑπερῷον τοῖς Μαθηταῖς, ἐν πυρίναις γλώσσας, ἐξαπέστειλεν ὁ Θεός, τὸ θεῖον αὐτοῦ Πνεῦμα, ὅπως αὐτοὺς σοφίσῃ, τοῖς ἔθνεσι κηρῦξαι τὸ Εὐαγγέλιον."

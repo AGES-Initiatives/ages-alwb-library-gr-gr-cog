@@ -173,8 +173,8 @@ meMA.PostGospelBoth.text = ho.ho03_gr_GR_cog.hoMA.PostGospelTheotokos.text
 
 meMA.PostGospelIdiomelon.mode = miscellanea_gr_GR_cog.misc.Mode2
 meMA.PostGospelIdiomelon.melody = ""
-meMA.PostGospelIdiomelon.incipit = meVE.Lity3.incipit
-meMA.PostGospelIdiomelon.text = meVE.Lity3.text
+meMA.PostGospelIdiomelon.incipit = me.m05.d21_gr_GR_cog.meVE.Lity3.incipit
+meMA.PostGospelIdiomelon.text = me.m05.d21_gr_GR_cog.meVE.Lity3.text
 
 meMA.C1.title = titles_gr_GR_cog.ti.CanonSaints
 meMA.C1.verse = prayers_gr_GR_cog.pr.verse_SaintsM.text
@@ -445,11 +445,11 @@ meMA.LaudsGlory.melody = ""
 meMA.LaudsGlory.incipit = "Ὁ τῶν Ἀνάκτων Ἄναξ καὶ…"
 meMA.LaudsGlory.text = "Ὁ τῶν Ἀνάκτων Ἄναξ καὶ Θεός, ὁ πλουσίαις δωρεαῖς κατακοσμῶν τοὺς ἀξίους, αὐτὸς οὐρανόθεν, ὥσπερ Παῦλον τὸν ἀοίδιμον, διὰ σημείου τοῦ Σταυροῦ, σὲ Κωνσταντῖνε ἐζώγρησεν. Ἐν τούτῳ, φήσας, νίκα τοὺς ἐχθρούς σου, ὃν ἀναζητήσας σὺν μητρὶ θεόφρονι, καὶ εὑρὼν ὡς ἐπόθεις, τούτους κατὰ κράτος ἐτροπώσω. Σὺν αὐτῇ οὖν ἱκέτευε, ὑπὲρ ὀρθοδόξων Βασιλέων, καὶ τοῦ φιλοχρίστου Στρατοῦ, καὶ πάντων τῶν τὴν μνήμην σου τελούντων πιστῶς, τὸν μόνον φιλάνθρωπον, λυτρωθῆναι πάσης ὀργῆς."
 
-meLI.Kontakion1.mode = meMA.Kontakion1.mode
-meLI.Kontakion1.greekmelody = meMA.Kontakion1.greekmelody
-meLI.Kontakion1.melody = meMA.Kontakion1.melody
-meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
-meLI.Kontakion1.text = meMA.Kontakion1.text
+meLI.Kontakion1.mode = me.m05.d21_gr_GR_cog.meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody = me.m05.d21_gr_GR_cog.meMA.Kontakion1.greekmelody
+meLI.Kontakion1.melody = me.m05.d21_gr_GR_cog.meMA.Kontakion1.melody
+meLI.Kontakion1.incipit = me.m05.d21_gr_GR_cog.meMA.Kontakion1.incipit
+meLI.Kontakion1.text = me.m05.d21_gr_GR_cog.meMA.Kontakion1.text
 
 meLI.MM.CommunionHymn.text = properties_gr_GR_cog.media.key
 

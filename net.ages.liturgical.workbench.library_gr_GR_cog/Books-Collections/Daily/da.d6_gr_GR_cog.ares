@@ -1,10 +1,12 @@
 A_Resource_Whose_Name = da.d6_gr_GR_cog
 
 daDay.text = "Παρασκευή."
+daForDay.text = "διὰ τὴν Παρασκευήν,"
 daOnDay.text = "τῇ Παρασκευῇ"
 daCommemoration.text = "Σταυρώσιμον."
 
 daVE.OnTheMorningBefore.text = template.titles_gr_GR_cog.d.onThursdayMorning
+daVE.OnTheDayBefore.text = "τῇ Πέμπτῃ,"
 daVE.OnTheEveningBefore.text = template.titles_gr_GR_cog.d.onThursdayEvening
 
 daVE.Apolytikion1.mode = miscellanea_gr_GR_cog.misc.Mode1

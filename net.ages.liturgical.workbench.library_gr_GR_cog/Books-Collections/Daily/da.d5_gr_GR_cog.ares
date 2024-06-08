@@ -1,9 +1,11 @@
 A_Resource_Whose_Name = da.d5_gr_GR_cog
 
 daDay.text = "Πέμπτη."
+daForDay.text = "διὰ τὴν Πέμπτην,"
 daOnDay.text = "τῇ Πέμπτῃ"
 daCommemoration.text = "Τῶν Ἁγίων Ἀποστόλων."
 
+daVE.OnTheDayBefore.text = "τῇ Τετάρτῃ,"
 daVE.OnTheEveningBefore.text = template.titles_gr_GR_cog.d.onWednesdayEvening
 
 daVE.Apolytikion1.mode = miscellanea_gr_GR_cog.misc.Mode3

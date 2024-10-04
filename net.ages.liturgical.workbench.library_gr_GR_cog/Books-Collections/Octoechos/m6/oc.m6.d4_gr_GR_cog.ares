@@ -97,7 +97,7 @@ ocMA.Kathisma23.mode = miscellanea_gr_GR_cog.misc.Mode6
 ocMA.Kathisma23.greekmelody = he.a.m6_gr_GR_cog.heAU.ElpisTouKosmouAgathi.greekname
 ocMA.Kathisma23.melody = he.a.m6_gr_GR_cog.heAU.ElpisTouKosmouAgathi.name
 ocMA.Kathisma23.incipit = "Ἐν ξύλῳ βλέπουσα νεκρόν…"
-ocMA.Kathisma23.text = "Ἐν ξύλῳ βλέπουσα νεκρόν, κρεμάμενον ἡ Παρθένος, Θεὸν ὃν ἔτεκε σαρκί, θρηνῳδοῦσα ἐβόα· Τὴν ἄφατον μακροθυμίαν σου Υἱέ, ἐκπλήττομαι· πῶς ὡς κατάκριτον Σταυρῷ, προσήλωσαν οἱ ἄνομοι, τὸν δίκαιον Κριτήν, καὶ μόνον σε Δεσπότην."
+ocMA.Kathisma23.text = "Ἐν ξύλῳ βλέπουσα νεκρόν, κρεμάμενον ἡ Παρθένος, Θεὸν ὃν ἔτεκε σαρκί, θρηνῳδοῦσα ἐβόα· Τὴν ἄφατον μακροθυμίαν σου Υἱέ, ἐκπλήττομαι· πῶς ὡς κατάκριτον Σταυρῷ, προσήλωσαν οἱ ἄνομοι, τὸν δίκαιον Κριτήν, καὶ μόνον σε Δεσπότην;"
 
 ocMA.Kathisma31.mode = miscellanea_gr_GR_cog.misc.Mode6
 ocMA.Kathisma31.greekmelody = he.a.m6_gr_GR_cog.heAU.ElpisTouKosmouAgathi.greekname
@@ -607,9 +607,10 @@ ocMA.AposTheotokion.incipit = "Ἡ Πάναγνος ὡς εἶδέ σε…"
 ocMA.AposTheotokion.text = "Ἡ Πάναγνος ὡς εἶδέ σε, ἐπὶ Σταυροῦ κρεμάμενον, ἀνεβόα, θρηνῳδοῦσα μητρικῶς· Υἱέ μου καὶ Θεέ μου, γλυκύτατόν μου Τέκνον, πῶς φέρεις πάθος ἐπονείδιστον;"
 
 ocMA.ApolTheotokion.mode = miscellanea_gr_GR_cog.misc.Mode6
-ocMA.ApolTheotokion.melody = ""
-ocMA.ApolTheotokion.incipit = "Τὸν πρὸ αἰώνων ἐκ Πατρός…"
-ocMA.ApolTheotokion.text = "Τὸν πρὸ αἰώνων ἐκ Πατρός, ἄνευ Μητρὸς γεννηθέντα, Υἱὸν καὶ Λόγον τοῦ Θεοῦ, ἐπʼ ἐσχάτων τῶν χρόνων, ἐκύησας σεσαρκωμένον, ἐξ ἁγνῶν αἱμάτων σου, Θεοκυῆτορ ἄνευ ἀνδρός, ὃν αἴτησαι δωρήσασθαι ἡμῖν, ἁμαρτιῶν ἄφεσιν πρὸ τοῦ τέλους."
+ocMA.ApolTheotokion.greekmelody = he.a.m6_gr_GR_cog.heAU.ElpisTouKosmouAgathi.greekname
+ocMA.ApolTheotokion.melody = he.a.m6_gr_GR_cog.heAU.ElpisTouKosmouAgathi.name
+ocMA.ApolTheotokion.incipit = oc.m6.d3_gr_GR_cog.ocMA.Kathisma13.incipit
+ocMA.ApolTheotokion.text = oc.m6.d3_gr_GR_cog.ocMA.Kathisma13.text
 
 ocLI.Beatitudes1.mode = miscellanea_gr_GR_cog.misc.Mode6
 ocLI.Beatitudes1.melody = he.h.m6_gr_GR_cog.heHE.IToChaireDiAngelou.name

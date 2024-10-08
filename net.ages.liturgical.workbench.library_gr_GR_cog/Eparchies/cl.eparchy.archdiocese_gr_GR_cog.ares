@@ -1,0 +1,88 @@
+A_Resource_Whose_Name = cl.eparchy.archdiocese_gr_GR_cog
+
+clEP.name = "Greek Orthodox Archdiocese of America"
+clEP.address = ""
+clEP.city = ""
+clEP.state = ""
+clEP.zipcode = ""
+clEP.email = ""
+clEP.website = ""
+
+clEP.bishop0.rank = "τοῦ Ἀρχιεπισκόπου ἡμῶν" //the superior of the local hierarch
+clEP.bishop0.name_c = "Βαρθολομαίου," //comma
+clEP.bishop0.name_co = "Βαρθολομαίου:"
+clEP.bishop0.name_sc = "Βαρθολομαίου·"
+clEP.bishop0.name_p = "Βαρθολομαίου." //period
+clEP.bishop0.fimi.text = "Βαρθολομαίου, τοῦ Παναγιωτάτου καὶ Οἰκουμενικοῦ Πατριάρχου, πολλὰ τὰ ἔτη."
+clEP.bishop0.entrance.text = "Τοῦ Ἀρχιεπισκόπου ἡμῶν Βαρθολομαίου, "
+clEP.bishop0.commemoration.text = "Ἐν πρώτοις μνήσθητι, Κύριε, τοῦ Ἀρχιεπισκόπου ἡμῶν Βαρθολομαίου, ὂν χάρισαι ταῖς ἁγίαις σου Ἐκκλησίαις ἐν εἰρήνῃ, σῷον, ἔντιμον, ὑγιᾶ, μακροημερεύοντα καὶ ὀρθοτομοῦντα τὸν λόγον τῆς σῆς ἀληθείας."
+
+//clEP.bishop1.rank = "τοῦ Ἀρχιεπισκόπου ἡμῶν" //the superior of the local hierarch
+//clEP.bishop1.name_c = "Βαρθολομαίου," //comma
+//clEP.bishop1.name_co = "Βαρθολομαίου:"
+//clEP.bishop1.name_sc = "Βαρθολομαίου·"
+//clEP.bishop1.name_p = "Βαρθολομαίου." //period
+//clEP.bishop1.fimi.text = "Βαρθολομαίου, τοῦ Παναγιωτάτου καὶ Οἰκουμενικοῦ Πατριάρχου, πολλὰ τὰ ἔτη."
+
+clEP.bishop1.rank = "τοῦ Ἀρχιεπισκόπου ἡμῶν"
+clEP.bishop1.name_c = "Ἐλπιδοφόρου," //comma
+clEP.bishop1.name_co = "Ἐλπιδοφόρου:" //comma
+clEP.bishop1.name_sc = "Ἐλπιδοφόρου·" //comma
+clEP.bishop1.name_p = "Ἐλπιδοφόρου." //period
+
+clEP.bishop1.pet06.text = "Ὑπὲρ τοῦ Ἀρχιεπισκόπου ἡμῶν Ἐλπιδοφόρου, τοῦ τιμίου πρεσβυτερίου, τῆς ἐν Χριστῷ διακονίας, παντὸς τοῦ κλήρου καὶ τοῦ λαοῦ, τοῦ Κυρίου δεηθῶμεν."
+clEP.bishop1.fimi.text = "Ἐλπιδοφόρου, τοῦ Σεβασμιωτάτου καὶ Θεοπροβλήτου Ἀρχιεπισκόπου τῆς ἁγιωτάτης Ἀρχιεπισκοπῆς Ἀμερικῆς, Ὑπερτίμου καὶ Ἐξάρχου Ὠκεανῶν Ἀτλαντικοῦ τε καὶ Εἰρηνικοῦ, ἡμῶν δὲ πατρὸς καὶ ποιμενάρχου, πολλὰ τὰ ἔτη!"
+clEP.bishop1.away_fimi.text = 
+clEP.bishop1.pet19.text = "Ἔτι δεόμεθα ὑπὲρ τοῦ Ἀρχιεπισκόπου ἡμῶν Ἐλπιδοφόρου."
+clEP.bishop1.entrance.text = "Τοῦ Ἀρχιεπισκόπου ἡμῶν Ἐλπιδοφόρου, "
+clEP.bishop1.commemoration.text = "Ἐν πρώτοις μνήσθητι, Κύριε, τοῦ Ἀρχιεπισκόπου ἡμῶν Ἐλπιδοφόρου, ὂν χάρισαι ταῖς ἁγίαις σου Ἐκκλησίαις ἐν εἰρήνῃ, σῷον, ἔντιμον, ὑγιᾶ, μακροημερεύοντα καὶ ὀρθοτομοῦντα τὸν λόγον τῆς σῆς ἀληθείας."
+clEP.bishop1.petOrdination01a.text = "Ὑπὲρ τοῦ Ἀρχιεπισκόπου ἡμῶν Ἐλπιδοφόρου,"
+
+clEP.bishop2.rank = "τοῦ Ἀρχιεπισκόπου ἡμῶν" // for double commemoration or guest
+clEP.bishop2.name_c = ","
+clEP.bishop2.name_co = ":"
+clEP.bishop2.name_sc = "·"
+clEP.bishop2.name_p = "."
+clEP.bishop2.fimi.text = ""
+
+clEP.ordinand.deacon1.acc.text = "" //change for each ordination
+clEP.ordinand.deacon1.gen.text = "" //change for each ordination
+
+clEP.ordinand.deacon2.acc.text = "" //change for each ordination
+clEP.ordinand.deacon2.gen.text = "" //change for each ordination
+
+clEP.ordinand.priest1.acc.text = "" //change for each ordination
+clEP.ordinand.priest1.gen.text = "" //change for each ordination
+
+clEP.ordinand.priest2.acc.text = "" //change for each ordination
+clEP.ordinand.priest2.gen.text = "" //change for each ordination
+
+
+clEP.church.stgeorgeyonkersny.patronsaint1.supplication = "τοῦ Ἁγίου ἐνδόξου Μεγαλομάρτυρος Γεωργίου τοῦ Τροπαιοφόρου,"
+clEP.church.stgeorgeyonkersny.patronsaint1.dismissal = "τοῦ Ἁγίου ἐνδόξου Μεγαλομάρτυρος Γεωργίου τοῦ Τροπαιοφόρου,"
+clEP.church.stgeorgeyonkersny.patronsaint1.greatcompline = ""
+clEP.church.stgeorgeyonkersny.hymntitle = "Τοῦ Ἁγίου Γεωργίου."
+clEP.church.stgeorgeyonkersny.Apolytikion1.title = "Τοῦ Ναοῦ."
+clEP.church.stgeorgeyonkersny.Apolytikion1.mode = me.m04.d23_gr_GR_cog.meVE.Apolytikion1.mode
+clEP.church.stgeorgeyonkersny.Apolytikion1.melody = me.m04.d23_gr_GR_cog.meVE.Apolytikion1.melody
+clEP.church.stgeorgeyonkersny.Apolytikion1.text = me.m04.d23_gr_GR_cog.meVE.Apolytikion1.text
+clEP.church.stgeorgeyonkersny.conVE.SticBoth.churchname.text = "τοῦ Ἁγίου Γεωργίου,"
+clEP.church.stgeorgeyonkersny.consecration.name = "τοῦ Ἁγίου ἐνδόξου Μεγαλομάρτυρος Γεωργίου τοῦ Τροπαιοφόρου,"
+clEP.church.stgeorgeyonkersny.consecration.prayer1 = "τοῦ Ἁγίου ἐνδόξου Μεγαλομάρτυρος Γεωργίου τοῦ Τροπαιοφόρου,"
+clEP.church.stgeorgeyonkersny.consecration.greatlitany.finalpetition.name = "καὶ τοῦ Ἁγίου Γεωργίου," //(καὶ ὄνομα ἁγίου τοῦ Ναοῦ)
+clEP.church.stgeorgeyonkersny.relics.saint1 = "τῶν Ἁγίων Πέντε Ἐνδόξων Νεομαρτύρων τῆς Σαμοθράκης,"
+clEP.church.stgeorgeyonkersny.relics.saint1.Apolytikion.title = "Τῶν Ἁγίων Πέντε Νεομαρτύρων."
+clEP.church.stgeorgeyonkersny.relics.saint1.Apolytikion.mode = pe.d078_gr_GR_cog.alt1.peVE.Apolytikion1.mode
+clEP.church.stgeorgeyonkersny.relics.saint1.Apolytikion.melody = pe.d078_gr_GR_cog.alt1.peVE.Apolytikion1.melody
+clEP.church.stgeorgeyonkersny.relics.saint1.Apolytikion.text = pe.d078_gr_GR_cog.alt1.peVE.Apolytikion1.text
+clEP.church.stgeorgeyonkersny.relics.saint2 = "Μανουὴλ, Θεοδώρου, Μιχαήλ,"
+clEP.church.stgeorgeyonkersny.relics.saint2.Apolytikion.title = ""
+clEP.church.stgeorgeyonkersny.relics.saint2.Apolytikion.mode = 
+clEP.church.stgeorgeyonkersny.relics.saint2.Apolytikion.melody = ""
+clEP.church.stgeorgeyonkersny.relics.saint2.Apolytikion.text = 
+clEP.church.stgeorgeyonkersny.relics.saint3 = "Γεωργίου καὶ Γεωργίου,"
+clEP.church.stgeorgeyonkersny.relics.saint3.Apolytikion.title = ""
+clEP.church.stgeorgeyonkersny.relics.saint3.Apolytikion.mode = 
+clEP.church.stgeorgeyonkersny.relics.saint3.Apolytikion.melody = ""
+clEP.church.stgeorgeyonkersny.relics.saint3.Apolytikion.text = 
+

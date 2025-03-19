@@ -390,15 +390,15 @@ psVE.saturday.aposverse.v3.info = ps_gr_GR_cog.psa92.v5.number
 psVE.saturday.aposverse.v3.incipit = "Τῷ οἴκῳ σου πρέπει…"
 psVE.saturday.aposverse.v3.text = "Τῷ οἴκῳ σου πρέπει ἁγίασμα, Κύριε, εἰς μακρότητα ἡμερῶν."
 
-goVE.songofsymeon.v1.info = le.go.os_gr_GR_cog.leosVE.Prayer_NynApolyeis.chapverse
-goVE.songofsymeon.v1.incipit = "Νῦν ἀπολύεις…"
-goVE.songofsymeon.v1.text = "Νῦν ἀπολύεις τὸν δοῦλόν σου, Δέσποτα, κατὰ τὸ ῥῆμά σου, ἐν εἰρήνῃ· ὅτι εἶδον οἱ ὀφθαλμοί μου τὸ σωτήριόν σου, ὃ ἡτοίμασας κατὰ πρόσωπον πάντων τῶν λαῶν· φῶς εἰς ἀποκάλυψιν ἐθνῶν, καὶ δόξαν λαοῦ σου Ἰσραήλ."
-goVE.songofsymeon.v1a.text = "Νῦν ἀπολύεις τον δοῦλόν σου, Δέσποτα, κατὰ τὸ ῥῆμά σου, ἐν εἰρήνῃ· ὅτι εἶδον οἱ ὀφθαλμοί μου τὸ σωτήριόν σου, ὃ ἡτοίμασας κατὰ πρόσωπον πάντων τῶν λαῶν."
-goVE.songofsymeon.v1b.text = "Φῶς εἰς ἀποκάλυψιν ἐθνῶν, καὶ δόξαν λαοῦ σου Ἰσραήλ."
+goVE.songofsymeon.v1.info = properties_gr_GR_cog.deprecated.key
+goVE.songofsymeon.v1.incipit = properties_gr_GR_cog.deprecated.key
+goVE.songofsymeon.v1.text = properties_gr_GR_cog.deprecated.key
+goVE.songofsymeon.v1a.text = properties_gr_GR_cog.deprecated.key
+goVE.songofsymeon.v1b.text = properties_gr_GR_cog.deprecated.key
 
 //Matins
-goMA.sixpsalms.intro.v1.info = // (Lk 2:14) le.go.os_gr_GR_cog.leosMA.SixPsalmsIntro1.book_abbr
-goMA.sixpsalms.intro.v1.text = "Δόξα ἐν ὑψίστοις Θεῷ καὶ ἐπὶ γῆς εἰρήνη, ἐν ἀνθρώποις εὐδοκία."
+goMA.sixpsalms.intro.v1.info = properties_gr_GR_cog.deprecated.key
+goMA.sixpsalms.intro.v1.text = properties_gr_GR_cog.deprecated.key
 psMA.sixpsalms.intro.v2.info = ps_gr_GR_cog.psa50.v17.number
 psMA.sixpsalms.intro.v2.text = "Κύριε, τὰ χείλη μου ἀνοίξεις, καὶ τὸ στόμα μου ἀναγγελεῖ τὴν αἴνεσίν σου."
 psMA.sixpsalms.ps3.end.v1.info = ps_gr_GR_cog.psa3.v6.number
@@ -1162,21 +1162,21 @@ psLI.typika.ps145.v9.text = "Ὀρφανὸν καὶ χήραν ἀναλήψ
 psLI.typika.ps145.v10.info = ps_gr_GR_cog.psa145.v10.number
 psLI.typika.ps145.v10.text = "Βασιλεύσει Κύριος εἰς τὸν αἰῶνα, ὁ Θεός σου, Σιών, εἰς γενεὰν καὶ γενεάν."
 
-goLI.typika.beatitudes.info = le.go.os_gr_GR_cog.leosTY.Beatitudes.book_abbr
-goLI.typika.beatitudes.intro.text = "Ἐν τῇ Βασιλείᾳ σου μνήσθητι ἡμῶν Κύριε, ὅταν ἔλθῃς ἐν τῇ Βασιλείᾳ σου."
-goLI.typika.beatitudes.v01.text = "Μακάριοι οἱ πτωχοὶ τῷ πνεύματι, ὅτι αὐτῶν ἐστιν ἡ Βασιλεία τῶν οὐρανῶν."
-goLI.typika.beatitudes.v02.text = "Μακάριοι οἱ πενθοῦντες, ὅτι αὐτοὶ παρακληθήσονται."
-goLI.typika.beatitudes.v03.text = "Μακάριοι οἱ πρᾳεῖς, ὅτι αὐτοὶ κληρονομήσουσι τὴν γῆν."
-goLI.typika.beatitudes.v04.text = "Μακάριοι οἱ πεινῶντες καὶ διψῶντες τὴν δικαιοσύνην, ὅτι αὐτοὶ χορτασθήσονται."
-goLI.typika.beatitudes.v05.text = "Μακάριοι οἱ ἐλεήμονες, ὅτι αὐτοὶ ἐλεηθήσονται."
-goLI.typika.beatitudes.v06.text = "Μακάριοι οἱ καθαροὶ τῇ καρδίᾳ, ὅτι αὐτοὶ τὸν Θεὸν ὄψονται."
-goLI.typika.beatitudes.v07.text = "Μακάριοι οἱ εἰρηνοποιοί, ὅτι αὐτοὶ Υἱοὶ Θεοῦ κληθήσονται."
-goLI.typika.beatitudes.v08.text = "Μακάριοι οἱ δεδιωγμένοι ἕνεκεν δικαιοσύνης, ὅτι αὐτῶν ἐστιν ἡ Βασιλεία τῶν οὐρανῶν."
-goLI.typika.beatitudes.v09.text = "Μακάριοι ἐστὲ ὅταν ὀνειδίσωσιν ὑμᾶς, καὶ διώξωσι, καὶ εἴπωσι πᾶν πονηρὸν ῥῆμα καθʼ ὑμῶν, ψευδόμενοι ἕνεκεν ἐμοῦ."
-goLI.typika.beatitudes.v10.text = "Χαίρετε καὶ ἀγαλλιᾶσθε, ὅτι ὁ μισθὸς ὑμῶν πολὺς ἐν τοῖς οὐρανοῖς."
-goLI.typika.beatitudes.refrain1.text = "Μνήσθητι ἡμῶν Κύριε, ὅταν ἔλθῃς ἐν τῇ Βασιλείᾳ σου."
-goLI.typika.beatitudes.refrain2.text = "Μνήσθητι ἡμῶν Δέσποτα, ὅταν ἔλθῃς ἐν τῇ Βασιλείᾳ σου."
-goLI.typika.beatitudes.refrain3.text = "Μνήσθητι ἡμῶν Ἅγιε, ὅταν ἔλθῃς ἐν τῇ Βασιλείᾳ σου."
+goLI.typika.beatitudes.info = properties_gr_GR_cog.deprecated.key
+goLI.typika.beatitudes.intro.text = properties_gr_GR_cog.deprecated.key
+goLI.typika.beatitudes.v01.text = properties_gr_GR_cog.deprecated.key
+goLI.typika.beatitudes.v02.text = properties_gr_GR_cog.deprecated.key
+goLI.typika.beatitudes.v03.text = properties_gr_GR_cog.deprecated.key
+goLI.typika.beatitudes.v04.text = properties_gr_GR_cog.deprecated.key
+goLI.typika.beatitudes.v05.text = properties_gr_GR_cog.deprecated.key
+goLI.typika.beatitudes.v06.text = properties_gr_GR_cog.deprecated.key
+goLI.typika.beatitudes.v07.text = properties_gr_GR_cog.deprecated.key
+goLI.typika.beatitudes.v08.text = properties_gr_GR_cog.deprecated.key
+goLI.typika.beatitudes.v09.text = properties_gr_GR_cog.deprecated.key
+goLI.typika.beatitudes.v10.text = properties_gr_GR_cog.deprecated.key
+goLI.typika.beatitudes.refrain1.text = properties_gr_GR_cog.deprecated.key
+goLI.typika.beatitudes.refrain2.text = properties_gr_GR_cog.deprecated.key
+goLI.typika.beatitudes.refrain3.text = properties_gr_GR_cog.deprecated.key
 
 //angels see Σύστημα Τυπικοῦ p. 130
 psLI.angels.antiphon1.v1.info = ""
@@ -1660,8 +1660,44 @@ psGC.lordofpowers.v6.text = "Αἰνεῖτε τὸν Θεὸν ἐν τοῖς 
 psGC.lordofpowers.v7.info = ps_gr_GR_cog.psa150.v1.number
 psGC.lordofpowers.v7.text = "Αἰνεῖτε αὐτὸν ἐν στερεώματι τῆς δυνάμεως αὐτοῦ."
 
-//Selected Psalm Verses for Polyeleos and Communion Hymns
+psLIPR.kairos.entry.v1.info = ps_gr_GR_cog.psa5.v8.number
+psLIPR.kairos.entry.v1.text = "Εἰσελεύσομαι εἰς τὸν οἶκόν σου, προσκυνήσω πρὸς ναὸν ἅγιόν σου ἐν φόβῳ σου."
 
+psLIPR.vesting.epimanikion_left.v1.info = ps_gr_GR_cog.psa118.v73.number
+psLIPR.vesting.epimanikion_left.v1.text = "Αἱ χεῖρές σου ἐποίησάν με καὶ ἔπλασάν με· συνέτισόν με καὶ μαθήσομαι τὰς ἐντολάς σου."
+psLIPR.vesting.epitrachilion.v2.info = ps_gr_GR_cog.psa132.v2.number
+psLIPR.vesting.epitrachilion.v2.text = "ὡς μύρον ἐπὶ κεφαλῆς τὸ καταβαῖνον ἐπὶ πώγωνα, τὸν πώγωνα τοῦ Ἀαρών, τὸ καταβαῖνον ἐπὶ τὴν ᾤαν τοῦ ἐνδύματος αὐτοῦ."
+psLIPR.vesting.zone.v1.info = ps_gr_GR_cog.psa17.v33.number
+psLIPR.vesting.zone.v1.text = "Εὐλογητὸς ὁ Θεός, ὁ περιζωννύων με δύναμιν καὶ ἔθετο ἄμωμον τὴν ὁδόν μου."
+psLIPR.vesting.epigonation.v1.info = ps_gr_GR_cog.psa44.v4.number
+psLIPR.vesting.epigonation.v1.text = "Περίζωσαι τὴν ῥομφαίαν σου ἐπὶ τὸν μηρόν σου, δυνατέ, τῇ ὡραιότητί σου καὶ τῷ κάλλει σου· καὶ ἔντεινε καὶ κατευοδοῦ καὶ βασίλευε, ἕνεκεν ἀληθείας καὶ πρᾳότητος καὶ δικαιοσύνης· καὶ ὁδηγήσει σε θαυμαστῶς ἡ δεξιά σου."
+psLIPR.vesting.phelonion.v1.info = ps_gr_GR_cog.psa131.v9.number
+psLIPR.vesting.phelonion.v1.text = "Οἱ ἱερεῖς σου, Κύριε, ἐνδύσονται δικαιοσύνην καὶ οἱ ὅσιοί σου ἀγαλλιάσονται."
+psLIPR.vesting.sakkos.v1.info = ""
+psLIPR.vesting.sakkos.v1.text = ""
+psLIPR.vesting.omophorion.v1.info = ""
+psLIPR.vesting.omophorion.v1.text = ""
+psLIPR.vesting.miter.v1.info = ""
+psLIPR.vesting.miter.v1.text = ""
+psLIPR.vesting.washing.v1.info = ps_gr_GR_cog.psa25.v6.number
+psLIPR.vesting.washing.v1.text = "Νίψομαι ἐν ἀθῴοις τὰς χεῖράς μου, καὶ κυκλώσω τὸ θυσιαστήριόν σου, Κύριε, τοῦ ἀκοῦσαί με φωνῆς αἰνέσεώς σου καὶ διηγήσασθαι πάντα τὰ θαυμάσιά σου. Κύριε, ἠγάπησα εὐπρέπειαν οἴκου σου καὶ τόπον σκηνώματος δόξης σου. Μὴ συναπολέσῃς μετὰ ἀσεβῶν τὴν ψυχήν μου καὶ μετὰ ἀνδρῶν αἱμάτων τὴν ζωήν μου, ὧν ἐν χερσὶν ἀνομίαι, ἡ δεξιὰ αὐτῶν ἐπλήσθη δώρων· ἐγὼ δὲ ἐν ἀκακίᾳ μου ἐπορεύθην· λύτρωσαί με, Κύριε, καὶ ἐλέησόν με. Ὁ πούς μου ἔστη ἐν εὐθύτητι· ἐν ἐκκλησίαις εὐλογήσω σε, Κύριε."
+
+psLIPR.prothesis.v7.info = ps_gr_GR_cog.psa44.v10.number
+psLIPR.prothesis.v7.text = "Παρέστη ἡ βασίλισσα ἐκ δεξιῶν σου ἐν ἱματισμῷ διαχρύσῳ περιβεβλημένη, πεποικιλμένη."
+psLIPR.prothesis.v8.info = ps_gr_GR_cog.psa32.v6.number
+psLIPR.prothesis.v8.text = "Τῷ λόγῳ Κυρίου οἱ οὐρανοὶ ἐστερεώθησαν καὶ τῷ πνεύματι τοῦ στόματος αὐτοῦ πᾶσα ἡ δύναμις αὐτοῦ."
+psLIPR.prothesis.v9.info = ps_gr_GR_cog.psa92.v1.number
+psLIPR.prothesis.v9.text = "Ὁ Κύριος ἐβασίλευσεν, εὐπρέπειαν ἐνεδύσατο· ἐνεδύσατο Κύριος δύναμιν καὶ περιεζώσατο."
+psLIPR.prothesis.v10.info = ""
+psLIPR.prothesis.v10.text = ""
+
+psLIPR.preliminary.v2.info = ps_gr_GR_cog.psa50.v17.number
+psLIPR.preliminary.v2.text = "Κύριε, τὰ χείλη μου ἀνοίξεις καὶ τὸ στόμα μου ἀναγγελεῖ τὴν αἴνεσίν σου."
+psLIPR.preliminary.v3.info = ps_gr_GR_cog.psa118.v126.number
+psLIPR.preliminary.v3.text = "Καιρὸς τοῦ ποιῆσαι τῷ Κυρίῳ,"
+
+
+//Selected Psalm Verses for Polyeleos and Communion Hymns
 psHO.ecloge.angels.info = ""
 psHO.ecloge.angels.intro.text = "Ψαλλῶ σοι."
 psHO.ecloge.angels.v01.info = ps_gr_GR_cog.psa137.v1.number
